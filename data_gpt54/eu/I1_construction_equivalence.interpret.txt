@@ -1,0 +1,81 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **X [egia / gezurra / zuzena / okerra] da** | **Hori egia da.**; **Erantzuna okerra da.** | Direct match to attribution via copular predicate | None |
+| ADNOM | **[egiazko / benetako / gezurrezko / faltsu / fidagarri / sinesgarri] + N** | **egiazko istorioa**; **gezurrezko agiria** | Direct match to adnominal modification | None |
+| BECOME | **(no common expression identified)** | **(no common expression identified)** | **NO COMMON EXPRESSION - circumlocution required** | Morphosyntactic gap |
+| REVELATION | No dedicated revelation construction listed in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| CAUSATION (factual) | Lexical verbs **egiaztatu**, **zuzendu** | **Datuak egiaztatu dituzte.**; **Irakasleak testua zuzendu du.** | Expressed through lexical verification/correction verbs rather than a productive truth-causative construction; factual change is partly **SUBSTITUTED BY VERIFICATION** / correction | Partial; substitution pattern |
+| CAUSATION (character) | No dedicated construction listed | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| VERIFICATION | **X egiaztatu** | **Datuak egiaztatu dituzte.** | Directly attested as lexical verification | None |
+| DISCONFIRMATION | No dedicated disconfirmation construction listed; negative attribution available | **Hori ez da egia.**; **Albiste hori ez da benetakoa.** | **SUBSTITUTED BY NEGATION** | Morphosyntactic gap for dedicated operator |
+| NEGATION | **X ez da [egia / zuzena / benetakoa]** | **Hori ez da egia.**; **Albiste hori ez da benetakoa.** | Direct match; analytic negation with **ez** before copula | None |
+| NOMINALIZATION | **Adj/verb base + abstract noun suffix: -tasun, -pen, -tze**; agentive noun / light-verb expression | **egiazkotasuna**; **zuzentasuna**; **gezurti**; **egia esan** | Abstract nominalization directly attested; agentive domain asymmetric, with noun for liar but verbal expression for truth-telling | Partial lexical asymmetry |
+
+## 2. Substitution Patterns (Narrative)
+
+Basque, as represented in P4a/P4b, shows a strong preference for direct copular attribution and analytic negation in the truth domain.
+
+For **ATTR**, the language uses a straightforward copular pattern: **X [egia / gezurra / zuzena / okerra] da**. This is fully attested and central.
+
+For **NEGATION**, the language uses analytic negation with **ez** before the copula: **X ez da [egia / zuzena / benetakoa]**. P4a explicitly notes that Basque often prefers simple copular negation rather than a special antonym construction. So negation is descriptively **analytic**, not morphological.
+
+For **ADNOM**, the language has a clear prenominal modifier construction: **[egiazko / benetako / gezurrezko / faltsu / fidagarri / sinesgarri] + N**. These multi-word and derived forms behave syntactically as adjectives modifying nouns.
+
+For **BECOME**, P4a/P4b explicitly state that no common expression was securely identified. Therefore there is no attested dedicated inchoative construction here. Since no revelation construction is provided either, **REVELATION does not substitute for BECOME in the supplied material**. Both are absent from the present evidence.
+
+For **CAUSATION (factual)**, the dataset does not show a productive causative built from the attribution pattern. Instead, it uses lexical verbs such as **egiaztatu** ‘verify’ and **zuzendu** ‘correct’. Descriptively, this means factual causation is not represented by a dedicated truth-causative construction, but by lexical operations of verification and correction. In that sense, **VERIFICATION partly substitutes for CAUSATION (factual)** in the available material.
+
+For **VERIFICATION**, **egiaztatu** is directly attested and behaves as a lexical verb. It is not a light-verb construction.
+
+For **DISCONFIRMATION**, no dedicated construction is listed. The available way to reject truth is through **NEGATION**: **Hori ez da egia.** / **Albiste hori ez da benetakoa.** Therefore **DISCONFIRMATION is substituted by NEGATION** in the supplied material. VERIFICATION and DISCONFIRMATION do **not** share the same construction in the dataset: verification uses lexical **egiaztatu**, while disconfirmation is expressed by analytic negation.
+
+For **NOMINALIZATION**, abstract nominalization is well supported by derivational morphology: **-tasun**, **-pen**, **-tze**. This is a direct morphological resource. Agentive nominalization is asymmetric: **gezurti** is a lexical noun for ‘liar’, but no equally secure noun for ‘truth-teller’ is established. Instead, Basque uses the light-verb expression **egia esan** ‘tell the truth’. So there is a **lexical gap** in the parallel agent noun, but not a total conceptual gap in expressing truth-telling.
+
+The truth/lie expressions **egia esan** and **gezurra esan** are normalized as **light-verb constructions**: the semantic core is carried by the noun (**egia**, **gezurra**), while **esan** functions as the verbal carrier. In **Egia esan, nekatuta nago.**, the expression functions pragmatically as a discourse-marking adverbial expression rather than a simple literal predicate.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **BECOME**: **NO COMMON EXPRESSION - circumlocution required**
+- **REVELATION**: **MISSING (structural gap)**
+- **CAUSATION (character)**: **MISSING (structural gap)**
+- **DISCONFIRMATION** as a dedicated operator: **SUBSTITUTED BY NEGATION**
+
+### Lexical Gaps
+- No securely established lexicalized noun for **“truth-teller”** in parallel to **gezurti**.
+- P4a/P4b support **gezurti** but only the light-verb expression **egia esan** for truth-telling.
+
+### Conceptual Gaps
+- No conceptual gap is directly established for truth, falsity, verification, negation, or nominalization, since these meanings are expressible.
+- No dedicated conceptual operation for **BECOME** is established in the supplied material.
+- No dedicated conceptual operation for **REVELATION** is established in the supplied material.
+
+### Asymmetric Gaps
+- **Positive/negative asymmetry**: negative truth assessment is clearly available via **ez da**, but no corresponding dedicated **BECOME** construction is attested for either positive or negative change.
+- **Agentive asymmetry**: **gezurti** exists for ‘liar’, but no equally secure lexical noun for ‘truth-teller’ is attested.
+- **Verification/disconfirmation asymmetry**: verification has lexical **egiaztatu**, while disconfirmation lacks a dedicated operator and is expressed through negation.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **VERIFICATION**
+- **NEGATION**
+- **NOMINALIZATION** (abstract nominalization clearly available)
+
+### Available with substitution
+- **CAUSATION (factual)** — available through lexical **egiaztatu** / **zuzendu**, not through a productive truth-causative construction; partly **substituted by VERIFICATION** and correction verbs
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION**
+- Agentive part of **NOMINALIZATION** — asymmetric: **gezurti** attested, but truth-teller meaning expressed by light-verb **egia esan**
+
+### Partially available
+- **CAUSATION (factual)** — only via lexical verbs, not as a dedicated construction
+- **NOMINALIZATION** — fully available for abstract nouns, only partially symmetrical for agent nouns
+
+### Missing entirely
+- **BECOME** — **NO COMMON EXPRESSION - circumlocution required**
+- **REVELATION** — **MISSING (structural gap)**
+- **CAUSATION (character)** — **MISSING (structural gap)**

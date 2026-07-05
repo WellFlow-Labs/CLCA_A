@@ -1,0 +1,109 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Quechua (Southern: Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a §1: Evaluative adjective + noun, prenominal, no copula. Also agentive *-q* form in some attributive positions (P4a §7). | *cheqa qelqa* 'authentic document'; *llulla simi* 'false word' | Direct mapping. Two surface variants: bare adjective (*cheqa*) and agentive nominalization used attributively (*cheqaq*). Both [CORE]. | None |
+| **ADNOM** | P4a §3: Participial form (*-sqa*, *-q*) prenominal; possessive nominalization (*X + kay + possessive suffix*) adnominal. | *cheqanchasqa qelqa* 'verified document'; *cheqa kaynin* 'its true nature' | Direct mapping. Two sub-types: participial modifier [CORE] and possessive nominalization [MARGINAL, register-restricted]. | None for participial sub-type. Possessive nominalization sub-type is register-restricted (philosophical/religious only). |
+| **BECOME** | P4a §4: Evaluative adjective + *-ka-* (intransitive verbalizer) + *-y*. | *cheqakay* 'to become true'; *allinkay* 'to become good / to recover' | Direct mapping. Productive for *cheqa*, *allin*, *sumaq*. | Lexical gap: no *-ka-* inchoative attested for *llulla* (preserved as reported gap). |
+| **REVELATION** | Not attested in P4a or P4b. | — | **MISSING (structural gap)** | Structural gap: no construction expressing 'it turns out to be true / it is revealed to be X' is documented. The evidential system (P4a §8) marks source of knowledge but does not encode a revelation event as such. |
+| **CAUSATION (factual)** | P4a §5: Evaluative adjective + *-ncha-* (causative verbalizer) + *-y*. | *cheqanchay* 'to verify / to confirm / to make true / to correct' | Direct mapping. The *-ncha-* pathway applies to adjectival roots and yields transitive verbs of making or establishing a state. [CORE]. | None |
+| **CAUSATION (character)** | P4a §5: Verbal root + *-chi-* (causative) + *-y*. | *pantachiy* 'to mislead / to cause someone to err'; *llullachiy* 'to cause to lie' | Direct mapping. The *-chi-* pathway applies to verbal roots and yields verbs of causing an action or disposition in another person. [CORE]. | None |
+| **VERIFICATION** | P4a §5 (*-ncha-*) and P4a §9 (*-ncha-ku-*). | *cheqanchay* 'to verify / to confirm'; *cheqanchakuy* 'to verify for oneself / to assure oneself of the truth' | Direct mapping. Two variants distinguished by directionality: externally directed (*cheqanchay*) vs. self-directed (*cheqanchakuy*). Both [CORE]. | None |
+| **DISCONFIRMATION** | Not attested as a dedicated construction in P4a or P4b. | — | **SUBSTITUTED BY NEGATION + PROPOSITIONAL KNOWLEDGE**: *pantasqa kasqanta mana yachanichu* 'I did not know that it was wrong' (P4a §10) expresses ignorance of an error, not active disconfirmation. Negative attribution (*mana cheqa qelqa*, P4a §2) denies a property but does not encode a disconfirmation event. | Structural gap: no single construction encoding 'to find/show X to be false / to disprove X' is documented. The closest attested forms are negative attribution and negated propositional knowledge, which are functionally distinct from disconfirmation. |
+| **NEGATION** | P4a §2: *mana* + adjective + noun (prenominal, no *-chu*); *mana* + predicate + *-chu* (predicative, *-chu* obligatory). | *mana cheqa qelqa* 'inauthentic document'; *mana allinchu* 'it is not good' | Direct mapping. Negation is **analytic** (free negator *mana*) with an obligatory morphological component (*-chu*) in predicative position. The two sub-types (prenominal vs. predicative) are structurally distinct. Both [CORE]. | None |
+| **NOMINALIZATION** | P4a §6: Evaluative adjective + *kay* → abstract nominal. P4a §7: Verbal base + *-q* → agentive nominal. P4a §10: Predicate + *kasqanta* → nominalized subordinate clause (accusative). | *cheqa kay* 'truth / the state of being true'; *llullaq* 'liar'; *cheqa kasqanta yachani* 'I know that it is true' | Direct mapping. Three distinct nominalization sub-types: abstract (*kay*), agentive (*-q*), and propositional (*kasqanta*). All [CORE]. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+The BECOME operator is directly and productively expressed via the *-ka-* inchoative (*cheqakay*, *allinkay*). No REVELATION construction is attested in the inventory. The evidential system (P4a §8) marks the epistemic source of a claim — whether the speaker knows something directly (*-m/-mi*), by report (*-s/-si*), or by inference (*-chá*) — but this is a grammatical marking of knowledge source, not a construction encoding a revelation event (i.e., 'it turns out that X is true', 'X is discovered to be the case'). The conjectural evidential *-chá* (*cheqachá* 'it is probably true') approaches inferential territory but encodes the speaker's uncertainty, not the coming-to-light of a fact. There is no evidence in P4a or P4b that REVELATION substitutes for BECOME or vice versa; they occupy distinct functional positions, and REVELATION is simply absent from the attested inventory.
+
+### 2.2 VERIFICATION and CAUSATION (factual)
+
+VERIFICATION and CAUSATION (factual) share the same morphological base: the *-ncha-* causative verbalizer applied to an adjectival root. The form *cheqanchay* is glossed in P4a as both 'to verify / to confirm' (VERIFICATION reading) and 'to make true / to correct' (CAUSATION factual reading). These two readings are not distinguished by separate constructions; they are both expressed by the same form. The reflexive extension *cheqanchakuy* (P4a §9) adds a self-directed nuance but does not separate the VERIFICATION and CAUSATION readings — it simply shifts the directionality of the same base operation. In this inventory, VERIFICATION and CAUSATION (factual) **share the same construction** (*-ncha-* base), with contextual interpretation determining which reading is primary.
+
+### 2.3 DISCONFIRMATION
+
+No dedicated DISCONFIRMATION construction is attested. The inventory provides two constructions that approach this functional space without filling it:
+
+- **Negative attribution** (*mana cheqa qelqa*, P4a §2): denies that a noun has a property, but does not encode an event of showing or finding something to be false.
+- **Negated propositional knowledge** (*pantasqa kasqanta mana yachanichu*, P4a §10): expresses ignorance of an error, which is the inverse of knowing something to be wrong, not an act of disconfirmation.
+
+Neither construction encodes the event structure of DISCONFIRMATION (an agent actively establishing or demonstrating that a claim is false). If DISCONFIRMATION is to be expressed, the available resources would require circumlocution combining negation and causative or knowledge constructions, but no such circumlocution is attested in the inventory. This is treated here as a structural gap rather than a lexical one, because no construction type — not merely no word — is documented for this operator.
+
+### 2.4 Asymmetries: Truth vs. Falsity
+
+Several asymmetries between the *cheqa* (truth/genuine) and *llulla* (false/lying) sides of the evaluative domain are preserved in the data:
+
+- **Inchoative gap**: *cheqakay* and *allinkay* are attested; no *-ka-* inchoative is documented for *llulla*. This is a lexical gap on the falsity side of the inchoative paradigm.
+- **Causative pathway asymmetry**: *cheqa* uses *-ncha-* (*cheqanchay*); *llulla* uses *-chi-* (*llullachiy*). This reflects a morphological asymmetry: *cheqa* is treated as an adjectival root taking the adjectival causative verbalizer, while *llulla* is treated as a verbal root taking the verbal causative. The asymmetry is attested and preserved, not inferred.
+- **Reflexive extension**: *cheqanchakuy* and *allinchakuy* are attested; no reflexive form built on *llulla* is documented.
+- **Agentive nominalization**: *llullaq* 'liar' is attested directly; the corresponding truth-side agentive *cheqaq* is attested but functions primarily as an attributive adjective ('truthful / genuine') rather than as a person-denoting nominal in the same way.
+
+### 2.5 Negation: Analytic vs. Morphological
+
+Negation in this inventory is **analytic at the lexical level** (the free negator *mana* precedes the negated element) and **morphological at the clausal level** (the enclitic *-chu* is obligatorily suffixed to the predicate in negative declarative clauses). The two components are not alternatives; they co-occur in predicative negation. In prenominal attributive position, *mana* appears alone without *-chu*. This means negation is neither purely analytic nor purely morphological: it is a hybrid system with positional conditioning.
+
+### 2.6 Evidential Marking as a Cross-Cutting Layer
+
+The evidential system (P4a §8) does not substitute for any of the CLCA operators listed above, but it cross-cuts all of them. Every truth-evaluation predicate in the inventory can receive an evidential enclitic (*-m/-mi*, *-s/-si*, *-chá*), and this marking is grammatically obligatory. This means that any use of ATTR, BECOME, CAUSATION, VERIFICATION, NOMINALIZATION, or NEGATION constructions in a predicative context will also carry evidential specification. The evidential layer is structurally distinct from the construction types and is not mapped to any single CLCA operator; it is a grammatical overlay on the entire system.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+*(Missing construction types — no construction of the relevant type is attested)*
+
+- **REVELATION**: No construction encoding 'it turns out to be X / it is revealed to be X' is documented. The evidential system marks knowledge source but does not encode revelation as an event. **MISSING (structural gap).**
+- **DISCONFIRMATION**: No construction encoding 'to show / find / demonstrate X to be false' is documented. Negative attribution and negated propositional knowledge are attested but are functionally distinct from disconfirmation. **MISSING (structural gap).**
+
+### 3.2 Lexical Gaps
+*(Missing words or roots within an otherwise present construction type)*
+
+- **Inchoative of *llulla***: The *-ka-* inchoative construction is productive for *cheqa*, *allin*, and *sumaq*, but no *-ka-* form is attested for *llulla*. The construction type (BECOME) exists; the specific lexical instantiation for the falsity root is absent. **Lexical gap within BECOME.**
+
+### 3.3 Conceptual Gaps
+*(Operations that appear to be blocked or unattested across the whole system)*
+
+- No conceptual gaps are identifiable from the data as presented. All major evaluative roots participate in most construction types, and the gaps noted above are either structural (missing construction type) or lexical (missing root-specific instantiation). No evidence is present in P4a or P4b that any operation is conceptually blocked for principled reasons beyond what is already noted.
+
+### 3.4 Asymmetric Gaps
+*(Cases where only the positive or only the negative/falsity form is missing)*
+
+| Construction | Truth/Positive Side | Falsity/Negative Side | Asymmetry |
+|---|---|---|---|
+| BECOME (*-ka-*) | *cheqakay*, *allinkay* attested [CORE] | No *llullakay* attested | Gap on falsity side only |
+| Causative verbalizer | *cheqanchay* (*-ncha-*) | *llullachiy* (*-chi-*) | Not a gap but a morphological asymmetry: different causative pathways for the two roots |
+| Reflexive (*-ncha-ku-*) | *cheqanchakuy*, *allinchakuy* attested | No reflexive form on *llulla* base attested | Gap on falsity side only |
+| Agentive nominalization (person-denoting) | *cheqaq* functions primarily as attributive adjective | *llullaq* 'liar' functions as person-denoting nominal | Functional asymmetry: same morphology, different primary use |
+| ADNOM possessive nominalization | *cheqa kaynin* attested [MARGINAL] | No *llulla kaynin* attested | Gap on falsity side (within a marginal construction) |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two surface variants (bare adjective; agentive *-q* form); both [CORE]; no restrictions. |
+| **ADNOM** | **Fully available** | Participial sub-type [CORE]; possessive nominalization sub-type [MARGINAL, register-restricted to philosophical/religious]. The participial sub-type alone is sufficient for full availability. |
+| **BECOME** | **Partially available** | [CORE] and productive for *cheqa*, *allin*, *sumaq*; lexical gap for *llulla* (no *-ka-* inchoative attested). |
+| **REVELATION** | **Missing entirely** | No construction of this type is attested. Evidential marking is present but does not fill this role. |
+| **CAUSATION (factual)** | **Fully available** | *-ncha-* causative verbalizer on adjectival roots; [CORE]; no restrictions noted. Shares surface form with VERIFICATION (see below). |
+| **CAUSATION (character)** | **Fully available** | *-chi-* causative on verbal roots; [CORE]; attested for *panta-* and *llulla-*. |
+| **VERIFICATION** | **Available with substitution** | Shares the *-ncha-* base with CAUSATION (factual); no dedicated VERIFICATION-only construction is attested. The reflexive extension (*-ncha-ku-*) adds self-directed nuance but does not resolve the overlap with CAUSATION (factual). Functionally available; structurally merged with CAUSATION (factual). |
+| **DISCONFIRMATION** | **Missing entirely** | No dedicated construction attested. Negative attribution and negated propositional knowledge are present but do not encode disconfirmation as an event. Circumlocution would be required; no attested circumlocution is documented. |
+| **NEGATION** | **Fully available** | Hybrid analytic-morphological system; positionally conditioned (*mana* alone prenominally; *mana … -chu* predicatively); both sub-types [CORE]. |
+| **NOMINALIZATION** | **Fully available** | Three distinct sub-types: abstract (*kay*), agentive (*-q*), propositional (*kasqanta*); all [CORE]. |
+
+---
+
+*All data, examples, ratings, and notes in this analysis are drawn exclusively from P4a and P4b as supplied. No forms, constructions, or interpretations have been introduced beyond what those outputs contain.*

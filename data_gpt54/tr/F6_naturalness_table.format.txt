@@ -1,0 +1,61 @@
+| Prompt # | Expression (Native Script) | Transliteration | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| 1 | X [truth-related adjective/noun] ol- | X [truth-related adjective/noun] ol- | [CORE] | En genel değişim kalıbı **olmak** ile kurulur. Bu alan içinde özellikle **doğru, gerçek, geçerli, güvenilir, inandırıcı, haklı, meşru, gerçekçi** gibi biçimlerle doğaldır. |
+| 2 | X [negative/opposed adjective] ol- | X [negative/opposed adjective] ol- | [CORE] | ve bazı sınırlı durumlarda **-leş-** |
+| 3 | -leş- | -leş- | [MARGINAL] | Karşıt duruma geçişte de temel kalıp yine **olmak**tır. Buna ek olarak, CONTEXT içinde açıkça tanıklanan sınırlı **-leş-** biçimleri vardır: özellikle **sahteleşmek**, ayrıca truth-domain’in kenarında **özgünleşmek**, **dürüstleşmek**. Ancak bunlar genel bir sistem değil, tek tek sözcüklere bağlıdır. |
+| 4 | X doğru çık- / haklı çık- / doğrulan- | X doğru çık- / haklı çık- / doğrulan- | [CORE] | Özellikle **doğru** ve **haklı** için **çıkmak** çok doğal bir kalıptır; aynı işlev her truth-term için eşit derecede doğal değildir. |
+| 5 | Y, X-i doğrula- | Y, X-i doğrula- | [CORE] | Bu alanda en açık ve yerleşik nedensel fiil **doğrulamak**tır. |
+| 6 | -leş-tir- | -leş-tir- | [MARGINAL] | Sınırlı olarak **-leş-tir-**; ayrıca bazı durumlarda yalnızca periphrastic ifade mümkündür. |
+| 7 | sahteleştirmek | sahteleştirmek | [MARGINAL] | Bu tür nedensel biçimler CONTEXT içinde tanıklıdır, ama genel ve nötr değildir. |
+| 8 | özgünleştirmek | özgünleştirmek | [MARGINAL] | Bu tür nedensel biçimler CONTEXT içinde tanıklıdır, ama genel ve nötr değildir. |
+| 9 | dürüstleştirmek | dürüstleştirmek | [MARGINAL] | Bu tür nedensel biçimler CONTEXT içinde tanıklıdır, ama genel ve nötr değildir. |
+| 10 | X gerçeğe uygun ol- / hakikatten uzak ol- / gerçekçi ol- | X gerçeğe uygun ol- / hakikatten uzak ol- / gerçekçi ol- | [CORE] | Burada değişim doğrudan tek sözcüklü bir sıfata geçişle değil, ilişkisel yapıyla da kodlanır. |
+| 11 | Y, gerçeği/hakikati söyle- / yansıt- / çarpıt- / gizle- | Y, gerçeği/hakikati söyle- / yansıt- / çarpıt- / gizle- | [CORE] | Bu grup “state change” değil, ama truth-domain’de çok merkezi bir dinamiktir. |
+| 12 | X inandırıcılık / meşruiyet / geçerlilik kazan- | X inandırıcılık / meşruiyet / geçerlilik kazan- | [CORE] | **X inandırıcılığını / meşruiyetini yitir-** ile birlikte kullanılır; bu yapı özellikle kurumsal, siyasal, eleştirel ve akademik bağlamlarda doğaldır. |
+| 13 | X inandırıcılığını / meşruiyetini yitir- | X inandırıcılığını / meşruiyetini yitir- | [CORE] | **X inandırıcılık / meşruiyet / geçerlilik kazan-** ile birlikte kullanılır; bu yapı özellikle kurumsal, siyasal, eleştirel ve akademik bağlamlarda doğaldır. |
+| 14 | X-in gerçek / doğruluk / hakikat payı ol- | X-in gerçek / doğruluk / hakikat payı ol- | [CORE] | Bu yapı tam bir “become” kalıbı değildir; ama truth-evaluation’ın dereceli ve dinamik biçimde kurulmasını sağlar. |
+| 15 | doğru olmak | doğru olmak | [CORE] | Doğal dinamikler: **doğru olmak, doğru çıkmak, doğrulanmak, doğrulamak** — çok güçlü ve üretken bir kümedir. |
+| 16 | doğru çıkmak | doğru çıkmak | [CORE] | Doğal dinamikler: **doğru olmak, doğru çıkmak, doğrulanmak, doğrulamak** — çok güçlü ve üretken bir kümedir. |
+| 17 | doğrulanmak | doğrulanmak | [CORE] | Doğal dinamikler: **doğru olmak, doğru çıkmak, doğrulanmak, doğrulamak** — çok güçlü ve üretken bir kümedir. |
+| 18 | doğrulamak | doğrulamak | [CORE] | Doğal dinamikler: **doğru olmak, doğru çıkmak, doğrulanmak, doğrulamak** — çok güçlü ve üretken bir kümedir. |
+| 19 | gerçek olmak | gerçek olmak | [CORE] | Ayrıca ilişkisel yapılar: **gerçeğe uygun olmak**, **gerçeği yansıtmak**, **gerçeği çarpıtmak**. |
+| 20 | gerçeğe uygun olmak | gerçeğe uygun olmak | [CORE] | Ayrıca ilişkisel yapılar: **gerçeğe uygun olmak**, **gerçeği yansıtmak**, **gerçeği çarpıtmak**. |
+| 21 | gerçeği yansıtmak | gerçeği yansıtmak | [CORE] | Ayrıca ilişkisel yapılar: **gerçeğe uygun olmak**, **gerçeği yansıtmak**, **gerçeği çarpıtmak**. |
+| 22 | gerçeği çarpıtmak | gerçeği çarpıtmak | [CORE] | Ayrıca ilişkisel yapılar: **gerçeğe uygun olmak**, **gerçeği yansıtmak**, **gerçeği çarpıtmak**. |
+| 23 | hakikati söylemek | hakikati söylemek | [CORE] | Doğal dinamikler daha çok fiilli yapılarda görünür. |
+| 24 | hakikati gizlemek | hakikati gizlemek | [CORE] | Doğal dinamikler daha çok fiilli yapılarda görünür. |
+| 25 | hakikati çarpıtmak | hakikati çarpıtmak | [CORE] | Doğal dinamikler daha çok fiilli yapılarda görünür. |
+| 26 | hakikatten uzak olmak | hakikatten uzak olmak | [CORE] | Ayrıca: **hakikatten uzak olmak**, **hakikate uygun olmak**. |
+| 27 | hakikate uygun olmak | hakikate uygun olmak | [CORE] | Ayrıca: **hakikatten uzak olmak**, **hakikate uygun olmak**. |
+| 28 | haklı olmak | haklı olmak | [CORE] | Doğal dinamikler: **haklı olmak, haklı çıkmak**. |
+| 29 | haklı çıkmak | haklı çıkmak | [CORE] | Doğal dinamikler: **haklı olmak, haklı çıkmak**. |
+| 30 | haksız olmak | haksız olmak | [CORE] | Karşıtı. |
+| 31 | geçerli olmak | geçerli olmak | [CORE] | Doğal dinamikler: **geçerli olmak, geçersiz olmak**. |
+| 32 | geçersiz olmak | geçersiz olmak | [CORE] | Doğal dinamikler: **geçerli olmak, geçersiz olmak**. |
+| 33 | geçerlilik kazanmak | geçerlilik kazanmak | [CORE] | Soyut değişim. |
+| 34 | güvenilir olmak | güvenilir olmak | [CORE] | Doğal dinamik. |
+| 35 | güvenilirlik | güvenilirlik | [CORE] | Soyut ad. |
+| 36 | inandırıcı olmak | inandırıcı olmak | [CORE] | Doğal dinamikler: **inandırıcı olmak**, **daha inandırıcı olmak**. |
+| 37 | daha inandırıcı olmak | daha inandırıcı olmak | [CORE] | Doğal dinamikler: **inandırıcı olmak**, **daha inandırıcı olmak**. |
+| 38 | inandırıcılık kazanmak | inandırıcılık kazanmak | [CORE] | Soyut adla değişim: **inandırıcılık kazanmak / yitirmek**. |
+| 39 | inandırıcılık yitirmek | inandırıcılık yitirmek | [CORE] | Soyut adla değişim: **inandırıcılık kazanmak / yitirmek**. |
+| 40 | meşru olmak | meşru olmak | [CORE] | Doğal dinamik. |
+| 41 | meşruiyet kazanmak | meşruiyet kazanmak | [CORE] | Soyut adla değişim: **meşruiyet kazanmak / yitirmek**. |
+| 42 | meşruiyet yitirmek | meşruiyet yitirmek | [CORE] | Soyut adla değişim: **meşruiyet kazanmak / yitirmek**. |
+| 43 | sahteleşmek | sahteleşmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 44 | sahteleştirmek | sahteleştirmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 45 | özgünleşmek | özgünleşmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 46 | özgünleştirmek | özgünleştirmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 47 | dürüstleşmek | dürüstleşmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 48 | dürüstleştirmek | dürüstleştirmek | [MARGINAL] | **sahte / sahici / özgün / dürüst** altında verilen sınırlı değişim/causation kalıpları. |
+| 49 | sahici olmak | sahici olmak | [CORE] | **sahici** için CONTEXT’te açık bir değişim/causation kalıbı verilmemiştir; en güvenli ifade **sahici olmak** çizgisidir. |
+| 50 | Y causes X to be güvenilir | Y causes X to be güvenilir | no common expression identified | CONTEXT içinde açık ve yerleşik dinamik/causative ifade güvenle desteklenmiyor. |
+| 51 | Y causes X to be geçerli | Y causes X to be geçerli | no common expression identified | CONTEXT içinde açık ve yerleşik dinamik/causative ifade güvenle desteklenmiyor. |
+| 52 | Y causes X to be haklı | Y causes X to be haklı | no common expression identified | CONTEXT içinde açık ve yerleşik dinamik/causative ifade güvenle desteklenmiyor. |
+| 53 | Y causes X to be meşru | Y causes X to be meşru | no common expression identified | CONTEXT içinde açık ve yerleşik dinamik/causative ifade güvenle desteklenmiyor. |
+| 54 | Y causes X to be sahici | Y causes X to be sahici | no common expression identified | CONTEXT içinde açık ve yerleşik dinamik/causative ifade güvenle desteklenmiyor. |
+| 55 | olmak | olmak | [CORE] | En merkezi stratejilerden biri. |
+| 56 | çıkmak | çıkmak | [CORE] | En merkezi stratejilerden biri. |
+| 57 | doğrulamak / doğrulanmak | doğrulamak / doğrulanmak | [CORE] | En merkezi stratejilerden biri. |
+| 58 | kazanmak / yitirmek | kazanmak / yitirmek | [CORE] | En merkezi stratejilerden biri. |
+| 59 | gerçeği/hakikati + fiil | gerçeği/hakikati + fiil | [CORE] | En merkezi stratejilerden biri. |

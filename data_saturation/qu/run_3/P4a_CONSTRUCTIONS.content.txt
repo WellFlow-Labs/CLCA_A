@@ -1,0 +1,143 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Predicate-nominal or predicate-adjectival construction: [Subject NP] + [predicate: cheqa / llulla / chiqan / allin] + evidential clitic *-mi/-m*. The predicate precedes or follows the subject; the evidential clitic attaches to the predicate. No copula is required.
+
+### Examples
+- `Cheqam kay.` → cheqa-m kay → "This is true."
+- `Llullam chay.` → llulla-m chay → "That is a lie / That is false."
+
+### Notes
+The direct evidential clitic *-mi/-m* is obligatory in assertive contexts; its attachment to the predicate signals that the speaker has direct knowledge of the truth of the assertion. The construction is attested for *cheqa*, *cheqaq*, *llulla*, *chiqan*, *allin*, *sut'i*, and *kikin*.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+*Mana* (negator) + predicate + negative polarity clitic *-chu*: `Mana [predicate]-chu`. The negator precedes the predicate and *-chu* attaches to it. The evidential clitic may be absent in negative constructions or may attach to *mana*.
+
+### Examples
+- `Mana cheqachu.` → mana cheqa-chu → "It is not true. / That is not the case."
+- `Mana chiqanmi chay ruway.` → mana chiqan-mi chay ruway → "That action is not right/just."
+
+### Notes
+The *mana … -chu* frame is the standard negation pattern in Southern Quechua. Negative attribution of truth-domain predicates follows the same structural pattern as general predicate negation; no special construction is required.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Modifier-head order (head-final): [truth-domain adjective] + [head noun]. The modifier precedes the noun with no agreement morphology. The evidential clitic attaches to the predicate of the larger clause, not to the modifier within the NP.
+
+### Examples
+- `Cheqaq runám pay.` → cheqaq runa-m pay → "He/she is an honest person." (lit. "truthful person-EVID he/she")
+- `Llulla qelqam chay.` → llulla qelqa-m chay → "That is a false document / forged writing."
+
+### Notes
+Quechua adjectival modifiers are prenominal and uninflected for agreement. The same forms (*cheqaq*, *llulla*, *chiqan*) function both as standalone predicates (§1) and as prenominal modifiers; context and clause structure distinguish the two uses.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[truth-domain adjective] + *tukuy* ("to become, to turn into"): [adjective] + tukuy. The adjective precedes the verb *tukuy*, which carries tense and person inflection.
+
+### Examples
+- `Chiqan tukun.` → chiqan tuku-n → "He/she/it becomes correct / becomes just."
+- `Cheqaq tukun.` → cheqaq tuku-n → "He/she becomes truthful / turns out to be genuine."
+
+### Notes
+*Tukuy* is the general inchoative/transformative verb in Quechua. Both examples are marked [UNCERTAIN] in prior steps, reflecting limited specific attestation; the construction is structurally regular and follows the general *[adjective] + tukuy* pattern attested across the language.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Two causative strategies are attested:
+
+**(a) Morphological causative:** Root + *-chay* (causative verbalizing suffix), producing a derived verb meaning "to make [root]-true/correct" or "to cause to [root]":
+- *cheqaqchay* (cheqaq + *-chay*) — "to verify, to confirm, to prove true"
+- *chiqanchay* (chiqan + *-chay*) — "to correct, to rectify, to make right"
+- *llullachiy* (llulla + *-chiy*) — "to cause to lie, to deceive, to mislead"
+
+**(b) Periphrastic causative:** [verb] + *-chiy* applied to a verbal stem (standard Quechua causative morphology); not separately documented for truth-domain items beyond *llullachiy*.
+
+### Examples
+- `Kay pantasqata chiqanchay tiyan.` → kay pantasqa-ta chiqancha-y tiyan → "This mistake needs to be corrected." (lit. "this erroneous-ACC correct-INF exists/is-necessary")
+- `Llullachirqan payta.` → llullachiqa-n pay-ta → "He/she deceived him/her / caused him/her to believe a lie."
+
+### Notes
+The *-chay/-chiy* causative suffix is the primary morphological strategy. It applies directly to the adjectival/nominal root (*cheqaq*, *chiqan*, *llulla*) to produce a transitive verb. This is a productive morphological pattern in Southern Quechua, not a periphrastic construction.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Two strategies attested:
+
+**(a) Root used directly as a nominal:** *cheqa*, *llulla*, *chiqan* function as nouns without additional derivation ("truth," "a lie," "correctness").
+
+**(b) Nominalized clause with *-sqa* + possessive + case:** Embedded proposition nominalized via the past-participle nominalizer *-sqa* plus a possessive suffix, then case-marked. This is the standard strategy for nominalizing propositions in Quechua.
+
+### Examples
+- `Cheqaqta rimay allinmi.` → cheqaqta rimay allin-mi → "Speaking the truth is good." (bare infinitive nominalization)
+- `Llullakusqanmantam p'enqakun.` → llullakusqa-n-manta-m p'enqa-ku-n → "He/she is ashamed of having lied." (lit. "his/her-having-lied-ABL-EVID ashamed-REFL-3")
+
+### Notes
+Quechua has no single abstract-nominalization suffix parallel to English *-ness* or *-ity*. Abstract meanings ("truth," "falsehood") are expressed either by the bare root used nominally or by nominalized clauses. The *-sqa* + possessive + case construction is the productive strategy for nominalizing events or states for use as clause arguments.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Verbal or nominal stem + *-q* (agentive suffix): produces a nominal meaning "one who [verb]s" or "one who is [adjective]." For truth-domain items, two bases are attested: the adjectival root directly (*llulla + -q*) and the verbal stem (*llullakuy + -q*).
+
+### Examples
+- `Llullaqtam ama iñiychu.` → llullaq-ta-m ama iñiy-chu → "Do not believe a liar." (lit. "liar-ACC-EVID PROH believe-PROH")
+- `Cheqaqniyuqmi pay.` → cheqaqniyuq-mi pay → "He/she is a person of truthfulness / one who possesses honesty."
+
+### Notes
+*Llullaq* (llulla + *-q*) and *llullakuq* (llullakuy + *-q*) are near-synonymous agentive nominals for "liar"; the former derives from the adjectival root, the latter from the verbal stem. *Cheqaqniyuq* (cheqaq + *-niyuq*, "possessing") is the attested form for "truthful person" in the possessive-agentive pattern, rather than a bare *cheqaq + -q* form.
+
+---
+
+## 8. ADVERBIAL TRUTH ASSERTION (additional pattern)
+
+### Pattern
+*Cheqaqta* (cheqaq + accusative/adverbial *-ta*) functions as a pre-verbal adverb modifying a verb of speaking, knowing, or reporting: *cheqaqta* + [verb]. The evidential clitic *-mi* may attach to *cheqaqta* to yield *cheqaqtam*.
+
+### Examples
+- `Cheqaqta rimay.` → cheqaqta rimay → "Speak the truth." (imperative)
+- `Cheqaqtam yachani.` → cheqaqta-m yacha-ni → "I truly know. / I know for certain." (with direct evidential)
+
+### Notes
+This construction is specific to Quechua's evidential-adverbial system: the adverbial case *-ta* on *cheqaq* produces a manner adverb ("truly, in truth"), and the direct evidential clitic *-mi* can attach to it to add the speaker's epistemic commitment. The construction is widely attested in testimonial and legal discourse and has no direct parallel in the *llulla* paradigm.
+
+---
+
+## 9. PROHIBITIVE MORAL INJUNCTION (additional pattern)
+
+### Pattern
+*Ama* (prohibitive particle) + [nominal or verbal form] + *-chu* (prohibitive/negative clitic): `Ama [llulla/llullakuy]-chu`. The nominal form (*ama llulla*) omits *-chu*; the verbal form (*ama llullakuychu*) requires it.
+
+### Examples
+- `Ama llulla, ama suwa, ama qella.` → ama llulla, ama suwa, ama qella → "Do not lie, do not steal, do not be lazy." (the traditional Andean moral triad)
+- `Ama llullakuychu.` → ama llullakuy-chu → "Do not lie." (fuller verbal prohibitive)
+
+### Notes
+This construction is attested exclusively with *llulla* and *llullakuy* among truth-domain items; no parallel prohibitive is documented for *cheqa*, *chiqan*, or *allin* in available sources. The triadic formula (*ama suwa, ama llulla, ama qella*) is a fixed formulaic expression widely cited across Andean cultural and educational contexts.
+
+---
+
+*End of P4a Constructions — Quechua (qu)*

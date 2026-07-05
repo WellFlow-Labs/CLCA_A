@@ -1,0 +1,336 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Swahili (sw)
+
+---
+
+## Preliminary Note on Method
+
+This step documents how Swahili encodes dynamic truth-related meanings: becoming a truth-related state, causing a truth-related state, departing from or losing a truth-related state, and the stability or instability of truth-related states. All vocabulary is drawn from the CONTEXT (P1–P5). Where the CONTEXT documents a construction, it is included with its source noted. Where the CONTEXT provides no evidence for a dynamic expression involving a particular item, this is stated explicitly. Expressions are organized by semantic type, then by lexical item within each type. Morphological resources already documented in P2a (causative *-sha/-isha*, stative *-ka/-ika*, passive *-wa*) are the primary formal mechanisms; they are applied here to the specific truth-domain vocabulary and their distributional constraints are noted.
+
+---
+
+## SECTION 1: "X becomes [truth-related state]" (Inchoative / Resultant-State Expressions)
+
+### Pattern
+The primary morphological resource for inchoative meaning in this domain is the suffix *-ika/-eka* attached to a verb stem, producing an intransitive form meaning "to come to be in a state" without foregrounding an external agent. This pattern is documented in P4a (§4) and P4b. A secondary resource is the periphrastic construction *kuwa* (to become/be) + truth-domain nominal or adjective.
+
+---
+
+### 1.1 Becoming evident / coming to light
+
+**Primary construction:** *kudhihirika* (stative-intransitive *-ika* form)
+
+Base: *dhahiri* (evident) → *kudhihirika* (P2a Item 13, Derived Form 2)
+
+**Pattern:** Subject (*ukweli* / *uongo* / *udanganyifu* / *makosa*) + *-dhihirika* (conjugated)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ukweli ulidhihirika.* | Ukweli ulidhihirika. | "The truth became evident. / The truth came to light." | Source: P4a §4, P4b. [CORE] |
+| *Ukweli ulidhihirika baadaye.* | Ukweli ulidhihirika baadaye. | "The truth became evident later. / The truth came to light eventually." | The temporal adverb *baadaye* (later, eventually) is a natural collocate in narrative contexts where truth is revealed after a period of concealment. [CORE] |
+| *Ukweli ulidhihirika baada ya uchunguzi.* | Ukweli ulidhihirika baada ya uchunguzi. | "The truth became evident after the investigation." | Documented in P4a (§4) and P4b. The inchoative presents the emergence of evidence as self-occurring; no agent is foregrounded. Common in narrative and journalistic contexts. [CORE] |
+| *Makosa yalidhihirika haraka.* | Makosa yalidhihirika haraka. | "The errors became evident quickly." | The same inchoative form applied to *makosa* (errors) as subject; the errors are presented as revealing themselves. [CORE] |
+| *Udanganyifu wake ulidhihirika mwishowe.* | Udanganyifu wake ulidhihirika mwishowe. | "His/her deceptiveness became evident in the end." | *Udanganyifu* (deceptiveness) as subject; the inchoative presents the exposure of deception as an emergent process. [CORE] |
+| *Uongo wake ulidhihirika.* | Uongo wake ulidhihirika. | "His/her lie was exposed / became evident." | [CORE] |
+
+**Contrast with passive:** *Ukweli ulidhihirishwa* (the truth was demonstrated/revealed — by an agent) vs. *ukweli ulidhihirika* (the truth became evident — no agent foregrounded). The inchoative/passive distinction documented in P4b (Opposition 14 in P5) applies here.
+
+**Notes:** *Kudhihirika* is the primary and most natural expression for truth transitioning from a hidden or unknown state to an evident one. The *-ika* suffix derives an agentless inchoative from the causative base *kudhihirisha* (to make evident). The subject is the truth-related nominal; no agent is expressed. This construction is fully lexicalized and common in narrative, journalistic, and formal registers. It applies naturally to *ukweli*, *uongo*, and *udanganyifu* as subjects.
+
+---
+
+### 1.2 Truth / factual status becoming known
+
+**Secondary form:** *ukweli unajulikana* (present of *kujulikana*, stative of *kujua*, "to be known")
+
+**Pattern:** *ukweli* + *u-na-julikana* (present stative)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ukweli unajulikana.* | Ukweli unajulikana. | "The truth is known / comes out." | Documented in P1b as a core expression. [CORE] |
+| *Ukweli utajulikana hatimaye.* | Ukweli utajulikana hatimaye. | "The truth will become known eventually." | The future tense (*uta-*) is a natural extension of the pattern and is consistent with the proverbial constructions in P2b asserting the inevitable disclosure of truth. [CORE] |
+
+---
+
+### 1.3 Truth as having been revealed (resultant passive)
+
+**Tertiary form:** *ukweli ulifunuliwa* (passive of *kufunua*, "to reveal")
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ukweli uliofunuliwa* | Ukweli uliofunuliwa | "Revealed truth / truth that has been disclosed" | Documented in P1b as a core expression. The passive *-liwa* suffix encodes the resultant state of having been revealed; it implies an external agent (unlike *kudhihirika*). [CORE] |
+
+---
+
+### 1.4 Becoming deceived / entering a state of deception
+
+**Primary construction:** *kudanganyika* (stative-potential of *kudanganya*)
+
+Base: *danganya* (to deceive) → *kudanganyika* (P2a Item 22, Derived Form 2)
+
+**Pattern:** Subject (human) + *-danganyika* (conjugated)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Alidanganyika kwa urahisi.* | Alidanganyika kwa urahisi. | "He/she was easily taken in / became deceived." | Documented in P4a (§4) and P4b. Presents the subject as entering a state of deception without specifying an agent. [CORE] |
+| *Alidanganyika.* | Alidanganyika. | "He/she was deceived / fell for it." | [CORE] |
+| *Watu wengi walidanganyika na habari za uongo.* | Watu wengi walidanganyika na habari za uongo. | "Many people were taken in by false news." | Note: *na* here introduces the instrument/cause rather than a volitional agent; this is consistent with the inchoative reading. [CORE] |
+| *Watu wengi walidanganyika.* | Watu wengi walidanganyika. | "Many people were taken in / deceived." | [CORE] |
+
+**Contrast with passive:** *Alidanganywa na mtu* (he/she was deceived by a person — volitional agent) vs. *alidanganyika* (he/she was taken in — no volitional agent foregrounded). This contrast is explicitly documented in P4b and P5 (Opposition 14).
+
+**Notes:** The *-ika* suffix encodes susceptibility or unintended entry into a state, distinct from the agentive passive *-wa*. The subject is typically human. No parallel inchoative form is attested for *uongo* or *ulaghai* as bases.
+
+---
+
+### 1.5 Becoming trustworthy / credible
+
+**Primary form:** *kuaminika* (stative of *kuamini*, documented P2a)
+
+**Pattern:** Subject (human or proposition) + *-aminika* (conjugated)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Habari hii haiaminiki.* | Habari hii haiaminiki. | "This news is not credible." | Documented in P2a as [CORE]. |
+| *Yeye anaaminika.* | Yeye anaaminika. | "He/she is trustworthy / can be trusted." | [CORE] |
+
+**Notes:** *Kuaminika* describes the state of being in a condition of trustworthiness or credibility. It applies to both persons and propositions/reports. The negative form (*haiaminiki*, "is not credible") is particularly attested in P2a.
+
+---
+
+### 1.6 Evidence coming to be absent / missing
+
+**Primary form:** *kukosekana* (stative of *kosa*, documented P2a Item 9, Derived Form 4)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ushahidi unakosekana.* | Ushahidi unakosekana. | "Evidence is missing / Evidence is found to be absent." | The stative/inchoative form presents the absence of evidence as a discovered state. Used in legal and investigative contexts. P2a notes that the error/fault sense of *kosa* is largely absent here; the dominant sense is of absence or lack. [CORE] |
+| *Ukweli unakosekana katika taarifa hii.* | Ukweli unakosekana katika taarifa hii. | "Truth is absent from this report." | Extends the absence-of-truth sense into evaluative discourse about reporting accuracy. [CORE] |
+
+---
+
+### 1.7 Becoming certain / becoming sure
+
+**Primary construction:** *kuwa na uhakika* (periphrastic)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Alianza kuwa na uhakika.* | Alianza kuwa na uhakika. | "He/she began to be certain. / He/she became sure." | Source: P4a §4, P4b (rated [MARGINAL] for the periphrastic form). The verb *kuanza* (to begin) is a natural inchoative auxiliary in Swahili and is added here as a function word; it is not a truth-domain item but is required to express the becoming reading. [MARGINAL] |
+
+**Note on absence of *-ika* form:** No *-ika* stative-intransitive form built on *uhakika* or *hakika* is documented in the CONTEXT. The inchoative reading for certainty is expressed periphrastically rather than through a lexicalized *-ika* form.
+
+---
+
+### 1.8 Becoming correct / being corrected
+
+**No inchoative form attested for *sahihi* as a base.** The root *sahihi* does not show a stative *-ka/-ika* derivation in the CONTEXT. The dynamic of correction is expressed causatively (see Section 3) rather than inchoatively. The closest expression is the passive resultant state:
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Makosa yalisahihishwa.* | Makosa yalisahihishwa. | "The errors were corrected." | Source: P2a §6 (passive suffix *-wa* on causative stem, parallel to *kuthibitishwa*). This is a passive resultant-state construction rather than a true inchoative. No expression of the form "X becomes correct" using *sahihi* with *-ka/-ika* is attested in the CONTEXT. [CORE] |
+
+---
+
+### 1.9 Becoming genuine / real
+
+**No inchoative form attested for *halisi* as a base.** The causative *halisisha* is documented in P2a as [UNCERTAIN]. No stative *-ka/-ika* form of *halisi* is attested in the CONTEXT. The concept of something becoming real is expressed through *uhalisi* in descriptive constructions rather than through a morphological inchoative. P2a (Item 4) notes the absence of a productive verbal derivation from *halisi*.
+
+---
+
+### 1.10 Becoming lawful / legitimate
+
+**No common "become lawful" inchoative expression is documented in the CONTEXT.** The CONTEXT documents *kuhalalisha* (to legitimize, to legalize) as a causative, but no *-ika* or other inchoative form meaning "to become lawful" is attested. The becoming-lawful reading is expressed through the passive of the causative rather than through a dedicated inchoative.
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Jambo hilo lilihalalishwa.* | Jambo hilo lilihalalishwa. | "That matter was made lawful. / That thing was legalized." | Source: P2a §22 (*kuhalalisha* causative; passive *-wa* suffix by parallel with *kuthibitishwa* documented in P2a §29). This is a passive construction rather than a true inchoative; an agent (implicit or explicit) is presupposed. [CORE] |
+
+---
+
+### 1.11 Becoming false / becoming a lie
+
+**No common "become false" or "become a lie" expression is documented in the CONTEXT.** *Uongo* and *kudanganya* are not documented with *-ika* or other inchoative forms applying to propositions. The CONTEXT documents *kudanganyika* (to be susceptible to deception, to get deceived), but this applies to a person being deceived, not to a proposition becoming false.
+
+---
+
+### 1.12 Periphrastic inchoative: *kuwa* + truth-domain predicate
+
+Where the *-ika/-eka* suffix is not attested for a given base, the construction *kuwa* (to become/be) + truth-domain nominal or adjective expresses a change into a truth-related state.
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Akawa muongo baada ya muda.* | Akawa muongo baada ya muda. | "He/she became a liar over time." | *Kuwa* + agentive nominal *muongo*; the construction describes a change in character evaluation. No single-word inchoative from *uongo* is attested (P2a Item 3 notes the absence of a productive verbal derivation from *uongo*). |
+| *Akawa mwaminifu zaidi baada ya uzoefu huo.* | Akawa mwaminifu zaidi baada ya uzoefu huo. | "He/she became more trustworthy after that experience." | *Kuwa* + *mwaminifu* (trustworthy person); describes a change in trustworthiness evaluation. |
+| *Imani yake ikawa thabiti zaidi.* | Imani yake ikawa thabiti zaidi. | "His/her faith became firmer." | *Kuwa* + *thabiti* (firm/stable); describes a change in the quality of belief. |
+
+---
+
+### 1.13 No inchoative attested — summary
+
+The following items from the CONTEXT do not show an attested inchoative form (morphological or periphrastic) in the documented data:
+
+- *kweli* / *ukweli*: No *kukwelika* or similar form is attested. The state of being true is not expressed as a process of becoming in the documented data. The closest construction is *kudhihirika* applied to *ukweli* as subject (§1.1 above), where the truth becomes evident rather than the truth itself coming into being.
+- *halisi*: No *kuhalisiwa* or *kuhalisi* inchoative is attested. P2a (Item 4) notes the absence of a productive verbal derivation from *halisi*.
+- *sahihi*: No inchoative from *sahihi* is attested. The state of being correct is not expressed as a process of becoming in the documented data.
+- *halali*: No inchoative from *halali* is attested directly; the causative *kuhalalisha* (Section 3 below) covers the caused-change sense.
+- *bandia*: No dynamic expressions attested.
+
+---
+
+## SECTION 2: "X becomes [non-truth / opposed state]" (Departing from or Losing a Truth-Related State)
+
+### Pattern
+Loss of a truth-related state is expressed primarily through periphrastic verbal constructions using verbs of loss, departure, or violation (*kupoteza*, *kukiuka*, *kupotoka*) with truth-domain nominals as objects, or through the *-ika/-eka* stative applied to verbs of going astray, or through passive constructions.
+
+---
+
+### 2.1 Truth becoming hidden / concealed
+
+**Primary construction:** Passive of *kuficha* applied to *ukweli*
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ukweli ulifichwa.* | Ukweli ulifichwa. | "The truth was hidden. / The truth was concealed." | Source: P1b Root 1 (*ukweli uliofichwa*, "hidden truth"; P2b §2 Construction 7). The finite past passive *ulifichwa* expresses the event of truth being concealed. The verb *kuficha* (to hide, to conceal) is documented in the CONTEXT as the verb in this construction (P5 Opposition 23). This is the primary expression for truth transitioning to a hidden state. [CORE] |
+| *Ukweli ulifichwa na wenye mamlaka.* | Ukweli ulifichwa na wenye mamlaka. | "The truth was hidden by those in authority." | The passive construction allows an agent to be expressed with *na* (by). *Wenye mamlaka* (those who have authority) is a natural collocate in contexts of institutional concealment of truth. [CORE] |
+| *Ukweli ulifichwa kwa muda.* | Ukweli ulifichwa kwa muda. | "The truth was hidden for a time." | Documented in P1b and P2b as [CORE]. |
+| *Ukweli uliofichwa haufichiki milele.* | Ukweli uliofichwa haufichiki milele. | "A hidden truth cannot be hidden forever." | Documented in P1b and P2b as [CORE]. The stative negative *haufichiki* ("cannot be hidden") asserts the impossibility of permanent concealment. See P5 Opposition 9 and 10. |
+| *Walijaribu kuficha ukweli kwa muda mrefu.* | Walijaribu kuficha ukweli kwa muda mrefu. | "They tried to hide the truth for a long time." | Documented in P1b (Root 1, Item 19) and P2b (Item 2, Construction 7). Describes a deliberate act of making truth inaccessible; the truth is not destroyed but concealed. Contrasts with *kupotosha ukweli* (distortion) and *kugundua ukweli* (discovery). [CORE] |
+
+---
+
+### 2.2 Certainty becoming doubt
+
+**Primary construction:** *kutia shaka* (phrasal causative, applied to the subject's state)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Uhakika wake ulitoweka; shaka iliingia.* | Uhakika wake ulitoweka; shaka iliingia. | "His/her certainty disappeared; doubt entered." | The CONTEXT does not document a single lexicalized expression for "certainty becoming doubt." The closest documented construction is *kutia shaka* (to cast doubt, to cause uncertainty; P2a §26), which is a causative construction (see Section 3 below). The transition from certainty to doubt is expressed periphrastically using general verbs of disappearance (*kutoweka*, to disappear) or entry (*kuingia*, to enter). These are not truth-domain items but are required to express the dynamic reading. |
+
+---
+
+### 2.3 Something genuine becoming counterfeit / something lawful becoming forbidden
+
+**No common expressions for these transitions are documented in the CONTEXT.** The CONTEXT documents the states (*halisi*, *bandia*, *halali*, *haramu*) and the causatives (*kuhalalisha*, *kuharamisha*) but does not document inchoative or transitional expressions for objects moving from genuine to counterfeit or from lawful to forbidden status.
+
+---
+
+### 2.4 Losing faith / trust
+
+**Primary construction:** *kupoteza imani*
+
+Base: *poteza* (to lose, causative of *potea*) + *imani* (faith/belief) (P1b Root 3, Item 14)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Alipoteza imani baada ya kusikia habari hiyo.* | Alipoteza imani baada ya kusikia habari hiyo. | "He/she lost faith after hearing that news." | Documented in P1b (Root 3, Item 14). Describes the process of losing religious or interpersonal trust. The subject is the agent of their own loss; *kupoteza* is transitive. [CORE] |
+| *Wananchi wengi walipoteza imani kwa serikali.* | Wananchi wengi walipoteza imani kwa serikali. | "Many citizens lost faith in the government." | Extends the loss-of-trust sense to institutional credibility. [CORE] |
+
+---
+
+### 2.5 Breaching a trust
+
+**Primary construction:** *kukiuka amana*
+
+Base: *kiuka* (to violate/breach) + *amana* (trust/something held in trust) (P1b Root 3, Item 25)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Alikuiuka amana aliyopewa.* | Alikuiuka amana aliyopewa. | "He/she breached the trust that was given to him/her." | Documented in P1b (Root 3, Item 25) and P5 (Opposition 13). Describes a transition from a state of holding trust to a state of having violated it. Evaluatively strongly negative. [CORE] |
+
+---
+
+### 2.6 Going astray / becoming misguided
+
+**Primary construction:** *kupotoka* / *imani potofu*
+
+Base: *potoa* (to go astray) → *potofu* (erroneous, misguided) (P1b Root 3, Item 28)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Imani yake ilipotoka.* | Imani yake ilipotoka. | "His/her faith went astray / became misguided." | *Kupotoka* (intransitive, to go astray) applied to *imani*; describes a departure from correct belief. The adjectival form *potofu* (as in *imani potofu*) is the lexicalized result state. [CORE] |
+| *Akili yake ilipotoka.* | Akili yake ilipotoka. | "His/her reasoning went astray." | The same verb applied to *akili* (mind/reasoning); describes a departure from correct judgment. [CORE] |
+
+---
+
+### 2.7 Distorting the truth
+
+**Primary construction:** *kupotosha ukweli*
+
+Base: *potosha* (causative of *potoa*, to distort/mislead) + *ukweli* (P1b Root 1, Item 20)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Alipotosha ukweli kwa makusudi.* | Alipotosha ukweli kwa makusudi. | "He/she deliberately distorted the truth." | Documented in P1b (Root 1, Item 20) and P2b (Item 2, Construction 8). The causative *potosha* presents the agent as causing truth to depart from its accurate state. Evaluatively strongly negative. Note: *kupotosha* is a causative form (*potosha* = causative of *potoa*, to go astray) and thus encodes both departure from truth and the causing of that departure simultaneously. [CORE] |
+
+---
+
+### 2.8 Credibility / trust being lost
+
+**Primary construction:** *kuaminiwa* in negative constructions (passive of *kuamini*, documented P2a)
+
+**Pattern:** Subject (human) + negative *ha-* + *-aminiwa*
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Yeye haaminiwa tena.* | Yeye haaminiwa tena. | "He/she is no longer trusted." | The adverb *tena* ("again, anymore") marks the transition from a prior state of trust to its absence. The construction encodes the loss of trust as a resultant state following an act of deception. [CORE] |
+| *Siwezi kumwamini tena.* | Siwezi kumwamini tena. | "I can no longer trust him/her." | Documented in P2b as [CORE]. |
+
+---
+
+### 2.9 Falsehood spreading
+
+**Primary construction:** *kueneza uongo* / *uongo unaenea*
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Uongo unaenea haraka.* | Uongo unaenea haraka. | "Falsehood spreads quickly." | Documented in P2b as [CORE]. The intransitive *kuenea* ("to spread, to be disseminated") describes the propagation of falsehood as a dynamic process. |
+| *Kueneza uongo ni hatari.* | Kueneza uongo ni hatari. | "Spreading falsehood is dangerous." | Documented in P2b as [CORE]. |
+
+---
+
+### 2.10 No departure expression attested
+
+- No expression for "ceasing to be genuine" (*halisi* → not *halisi*) through a process is attested in the documented data. The state of inauthenticity (*bandia*) is presented as a static characterization rather than a result of change.
+- No expression for "ceasing to be correct" (*sahihi* → not *sahihi*) as a process is attested; the relevant construction is the static negative *hii si sahihi* (this is not correct).
+
+---
+
+## SECTION 3: "Y causes X to be [truth-related state]" (Causative Expressions)
+
+### Pattern
+The primary morphological resource is the causative suffix *-sha/-isha* producing a transitive verb meaning "to cause X to be in a truth-related state" or "to make X true/correct/legitimate/evident." This pattern is documented in P4a (§5). A secondary resource is periphrastic causative constructions using *kufanya* (to make/cause) + truth-domain predicate, though this is less characteristic of the core truth-domain items than the morphological causative.
+
+---
+
+### 3.1 Causing truth to be established / confirmed
+
+**Primary construction:** *kuthibitisha* (causative verb)
+
+Base: *thibiti* (firm/confirmed) + causative *-isha* → *kuthibitisha* (P1 Item 14)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Ushahidi ulithibitisha ukweli wa tukio hilo.* | Ushahidi ulithibitisha ukweli wa tukio hilo. | "The evidence confirmed the truth of that event. / The evidence established the truth of that incident." | Source: P1 (*thibitisha*: "to confirm, to verify, to prove, to authenticate"); P2a §29; P4a §5; P4b. The causative presents an agent (investigation) bringing about a state of confirmed truth. [CORE] |
+| *Tafadhali thibitisha taarifa hii.* | Tafadhali thibitisha taarifa hii. | "Please confirm / verify this report." | Source: P4a §5, P4b. The imperative form with *tafadhali* (please) is a common polite request formula in administrative and journalistic contexts. [CORE] |
+| *Uchunguzi ulithibitisha madai yake.* | Uchunguzi ulithibitisha madai yake. | "The investigation confirmed his/her claims." | Documented across P1, P2a, P2b, P4a, P4b. [CORE] |
+| *Thibitisha habari kabla ya kuisambaza.* | Thibitisha habari kabla ya kuisambaza. | "Verify the news before spreading it." | Imperative form; documented in P2b (Item 14, Construction 1). The agent is directed to cause the news to be in a verified state. [CORE] |
+| *Vyanzo vingi vilithibitisha ukweli wa tukio hilo.* | Vyanzo vingi vilithibitisha ukweli wa tukio hilo. | "Multiple sources confirmed the truth of that event." | *Ukweli* as the object of *kuthibitisha*; the causative presents sources as agents bringing about a state of established truth. [CORE] |
+| *Thibitisha utambulisho wako kabla ya kuendelea.* | Thibitisha utambulisho wako kabla ya kuendelea. | "Verify your identity before proceeding." | Documented in P1 and P2a as [CORE]. *Kuthibitisha* takes institutional agents (authorities, officials) as well as individual agents, and applies to documents, identities, and factual claims. |
+| *Mamlaka ilithibitisha hati hiyo.* | Mamlaka ilithibitisha hati hiyo. | "The authority authenticated that document." | [CORE] |
+| *Thibitisha usahihi wa taarifa.* | Thibitisha usahihi wa taarifa. | "Verify the accuracy of the report." | [CORE] |
+
+**Notes:** *Kuthibitisha* is the primary causative verb for causing truth or authenticity to be established. The passive *kuthibitishwa* ("to be verified") is attested in P2a and P4a.
+
+---
+
+### 3.2 Causing certainty / making sure
+
+**Primary construction:** *kuhakikisha* (causative verb)
+
+| Swahili | Transliteration | English | Notes |
+|---|---|---|---|
+| *Hakikisha ukweli wa habari kabla ya kuchapisha.* | Hakikisha ukweli wa habari kabla ya kuchapisha. | "Make sure of the accuracy of the news before publishing. / Verify the truth of the information before publishing." | Source: P1b Root 2 (*kuhakikisha*: "to make sure, to ensure, to verify, to confirm"); P2a §10; P4a §5; P4b. [CORE] |
+| *Hakikisha mlango umefungwa.* | Hakikisha mlango umefungwa. | "Make sure the door is closed." | Source: P4a §5, P4b. Included to document the procedural extension of *kuhakikisha* outside the truth domain, as explicitly noted in the CONTEXT. [CORE] |
+| *Kuhakikisha ubora wa bidhaa.* | Kuhakikisha ubora wa bidhaa. | "To ensure the quality of goods." | Documented in P2b as [CORE]. |
+
+**Notes:** *Kuhakikisha* is extremely frequent across all registers. It causes a state of certain

@@ -1,0 +1,166 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Greek (el)
+
+---
+
+**Transliteration standard:** ISO 843, consistent with P1–P3.
+
+**Scope note:** Constructions are documented only where attested in the data. Patterns absent from Greek or unattested in the P1–P3 corpus are marked explicitly. Additional construction types emerging from the data are added after section 7.
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+**[Subject NP] + εἶναι/είναι + [truth-domain adjective]**
+
+Copular predication using the verb είναι ("to be") with a truth-domain adjective in predicative position. The adjective agrees with the subject in gender, number, and case.
+
+### Examples
+- Αυτή η δήλωση είναι αληθής. / *Aftí i dílosi íne alithís.* / "This statement is true."
+- Η κατάθεσή του ήταν ψευδής. / *I katáthesí tu ítan psevdís.* / "His testimony was false."
+
+### Notes
+Standard copular attribution. The adjective occupies predicative position and inflects for gender agreement with the subject noun. Both αληθής and ψευδής are used in this pattern primarily in formal and written registers; the colloquial equivalents σωστός and ψεύτικος are more frequent in everyday speech.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**[Subject NP] + δεν είναι + [truth-domain adjective]**
+**OR: [Subject NP] + είναι + [privative-prefixed adjective]**
+
+Two strategies coexist: (a) sentential negation with δεν before the copula, and (b) a lexically negated adjective (αν-/α- privative prefix) in the predicative position.
+
+### Examples
+- Αυτό δεν είναι αληθινό. / *Aftó den íne alithinó.* / "This is not real/true."
+- Η πηγή αποδείχθηκε αναξιόπιστη. / *I pigí apodíchthike anaksiópistos.* / "The source proved unreliable."
+
+### Notes
+Both strategies are productive. Sentential negation (δεν είναι) is universal and register-neutral. Privative-prefixed adjectives (αναληθής, αναξιόπιστος, ανακριβής, άκυρος, ανούσιος) are available for most core items and tend toward formal registers. The two strategies are not always interchangeable: άκυρος ("invalid/null") is the standard legal term, not δεν είναι έγκυρος, though the latter is also grammatical.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[truth-domain adjective] + [head noun]**
+**OR: [head noun] + [truth-domain adjective]** (less common, more emphatic)
+
+Attributive modification within a noun phrase. Greek adjectives in attributive position typically precede the head noun and are preceded by the definite article when the noun is definite. Post-nominal position is grammatical but marked for emphasis or literary register.
+
+### Examples
+- αληθινή ιστορία / *alithiní istoría* / "a true story"
+- πλαστό διαβατήριο / *plastó diavatírio* / "a forged passport"
+
+### Notes
+Prenominal attributive position is the default. The adjective agrees with the head noun in gender, number, and case. Many truth-domain adjectives form highly conventionalized collocations in this pattern (γνήσιο αντίγραφο, ψευδής κατάθεση, έγκυρη ψήφος, εικονικό τιμολόγιο), some of which carry specific legal definitions. These fixed collocations are more frequent than free attributive modification.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**[Subject NP] + γίνεται/αποδεικνύεται/αποκαλύπτεται + [truth-domain adjective or NP]**
+
+Greek lacks a single dedicated inchoative copula equivalent to English "become" in this domain. The inchoative meaning is expressed through:
+- **γίνεται** ("becomes") — general inchoative
+- **αποδεικνύεται** ("proves to be," "turns out to be") — with epistemic force, indicating that evidence establishes a new status
+- **αποκαλύπτεται** ("is revealed to be") — with a disclosure component
+
+### Examples
+- Ο ισχυρισμός αποδείχθηκε ψευδής. / *O ischirismós apodíchthike psevdís.* / "The claim proved to be false."
+- Η υπογραφή αποκαλύφθηκε ως πλαστή. / *I ipogrfí apokalífthike os plastí.* / "The signature was revealed to be forged."
+
+### Notes
+αποδεικνύεται is the most semantically specific inchoative in this domain: it implies that evidence or argument has established the new truth-value, making it common in legal, journalistic, and scientific contexts. γίνεται is more general and less restricted to the truth domain. The construction [αποδεικνύεται + adjective] is the closest Greek equivalent to English "turns out to be [false/true/invalid]."
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**[Agent NP] + [causative verb] + [Theme NP] + [result adjective/state]**
+
+No single morphological causative exists for truth-domain adjectives in Greek. Causative meanings are expressed through dedicated lexical verbs:
+- **επαληθεύω** — "to verify/confirm [something as true]"
+- **διαψεύδω** — "to refute/show [something to be false]"
+- **ακυρώνω** — "to invalidate/cancel [something]"
+- **νοθεύω** — "to adulterate/falsify [something]"
+- **πλαστογραφώ** — "to forge [a document]"
+
+### Examples
+- Η έρευνα επαλήθευσε τους ισχυρισμούς. / *I érevna epalíthefse tus ischirismús.* / "The investigation verified the claims."
+- Η κυβέρνηση διέψευσε τις φήμες. / *I kivérnisi diépsfefse tis fímes.* / "The government refuted the rumors."
+
+### Notes
+Greek expresses causative truth-domain meanings exclusively through dedicated lexical verbs rather than through a productive morphological causative. Each verb encodes a specific causal relationship: επαληθεύω causes something to be established as true; διαψεύδω causes something to be established as false; ακυρώνω causes something to become invalid. There is no general-purpose causative morpheme applicable across the domain.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**[truth-domain adjective stem] + [-εια / -ία / -ότητα / -ση]**
+
+Abstract nouns are formed from truth-domain adjectives and verbs by suffixation. The most productive suffixes in this domain are:
+- **-εια / -ια**: αλήθεια, ακρίβεια, αμφιβολία, νοθεία, αυθεντία
+- **-ότητα**: αυθεντικότητα, γνησιότητα, αξιοπιστία, εγκυρότητα, ορθότητα, σωστότητα
+- **-ση**: επαλήθευση, διάψευση, ακύρωση, αμφισβήτηση
+
+### Examples
+- Αμφισβητήθηκε η εγκυρότητα της σύμβασης. / *Amfisviтíthike i engirotita tis símvasis.* / "The validity of the contract was disputed."
+- Η επαλήθευση των στοιχείων διήρκεσε μέρες. / *I epalíthefsi ton stoichíon diírkese méres.* / "The verification of the data took days."
+
+### Notes
+The -ότητα suffix is the most productive for forming quality nouns from adjectives (αυθεντικότητα, γνησιότητα, αξιοπιστία, εγκυρότητα). The -εια/-ια suffix is older and less regular, appearing in core items (αλήθεια, ακρίβεια). Verbal nouns in -ση (επαλήθευση, διάψευση, ακύρωση) denote the act or process rather than the abstract quality. Both types are productive and well-attested across registers.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**[verbal stem] + [-τής / -τρια / -γράφος]**
+
+Agent nouns denoting persons who perform truth-domain actions. The suffix -τής (masculine) / -τρια (feminine) is the most productive agentive suffix. The compound -γράφος appears in the forgery domain.
+
+### Examples
+- Ο ψεύτης αρνήθηκε τα πάντα. / *O psévtis arníthike ta pánda.* / "The liar denied everything."
+- Ο πλαστογράφος συνελήφθη. / *O plastográfos sinelífthи.* / "The forger was arrested."
+
+### Notes
+ψεύτης is the primary agentive nominalization in the truth domain and is the standard everyday word for "liar." On the truth-telling side, no common agentive noun meaning "truth-teller" is identified in the data; the concept is expressed periphrastically (αυτός που λέει την αλήθεια, "one who tells the truth"). πλαστογράφος is the standard legal term for a document forger. αξιολογητής ("evaluator/assessor") is attested but belongs to the evaluation subdomain rather than the core truth domain.
+
+---
+
+## 8. EPISTEMIC HEDGE CONSTRUCTIONS
+
+### Pattern
+**[δήθεν / τάχα] + [NP or clause]**
+**OR: [φερόμενος ως] + [NP]**
+
+A distinct construction type in which a particle or participial phrase marks the speaker's non-endorsement of a presented claim or status. These constructions have no direct equivalent in the morphological patterns above and constitute a pragmatically distinct category.
+
+### Examples
+- Ο δήθεν ειδικός δεν είχε καμία σχετική εκπαίδευση. / *O díthеn eidikós den íche kamía schetikí ekpédefsi.* / "The so-called expert had no relevant training."
+- Ο φερόμενος ως ιδιοκτήτης αρνήθηκε να δώσει στοιχεία. / *O ferómenos os idioktítis arníthike na dósi stoichía.* / "The purported owner refused to provide information."
+
+### Notes
+δήθεν and τάχα are particles that scope over a following NP or clause and signal the speaker's ironic or skeptical distance from the attributed status or claim. φερόμενος ως is a participial construction used in formal legal and journalistic registers with a neutral (non-ironic) hedging function. The two sub-patterns differ in pragmatic force: δήθεν/τάχα imply the speaker believes the claim is false; φερόμενος ως implies only that the claim is unconfirmed. Both are productive and well-attested.
+
+---
+
+## 9. DISCOURSE-FRAMING CONSTRUCTIONS
+
+### Pattern
+**[Fixed NP or clause] + [main proposition]**
+
+A set of fixed expressions used as sentence-initial or clause-initial discourse markers to frame what follows as a candid, corrective, or frank statement. These are not morphological constructions but syntactically fixed frames that introduce truth-domain content.
+
+### Examples
+- Η αλήθεια είναι ότι δεν ήταν έτοιμοι. / *I alíthia íne óti den ítan étimi.* / "The truth is that they were not ready."
+- Για να λέμε την αλήθεια, η κατάσταση είναι σοβαρή. / *Ya na léme tin alíthia, i katástasi íne sovará.* / "To tell the truth, the situation is serious."
+
+### Notes
+These constructions function as pragmatic frames rather than as predications about truth-value. η αλήθεια είναι ότι introduces a proposition the speaker presents as frank or corrective; για να λέμε την αλήθεια signals candor and often precedes an unwelcome or qualifying statement. Both are extremely frequent in everyday speech and are fixed in form. Structurally, they are main clauses whose subject is αλήθεια, but their discourse function is that of hedging or framing devices rather than truth predications.

@@ -1,0 +1,96 @@
+# CLCA Protocol v3.3 — I1: Construction Equivalence & Missingness Analysis
+## Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (a) Postnominal adjective (indefinite NP); (b) Postnominal adjective with definiteness concord; (c) Zero-copula nominal predicate (present tense) | חָבֵר אֲמִתִּי (*ḥaver ʾamitī*, "a genuine friend"); הָעֵד הַמְּהֵימָן (*ha-ʿed ha-meheymen*, "the credible witness"); זֶה אֱמֶת (*ze ʾemet*, "that is true") | None required; three sub-patterns cover attributive and predicative positions | None |
+| **ADNOM** | (a) Postnominal adjective with full agreement; (b) Construct state (*smikhut*): head noun + bare modifying noun; (c) *shel*-genitive: head noun + *shel* + noun; (d) Adjective + prepositional scope phrase (*le-*); (e) Passive participle as postnominal modifier | מָקוֹר מְהֵימָן (*maqor mehiman*); עֵדוּת שֶׁקֶר (*ʿedut sheker*); גַּרְעִין שֶׁל אֱמֶת (*garʿin shel ʾemet*); נָכוֹן לְהַיּוֹם (*nakhon le-hayom*); מִסְמָךְ מְזוּיָּף (*mismakh mezuyaf*) | None required; multiple sub-patterns cover the full range of adnominal modification | None |
+| **BECOME** | (a) *hafakh le-* + predicate (nominal or adjectival complement); (b) *naʿasah* + predicate; (c) Hitpaʿel binyan with inchoative force; (d) Intransitive verb (*gadal*, *hitʿarer*) with abstract noun subject | הַמָּקוֹר הָפַךְ לְלֹא אָמִין (*ha-maqor hafakh le-lo ʾamin*); זֶה הָפַךְ לֶאֱמֶת (*ze hafakh le-ʾemet*); הָאֵמוּן הִתְעַרְעֵר (*ha-ʾimun hitʿarer*); הַסָּפֵק גָּדַל (*ha-safek gadal*) | No dedicated inchoative morphology for truth-domain adjectives; all strategies are periphrastic or borrowed from general verbal morphology (Hitpaʿel, intransitive verbs) | Morphosyntactic gap: no dedicated inchoative morphological pattern for truth-domain adjectives; periphrastic strategies fill the slot |
+| **REVELATION** | Verbal periphrasis: general-purpose verb (*legallot*, *laḥsof*) + *ha-ʾemet* as direct object; also *nimtsa* + predicate adjective (change-of-assessed-status reading) | לְגַלּוֹת אֶת הָאֱמֶת (*legallot et ha-ʾemet*, "to reveal the truth"); הַמִּסְמָךְ נִמְצָא מְזוּיָּף (*ha-mismakh nimtsa mezuyaf*, "the document was found to be forged") | **SUBSTITUTED BY BECOME** in some contexts: *nimtsa* + predicate adjective overlaps with BECOME in recording a change in assessed status; the two constructions are not fully distinct in function | Lexical gap: no single dedicated REVELATION verb; the function is distributed across multiple light-verb + object collocations |
+| **CAUSATION (factual)** | (a) Hifʿil binyan where root permits: לְהַטְעוֹת (*lehatʿot*, "to mislead/cause to err"); (b) Periphrastic causative: *lgaram she-* + clause | לְהַטְעוֹת (*lehatʿot*, "to mislead, to cause to err") | Hifʿil coverage is uneven across roots; roots without a productive Hifʿil in this domain require periphrastic causative (*lgaram she-* + clause); no single morphological strategy covers all cases | Morphosyntactic gap: Hifʿil causative is root-selective; periphrastic causative (*lgaram she-*) fills gaps but is not attested with a dedicated example in P4a/P4b |
+| **CAUSATION (character)** | (a) Hifʿil binyan (declarative/evaluative reading): לְהַצְדִּיק (*lehatsdiq*, "to justify/vindicate"), לְהַכְשִׁיר (*lehakhshir*, "to certify as fit"); (b) Lexicalized Hifʿil: לְאַשֵּׁר (*leʾasher*, "to confirm/authorize") | לְהַצְדִּיק (*lehatsdiq*); לְהַכְשִׁיר (*lehakhshir*); לְאַשֵּׁר (*leʾasher*) | Rated [MARGINAL] for לְהַצְדִּיק due to uneven root coverage; the Hifʿil declarative/causative is productive only for roots with an attested Hifʿil in this domain | Morphosyntactic gap: same root-selectivity constraint as CAUSATION (factual); coverage is partial |
+| **VERIFICATION** | (a) Verbal periphrasis: *levarer* + *ha-ʾemet* ("to ascertain the truth"); (b) Pi'el verbal noun: אִמּוּת (*immut*, "verification, authentication"); (c) *nimtsa* + predicate adjective (legal register: recording verified status) | אִמּוּת (*immut*, "verification, authentication"); הַמִּסְמָךְ נִמְצָא מְזוּיָּף (*ha-mismakh nimtsa mezuyaf*) | **SUBSTITUTED BY BECOME** in legal contexts: *nimtsa* + predicate adjective serves both VERIFICATION and BECOME functions; the two are not formally distinguished | Lexical gap: no single dedicated VERIFICATION verb; the function is distributed across *levarer*, *immut*, and *nimtsa* constructions |
+| **DISCONFIRMATION** | (a) Verbal periphrasis: *lesalef* + *ha-ʾemet* ("to falsify the truth"), *leʿavvet et ha-ʾemet* ("to distort the truth"); (b) Predicative negation: לֹא + predicate adjective; (c) Nominal negation: חוֹסֶר + abstract noun; אִי- + *-ut* nominalization | לְעַוֵּת אֶת הָאֱמֶת (*leʿavvet et ha-ʾemet*, "to distort the truth"); זֶה לֹא נָכוֹן (*ze lo nakhon*, "that is not correct") | DISCONFIRMATION and NEGATION share the predicative negation construction (לֹא + predicate); they are not formally distinguished at the constructional level; DISCONFIRMATION of a specific claim uses verbal periphrasis, while NEGATION of a property uses *lo* + predicate | No structural gap; functional overlap with NEGATION noted |
+| **NEGATION** | (a) Predicative negation: *lo* + predicate adjective or noun (invariant negator, present tense); (b) Nominal negation: חוֹסֶר (*ḥoser*) + abstract noun; (c) Prefix אִי- + *-ut* nominalization (formal/legal registers) | זֶה לֹא נָכוֹן (*ze lo nakhon*); הָעֵד לֹא מְהֵימָן (*ha-ʿed lo meheymen*); חוֹסֶר כַּנּוּת (*ḥoser kannut*); אִי-אֲמִינוּת (*ʾi-ʾaminut*) | Negation is **analytic** (syntactic particle *lo*), not morphological; no productive negative attributive prefix applies directly to adjectives; אִי- applies to *-ut* nominalizations only, not to adjectives directly | No structural gap; morphological gap noted: no negative adjectival prefix productive in this domain |
+| **NOMINALIZATION** | (a) Adj + *-ut* suffix (abstract nominalization, fully productive); (b) Pi'el verbal noun (*CiCCuC* pattern: זִיּוּף *ziyyuf*, דִּיּוּק *diyuq*); (c) Hifʿil verbal noun (*haCCaCa* pattern: הוֹנָאָה *honaʾah*, אִישּׁוּר *ʾishur*); (d) Root + *-an* suffix (agentive/characterological nominalization: שַׁקְרָן *shaqran*, דַּיְקָן *dayqan*); (e) Active participle used nominally (מְזַיֵּף *mezayef*, מַאֲמִין *maʾamin*) | אֲמִינוּת (*ʾaminut*); סְבִירוּת (*sevirut*); זִיּוּף (*ziyyuf*); שַׁקְרָן (*shaqran*); מְזַיֵּף (*mezayef*) | No substitution required; multiple nominalization strategies are available and productive; *-an* agentive is asymmetric (see §3) | Asymmetric gap: *-an* agentive is productive for negative/characterological agents (שַׁקְרָן) but no lexicalized positive counterpart exists; positive agentive ("truth-teller") is expressed periphrastically (*dover ʾemet*, מִי שֶׁאוֹמֵר אֱמֶת) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituting for BECOME
+
+In P4a and P4b, the construction *nimtsa* + predicate adjective (e.g., הַמִּסְמָךְ נִמְצָא מְזוּיָּף, "the document was found to be forged") is described as serving both a BECOME function (recording a change in assessed status) and a REVELATION function (the act of discovering or establishing that status). The two operators are not formally distinguished by separate constructions in Hebrew: the same *nimtsa* + predicate form covers both "turned out to be" (BECOME) and "was found to be" (REVELATION). P4b notes that *nimtsa* is "particularly frequent in legal discourse for recording a change in assessed status," which places it at the intersection of both operators. No dedicated REVELATION verb is attested; the function is distributed across light-verb + object collocations (*legallot et ha-ʾemet*, *laḥsof et ha-ʾemet*) and the *nimtsa* construction.
+
+### 2.2 VERIFICATION and DISCONFIRMATION sharing constructions
+
+VERIFICATION and DISCONFIRMATION do not have formally distinct constructions in the attested data. VERIFICATION is expressed through: (a) the Pi'el verbal noun אִמּוּת (*immut*, "verification/authentication"), (b) the verb *levarer* + *ha-ʾemet*, and (c) *nimtsa* + predicate adjective in legal contexts. DISCONFIRMATION is expressed through: (a) verbal periphrasis with verbs such as *lesalef*, *leʿavvet* + *ha-ʾemet*, and (b) predicative negation (*lo* + predicate). The *nimtsa* construction is shared between VERIFICATION and BECOME, as noted above. DISCONFIRMATION and NEGATION share the predicative *lo* + predicate construction, though DISCONFIRMATION of a specific claim more typically uses verbal periphrasis with a definite object (*leʿavvet et ha-ʾemet*), while NEGATION of a property uses *lo* + predicate adjective directly.
+
+### 2.3 NEGATION: analytic, not morphological
+
+Negation in the truth domain is consistently analytic. The particle *lo* (לֹא) is the invariant negator for nominal and adjectival predicates in the present tense and precedes the predicate directly. No productive negative prefix applies to truth-domain adjectives in attributive position. The prefix אִי- is productive but is restricted to *-ut* nominalizations (אִי-אֲמִינוּת, אִי-סְבִירוּת, אִי-תִּקִינוּת) and does not attach to adjectives directly. The nominal construction חוֹסֶר + abstract noun provides an alternative attributive-equivalent negation strategy in formal and written registers. The result is a three-way system: predicative *lo* + adjective (syntactic, unrestricted), אִי- + *-ut* nominalization (morphological, restricted to nominals, formal registers), and חוֹסֶר + abstract noun (periphrastic nominal, formal/written registers).
+
+### 2.4 Positive/negative asymmetry in agentive nominalization
+
+The *-an* agentive suffix is productive for negative or characterological agents in the truth domain: שַׁקְרָן ("habitual liar"), דַּיְקָן ("meticulous/precise person"). No lexicalized *-an* agentive for a positive truth-telling agent is attested; the function is served periphrastically by *dover ʾemet* ("one who speaks truth") or by the participial form נֶאֱמָן (*neʾeman*, "trustworthy one"). P4b explicitly notes this asymmetry: "The -an agentive is productive for negative or characterological evaluations: שַׁקְרָן (liar), בַּטְלָן (idler). A parallel agentive for 'truth-teller' is not lexicalized with -an." This asymmetry is one-directional: negative characterological agents are lexicalized; positive ones are not.
+
+### 2.5 CAUSATION: Hifʿil coverage is root-selective
+
+The Hifʿil binyan is the primary morphological causative strategy in Hebrew, but its coverage across truth-domain roots is uneven. Roots such as צ-ד-ק (לְהַצְדִּיק, "to justify/vindicate") and כ-ש-ר (לְהַכְשִׁיר, "to certify as fit") have productive Hifʿil forms. Roots such as ד-י-ק and ז-י-פ operate primarily in the Pi'el and do not have a productive Hifʿil in this domain. No Hifʿil causative is in common use for *ʾemet* or *sheqer* directly. The causative "to make someone believe" is not available from לְהַאֲמִין (*lehaʾamin*), which has lexicalized as "to believe" rather than "to cause to believe"; the causative sense requires periphrastic expression (*lgaram le-mishehu lehaʾamin*). The Hifʿil causative for CAUSATION (factual) is therefore partially available, with periphrastic strategies filling the gaps.
+
+### 2.6 Grammaticalization within the adverbial set
+
+Within the prepositional adverbial construction (*be-* + abstract noun), the items form a gradient of grammaticalization. בְּדִיּוּק (*bediyyuq*, "exactly, precisely") has grammaticalized as a precision adverb and is no longer restricted to truth-domain contexts; it occurs freely as a quantificational modifier (בְּדִיּוּק עֲשָׂרָה, "exactly ten"). בֶּאֱמֶת (*beʾemet*, "truly, really") has acquired pragmatic functions as a discourse particle and sincerity marker beyond its compositional meaning. Other members of the set (בְּכַנּוּת, בְּיֹשֶׁר) remain closer to compositional manner adverbials. This gradient is noted in P4b but does not constitute a structural gap; it is a difference in degree of entrenchment within a single productive pattern.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **BECOME (morphological):** No dedicated inchoative morphological pattern exists for truth-domain adjectives. The inchoative is expressed periphrastically (*hafakh le-*, *naʿasah*) or through general verbal morphology (Hitpaʿel, intransitive verbs). This is a morphosyntactic gap specific to the truth domain; the periphrastic strategies are productive and fill the slot functionally.
+
+- **CAUSATION (factual) — full morphological coverage:** The Hifʿil causative is root-selective and does not cover all truth-domain roots. Roots without a productive Hifʿil require periphrastic causative (*lgaram she-* + clause). This is a morphosyntactic gap in coverage, not a total absence of the operator.
+
+- **NEGATION (attributive morphological):** No productive negative prefix applies directly to truth-domain adjectives in attributive position. Attributive negation requires either predicative repositioning (*lo* + predicate) or nominalization followed by אִי- prefixation. This is a morphosyntactic gap in the attributive slot specifically.
+
+### 3.2 Lexical Gaps
+
+- **REVELATION (dedicated verb):** No single dedicated REVELATION verb is attested. The function is distributed across multiple light-verb + object collocations (*legallot*, *laḥsof*, *levarer* + *ha-ʾemet*) and the *nimtsa* construction. This is a lexical gap; circumlocution or light-verb periphrasis is required.
+
+- **VERIFICATION (dedicated verb):** No single dedicated VERIFICATION verb is attested. The function is covered by *levarer* + *ha-ʾemet*, the Pi'el verbal noun אִמּוּת, and *nimtsa* + predicate adjective. This is a lexical gap; the function is expressed through distributed means.
+
+- **AGENTIVE NOMINALIZATION — positive truth-teller:** No lexicalized *-an* agentive for a positive truth-telling agent exists. The function is served periphrastically (*dover ʾemet*, מִי שֶׁאוֹמֵר אֱמֶת) or by the participial form נֶאֱמָן. This is a lexical gap within the agentive nominalization paradigm.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a and P4b data. All CLCA operators are expressible in Hebrew; the gaps noted above are lexical or morphosyntactic, not conceptual. No operator is blocked at the level of conceptual structure.
+
+### 3.4 Asymmetric Gaps
+
+- **Agentive nominalization (*-an*):** The *-an* suffix is productive for negative or characterological agents (שַׁקְרָן, "habitual liar"; דַּיְקָן, "meticulous person") but has no lexicalized positive counterpart for truth-telling. The negative pole is lexicalized; the positive pole is not. This is a one-directional asymmetric lexical gap.
+
+- **Hifʿil causative coverage:** The Hifʿil causative is attested for roots associated with justification, certification, and misleading (לְהַצְדִּיק, לְהַכְשִׁיר, לְהַטְעוֹת) but is not productive for the core truth/falsity roots (*ʾemet*, *sheqer*) directly. The causative operator is available for peripheral roots but not for the central lexical items of the domain.
+
+- **Adverbial grammaticalization:** Within the *be-* + abstract noun adverbial set, grammaticalization is asymmetric: בְּדִיּוּק has grammaticalized furthest (quantificational modifier, unrestricted contexts), while other members of the same pattern remain closer to compositional manner adverbials. This is not a gap but a noted asymmetry in entrenchment within a single construction type.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Three sub-patterns (postnominal adjective indefinite, postnominal adjective with definiteness concord, zero-copula nominal predicate) cover attributive and predicative positions across all registers. |
+| **ADNOM** | **Fully available** | Five sub-patterns attested: postnominal adjective with agreement, construct state (*smikhut*), *shel*-genitive, adjective + prepositional scope phrase, passive participle as modifier. No gaps. |
+| **BECOME** | **Available with substitution** | No dedicated inchoative morphology for truth-domain adjectives; periphrastic strategies (*hafakh le-*, *naʿasah*, Hitpaʿel, intransitive verbs) fill the slot. Construction is compositional and not lexicalized. |
+| **REVELATION** | **Available with substitution** | No dedicated REVELATION verb; function distributed across light-verb + *ha-ʾemet* collocations (*legallot*, *laḥsof*) and *nimtsa* + predicate adjective. *nimtsa* overlaps with BECOME. |
+| **CAUSATION (factual)** | **Partially available** | Hifʿil causative productive for some roots (לְהַטְעוֹת); absent or lexicalized away from causative meaning for others (*lehaʾamin*); periphrastic causative (*lgaram she-*) fills gaps but is not attested with a dedicated example in the data. |
+| **CAUSATION (character)** | **Partially available** | Hifʿil declarative/causative productive for some roots (לְהַצְדִּיק, לְהַכְשִׁיר, לְאַשֵּׁר); rated [MARGINAL] for לְהַצְדִּיק due to uneven root coverage. |
+| **VERIFICATION** | **Available with substitution** | No dedicated VERIFICATION verb; function covered by *levarer* + *ha-ʾemet*, Pi'el verbal noun אִמּוּת, and *nimtsa* + predicate adjective. *nimtsa* overlaps with BECOME and REVELATION. |
+| **DISCONFIRMATION** | **Available with substitution** | No dedicated DISCONFIRMATION verb; function covered by verbal periphrasis (*lesalef*, *leʿavvet* + *ha-ʾemet*) and predicative negation (*lo* + predicate). Shares constructions with NEGATION at the predicative level. |
+| **NEGATION** | **Fully available** | Analytic negation (*lo* + predicate) is the primary and unrestricted strategy. Morphological negation (אִי- + *-ut* nominalization) is available in formal registers for nominals only. Nominal periphrasis (חוֹסֶר + abstract noun) is an additional formal strategy. No productive negative adjectival prefix in attributive position. |
+| **NOMINALIZATION** | **Fully available** | Multiple productive strategies: *-ut* suffix (abstract, fully productive across adjectival bases), Pi'el verbal noun (*CiCCuC*), Hifʿil verbal noun (*haCCaCa*), *-an* agentive suffix (characterological, asymmetric), active participle used nominally. Asymmetric gap in *-an* agentive (positive truth-teller not lexicalized) does not impair overall availability. |

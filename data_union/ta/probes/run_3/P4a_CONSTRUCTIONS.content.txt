@@ -1,0 +1,166 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Tamil (ta)
+
+---
+
+**Transliteration standard:** ISO 15919
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Nominal predicate construction: **Subject + truth-domain nominal + (copula/zero)**
+
+Tamil uses a zero-copula or the predicative suffix *-āka* to attribute truth-domain properties to a subject. The nominal stands as predicate without an overt copular verb in the present tense; *irukku* (is/exists) may optionally appear in spoken registers.
+
+### Examples
+- அது உண்மை — *atu uṇmai* — "That is the truth / That is true"
+- இது அன்யாயம் — *itu anyāyam* — "This is unjust / This is an injustice"
+
+### Notes
+The predicate nominal stands bare or with the emphatic particle *tāṉ* (*atu uṇmaitāṉ* — "that is indeed true"). Interrogative attribution uses the question particle *-ā* suffixed to the nominal (*atu uṇmaiyā?* — "Is that true?"). No overt copula is required in the present tense.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**Subject + truth-domain nominal + *illai*** (negative existential)
+
+Negation of a truth-domain predicate is formed with *illai* (does not exist / is not), not with a negative copula. The nominal remains unchanged.
+
+### Examples
+- அது பொய்யில்லை — *atu poyyillai* — "That is not a lie / That is not false"
+- அது என் தவறு இல்லை — *atu eṉ tavaṟu illai* — "That is not my mistake / That is not my fault"
+
+### Notes
+*illai* is the standard negative existential used for nominal predicates across Tamil. The privative participial suffix *-aṟṟa* (e.g., *nērmaiyaṟṟa*, *nampakam aṟṟa*) performs a related but distinct function: it forms a negative attributive modifier rather than a full negative predication.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**Truth-domain adjective (*-āṉa* form) + head noun**
+
+The adjectival suffix *-āṉa* (relativized form of the copular verb *āku*) attaches to truth-domain nominals to produce prenominal modifiers. Word order is strictly modifier-before-head.
+
+### Examples
+- நம்பகமான ஆதாரம் — *nampakamāṉa ātāram* — "a reliable source / credible evidence"
+- நியாயமான கோரிக்கை — *niyāyamāṉa kōrikkai* — "a reasonable/just demand"
+
+### Notes
+The *-āṉa* suffix is fully productive across all truth-domain nominals: *uṇmaiyāṉa*, *poyyāṉa*, *nērmayāṉa*, *tavaṟāṉa*, *cariyāṉa*, *niyāyamāṉa*, *anyāyamāṉa*, *pōliyāṉa*, *kaḷḷamāṉa*, *vañcakamāṉa*. The privative *-aṟṟa* participial (e.g., *nampakam aṟṟa takaval* — "information lacking credibility") functions as an alternative negative adnominal modifier.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**Truth-domain nominal + *-āka āku*** (become + adverbial suffix)
+
+The inchoative is formed with the adverbial suffix *-āka* on the nominal plus the verb *āku* (to become). A distinct pattern uses *-paṭu* (to undergo/become) in compound verbs.
+
+### Examples
+- உண்மை வெளிப்பட்டது — *uṇmai veḷippaṭṭatu* — "The truth came to light / The truth became revealed"
+- உண்மை தெரிய வந்தது — *uṇmai teriya vantatu* — "The truth became known / The truth came out"
+
+### Notes
+Tamil does not have a single dedicated inchoative morpheme. The truth-domain inchoative is most naturally expressed through motion-and-perception verbs (*veḷippaṭu* — to become visible/emerge; *teriya va* — to come to be known) rather than through *-āka āku*, which is available but less idiomatic for this semantic field. The construction *uṇmai veḷippaṭṭatu* is the most conventionalized form for "truth coming to light."
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**Truth-domain nominal + causative stem *-paṭuttu-* + verbal noun *-tal***
+
+The causative is formed with the productive causative suffix *-paṭuttu-* (from *paṭu* — to undergo) attached to the nominal base. This pattern is attested for *uṇmai* specifically in formal and administrative registers.
+
+### Examples
+- உண்மைப்படுத்துதல் — *uṇmaippaṭuttutal* — "authentication, verification, substantiation" (the act of causing something to be established as true)
+- ஆதாரத்தை உண்மைப்படுத்து — *ātāratai uṇmaippaṭuttu* — "authenticate / substantiate the evidence"
+
+### Notes
+The *-paṭuttu* causative on *uṇmai* is attested and used in official Tamil for document authentication. However, this pattern is **not productive across the full truth-domain vocabulary**: no common *poyppaṭuttu*, *nērmaipaṭuttu*, or *niyāyappaṭuttu* has been identified. The causative for most truth-domain meanings is expressed periphrastically via light verb constructions (*niyāyam cey* — to do justice; *tavaṟu tiruttu* — to correct a mistake) rather than through morphological causativization.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**Root/nominal + *-mai*** (nominalizing suffix) **or + *taṉmai*** (quality-noun compound)
+
+Two productive patterns form abstract nominals in the truth domain: (a) the suffix *-mai* directly on a root, and (b) compounding with *taṉmai* (nature, quality).
+
+### Examples
+- பொய்மை — *poymai* — "falsehood, falseness" (*poy* + *-mai*; literary and philosophical)
+- நம்பகத்தன்மை — *nampakat-taṉmai* — "reliability, credibility, trustworthiness" (*nampakam* + *taṉmai*)
+
+### Notes
+The *-mai* suffix is the primary nominalizer: *uṇmai* (truth), *nērmai* (honesty), *poymai* (falsehood), *nērmayiṉmai* (dishonesty, via *iṉmai* — absence). The *taṉmai* compound (*uṇmai-t-taṉmai*, *nampakat-taṉmai*, *nēr-taṉmai*) produces more formal, philosophical abstract nominals and is more restricted in register. Both patterns are productive but the *taṉmai* forms are marked [MARGINAL] in everyday use.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**Truth-domain nominal + agentive suffix (*-aṉ*, *-ar*, *-āḷar*, *-āḷaṉ*)**
+
+Agentive nominals (liar, honest person, deceiver) are formed by attaching person/agentive suffixes to the truth-domain base. Number and gender distinctions are encoded in the suffix.
+
+### Examples
+- பொய்யன் — *poyyaṉ* — "liar" (masculine singular; colloquial and literary)
+- நேர்மையாளர் — *nērmayāḷar* — "person(s) of integrity / honest person(s)" (honorific/plural; formal and political)
+
+### Notes
+Agentive forms are well-attested for *poy* (*poyyaṉ* masc. sg., *poyyar* pl./honorific, *poyyāḷaṉ* more formal masc.) and *nērmai* (*nērmayāḷar*). The form *vañcakaṉ* (traitor, deceiver; from *vañcakam*) is attested in literary Tamil. No common agentive nominal meaning "truth-teller" built on *uṇmai* has been identified as a lexicalized item; the concept is expressed periphrastically (*uṇmai pēcukiṟavaṉ* — one who speaks the truth).
+
+---
+
+## 8. ADVERBIAL MODIFICATION (additional pattern)
+
+### Pattern
+**Truth-domain nominal + *-āka*** (adverbial/predicative suffix)
+
+The suffix *-āka* (converbal form of *āku*) attaches to truth-domain nominals to produce adverbials qualifying manner of action, or predicative expressions asserting a state.
+
+### Examples
+- நேர்மையாக பேசு — *nērmayāka pēcu* — "Speak honestly / Speak with integrity"
+- தவறாக புரிந்துகொண்டேன் — *tavaṟāka purinthukōṇṭēṉ* — "I understood it wrongly / I misunderstood it"
+
+### Notes
+The *-āka* suffix is fully productive across the truth-domain vocabulary: *uṇmaiyāka*, *poyyāka*, *nērmayāka*, *cariyāka*, *tavaṟāka*, *niyāyamāka*, *anyāyamāka*, *pōliyāka*. It serves both as a manner adverbial (qualifying a verb) and as a predicative complement (*itu uṇmaiyāka irukku* — "this is genuinely the case"). It is distinct from the *-āṉa* adjectival (§3) in that it modifies verbs and predicates rather than nouns.
+
+---
+
+## 9. PRIVATIVE MODIFICATION (additional pattern)
+
+### Pattern
+**Truth-domain nominal + *aṟṟa*** (privative participial) **or + *illāta*** (negative participial of *il*)
+
+Two competing patterns express the absence of a truth-domain quality as an attributive modifier. Both are productive; *illāta* is slightly more common in spoken registers.
+
+### Examples
+- நேர்மையற்ற நடத்தை — *nērmaiyaṟṟa naṭatai* — "dishonest conduct / conduct lacking integrity"
+- ஆதாரமில்லாத குற்றச்சாட்டு — *ātāramillāta kuṟṟaccāṭṭu* — "an unfounded accusation / a baseless charge"
+
+### Notes
+Both *-aṟṟa* (from *aṟu* — to be severed/lacking) and *illāta* (negative participial of *il* — to not exist) function as prenominal privative modifiers. Attested pairs include: *nampakam aṟṟa* / *nampakat-taṉmai illāta* (unreliable), *nērmai illāta* / *nērmaiyaṟṟa* (dishonest), *ātāram aṟṟa* / *ātāramillāta* (baseless). The abstract nominal of absence *iṉmai* (*nērmayiṉmai* — dishonesty) performs a related function as a full nominal rather than a modifier.
+
+---
+
+## 10. LIGHT VERB CONSTRUCTION (additional pattern)
+
+### Pattern
+**Truth-domain nominal (accusative or bare) + light verb (*col*, *pēcu*, *cey*, *kēṭku*, *koṭu*)**
+
+Tamil expresses many truth-domain verbal meanings through light verb constructions in which a nominal carries the semantic content and a semantically bleached verb provides tense, aspect, and agreement.
+
+### Examples
+- உண்மை சொல்லு — *uṇmai collu* — "Tell the truth" (*uṇmai* + *col* — say/tell)
+- நியாயம் கேட்கிறேன் — *niyāyam kēṭkiṟēṉ* — "I am asking for justice / I am demanding what is right"
+
+### Notes
+This is the primary pattern for expressing truth-domain verbal meanings in Tamil. Common light verbs in this domain: *col* / *pēcu* (say/speak: *uṇmai col*, *poy pēcu*, *niyāyam pēcu*), *cey* (do: *tavaṟu cey*, *vañcakam cey*), *kēṭku* (ask/demand: *niyāyam kēṭku*), *koṭu* (give: *cāṭci koṭu*), *kāṭṭu* (show: *nērmai kāṭṭu*), *kaṭaippiṭi* (adhere to: *nērmai kaṭaippiṭi*). Morphological causative or verbal derivation from truth-domain nominals is largely absent (cf. §5); the light verb construction fills this functional slot.

@@ -1,0 +1,1504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AOML v2.2 — Semantic Constraint Architecture</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Source+Code+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+
+/* ══ RESET ══════════════════════════════════════════════════════ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  /* Paper */
+  --paper:      #f9f6f1;
+  --paper2:     #f2ece2;
+  --paper3:     #e9e1d4;
+  --paper4:     #dfd4c2;
+
+  /* Ink */
+  --ink:        #1a1828;
+  --ink2:       #353248;
+  --ink3:       #544f6a;
+  --ink4:       #8a8598;
+
+  /* Amber — primary accent */
+  --amber:      #7a5410;
+  --amber2:     #a87828;
+  --amber-pale: #eedfc0;
+  --amber-bg:   #fdf5e4;
+
+  /* Slate — secondary accent */
+  --slate:      #1e3a5a;
+  --slate2:     #2c5480;
+  --slate-pale: #d8e8f4;
+  --slate-bg:   #eef5fb;
+
+  /* Teal — target-type accent */
+  --teal:       #0d5858;
+  --teal2:      #1a8080;
+  --teal-pale:  #c8e8e8;
+  --teal-bg:    #eaf6f6;
+
+  /* Plum — meta-axis */
+  --plum:       #4e2475;
+  --plum2:      #7848a8;
+  --plum-pale:  #e4d4f4;
+  --plum-bg:    #f4eefb;
+
+  /* Cell states */
+  --ok-bg:      #e4f2ea;   --ok-sym:  #1a6635;   --ok-bdr: #6aaa80;
+  --rk-bg:      #fef5e0;   --rk-sym:  #7a5010;   --rk-bdr: #c89040;
+  --no-bg:      #faecec;   --no-sym:  #781818;   --no-bdr: #c06060;
+  --ub-bg:      #f2d8d8;   --ub-sym:  #601010;   --ub-bdr: #a03030;
+  --un-bg:      #f0ede8;   --un-sym:  #8a8070;   --un-bdr: #c0b8a8;
+
+  /* Structural */
+  --border:     #cec4b4;
+  --border2:    #a89880;
+  --radius:     5px;
+  --shadow:     0 2px 10px rgba(26,24,40,0.07), 0 1px 3px rgba(26,24,40,0.05);
+  --shadow-lg:  0 8px 28px rgba(26,24,40,0.10), 0 2px 8px rgba(26,24,40,0.07);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--ink);
+  background: var(--paper);
+  background-image:
+    radial-gradient(ellipse at 15% 0%, rgba(122,84,16,0.07) 0%, transparent 55%),
+    radial-gradient(ellipse at 85% 95%, rgba(30,58,90,0.06) 0%, transparent 55%);
+  padding-bottom: 80px;
+}
+
+/* ══ TYPE ════════════════════════════════════════════════════════ */
+h1, h2, h3 { font-family: 'Playfair Display', Georgia, serif; }
+.mono { font-family: 'Source Code Pro', 'Courier New', monospace; }
+
+/* ══ LAYOUT ══════════════════════════════════════════════════════ */
+.page { max-width: 1340px; margin: 0 auto; padding: 0 28px; }
+
+/* ══ HEADER ══════════════════════════════════════════════════════ */
+.header-band {
+  background: var(--ink);
+  background-image:
+    radial-gradient(ellipse at 8% 60%, rgba(122,84,16,0.35) 0%, transparent 50%),
+    radial-gradient(ellipse at 92% 30%, rgba(30,58,90,0.45) 0%, transparent 50%);
+  padding: 52px 0 44px;
+  margin-bottom: 0;
+}
+
+.header-inner {
+  max-width: 1340px; margin: 0 auto; padding: 0 28px;
+  display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: start;
+}
+
+.eyebrow {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 9.5px; letter-spacing: 0.28em; text-transform: uppercase;
+  color: var(--amber2); margin-bottom: 14px;
+}
+
+.header-band h1 {
+  font-size: clamp(26px, 3.5vw, 44px); font-weight: 900;
+  color: #fff; line-height: 1.08; margin-bottom: 6px;
+}
+
+.header-band h1 em { color: var(--amber2); font-style: italic; }
+
+.header-desc {
+  font-size: 13px; color: rgba(242,236,226,0.68);
+  max-width: 580px; line-height: 1.75; margin-top: 12px; font-weight: 300;
+}
+
+.version-badge {
+  background: var(--amber); color: #fff;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 10.5px; font-weight: 600; letter-spacing: 0.16em;
+  padding: 8px 16px; border-radius: 3px; white-space: nowrap; margin-top: 4px;
+}
+
+.stats-row {
+  display: flex; gap: 28px; margin-top: 26px; flex-wrap: wrap;
+  padding-top: 20px; border-top: 1px solid rgba(242,236,226,0.12);
+}
+.stat { display: flex; flex-direction: column; gap: 2px; }
+.stat-val {
+  font-family: 'Playfair Display', serif; font-size: 24px;
+  font-weight: 700; color: var(--amber2); line-height: 1;
+}
+.stat-lbl {
+  font-family: 'Source Code Pro', monospace; font-size: 7.5px;
+  letter-spacing: 0.2em; text-transform: uppercase;
+  color: rgba(242,236,226,0.45);
+}
+
+/* ══ ARCHITECTURE CHANGE NOTICE ══════════════════════════════════ */
+.change-notice {
+  background: var(--slate-bg);
+  border-left: 4px solid var(--slate);
+  border-bottom: 1px solid var(--slate-pale);
+  padding: 16px 24px;
+}
+.change-notice p {
+  font-size: 12.5px; color: var(--slate);
+  line-height: 1.75; max-width: 900px;
+}
+.change-notice strong { color: var(--slate); }
+
+/* ══ NAV ══════════════════════════════════════════════════════════ */
+.nav-tabs {
+  display: flex; gap: 2px; padding: 0 28px;
+  background: var(--paper3);
+  border-bottom: 2px solid var(--border2);
+  position: sticky; top: 0; z-index: 30;
+  max-width: 100%; overflow-x: auto;
+}
+.nav-tab {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 9px; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--ink3); padding: 12px 18px 10px;
+  border-bottom: 3px solid transparent;
+  cursor: pointer; white-space: nowrap; text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
+}
+.nav-tab:hover { color: var(--amber); border-color: var(--amber-pale); }
+.nav-tab.active { color: var(--amber); border-color: var(--amber); }
+
+/* ══ SECTION HEADINGS ════════════════════════════════════════════ */
+.section-head {
+  display: flex; align-items: center; gap: 16px;
+  margin: 44px 0 18px;
+}
+.section-head h2 {
+  font-family: 'Source Code Pro', monospace; font-weight: 600;
+  font-size: 10px; letter-spacing: 0.24em; text-transform: uppercase;
+  color: var(--amber); white-space: nowrap;
+}
+.section-head::after {
+  content: ''; flex: 1; height: 1px;
+  background: linear-gradient(to right, var(--border), transparent);
+}
+
+.anchor { scroll-margin-top: 50px; }
+
+/* ══ TABLE WRAPPER ════════════════════════════════════════════════ */
+.table-wrap {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow-x: auto;
+  background: #fff;
+}
+
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+th, td { border: 1px solid var(--border); }
+
+/* ══ FRAMEWORK TABLE (§I) ════════════════════════════════════════ */
+.fw-table thead th {
+  background: var(--paper3);
+  padding: 10px 13px;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8.5px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--amber); text-align: center; vertical-align: middle;
+}
+.fw-table thead th:first-child { text-align: left; }
+
+.fw-table tbody td {
+  padding: 11px 14px; vertical-align: top;
+  color: var(--ink2); font-size: 12.5px; line-height: 1.55;
+}
+.fw-table tbody td:first-child {
+  background: var(--paper2); border-right: 2px solid var(--border2);
+  width: 136px; vertical-align: middle;
+}
+
+.fw-table .tier-sep td {
+  background: var(--ink); color: rgba(242,236,226,0.85);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8px; letter-spacing: 0.22em; text-transform: uppercase;
+  padding: 5px 14px; border-color: var(--ink);
+}
+
+.fw-table .meta-sep td {
+  background: #2a1845; color: rgba(220,196,248,0.85);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8px; letter-spacing: 0.22em; text-transform: uppercase;
+  padding: 5px 14px; border-color: #2a1845;
+}
+
+.fw-table .target-sep td {
+  background: #0a3838; color: rgba(180,230,230,0.85);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8px; letter-spacing: 0.22em; text-transform: uppercase;
+  padding: 5px 14px; border-color: #0a3838;
+}
+
+.fw-table .meta-row td { background: var(--plum-bg); color: var(--plum); }
+.fw-table .meta-row td:first-child { background: var(--plum-pale); }
+.fw-table .target-row td { background: var(--teal-bg); color: var(--teal); }
+.fw-table .target-row td:first-child { background: var(--teal-pale); }
+
+.axis-code {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 9px; color: var(--amber); display: block;
+  margin-bottom: 2px; letter-spacing: 0.06em;
+}
+.axis-code.meta  { color: var(--plum2); }
+.axis-code.tgt   { color: var(--teal2); }
+
+.badge {
+  display: inline-block;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 7px; letter-spacing: 0.1em;
+  padding: 2px 7px; border-radius: 3px;
+  text-transform: uppercase; font-weight: 600; margin-top: 5px;
+}
+.b-ont   { color: var(--slate); background: var(--slate-pale); border: 1px solid #a0c0dc; }
+.b-ep    { color: #0a4058; background: #d8f0f8; border: 1px solid #80c0dc; }
+.b-disp  { color: var(--ok-sym); background: var(--ok-bg); border: 1px solid var(--ok-bdr); }
+.b-norm  { color: var(--rk-sym); background: var(--rk-bg); border: 1px solid var(--rk-bdr); }
+.b-meta  { color: var(--plum); background: var(--plum-pale); border: 1px solid var(--plum2); }
+.b-tgt   { color: var(--teal); background: var(--teal-pale); border: 1px solid var(--teal2); }
+.b-prov  { color: #5a2800; background: #f8ede0; border: 1px solid #d09060; }
+
+/* ══ CORE LEGALITY MATRIX (§II) ══════════════════════════════════ */
+.matrix-table thead { position: sticky; top: 50px; z-index: 10; }
+
+.matrix-table .col-hdr th {
+  background: var(--paper3); padding: 10px 8px 9px;
+  text-align: center; vertical-align: bottom; min-width: 88px;
+}
+.matrix-table .col-hdr th:first-child {
+  text-align: left; width: 152px; min-width: 148px; vertical-align: middle;
+  position: sticky; left: 0; z-index: 12; background: var(--paper3);
+}
+
+.col-grp  { font-family: 'Source Code Pro', monospace; font-size: 7.5px; color: var(--amber); letter-spacing: 0.14em; text-transform: uppercase; display: block; margin-bottom: 3px; }
+.col-name { font-family: 'Source Code Pro', monospace; font-size: 10.5px; font-weight: 600; color: var(--ink); display: block; margin-bottom: 2px; }
+.col-desc { font-family: 'Crimson Pro', serif; font-size: 10px; font-style: italic; color: var(--ink3); display: block; }
+
+.matrix-table .sub-hdr th {
+  background: var(--paper2); font-family: 'Source Code Pro', monospace;
+  font-size: 7.5px; color: var(--ink4); text-transform: uppercase;
+  letter-spacing: 0.12em; padding: 4px 8px 5px; text-align: center;
+  border-bottom: 2px solid var(--border2);
+}
+.matrix-table .sub-hdr th:first-child {
+  text-align: left; position: sticky; left: 0;
+  background: var(--paper2); z-index: 11;
+}
+
+/* Tier bands */
+.matrix-table .tier-row td {
+  padding: 5px 16px; font-family: 'Source Code Pro', monospace;
+  font-size: 8px; letter-spacing: 0.2em; text-transform: uppercase;
+  border-color: transparent;
+}
+.ont-row  td { background: #1e3050; color: #b8d0e8; }
+.ep-row   td { background: #0a3838; color: #a8d8d8; }
+.disp-row td { background: #1a3020; color: #a0c8a8; }
+.norm-row td { background: #3a2808; color: #d8c090; }
+.ess-row  td { background: #2a1020; color: #d0a8c0; }
+
+/* Dim cell */
+.dim-cell {
+  padding: 11px 12px; vertical-align: top;
+  background: var(--paper2) !important;
+  border-right: 2px solid var(--border2) !important;
+  position: sticky; left: 0; z-index: 2;
+}
+tr:hover .dim-cell { background: var(--amber-bg) !important; }
+
+.dim-code  { font-family: 'Source Code Pro', monospace; font-size: 8.5px; color: var(--amber); display: block; margin-bottom: 2px; letter-spacing: 0.06em; }
+.dim-name  { font-family: 'Source Code Pro', monospace; font-size: 10.5px; font-weight: 600; color: var(--ink); margin-bottom: 2px; }
+.dim-desc  { font-size: 10px; color: var(--ink3); font-style: italic; line-height: 1.4; margin-bottom: 5px; }
+
+/* Data rows */
+tbody tr.data-row { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
+
+/* Op cells */
+.op-cell {
+  text-align: center; padding: 9px 5px; vertical-align: middle;
+}
+.sym {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 15px; font-weight: 700; display: block; line-height: 1; margin-bottom: 3px;
+}
+.ev  { font-family: 'Source Code Pro', monospace; font-size: 7.5px; color: var(--ink3); display: block; line-height: 1.5; }
+.fl  { font-size: 8.5px; font-style: italic; display: block; margin-top: 3px; line-height: 1.3; color: var(--ink3); }
+
+/* Cell state colours */
+.cl { background: var(--ok-bg); }
+.cl .sym { color: var(--ok-sym); }
+.cl .ev  { color: var(--ok-sym); opacity: 0.65; }
+
+.cr { background: var(--rk-bg); }
+.cr .sym { color: var(--rk-sym); }
+.cr .ev  { color: var(--rk-sym); opacity: 0.65; }
+
+.cb { background: var(--no-bg); }
+.cb .sym { color: var(--no-sym); }
+.cb .ev  { color: var(--no-sym); opacity: 0.65; }
+
+.cub { background: var(--ub-bg); outline: 2px solid var(--ub-bdr); outline-offset: -2px; }
+.cub .sym { color: var(--ub-sym); }
+.cub .ev  { color: var(--ub-sym); opacity: 0.7; }
+.cub .fl  { color: var(--ub-sym); font-style: normal; font-weight: 600; font-size: 7px; }
+
+.cu { background: var(--un-bg); }
+.cu .sym { color: var(--un-sym); }
+.cu .ev  { color: var(--un-sym); opacity: 0.6; }
+
+/* Meta-axis rows */
+.c-meta { background: var(--plum-pale); }
+.c-meta .sym { font-family: 'Crimson Pro', serif; font-size: 10px; font-style: italic; color: var(--plum); font-weight: 400; }
+
+.meta-note-row td {
+  background: var(--plum-bg);
+  border: 1px solid var(--plum-pale); border-top: none;
+  padding: 10px 18px; font-size: 11.5px;
+  color: var(--plum); line-height: 1.75;
+}
+.meta-note-row strong { color: var(--plum); }
+.meta-note-row em { color: var(--ink2); }
+
+/* Condition-note row */
+.cond-row td {
+  background: var(--amber-bg);
+  border: 1px solid var(--amber-pale); border-top: none;
+  padding: 8px 18px; font-size: 11px;
+  color: var(--amber); line-height: 1.7; font-style: italic;
+}
+
+/* ══ LEGEND ══════════════════════════════════════════════════════ */
+.legend {
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+  margin-bottom: 14px; padding: 12px 18px;
+  background: var(--paper2); border: 1px solid var(--border);
+  border-radius: var(--radius); font-size: 11.5px;
+}
+.legend-item { display: flex; align-items: center; gap: 7px; color: var(--ink2); padding: 2px 6px; }
+.swatch {
+  width: 22px; height: 18px; border-radius: 3px; border: 1px solid;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-family: 'Source Code Pro', monospace; font-size: 11px; font-weight: 700; flex-shrink: 0;
+}
+.leg-div { width: 1px; height: 18px; background: var(--border); margin: 0 4px; }
+.leg-note { margin-left: auto; font-family: 'Source Code Pro', monospace; font-size: 9px; color: var(--ink4); }
+
+/* ══ STRUCTURAL RULES TABLE (§III) ══════════════════════════════ */
+.rules-table thead th {
+  background: #0a3838; color: rgba(180,230,230,0.9);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8.5px; letter-spacing: 0.18em; text-transform: uppercase;
+  padding: 10px 14px; text-align: left;
+}
+.rules-table tbody td {
+  padding: 12px 14px; vertical-align: top;
+  font-size: 12.5px; color: var(--ink2); line-height: 1.6;
+}
+.rules-table tbody tr:nth-child(odd) td { background: var(--teal-bg); }
+.rules-table tbody tr:nth-child(even) td { background: #fff; }
+
+.rule-id {
+  font-family: 'Source Code Pro', monospace; font-size: 10px;
+  font-weight: 600; color: var(--teal); display: block; margin-bottom: 3px;
+}
+.rule-name {
+  font-family: 'Playfair Display', serif; font-weight: 700;
+  font-size: 14px; color: var(--ink); display: block; margin-bottom: 4px;
+}
+.rule-form {
+  font-family: 'Source Code Pro', monospace; font-size: 10.5px;
+  background: rgba(10,88,88,0.08); border: 1px solid var(--teal-pale);
+  border-radius: 3px; padding: 4px 10px; display: inline-block;
+  color: var(--teal); margin: 4px 0 6px;
+}
+.rule-body { font-size: 12px; color: var(--ink3); line-height: 1.65; }
+.rule-ex { font-style: italic; color: var(--ink3); }
+.rule-ufa {
+  font-family: 'Source Code Pro', monospace; font-size: 9px;
+  background: var(--amber-bg); border: 1px solid var(--amber-pale);
+  border-radius: 3px; padding: 2px 8px; color: var(--amber);
+  display: inline-block; margin-top: 5px;
+}
+
+/* ══ VALIDATION HABITATS TABLE (§IV) ════════════════════════════ */
+.hab-table thead th {
+  background: var(--slate); color: rgba(216,232,244,0.9);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8.5px; letter-spacing: 0.18em; text-transform: uppercase;
+  padding: 10px 14px; text-align: left;
+}
+.hab-table tbody td {
+  padding: 11px 14px; vertical-align: top;
+  font-size: 12.5px; color: var(--ink2); line-height: 1.6;
+}
+.hab-table tbody tr:nth-child(odd) td { background: var(--slate-bg); }
+.hab-table tbody tr:nth-child(even) td { background: #fff; }
+
+.method-chip {
+  display: inline-block;
+  font-family: 'Source Code Pro', monospace; font-size: 8.5px;
+  padding: 2px 8px; border-radius: 3px; margin: 2px 3px 2px 0;
+  font-weight: 600;
+}
+.m-obs  { background: #e0f0e8; color: #1a5028; border: 1px solid #90c8a0; }
+.m-exp  { background: #e0eef8; color: #1a3858; border: 1px solid #90b8d8; }
+.m-prov { background: #f8ede0; color: #5a2800; border: 1px solid #d09060; }
+.m-test { background: #f0e8f8; color: #3a1858; border: 1px solid #b080d0; }
+.m-log  { background: #e8e0f8; color: #281858; border: 1px solid #9880d0; }
+.m-stat { background: #e8f4e0; color: #1a4010; border: 1px solid #90b870; }
+.m-con  { background: #fef8e0; color: #5a4000; border: 1px solid #c8a840; }
+.m-pri  { background: #fce8e8; color: #601010; border: 1px solid #d08080; }
+
+.fallacy-tag {
+  font-family: 'Source Code Pro', monospace; font-size: 8px;
+  background: var(--no-bg); border: 1px solid var(--no-bdr);
+  color: var(--no-sym); padding: 1px 6px; border-radius: 3px;
+  display: inline-block; margin: 2px 2px 0 0;
+}
+
+/* ══ NOTES / CALLOUTS ════════════════════════════════════════════ */
+.callout {
+  padding: 16px 20px; border-radius: 0 var(--radius) var(--radius) 0;
+  font-size: 12.5px; line-height: 1.8; color: var(--ink2);
+  margin: 16px 0;
+}
+.callout-amber {
+  background: var(--amber-bg); border: 1px solid var(--amber-pale);
+  border-left: 4px solid var(--amber);
+}
+.callout-teal {
+  background: var(--teal-bg); border: 1px solid var(--teal-pale);
+  border-left: 4px solid var(--teal);
+}
+.callout-plum {
+  background: var(--plum-bg); border: 1px solid var(--plum-pale);
+  border-left: 4px solid var(--plum);
+}
+.callout-slate {
+  background: var(--slate-bg); border: 1px solid var(--slate-pale);
+  border-left: 4px solid var(--slate);
+}
+.callout-title {
+  font-family: 'Source Code Pro', monospace; font-size: 8.5px;
+  letter-spacing: 0.2em; text-transform: uppercase;
+  font-weight: 600; display: block; margin-bottom: 7px;
+}
+.ct-amber { color: var(--amber); }
+.ct-teal  { color: var(--teal); }
+.ct-plum  { color: var(--plum); }
+.ct-slate { color: var(--slate); }
+
+/* ══ DEEP HYPOTHESIS BOX ════════════════════════════════════════ */
+.deep-box {
+  background: #0d0e1a;
+  border: 1px solid #2a2840;
+  border-radius: var(--radius);
+  padding: 28px 32px;
+  margin: 24px 0;
+  box-shadow: var(--shadow-lg);
+}
+.deep-box h3 {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 9px; letter-spacing: 0.24em; text-transform: uppercase;
+  color: var(--amber2); margin-bottom: 16px;
+}
+.deep-box p {
+  font-size: 13px; color: rgba(240,235,220,0.78);
+  line-height: 1.8; margin-bottom: 12px; max-width: 840px;
+}
+.deep-hypothesis {
+  font-family: 'Playfair Display', serif; font-style: italic;
+  font-size: 16px; color: rgba(240,235,220,0.95);
+  border-left: 3px solid var(--amber2);
+  padding: 10px 18px; margin: 16px 0;
+  line-height: 1.6; max-width: 800px;
+}
+.target-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 16px 0;
+}
+.target-card {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 4px; padding: 14px 16px;
+}
+.target-card-title {
+  font-family: 'Source Code Pro', monospace; font-size: 9px;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  margin-bottom: 6px; display: block;
+}
+.tc-fact { color: #90c8e8; }
+.tc-ep   { color: #90d8b8; }
+.tc-disp { color: #d8b890; }
+.target-card p { font-size: 11px; color: rgba(240,235,220,0.6); line-height: 1.6; }
+
+/* ══ FOOTER ══════════════════════════════════════════════════════ */
+.doc-footer {
+  margin-top: 44px; padding: 20px 0;
+  border-top: 1px solid var(--border);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 8.5px; color: var(--ink4); line-height: 1.9;
+}
+
+/* ══ RESPONSIVE ══════════════════════════════════════════════════ */
+@media (max-width: 860px) {
+  .header-inner { grid-template-columns: 1fr; }
+  .version-badge { display: none; }
+  .target-grid { grid-template-columns: 1fr; }
+}
+
+/* ══ META-PRINCIPLE BOX (§VI) ═══════════════════════════════════ */
+:root {
+  --crimson:      #7a1020;
+  --crimson2:     #a82838;
+  --crimson-pale: #f0d0d4;
+  --crimson-bg:   #fdf0f1;
+}
+
+.meta-principle-box {
+  background: #1a0a0e;
+  border: 1px solid #3a1820;
+  border-radius: var(--radius);
+  padding: 28px 32px;
+  margin: 24px 0;
+  box-shadow: var(--shadow-lg);
+}
+.meta-principle-box h3 {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 9px; letter-spacing: 0.24em; text-transform: uppercase;
+  color: var(--crimson2); margin-bottom: 16px;
+}
+.meta-principle-box p {
+  font-size: 13px; color: rgba(240,235,220,0.78);
+  line-height: 1.8; margin-bottom: 12px; max-width: 840px;
+}
+.meta-principle-box strong { color: rgba(240,235,220,0.95); }
+
+.meta-hypothesis {
+  font-family: 'Playfair Display', serif; font-style: italic;
+  font-size: 16px; color: rgba(240,235,220,0.95);
+  border-left: 3px solid var(--crimson2);
+  padding: 10px 18px; margin: 16px 0;
+  line-height: 1.6; max-width: 800px;
+}
+
+.valid-function {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 11.5px; line-height: 1.9;
+  background: rgba(168,40,56,0.12);
+  border: 1px solid rgba(168,40,56,0.3);
+  border-radius: 4px; padding: 16px 22px;
+  color: rgba(240,235,220,0.85);
+  margin: 16px 0; max-width: 700px;
+  white-space: pre-line;
+}
+.valid-function .keyword { color: var(--crimson2); font-weight: 600; }
+.valid-function .comment { color: rgba(240,235,220,0.45); font-style: italic; }
+
+.connection-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; margin: 16px 0;
+}
+.connection-card {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 4px; padding: 14px 16px;
+}
+.connection-card-title {
+  font-family: 'Source Code Pro', monospace; font-size: 9px;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  margin-bottom: 6px; display: block; color: var(--crimson2);
+}
+.connection-card p { font-size: 11px; color: rgba(240,235,220,0.6); line-height: 1.6; }
+
+.b-confirmed { color: #1a6635; background: #e4f2ea; border: 1px solid #6aaa80; }
+
+.callout-crimson {
+  background: var(--crimson-bg); border: 1px solid var(--crimson-pale);
+  border-left: 4px solid var(--crimson);
+}
+.ct-crimson { color: var(--crimson); }
+
+@media (max-width: 860px) {
+  .connection-grid { grid-template-columns: 1fr; }
+}
+
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════════════════
+     HEADER
+     ════════════════════════════════════════════════════════════════ -->
+<div class="header-band">
+  <div class="header-inner">
+    <div>
+      <div class="eyebrow">AOML · Axis–Operator–Method–Level · Three-Layer Constraint Architecture</div>
+      <h1>Semantic Constraint Architecture<br><em>Claim Structure · Structural Rules · Validation Habitats</em></h1>
+      <p class="header-desc">
+        Minimal formal core derived from Cross-Linguistic Compositional Analysis (CLCA) across 16 typologically unrelated languages
+        and consolidated against the 16-language union pipeline. Separates primitive claim structure (six primary axes, four meta-axes,
+        core operators, four levels) from empirically discovered structural rules (R1–R9) and validation-habitat constraints.
+        Its central result is the <strong>meta-axis substitution family</strong> — a single schema, M[A] ↛ A, instantiated on each of
+        the four meta-axes — which grounds the Universal Fallacy Architecture (UFA) without ontology inflation.
+      </p>
+      <div class="stats-row">
+        <div class="stat"><span class="stat-val">6</span><span class="stat-lbl">Primary Axes</span></div>
+        <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">Meta-Axes</span></div>
+        <div class="stat"><span class="stat-val">7</span><span class="stat-lbl">Core Operators</span></div>
+        <div class="stat"><span class="stat-val">3</span><span class="stat-lbl">Target Types</span></div>
+        <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">Levels</span></div>
+        <div class="stat"><span class="stat-val">8</span><span class="stat-lbl">Methods</span></div>
+        <div class="stat"><span class="stat-val">9</span><span class="stat-lbl">Structural Rules</span></div>
+        <div class="stat"><span class="stat-val">5</span><span class="stat-lbl">UFA Types</span></div>
+      </div>
+    </div>
+    <div class="version-badge">AOML v2.2</div>
+  </div>
+</div>
+
+<!-- Change notice -->
+<div class="change-notice">
+  <p class="page" style="padding-top:14px;padding-bottom:14px;">
+    <strong>v2.2 changes from v2.1:</strong>
+    (1) LIFE primary axis → LIKE meta-axis — verisimilitude reanalyzed as the grammaticalized similative ("resembles A without being A"); primary axes 7 → 6.
+    (2) EVID meta-axis added (evidentiality — source-of-knowledge marking); meta-axes 2 → 4 (DEG, TEMP, LIKE, EVID).
+    (3) Three new structural rules — R7 (agentive polarity asymmetry), R8 (LIKE substitution), R9 (EVID substitution).
+    (4) R1 refined — blocks direct causation of a dispositional state, not indirect facilitation of conditions.
+    (5) Empirical ratification of the v2.1 core by the 16-language union pipeline (R1, R3, R4, REVEAL, DEG, target-type ontology — all attested in both independent language sets).
+    The abandoned v2.2 "causal-fabrication" draft (VALID / IDEAL / § VI meta-principle) is superseded by this document.
+  </p>
+</div>
+
+<!-- Nav -->
+<nav class="nav-tabs">
+  <a class="nav-tab active" href="#framework">§ I · Geometry</a>
+  <a class="nav-tab" href="#matrix">§ II · Legality Matrix</a>
+  <a class="nav-tab" href="#rules">§ III · Rules R1–R9</a>
+  <a class="nav-tab" href="#habitats">§ IV · Habitats</a>
+  <a class="nav-tab" href="#hypothesis">§ V · Substitution Family</a>
+  <a class="nav-tab" href="#metaprinciple">§ VI · Refinements</a>
+</nav>
+
+<div class="page">
+
+<!-- ════════════════════════════════════════════════════════════════
+     § I — FRAMEWORK
+     ════════════════════════════════════════════════════════════════ -->
+<div id="framework" class="anchor">
+  <div class="section-head"><h2>§ I — Primitive Geometry: Axes · Meta-Axes · Operators · Levels</h2></div>
+</div>
+
+<div class="callout callout-amber">
+  <span class="callout-title ct-amber">Design Principle</span>
+  Only make something primitive if the whole theory breaks without it.
+  Everything else lives in subregions (Layer 2), condition overlays (Structural Rules §III), or derived observations.
+  The test for each element: does removing it collapse the constraint geometry, or just lose descriptive coverage?
+</div>
+
+<div class="table-wrap">
+<table class="fw-table">
+  <thead>
+    <tr>
+      <th style="text-align:left;width:136px;">Element</th>
+      <th>Role</th>
+      <th>Description</th>
+      <th>Target Type</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- PRIMARY AXES -->
+    <tr class="tier-sep"><td colspan="5">LAYER 1A — PRIMARY AXES · answer: what kind of claim is being made?</td></tr>
+
+    <tr class="data-row">
+      <td><span class="axis-code">VER</span><strong>VERIDICAL</strong><br><span class="badge b-ep">Epistemic</span></td>
+      <td>Factual correspondence</td>
+      <td>Truth-value of propositions; correspondence between claim and state of affairs. The paradigm case of truth — what most people mean by "true" or "false."</td>
+      <td><span class="badge b-ep">Epistemic</span></td>
+      <td>Subregions: factual truth, correctness, reality-contact</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">AUTH</span><strong>AUTHENTICITY</strong><br><span class="badge b-ont">Ontological</span></td>
+      <td>Genuine vs. counterfeit</td>
+      <td>Origin integrity of objects, documents, artifacts. Whether something is the original or an imitation. Validated by provenance, not observation.</td>
+      <td><span class="badge b-ont">Ontological</span></td>
+      <td>Subregions: genuineness, originality; polarity asymmetry in CAUSE (R3)</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">SINC</span><strong>SINCERITY</strong><br><span class="badge b-disp">Dispositional</span></td>
+      <td>Honesty of intent</td>
+      <td>Inner alignment between stated and actual belief or intention. Validated by testimony and pattern of conduct — not directly observable. Virtue, not fact.</td>
+      <td><span class="badge b-disp">Dispositional</span></td>
+      <td>Subregions: honesty, reliability, faithfulness. Universal causation block (R1)</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">NORM</span><strong>NORMATIVE</strong><br><span class="badge b-norm">Institutional</span></td>
+      <td>Rightness / justice</td>
+      <td>Moral, legal, or procedural correctness. Ought-claims. What should be the case rather than what is. Validated by principle or consensus — not experiment.</td>
+      <td><span class="badge b-norm">Institutional</span></td>
+      <td>Subregions: justice, legitimacy, appropriateness. Direct causation resisted</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">ESS</span><strong>ESSENCE</strong><br><span class="badge b-ont">Ontological</span></td>
+      <td>Inherent nature</td>
+      <td>Fundamental, definitional, or necessary properties. What something is by its nature, not by observation or social convention. Resistance to change is intrinsic.</td>
+      <td><span class="badge b-ont">Ontological</span></td>
+      <td>CAUSE and BECOME strongly blocked. Abstract nominalization marginal (R2)</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">VERIF</span><strong>VERIFICATION</strong><br><span class="badge b-ep">Epistemic</span></td>
+      <td>Evidential proof</td>
+      <td>The process of establishing, proving, or confirming a claim through appropriate evidence. Distinct from VERIDICAL: VERIF is the epistemic act of validation, not the state of correspondence.</td>
+      <td><span class="badge b-ep">Epistemic</span></td>
+      <td>Runs claim→world (see §V). Strong RESULT and ATTR licensing</td>
+    </tr>
+
+    <!-- META-AXES -->
+    <tr class="meta-sep"><td colspan="5">LAYER 1B — META-AXES · answer: what grammatical modulation of a primary-axis claim is asserted? Cannot substitute for the host (R5 · R6 · R8 · R9)</td></tr>
+
+    <tr class="data-row meta-row">
+      <td><span class="axis-code meta">DEG</span><strong>DEGREE</strong><br><span class="badge b-meta">Meta</span></td>
+      <td>Magnitude modifier</td>
+      <td>Intensity, threshold, and comparison position of a claim on any primary axis. Ordinal in natural language: more/less, enough/too much, greater than. Structurally analogous to f′(x) — the derivative of the primary-axis claim.</td>
+      <td>—</td>
+      <td>Inherits operators from host axis. Cannot substitute for host in inference (R5). Confirmed by both CLCA protocols (seeded + naive)</td>
+    </tr>
+    <tr class="data-row meta-row">
+      <td><span class="axis-code meta">TEMP</span><strong>TEMPORAL</strong><br><span class="badge b-meta">Meta</span></td>
+      <td>Position modifier</td>
+      <td>Order, direction, and persistence of a claim across time. Ordinal: before/after, already/not yet, earlier/later. Adds internal stratification (past / present / future levels). Analogous to ∫f(x).</td>
+      <td>—</td>
+      <td>Inherits operators from host axis. Internal level stratification generates Type 4 UFA violations when crossed. Now CLCA-confirmed via the reliability construction (sustained sincerity = TEMP[SINC], attested in both sets); substitution prohibited (R6)</td>
+    </tr>
+    <tr class="data-row meta-row">
+      <td><span class="axis-code meta">LIKE</span><strong>LIKENESS</strong><br><span class="badge b-meta">Meta</span></td>
+      <td>Similative modifier</td>
+      <td>"Resembles A without being A." The grammaticalized similative — verisimilitude is LIKE[VER], lifelikeness its aesthetic subset. Host-dependent valence: forgery (AUTH), hypocrisy (SINC), sophistry (VERIF), demagoguery (NORM), truthiness (VER), illusion (ESS). Reclassifies what v2.1 listed as the LIFE primary axis.</td>
+      <td>—</td>
+      <td>Inherits operators from host; cannot substitute for it (R8). Truth-stem + similative compound attested in 6 unrelated traditions [CLCA-BOTH]</td>
+    </tr>
+    <tr class="data-row meta-row">
+      <td><span class="axis-code meta">EVID</span><strong>EVIDENTIALITY</strong><br><span class="badge b-meta">Meta</span></td>
+      <td>Source modifier</td>
+      <td>Marks the source of a claim — directly witnessed, reported (hearsay), or inferred (conjectural). Grammaticalized three-way in Quechua (-m/-mi · -s/-si · -chá); lexical across the sample.</td>
+      <td>—</td>
+      <td>Inherits operators from host; cannot substitute for it (R9). Distinct from the validation-habitat layer (descriptive source-marking vs normative admissibility)</td>
+    </tr>
+
+    <!-- OPERATORS -->
+    <tr class="tier-sep"><td colspan="5">LAYER 1C — CORE OPERATORS · answer: what structural transformation or relation is being asserted?</td></tr>
+
+    <tr class="data-row">
+      <td><span class="axis-code">ATTR</span><strong>ATTRIBUTION</strong></td>
+      <td>Assign property</td>
+      <td>"X is [axis]" — assigns a truth-kind property to a subject. The most basic assertion. Universally licensed across all primary axes.</td>
+      <td>—</td>
+      <td>✓ All axes. No restrictions. Universal cross-linguistically</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">CAUSE</span><strong>CAUSATION</strong></td>
+      <td>Bring about state</td>
+      <td>"Make X [axis]" — external agent produces or destroys a state. Licensing is polarity-conditioned and target-type-conditioned. The most restricted operator in the system.</td>
+      <td>—</td>
+      <td>Restricted: target-type governs licensing. Polarity asymmetry for AUTH. See R1, R3</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">BECOME</span><strong>BECOMING</strong></td>
+      <td>Change of state</td>
+      <td>"X becomes [axis]" — subject transitions into an axis-state. Directionally asymmetric: positive emergence is natural, negative emergence is marked or blocked in most languages.</td>
+      <td>—</td>
+      <td>Biased: positive states (become-true/real) >> negative (become-false/fake). See R4</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">RESULT</span><strong>RESULT</strong></td>
+      <td>State established</td>
+      <td>"X proved/turned out to be [axis]" — marks an achieved or discovered state. Universally licensed. The pathway through which REVEAL-type constructions are often realized.</td>
+      <td>—</td>
+      <td>✓ All axes. Near-universal licensing</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">ABSTR</span><strong>ABSTRACTION</strong></td>
+      <td>Nominalize concept</td>
+      <td>"Truth / justice / authenticity" — converts an axis-property into a standalone concept. Universally productive; marginal for ESSENCE. The LIKE similative has no independent nominalization — it inherits from its host.</td>
+      <td>—</td>
+      <td>✓ Most axes. Marginal for ESS (cross-linguistically)</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">STRAT</span><strong>STRATIFICATION</strong></td>
+      <td>Layered distinction</td>
+      <td>"Inner vs outer truth / surface vs deep sincerity" — marks internal contrast within an axis. Universally attested. The operation through which levels become linguistically accessible.</td>
+      <td>—</td>
+      <td>✓ All axes. Restricted for AUTH and SINC (surface stratification less natural)</td>
+    </tr>
+    <tr class="data-row">
+      <td><span class="axis-code">CONTR</span><strong>CONTRAST</strong></td>
+      <td>Negative attribution</td>
+      <td>"Not true / unreliable / invalid" — predicates the negative pole of a truth-claim (CF2 negation; the negation partner of ATTR). Universally licensed [CLCA-BOTH]. Operator-level misuse → UFA Type 2. Distinct from the opposition FRAME (the precondition), whose misconfiguration is Type 5.</td>
+      <td>—</td>
+      <td>✓ All axes. Negation universal. Type 5 belongs to the FRAME precondition, not to this operator.</td>
+    </tr>
+
+    <tr class="data-row">
+      <td><span class="axis-code">REVEAL</span><strong>REVELATION</strong><br><span class="badge b-confirmed">CLCA-BOTH</span></td>
+      <td>Disclosure of latent truth</td>
+      <td>"X was revealed to be [axis]" — presupposes a latent pre-existing host-axis state, disclosed rather than constructed. Attested in the intransitive truth-revelation construction across 16/16 languages in both CLCA sets (Sets A &amp; B). The former "LIFE blocks REVEAL" diagnostic is retired: LIKE[A] is resemblance with no latent A to disclose, so the restriction follows from the meta-axis structure, not a separate axis.</td>
+      <td>—</td>
+      <td>Provisional primitive (pending cross-architectural validation). Encodes a structural presupposition that RESULT + STRAT cannot reconstruct. See § II for full operator–axis licensing.</td>
+    </tr>
+
+    <!-- LEVELS -->
+    <tr class="tier-sep"><td colspan="5">LAYER 1D — LEVELS · answer: at what stratum is the claim operating?</td></tr>
+
+    <tr class="data-row"><td><span class="axis-code">EMP</span><strong>EMPIRICAL</strong></td><td>Physical observation</td><td>Claims grounded in observable, testable states of the world. Validated by OBSERVATION or EXPERIMENT.</td><td>—</td><td>Default for VER, AUTH</td></tr>
+    <tr class="data-row"><td><span class="axis-code">CONV</span><strong>CONVENTIONAL</strong></td><td>Social / legal norms</td><td>Claims grounded in institutional, cultural, or socially agreed standards. Validated by CONSENSUS or PRINCIPLE.</td><td>—</td><td>Default for SINC, NORM</td></tr>
+    <tr class="data-row"><td><span class="axis-code">FORM</span><strong>FORMAL</strong></td><td>Logical / mathematical</td><td>Claims grounded in logical or mathematical necessity. Validated by LOGIC or STATISTICS.</td><td>—</td><td>Default for ESS, VERIF</td></tr>
+    <tr class="data-row"><td><span class="axis-code">ULT</span><strong>ULTIMATE</strong></td><td>Metaphysical / definitional</td><td>Claims grounded in fundamental or definitional necessity. Not falsifiable by empirical counter-example.</td><td>—</td><td>ESS claims often reach ULTIMATE. Level-crossing without justification = Type 4 UFA</td></tr>
+
+    <!-- TARGET TYPES -->
+    <tr class="target-sep"><td colspan="5">LAYER 2 — TARGET-TYPE CLASSES · cross-cutting structural partition over the primary-axis space; governs differential operator licensing</td></tr>
+
+    <tr class="data-row target-row">
+      <td><span class="axis-code tgt">FACT</span><strong>FACTUAL</strong><br><span class="badge b-tgt">Target Type</span></td>
+      <td>States of reality</td>
+      <td>VER, AUTH — properties of things in the world. Externally observable and, for some axes, externally producible. The paradigm domain for OBSERVATION and EXPERIMENT.</td>
+      <td><span class="badge b-tgt">Cross-cutting</span></td>
+      <td>CAUSE generally licensed (subject to polarity conditions). BECOME natural for VER, asymmetric for AUTH</td>
+    </tr>
+    <tr class="data-row target-row">
+      <td><span class="axis-code tgt">EPIST</span><strong>EPISTEMIC</strong><br><span class="badge b-tgt">Target Type</span></td>
+      <td>Knowledge states</td>
+      <td>VER (as belief state), VERIF — properties of claims or belief-states relative to evidence. VERIF runs claim→world (testing); VER can run world→claim (discovery). Both resist direct causation of the epistemic state itself.</td>
+      <td><span class="badge b-tgt">Cross-cutting</span></td>
+      <td>RESULT and ATTR strongly licensed. CAUSE restricted (cannot directly cause knowledge — only conditions that facilitate it)</td>
+    </tr>
+    <tr class="data-row target-row">
+      <td><span class="axis-code tgt">DISP</span><strong>DISPOSITIONAL</strong><br><span class="badge b-tgt">Target Type</span></td>
+      <td>Character states</td>
+      <td>SINC — stable inner tendencies of agents. Not observable states of the world, not epistemic states — they are cultivated through practice and revealed through pattern of conduct. Universal causation block (R1) applies exclusively to this type.</td>
+      <td><span class="badge b-tgt">Cross-cutting</span></td>
+      <td>CAUSE universally blocked (p &lt; 10⁻⁹). BECOME marginal. RESULT and REVEAL licensed. This is the deepest structural constraint in the system.</td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="callout callout-teal">
+  <span class="callout-title ct-teal">LIKE[A] — the similative</span>
+  "Resembles A without being A." Host-dependent valence: positive for the aesthetic LIKE[VER] (lifelikeness, the goal of art),
+  negative elsewhere — LIKE[AUTH] = forgery, LIKE[SINC] = hypocrisy, LIKE[VERIF] = sophistry, LIKE[NORM] = demagoguery, LIKE[ESS] = illusion.
+  Verisimilitude = LIKE[VER]. Grammaticalized via a truth-stem + similative compound in six unrelated traditions
+  (Latin <em>vēri-similis</em>, Tagalog <em>parang totoo</em>, Quechua <em>cheqa hina</em>, Chinese 逼真, Greek αληθοφανής, Sanskrit <em>-ābhāsa</em>).
+  Distinct from DEG: DEG is how-much (on A’s scale); LIKE is resemblance (off A’s scale). Substitution LIKE[A] ↛ A is prohibited by R8.
+</div>
+
+<div class="callout callout-slate">
+  <span class="callout-title ct-slate">EVID[A] — evidentiality</span>
+  Marks the source of knowledge: DIRECT (witnessed, Quechua <em>-m/-mi</em>), REPORTED (hearsay, <em>-s/-si</em>), CONJECTURAL (inferred, <em>-chá</em>).
+  Grammaticalized three-way in Quechua; lexical across the sample. Distinct from DEG (magnitude vs. source-kind) and from the validation-habitat
+  layer — EVID is the speaker’s descriptive source-marking, habitats are normative admissibility (note the overlap: TESTIMONY ≈ EVID-REPORTED,
+  OBSERVATION ≈ EVID-DIRECT). Substitution EVID[A] ↛ A is prohibited by R9.
+</div>
+
+<div class="callout callout-amber">
+  <span class="callout-title ct-amber">The opposition FRAME — precondition, not operator</span>
+  Distinct from the CONTR operator above: the <strong>FRAME</strong> is the opposition topology — the value-space each axis carves between a claim
+  and its negation, <strong>binary by default</strong> (the foundational truth/falsehood antonym pair is universal, CU-10). It is the
+  <strong>precondition</strong> the Axis / Operator / Method / Level distinctions presuppose (Paper III), not a coordinate operator. Misconfiguring it —
+  imposing a binary where the space is N-ary (false dilemma), or collapsing a real distinction (false equivalence) — is <strong>UFA Type 5</strong>.
+  CF2 negation (CONTR) is an attested universal operator; bivalence is a property of the per-axis FRAME. Conflating the two produced the old
+  "operator or precondition?" tension — the answer is both, because they are different layers.
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════
+     § II — CORE LEGALITY MATRIX
+     ════════════════════════════════════════════════════════════════ -->
+<div id="matrix" class="anchor">
+  <div class="section-head"><h2>§ II — Core Legality Matrix · Primary Axes × Core Operators</h2></div>
+</div>
+
+<div class="callout callout-amber">
+  <span class="callout-title ct-amber">What this table represents</span>
+  This is the primitive legality layer only. It shows whether an operator is licensed (✓), restricted/conditioned (△),
+  or blocked (✗) for each primary axis as a default structural fact.
+  Polarity effects, target-type effects, and meta-axis substitution errors are captured in Structural Rules (§III),
+  not in this table. REVEAL is a provisional primitive (v2.2); the former LIFE/REVEAL diagnostic is retired — see § I.
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="swatch" style="background:var(--ok-bg);border-color:var(--ok-bdr);color:var(--ok-sym);">✓</div>Licensed — default structurally permitted</div>
+  <div class="legend-item"><div class="swatch" style="background:var(--rk-bg);border-color:var(--rk-bdr);color:var(--rk-sym);">△</div>Restricted — licensed under conditions (see §III)</div>
+  <div class="legend-item"><div class="swatch" style="background:var(--no-bg);border-color:var(--no-bdr);color:var(--no-sym);">✗</div>Blocked — structurally prohibited</div>
+  <div class="legend-item"><div class="swatch" style="background:var(--ub-bg);border:2px solid var(--ub-bdr);color:var(--ub-sym);">✗</div>Universal block — p &lt; 10⁻⁹, 16/16 languages</div>
+  <div class="leg-div"></div>
+  <span class="leg-note">Target type shown in row · Conditions in §III · REVEAL confirmed (v2.2)</span>
+</div>
+
+<div class="table-wrap">
+<table class="matrix-table">
+  <thead>
+    <tr class="col-hdr">
+      <th><span class="mono" style="font-size:8px;color:var(--ink4);letter-spacing:0.1em;">AXIS ↓ / OP →</span></th>
+      <th><span class="col-grp">O1</span><span class="col-name">ATTR</span><span class="col-desc">"X is [axis]"</span></th>
+      <th><span class="col-grp">O2</span><span class="col-name">CAUSE</span><span class="col-desc">"make X [axis]"</span></th>
+      <th><span class="col-grp">O3</span><span class="col-name">BECOME</span><span class="col-desc">"X becomes [axis]"</span></th>
+      <th><span class="col-grp">O4</span><span class="col-name">RESULT</span><span class="col-desc">"X proved [axis]"</span></th>
+      <th><span class="col-grp">O5</span><span class="col-name">ABSTR</span><span class="col-desc">"truth / justice"</span></th>
+      <th><span class="col-grp">O6</span><span class="col-name">STRAT</span><span class="col-desc">"inner/outer [axis]"</span></th>
+      <th><span class="col-grp">O7</span><span class="col-name">CONTR</span><span class="col-desc">"[axis] vs not-[axis]"</span></th>
+      <th><span class="col-grp">O8</span><span class="col-name">REVEAL</span><span class="col-desc">"X revealed [axis]"</span></th>
+    </tr>
+    <tr class="sub-hdr">
+      <th>Type · Code</th>
+      <th>C1</th><th>C2</th><th>C3</th><th>C4</th><th>C5</th><th>C6</th><th>C7</th><th>C8</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- EPISTEMIC axes -->
+    <tr class="tier-row ep-row"><td colspan="9">Epistemic Axes — knowledge and evidence states</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">VER · Epistemic</span>
+        <div class="dim-name">VERIDICAL</div>
+        <div class="dim-desc">Propositional truth; factual correspondence</div>
+        <span class="badge b-ep">Epistemic</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">factual states can be produced; direct production of belief-state is limited</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">positive bias (become-true natural); negative dispreferred — see R4</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Licensed</span><span class="fl">revelation constructions universal for truth-states</span></td>
+    </tr>
+    <tr class="cond-row"><td colspan="9">Condition (C2): CAUSE licenses production of facts or states but not direct causation of the knowledge-state itself. Condition (C3): positive inchoative strongly preferred; negative form ("becomes false") dispreferred or blocked in most languages (R4).</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">VERIF · Epistemic</span>
+        <div class="dim-name">VERIFICATION</div>
+        <div class="dim-desc">Evidential establishment; proof; claim validation</div>
+        <span class="badge b-ep">Epistemic</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">can create conditions for verification; cannot directly cause verification</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">verification processes can develop; verification states are achieved, not undergone</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span><span class="fl">primary realization</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Licensed</span><span class="fl">verification revealed through evidential process</span></td>
+    </tr>
+
+    <!-- ONTOLOGICAL axes -->
+    <tr class="tier-row ont-row"><td colspan="9">Ontological Axes — properties of things in the world</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">AUTH · Ontological</span>
+        <div class="dim-name">AUTHENTICITY</div>
+        <div class="dim-desc">Genuine vs. counterfeit; origin integrity</div>
+        <span class="badge b-ont">Ontological</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Polarity-conditioned</span><span class="fl">CAUS− (destroy/forge) licensed; CAUS+ (create) blocked — see R3</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Marginal</span><span class="fl">authenticity is revealed, not acquired incrementally</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">internal stratification less natural for material origin</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Licensed</span><span class="fl">authenticity revealed, not produced — natural cross-linguistically</span></td>
+    </tr>
+    <tr class="cond-row"><td colspan="9">Condition (C2): Polarity asymmetry — CAUSE(+) blocked (authenticity cannot be manufactured externally), CAUSE(−) licensed (forgery, destruction of authenticity is natural cross-linguistically). This is the strongest argument for the ontological axis class distinction (R3).</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">ESS · Ontological</span>
+        <div class="dim-name">ESSENCE</div>
+        <div class="dim-desc">Inherent nature; definitional properties</div>
+        <span class="badge b-ont">Ontological</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cb"><span class="sym">✗</span><span class="ev">Blocked</span><span class="fl">essential properties are intrinsic; external causation violates the axis</span></td>
+      <td class="op-cell cb"><span class="sym">✗</span><span class="ev">Blocked</span><span class="fl">things do not become their essence; they either have it or do not</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Marginal</span><span class="fl">can result in classification; less natural for deep essence claims</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Marginal</span><span class="fl">abstract nominalization marginal cross-linguistically for ESS</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Licensed</span><span class="fl">"Reveal its essential nature" — natural cross-linguistically</span></td>
+    </tr>
+
+    <!-- DISPOSITIONAL -->
+    <tr class="tier-row disp-row"><td colspan="9">Dispositional Axis — character states of agents · universal causation block applies</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">SINC · Dispositional</span>
+        <div class="dim-name">SINCERITY</div>
+        <div class="dim-desc">Honesty of intent; inner moral alignment</div>
+        <span class="badge b-disp">Dispositional</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cub"><span class="sym">✗</span><span class="ev">16/16 languages</span><span class="fl">UNIVERSAL BLOCK · p &lt; 10⁻⁹</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Marginal</span><span class="fl">character development is possible but internally driven — not simple transition</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">surface/deep sincerity distinction exists but less productive than other axes</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Licensed</span><span class="fl">character revealed through conduct — natural cross-linguistically</span></td>
+    </tr>
+    <tr class="cond-row"><td colspan="9">Universal Causation Block (R1): CAUSE universally blocked for SINC across all 16 languages (Fisher's exact p &lt; 10⁻⁹). Character traits are internally cultivated, not externally produced. This is the strongest single empirical finding of CLCA and the primary evidence for the DISPOSITIONAL target-type class.</td></tr>
+
+    <!-- NORMATIVE -->
+    <tr class="tier-row norm-row"><td colspan="9">Normative Axis — moral and institutional rightness</td></tr>
+
+    <tr class="data-row">
+      <td class="dim-cell">
+        <span class="dim-code">NORM · Institutional</span>
+        <div class="dim-name">NORMATIVE</div>
+        <div class="dim-desc">Justice / rightness; ought-claims</div>
+        <span class="badge b-norm">Institutional</span>
+      </td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">institutional causation (law, policy) licensed; direct personal causation resisted</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">normative states can shift; direction depends on institutional process</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
+      <td class="op-cell cr"><span class="sym">△</span><span class="ev">Restricted</span><span class="fl">normative claims revealed through precedent, but less natural</span></td>
+    </tr>
+
+    <!-- META-AXES -->
+    <tr class="tier-row" style="background:#2a1845;"><td colspan="9" style="color:rgba(220,196,248,0.8);">Meta-Axes — inherit operators from host primary axis · cannot substitute for host in any inference step</td></tr>
+
+    <tr class="data-row" style="background:var(--plum-bg);">
+      <td class="dim-cell" style="background:var(--plum-pale) !important;">
+        <span class="dim-code" style="color:var(--plum2);">DEG · Meta</span>
+        <div class="dim-name">DEGREE</div>
+        <div class="dim-desc">Intensity / threshold / comparison on host axis</div>
+        <span class="badge b-meta">Meta</span>
+      </td>
+      <td class="op-cell c-meta" colspan="8"><span class="sym">↑ inherits from host primary axis across all operators</span></td>
+    </tr>
+    <tr class="meta-note-row">
+      <td colspan="9"><strong>Substitution Constraint (R5):</strong> DEG[A] cannot substitute for A in any inference step. Degree of a claim ≠ the claim itself. <em>Appeal to Probability: DEG[VER] → VER. Appeal to Emotion: DEG[SINC] → VER. Both are Type 2 Operator Overextension (Meta-Axis Substitution subtype) in UFA.</em></td>
+    </tr>
+
+    <tr class="data-row" style="background:var(--plum-bg);">
+      <td class="dim-cell" style="background:var(--plum-pale) !important;">
+        <span class="dim-code" style="color:var(--plum2);">TEMP · Meta</span>
+        <div class="dim-name">TEMPORAL</div>
+        <div class="dim-desc">Position / order / direction across time on host axis</div>
+        <span class="badge b-meta">Meta · Provisional</span>
+      </td>
+      <td class="op-cell c-meta" colspan="8"><span class="sym">↑ inherits from host primary axis · adds past / present / future stratification</span></td>
+    </tr>
+    <tr class="meta-note-row">
+      <td colspan="9"><strong>Substitution Constraint (R6):</strong> TEMP[A] cannot substitute for A. Recency or temporal position cannot validate a claim on its host axis without independent method. TEMP also introduces past/present/future level structure — crossing these levels without justification = UFA Type 4 Stratification Misalignment. <em>Examples: Appeal to Novelty (TEMP[NORM] → NORM), Sunk Cost (∫past → future obligation), Presentism (present standards applied to past events). Note: TEMP emerged in CLCA-Revision (D21) but not CLCA-1.1 synthesis — cross-architectural confirmation pending.</em></td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════
+     § III — STRUCTURAL RULES
+     ════════════════════════════════════════════════════════════════ -->
+<div id="rules" class="anchor">
+  <div class="section-head"><h2>§ III — Structural Rules · Empirical Constraints on the Core Legality Matrix</h2></div>
+</div>
+
+<div class="callout callout-teal">
+  <span class="callout-title ct-teal">Layer distinction</span>
+  These rules are not primitive — they are empirical constraints discovered through CLCA that overlay the core legality matrix.
+  They capture polarity effects, target-type conditioning, directional biases, and meta-axis substitution prohibitions
+  that cannot be reduced to simple ✓/✗/△ cells in the matrix above. Each rule maps to one or more UFA violation types.
+</div>
+
+<div class="table-wrap">
+<table class="rules-table">
+  <thead>
+    <tr>
+      <th style="width:200px;">Rule</th>
+      <th>Formal Statement</th>
+      <th>Empirical Basis</th>
+      <th>UFA Mapping</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <span class="rule-id">R1</span>
+        <span class="rule-name">Dispositional Causation Block</span>
+      </td>
+      <td>
+        <div class="rule-form">CAUSE × DISPOSITIONAL (SINC) → universally blocked</div>
+        <div class="rule-body">Direct causation of a dispositional character state is structurally prohibited across all tested languages — the strongest single alignment in the system. <em>v2.2 refinement:</em> the block is on <strong>direct causation of the state</strong>, not on indirect facilitation of conditions (Basque <em>zintzotu eragin</em>, Korean 진정성을 높이다) nor on BECOME (character development over time).</div>
+        <div class="rule-ex">"Make someone sincere" — blocked. "Help someone become more honest" / "cultivate sincerity" — attested.</div>
+      </td>
+      <td>16/16 languages, both CLCA sets [CLCA-BOTH]. The strongest single empirical finding in the system.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension</span><br><span style="font-size:10px;color:var(--ink3);">CAUSE applied beyond its licensed scope to a dispositional target</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R2</span>
+        <span class="rule-name">Essence Stability</span>
+      </td>
+      <td>
+        <div class="rule-form">CAUSE × ESS → blocked · BECOME × ESS → blocked</div>
+        <div class="rule-body">Essential properties are treated as intrinsic and non-manipulable — neither externally caused nor gradually acquired. Things have or lack essential properties; they do not acquire or lose them through process.</div>
+        <div class="rule-ex">"Make it essentially X" — blocked. "Reveal its essential nature" — licensed.</div>
+      </td>
+      <td>Not tested by the union pipeline (ESS-adjacent dimensions surfaced only in zh/sa) — marked not-confirmed rather than confirmed.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R3</span>
+        <span class="rule-name">Authenticity Polarity Asymmetry</span>
+      </td>
+      <td>
+        <div class="rule-form">CAUSE(+) × AUTH → blocked · CAUSE(−) × AUTH → licensed</div>
+        <div class="rule-body">Authenticity cannot be externally manufactured (CAUS+ blocked) but can be destroyed or forged (CAUS− licensed). The copy-vs-forgery distinction lives not in the causation but in whether the product is then passed off as genuine — that is the R8 / LIKE layer.</div>
+        <div class="rule-ex">"Manufacture authentic goods" — blocked. "Forge a document" — licensed.</div>
+      </td>
+      <td>Confirmed in both CLCA sets [CLCA-BOTH]. Asymmetry consistent across language families.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension</span><br><span style="font-size:10px;color:var(--ink3);">Positive polarity of CAUSE extends beyond licensed scope for AUTH</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R4</span>
+        <span class="rule-name">Positive Emergence Bias</span>
+      </td>
+      <td>
+        <div class="rule-form">BECOME(+state) ≫ BECOME(−state) across truth-domain axes</div>
+        <div class="rule-body">Positive emergence is natural and productive (“become true”, “become real”); negative emergence is marked, dispreferred, or blocked — conceptualized as degradation rather than autonomous development.</div>
+        <div class="rule-ex">"The rumor became true" — natural. "The statement became false" — marked or blocked in most languages.</div>
+      </td>
+      <td>Confirmed in both CLCA sets [CLCA-BOTH].</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension</span><br><span style="font-size:10px;color:var(--ink3);">BECOME(−) extended beyond its licensed polarity</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R5</span>
+        <span class="rule-name">Degree Meta-Axis Substitution</span>
+      </td>
+      <td>
+        <div class="rule-form">DEG[A] ↛ A in any inference step</div>
+        <div class="rule-body">The degree of a primary-axis claim cannot substitute for the claim itself. How much / how intensely A is the case does not establish that A is the case. The derivative is not the function.</div>
+        <div class="rule-ex">High probability (DEG[VER]) ≠ truth (VER). Very sincere-seeming (DEG[SINC]) ≠ honest.</div>
+      </td>
+      <td>Confirmed as a meta-axis by both CLCA protocols. Unifies Appeal to Probability, Appeal to Emotion, Argumentum ad Populum.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension (Meta-Axis Substitution subtype)</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R6</span>
+        <span class="rule-name">Temporal Meta-Axis Substitution</span>
+      </td>
+      <td>
+        <div class="rule-form">TEMP[A] ↛ A · internal level-crossing → Type 4</div>
+        <div class="rule-body">The temporal position of a claim cannot substitute for the claim itself, and crossing TEMP’s internal past/present/future strata without justification produces a stratification error. <em>v2.2:</em> TEMP gains cross-linguistic footing through the reliability construction (sustained sincerity = TEMP[SINC]).</div>
+        <div class="rule-ex">Newer ≠ better (Appeal to Novelty). Past investment ≠ future warrant (Sunk Cost). Present standards on past events (Presentism).</div>
+      </td>
+      <td>[FALLACY] for the substitution; [CLCA-BOTH] for TEMP itself via reliability (§ VI.1).</td>
+      <td><span class="rule-ufa">Type 2 / Type 4</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R7</span>
+        <span class="rule-name">Agentive Polarity Asymmetry</span>
+      </td>
+      <td>
+        <div class="rule-form">ABSTR(agentive) × positive-pole → blocked · × negative-pole → licensed</div>
+        <div class="rule-body">Languages lexicalize the agent of falsehood (a single word for <em>liar</em>) but provide no parallel agentive noun for the habitual truth-teller. A polarity-conditioned licensing of the agentive nominalization. <strong>New in v2.2.</strong> Mechanism open.</div>
+        <div class="rule-ex">"Liar", "forger", "fraud" — lexicalized. "Truth-teller" — phrasal, never a single agentive noun.</div>
+      </td>
+      <td>Confirmed in both CLCA sets [CLCA-BOTH] (liar lexicalizes, truth-teller does not).</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension</span><br><span style="font-size:10px;color:var(--ink3);">Polarity-conditioned licensing of the agentive ABSTR operator</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R8</span>
+        <span class="rule-name">Likeness Meta-Axis Substitution</span>
+      </td>
+      <td>
+        <div class="rule-form">LIKE[A] ↛ A in any inference step</div>
+        <div class="rule-body">Resembling A cannot substitute for being A. One schema whose violation, per host axis, is a named deception: forgery (AUTH), sophistry (VERIF), hypocrisy (SINC), demagoguery (NORM), truthiness (VER), illusion (ESS). <strong>New in v2.2.</strong></div>
+        <div class="rule-ex">A convincing fake (LIKE[AUTH]) passed off as genuine = forgery. Truth-resembling rhetoric (LIKE[VER]) passed off as true = truthiness.</div>
+      </td>
+      <td>Confirmed [CLCA-BOTH]: truth-stem + similative compound grammaticalized in six unrelated traditions.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension (Meta-Axis Substitution subtype)</span></td>
+    </tr>
+    <tr>
+      <td>
+        <span class="rule-id">R9</span>
+        <span class="rule-name">Evidentiality Meta-Axis Substitution</span>
+      </td>
+      <td>
+        <div class="rule-form">EVID[A] ↛ A in any inference step</div>
+        <div class="rule-body">The evidential source of a claim cannot substitute for the claim itself — that it was asserted, reported, or inferred does not establish it. <strong>New in v2.2.</strong></div>
+        <div class="rule-ex">It was reported, therefore true (hearsay-as-proof). It can be inferred, therefore true (inference-as-proof). Authority asserts it, therefore true.</div>
+      </td>
+      <td>Confirmed [CLCA-BOTH] dimension; grammaticalized three-way in Quechua, lexical across the sample.</td>
+      <td><span class="rule-ufa">Type 2 — Operator Overextension (Meta-Axis Substitution subtype)</span></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════
+     § IV — VALIDATION HABITATS
+     ════════════════════════════════════════════════════════════════ -->
+<div id="habitats" class="anchor">
+  <div class="section-head"><h2>§ IV — Validation Habitats · Axis → Method → UFA Type 3 Violations</h2></div>
+</div>
+
+<div class="callout callout-slate">
+  <span class="callout-title ct-slate">What this table represents</span>
+  Methods are not semantic axes — they are validation habitats. Each primary axis has a default method that licenses
+  the claim type and one or more inadmissible methods whose use constitutes a Type 3 Verification Habitat Mismatch in UFA.
+  Using the wrong validation method for a claim type is one of the most common and rhetorically effective error patterns.
+</div>
+
+<div class="table-wrap">
+<table class="hab-table">
+  <thead>
+    <tr>
+      <th style="width:130px;">Axis</th>
+      <th>Default Method(s)</th>
+      <th>Admissible Exceptions</th>
+      <th>Inadmissible Methods</th>
+      <th>Canonical Type 3 Violations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>VERIDICAL</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">VER</span></td>
+      <td>
+        <span class="method-chip m-obs">OBSERVATION</span>
+        <span class="method-chip m-exp">EXPERIMENT</span>
+      </td>
+      <td><span class="method-chip m-stat">STATISTICS</span> for population claims</td>
+      <td>
+        <span class="method-chip m-con">CONSENSUS</span>
+        <span class="method-chip m-test">TESTIMONY</span>
+        <span class="method-chip m-pri">PRINCIPLE</span>
+      </td>
+      <td>
+        <span class="fallacy-tag">Appeal to Authority</span>
+        <span class="fallacy-tag">Bandwagon</span>
+        <span class="fallacy-tag">Appeal to Nature</span>
+        <span class="fallacy-tag">Argumentum ad Populum</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>AUTHENTICITY</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">AUTH</span></td>
+      <td>
+        <span class="method-chip m-prov">PROVENANCE</span>
+      </td>
+      <td><span class="method-chip m-exp">EXPERIMENT</span> for material dating</td>
+      <td>
+        <span class="method-chip m-con">CONSENSUS</span>
+        <span class="method-chip m-obs">OBSERVATION</span> (appearance alone)
+      </td>
+      <td>
+        <span class="fallacy-tag">Argument from Appearance</span>
+        <span class="fallacy-tag">Appeal to Reputation</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>SINCERITY</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">SINC</span></td>
+      <td>
+        <span class="method-chip m-test">TESTIMONY</span>
+      </td>
+      <td><span class="method-chip m-obs">OBSERVATION</span> of conduct pattern over time</td>
+      <td>
+        <span class="method-chip m-exp">EXPERIMENT</span>
+        <span class="method-chip m-stat">STATISTICS</span>
+        <span class="method-chip m-obs">OBSERVATION</span> (single instance)
+      </td>
+      <td>
+        <span class="fallacy-tag">Ad Hominem (reverse)</span>
+        <span class="fallacy-tag">Appeal to Sincerity as Proof</span>
+        <span class="fallacy-tag">Passion as Evidence</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>NORMATIVE</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">NORM</span></td>
+      <td>
+        <span class="method-chip m-pri">PRINCIPLE</span>
+        <span class="method-chip m-con">CONSENSUS</span>
+      </td>
+      <td><span class="method-chip m-log">LOGIC</span> for formal derivation from principles</td>
+      <td>
+        <span class="method-chip m-obs">OBSERVATION</span>
+        <span class="method-chip m-exp">EXPERIMENT</span>
+      </td>
+      <td>
+        <span class="fallacy-tag">Naturalistic Fallacy</span>
+        <span class="fallacy-tag">Is-Ought Error</span>
+        <span class="fallacy-tag">Appeal to Consequences</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ESSENCE</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">ESS</span></td>
+      <td>
+        <span class="method-chip m-log">LOGIC</span>
+      </td>
+      <td><span class="method-chip m-pri">PRINCIPLE</span> for definitional extension</td>
+      <td>
+        <span class="method-chip m-obs">OBSERVATION</span>
+        <span class="method-chip m-con">CONSENSUS</span>
+        <span class="method-chip m-stat">STATISTICS</span>
+      </td>
+      <td>
+        <span class="fallacy-tag">Essentialism from Observation</span>
+        <span class="fallacy-tag">Definitional Fallacy</span>
+        <span class="fallacy-tag">No True Scotsman</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>VERIFICATION</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">VERIF</span></td>
+      <td>
+        <span class="method-chip m-exp">EXPERIMENT</span>
+        <span class="method-chip m-stat">STATISTICS</span>
+        <span class="method-chip m-log">LOGIC</span>
+      </td>
+      <td>Multiple methods depending on claim type being verified</td>
+      <td>
+        <span class="method-chip m-test">TESTIMONY</span> (as sole evidence)
+        <span class="method-chip m-con">CONSENSUS</span>
+      </td>
+      <td>
+        <span class="fallacy-tag">Ipse Dixit</span>
+        <span class="fallacy-tag">Appeal to Authority</span>
+        <span class="fallacy-tag">Verification by Consensus</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════
+     § V — DEEP HYPOTHESIS
+     ════════════════════════════════════════════════════════════════ -->
+<div id="hypothesis" class="anchor">
+  <div class="section-head"><h2>§ V — The Meta-Axis Substitution Family &amp; the Stability Principle</h2></div>
+</div>
+
+<div class="callout callout-crimson">
+  <span class="callout-title ct-crimson">The central result of v2.2</span>
+  R5, R6, R8, and R9 are not four independent rules — they are one structural pattern, <strong>M[A] ↛ A</strong>, instantiated on each of the
+  four meta-axes. A grammatical modulation of a claim (its degree, its time, its resemblance, its source) cannot substitute for the claim itself.
+  Each instance maps to UFA Type 2 (Operator Overextension, meta-axis substitution subtype), and together they generate a large, principled family
+  of classical fallacies from a single schema.
+</div>
+
+<div class="table-wrap">
+<table class="rules-table">
+  <thead><tr><th style="width:170px;">Rule · Meta-axis</th><th style="width:150px;">Schema</th><th>"X[A] passed off as A" yields</th></tr></thead>
+  <tbody>
+    <tr><td><span class="rule-id">R5</span> <span class="rule-name">Degree</span></td><td><div class="rule-form">DEG[A] ↛ A</div></td><td>Appeal to Probability · Appeal to Emotion · Argumentum ad Populum</td></tr>
+    <tr><td><span class="rule-id">R6</span> <span class="rule-name">Temporal</span></td><td><div class="rule-form">TEMP[A] ↛ A</div></td><td>Appeal to Novelty · Sunk Cost · Presentism</td></tr>
+    <tr><td><span class="rule-id">R8</span> <span class="rule-name">Likeness</span></td><td><div class="rule-form">LIKE[A] ↛ A</div></td><td>Forgery (AUTH) · Sophistry (VERIF) · Hypocrisy (SINC) · Demagoguery (NORM) · Truthiness (VER) · Illusion (ESS)</td></tr>
+    <tr><td><span class="rule-id">R9</span> <span class="rule-name">Evidentiality</span></td><td><div class="rule-form">EVID[A] ↛ A</div></td><td>Appeal to Authority · Hearsay-as-proof · Inference-as-proof</td></tr>
+  </tbody>
+</table>
+</div>
+
+<div class="callout callout-teal">
+  <span class="callout-title ct-teal">The stability principle</span>
+  The six primary axes are load-bearing primitives. When new data surfaces an apparent need to <em>split</em> an axis or <em>add</em> a value, the
+  refinement almost always resolves into an existing orthogonal layer — a meta-axis modulation (DEG/TEMP/LIKE/EVID), a level stratification, a
+  subregion, or a cross-axis predicate — rather than a new axis. The working rule: <strong>prefer an orthogonal-layer resolution before enlarging
+  the axis set.</strong> Of seven proposed refinements tested against the 16-language union pipeline (§ VI), six dissolved into existing structure;
+  the one genuine residual is recorded, not absorbed. That 6-and-1 asymmetry is the architecture’s honesty check.
+</div>
+
+<div id="metaprinciple" class="anchor">
+  <div class="section-head"><h2>§ VI — Resolved Refinements &amp; the Single Open Conflict</h2></div>
+</div>
+
+<div class="callout callout-amber">
+  <span class="callout-title ct-amber">The proposal arc</span>
+  Seven candidate refinements were examined against the union-pipeline data. Six dissolved into existing structure rather than new axes or values;
+  the seventh — Sanskrit <em>mithyā</em> / a multi-valued opposition <strong>FRAME</strong> — is the single genuine open conflict, and it challenges the bivalence of the FRAME on the ESS axis (a Type-5 precondition question), not an operator or an axis.
+</div>
+
+<div class="table-wrap">
+<table class="rules-table">
+  <thead><tr><th style="width:46px;">#</th><th style="width:230px;">Proposal</th><th>Outcome</th></tr></thead>
+  <tbody>
+    <tr><td><span class="rule-id">1</span></td><td><span class="rule-name">SINC split (reliability as sub-axis)</span></td><td>dissolved → <strong>TEMP[SINC]</strong> — reliability is sustained-over-time sincerity; the finding also grounds TEMP cross-linguistically</td></tr>
+    <tr><td><span class="rule-id">2</span></td><td><span class="rule-name">NORM split (deontic / institutional)</span></td><td>dissolved → <strong>R1 on NORM’s SINC rider</strong> — substantive/moral NORM is constitutive (CAUSE blocked); institutional NORM is constituted status (CAUSE licensed)</td></tr>
+    <tr><td><span class="rule-id">3</span></td><td><span class="rule-name">AUTH neutral intermediate</span></td><td>dissolved → <strong>LIKE[AUTH] + R8</strong> — acknowledged copy (neutral) vs. forgery (passed off as genuine)</td></tr>
+    <tr><td><span class="rule-id">4</span></td><td><span class="rule-name">VER/NORM gradient</span></td><td>dissolved → an <strong>axis-neutral conformity predicate</strong> (correctness takes its axis from its standard); the axes stay distinct</td></tr>
+    <tr><td><span class="rule-id">5</span></td><td><span class="rule-name">partial-truth rule</span></td><td>dissolved → <strong>R5 + the deception principle</strong> (DEG[VER] passed off as VER, knowingly)</td></tr>
+    <tr><td><span class="rule-id">6</span></td><td><span class="rule-name">deontic interaction</span></td><td>dissolved → <strong>NORM over truth-related conduct</strong> ("one ought not to lie" is NORM on its normal domain)</td></tr>
+    <tr><td><span class="rule-id">7</span></td><td><span class="rule-name">FRAME multi-valued (<em>mithyā</em>)</span></td><td><strong>mostly</strong> dissolved (LIKE[ESS] + level-relativity); strong <em>anirvacanīya</em> residual <strong>recorded, not adopted</strong></td></tr>
+  </tbody>
+</table>
+</div>
+
+<div class="callout callout-teal">
+  <span class="callout-title ct-teal">The deception principle (a recurring cross-axis pattern)</span>
+  A structural violation — a false claim, or any meta-axis substitution M[A] ↛ A (R5/R6/R8/R9) — committed <strong>knowingly, to mislead</strong>, is a
+  SINC violation (a lie). The same violation committed by mistake is an innocent error. This single observation unifies deliberate-deception-vs-error,
+  partial truth, forgery-vs-replica, and sophistry-vs-honest-mistake without adding an axis.
+</div>
+
+<h3>The single open conflict</h3>
+<p><strong>FRAME bivalence vs. Advaita <em>anirvacanīya</em>.</strong> The only refinement not resolved into existing structure. Sanskrit’s
+<em>mithyā</em> — genuinely indeterminable as either <em>sat</em> (real) or <em>asat</em> (unreal), a stable third ontological value resisting the opposition FRAME’s
+binary assumption — is single-tradition, single-language [CLCA-B], with no cross-corpus parallel, and is held open by the data’s own open question
+(G8 OQ-11). The FRAME remains binary by default; the three-valued ontology is recorded as a scoped open question pending evidence that other traditions
+independently lexicalize a third ontological value. <strong>The decision is deferred — appropriately so: it should not be resolved on one tradition’s
+evidence.</strong> That one genuine residual, not swept in after six clean dissolutions, is what gives the stability principle (§ V) its discriminating power.</p>
+
+<div class="doc-footer">
+  <strong>Architecture:</strong> AOML v2.2 (Axis–Operator–Method–Level) · six primary axes · four meta-axes · seven core operators (+ REVEAL provisional) · four levels · nine structural rules (R1–R9).
+  Human-readable companion: <code>aoml/AOML_v2.2_architecture.md</code>. Machine-readable: <code>aoml/aoml_constraint_matrix_v2.2.json</code>.
+  Empirical basis: CLCA G-phase outputs over 16 languages (Sets A &amp; B, no shared languages) plus the 16-language union pipeline.
+  <br>
+  v2.2 changes from v2.1: LIFE primary axis → LIKE meta-axis (verisimilitude = LIKE[VER]; primary axes 7 → 6); EVID meta-axis added (meta-axes 2 → 4);
+  R7 (agentive polarity asymmetry), R8 (LIKE substitution), R9 (EVID substitution) added; R1 refined (direct causation blocked, indirect facilitation attested);
+  the v2.1 core empirically ratified by the union pipeline. CONTR (the negation operator) and the opposition FRAME (the Type-5 precondition) are distinguished — see § I. The abandoned "causal-fabrication" v2.2 draft (VALID / IDEAL / § VI meta-principle) is superseded by this document.
+  <br>
+  UFA type classifications: Type 1 Axis Transfer Error · Type 2 Operator Overextension (incl. the meta-axis substitution family R5/R6/R8/R9) · Type 3 Verification Habitat Mismatch · Type 4 Stratification Misalignment · Type 5 Contrast Frame Collapse.
+</div>
+
+</div><!-- /page -->
+
+<script>
+const sections = ['framework','matrix','rules','habitats','hypothesis','metaprinciple'];
+const tabs = document.querySelectorAll('.nav-tab');
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      tabs.forEach(t => t.classList.remove('active'));
+      const active = document.querySelector(`.nav-tab[href="#${entry.target.id}"]`);
+      if (active) active.classList.add('active');
+    }
+  });
+}, { threshold: 0.2, rootMargin: '-55px 0px -60% 0px' });
+sections.forEach(id => { const el = document.getElementById(id); if (el) observer.observe(el); });
+</script>
+
+</body>
+</html>

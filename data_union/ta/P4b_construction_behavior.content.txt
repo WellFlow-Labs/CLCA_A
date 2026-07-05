@@ -1,0 +1,200 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Tamil (ta)
+# Layer: P4b_construction_behavior
+
+---
+
+**Transliteration standard:** ISO 15919
+
+---
+
+## 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Predicative bare nominal + emphatic *-tāṉ* | அது உண்மைதான் | *atu uṇmaitāṉ* | "That is indeed true" | [CORE] | Extremely common in spoken and written Tamil across registers; the emphatic particle *-tāṉ* is optional but frequent in affirmative assertion contexts. |
+| Predicative bare nominal, zero copula | அது உண்மை | *atu uṇmai* | "That is the truth / That is true" | [CORE] | Standard across spoken and written registers; zero copula is the default present-tense form. *irukku* may appear optionally in spoken Tamil without change in meaning. Attested alternates: *atu uṇmaitāṉ* (emphatic, with *tāṉ*); *atu uṇmaiyā?* (interrogative, with *-ā*). |
+| Predicative bare nominal, zero copula | இது அன்யாயம் | *itu anyāyam* | "This is unjust / This is an injustice" | [CORE] | Fully idiomatic; the same zero-copula pattern applies across all truth-domain nominals without restriction. Same emphatic and interrogative variants available. |
+| Attributive *-āna* adjectival + head noun | அவர் நேர்மையான ஆள் | *avar nērmaiyāna āḷ* | "He/she is an honest person" | [CORE] | The *-āna* attributive form is the standard adjectival strategy across all registers; no observable restriction on head noun type within this domain. |
+| *-āna* prenominal | உண்மையான செய்தி | *uṇmaiyāna ceytī* | "a true/genuine news report" | [CORE] | Fully productive across registers; the standard adjectival modification strategy for truth-domain nominals. No observable register restriction. No attested alternate construction displaces this pattern. |
+| *-āna* prenominal | நம்பகமான ஆதாரம் | *nampakamāna ātāram* | "a reliable source/evidence" | [CORE] | Equally productive; common in journalistic, legal, and everyday contexts. |
+
+**Attested alternates:** Bare predicative nominal without *-tāṉ* (e.g., *atu uṇmai*, "that is true") is attested as a simpler predicative form; past/future predication uses *iru-* as copula. Predicative alternative: nominal + *-āka* + *iru* (noted in P4a but no example provided in P4b scope).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *NOUN + illāta* (negative existential participial) | நேர்மையில்லாத மனிதன் | *nērmaiyillāta maṉitaṉ* | "A person lacking honesty" | [CORE] | Broadly productive across the domain; common in both spoken and written registers with no strong contextual restriction. |
+| *-illāta* negative participial | கள்ளமில்லாத மனிதன் | *kaḷḷamillāta maṉitaṉ* | "a person without guile" | [CORE] | Cross-register; attested in both spoken and written Tamil. *-illāta* is the more colloquially accessible of the two privative forms. |
+| *NOUN + aṟṟa* (privative participial) | ஆதாரமற்ற குற்றச்சாட்டு | *ātāramaṟṟa kuṟṟaccāṭṭu* | "A baseless accusation" | [CORE] | Common in formal, legal, and written registers; tends to attach to quality/attribute nouns (*ātāram*, *takuti*, *poruttam*); less common in casual speech than *illāta*. |
+| *-aṟṟa* privative participial | ஆதாரமற்ற வதந்தி | *ātāramaṟṟa vatanti* | "an unsubstantiated rumor" | [CORE] | Formal register tendency; attested in written, legal, and journalistic contexts. *-aṟṟa* is the preferred privative form in formal prose. |
+| Nominal + *illai* | அது பொய்யில்லை | *atu poyyillai* | "That is not a lie / That is not false" | [CORE] | Standard negation pattern for nominal predicates; *illai* is the invariant negative existential used across registers. No negative copula alternant exists. Privative adnominal *-aṟṟa* is a distinct function (attributive modifier, not full predication). |
+| Nominal + *illai* | அது என் தவறு இல்லை | *atu eṉ tavaṟu illai* | "That is not my mistake / That is not my fault" | [CORE] | Equally idiomatic; the possessed nominal (*eṉ tavaṟu*) precedes *illai* without structural change. Common in both spoken and written registers. |
+
+**Attested alternates:** No single privative suffix covers the entire domain; the *-aṟṟa* and *-illāta* strategies are not interchangeable. Both are attested as productive and are register-differentiated: *-aṟṟa* (formal) and *-illāta* (cross-register). No further alternates are attested in the P4a data.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-āna* adjectival modifier before head noun | உண்மையான தகவல் | *uṇmaiyāna taka'l* | "True/accurate information" | [CORE] | Standard and productive with abstract quality nouns (*uṇmai*, *nērmai*, *niyāyam*); common across registers. |
+| *-āṉa* adjectival modifier | நம்பகமான ஆதாரம் | *nampakamāṉa ātāram* | "a reliable source / credible evidence" | [CORE] | Fully productive across all truth-domain nominals; prenominal position is obligatory. Common in formal, journalistic, and everyday registers. Attested alternate: privative *-aṟṟa* participial (*nampakam aṟṟa*) for negative adnominal modification. |
+| *-āṉa* adjectival modifier | நியாயமான கோரிக்கை | *niyāyamāṉa kōrikkai* | "a reasonable/just demand" | [CORE] | No register restriction observed; the *-āṉa* suffix applies without exception across the attested truth-domain vocabulary. Attested alternate: privative *illāta* participial as negative alternant. |
+| Bare nominal modifier before head noun | போலி ஆவணம் | *pōli āvaṇam* | "Forged/fake document" | [CORE] | Common with *pōli*, *acal*, *nakal*, *kaṟpaṉai*, *poy*; the bare form without *-āna* is the normal pattern for these items and is not a reduced or informal variant. |
+| Genitive *-iṉ* adnominal | ஆவணத்தின் உண்மைத்தன்மை | *āvaṇattiṉ uṇmaitaṉmai* | "the authenticity of the document" | [CORE] | Preferred with abstract nominals; common in formal, legal, and philosophical registers. The genitive construction is more explicit than juxtaposition. |
+| Juxtaposition (compound) | மனத் தூய்மை | *maṉat tūymai* | "purity of mind / mental integrity" | [CORE] | Attested in fixed compounds; more common in literary and moral discourse. Juxtaposition is restricted to tighter, more lexicalized compounds. |
+
+**Attested alternates:** Both *-āna* and bare prenominal strategies coexist; choice is partly lexically conditioned and partly register-sensitive. Attested bare prenominal items include *poy cāṭci* (false testimony) and *acal āvaṇam* (original document). Genitive *-iṉ* vs. juxtaposition: distribution conditioned by degree of lexicalization. No further alternates are attested in the P4a data.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *teriya varu* (come to be known) | உண்மை தெரிய வந்தது | *uṇmai teriya vantatu* | "The truth became known / came to light" | [CORE] | Specific to the revelation-of-hidden-truth pattern; treats truth as an entity moving from concealment to visibility; common in narrative, journalistic, and conversational registers. Attested alternate: *uṇmai veḷippaṭṭatu* (more conventionalized alternant). |
+| *āku* + completive *viṭu* (become, change of state) | அது உண்மையாகிவிட்டது | *atu uṇmaiyākiviṭṭatu* | "That has turned out to be true / has become true" | [CORE] | General change-of-state construction; the completive auxiliary *viṭu* adds finality or irreversibility; common across registers. |
+| *-āki* + *viṭu* | நம்பகத்தன்மை கேள்விக்குறியாகிவிட்டது | *nampakattaṉmai kēḷvikkuṟiyākiviṭṭatu* | "His credibility has become a question mark" | [CORE] | Marks completed change of state; common across spoken and written registers. The completive auxiliary *viṭu* adds a sense of finality or irreversibility. |
+| *veḷippaṭu* collocation | உண்மை வெளிப்பட்டது | *uṇmai veḷippaṭṭatu* | "The truth came out / became revealed" | [CORE] | Most conventionalized form for "truth coming to light"; idiomatic across written and spoken registers. Distinct collocation from the *āku* construction; not interchangeable with *āki* in this collocation. Attested alternate: *uṇmai teriya vantatu* ("the truth came to be known"); *-āka āku* available but marked [MARGINAL] for this domain. |
+
+**Attested alternates:** No morphological inchoative suffix is attested in this domain. The periphrastic constructions are semantically distinct and not fully interchangeable: *teriya varu* is restricted to revelation of hidden truth; *āku* is a general change-of-state construction; *veḷippaṭu* is the most conventionalized form for truth-revelation specifically.
+
+---
+
+## 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Morphological causative *mey* + *-ppi-* → *meyppiкka* | அதை மெய்ப்பிக்க முடியவில்லை | *atai meyppiкka muṭiyavillai* | "It was not possible to prove that" | [CORE] | The only morphologically derived causative in the truth domain from the classical root *mey*; attested in formal, legal, and written registers; derived from *mey*, not from *uṇmai*. |
+| Periphrastic *nilaināṭṭu* (establish, make stand firm) | உண்மையை நிலைநாட்டினார் | *uṇmaiyai nilaināṭṭiṉār* | "He/she established the truth definitively" | [CORE] | Common in formal and written registers for the proving/establishing function; periphrastic rather than morphologically derived. |
+| *-paṭuttu* morphological causative | ஆதாரப்படுத்து | *ātārappaṭuttu* | "to substantiate / to support with evidence" | [CORE] | Morphological causative; productive across truth-domain nominals. Attested forms include *uṟutippaṭuttu*, *niyāyappaṭuttu*, *tūymaippaṭuttu*. |
+| Lexical causative *niṟuvu* / *nirūpikku* | உண்மை நிறுவு | *uṇmai niṟuvu* | "to establish the truth" | [CORE] | Lexical rather than morphological causative; nominal functions as direct object. Attested alongside the *paṭuttu* pattern without apparent register restriction between them. |
+| *-paṭuttu-* morphological causative (nominalized) | உண்மைப்படுத்துதல் | *uṇmaippaṭuttutal* | "authentication, verification, substantiation" | [MARGINAL] | Restricted to formal and administrative registers; attested specifically for *uṇmai* but not productive across the broader truth-domain vocabulary. Not found for *poy*, *nērmai*, *niyāyam*, etc. Attested alternates: periphrastic light verb constructions (*niyāyam cey*, *tavaṟu tiruttu*) for other truth-domain causative meanings. |
+| *-paṭuttu-* morphological causative (verbal) | ஆதாரத்தை உண்மைப்படுத்து | *ātāratai uṇmaippaṭuttu* | "authenticate / substantiate the evidence" | [MARGINAL] | Attested in official Tamil for document authentication contexts; restricted to this functional domain. The verbal form is less common than the nominalized *-tal* form. Attested alternates: light verb constructions as general alternants. |
+
+**Attested alternates:** *nirūpi* is attested as a further periphrastic alternative carrying the proving function. No morphological causative from *uṇmai* is attested as [CORE]; this asymmetry is noted in P4a as a structural gap.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *poy* + *-mai* → *poymai* | பொய்மை | *poymai* | "Falsehood, the quality of being false" | [MARGINAL] | Literary and philosophical register; less common in everyday spoken Tamil. The *-mai* suffix is the primary nominalizer but the resulting forms are register-marked. Attested alternate: *taṉmai* compound (*nampakat-taṉmai*) as a more formal alternant; both marked [MARGINAL] in everyday use. |
+| *-mai* suffix | நேர்மை | *nēṟmai* | "honesty, integrity" | [CORE] | Primary abstract nominalizing suffix; fully productive and attested across all registers. These forms (*nēṟmai*, *tūymai*, *poymai*, *meymmai*) are the base lexical items, not derived on the fly. |
+| *uṇmai* + *taṉmai* compound | உண்மைத்தன்மை | *uṇmait-taṉmai* | "Truthfulness, the property of being true" | [MARGINAL] | Lexicalized compound used in formal and philosophical registers; not common in everyday speech; restricted to contexts requiring explicit reference to the abstract property of truthfulness. Consistently more formal and less frequent than the *-mai* forms; restricted to philosophical, legal, and formal written registers. Not a productive spoken-register pattern. |
+| *taṉmai* compound | நம்பகத்தன்மை | *nampakat-taṉmai* | "reliability, credibility, trustworthiness" | [MARGINAL] | More formal and philosophical than *-mai* forms; restricted in everyday use. Productive but register-marked; more common in written and official contexts than in speech. Attested alternates: *-mai* suffix forms; *iṉmai* (*nērmayiṉmai*) for absence-nominals. |
+
+**Attested alternates:** *nampikkai* (*nampu* + *-ikkai*) and *nampakam* (*nampu* + *-akam*) are attested as alternative nominalizing suffixes on the same root *nampu*, indicating that multiple nominalizing strategies coexist on a single base. *uṇmai* and *nērmai* are themselves *-mai* nominals and do not reduplicate the suffix.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Participial relative clause (*col-* + *-pavaṉ*) | பொய் சொல்பவன் | *poy colpavaṉ* | "One who tells lies, a liar" | [CORE] | The productive and common strategy for forming agent nominals from verbal phrases in this domain; no register restriction observed. |
+| *nampikkai* + *āḷar* agent suffix | நம்பிக்கையாளர் | *nampikkaiāḷar* | "Believers, persons of faith" | [MARGINAL] | Specific to religious contexts; the *āḷar* suffix here applies to a nominal base rather than a verbal phrase; not a general agentive strategy across the domain. |
+| Agentive suffix (negative, masculine) | பொய்யன் | *poyyan* | "liar (masculine)" | [CORE] | Colloquial and literary; well-attested and fully natural. Agentive forms for negative truth-domain properties are more frequent than positive counterparts; attested across registers including colloquial speech. Gender and number distinctions are encoded in the suffix (*poyyaṉ* masc. sg., *poyyar* pl./honorific). Attested alternates: *poyyāḷaṉ* (more formal masculine); *poyyar* (plural/honorific). |
+| Agentive suffix (negative, masculine) | வஞ்சகன் | *vañcakaṉ* | "deceiver, traitor (masculine)" | [CORE] | Attested in literary and everyday registers; the masculine form is the base form, with feminine *vañcaki* also attested. |
+| Agentive suffix (positive, honorific) | (உண்மையாளர்) | (*uṇmaiyāḷar*) | "person of truth (honorific)" | [MARGINAL] | Less frequent than negative agentive forms; the honorific *-āḷar* form is restricted to formal or elevated registers. Asymmetry with negative forms is explicitly noted in P4a data. |
+| *-āḷar* honorific agentive | நேர்மையாளர் | *nērmayāḷar* | "person(s) of integrity / honest person(s)" | [CORE] | Formal and political register; the *-āḷar* suffix marks honorific or plural reference. No equivalent lexicalized agentive for "truth-teller" built on *uṇmai* is attested. Attested alternate: periphrastic *uṇmai pēcukiṟavaṉ* ("one who speaks the truth") for the truth-teller concept. |
+
+**Attested alternates:** *-vāti* suffix (*uṇmaivāti*, truth-advocate) and *piriyar* (*uṇmaip piriyar*, lover of truth) are attested but rated [MARGINAL], confined to philosophical and literary registers. No dedicated agentive suffix for truth-domain roles is attested. Masculine *-aṉ* / feminine *-aḷ* / honorific *-āḷar*; gender and register conditioned.
+
+---
+
+## 8. EVIDENTIAL / SOURCE-MARKING CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Ablative *-iliruntu* + *nampakamāna* + *teriya vantatu* | நம்பகமான வட்டாரங்களிலிருந்து தெரிய வந்தது | *nampakamāna vaṭṭāraṅkaḷiliruntu teriya vantatu* | "It became known from reliable circles" | [CORE] | Characteristic of journalistic and legal Tamil; source credibility (*nampakamāna*) and source marking (ablative *-iliruntu*) co-occur as a fixed pattern in this register. |
+| Negative conditional *illāmal* + *nampakamāna ātāram* | நம்பகமான ஆதாரம் இல்லாமல் எதுவும் சொல்ல வேண்டாம் | *nampakamāna ātāram illāmal etuvum colla vēṇṭām* | "Nothing should be said without reliable evidence" | [CORE] | Common in formal, legal, and journalistic registers; the negative conditional *illāmal* (without) marks the absence of required evidentiary basis; evaluative and prescriptive in function. |
+
+**Attested alternates:** *nampattakka* (worth trusting) is attested as an alternate to *nampakamāna* for evaluating source reliability within this construction type. No further alternates are attested in the P4a data.
+
+---
+
+## 9. CONCEALMENT / REVELATION VERBAL CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Transitive concealment: *uṇmaiyai maṟai* (accusative object) | உண்மையை மறைக்கிறார்கள் | *uṇmaiyai maṟaikkiṟārkaḷ* | "They are hiding the truth" | [CORE] | Common across registers; requires accusative marking on *uṇmai* (*uṇmaiyai*); truth is construed as a direct object of concealment. |
+| Intransitive revelation: *uṇmai veḷiyē vantatu* (truth as subject) | உண்மை வெளியே வந்தது | *uṇmai veḷiyē vantatu* | "The truth came out / emerged" | [CORE] | Common in narrative, journalistic, and conversational registers; truth is construed as subject with no case marking; structurally complementary to the concealment construction. |
+
+**Attested alternates:** *uṇmai teriya vantatu* (the truth became known) is attested as a further intransitive revelation construction, overlapping with the *teriya varu* construction in §4. The proverbial *poy oru nāḷ veḷiyē varum* (a lie will come out one day) uses the same intransitive revelation structure with *poy* as subject, confirming the construction extends beyond *uṇmai* to other domain items.
+
+---
+
+## 10. DEONTIC CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-āṇum* (colloquial obligative) | உண்மை சொல்லணும் | *uṇmai collāṇum* | "(One) must tell the truth" | [CORE] | Spoken/colloquial form; highly productive in everyday moral and interpersonal discourse. The *-āṇum* suffix is the standard spoken obligative. |
+| *-vēṇṭum* (formal obligative) | (formal equivalent) | (*uṇmai collvēṇṭum*) | "(One) must tell the truth" | [CORE] | Formal written equivalent of *-āṇum*; attested in written registers. Both forms are productive; register determines selection rather than semantic difference. |
+
+**Attested alternates:** *-āṇum* (spoken) vs. *-vēṇṭum* (written formal); register-conditioned alternates.
+
+---
+
+## 11. EPISTEMIC DISCOURSE MARKER
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *uṇmaiyil* (sentence-initial adverb) | உண்மையில் அவன் அங்கே இல்லை | *uṇmaiyil avaṉ aṅkē illai* | "In truth, he was not there" | [CORE] | Grammaticalized sentence-initial adverb; functions as a fixed marker of correction or strong factual assertion. Not compositionally interpreted. |
+| *uṇmaiyilēyē* (emphatic) | உண்மையிலேயே இப்படி நடந்துச்சா? | *uṇmaiyilēyē ippaṭi naṭantuccā?* | "Did this really happen like this?" | [CORE] | Emphatic form of *uṇmaiyil*; attested in spoken registers, particularly in questions expressing surprise or disbelief. No parallel forms from *poy* or *nēṟmai* are attested in this function. |
+
+**Attested alternates:** *uṇmaiyil* vs. emphatic *uṇmaiyilēyē*; no alternates from *poy* or *nēṟmai* attested in this function.
+
+---
+
+## 12. BINARY QUESTION CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *X-ā illai Y-ā* (full form) | இது உண்மையா இல்லை பொய்யா? | *itu uṇmaiyā illai poyyā?* | "Is this true or false?" | [CORE] | Productive interrogative construction across all registers; the *uṇmai/poy* pair is the most frequent binary in the truth domain. |
+| *X-ā illai Y-ā* (with *acal/nakal* pair) | இது அசலா நகலா? | *itu acalā nakalā?* | "Is this the original or a copy?" | [CORE] | Attested with multiple truth-domain pairs (*acal/nakal*, *cariyā/illaiyā*, *niyāyamā/illaiyā*); the *illai* element may be omitted in the *acal/nakal* example as given, which represents a tighter binary form. |
+
+**Attested alternates:** Full form (*X-ā illai Y-ā*) vs. reduced form (*X-ā Y-ā*) as suggested by *acalā nakalā* example.
+
+---
+
+## 13. PROVERBIAL / SCALAR ASSERTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *tāṉ vellum* proverbial pattern | உண்மை தான் வெல்லும் | *uṇmai tāṉ vellum* | "Truth alone will prevail" | [CORE] | Fixed proverbial pattern; attested in speeches, proverbs, and popular culture. Restricted to moral assertion contexts; not a productive open syntactic pattern. |
+| *tāṉ vellum* proverbial pattern | நியாயம் தான் வெல்லும் | *niyāyam tāṉ vellum* | "Justice alone will prevail" | [CORE] | Parallel to the *uṇmai* form; also attested with literary *mey* (*meyyē vellum*). The pattern is lexically restricted to a small set of moral-domain nominals. |
+
+**Attested alternates:** *uṇmai tāṉ vellum* / *niyāyam tāṉ vellum* / *meyyē vellum*; lexically restricted set.
+
+---
+
+## 14. ADVERBIAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-āka* suffix (manner adverbial) | நேர்மையாக பேசு | *nērmayāka pēcu* | "Speak honestly / Speak with integrity" | [CORE] | Fully productive across all truth-domain nominals; no register restriction. Modifies verbs as a manner adverbial; distinct from the *-āṉa* adjectival (§3) which modifies nouns. Attested alternate: predicative use: *itu uṇmaiyāka irukku* ("this is genuinely the case"). |
+| *-āka* suffix (manner adverbial) | தவறாக புரிந்துகொண்டேன் | *tavaṟāka purinthukōṇṭēṉ* | "I understood it wrongly / I misunderstood it" | [CORE] | Common across spoken and written registers; the *-āka* suffix applies without restriction to all attested truth-domain nominals. No alternant adverbial construction is identified. Predicative complement use (*-āka irukku*) is a related but distinct function. |
+
+---
+
+## 15. PRIVATIVE MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-aṟṟa* participial (prenominal) | நேர்மையற்ற நடத்தை | *nērmaiyaṟṟa naṭatai* | "dishonest conduct / conduct lacking integrity" | [CORE] | Productive prenominal modifier; slightly more formal or literary than *illāta* alternant. Both patterns are fully attested; *illāta* is marginally more common in spoken registers. Attested alternates: *nērmai illāta* (spoken register alternant); abstract nominal *nērmayiṉmai* (full nominal, not modifier). |
+| *illāta* negative participial (prenominal) | ஆதாரமில்லாத குற்றச்சாட்டு | *ātāramillāta kuṟṟaccāṭṭu* | "an unfounded accusation / a baseless charge" | [CORE] | Slightly more common in spoken registers than *-aṟṟa*; both are fully productive prenominal modifiers. No restriction on truth-domain nominals to which *illāta* applies. Attested alternates: *ātāram aṟṟa* (*-aṟṟa* alternant); *nampakat-taṉmai illāta* (compound nominal base alternant). |
+
+---
+
+## 16. LIGHT VERB CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Nominal + light verb *collu* | உண்மை சொல்லு | *uṇmai collu* | "Tell the truth" | [CORE] | Primary pattern for expressing truth-

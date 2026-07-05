@@ -1,0 +1,614 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Korean (ko)
+
+---
+
+## DERIVATIONAL PATTERNS IDENTIFIED
+
+### Pattern 1: Nominalization via -성 (-seong) 性
+**Function:** Creates abstract nouns denoting quality or nature of the base
+
+#### 1.1
+**Base form:** 진실 (jinsil) — truth
+**Derived form:** 진실성
+**Transliteration:** jinsilseong
+**Literal breakdown:** 진실 (truth) + 성 (quality/nature)
+**Natural English translation:** truthfulness, veracity
+**Usage:** Abstract noun referring to the quality of being truthful. Common in formal evaluative contexts assessing character or statements.
+**Epistemic status:** [CORE]
+
+#### 1.2
+**Base form:** 진정 (jinjeong) — genuine
+**Derived form:** 진정성
+**Transliteration:** jinjeonseong
+**Literal breakdown:** 진정 (genuine) + 성 (quality/nature)
+**Natural English translation:** authenticity, genuineness
+**Usage:** Abstract noun for the quality of being authentic or genuine. Widely used in evaluating sincerity of apologies, artistic works, or institutional actions.
+**Epistemic status:** [CORE]
+
+#### 1.3
+**Base form:** 정직 (jeongjik) — honesty
+**Derived form:** 정직성
+**Transliteration:** jeongjikseong
+**Literal breakdown:** 정직 (honesty) + 성 (quality/nature)
+**Natural English translation:** honesty (as quality), integrity
+**Usage:** Abstract noun emphasizing the quality of being honest. Used in character evaluation and moral discourse.
+**Epistemic status:** [CORE]
+
+#### 1.4
+**Base form:** 신뢰 (sinroe) — trust
+**Derived form:** 신뢰성
+**Transliteration:** sinroeseong
+**Literal breakdown:** 신뢰 (trust) + 성 (quality/nature)
+**Natural English translation:** reliability, trustworthiness, credibility
+**Usage:** Abstract noun for the quality of being trustworthy or reliable. Very common in evaluating sources, information, or persons.
+**Epistemic status:** [CORE]
+
+#### 1.5
+**Base form:** 확실 (hwaksil) — certain
+**Derived form:** 확실성
+**Transliteration:** hwaksilseong
+**Literal breakdown:** 확실 (certain) + 성 (quality/nature)
+**Natural English translation:** certainty, definiteness
+**Usage:** Abstract noun for the quality of being certain or definite. Used when discussing degree of certainty about facts or situations.
+**Epistemic status:** [CORE]
+
+#### 1.6
+**Base form:** 정확 (jeonghwak) — accurate
+**Derived form:** 정확성
+**Transliteration:** jeonghwakseong
+**Literal breakdown:** 정확 (accurate) + 성 (quality/nature)
+**Natural English translation:** accuracy, precision
+**Usage:** Abstract noun for the quality of being accurate or precise. Common in technical, academic, and evaluative contexts.
+**Epistemic status:** [CORE]
+
+#### 1.7
+**Base form:** 타당 (tadang) — valid
+**Derived form:** 타당성
+**Transliteration:** tadangseong
+**Literal breakdown:** 타당 (valid) + 성 (quality/nature)
+**Natural English translation:** validity, reasonableness
+**Usage:** Abstract noun for the quality of being valid or reasonable. Frequently used in evaluating arguments, claims, or reasoning.
+**Epistemic status:** [CORE]
+
+#### 1.8
+**Base form:** 실효 (silhyo) — actual effect
+**Derived form:** 실효성
+**Transliteration:** silhyoseong
+**Literal breakdown:** 실효 (actual effect) + 성 (quality/nature)
+**Natural English translation:** effectiveness, practical efficacy
+**Usage:** Abstract noun for the quality of being actually effective. Common in policy evaluation and assessment of practical measures.
+**Epistemic status:** [CORE]
+
+#### 1.9
+**Base form:** 신빙 (sinbing) — credibility (archaic/bound)
+**Derived form:** 신빙성
+**Transliteration:** sinbingseong
+**Literal breakdown:** 신빙 (credibility) + 성 (quality/nature)
+**Natural English translation:** credibility, believability
+**Usage:** Abstract noun for credibility or believability of information or testimony. Common in journalistic and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 2: Adjectivalization via -적 (-jeok) 的
+**Function:** Creates adjectives from nouns, often with meaning "pertaining to" or "having the nature of"
+
+#### 2.1
+**Base form:** 실질 (siljil) — substance
+**Derived form:** 실질적
+**Transliteration:** siljiljeok
+**Literal breakdown:** 실질 (substance) + 적 (adjectival suffix)
+**Natural English translation:** substantial, practical, actual
+**Usage:** Describes something as having substance or being practical rather than merely formal. Very common in formal discourse.
+**Epistemic status:** [CORE]
+
+#### 2.2
+**Base form:** 실제 (silje) — actual
+**Derived form:** 실제적
+**Transliteration:** siljejeok
+**Literal breakdown:** 실제 (actual) + 적 (adjectival suffix)
+**Natural English translation:** actual, practical, real
+**Usage:** Describes something as actual or practical. Used to modify nouns indicating real rather than theoretical nature.
+**Epistemic status:** [CORE]
+
+#### 2.3
+**Base form:** 실용 (silyong) — practical use
+**Derived form:** 실용적
+**Transliteration:** silyongjeok
+**Literal breakdown:** 실용 (practical use) + 적 (adjectival suffix)
+**Natural English translation:** practical, utilitarian
+**Usage:** Describes practical or utilitarian qualities. Widely used to evaluate whether something has practical value.
+**Epistemic status:** [CORE]
+
+#### 2.4
+**Base form:** 실증 (siljeung) — empirical proof
+**Derived form:** 실증적
+**Transliteration:** siljeungjeok
+**Literal breakdown:** 실증 (empirical proof) + 적 (adjectival suffix)
+**Natural English translation:** empirical, evidence-based
+**Usage:** Describes empirical or evidence-based approaches. Used in scientific and analytical contexts.
+**Epistemic status:** [CORE]
+
+#### 2.5
+**Base form:** 본질 (bonjil) — essence
+**Derived form:** 본질적
+**Transliteration:** bonjiljeok
+**Literal breakdown:** 본질 (essence) + 적 (adjectival suffix)
+**Natural English translation:** essential, fundamental, intrinsic
+**Usage:** Describes essential or fundamental nature of something. Common in philosophical and analytical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 3: Adverbialization via -로 (-ro) / -으로 (-euro)
+**Function:** Creates adverbs from nouns or adjectives, often indicating manner or means
+
+#### 3.1
+**Base form:** 진실 (jinsil) — truth
+**Derived form:** 진실로
+**Transliteration:** jinsilro
+**Literal breakdown:** 진실 (truth) + 로 (instrumental/manner marker)
+**Natural English translation:** truly, truthfully, in truth
+**Usage:** Adverbial form emphasizing truthfulness of statements or actions. Somewhat formal, used in earnest declarations.
+**Epistemic status:** [CORE]
+
+#### 3.2
+**Base form:** 진심 (jinsim) — true heart
+**Derived form:** 진심으로
+**Transliteration:** jinsimeuro
+**Literal breakdown:** 진심 (true heart) + 으로 (instrumental/manner marker)
+**Natural English translation:** sincerely, from the heart, genuinely
+**Usage:** Very common adverbial expression emphasizing sincerity. Used in apologies, thanks, and expressions of emotion.
+**Epistemic status:** [CORE]
+
+#### 3.3
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓으로
+**Transliteration:** geojiseuro
+**Literal breakdown:** 거짓 (false) + 으로 (instrumental/manner marker)
+**Natural English translation:** falsely, by deception, through lies
+**Usage:** Adverbial form indicating that something is done through deception or falsehood. Common in descriptions of deceptive actions.
+**Epistemic status:** [CORE]
+
+#### 3.4
+**Base form:** 실제 (silje) — actual
+**Derived form:** 실제로
+**Transliteration:** siljero
+**Literal breakdown:** 실제 (actual) + 로 (instrumental/manner marker)
+**Natural English translation:** actually, in reality, in practice
+**Usage:** Very common adverbial form emphasizing what actually happens in reality. Used across all registers.
+**Epistemic status:** [CORE]
+
+#### 3.5
+**Base form:** 진짜 (jinjja) — real
+**Derived form:** 진짜로
+**Transliteration:** jinjjaro
+**Literal breakdown:** 진짜 (real) + 로 (instrumental/manner marker)
+**Natural English translation:** really, truly, for real
+**Usage:** Colloquial adverbial form used to emphasize reality or truth. Very common in casual speech.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 4: Negation via 없이 (eobsi) "without"
+**Function:** Creates adverbial expressions meaning "without X"
+
+#### 4.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓없이
+**Transliteration:** geojiseobsi
+**Literal breakdown:** 거짓 (false) + 없이 (without)
+**Natural English translation:** truthfully, honestly, without deception
+**Usage:** Adverbial expression emphasizing truthfulness or honesty. Used when making sincere statements or promises.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 5: Agentive nominalization via -쟁이 (-jaengi)
+**Function:** Creates nouns denoting persons characterized by habitual action or quality
+
+#### 5.1
+**Base form:** 거짓말 (geojinmal) — lie
+**Derived form:** 거짓말쟁이
+**Transliteration:** geojinmaljaengi
+**Literal breakdown:** 거짓말 (lie) + 쟁이 (person who habitually does)
+**Natural English translation:** liar, habitual liar
+**Usage:** Common term for someone who habitually lies. Used in everyday speech with negative moral judgment.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 6: Intensification via -배기 (-baegi)
+**Function:** Creates emphatic forms emphasizing authenticity or typicality
+
+#### 6.1
+**Base form:** 진짜 (jinjja) — real
+**Derived form:** 진짜배기
+**Transliteration:** jinjjabbaegi
+**Literal breakdown:** 진짜 (real) + 배기 (emphatic marker)
+**Natural English translation:** the real deal, genuine article
+**Usage:** Colloquial emphatic form stressing authenticity. Used in informal speech to emphasize that something is truly authentic.
+**Epistemic status:** [CORE]
+
+#### 6.2
+**Base form:** 가짜 (gajja) — fake
+**Derived form:** 가짜배기
+**Transliteration:** gajjabaegi
+**Literal breakdown:** 가짜 (fake) + 배기 (emphatic marker)
+**Natural English translation:** total fake, complete fraud
+**Usage:** Colloquial emphatic form stressing complete inauthenticity. Used informally to emphasize thorough fakeness.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 7: Saturation via -투성이 (-tuseongi)
+**Function:** Creates expressions meaning "full of" or "covered with"
+
+#### 7.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓투성이
+**Transliteration:** geojittuseongi
+**Literal breakdown:** 거짓 (false) + 투성이 (full of/covered with)
+**Natural English translation:** full of lies, riddled with falsehood
+**Usage:** Describes something or someone as thoroughly characterized by lies or deception. Strong negative evaluation.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 8: Verbalization via -하다 (-hada) "to do/be"
+**Function:** Creates verbs or adjectives from Sino-Korean nouns
+
+#### 8.1
+**Base form:** 정확 (jeonghwak) — accuracy
+**Derived form:** 정확하다
+**Transliteration:** jeonghwakhada
+**Literal breakdown:** 정확 (accuracy) + 하다 (to be)
+**Natural English translation:** to be accurate, to be precise
+**Usage:** Describes precision and correctness. Common in technical, academic, and everyday contexts.
+**Epistemic status:** [CORE]
+
+#### 8.2
+**Base form:** 정직 (jeongjik) — honesty
+**Derived form:** 정직하다
+**Transliteration:** jeongjikada
+**Literal breakdown:** 정직 (honesty) + 하다 (to be)
+**Natural English translation:** to be honest, to be truthful
+**Usage:** Describes honest character or truthful behavior. Used in character assessment and moral evaluation.
+**Epistemic status:** [CORE]
+
+#### 8.3
+**Base form:** 진정 (jinjeong) — genuine
+**Derived form:** 진정하다
+**Transliteration:** jinjeonghada
+**Literal breakdown:** 진정 (genuine) + 하다 (to be)
+**Natural English translation:** to be genuine, to be sincere
+**Usage:** Describes genuineness or sincerity of feelings, intentions, or nature. Used in evaluating authenticity.
+**Epistemic status:** [CORE]
+
+#### 8.4
+**Base form:** 확실 (hwaksil) — certain
+**Derived form:** 확실하다
+**Transliteration:** hwaksilhada
+**Literal breakdown:** 확실 (certain) + 하다 (to be)
+**Natural English translation:** to be certain, to be sure
+**Usage:** Expresses certainty or definiteness about facts or situations. Common in both everyday and formal contexts.
+**Epistemic status:** [CORE]
+
+#### 8.5
+**Base form:** 타당 (tadang) — valid
+**Derived form:** 타당하다
+**Transliteration:** tadanghada
+**Literal breakdown:** 타당 (valid) + 하다 (to be)
+**Natural English translation:** to be valid, to be reasonable
+**Usage:** Indicates validity or reasonableness of arguments or claims. Common in analytical contexts.
+**Epistemic status:** [CORE]
+
+#### 8.6
+**Base form:** 정당 (jeongdang) — legitimate
+**Derived form:** 정당하다
+**Transliteration:** jeongdanghada
+**Literal breakdown:** 정당 (legitimate) + 하다 (to be)
+**Natural English translation:** to be legitimate, to be justified
+**Usage:** Evaluates legitimacy or justification of actions or claims. Common in legal and moral discourse.
+**Epistemic status:** [CORE]
+
+#### 8.7
+**Base form:** 신뢰 (sinroe) — trust
+**Derived form:** 신뢰하다
+**Transliteration:** silloehada
+**Literal breakdown:** 신뢰 (trust) + 하다 (to do)
+**Natural English translation:** to trust, to rely on
+**Usage:** Indicates trust or confidence in reliability of persons or information. Used in evaluating trustworthiness.
+**Epistemic status:** [CORE]
+
+#### 8.8
+**Base form:** 의심 (uisim) — doubt
+**Derived form:** 의심하다
+**Transliteration:** uisimhada
+**Literal breakdown:** 의심 (doubt) + 하다 (to do)
+**Natural English translation:** to doubt, to suspect
+**Usage:** Expresses doubt or suspicion about truth or reliability. Common when questioning accuracy or genuineness.
+**Epistemic status:** [CORE]
+
+#### 8.9
+**Base form:** 진실 (jinsil) — truth
+**Derived form:** 진실하다
+**Transliteration:** jinsilhada
+**Literal breakdown:** 진실 (truth) + 하다 (to be)
+**Natural English translation:** to be truthful, to be sincere
+**Usage:** Describes truthful or sincere character. Used in character evaluation and moral assessment.
+**Epistemic status:** [CORE]
+
+#### 8.10
+**Base form:** 솔직 (soljik) — frank
+**Derived form:** 솔직하다
+**Transliteration:** soljikada
+**Literal breakdown:** 솔직 (frank) + 하다 (to be)
+**Natural English translation:** to be frank, to be candid
+**Usage:** Describes openness and directness in communication. Common when requesting or praising candor.
+**Epistemic status:** [CORE]
+
+#### 8.11
+**Base form:** 거짓말 (geojinmal) — lie
+**Derived form:** 거짓말하다
+**Transliteration:** geojinmalhada
+**Literal breakdown:** 거짓말 (lie) + 하다 (to do)
+**Natural English translation:** to lie, to tell a lie
+**Usage:** Basic verb for the act of lying. Extremely common across all registers.
+**Epistemic status:** [CORE]
+
+#### 8.12
+**Base form:** 진단 (jindan) — diagnosis
+**Derived form:** 진단하다
+**Transliteration:** jindanhada
+**Literal breakdown:** 진단 (diagnosis) + 하다 (to do)
+**Natural English translation:** to diagnose, to assess
+**Usage:** Medical and analytical verb for diagnosing or assessing conditions. Used in healthcare and analytical contexts.
+**Epistemic status:** [CORE]
+
+#### 8.13
+**Base form:** 실천 (silcheon) — practice
+**Derived form:** 실천하다
+**Transliteration:** silcheonhada
+**Literal breakdown:** 실천 (practice) + 하다 (to do)
+**Natural English translation:** to practice, to put into action
+**Usage:** Verb for putting ideas or principles into practice. Common in moral and educational contexts.
+**Epistemic status:** [CORE]
+
+#### 8.14
+**Base form:** 실현 (silhyeon) — realization
+**Derived form:** 실현하다
+**Transliteration:** silhyeonhada
+**Literal breakdown:** 실현 (realization) + 하다 (to do)
+**Natural English translation:** to realize, to actualize
+**Usage:** Verb for making something real or bringing it into existence. Used for achieving goals or fulfilling dreams.
+**Epistemic status:** [CORE]
+
+#### 8.15
+**Base form:** 진출 (jinchul) — advance/entry
+**Derived form:** 진출하다
+**Transliteration:** jinchulhada
+**Literal breakdown:** 진출 (advance) + 하다 (to do)
+**Natural English translation:** to advance into, to enter (market/field)
+**Usage:** Used for advancing into new territories or markets. Common in business and competitive contexts.
+**Epistemic status:** [CORE]
+
+#### 8.16
+**Base form:** 진입 (jinip) — entry
+**Derived form:** 진입하다
+**Transliteration:** jiniphada
+**Literal breakdown:** 진입 (entry) + 하다 (to do)
+**Natural English translation:** to enter, to penetrate
+**Usage:** Formal term for entering or penetrating spaces or markets. Used in technical and business contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 9: Compound formation with 말 (mal) "speech/word"
+**Function:** Creates compounds specifically about verbal statements or speech acts
+
+#### 9.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓말
+**Transliteration:** geojinmal
+**Literal breakdown:** 거짓 (false) + 말 (speech)
+**Natural English translation:** lie, falsehood
+**Usage:** Specific term for false statements or lies. Distinguished from general falsity by referring to verbal deception.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 10: Compound formation with 증언 (jeungeon) "testimony"
+**Function:** Creates legal/formal terms about testimony or witness statements
+
+#### 10.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓증언
+**Transliteration:** geojitjeungeon
+**Literal breakdown:** 거짓 (false) + 증언 (testimony)
+**Natural English translation:** false testimony, perjury
+**Usage:** Legal term for false testimony under oath. Used in judicial contexts with serious legal implications.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 11: Compound formation with 증거 (jeunggeo) "evidence"
+**Function:** Creates legal/investigative terms about evidence
+
+#### 11.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓증거
+**Transliteration:** geojitjeunggeo
+**Literal breakdown:** 거짓 (false) + 증거 (evidence)
+**Natural English translation:** false evidence, fabricated evidence
+**Usage:** Legal term for fabricated or false evidence. Used in legal and investigative contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 12: Compound formation with 정보 (jeongbo) "information"
+**Function:** Creates terms about information or data
+
+#### 12.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓정보
+**Transliteration:** geojitjeongbo
+**Literal breakdown:** 거짓 (false) + 정보 (information)
+**Natural English translation:** false information, misinformation
+**Usage:** Term for false or misleading information. Common in media and information security contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 13: Compound formation with 뉴스 (nuseu) "news"
+**Function:** Creates contemporary media-related terms
+
+#### 13.1
+**Base form:** 거짓 (geojit) — false
+**Derived form:** 거짓뉴스
+**Transliteration:** geojitnuseu
+**Literal breakdown:** 거짓 (false) + 뉴스 (news)
+**Natural English translation:** fake news, false news
+**Usage:** Contemporary term for deliberately false news stories. Widely used in media criticism and political discourse.
+**Epistemic status:** [CORE]
+
+#### 13.2
+**Base form:** 가짜 (gajja) — fake
+**Derived form:** 가짜뉴스
+**Transliteration:** gajjanuseu
+**Literal breakdown:** 가짜 (fake) + 뉴스 (news)
+**Natural English translation:** fake news
+**Usage:** Alternative to 거짓뉴스 using colloquial term for fake. Equally common in contemporary media discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 14: Compound formation with 탐지기 (tamjigi) "detector"
+**Function:** Creates terms for detection devices or instruments
+
+#### 14.1
+**Base form:** 거짓말 (geojinmal) — lie
+**Derived form:** 거짓말탐지기
+**Transliteration:** geojinmaltamjigi
+**Literal breakdown:** 거짓말 (lie) + 탐지 (detect) + 기 (machine)
+**Natural English translation:** lie detector, polygraph
+**Usage:** Technical term for polygraph machines. Used in legal, investigative, and forensic contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 15: Causative formation via -시키다 (-sikida)
+**Function:** Creates causative verbs meaning "to make/cause X to happen"
+
+#### 15.1
+**Base form:** 진정 (jinjeong) — calm/settle
+**Derived form:** 진정시키다
+**Transliteration:** jinjeongsikida
+**Literal breakdown:** 진정 (calm) + 시키다 (causative: make)
+**Natural English translation:** to calm down, to pacify, to soothe
+**Usage:** Causative verb meaning to make someone or something calm. Used in contexts of emotional regulation or conflict resolution.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 16: Stative verb formation via -나다 (-nada) "to emerge/arise"
+**Function:** Creates verbs indicating emergence or arising of a state
+
+#### 16.1
+**Base form:** 실감 (silgam) — real feeling
+**Derived form:** 실감나다
+**Transliteration:** silgamnada
+**Literal breakdown:** 실감 (real feeling) + 나다 (emerge/arise)
+**Natural English translation:** to feel real, to be vivid, to hit home
+**Usage:** Describes when something feels real or vivid. Common in describing impactful or realistic experiences.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 17: Compound formation with 본 (bon) "original/copy"
+**Function:** Creates terms distinguishing authentic originals from copies
+
+#### 17.1
+**Base form:** 진 (jin) — true
+**Derived form:** 진본
+**Transliteration:** jinbon
+**Literal breakdown:** 진 (true) + 본 (original)
+**Natural English translation:** original, authentic copy
+**Usage:** Refers to authentic or original versions of documents or artworks. Common in archival and artistic contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 18: Compound formation with 조 (jo) "make/manufacture"
+**Function:** Creates terms about fabrication or manufacturing
+
+#### 18.1
+**Base form:** 위 (wi) — false
+**Derived form:** 위조
+**Transliteration:** wijo
+**Literal breakdown:** 위 (false) + 조 (make)
+**Natural English translation:** forgery, counterfeit
+**Usage:** Refers to fraudulent fabrication of documents or goods. Legal term with criminal implications.
+**Epistemic status:** [CORE]
+
+#### 18.2
+**Base form:** 모 (mo) — imitate
+**Derived form:** 모조
+**Transliteration:** mojo
+**Literal breakdown:** 모 (imitate) + 조 (make)
+**Natural English translation:** imitation, replica
+**Usage:** Denotes imitations or replicas, often of valuable objects. Used in commercial contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 19: Compound formation with 심 (sim) "heart/mind"
+**Function:** Creates terms about feelings, intentions, or mental states
+
+#### 19.1
+**Base form:** 진 (jin) — true
+**Derived form:** 진심
+**Transliteration:** jinsim
+**Literal breakdown:** 진 (true) + 심 (heart)
+**Natural English translation:** sincerity, true heart
+**Usage:** Used to express or evaluate sincerity of emotions or intentions. Common in everyday speech.
+**Epistemic status:** [CORE]
+
+---
+
+### Pattern 20: Compound formation with 의 (ui) "meaning/intention"
+**Function:** Creates terms about meaning or intention
+
+#### 20.1
+**Base form:** 진 (jin) — true
+**Derived form:** 진의
+**Transliteration:** jinui
+**Literal breakdown:** 진 (true) + 의 (meaning/intention)
+**Natural English translation:** true intention, real meaning
+**Usage:** Used when questioning or clarifying what someone truly means or intends. Common in formal and informal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+## NOTES ON PRODUCTIVITY
+
+### High productivity patterns:
+- **-성 (-seong) nominalization:** Highly productive with Sino-Korean adjectives and nouns in the truth domain. Creates abstract quality nouns systematically.
+- **-적 (-jeok) adjectivalization:** Very productive with Sino-Korean nouns, creating adjectives meaning "pertaining to" or "having the nature of."
+- **-하다 (-hada) verbalization:** Extremely productive with Sino-Korean nouns, creating verbs and adjectives. Nearly all Sino-Korean nouns in this domain can combine with -하다.
+- **-로/-으로 adverbialization:** Productive with both Sino-Korean and native Korean nouns, creating manner adverbs.
+
+### Limited productivity patterns:
+- **-쟁이 (-jaengi) agentive:** Limited to specific nouns, typically those denoting actions or behaviors. Not freely productive.
+- **-배기 (-baegi) intensification:** Limited to colloquial authenticity terms (진짜, 가짜). Not widely productive.
+- **-투성이 (-tuseongi) saturation:** Limited productivity, used with nouns denoting undesirable qualities or substances.
+
+### Compound formation:
+- Compound formation with specific semantic heads (말 "speech," 증언 "testimony," 증거 "evidence," 정보 "information," 뉴스 "news") is productive within semantic constraints.
+- These compounds follow regular compositional patterns but are limited to semantically appropriate combinations.
+
+### Gaps and asymmetries:
+- Native Korean roots (거짓, 참) show fewer derivational possibilities than Sino-Korean roots.
+- Not all Sino-Korean nouns in the domain accept all derivational suffixes (e.g., 진위 does not commonly form *진위성, *진위적, *진위하다).
+- Some bases appear only in derived forms (e.g., 신빙 appears primarily in 신빙성, rarely independently).

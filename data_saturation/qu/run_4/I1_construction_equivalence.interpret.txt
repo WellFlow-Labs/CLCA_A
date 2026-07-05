@@ -1,0 +1,101 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Quechua (qu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicative attribution with direct evidential clitic *-m/-mi*; reportative *-s*; conjectural *-chá* | `Cheqam kay.` "This is true." / `Llullam chay simi.` "That statement is a lie." | No substitution required; construction is [CORE] and grammatically obligatory | None |
+| **ADNOM** | Pre-nominal adjectival modifier; modifier invariant, no agreement morphology | `cheqa simi` "true statement" / `llulla runa` "lying person" / `sut'i simi` "clear statement" | No substitution required; construction is [CORE] and highly productive | None |
+| **BECOME** | Adjective + *tukuy* (inchoative/pretense construction) | `cheqa tukuy` "to pretend to be genuine / to act as if true" / `llulla tukuy` "to feign / to play false" | Attested construction is rated [MARGINAL]; primary reading in the truth-evaluation domain is pretense, not genuine change of state | Partial gap: genuine inchoative reading is possible but not the primary attested reading; the construction is structurally available but functionally skewed toward pretense |
+| **REVELATION** | Not attested as a distinct construction in P4a or P4b | — | No substitution documented | **MISSING (structural gap)** |
+| **CAUSATION (factual)** | Adjectival base + *-ncha-* causative suffix | `cheqanchay` "to make true / to verify / to correct / to rectify" / `sut'ichay` (parallel instance) | No substitution required; construction is [CORE] and well-attested | None |
+| **CAUSATION (character)** | Verbal base + *-chi-* causative suffix | `pantachiy` "to cause to err / to mislead" | No substitution required; construction is [CORE] | None; note however that *pantachiy* is the only character-domain causative example given; *cheqanchay* straddles factual and character domains in its documented glosses |
+| **VERIFICATION** | Adjectival base + *-ncha-* causative suffix | `cheqanchay` "to verify / to correct / to rectify" | **SUBSTITUTED BY CAUSATION (factual)**: *cheqanchay* covers both "make true" and "verify" within a single form; no separate dedicated verification construction is attested | Lexical gap: no distinct verification-only form; the causative form carries both meanings |
+| **DISCONFIRMATION** | Not attested as a distinct construction in P4a or P4b | — | No substitution documented | **MISSING (structural gap)** |
+| **NEGATION** | Discontinuous frame *mana* … *-chu*; variant *manam* … *-chu* with evidential commitment on negator | `Mana cheqachu.` "It is not true." / `Mana llullachu.` "It is not false." | No substitution required; construction is [CORE] | None |
+| **NOMINALIZATION** | (a) Adjective + *-n* (possessive/nominalizing): abstract nominal; (b) case-marked adverbial *cheqaqpaq*; (c) nominalized clause *cheqa kasqan*; (d) agentive *-q* on verbal stem | `cheqan` "the truth" / `cheqaqpaq` "truly, in truth" / `cheqa kasqanta yachani` "I know that it is true" / `llullakuq` "liar" | No substitution required; multiple nominalization strategies are [CORE] | Lexical gap: no single dedicated abstract nominalizer suffix equivalent to English *-ness*; abstract reference is distributed across multiple strategies |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 CAUSATION (factual) substitutes for VERIFICATION
+
+The most notable substitution pattern in the Quechua data is that the causative form *cheqanchay* carries the semantic range of both CAUSATION (factual) — "to make true / to correct / to rectify" — and VERIFICATION — "to verify." These two meanings are documented as co-present glosses of a single morphological form (cheqa + *-ncha-* + *-y*). No separate construction dedicated exclusively to verification is attested in P4a or P4b. The result is that VERIFICATION is not structurally absent but is lexically merged with CAUSATION (factual) within one form. The language does not appear to distinguish between "causing something to be true" and "establishing that something is true" at the level of morphological construction.
+
+### 2.2 BECOME construction is functionally skewed toward pretense
+
+The construction [adjective + *tukuy*] is structurally available for both genuine inchoative meaning ("to become true/false") and pretense meaning ("to act as if true/false"). However, P4a and P4b both document that in the truth-evaluation domain, the pretense reading is the primary attested interpretation, with the genuine inchoative reading described as possible but less commonly attested. This means the BECOME operator is not absent but is functionally displaced: the construction that formally maps to BECOME is predominantly used for a pretense or deception reading rather than for genuine change of state. No separate construction for genuine inchoative change in the truth domain is documented.
+
+### 2.3 REVELATION is not attested; no documented substitute
+
+No construction corresponding to REVELATION — the event of a hidden truth becoming known or being disclosed — is documented in P4a or P4b. The nominalized complement construction (Construction 9) expresses propositional knowledge (*cheqa kasqanta yachani*, "I know that it is true") but this is a stative knowledge construction, not a change-of-state revelation event. The BECOME construction (*cheqa tukuy*) is not documented as covering revelation. No substitution is reported; the gap appears to be structural.
+
+### 2.4 DISCONFIRMATION is not attested; no documented substitute
+
+No construction corresponding to DISCONFIRMATION — the act of showing or establishing that something is false — is documented in P4a or P4b. NEGATION (*mana cheqachu*, "it is not true") expresses the propositional content that something is not true, but this is a static negative attribution, not a process of disconfirming. The causative domain includes *pantachiy* ("to cause to err / to mislead"), which is in the character-causation domain rather than the disconfirmation domain. No substitution is reported; the gap appears to be structural.
+
+### 2.5 Asymmetry in evidential forms: conjectural evidential for *cheqa* but not *llulla*
+
+Within the EVIDENTIAL PREDICATION construction (Construction 8), P4a and P4b document the conjectural form *Cheqacha.* ("It is probably true") for *cheqa* but explicitly note that no conjectural form for *llulla* is documented. The direct evidential (*Llullam.*) and reportative (*Llullas.*) are attested for *llulla*, but the conjectural is not. This is an asymmetric gap within the evidential paradigm: the positive truth-value predicate has a fuller evidential paradigm than the negative truth-value predicate in the attested data.
+
+### 2.6 Asymmetry in agentive nominalization: liar is lexicalized, truth-teller is not
+
+The agentive nominalizer *-q* yields a lexicalized form for the concept "liar" (*llullakuq*), but no parallel single-morpheme agentive form for "truth-teller" is documented. The concept is expressed periphrastically (*cheqata rimaq*, "one who speaks truly") or through the adjectival compound *cheqa runa* ("honest person"). This is a lexical asymmetry: the falsity-domain agentive is lexicalized; the truth-domain agentive is not.
+
+### 2.7 NEGATION is analytic (discontinuous morphosyntactic frame)
+
+The negation construction uses a discontinuous frame: the free negator *mana* precedes the predicate and the negative polar suffix *-chu* closes it. This is a morphosyntactic pattern rather than a purely lexical or purely morphological one. The negator is a free word (analytic element), but the construction requires the bound suffix *-chu* on the predicate to be grammatically complete. It is therefore neither purely analytic nor purely morphological but a discontinuous bound-free frame. P4b rates this construction [CORE] and documents it as applying symmetrically to both *cheqa* and *llulla*.
+
+### 2.8 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is expressed (partially, via merger) through *cheqanchay* (CAUSATION factual). DISCONFIRMATION has no attested construction. The two operators are therefore not parallel in Quechua: one has a partial structural home (merged with causation), the other has none. They do not share a construction.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **REVELATION**: No construction for the event of a hidden truth becoming known or being disclosed is attested. The stative knowledge construction (Construction 9) and the BECOME construction (Construction 4) do not cover this operator. No substitute is documented.
+- **DISCONFIRMATION**: No construction for the act of establishing or showing that something is false is attested. NEGATION covers the propositional content but not the process. No substitute is documented.
+
+### 3.2 Lexical Gaps
+
+- **VERIFICATION as a distinct form**: The concept of verification is expressed through *cheqanchay*, which also covers "make true / correct / rectify." No form dedicated exclusively to verification is attested. The gap is lexical (no distinct word), not structural (the causative construction is available).
+- **Abstract nominalizer suffix**: Quechua lacks a single dedicated abstract nominalizer equivalent to English *-ness* or *-ity*. Abstract reference to truth is distributed across *cheqan* (*-n* possessive/nominalizing), *cheqaqpaq* (case-marked adverbial), and *cheqa kasqan* (nominalized clause). The gap is lexical (no single suffix), not structural (multiple strategies are available).
+- **Truth-teller agentive**: No single-morpheme agentive form for "truth-teller" is attested. The concept requires periphrasis (*cheqata rimaq*) or adjectival compound (*cheqa runa*). The gap is lexical.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps — cases where the semantic operation appears to be blocked as a category — are identifiable from the P4a and P4b data. All gaps documented above are either structural (no construction of that type exists) or lexical (no dedicated form, but the concept is expressible through other means). The data do not support a claim that any operation is conceptually unavailable.
+
+### 3.4 Asymmetric Gaps
+
+- **Conjectural evidential**: Attested for *cheqa* (*Cheqacha.*) but not documented for *llulla*. The evidential paradigm for the falsity predicate is incomplete relative to the truth predicate in the attested data.
+- **Agentive nominalization**: Lexicalized for the falsity domain (*llullakuq*, "liar") but not for the truth domain (no single-morpheme "truth-teller"; periphrasis required). The asymmetry runs in the direction of falsity being more lexically elaborated than truth in the agentive domain.
+- **BECOME / inchoative**: The construction *cheqa tukuy* is attested but primarily carries a pretense reading; no parallel asymmetry for *llulla tukuy* is noted — both are rated [MARGINAL] for the same reason. No directional asymmetry between truth and falsity is documented for this construction.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | [CORE]; grammatically obligatory with evidential clitic; three-way evidential paradigm (direct, reportative, conjectural) |
+| **ADNOM** | **Fully available** | [CORE]; pre-nominal, invariant, highly productive with *cheqa*, *llulla*, *sut'i* |
+| **BECOME** | **Partially available** | [MARGINAL]; structurally present via *tukuy* construction but functionally skewed toward pretense reading in the truth-evaluation domain; genuine inchoative reading possible but not primary |
+| **REVELATION** | **Missing entirely** | No attested construction; no documented substitute |
+| **CAUSATION (factual)** | **Fully available** | [CORE]; *-ncha-* suffix on adjectival base; *cheqanchay* well-attested |
+| **CAUSATION (character)** | **Fully available** | [CORE]; *-chi-* suffix on verbal base; *pantachiy* well-attested |
+| **VERIFICATION** | **Available with substitution** | **SUBSTITUTED BY CAUSATION (factual)**; *cheqanchay* covers both "make true" and "verify" within a single form; no dedicated verification-only construction |
+| **DISCONFIRMATION** | **Missing entirely** | No attested construction; no documented substitute |
+| **NEGATION** | **Fully available** | [CORE]; discontinuous morphosyntactic frame *mana* … *-chu*; applies symmetrically to *cheqa* and *llulla*; variant with evidential commitment on negator (*manam* … *-chu*) also attested |
+| **NOMINALIZATION** | **Fully available** | [CORE]; multiple strategies: *-n* possessive/nominalizing (*cheqan*), case-marked adverbial (*cheqaqpaq*), nominalized clause (*cheqa kasqan*), agentive *-q* (*llullakuq*, *yachaq*); no single dedicated abstract nominalizer suffix (lexical gap only) |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis for Quechua (qu)*

@@ -1,0 +1,302 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Quechua (qu)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+**[NP] + [EVALUATIVE TERM] + kay** (to be X)
+Predicative construction using the copula *kay* "to be" with evaluative adjectives/participles to attribute properties to subjects.
+
+### Examples
+- **kayqa chiqaqmi** → kayqa chiqaq-mi → "this is true" (with validator -mi)
+- **payqa llulla runam** → pay-qa llulla runa-m → "he/she is a liar" (lit. "lying person")
+
+### Notes
+The copula *kay* is often omitted in present tense, with the validator suffix -mi/-n or topic marker -qa directly attached to the predicate adjective or noun. The construction is used for both temporary and permanent attribution.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**[NP] + mana + [EVALUATIVE TERM] + (chu)** 
+Negation using *mana* before the predicate, optionally with interrogative -chu for emphatic negation or with copula forms.
+
+### Examples
+- **kayqa mana chiqaqchu** → kayqa mana chiqaq-chu → "this is not true"
+- **payqa mana allin runachu** → pay-qa mana allin runa-chu → "he/she is not a good person"
+
+### Notes
+The negative particle *mana* precedes the predicate. The suffix -chu (normally interrogative) combines with *mana* to create emphatic negation. The copula *kay* is typically omitted in present tense negative constructions.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[EVALUATIVE TERM] + [NOUN]**
+Direct juxtaposition of modifier before noun, with evaluative terms functioning as attributive adjectives.
+
+### Examples
+- **chiqaq simi** → chiqaq simi → "true word, truthful speech"
+- **llulla runa** → llulla runa → "lying person, liar"
+
+### Notes
+Quechua uses prenominal modification with no agreement marking. Evaluative terms directly precede the nouns they modify. This pattern is highly productive across all semantic domains identified in P3.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**[ROOT] + -ya- + -y** (infinitive) or **[ROOT] + -ya- + person/tense**
+Inchoative suffix -ya- derives verbs meaning "to become X" from stative bases.
+
+### Examples
+- **allinyay** → allin-ya-y → "to become good, to improve, to get better"
+- **chiqaqyay** → chiqaq-ya-y → "to become true, to be verified"
+
+### Notes
+The inchoative suffix -ya- is highly productive with stative evaluative terms, creating change-of-state verbs. This pattern is central to expressing processes of verification, improvement, clarification, and other epistemic/moral transitions.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**[ROOT] + -chi-/-cha- + -y** (infinitive) or with person/tense marking
+Causative suffix -chi- (or variant -cha-) derives verbs meaning "to make X" or "to cause to be X."
+
+### Examples
+- **chiqanchay** → chiqaq-ncha-y → "to verify, to authenticate, to make true" (with epenthetic -n-)
+- **allinyachiy** → allin-ya-chi-y → "to make good, to improve, to fix" (inchoative + causative)
+
+### Notes
+The causative is extremely productive. It can stack with inchoative (-ya-chi-) to create "cause to become X" meanings. The form -ncha- appears with some roots (possibly involving epenthetic -n- or a variant causative). This pattern is crucial for expressing verification, clarification, and improvement actions.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**[VERBAL ROOT] + -y** (infinitive used nominally) or **[ROOT] + -na** (nominalizer)
+Infinitives in -y function as abstract nouns; -na creates instrumental/locative nominals.
+
+### Examples
+- **yachay** → yacha-y → "knowledge, knowing" (infinitive as noun)
+- **pantana** → panta-na → "place/means of error, where one errs"
+
+### Notes
+The infinitive suffix -y creates abstract nominals from verbs. The suffix -na creates nominals with instrumental or locative meaning. Both patterns are productive for creating abstract concepts from evaluative roots.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**[VERBAL ROOT] + -q** (agentive/adjectival participle)
+The suffix -q creates agent nouns or adjectival participles meaning "one who Xs" or "X-ing."
+
+### Examples
+- **llullaq** → llulla-q → "liar, one who lies"
+- **chiqanchaq** → chiqaq-ncha-q → "verifier, one who authenticates"
+
+### Notes
+The agentive suffix -q is highly productive, creating both agent nouns (persons characterized by an action/state) and adjectival participles. It combines freely with causative and other derivational morphology (e.g., -ncha-q, -chi-q).
+
+---
+
+## 8. MANNER ADVERBIAL CONSTRUCTION
+
+### Pattern
+**[EVALUATIVE TERM] + -ta + [VERB]** or **[EVALUATIVE TERM] + -manta + [VERB]**
+Accusative -ta or ablative -manta on evaluative terms creates manner adverbials.
+
+### Examples
+- **chiqaqta rimay** → chiqaq-ta rima-y → "to speak truthfully" (lit. "speak the-true-ACC")
+- **allinta ruway** → allin-ta ruwa-y → "to do well, to do properly"
+
+### Notes
+The accusative case marker -ta on evaluative adjectives/participles creates manner adverbials. The ablative -manta emphasizes source ("from truth"). This is the standard pattern for manner modification of verbs in truth-domain contexts.
+
+---
+
+## 9. EVIDENTIAL MARKING WITH VALIDATORS
+
+### Pattern
+**[STATEMENT] + {-mi/-n (direct), -si (reportative), -cha (conjecture)}**
+Validator/evidential suffixes attach to focused constituent to mark information source.
+
+### Examples
+- **chiqaqmi** → chiqaq-mi → "it is true (I assert/know directly)"
+- **chiqaqsi** → chiqaq-si → "it is true (I heard/they say)"
+
+### Notes
+Quechua obligatorily marks evidentiality through validator suffixes. -mi/-n marks direct knowledge/assertion, -si marks reportative/hearsay, -cha marks conjecture/inference. These interact crucially with truth-domain vocabulary to indicate epistemic stance and information source.
+
+---
+
+## 10. EPISTEMIC SOURCE CONSTRUCTIONS
+
+### Pattern
+**[PERCEPTION VERB] + -wan + yachay** (to know by means of X)
+Instrumental case on perception verbs creates expressions for knowledge source.
+
+### Examples
+- **rikuywan yachay** → riku-y-wan yacha-y → "to know by seeing, to know through observation"
+- **uyariywan yachay** → uyari-y-wan yacha-y → "to know by hearing, to know through report"
+
+### Notes
+This construction explicitly marks the evidential basis for knowledge claims, distinguishing direct visual evidence from hearsay. It represents a lexicalized pattern for expressing epistemic source, complementing the grammatical evidential system.
+
+---
+
+## 11. REFLEXIVE/MIDDLE CONSTRUCTIONS
+
+### Pattern
+**[ROOT] + -ku- + -y** (infinitive) or with person/tense
+Reflexive suffix -ku- creates middle voice, reflexive, or benefactive meanings.
+
+### Examples
+- **llullakuy** → llulla-ku-y → "to lie (intransitive), to tell lies"
+- **pantakuy** → panta-ku-y → "to err (for oneself), to make one's own mistake"
+
+### Notes
+The reflexive/middle suffix -ku- often detransitivizes verbs or adds self-benefactive meaning. With evaluative terms, it frequently creates intransitive versions or emphasizes that the action affects the subject. It can stack with causatives (e.g., -chi-ku-).
+
+---
+
+## 12. ABUNDANCE/INTENSITY MARKING
+
+### Pattern
+**[ROOT] + -sapa** (abundance suffix)
+The suffix -sapa creates intensified forms meaning "full of X, very X, characterized by X."
+
+### Examples
+- **chiqaqsapa** → chiqaq-sapa → "very truthful, full of truth"
+- **llullasapa** → llulla-sapa → "very deceitful, full of lies"
+
+### Notes
+The abundance suffix -sapa intensifies the base meaning and often shifts from describing states to characterizing persons or things as having that quality in abundance. It is productive with evaluative roots for character assessment.
+
+---
+
+## 13. POSSESSOR CONSTRUCTIONS
+
+### Pattern
+**[ROOT] + -ni-yuq** or **[ROOT] + -yuq** (possessor suffix)
+The suffix -yuq (with possessive -ni- for some forms) creates "having X, possessing X" meanings.
+
+### Examples
+- **yachayniyuq** → yacha-y-ni-yuq → "having knowledge, knowledgeable"
+- **chaninyuq** → chanin-yuq → "having value, possessing legitimacy"
+
+### Notes
+The possessor suffix -yuq indicates possession or presence of a quality. With abstract nouns and evaluative terms, it creates expressions for possessing qualities, knowledge, or legitimacy. The form -niyuq includes a possessive marker.
+
+---
+
+## 14. COMPARATIVE/EQUATIVE CONSTRUCTIONS
+
+### Pattern
+**[STANDARD] + hina/shina + [EVALUATIVE TERM]** (like X, as X as)
+The particle *hina/shina* "like, as" creates comparative/equative constructions.
+
+### Examples
+- **payhina chiqaq** → pay-hina chiqaq → "as true as him/her, true like him/her"
+- **kayhina allin** → kay-hina allin → "as good as this, good like this"
+
+### Notes
+Quechua uses the particle *hina/shina* for comparison and equation rather than morphological comparative marking. This pattern allows comparison of truth-values and evaluative properties between entities.
+
+---
+
+## 15. MAGNITUDE MODIFICATION
+
+### Pattern
+**[SIZE TERM] + [EVALUATIVE TERM]** (especially with errors/faults)
+Size/magnitude terms modify evaluative nouns to indicate degree of seriousness.
+
+### Examples
+- **huch'uy pantay** → huch'uy panta-y → "small error, minor mistake"
+- **hatun huch'a** → hatun huch'a → "great sin, serious fault"
+
+### Notes
+This productive pattern uses size terms (*huch'uy* "small," *hatun* "big") to modify evaluative nouns, particularly errors and faults, to indicate their magnitude or seriousness. It is central to moral and epistemic evaluation of the gravity of mistakes.
+
+---
+
+## 16. LIMITATIVE CONSTRUCTIONS
+
+### Pattern
+**[EVALUATIVE TERM] + -lla** (limitative suffix)
+The suffix -lla creates meanings of "only X, just X, merely X."
+
+### Examples
+- **chiqaqlla** → chiqaq-lla → "only true, just the true one"
+- **pantalla** → panta-lla → "just an error, only a mistake"
+
+### Notes
+The limitative suffix -lla minimizes or restricts the scope of the base meaning. With evaluative terms, it can emphasize exclusivity ("only true") or minimize significance ("just a mistake"). It is productive across evaluative domains.
+
+---
+
+## 17. EMPHATIC CONSTRUCTIONS
+
+### Pattern
+**[EVALUATIVE TERM] + -puni** (emphatic suffix)
+The suffix -puni adds emphasis meaning "certainly X, definitely X, X indeed."
+
+### Examples
+- **chiqapuni** → chiqaq-puni → "truly indeed, really and truly"
+- **allinpuni** → allin-puni → "very good indeed, certainly good"
+
+### Notes
+The emphatic suffix -puni strengthens assertions and adds certainty. With truth-domain vocabulary, it emphasizes the speaker's confidence in the evaluation. It is commonly used in contexts requiring strong affirmation.
+
+---
+
+## 18. PAST PARTICIPLE CONSTRUCTIONS
+
+### Pattern
+**[VERBAL ROOT] + -sqa** (past/perfect participle)
+The suffix -sqa creates past/perfect participles meaning "X-ed, having been X-ed."
+
+### Examples
+- **pantasqa** → panta-sqa → "mistaken, erred, having erred"
+- **yachasqa** → yacha-sqa → "known, learned, what is known"
+
+### Notes
+The past participle -sqa is highly productive, creating both passive/resultative meanings and adjectival forms. It is crucial for expressing states resulting from epistemic or evaluative processes (being mistaken, being known, being verified).
+
+---
+
+## 19. CULTURAL CONCEPT CONSTRUCTIONS
+
+### Pattern
+**[EVALUATIVE TERM] + kawsay** (life, living)
+The noun *kawsay* "life, living" combines with evaluative terms to create philosophical concepts.
+
+### Examples
+- **allin kawsay** → allin kawsay → "good life, proper living, well-being"
+- **sumaq kawsay** → sumaq kawsay → "beautiful life, harmonious living"
+
+### Notes
+This is a culturally significant construction pattern creating key Andean philosophical concepts. *Allin kawsay* and *sumaq kawsay* represent central ethical and social ideals of proper, harmonious living. The pattern is semi-lexicalized but productive.
+
+---
+
+## 20. PLURAL MARKING ON ABSTRACT NOUNS
+
+### Pattern
+**[ABSTRACT NOUN/INFINITIVE] + -kuna** (plural)
+The plural suffix -kuna on abstract nouns/infinitives creates meanings of multiple instances or types.
+
+### Examples
+- **yachaykuna** → yacha-y-kuna → "knowledges, sciences, areas of knowledge"
+- **pantaykuna** → panta-y-kuna → "errors, mistakes (plural)"
+
+### Notes
+Plural marking on abstract nouns and infinitives creates expressions for multiple instances, types, or domains of the base concept. This is particularly productive with epistemic terms (*yachaykuna* for different sciences/knowledges).

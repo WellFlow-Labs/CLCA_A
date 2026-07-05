@@ -1,0 +1,387 @@
+# G2 — Cross-Language Lexical Partition Comparison
+
+## Comparison Table
+
+| Language | Main Lexical Groupings | Representative Terms | Overlaps / Mergers | Gaps / Missing Contrasts | Notes |
+|----------|------------------------|----------------------|--------------------|--------------------------|-------|
+| **ka (Georgian)** | 1. **Factual/moral correctness cluster** (მართ- root family)<br>2. **Genuineness/authenticity cluster** (ჭეშმარიტ-, ნამდვილ- roots)<br>3. **Verbal deception cluster** (ტყუილ- root)<br>4. **Object falsification cluster** (ყალბ- root)<br>5. **Legal/institutional justice** (სამართალ- derivatives)<br>6. **Precision/accuracy cluster** (ზუსტ- root) | 1. სიმართლე, მართალი, სამართლიანი<br>2. ჭეშმარიტი, ნამდვილი<br>3. ტყუილი, ტყუარა<br>4. ყალბი, გაყალბება<br>5. სამართალი, სამართლიანობა<br>6. ზუსტი | მართალი spans factual correctness AND moral rightness AND legal justice; ჭეშმარიტი overlaps with both propositional truth and object genuineness; no clear boundary between "correct" and "just" | No dedicated "truth-teller" agentive noun; no clear separation between epistemic and moral "rightness" in მართ- family; precision (ზუსტი) separate from general correctness | Exceptional derivational productivity from მართ- root creates unified factual-moral-legal-religious domain; religious orthodoxy (მართლმადიდებელი) integrated into same root system |
+| **yo (Yoruba)** | 1. **Straightness/correctness cluster** (tọ́ root family)<br>2. **Verbal falsehood cluster** (irọ́, purọ́)<br>3. **Righteousness/justice cluster** (òdodo)<br>4. **Belief/trust cluster** (gbàgbọ́ family)<br>5. **Cunning deception cluster** (ẹ̀tàn)<br>6. **Correctness-as-method cluster** (déédé ideophone) | 1. òtítọ́, tọ́, ìtọ́, tọ́ka, tọ́jú<br>2. irọ́, purọ́, apurọ́<br>3. òdodo, òdodo ọkàn<br>4. gbàgbọ́, ìgbàgbọ́, agbàgbọ́<br>5. ẹ̀tàn, tan, ẹlẹ́tàn<br>6. déédé | tọ́ root extends from physical straightness through epistemic correctness to moral guidance AND directional orientation AND proper care; òdodo spans righteousness and justice without clear boundary | No clear lexical distinction between "genuine object" and "true statement" (both use tọ́/òtítọ́); no dedicated "truth-teller" agentive; no separate term for "precision" (uses déédé ideophone) | Unique directional/guidance extensions of tọ́ (tọ́ ẹsẹ̀ "direct steps," tọ́ ọwọ́ "guide hand," tọ́jú "care for properly"); belief domain (gbàgbọ́) well-developed but separate from truth domain; ideophonic system (déédé, gidigidi) supplements verbal distinctions |
+| **fi (Finnish)** | 1. **General truth cluster** (tosi root family)<br>2. **Reality/actuality cluster** (todellinen, todellisuus)<br>3. **Correctness cluster** (oikea root family)<br>4. **Authenticity cluster** (aito)<br>5. **Honesty cluster** (rehellinen)<br>6. **Deliberate falsehood cluster** (valhe, valehdella)<br>7. **Unintentional error cluster** (virhe)<br>8. **Accuracy/holding cluster** (paikkansapitävä) | 1. tosi, totuus, totena<br>2. todellinen, todellisuus<br>3. oikea, oikeellisuus, oikeus<br>4. aito, aitous<br>5. rehellinen, rehellisyys<br>6. valhe, valehdella, valehtelija<br>7. virhe, virheellinen<br>8. paikkansapitävä | tosi root extends to reality (todellinen), probability (todennäköinen), verification (todistaa), AND realization (toteuttaa); oikea polysemous across correctness, spatial direction (right/left), AND justice (oikeus "right/justice/court") | No single native term for "fake object" (uses vale- prefix or epä- negation); no dedicated "truth-teller" agentive; no clear separation between "factually correct" and "procedurally correct" in oikea family | Extensive derivational family from tosi root; systematic epä- privative creates morphological oppositions; partitive case (totta) obligatory in general truth statements; fixed expression pitää paikkaansa "hold its place" = "be accurate" |
+| **eu (Basque)** | 1. **Truth/genuineness cluster** (egia root family)<br>2. **Falsehood/fakeness cluster** (gezur root family)<br>3. **Straightness/correctness/justice cluster** (zuzen root family)<br>4. **Crookedness/wrongness cluster** (oker root)<br>5. **Reality/genuineness cluster** (benetan derivatives)<br>6. **Appearance cluster** (itxura derivatives)<br>7. **Honesty/sincerity cluster** (zintzo) | 1. egia, egiazkoa, egiazkotu, egiazale<br>2. gezurra, gezurrezko, gezurtia<br>3. zuzena, zuzendu, zuzenbide<br>4. okerra, okertu<br>5. benetakoa, benetako<br>6. itxurazko, itxuraz<br>7. zintzoa, zintzotasuna | zuzen root polysemous across physical straightness, epistemic correctness, moral justice, AND legal domains (zuzenbide "law"); egia and benetan both indicate genuineness with register difference; gezur covers both verbal lies and fake objects | No clear separation between "correct answer" and "morally right action" in zuzen family; no dedicated "truth-teller" agentive; no separate term for "precision" (uses zuzen) | Postpositional system creates fixed phrases (egiaren bila "in search of truth"); reduplication for emphasis (zuzen-zuzen); extensive compounding; appearance/reality contrast systematically marked (itxurazko vs. egiazkoa/benetako) |
+| **ta (Tamil)** | 1. **Existence-based truth cluster** (உண்மை root family)<br>2. **Elevated/philosophical truth cluster** (மெய் root family)<br>3. **Religious/oath truth cluster** (சத்தியம்)<br>4. **Colloquial truth cluster** (நிஜம்)<br>5. **Falsehood cluster** (பொய் root family)<br>6. **Correctness cluster** (சரி)<br>7. **Error cluster** (தப்பு, தவறு)<br>8. **Honesty cluster** (நேர்மை)<br>9. **Deceit cluster** (கள்ளம்)<br>10. **Practical reality cluster** (நடப்பு, இயல்பு) | 1. உண்மை, உண்மையான, உண்மைத்தன்மை<br>2. மெய், மெய்ம்மை, மெய்ஞ்ஞானம்<br>3. சத்தியம்<br>4. நிஜம்<br>5. பொய், பொய்யான, பொய்யன்<br>6. சரி, சரியான<br>7. தப்பு, தவறு<br>8. நேர்மை<br>9. கள்ளம், கள்ளம் கபடம் இல்லாத<br>10. நடப்பு, இயல்பு | உண்மை root etymologically connected to "existence" (உண்டு); மெய் polysemous between "truth" AND "body/physical" (மெய்யெழுத்து "consonant"); பொய் extends to both verbal lies and fake objects without clear distinction | No single native term for "genuine object" separate from "true statement" (both use உண்மை); no dedicated "truth-teller" agentive (உண்மைவாதி exists but marginal); no clear separation between "correct" and "appropriate" | Extreme register stratification: native roots (சரி, தப்பு) vs. Sanskrit loans (சத்தியம், நிஜம்) vs. literary (மெய்); extensive compounding creates specialized terms (உண்மைக்கதை "true story," மெய்ஞ்ஞானம் "true knowledge/enlightenment"); classical பொய்யாமை "non-falsehood" = truthfulness |
+| **id (Indonesian)** | 1. **General correctness cluster** (benar/betul family)<br>2. **Honesty cluster** (jujur family)<br>3. **Deliberate falsehood cluster** (bohong/dusta)<br>4. **Error cluster** (salah family)<br>5. **Authenticity cluster** (asli/palsu)<br>6. **Validity cluster** (valid, sah, geçerli)<br>7. **Reality cluster** (nyata family)<br>8. **Precision cluster** (tepat, akurat)<br>9. **Appropriateness cluster** (sesuai, cocok, wajar) | 1. benar, betul, kebenaran, membenarkan<br>2. jujur, kejujuran, sejujurnya<br>3. bohong, dusta, kebohongan<br>4. salah, kesalahan, menyalahkan<br>5. asli, palsu, keaslian<br>6. valid, sah, geçerli<br>7. nyata, kenyataan, ternyata<br>8. tepat, akurat<br>9. sesuai, cocok, wajar | benar spans factual correctness AND moral rightness; salah exceptionally productive in specialized compounds (salah paham, salah guna, salah kaprah, etc.); nyata overlaps with both factual truth and concrete existence | No clear separation between "correct" and "appropriate" (both use benar or tepat depending on context); no dedicated "truth-teller" agentive (uses periphrasis: orang jujur); no single term unifying philosophical and everyday truth | Extensive borrowing (Dutch valid, Arabic sah); salah shows exceptional compound productivity unparalleled in other languages; softened negation with kurang "lacking" for politeness; register variation: bohong (colloquial) vs. dusta (formal/literary); ternyata grammaticalized as evidential marker |
+| **tr (Turkish)** | 1. **Straightness/correctness cluster** (doğru root family)<br>2. **Reality/genuineness cluster** (gerçek family)<br>3. **Right/truth/due cluster** (hak root family)<br>4. **Wrongness cluster** (yanlış family)<br>5. **Fakeness cluster** (sahte family)<br>6. **Authenticity cluster** (asıl, özgün)<br>7. **Philosophical truth cluster** (hakikat)<br>8. **Validity cluster** (geçerli, sah, meşru)<br>9. **Consistency cluster** (tutarlı)<br>10. **Precision cluster** (kesin, tam, isabetli) | 1. doğru, doğruluk, doğrulamak<br>2. gerçek, gerçeklik, gerçekleşmek<br>3. hak, haklı, haksız, hakikat<br>4. yanlış, yanlışlık, yanlışlamak<br>5. sahte, sahtelik, sahtekâr<br>6. asıl, özgün, özgünlük<br>7. hakikat, hakiki, hakikaten<br>8. geçerli, sah, meşru<br>9. tutarlı, tutarsız<br>10. kesin, tam, isabetli | doğru polysemous across truth, correctness, straightness, AND directness; hak exceptionally polysemous across rights, truth, deservingness, AND God; gerçek extends from reality to realization (gerçekleşmek "come true/happen") | No clear separation between "factually correct" and "morally right" in doğru family; no dedicated "truth-teller" agentive; no single term unifying all truth senses (doğru, gerçek, hak, hakikat partition the domain) | Extensive Arabic/Persian borrowing for abstract/religious terms; highly productive suffixation (-lık, -leş, -lı, -sız); light verb constructions with olmak, etmek, çıkmak; postpositional grammaticalization from hak root (hakkında "about"); hak shows unique polysemy spanning truth, rights, deservingness, and divinity |
+| **ko (Korean)** | 1. **Formal truth cluster** (진실 Sino-Korean)<br>2. **Factual cluster** (사실 Sino-Korean)<br>3. **Colloquial genuineness cluster** (진짜 native+Sino)<br>4. **Native truth cluster** (참 pure native)<br>5. **Philosophical truth cluster** (진리 Sino-Korean)<br>6. **Falsehood cluster** (거짓 family)<br>7. **Fakeness cluster** (가짜 family)<br>8. **Correctness cluster** (맞다, 정확하다)<br>9. **Error cluster** (틀리다)<br>10. **Honesty cluster** (정직하다)<br>11. **Practical reality cluster** (실제, 실질 Sino-Korean)<br>12. **Legal/testimonial cluster** (진술, 증언) | 1. 진실, 진실성, 진실되다<br>2. 사실, 사실상, 사실관계<br>3. 진짜, 진짜배기, 진짜로<br>4. 참, 참되다, 참으로<br>5. 진리, 진리성<br>6. 거짓, 거짓말, 거짓말쟁이<br>7. 가짜, 가짜뉴스, 가짜돈<br>8. 맞다, 정확하다, 정확성<br>9. 틀리다, 틀림없다<br>10. 정직하다, 정직성<br>11. 실제, 실질적, 실효성<br>12. 진술, 증언 | Extensive register-based overlap: 진실 (formal) / 사실 (factual/objective) / 진짜 (colloquial) / 참 (native/literary) all indicate truth but in different registers and contexts; 거짓 (general falsehood) vs. 거짓말 (speech-specific lie); 실- (reality) root highly productive for practical/applied meanings | No single term unifying factual truth and moral honesty (separate clusters); no dedicated "truth-teller" agentive (only 거짓말쟁이 "liar"); no clear boundary between "correct" (맞다) and "accurate" (정확하다) | Most elaborated register stratification in sample: native Korean (참, 맞다) vs. Sino-Korean (진실, 사실, 정확) creates parallel systems; 실- (reality) root highly productive for practical/applied meanings (실제, 실질, 실효성, 실력, 실적); negation prefix 부-/불- systematic; internal oppositional compounds (진위 "truth-or-falsehood," 허실 "empty-or-real") |
+
+---
+
+## Narrative Analysis
+
+### Recurring Partition Patterns
+
+**1. Universal truth/falsehood core opposition**: All eight languages show a fundamental lexical split between truth-related and falsehood-related vocabulary, but the internal organization of each cluster varies significantly:
+
+- **Single unified truth term**: Yoruba (òtítọ́ dominant), Basque (egia dominant), Indonesian (benar primary but with variants)
+- **Multiple truth terms with register/domain distinctions**: 
+  - **Georgian**: სიმართლე (everyday), ჭეშმარიტი (emphatic/genuine)
+  - **Finnish**: tosi (general), totuus (abstract noun), todellinen (reality)
+  - **Tamil**: உண்மை (everyday), மெய் (elevated), சத்தியம் (religious), நிஜம் (colloquial)
+  - **Turkish**: doğru (general), gerçek (reality), hak (moral-legal), hakikat (philosophical)
+  - **Korean**: 진실 (formal), 사실 (factual), 진짜 (colloquial), 참 (native), 진리 (philosophical)
+
+**Pattern**: Languages with extensive contact history (Tamil, Korean, Turkish) show most elaborated register stratification through borrowing. Isolates and less-contacted languages (Yoruba, Basque) show less internal differentiation.
+
+**2. Widespread genuine/fake distinction for objects**: All eight languages maintain a dedicated lexical contrast for object authenticity separate from (or partially overlapping with) statement truth:
+
+- **Clear separation**: Georgian (ნამდვილი/ყალბი for objects), Finnish (aito/vale-), Basque (egiazkoa/gezurrezko), Tamil (அசல்/பொய்ப்பொருள்), Indonesian (asli/palsu), Turkish (asıl/sahte, özgün/sahte), Korean (진품/위조품, 진짜/가짜)
+- **Partial merger**: Yoruba shows less clear lexical separation (gidi "genuine" exists but tọ́/òtítọ́ used for both statements and objects)
+
+**Pattern**: Object authenticity is universally distinguished, but degree of lexical separation from propositional truth varies. Yoruba's tọ́ root covers both domains more than other languages.
+
+**3. Honest character vs. lying behavior split**: All eight languages distinguish moral honesty (dispositional trait) from lying (speech act), though lexicalization patterns vary:
+
+- **Separate lexical roots**: 
+  - Georgian: [honesty less lexicalized; focus on truth-telling vs. lying acts]
+  - Finnish: rehellinen "honest" vs. valhe "lie"
+  - Basque: zintzoa "honest" vs. gezurra "lie"
+  - Tamil: நேர்மை (nērmai) "honesty" vs. பொய் (poy) "lie"
+  - Indonesian: jujur "honest" vs. bohong "lie"
+  - Turkish: dürüst "honest" vs. yalan "lie"
+  - Korean: 정직 (jeongjik) "honesty" vs. 거짓말 (geojinmal) "lie"
+- **Derivational relationship**: Yoruba (òdodo "righteousness" related to but distinct from òtítọ́ "truth")
+
+**Pattern**: Honesty/lying distinction is universal, but some languages (Georgian, Yoruba) integrate it more closely with general truth vocabulary while others (Finnish, Indonesian, Korean) maintain clearer lexical separation.
+
+**4. Correctness vs. error partition**: All languages distinguish correctness/accuracy from error/mistake, but integration with truth varies:
+
+- **Integrated with truth domain**: 
+  - Georgian: მართალი covers both truth and correctness
+  - Yoruba: tọ́ covers both truth and correctness
+  - Turkish: doğru covers both truth and correctness
+  - Basque: zuzena covers both correctness and truth (partially)
+- **Partially separate**: 
+  - Finnish: oikea "correct" distinct from tosi "true" but overlapping in usage
+  - Tamil: சரி (cari) "correct" distinct from உண்மை (uṇmai) "truth"
+  - Indonesian: benar covers both but tepat "precise" more specialized
+  - Korean: 맞다 (matda) "correct" distinct from 진실 (jinsil) "truth"
+
+**Pattern**: Agglutinative languages with rich derivational morphology (Georgian, Turkish, Yoruba) tend to merge truth and correctness in single roots. Languages with more analytic structure or extensive borrowing (Finnish, Tamil, Korean, Indonesian) tend to maintain separate terms.
+
+**5. Deliberate vs. unintentional error distinction**: Most languages lexically distinguish intentional lies from unintentional mistakes:
+
+- **Clear lexical distinction**: 
+  - Finnish: valhe "lie" vs. virhe "error"
+  - Indonesian: bohong "lie" vs. salah "mistake"
+  - Tamil: பொய் (poy) "lie" vs. தப்பு (tappu) "mistake"
+  - Korean: 거짓말 (geojinmal) "lie" vs. 실수 (silsu) "mistake" [different root]
+- **Less clear distinction**: 
+  - Georgian: ტყუილი covers both (context distinguishes)
+  - Yoruba: irọ́ covers both (context distinguishes)
+  - Basque: gezurra covers both (context distinguishes)
+  - Turkish: yanlış covers both (context distinguishes)
+
+**Pattern**: Languages with extensive borrowing (Finnish, Indonesian, Tamil, Korean) tend to maintain clearer lexical distinctions. Native-vocabulary-dominant languages (Georgian, Yoruba, Basque, Turkish) rely more on context.
+
+**6. Precision/exactness as separate dimension**: Most languages distinguish precision from general correctness, but lexicalization varies:
+
+- **Separate precision terms**: 
+  - Georgian: ზუსტი (zusti) "precise"
+  - Finnish: tarkka "precise," täsmällinen "exact"
+  - Tamil: துல்லியம் (tulliyam) "precision"
+  - Indonesian: tepat "precise," akurat "accurate"
+  - Turkish: kesin "definite," tam "exact," isabetli "accurate"
+  - Korean: 정확 (jeonghwak) "accurate"
+- **Less differentiated**: 
+  - Yoruba: uses déédé ideophone for precision
+  - Basque: uses zuzen for both correctness and precision
+
+**Pattern**: Precision vocabulary is universally present but varies in lexicalization strategy (dedicated adjectives vs. ideophones vs. polysemy with correctness terms).
+
+### Fine-Grained Splits vs. Mergers
+
+**Languages with fine-grained truth distinctions**:
+
+**1. Korean (most elaborated)**: Four parallel systems based on register and semantic nuance:
+- **Native**: 참 (cham) — pure Korean, literary/emphatic, philosophical weight
+- **Colloquial**: 진짜 (jinjja) — hybrid native+Sino, everyday speech, authenticity focus
+- **Formal**: 진실 (jinsil) — Sino-Korean, official/written, moral/philosophical truth
+- **Factual**: 사실 (sasil) — Sino-Korean, objective/evidential, factual truth
+- **Philosophical**: 진리 (jilli) — Sino-Korean, universal/eternal truth
+
+Plus specialized compounds: 진상 "true situation," 진의 "true intention," 진가 "true value," 진면목 "true character," 진품 "genuine article"
+
+**2. Tamil (register-stratified)**: Four main truth terms with clear register/domain distinctions:
+- **உண்மை** (uṇmai): everyday truth, etymologically "that which exists," broad usage
+- **மெய்** (mey): elevated/literary truth, also means "body," philosophical depth
+- **சத்தியம்** (cattiyam): religious/oath truth, Sanskrit loan, solemn contexts
+- **நிஜம்** (nijam): colloquial truth, Persian/Sanskrit loan, emphatic confirmation
+
+Plus extensive compounding: உண்மைநிலை "true state," மெய்ஞ்ஞானம் "true knowledge/enlightenment," உண்மைக்கதை "true story"
+
+**3. Turkish (domain-stratified)**: Multiple truth terms with distinct semantic profiles:
+- **doğru**: general correctness, also spatial straightness, directness
+- **gerçek**: ontological reality, also realization/actualization
+- **hak**: moral-legal-theological truth, also rights and deservingness
+- **hakikat**: philosophical/essential truth, ultimate reality
+- **sahih**: religious/legal authenticity (specialized)
+
+Plus extensive derivational families from each root creating domain-specific vocabularies.
+
+**Languages with merged or less differentiated systems**:
+
+**1. Yoruba (unified around tọ́)**: Single root tọ́ "be straight/correct/true" extends across multiple domains without clear lexical differentiation:
+- Factual truth (òtítọ́)
+- Correctness (tọ́)
+- Directional guidance (tọ́ ẹsẹ̀ "direct steps")
+- Proper care (tọ́jú "care for")
+- Orthography (tọ́ ẹnu "speak correctly")
+
+Semantic differentiation achieved through serial verb constructions and context rather than distinct lexical items. Ideophonic system (déédé "correctly," gidigidi "firmly") supplements verbal distinctions.
+
+**2. Indonesian (moderate differentiation)**: Core terms benar/salah cover wide range with specialized terms for specific domains:
+- **benar**: general truth and correctness (merged)
+- **jujur**: moral honesty (separate)
+- **asli/palsu**: object authenticity (separate)
+- **valid/sah**: legal validity (borrowed, specialized)
+- **tepat/akurat**: precision (separate)
+
+Less internal differentiation than Korean/Tamil/Turkish but more than Yoruba. Compensates through productive compounding (especially with salah).
+
+**3. Basque (moderate differentiation)**: Core terms egia/gezurra cover wide range:
+- **egia**: truth and genuineness (partially merged)
+- **zuzena**: correctness, straightness, justice (highly polysemous)
+- **benetakoa**: reality/genuineness (overlaps with egia)
+
+Appearance/reality contrast well-developed (itxurazko vs. egiazkoa/benetako) but fewer register-based distinctions than Korean/Tamil/Turkish.
+
+### Missing Contrasts and Lexical Gaps
+
+**1. Truth-teller agentive nouns (systematic cross-language gap)**:
+- **"Liar" lexicalized in all eight languages**: 
+  - Georgian: ტყუარა (t'q'uara)
+  - Yoruba: apurọ́
+  - Finnish: valehtelija
+  - Basque: gezurtia
+  - Tamil: பொய்யன் (poyyan)
+  - Indonesian: pembohong
+  - Turkish: yalancı
+  - Korean: 거짓말쟁이 (geojinmaljaengi)
+
+- **"Truth-teller" absent or periphrastic in seven languages**:
+  - Georgian: no dedicated term (uses descriptive phrases)
+  - Yoruba: no common agentive (uses descriptive phrases)
+  - Finnish: no *totuuden puhuja (uses rehellinen ihminen "honest person")
+  - Basque: egiazale "truth-lover" exists but marginal
+  - Indonesian: no *penjujur (uses orang jujur "honest person")
+  - Turkish: no *doğrucu (uses dürüst insan "honest person")
+  - Korean: no agentive (uses 정직한 사람 "honest person")
+
+- **Partial exception**: Tamil has உண்மைவாதி (uṇmaivāti) "truth-advocate" but it's marked and less frequent than பொய்யன் (poyyan) "liar"
+
+**This represents the strongest cross-linguistic asymmetry in the data**: negative agent roles (liar, deceiver) are universally lexicalized while positive agent roles (truth-teller) are systematically absent or marginal.
+
+**2. Philosophical vs. everyday truth (variable gap)**:
+- **Distinct philosophical/religious terms**: 
+  - Tamil: மெய் (mey) elevated vs. உண்மை (uṇmai) everyday; சத்தியம் (cattiyam) religious
+  - Korean: 진리 (jilli) philosophical vs. 사실 (sasil) factual vs. 진실 (jinsil) general
+  - Turkish: hakikat philosophical/religious vs. gerçek everyday vs. doğru general
+  - Georgian: ჭეშმარიტება (ch'eshmarit'eba) elevated vs. სიმართლე (simart'le) everyday
+
+- **Single term across registers**: 
+  - Yoruba: òtítọ́ (no separate philosophical term)
+  - Indonesian: kebenaran (no separate philosophical term)
+  - Basque: egia (no separate philosophical term)
+  - Finnish: totuus (serves both everyday and philosophical contexts)
+
+**Pattern**: Languages with extensive contact and borrowing (Tamil, Korean, Turkish) maintain distinct philosophical vocabulary. Languages with less contact or more isolated development (Yoruba, Basque) use single terms across registers.
+
+**3. Appearance vs. reality lexical marking (variable gap)**:
+- **Dedicated appearance/seeming terms**: 
+  - Basque: itxurazko "apparent/seeming" vs. benetako/egiazkoa "real"
+  - Turkish: görünüşte "in appearance" vs. gerçekte "in reality"
+  - Korean: 겉모습 (geotmoseup) "surface appearance" vs. 본질 (bonjil) "essence"
+
+- **Constructional only** (no dedicated adjectives): 
+  - Georgian: uses "seem" verbs
+  - Yoruba: uses "seem" verbs
+  - Finnish: uses "seem" verbs (vaikuttaa, näyttää)
+  - Tamil: uses "seem" verbs
+  - Indonesian: uses "seem" verbs (tampak, kelihatan)
+
+**Pattern**: Appearance/reality contrast is universal but only some languages lexicalize it in dedicated adjectives. Most rely on verbal constructions.
+
+**4. Precision/exactness separation from general correctness**:
+- **Separate precision vocabulary**: Georgian (ზუსტი), Finnish (tarkka, täsmällinen), Tamil (துல்லியம்), Indonesian (tepat, akurat), Turkish (kesin, tam, isabetli), Korean (정확)
+- **Less differentiated**: Yoruba (déédé ideophone), Basque (zuzen covers both)
+
+**Pattern**: Precision is universally distinguished but lexicalization varies: dedicated adjectives (most languages) vs. ideophones (Yoruba) vs. polysemy with correctness (Basque).
+
+**5. Deliberate vs. unintentional error**:
+- **Clear lexical distinction**: Finnish (valhe vs. virhe), Indonesian (bohong vs. salah), Tamil (பொய் vs. தப்பு), Korean (거짓말 vs. 실수)
+- **Context-dependent distinction**: Georgian (ტყუილი covers both), Yoruba (irọ́ covers both), Basque (gezurra covers both), Turkish (yanlış covers both)
+
+**Pattern**: Languages with extensive borrowing or analytic structure maintain clearer lexical distinctions. Languages relying on native derivational systems use context to distinguish.
+
+### Well-Attested vs. Single-Language Observations
+
+**Well-attested patterns (6+ languages)**:
+
+**1. Polysemy of "straight/correct/right" (6 languages)**: 
+- Georgian: მართალი (mart'ali)
+- Yoruba: tọ́
+- Finnish: oikea
+- Basque: zuzena
+- Tamil: சரி (cari)
+- Turkish: doğru
+
+**Absent in**: Indonesian (lurus "straight" vs. benar "correct"), Korean (곧다 "straight" vs. 맞다 "correct")
+
+**2. Productive abstract nominalization (8 languages)**: All show productive patterns for deriving abstract quality nouns, though suffixes vary:
+- Georgian: -ობა
+- Yoruba: ì- prefix
+- Finnish: -uus/-yys
+- Basque: -tasun
+- Tamil: -தன்மை (-taṉmai)
+- Indonesian: ke-...-an
+- Turkish: -lık/-lik
+- Korean: -성 (-seong)
+
+**3. Morphological negation for oppositions (7 languages)**: Productive privative/negative affixes:
+- Georgian: უ- prefix
+- Yoruba: àì- prefix (less productive)
+- Finnish: epä- prefix
+- Basque: -gabe suffix
+- Tamil: -ஆமை (-āmai) classical privative
+- Indonesian: tidak- prefix in nominalizations
+- Turkish: -sız/-siz suffix
+- Korean: 부-/불- (bu-/bul-) prefix
+
+**4. Verification vocabulary (8 languages)**: All have dedicated terms for establishing truth through evidence:
+- Georgian: დადასტურება (dadast'ureba)
+- Yoruba: ìfẹ̀sẹ̀múlẹ̀, ẹ̀rí, jẹ́rìí
+- Finnish: todistaa, todentaa, todiste
+- Basque: egiazkotu, egiaztagiri
+- Tamil: மெய்ப்பு (meyppu), உண்மைப்படுத்து (uṇmaippaṭuttu)
+- Indonesian: membenarkan, validasi
+- Turkish: doğrulamak, tasdik etmek
+- Korean: 확인하다 (hwaginhada), 증명하다 (jeungmyeonghada)
+
+**5. Revelation/discovery constructions (8 languages)**: All have specialized constructions for truth coming to light:
+- Georgian: გამოვლინდა (gamovlinda) "was revealed"
+- Yoruba: purọ́ jáde "lie emerged," rí òtítọ́ "find truth"
+- Finnish: paljastua "be revealed," tulla ilmi "come to light"
+- Basque: egia atera "truth came out," erakutsi "show"
+- Tamil: உண்மை வெளிப்படு (uṇmai veḷippaṭu) "truth comes out"
+- Indonesian: ternyata "it turns out," terungkap "be revealed"
+- Turkish: ortaya çıkmak "come to light," açığa çıkmak "be exposed"
+- Korean: 드러나다 (deureonada) "come to light," 밝혀지다 (balkhyeojida) "be revealed"
+
+**Moderately attested patterns (3-5 languages)**:
+
+**1. Register-based truth term stratification (4 languages)**: Clear register distinctions in truth vocabulary:
+- Tamil: உண்மை (everyday) / மெய் (elevated) / சத்தியம் (religious) / நிஜம் (colloquial)
+- Korean: 진실 (formal) / 사실 (factual) / 진짜 (colloquial) / 참 (native) / 진리 (philosophical)
+- Turkish: doğru (general) / gerçek (reality) / hak (moral-legal) / hakikat (philosophical)
+- Indonesian: benar (general) / bohong vs. dusta (colloquial vs. formal for "lie")
+
+**Less pronounced in**: Georgian, Yoruba, Finnish, Basque
+
+**2. Inchoative "become real" productivity (3 languages)**: Highly productive inchoative constructions:
+- Turkish: gerçekleşmek "become real/happen" (lexicalized)
+- Indonesian: menjadi benar "become true" (productive)
+- Finnish: tulla todeksi "come true" (restricted to predictions)
+
+**Less developed or marked in**: Georgian, Yoruba, Basque, Tamil, Korean (prefer revelation verbs)
+
+**3. Extensive compounding with truth roots (4 languages)**: Highly productive compounding:
+- Tamil: உண்மைக்கதை "true story," மெய்ஞ்ஞானம் "true knowledge," உண்மைத்தன்மை "truthfulness"
+- Korean: 진실성 "truthfulness," 사실관계 "facts of case," 진위여부 "whether true or false"
+- Turkish: doğru yol "right path," gerçek hayat "real life," hak yolu "path of truth"
+- Georgian: მართლწერა "orthography," მართლზომიერი "moderate"
+
+**Moderate compounding**: Finnish, Basque, Indonesian
+**Less productive**: Yoruba
+
+**Single-language or rare observations**:
+
+**1. Directional/guidance extensions of "straight/correct" (Yoruba only)**: 
+- Yoruba tọ́ uniquely extends to directional guidance: tọ́ ẹsẹ̀ "direct steps," tọ́ ọwọ́ "guide hand," tọ́jú "care for properly," tọ́ ọkàn "set heart/mind correctly"
+- Other languages use separate directional vocabulary
+
+**2. Body/truth polysemy (Tamil only)**: 
+- Tamil மெய் (mey) uniquely polysemous between "truth" and "body/physical": மெய்யெழுத்து "consonant" (literally "body-letter")
+- Korean 진 (jin) shows limited similar pattern but less systematic
+- No parallel in other languages
+
+**3. Existence-based etymology for truth (Tamil only)**: 
+- Tamil உண்மை (uṇmai) derives from உண்டு (uṇṭu) "exists," creating philosophical connection between truth and existence
+- Not paralleled in other languages' core truth terms
+
+**4. Salah compound productivity (Indonesian only)**: 
+- Indonesian salah "wrong" shows exceptional productivity in forming specialized error compounds: salah paham "misunderstand," salah guna "misuse," salah kaprah "common error," salah tingkah "awkward," salah langkah "misstep," salah jalan "wrong way," salah alamat "wrong address," salah urus "mismanagement," salah tafsir "misinterpret," salah ucap "slip of tongue," salah tulis "typo," salah hitung "miscalculation," salah lihat "see wrongly," salah dengar "mishear"
+- No other language shows comparable productivity for error-type specification
+
+**5. Religious orthodoxy integration (Georgian only)**: 
+- Georgian uniquely integrates religious orthodoxy into the truth-domain root system: მართლმადიდებელი (mart'lmadidebeli) "Orthodox Christian" from მართ- "right/true"
+- Other languages use separate religious vocabulary
+
+**6. Hak polysemy (Turkish only)**: 
+- Turkish hak uniquely spans truth, rights, deservingness, AND God in a single root with extensive idiomatic expressions: hak etmek "deserve," hak vermek "agree with," hak yemek "wrong someone," Hak Teala "God Almighty"
+- No parallel polysemy range in other languages
+
+**7. Classical "non-falsehood" = truthfulness (Tamil and Basque only)**: 
+- Tamil: பொய்யாமை (poyyāmai) "non-falsehood" = truthfulness (classical ethical literature)
+- Basque: vilpitön "without deceit" = sincere
+- Not attested in other languages' core vocabulary
+
+**8. Internal oppositional compounds (Korean and Turkish only)**:
+- Korean: 진위 (jinwi) "truth-or-falsehood," 허실 (heosil) "empty-or-real"
+- Turkish: doğru yanlış "true-false" as fixed pair
+- Other languages pair terms syntactically but don't create single-word oppositional compounds
+
+**9. Evidential grammaticalization (Indonesian and Turkish only)**:
+- Indonesian: ternyata "it turns out" (ter- prefix grammaticalized as evidential/mirative)
+- Turkish: ternyata borrowed from Indonesian
+- Other languages use general revelation verbs without grammaticalized evidential function
+
+**10. Softened negation for politeness (Indonesian and Korean only)**:
+- Indonesian: kurang benar "not quite correct" (kurang "less/lacking" softens negation)
+- Korean: similar patterns with degree modification
+- Other languages use standard negation; politeness expressed through other means
+
+---
+
+## Summary
+
+The eight languages show **strong convergence** in:
+- Core truth/falsehood opposition (universal)
+- Genuine/fake distinction for objects (universal)
+- Honest character vs. lying behavior separation (universal)
+- Productive abstract nominalization (universal)
+- Verification/authentication vocabulary (universal)
+- Revelation/discovery constructions (universal)
+- Agentive "liar" lexicalization (universal)
+
+**Moderate convergence** in:
+- Polysemy of straight/correct/right terms (6/8 languages)
+- Privative morphology for oppositions (7/8 languages)
+- Light verb constructions (universal but with different verb inventories)
+
+**Major divergences** in:
+- Register stratification depth (minimal in Yoruba/Georgian vs. extensive in Korean/Tamil/Turkish)
+- Truth term internal differentiation (unified in Yoruba vs. highly differentiated in Korean)
+- Inchoative "become true" naturalness (productive in Turkish/Indonesian vs. blocked/marked in Korean/Tamil/Georgian)
+- Compounding productivity (high in Tamil/Korean/Turkish vs. low in Yoruba)
+
+**Systematic gaps** appear in:
+- Agentive "truth-teller" nominalization (absent in 7/8 languages)
+- Philosophical truth vocabulary (absent in 4/8 languages)
+- Dedicated appearance/reality adjectives (absent in 5/8 languages)
+
+**Language-specific elaborations**:
+- **Yoruba**: Directional/guidance extensions of tọ́
+- **Tamil**: Body/truth polysemy in மெய், existence-based etymology
+- **Indonesian**: Exceptional salah compound productivity
+- **Georgian**: Religious orthodoxy integration
+- **Turkish**: Hak polysemy across truth/rights/deservingness/divinity
+- **Korean**: Most elaborated register stratification

@@ -1,0 +1,227 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Korean (ko)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Copula 이다 + Adjectival verb -하다 | 이것은 진실이다 (igeoseun jinsilida) "This is the truth"<br>그 사람은 정직하다 (geu sarameun jeongjikada) "That person is honest" | Direct mapping; [CORE] productivity | None |
+| **ADNOM** | Adnominal -(으)ㄴ/는/한 | 진실한 마음 (jinsilhan maeum) "truthful heart"<br>거짓된 말 (geojitdoen mal) "false words" | Direct mapping; [CORE] productivity | None |
+| **BECOME** | 되다 auxiliary + -아/어지다 suffix | 거짓말이 진실이 되다 (geojinmari jinsiri doeda) "A lie becomes truth"<br>확실해지다 (hwaksilhaejida) "to become certain" | Direct mapping; [CORE] productivity | None |
+| **REVELATION** | Resultative -어지다 + intransitive verbs | 진실이 밝혀지다 (jinsiri balkhyeojida) "the truth is revealed"<br>진실이 드러나다 (jinsiri deureonada) "the truth emerges" | Expressed through Construction 14 (RESULTATIVE); [CORE] productivity | None - uses resultative construction |
+| **CAUSATION (factual)** | Light verb collocations | 진실을 밝히다 (jinsireul balkhida) "to reveal the truth"<br>사실을 밝히다 (sasireul balkhida) "to reveal the facts" | Expressed through Construction 8 (VERBAL COLLOCATIONS); [CORE] productivity | None - uses light verb strategy |
+| **CAUSATION (character)** | Analytic causative -게 하다 | 진실을 믿게 하다 (jinsireul mitge hada) "to make (someone) believe the truth" | [MARGINAL] productivity; direct causatives of truth-terms blocked (*진실하게 하다) | **PARTIAL GAP** - only indirect causation available |
+| **VERIFICATION** | Light verb collocations | 사실을 확인하다 (sasireul hwakinhada) "to verify the facts"<br>진위를 가리다 (jinwireul garida) "to distinguish truth from falsehood" | Expressed through Construction 8 (VERBAL COLLOCATIONS); [CORE] productivity | None - uses light verb strategy |
+| **DISCONFIRMATION** | Light verb collocations + negation | (사실이 아님을) 밝히다 "(to reveal) that it is not fact"<br>거짓임을 드러내다 "to expose as false" | Expressed through Construction 8 + Construction 2 (NEGATION); [CORE] productivity | None - uses light verb + negation |
+| **NEGATION** | Copula negation 아니다 + verbal negation 안/지 않다 | 이것은 거짓이 아니다 (igeoseun geojisi anida) "This is not false"<br>그는 정직하지 않다 (geuneun jeongjikaji anta) "He is not honest" | Direct mapping; [CORE] productivity; both analytic strategies available | None |
+| **NOMINALIZATION** | Abstract -성 suffix + action nominals | 진실성 (jinsilseong) "truthfulness"<br>거짓말 (geojinmal) "lie, lying" | Direct mapping; [CORE] productivity for abstract qualities; action nominals lexicalized | **ASYMMETRIC GAP** - no native Korean abstract nominalization (*거짓성) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION as Resultative Construction
+Korean does not have a dedicated REVELATION operator distinct from resultative constructions. What CLCA might categorize as REVELATION is expressed through:
+- **Passive resultatives**: 밝혀지다 (passive of 밝히다 "reveal")
+- **Intransitive resultatives**: 드러나다 "emerge, come to light"
+
+These are Construction 14 (RESULTATIVE CONSTRUCTIONS) in the P4a inventory. They are [CORE] and highly productive in investigative and narrative contexts. The language treats revelation as a resultative state-change rather than a separate operator.
+
+### 2.2 CAUSATION Split: Factual vs. Character
+Korean shows a clear split in causative strategies:
+
+**Factual causation** (causing truth to be revealed/known):
+- Uses light verb collocations (Construction 8): 진실을 밝히다 "reveal the truth", 사실을 알리다 "make facts known"
+- [CORE] productivity
+- No morphological causative required
+
+**Character causation** (making someone truthful):
+- Blocked for direct causatives: *진실하게 하다 is not attested
+- Only indirect causation available: 믿게 하다 "make believe"
+- [MARGINAL] productivity
+- Shows **conceptual gap**: Korean resists the idea of directly causing someone to have truth-domain character traits
+
+### 2.3 VERIFICATION and DISCONFIRMATION Share Light Verb Strategy
+Both operators use Construction 8 (VERBAL COLLOCATIONS):
+- **VERIFICATION**: 확인하다 "verify", 가리다 "distinguish", 알아보다 "check"
+- **DISCONFIRMATION**: Same verbs + negation, or 드러내다 "expose" with negative complement
+
+The language does not distinguish these operators constructionally; they share the same light verb frame with different semantic content in the complement.
+
+### 2.4 NEGATION: Dual Analytic Strategies
+Korean employs two fully productive analytic negation strategies:
+- **Copula negation**: NP + 이/가 아니다 (for nominal predicates)
+- **Verbal negation**: 안/못 + VERB or VERB-지 않다 (for verbal predicates)
+
+No morphological negation exists for truth-domain terms. Both strategies are [CORE] and show no gaps.
+
+### 2.5 Asymmetric Patterns
+
+**Agentive nominalization asymmetry**:
+- Negative: 거짓말쟁이 "liar" [CORE]
+- Positive: *진실쟁이 "truth-teller" **MISSING**
+- Reflects cultural focus on marking deviant behavior
+
+**Privative asymmetry**:
+- Negative privative: 거짓없이 "without falsehood" [CORE]
+- Positive privative: 진실없이 "without truth" [MARGINAL]
+- Emphasizes absence of deception over presence of truth
+
+**Abstract nominalization asymmetry**:
+- Sino-Korean: 진실성, 정직성, 확실성 [CORE]
+- Native Korean: *거짓성 **MISSING (structural gap)**
+- -성 suffix only attaches to Sino-Korean stems
+
+### 2.6 Light Verb Strategy Dominance
+Korean strongly prefers light verb collocations (Construction 8) over morphological operations for:
+- CAUSATION (factual): 밝히다, 알리다, 숨기다
+- VERIFICATION: 확인하다, 가리다, 알아보다
+- DISCONFIRMATION: 밝히다 + negation, 드러내다
+
+This is a systematic substitution pattern where verbal collocations replace what might be morphological causatives or applicatives in other languages.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**Construction 15 (COMPARATIVE CONSTRUCTIONS)**:
+- **MISSING (structural gap)** for truth-domain terms
+- Truth treated as categorical, not gradable
+- *더 진실하다 "more truthful" grammatical but not attested in natural usage
+- Precision terms (정확하다 "accurate") show limited gradability, but core truth terms resist comparison
+
+**Abstract nominalization for native Korean roots**:
+- **MISSING (structural gap)**: *거짓성 not possible
+- -성 suffix restricted to Sino-Korean stems only
+- Represents morphological constraint, not lexical gap
+
+### 3.2 Lexical Gaps
+
+**Positive agentive nominalization**:
+- **MISSING (lexical gap)**: No word for "truth-teller" corresponding to 거짓말쟁이 "liar"
+- *진실쟁이 not attested
+- Asymmetric: only negative agentive exists
+
+**Positive privative expression**:
+- **MARGINAL**: 진실없이 "without truth" rarely used
+- Functional gap: language prefers 거짓없이 "without falsehood" to express truthfulness
+
+### 3.3 Conceptual Gaps
+
+**Direct character causation**:
+- **BLOCKED**: *진실하게 하다 "make truthful" not attested
+- Korean resists direct causation of character traits in truth domain
+- Only indirect causation available: 믿게 하다 "make believe"
+- Represents conceptual constraint on causative operations
+
+**Gradability of truth**:
+- **BLOCKED**: Core truth terms resist degree modification
+- Truth conceptualized as categorical, not scalar
+- Comparative constructions grammatical but pragmatically odd
+
+### 3.4 Asymmetric Gaps
+
+**Negative-only forms**:
+- Agentive: 거짓말쟁이 exists, *진실쟁이 missing
+- Privative: 거짓없이 common, 진실없이 rare
+
+**Sino-Korean-only forms**:
+- Abstract nominalization: -성 suffix only with Sino-Korean stems
+- Native Korean roots cannot form abstract quality nouns this way
+
+**Pattern**: Korean systematically marks deviance (lying, deception) more explicitly than expected behavior (truthfulness, honesty) in agentive and privative constructions.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available Operators
+
+| Operator | Construction Type | Productivity |
+|----------|------------------|--------------|
+| ATTR | Copula 이다 + Adjectival -하다 | [CORE] |
+| ADNOM | Adnominal -(으)ㄴ/는/한 | [CORE] |
+| BECOME | 되다 auxiliary + -아/어지다 | [CORE] |
+| NEGATION | 아니다 + 안/지 않다 | [CORE] |
+| NOMINALIZATION (abstract) | -성 suffix (Sino-Korean only) | [CORE] |
+| NOMINALIZATION (action) | Lexicalized forms (거짓말) | [CORE] |
+
+### 4.2 Available with Substitution
+
+| Operator | Substituted By | Construction | Productivity |
+|----------|---------------|--------------|--------------|
+| REVELATION | Resultative constructions | -어지다 passive/resultative (밝혀지다, 드러나다) | [CORE] |
+| CAUSATION (factual) | Light verb collocations | Noun + 밝히다/알리다/숨기다 | [CORE] |
+| VERIFICATION | Light verb collocations | Noun + 확인하다/가리다/알아보다 | [CORE] |
+| DISCONFIRMATION | Light verb + negation | Noun + 밝히다/드러내다 + negation | [CORE] |
+
+### 4.3 Partially Available
+
+| Operator | Available Form | Restriction | Productivity |
+|----------|---------------|-------------|--------------|
+| CAUSATION (character) | Analytic -게 하다 | Only indirect causation (믿게 하다); direct causatives blocked (*진실하게 하다) | [MARGINAL] |
+| NOMINALIZATION (agentive) | -쟁이 suffix | Only negative form (거짓말쟁이); no positive counterpart | [CORE] for negative only |
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Type | Notes |
+|----------|----------|-------|
+| COMPARATIVE (degree) | Conceptual gap | Truth-domain terms resist gradability; *더 진실하다 pragmatically odd |
+| CAUSATION (character, direct) | Conceptual gap | Direct causatives of character traits blocked |
+| NOMINALIZATION (abstract, native Korean) | Structural gap | -성 suffix restricted to Sino-Korean stems; *거짓성 impossible |
+| AGENTIVE (positive) | Lexical gap | No word for "truth-teller"; only 거짓말쟁이 "liar" exists |
+
+### 4.5 Summary Statistics
+
+**Total CLCA operators assessed**: 10
+
+**Fully available (direct mapping)**: 6
+- ATTR, ADNOM, BECOME, NEGATION, NOMINALIZATION (abstract, action)
+
+**Available with substitution**: 4
+- REVELATION (→ resultative), CAUSATION (factual) (→ light verb), VERIFICATION (→ light verb), DISCONFIRMATION (→ light verb + negation)
+
+**Partially available**: 2
+- CAUSATION (character), NOMINALIZATION (agentive)
+
+**Missing entirely**: 1
+- COMPARATIVE (degree)
+
+**Asymmetric availability**: 3 patterns
+- Agentive nominalization (negative only)
+- Privative expressions (negative preferred)
+- Abstract nominalization (Sino-Korean only)
+
+---
+
+## 5. Functional Notes
+
+### 5.1 Light Verb Strategy as Systematic Substitution
+Korean systematically uses Construction 8 (VERBAL COLLOCATIONS) where other languages might use:
+- Morphological causatives (CAUSATION factual)
+- Applicative constructions (VERIFICATION)
+- Dedicated revelation verbs (DISCONFIRMATION)
+
+This is not a gap but a typological preference. The light verb strategy is [CORE] and fully productive.
+
+### 5.2 Resultative as Revelation
+Construction 14 (RESULTATIVE) serves the function of REVELATION. Korean does not distinguish "becoming true" from "being revealed as true" constructionally; both use resultative morphology (-어지다) or intransitive change-of-state verbs (드러나다).
+
+### 5.3 Categorical Truth Conceptualization
+The absence of productive comparative constructions (Construction 15) reflects a conceptual pattern: Korean treats truth as categorical rather than gradable. This is consistent across all truth-domain terms except precision terms (정확하다 "accurate"), which show limited gradability.
+
+### 5.4 Asymmetric Marking of Deviance
+Korean shows systematic asymmetry in marking:
+- **Deviance marked**: 거짓말쟁이 "liar", 거짓없이 "without falsehood"
+- **Expected behavior unmarked**: No *진실쟁이 "truth-teller", 진실없이 rare
+
+This reflects a cultural-linguistic pattern of explicitly marking deviation from truth-norms rather than conformity to them.
+
+<budget:token_budget>
+Used: ~47,000 tokens
+Remaining: ~153,000 tokens
+</budget:token_budget>

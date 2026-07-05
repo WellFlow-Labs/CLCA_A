@@ -1,0 +1,114 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Sanskrit (sa)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Zero-copula nominal sentence, predicate-initial; copula-present variant (*bhavati* post-predicate) | *satyaṃ paraṃ dharmaḥ*; *asatyaṃ pāpam* | Direct mapping. Both positive and negative subjects attested. | None |
+| **ADNOM** | Adjective-noun free modification (agreement in gender/number/case); genitive phrase (*X-sya Y*) | *yathārthaṃ jñānam*; *dharmasya tattvaṃ nihitaṃ guhāyām* | Direct mapping. Two syntactic sub-patterns distinguished by topic structure. | None |
+| **BECOME** | *jāyate* (arising/production); *nivartate* (cessation, inverse); *bhavati* (general, non-specific) | *pramā jāyate*; *mithyājñānaṃ nivartate* | Direct mapping for inchoative arising. Cessation (*nivartate*) maps to the inverse transition. No dedicated inchoative morpheme; expressed periphrastically. | None |
+| **REVELATION** | No construction attested in P4a or P4b. | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | Morphological causative (*-aya-* suffix): *satyāpana*; periphrastic causative (noun + *karaṇa*): *pramāṇīkaraṇa* | *satyāpana*; *pramāṇīkaraṇa* | Partial mapping only. Both attested constructions are rated [MARGINAL]: one is register-restricted (legal/administrative), the other is period-restricted (modern Sanskrit-influenced usage). Neither is attested in classical philosophical Sanskrit as a productive pattern. | Partial — register and period restrictions apply |
+| **CAUSATION (character)** | No construction attested in P4a or P4b. | — | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | Morphological causative (*satyāpana*) covers the meaning "causing the truth of a statement to be established, attestation" in legal-administrative register | *satyāpana* | **SUBSTITUTED BY CAUSATION (factual)** in legal-administrative register only; no dedicated verification construction attested in philosophical or epistemological registers | Partial — lexical coverage exists only in restricted register |
+| **DISCONFIRMATION** | No construction attested in P4a or P4b. | — | **MISSING (structural gap)** | Structural gap |
+| **NEGATION** | *na* + predicate nominal (zero-copula, property negation); *nāsti* (*na* + *asti*, existential negation); *na* + optative (prohibitive in prescriptive contexts); morphological negation via prefix *a-* / *an-* (attested in lexical items: *asatya*, *asatyavādin*, *mithyājñāna*) | *bhramo na pramā*; *pramāṇaṃ nāsti*; *asatyaṃ na vadet* | Direct mapping. Two analytically distinct negation constructions: property negation (*na* + predicate) and existential negation (*nāsti*). Morphological negation (*a-*/*an-* prefix) is also attested but treated as lexical in P4a/P4b. | None — multiple sub-patterns distinguished |
+| **NOMINALIZATION** | Abstract nominalization: *-tā* (feminine abstract), *-tva* (neuter abstract), *-ya* after vṛddhi (restricted to *pramāṇa*-family); agentive nominalization: *-vādin* compound (speech-agent), *-tṛ* suffix (*pramātṛ*, epistemic agent) | *satyatā*; *satyatva*; *mithyātva*; *prāmāṇya*; *satyavādin*; *asatyavādin* | Direct mapping. Abstract and agentive nominalizations are both fully attested. Abstract nominalization is [CORE] and fully productive; agentive nominalization via *-vādin* is [CORE] but domain-restricted (speech/conduct agents only; epistemic agent role filled by *pramātṛ* via *-tṛ* suffix). | None — internal asymmetry noted (see §2) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+No REVELATION construction is attested in P4a or P4b. The data provide no construction in which a truth-domain state is framed as coming to light, being uncovered, or being disclosed to a perceiver. The BECOME operator is directly attested (*pramā jāyate*, *mithyājñānaṃ nivartate*), but it is framed as production or cessation of an epistemic state, not as disclosure or revelation of a pre-existing fact. There is therefore no evidence that REVELATION substitutes for BECOME or vice versa; BECOME is present and REVELATION is absent, with no substitution relationship attested.
+
+### 2.2 VERIFICATION and CAUSATION (factual)
+
+The closest attested construction to VERIFICATION is *satyāpana* (morphological causative, legal-administrative register), which carries the meaning "causing the truth of a statement to be established, attestation." This construction is rated [MARGINAL] and is explicitly restricted to legal and administrative Sanskrit. In the philosophical and epistemological registers, no dedicated VERIFICATION construction is attested. The *pramāṇīkaraṇa* periphrastic causative covers "making something into a valid authority" (validation, authentication) but is described as more prominent in modern Sanskrit-influenced administrative usage rather than classical philosophical Sanskrit. The data therefore support the following characterization: in the legal-administrative register, VERIFICATION is expressed through the CAUSATION (factual) construction (*satyāpana*); in the philosophical-epistemological register, neither VERIFICATION nor CAUSATION (factual) is productively attested, and both are effectively absent from that domain.
+
+### 2.3 DISCONFIRMATION
+
+No DISCONFIRMATION construction is attested. The data include constructions for negating a predication (*bhramo na pramā*), for existential negation of an epistemic ground (*pramāṇaṃ nāsti*), and for the cessation of a false epistemic state (*mithyājñānaṃ nivartate*), but none of these constitutes a construction in which a claim is shown to be false or refuted by evidence. The existential negation *pramāṇaṃ nāsti* functions as a dismissal formula in philosophical debate (denying that any valid epistemic ground exists for a claim), which is functionally adjacent to DISCONFIRMATION, but P4b explicitly characterizes it as a denial of the existence of an epistemic ground rather than a demonstration that a claim is false. No substitution relationship for DISCONFIRMATION is attested in the data.
+
+### 2.4 CAUSATION (character)
+
+No construction expressing "X causes someone to be a truth-teller / to have a truth-related character property" is attested in P4a or P4b. The agentive nominalization *satyavādin* names the character type, and the prescriptive/injunctive construction (*satyaṃ brūyāt*) prescribes the conduct, but neither constitutes a causative construction targeting character. This gap is not filled by any substitution attested in the data.
+
+### 2.5 Asymmetries: Positive vs. Negative Forms
+
+The data show consistent symmetry between positive and negative forms in several constructions:
+
+- **ATTR**: Both *satyaṃ paraṃ dharmaḥ* (positive) and *asatyaṃ pāpam* (negative subject) are attested as [CORE].
+- **AGENTIVE NOMINALIZATION**: Both *satyavādin* and *asatyavādin* / *mithyāvādin* are explicitly described as well-attested.
+- **PRESCRIPTIVE/INJUNCTIVE**: Both the positive optative (*satyaṃ brūyāt*) and the negative prohibitive (*asatyaṃ na vadet*) are attested as [CORE].
+- **ABLATIVE DEVIATION**: Both the negated-deviation form (*satyāt na pracalati*) and the positive-deviation form (*aucityāt cyutam*) are attested as [CORE].
+
+One asymmetry is noted in the agentive nominalization domain: the *-vādin* pattern covers speech/conduct agents (both positive and negative), but the epistemological knower-of-truth role is filled by a structurally distinct form (*pramātṛ*, using the *-tṛ* suffix). No negative counterpart to *pramātṛ* (an agentive form for "one who produces false cognition" via the *-tṛ* suffix) is attested in the data.
+
+### 2.6 Register and Domain Restrictions as Substitution Boundaries
+
+A consistent cross-construction restriction is attested in P4b: the PRESCRIPTIVE/INJUNCTIVE (§8) and ABLATIVE DEVIATION (§9) constructions are explicitly restricted to speech-evaluating and conduct-evaluating contexts and do not extend to epistemological or ontological groups. This means that the constructions available in the ethical-normative domain are not available as substitutes in the epistemological domain, and the epistemological constructions (e.g., *pramā jāyate*, *pramāṇaṃ nāsti*) do not extend into the ethical-normative domain. The two domains use largely non-overlapping construction sets, with no cross-domain substitution attested.
+
+### 2.7 NEGATION: Analytic vs. Morphological
+
+Two distinct negation mechanisms are attested:
+
+- **Analytic (syntactic) negation**: *na* + predicate nominal (property negation) and *nāsti* (existential negation). These are syntactic constructions operating at the sentence level.
+- **Morphological negation**: The prefix *a-*/*an-* is attested in lexical items (*asatya*, *asatyavādin*, *mithyājñāna*), but P4a treats these as lexicalized compounds handled in P2a rather than as productive morphosyntactic negation constructions in the truth-domain construction inventory.
+
+The data therefore support the characterization that productive NEGATION in this domain is primarily analytic (syntactic), with morphological negation present but treated as lexical rather than constructional.
+
+### 2.8 VERIFICATION and DISCONFIRMATION: Shared Construction?
+
+The data provide no evidence that VERIFICATION and DISCONFIRMATION share the same construction. VERIFICATION has a marginal, register-restricted attested form (*satyāpana*). DISCONFIRMATION has no attested form. They do not share a construction.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+*(The meaning is not expressed by any attested construction in P4a/P4b)*
+
+- **REVELATION**: No construction attested in which a truth-domain state is framed as coming to light or being disclosed. Not substituted by BECOME (which is present but distinct in framing).
+- **CAUSATION (character)**: No construction attested for causing someone to have a truth-related character property.
+- **DISCONFIRMATION**: No construction attested for showing a claim to be false or refuting it by evidence. The existential negation *nāsti* is functionally adjacent but is characterized in P4b as denial of an epistemic ground, not demonstration of falsity.
+
+### 3.2 Lexical Gaps
+*(The construction type exists but specific lexical items are absent)*
+
+- No morphological causative on bare *satya-*, *pramā-*, or *dharma-* roots is attested in the philosophical register. The morphological causative is lexically restricted to the *satyā-* + causative-of-*āp-* pattern (*satyāpana*).
+- No agentive form for "one who produces false cognition" via the *-tṛ* suffix is attested (the negative counterpart to *pramātṛ*).
+
+### 3.3 Conceptual Gaps
+*(The data provide no evidence that the relevant conceptual operation is available in this domain)*
+
+- No evidence in P4a or P4b that REVELATION (truth coming to light, disclosure of a pre-existing fact) is a conceptually operative framing in the Sanskrit truth domain as documented. The BECOME operator is present but framed as production/cessation of epistemic states, not as disclosure.
+- No evidence that DISCONFIRMATION (demonstrating falsity through evidence or argument) is expressed as a distinct construction type, as opposed to negation of a predication or denial of an epistemic ground.
+
+### 3.4 Asymmetric Gaps
+*(Only one polarity is attested)*
+
+- **Agentive nominalization, epistemological domain**: *Pramātṛ* (positive: the knowing subject, one who produces valid cognition) is attested; no parallel *-tṛ*-suffix agentive for the producer of false cognition is attested in the data.
+- **CAUSATION (factual)**: The attested causative constructions (*satyāpana*, *pramāṇīkaraṇa*) both operate in the positive direction (establishing truth, validating). No causative construction for "causing something to be false" or "causing an error to arise" is attested in P4a or P4b.
+- **BECOME / inchoative**: *Pramā jāyate* (valid cognition arises, positive) and *mithyājñānaṃ nivartate* (false knowledge ceases, negative-domain cessation) are both attested, but the inverse pair — arising of false cognition and cessation of valid cognition — is not attested as a construction in P4a/P4b. The cessation form is restricted to the soteriological removal of a negative epistemic state.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | Zero-copula nominal sentence is [CORE] and the unmarked form for truth-domain attribution; copula-present variant also attested. Both positive and negative subjects attested. |
+| **ADNOM** | **Fully available** | Two [CORE] sub-patterns attested (free adjectival modification; genitive phrase), distinguished by topic structure. |
+| **BECOME** | **Fully available** | *Jāyate* (arising) and *nivartate* (cessation) both [CORE]; *bhavati* available as a general, less specific alternative. No dedicated inchoative morpheme, but periphrastic expression is [CORE]. |
+| **NEGATION** | **Fully available** | Two [CORE] analytic constructions distinguished: property negation (*na* + predicate nominal) and existential negation (*nāsti*). Morphological negation (*a-*/*an-*) present but treated as lexical. |
+| **NOMINALIZATION** | **Fully available** | Abstract nominalization (*-tā*, *-tva*, *-ya*) and agentive nominalization (*-vādin*, *-tṛ*) both [CORE] and productive. Internal asymmetry noted (epistemological agent *pramātṛ* structurally distinct from speech-agent *-vādin*) but both are available. |
+| **CAUSATION (factual)** | **Partially available** | Two constructions attested but both rated [MARGINAL]: one register-restricted (legal/administrative), one period-restricted (modern Sanskrit-influenced). Not productively attested in classical philosophical Sanskrit. |
+| **VERIFICATION** | **Available with substitution** | Expressed through CAUSATION (factual) construction (*satyāpana*) in legal-administrative register only. No dedicated VERIFICATION construction. Absent from philosophical-epistemological register. |
+| **REVELATION** | **Missing entirely** | No construction attested in P4a or P4b. Not substituted by any other attested operator. |
+| **CAUSATION (character)** | **Missing entirely** | No construction attested in P4a or P4b. |
+| **DISCONFIRMATION** | **Missing entirely** | No construction attested in P4a or P4b. Existential negation (*nāsti*) is functionally adjacent but characterized in P4b as denial of an epistemic ground, not demonstration of falsity; no substitution relationship is supported by the data. |

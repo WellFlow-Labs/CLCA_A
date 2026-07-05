@@ -1,0 +1,105 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **[NP] είναι + ADJ/N** | **Αυτό είναι αληθές.**; **Η πηγή είναι έγκυρη.** | Direct match to canonical attribution | None |
+| ADNOM | **ADJ + N** | **αληθινή ιστορία**; **πλαστή υπογραφή** | Direct match to canonical adnominal modification | None |
+| BECOME | **γίνομαι + ADJ/N**; **αποδεικνύομαι/αποδείχθηκε + ADJ**; lexical verb **αληθεύω** | **Η υπογραφή αποδείχθηκε πλαστή.**; **Αυτό που είπε αληθεύει.** | BECOME is often realized through evidential/resultative predicates, especially **αποδείχθηκε**; partly overlaps with REVELATION/VERIFICATION-type meanings | None |
+| REVELATION | **αποδεικνύομαι/αποδείχθηκε + ADJ**; discourse/evidential establishment of status | **Η υπογραφή αποδείχθηκε πλαστή.** | SUBSTITUTED BY BECOME/VERIFICATION-like evidential predicates; no separate dedicated revelation construction listed | SUBSTITUTED BY **BECOME / VERIFICATION** |
+| CAUSATION (factual) | Lexical verbs for falsification/forgery: **παραποιώ + NP**, **πλαστογραφώ + NP** | **παραποιώ τα στοιχεία**; **πλαστογραφώ την υπογραφή** | No general productive “make true/false/valid” construction; only subtype-specific lexical verbs | NO COMMON EXPRESSION - circumlocution required |
+| CAUSATION (character) | No broad productive pattern identified | — | No construction identified for causing someone/something to become truthful/sincere/authentic as a general operator | **MISSING (structural gap)** |
+| VERIFICATION | Evidential/resultative predicates: **αποδεικνύεται ψευδής**, **αποδείχθηκε πλαστή**; confirmatory **αληθεύει** | **Ο ισχυρισμός αποδεικνύεται ψευδής.**; **Η υπογραφή αποδείχθηκε πλαστή.**; **Αυτό που είπε αληθεύει.** | Verification is expressed through the same evidential/resultative constructions that also serve BECOME and DISCONFIRMATION | Available via shared construction with DISCONFIRMATION |
+| DISCONFIRMATION | **αποδεικνύεται ψευδής**; also negative attribution **δεν είναι + ADJ/N** for rejection | **Ο ισχυρισμός αποδεικνύεται ψευδής.**; **Αυτό δεν είναι σωστό.** | Shares evidential/resultative construction with VERIFICATION; also overlaps with NEGATION | Available via shared construction with VERIFICATION |
+| NEGATION | Analytic negation: **δεν είναι + ADJ/N**; also negative evaluative noun predicates such as **είναι ψέμα ότι...** | **Αυτό δεν είναι σωστό.** | Negation is analytic, not morphological, in the listed construction | None |
+| NOMINALIZATION | Abstract nominalization with suffixes **-ότητα, -εια** | **εγκυρότητα**; **ειλικρίνεια** | Direct match to canonical nominalization | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Greek shows a clear direct match for **ATTR**, **ADNOM**, **NEGATION**, and **NOMINALIZATION**.
+
+For **BECOME**, the listed material shows that Greek often does not rely on a single dedicated inchoative operator across the whole truth domain. Instead, it commonly uses:
+- **γίνομαι + ADJ/N**
+- **αποδεικνύομαι/αποδείχθηκε + ADJ**
+- lexical **αληθεύω**
+
+Descriptively, this means that **BECOME** is frequently carried by forms that also express evidential establishment or later confirmation. In the attested examples, **Η υπογραφή αποδείχθηκε πλαστή.** functions both as a becoming/result reading and as a revelation/verification-type reading. So **REVELATION** does not appear as a separate dedicated construction in the provided material; it is effectively **substituted by BECOME/VERIFICATION-type predicates**, especially **αποδείχθηκε**.
+
+For **VERIFICATION** and **DISCONFIRMATION**, the same constructional area is used:
+- **αποδείχθηκε πλαστή**
+- **αποδεικνύεται ψευδής**
+- **αληθεύει**
+
+So verification and disconfirmation are not separated by distinct canonical constructions in the data. They are expressed through a shared evidential/resultative pattern, with polarity determined lexically by the predicate adjective or verb:
+- positive/confirmatory: **αληθεύει**
+- negative/disconfirming: **ψευδής**, **πλαστή**
+
+For **CAUSATION (factual)**, the notes explicitly state that there is **no general productive causative meaning** across the domain. Instead, Greek uses restricted lexical verbs for subtypes:
+- **παραποιώ** for falsifying/tampering
+- **πλαστογραφώ** for forging
+
+So factual causation is only partially available and only through lexicalized subdomain verbs, not through a general construction.
+
+For **CAUSATION (character)**, no corresponding construction is identified in the provided material. This is a stronger gap than the factual case, because even subtype-specific examples are not given for this operator.
+
+There is also an asymmetry in agentive lexicalization noted in P4a/P4b:
+- **ψεύτης** exists as a common lexical noun
+- no common everyday single-word equivalent for “truth-teller” was identified
+
+This is not one of the canonical operator categories, but it is a relevant asymmetry in the truth domain.
+
+Negation is described as **analytic**, especially with **δεν είναι + ADJ/N**. No morphological negation pattern is listed for the canonical truth-domain constructions.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **CAUSATION (character)** — **MISSING (structural gap)**
+- **REVELATION** as a separate dedicated construction — **SUBSTITUTED BY BECOME / VERIFICATION**
+
+### Lexical Gaps
+- No common everyday single-word equivalent identified for “truth-teller” — **NO COMMON EXPRESSION - circumlocution required**
+- No general lexical causative covering the whole truth domain (“make true / make false / make authentic”) — only subtype-specific verbs are attested
+
+### Conceptual Gaps
+- No evidence in the provided material for a single general causative operator spanning truth, falsity, validity, authenticity, and sincerity
+- No separate dedicated revelation operator distinct from evidential/resultative becoming/verification forms
+
+### Asymmetric Gaps
+- Strong asymmetry in agentive nominalization:
+  - **ψεύτης** is available
+  - positive counterpart “truth-teller” lacks a common single-word everyday equivalent
+- Causation is asymmetrical:
+  - negative/falsificatory subtypes are lexically available (**παραποιώ**, **πλαστογραφώ**)
+  - no equally general positive causative counterpart is listed
+- Verification/disconfirmation are asymmetrical only lexically, not constructionally:
+  - same evidential/resultative constructional area is used
+  - polarity comes from the lexical predicate (**αληθεύει** vs. **ψευδής / πλαστή**)
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **BECOME** — often realized through **αποδεικνύομαι/αποδείχθηκε** and **αληθεύω**, not only simple inchoative **γίνομαι**
+- **REVELATION** — **SUBSTITUTED BY BECOME / VERIFICATION**
+- **VERIFICATION** — expressed through evidential/resultative predicates
+- **DISCONFIRMATION** — expressed through the same evidential/resultative predicates and also by analytic negation
+
+### Partially available
+- **CAUSATION (factual)** — only through restricted lexical verbs such as **παραποιώ** and **πλαστογραφώ**; **NO COMMON EXPRESSION - circumlocution required** for a general operator
+
+### Missing entirely
+- **CAUSATION (character)** — **MISSING (structural gap)**
+
+### Normalized operator behavior
+- **Adjectival operators**: **αληθές, έγκυρη, σωστό, ψευδής, πλαστή**
+- **Verbal operators**: **αληθεύει, αποδεικνύεται, αποδείχθηκε, παραποιώ, πλαστογραφώ**
+- **Nominal operators**: **εγκυρότητα, ειλικρίνεια**
+- **Adverbial/discourse operators**: **Στην πραγματικότητα**
+- **Light/copular carrier**: **είναι** in attribution and discourse-framing
+- **Analytic negation carrier**: **δεν** with **είναι**
+
+Overall, Greek supports the canonical truth-domain inventory unevenly: core attributional, adnominal, negative, and nominal patterns are directly available; evidential/resultative predicates cover much of the space of becoming, revelation, verification, and disconfirmation; and causation is the main area of missingness or lexical restriction.

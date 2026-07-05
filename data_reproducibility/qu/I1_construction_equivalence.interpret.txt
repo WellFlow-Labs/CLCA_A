@@ -1,0 +1,97 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Quechua (qu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: [NP] + [EVALUATIVE TERM] + kay (copula often omitted) | *kayqa chiqaqmi* "this is true"; *payqa llulla runam* "he/she is a liar" | Direct mapping; copula optional with validators | None |
+| **ADNOM** | Construction 3: [EVALUATIVE TERM] + [NOUN] | *chiqaq simi* "true word"; *llulla runa* "lying person" | Direct mapping; prenominal modification | None |
+| **BECOME** | Construction 4: [ROOT] + -ya- + (person/tense) | *allinyay* "to become good"; *chiqaqyay* "to become true, to be verified" | Direct mapping; inchoative suffix -ya- | None |
+| **REVELATION** | — | — | **SUBSTITUTED BY BECOME**: *chiqaqyay* "to become true, to be verified" functions as revelation | Structural gap (no dedicated construction) |
+| **CAUSATION (factual)** | Construction 5: [ROOT] + -chi-/-ncha- + (person/tense) | *chiqanchay* "to verify, to authenticate"; *allinyachiy* "to make good, to improve" | Direct mapping; causative suffix -chi-/-ncha- | None |
+| **CAUSATION (character)** | Construction 5: [ROOT] + -chi-/-ncha- + (person/tense) (same as factual) | *allinyachiy* "to make good, to improve" (can apply to persons) | Same construction as factual causation; no structural distinction | None (same construction) |
+| **VERIFICATION** | Construction 5: [ROOT] + -chi-/-ncha- + (person/tense) (causative) | *chiqanchay* "to verify, to authenticate, to make true" | **SUBSTITUTED BY CAUSATION**: causative construction serves verification function | Structural gap (no dedicated construction) |
+| **DISCONFIRMATION** | — | — | **NO COMMON EXPRESSION**: would require circumlocution (e.g., *mana chiqaq kasqanta rikuchiy* "to show that it was not true") | Structural gap + circumlocution required |
+| **NEGATION** | Construction 2: mana + [EVALUATIVE TERM] + (chu) | *kayqa mana chiqaqchu* "this is not true"; *payqa mana allin runachu* "he/she is not a good person" | Direct mapping; analytic negation with particle *mana* + optional emphatic -chu | None |
+| **NOMINALIZATION** | Construction 6: [VERBAL ROOT] + -y (infinitive as noun); Construction 7: [VERBAL ROOT] + -q (agentive) | *yachay* "knowledge"; *llullaq* "liar, one who lies" | Direct mapping; multiple nominalization strategies available | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME Substitution
+Quechua lacks a dedicated REVELATION construction. The inchoative construction with -ya- (*chiqaqyay* "to become true, to be verified") serves double duty: it expresses both the process of becoming true and the revelation/discovery that something is true. The P4b notes explicitly gloss *chiqaqyay* as "to become true, to be verified," indicating that the verification/revelation semantics are encoded through the inchoative operator. This represents a systematic substitution where the language conceptualizes revelation as a change-of-state process rather than as a distinct epistemic operation.
+
+### VERIFICATION → CAUSATION Substitution
+Quechua systematically uses the causative construction for verification functions. The form *chiqanchay* (chiqaq-ncha-y) "to verify, to authenticate, to make true" is structurally a causative derivation from the root *chiqaq* "true." The P4b notes describe this as "common in formal/institutional contexts" for verification processes. This substitution pattern treats verification as causing something to be(come) true rather than as a distinct epistemic operation. The causative construction is the standard and only attested means of expressing verification.
+
+### DISCONFIRMATION Gap
+No construction exists for disconfirmation as a positive operation (i.e., "to prove false," "to falsify"). The language would require circumlocution, likely combining negation with causative or demonstrative constructions (e.g., showing that something is not true). This represents a genuine structural gap where the negative counterpart to verification lacks a dedicated or even common expression.
+
+### Causative Unification
+Constructions 5 (causative) serves both factual causation ("to make X true") and character causation ("to make someone good"). No structural distinction exists between these semantic domains—the same morphological pattern (-chi-/-ncha-) applies regardless of whether the target is a proposition or a person's character. The P4b notes indicate that *allinyachiy* "to make good, to improve" is "extremely common in practical contexts" and can apply to both objects and persons.
+
+### Negation Strategy
+Negation is consistently analytic, using the particle *mana* before the predicate. The suffix -chu appears in emphatic/categorical negation and is described as "obligatory in main clause categorical negation" (P4b). This represents a two-part system: basic negation (*mana* alone) and emphatic negation (*mana* + -chu), but both are analytic rather than morphological modifications of the predicate itself.
+
+### Asymmetries
+A clear asymmetry exists between positive and negative epistemic operations:
+- Positive verification: expressed via causative (*chiqanchay*)
+- Negative disconfirmation: no attested construction, requires circumlocution
+
+This asymmetry suggests that the language more readily conceptualizes making things true than proving things false.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **REVELATION**: No dedicated construction; function absorbed by BECOME (inchoative -ya-)
+2. **VERIFICATION (dedicated)**: No dedicated construction; function absorbed by CAUSATION (causative -chi-/-ncha-)
+3. **DISCONFIRMATION**: No construction attested; requires circumlocution
+
+### Lexical Gaps
+None identified. The language has rich lexical resources for truth-domain concepts (*chiqaq* "true," *llulla* "false/lying," *panta-* "err," *yacha-* "know," etc.). All gaps are constructional rather than lexical.
+
+### Conceptual Gaps
+**DISCONFIRMATION**: The absence of any common expression for disconfirmation (proving false, falsifying) suggests this may be a conceptual gap rather than merely a structural one. The language readily expresses verification (making/showing true) but lacks parallel resources for the negative operation.
+
+### Asymmetric Gaps
+1. **Verification vs. Disconfirmation**: Verification has a standard construction (causative), while disconfirmation has none
+2. **Positive vs. Negative Epistemic Operations**: The language shows richer constructional resources for positive epistemic operations (becoming true, making true) than for negative ones (proving false)
+
+### Non-Gaps (Clarifications)
+- **CAUSATION (character) vs. CAUSATION (factual)**: Not a gap—same construction serves both functions
+- **NEGATION**: Fully available through analytic construction; not a gap despite being non-morphological
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available (Direct Mapping)
+- **ATTR**: Predicative construction with copula *kay* (often omitted) + validators
+- **ADNOM**: Prenominal modification with no agreement
+- **BECOME**: Inchoative suffix -ya-
+- **CAUSATION (factual)**: Causative suffix -chi-/-ncha-
+- **CAUSATION (character)**: Causative suffix -chi-/-ncha- (same construction)
+- **NEGATION**: Analytic negation with *mana* + optional emphatic -chu
+- **NOMINALIZATION**: Multiple strategies (-y infinitive, -q agentive, -sqa participle, -na instrumental)
+
+### Available with Substitution
+- **REVELATION**: Substituted by BECOME (inchoative -ya-); *chiqaqyay* "to become true, to be verified" serves revelation function
+- **VERIFICATION**: Substituted by CAUSATION (causative -chi-/-ncha-); *chiqanchay* "to verify, to authenticate" is structurally causative
+
+### Partially Available
+None. All available operators are either fully available or completely missing.
+
+### Missing Entirely
+- **DISCONFIRMATION**: No construction attested; requires circumlocution (e.g., combining negation with demonstrative/causative constructions to express "showing that X is not true")
+
+---
+
+## Summary Statement
+
+Quechua shows a highly systematic morphological system for truth-domain operations with 8 of 10 canonical operators directly or substitutively available. The language exhibits two clear substitution patterns: REVELATION is absorbed into BECOME (both expressed via inchoative -ya-), and VERIFICATION is absorbed into CAUSATION (both expressed via causative -chi-/-ncha-). The most significant gap is DISCONFIRMATION, which lacks any attested construction and requires circumlocution. This creates an asymmetry where positive epistemic operations (verification, becoming true) have standard morphological expressions while the negative counterpart (disconfirmation, proving false) does not. The causative construction shows no structural distinction between factual and character domains, treating both as instances of the same morphological operation.

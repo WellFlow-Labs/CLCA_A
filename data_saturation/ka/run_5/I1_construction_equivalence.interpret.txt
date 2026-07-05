@@ -1,0 +1,109 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a §1 Attribution: [Subject NP] + [truth-domain adjective] + copula (-a/-ia/არის) | ეს მართალია (es martalia) "This is true"; ეს ყალბია (es q̇albia) "This is fake" | Direct mapping; no substitution required | None |
+| **ADNOM** | P4a §3 Adnominal Modification: [truth-domain adjective] + [head noun] | ჭეშმარიტი ამბავი (č̣ešmariti ambavi) "a true story"; ყალბი დოკუმენტი (q̇albi dokument̕i) "a forged document" | Direct mapping; no substitution required | None |
+| **BECOME** | P4a §4 Inchoative: [NP] + [adjective-ad] + გამოვიდა (gamovida) OR [NP] + [adjective-NOM] + აღმოჩნდა (aɣmočnda) | ყალბად გამოვიდა (q̇albad gamovida) "turned out to be false"; ნამდვილი აღმოჩნდა (namdvili aɣmočnda) "turned out to be genuine" | **SUBSTITUTED BY REVELATION** (see §2 below); no dedicated inchoative copula; both attested forms carry a revelation/discovery component alongside the state-change reading | Morphosyntactic gap: no dedicated BECOME copula; the inchoative meaning is expressed periphrastically via result-discovery verbs |
+| **REVELATION** | P4a §4 Inchoative (aɣmočnda variant): [NP] + [adjective-NOM] + აღმოჩნდა (aɣmočnda) | ნამდვილი აღმოჩნდა (namdvili aɣmočnda) "turned out to be genuine / proved to be authentic" | Serves as the primary REVELATION operator; also partially covers BECOME | None for REVELATION as a standalone function; the construction is attested and [CORE] |
+| **CAUSATION (factual)** | P4a §5 Causative: ga- + [root] + -eba (verbal noun / inflected verb) | გაყალბება (gaq̇albeba) "falsification / the act of making false"; გასწორება (gasc̣oreba) "correction / the act of making correct" | Partial mapping; derivational (not syntactic) causative; covers the "bring about a truth-domain state" meaning | Morphosyntactic gap: no periphrastic "cause to be true/false" construction is attested; only derivational verbal stems are available |
+| **CAUSATION (character)** | No construction attested in P4a or P4b | — | **MISSING (structural gap)** | Structural gap: no construction expressing "X causes Y to be a truthful/deceptive person" is identified in the data |
+| **VERIFICATION** | P4a §9 Postpositional Conformity/Mismatch (positive pole): [NP] + -თან (-tan) + შესაბამისია (šesabamisia) | შესაბამისია (šesabamisia) "is consistent with / conforms to" [noted as positive counterpart in P4b] | Partial mapping; the conformity pole of Construction 9 covers the "matches a standard" meaning associated with VERIFICATION; however, no dedicated verification verb (e.g., "confirm," "verify") is attested as a separate construction | Lexical gap: no dedicated VERIFICATION verb construction is attested; the conformity/mismatch construction (§9) provides a partial functional equivalent, but only in formal/legal registers |
+| **DISCONFIRMATION** | P4a §9 Postpositional Conformity/Mismatch (negative pole): [NP] + -თან (-tan) + შეუსაბამოა (šeusabamoа); P4a §2 Negative Attribution | კანონთან შეუსაბამოა (kanontан šeusabamoа) "is inconsistent with the law"; სინამდვილესთან შეუსაბამოა (sinamdvilestан šeusabamoа) "is inconsistent with reality"; ეს სწორი არ არის (es sc̣ori ar aris) "This is not correct" | Two constructions cover DISCONFIRMATION: §9 (formal/legal register, standard-relative) and §2 (general register, simple negation of truth-domain adjective); they are not interchangeable across registers | None for DISCONFIRMATION as a function; both constructions are [CORE] |
+| **NEGATION** | P4a §2 Negative Attribution: (a) [Subject NP] + [adjective] + არ არის (ar aris); (b) [Subject NP] + ara- + [adjective] + copula | ეს სწორი არ არის (es sc̣ori ar aris) "This is not correct"; ეს არასწორია (es arasc̣oria) "This is incorrect" | Direct mapping; two strategies attested (analytic and morphological); see §2 below | None |
+| **NOMINALIZATION** | P4a §6 Abstract Nominalization: si-...-e circumfix; -eba / -oba suffix. P4a §7 Agentive Nominalization: [preverb] + [root] + -ebeli | სიმართლე (simartle) "truth"; ჭეშმარიტება (č̣ešmariteba) "truthfulness"; გამყალბებელი (gamq̇albebeli) "forger" | Direct mapping for abstract and agentive nominalization; two distinct sub-types (quality noun vs. agent noun) are both attested | Asymmetric gap: agentive nominalization is attested only on the falsification/deception side; no positive agentive noun ("truth-teller") is attested in the data (see §3) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+Georgian has no dedicated inchoative copula equivalent to "become" in the truth domain. The two constructions attested in P4a §4 — gamovida and aɣmočnda — both express a resultative or discovery meaning rather than a pure state-change meaning. The gamovida construction ("came out as") foregrounds the emergence of a truth-domain state into visibility; the aɣmočnda construction ("turned out to be") foregrounds the discovery of a pre-existing state. Neither construction is semantically equivalent to a neutral "became true/false" operator. The aɣmočnda variant maps more closely to REVELATION (a state is discovered to hold), while gamovida maps to a colloquial resultative. Both are listed under BECOME in the mapping table because they are the closest available equivalents, but the data support the description that REVELATION is the operative semantic frame in both cases. This is a morphosyntactic gap: the language lacks a dedicated BECOME copula for the truth domain and routes the meaning through result-discovery verbs.
+
+### 2.2 NEGATION: analytic vs. morphological strategies
+
+Georgian supports two distinct NEGATION strategies for truth-domain adjectives, and both are [CORE]:
+
+- **Analytic (ar aris)**: The copula is negated syntactically; the adjective remains unchanged. This is compositional and applies freely across all truth-domain adjectives. Example: ეს სწორი არ არის (es sc̣ori ar aris).
+- **Morphological (ara- prefix)**: The negation is incorporated into the adjective as a lexical prefix, producing a single lexical item (arasc̣ori, aralegitimuri, araobieqt̕uri). This strategy tends toward more formal or written registers. Example: ეს არასწორია (es arasc̣oria).
+
+The two strategies are not fully interchangeable: the ara- strategy produces a lexicalized item and is register-marked (more formal); the ar aris strategy is syntactically transparent and register-neutral. P4b notes that not all adjectives may have equally established ara- forms, suggesting a potential lexical gap for some items under the morphological strategy, though no specific gaps are identified in the data.
+
+### 2.3 VERIFICATION and DISCONFIRMATION: shared construction with register restriction
+
+VERIFICATION and DISCONFIRMATION share the same construction type (P4a §9, Postpositional Conformity/Mismatch), differentiated only by the choice of predicative adjective: šesabamisia (conformity/VERIFICATION) vs. šeusabamoа (mismatch/DISCONFIRMATION). This means the two operators are expressed by a single construction with a lexical polarity switch, not by distinct constructions. However, this construction is restricted to formal, legal, and administrative registers. For DISCONFIRMATION in general registers, P4a §2 (Negative Attribution) is available as an alternative. No parallel general-register construction for VERIFICATION is attested in the data; the conformity/mismatch construction (§9) is the only attested form, and it is register-restricted. This creates an asymmetry: DISCONFIRMATION has two available constructions across registers, while VERIFICATION has only one, and that one is register-restricted.
+
+### 2.4 CAUSATION (factual): derivational substitution for syntactic causative
+
+No periphrastic "cause to be true/false" construction is attested. The causative meaning in the truth domain is expressed exclusively through derivational verbal stems formed with the preverb ga- and the suffix -eba (gaq̇albeba, gasc̣oreba, gazusteba). These are derivational items, not productive syntactic causatives. The data do not attest any construction of the form "X caused Y to be false/true" using a syntactic causative operator. The derivational forms cover the "act of making false/correct" meaning but do not straightforwardly express an agent-patient causative relationship in a syntactically productive way. This is a morphosyntactic gap relative to the CAUSATION (factual) operator as a productive syntactic category.
+
+### 2.5 Asymmetry: falsification side vs. truth side
+
+A consistent asymmetry is observable across multiple construction types:
+
+- **Agentive nominalization (§7)**: The -ebeli pattern is attested only for falsification/deception agents (gamq̇albebeli "forger," mimbadzvelilit "imitator"). No positive agentive noun ("truth-teller") is attested in the data.
+- **Causative (§5)**: Both falsification (gaq̇albeba) and correction (gasc̣oreba) are attested, so the asymmetry is less pronounced here; both poles are represented.
+- **Discourse-framing (§8)**: The nominal variant (simartle rom vtqva) foregrounds factual truth; the adverbial variant (gulc̣rpelaad rom vtqva) foregrounds sincerity/frankness. These are not in asymmetric opposition but represent two different semantic emphases within the same construction type.
+
+The agentive nominalization asymmetry is the most clearly supported by the data: the productive pattern for agent nouns in the truth domain is oriented toward falsification actors, not truth-affirming actors.
+
+### 2.6 Discourse-framing as a distinct pragmatic operator
+
+P4a §8 (Discourse-Framing Constructions) does not map cleanly to any of the ten canonical CLCA operators. It functions as a pragmatic frame (candor marker) rather than a predicative, attributive, or nominalization construction. It is noted here as a construction type present in the data that falls outside the canonical operator inventory. It is not classified as a gap; it is an additional construction type not covered by the ten operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **CAUSATION (character): MISSING (structural gap)** | No construction expressing "X causes Y to be a truthful or deceptive person (by nature or habituation)" is attested in P4a or P4b. This is a structural gap: neither a syntactic nor a derivational construction for this meaning is identified in the data. |
+| **BECOME (dedicated copula): MISSING (structural gap)** | No dedicated inchoative copula equivalent to "become" in the truth domain is attested. The inchoative meaning is expressed periphrastically via result-discovery verbs (gamovida, aɣmočnda), which carry a revelation/discovery component. The gap is at the level of a dedicated BECOME operator; the meaning is partially covered by REVELATION-type constructions. |
+| **CAUSATION (factual) as productive syntactic causative: MISSING (structural gap)** | No periphrastic syntactic causative ("cause to be true/false") is attested. Only derivational verbal stems are available. The morphosyntactic slot for a productive syntactic causative is not filled. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Positive agentive noun ("truth-teller")** | No agentive noun for a positive truth-domain actor is attested in the data. The -ebeli agentive nominalization pattern is attested only on the falsification/deception side. This is a lexical gap within an otherwise productive morphological pattern. |
+| **VERIFICATION verb (dedicated)** | No dedicated VERIFICATION verb construction (e.g., a verb meaning "verify," "confirm") is attested as a separate construction. The conformity pole of Construction 9 (šesabamisia) provides a partial functional equivalent but is register-restricted and adjectival rather than verbal. |
+| **ara- forms for all adjectives** | P4b notes that not all truth-domain adjectives may have equally established ara- prefixed forms. No specific missing forms are identified in the data, but the note indicates a potential lexical gap within the morphological negation strategy. |
+
+### 3.3 Conceptual Gaps
+
+| Gap | Description |
+|---|---|
+| No conceptual gaps are identifiable from the data alone. | The data do not provide evidence that any truth-domain concept is blocked or inexpressible in Georgian; the gaps identified above are structural or lexical, not conceptual. Where constructions are missing, circumlocution or substitution is available (e.g., BECOME is covered by REVELATION-type verbs; VERIFICATION is partially covered by the conformity construction). No meaning is identified as entirely inexpressible. |
+
+### 3.4 Asymmetric Gaps
+
+| Gap | Direction | Description |
+|---|---|---|
+| **Agentive nominalization** | Positive side missing | The -ebeli agentive pattern is attested only for falsification/deception actors. No parallel positive agent noun ("truth-teller") is attested in the data. |
+| **VERIFICATION vs. DISCONFIRMATION** | VERIFICATION is register-restricted; DISCONFIRMATION has broader coverage | DISCONFIRMATION is available in both formal/legal register (Construction 9, šeusabamoа) and general register (Construction 2, ar aris / ara-). VERIFICATION is attested only in formal/legal register (Construction 9, šesabamisia). No general-register VERIFICATION construction is attested. |
+| **Discourse-framing** | No falsity-oriented candor marker attested | Both attested discourse-framing variants (simartle rom vtqva; gulc̣rpelaad rom vtqva) are oriented toward truth-telling and sincerity. No parallel construction framing a candid admission of falsity or deception is attested in the data. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two copular strategies (suffixed -a/-ia and free copula არის aris); both [CORE]; no register restriction; applies across all truth-domain adjectives. |
+| **ADNOM** | **Fully available** | Standard pre-nominal attributive position; no agreement inflection; [CORE]; no exceptions noted within the truth domain. |
+| **BECOME** | **Available with substitution** | No dedicated inchoative copula; BECOME meaning is expressed via REVELATION-type verbs (gamovida, aɣmočnda); both [CORE] but carry a discovery/resultative component not present in a neutral BECOME operator. |
+| **REVELATION** | **Fully available** | aɣmočnda construction is the primary REVELATION operator; [CORE]; also partially covers BECOME. gamovida covers a colloquial resultative variant. |
+| **CAUSATION (factual)** | **Partially available** | Derivational verbal stems (gaq̇albeba, gasc̣oreba) cover the "act of making false/correct" meaning; [CORE] in legal/journalistic registers. No productive syntactic causative is attested; morphosyntactic gap for the syntactic causative slot. |
+| **CAUSATION (character)** | **Missing entirely** | No construction attested in P4a or P4b. Structural gap. |
+| **VERIFICATION** | **Partially available** | Conformity pole of Construction 9 (šesabamisia) provides a partial functional equivalent; [CORE] but register-restricted to formal/legal/administrative contexts. No dedicated VERIFICATION verb construction is attested. |
+| **DISCONFIRMATION** | **Fully available** | Two constructions available: Construction 9 (šeusabamoа, formal/legal) and Construction 2 (ar aris / ara-, general register); both [CORE]. |
+| **NEGATION** | **Fully available** | Two strategies: analytic (ar aris, syntactically compositional, register-neutral) and morphological (ara- prefix, lexicalized, more formal); both [CORE]. |
+| **NOMINALIZATION** | **Fully available** | Two abstract nominalization strategies (si-...-e circumfix; -eba/-oba suffix) and one agentive nominalization strategy (-ebeli); all [CORE]. Asymmetric lexical gap on positive agentive side (no "truth-teller" noun attested). |

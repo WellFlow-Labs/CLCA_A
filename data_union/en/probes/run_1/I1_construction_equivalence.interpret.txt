@@ -1,0 +1,102 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: English (en)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copular: Subject + BE + truth-domain adjective (P4a §1, P4b rows 1–2) | *That is true.* / *The account is accurate.* | Direct; no substitution required | None |
+| **ADNOM** | Truth-domain adjective + Noun, prenominal attributive (P4a §3, P4b rows 5–6) | *a genuine mistake* / *a credible witness* | Direct; no substitution required | None |
+| **BECOME** | Subject + PROVE / TURN OUT TO BE + truth-domain adjective (P4a §4, P4b rows 7–8) | *His prediction proved true.* / *The story turned out to be false.* | **SUBSTITUTED BY REVELATION** (see §2 below); no dedicated inchoative morphology or copula | Morphosyntactic gap: no dedicated inchoative operator; periphrastic substitution only |
+| **REVELATION** | *prove*, *turn out to be*, *ring true/false*, *come true* (P4a §4, P4b rows 7–8) | *His prediction proved true.* / *The story turned out to be false.* | Serves as the functional equivalent of BECOME; these verbs encode discovery-upon-investigation or realization-over-time, not pure state change | No gap; REVELATION is the attested operator for this semantic space |
+| **CAUSATION (factual)** | Agent + dedicated causative verb: *validate*, *authenticate*, *invalidate*, *falsify* (P4a §5, P4b rows 10–11); periphrastic Agent + MAKE/RENDER + NP + adjective [MARGINAL] (P4b row 9) | *The new evidence invalidated the argument.* / *They falsified the documents.* | Direct via derived verbs; periphrastic *make/render* + adjective is a marginal alternate | None for the verbal strategy; periphrastic strategy is marginal but attested |
+| **CAUSATION (character)** | No dedicated construction identified in P4a or P4b | — | **NO COMMON EXPRESSION — circumlocution required** (e.g., *He is a person of integrity*; not attested as a truth-domain construction in the source data) | Lexical gap: no single construction maps causation of truth-domain properties to a person's character as a distinct operator |
+| **VERIFICATION** | Agent + dedicated causative verb: *verify*, *authenticate*, *validate* (P4a §5, P4b row 10) | *(implied by pattern; no distinct verification-only example given in P4a/P4b beyond the causative verb list)* | Shares the same construction type as CAUSATION (factual); *verify* and *authenticate* are the verification-specific members of the causative verb set | No structural gap; lexically distinguished within the causative construction |
+| **DISCONFIRMATION** | Agent + dedicated causative verb: *invalidate*, *falsify* (P4a §5, P4b rows 10–11); degree modification at lower scalar limit: *barely plausible* (P4b row 18); partial-truth constructions (P4a §10, P4b rows 21–22) | *The new evidence invalidated the argument.* / *They falsified the documents.* / *barely plausible* / *There is a grain of truth in what he says.* | Shares the same construction type as CAUSATION (factual) for strong disconfirmation; partial-truth constructions cover weak/partial disconfirmation | No structural gap; VERIFICATION and DISCONFIRMATION share the causative verb construction and are distinguished only lexically |
+| **NEGATION** | (a) Derivational prefix on adjective: *un-*, *in-*, *im-*, *il-* (*untrue*, *inaccurate*, *invalid*, *illegitimate*); (b) Free negator: Subject + BE + NOT + adjective (*That is not accurate*) (P4a §2, P4b rows 3–4) | *That is not accurate.* / *That is inaccurate.* / *The claim is false.* | Both analytic (*not* + adjective) and morphological (prefixed adjective) strategies are fully attested and coexist freely; see §2 for register and connotation differences | None; both strategies are available |
+| **NOMINALIZATION** | (a) Abstract: derived noun via suffixation *-th*, *-ty*, *-ity*, *-cy*, *-ness* (*truth*, *validity*, *falsity*, *accuracy*) (P4a §6, P4b rows 12–13); (b) Agentive: *-er*/*-or* suffix on verb (*faker*, *falsifier*) [CORE]; compound (*truth-teller*, *truth-seeker*) [MARGINAL] (P4a §7, P4b rows 14–15) | *The truth of the matter was never established.* / *The validity of the argument was questioned.* / *He was exposed as a faker.* / *She was known as a truth-teller.* | Direct for abstract nominalization; agentive nominalization shows an asymmetry (see §2) | Asymmetric gap in agentive nominalization: positive-pole agent nouns require compounding rather than direct suffixation |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+English has no dedicated inchoative copula or morphological inchoative for the truth domain. The semantic space of BECOME (a state coming into being) is covered entirely by periphrastic revelation verbs: *prove*, *turn out to be*, *ring true/false*, and the lexicalized *come true*. These verbs do not express pure state change; they consistently encode the additional component of discovery or confirmation upon investigation or over time. The substitution is therefore not semantically neutral: where a pure BECOME operator would express only that a state came to obtain, the English constructions simultaneously encode that an observer or evaluator arrives at knowledge of that state. This conflation of BECOME and REVELATION is consistent across all attested examples in P4a and P4b and is not marked as unusual or restricted in those sources.
+
+*come true* is a further restricted sub-case: it is lexicalized, applies only to the item *true*, and requires subjects denoting wishes, predictions, or fears. It is not a general inchoative.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share the causative verb construction
+
+VERIFICATION (*verify*, *authenticate*, *validate*) and DISCONFIRMATION (*invalidate*, *falsify*) are not structurally differentiated in English. Both are expressed by the same construction type — Agent + dedicated causative verb — and are distinguished only by the choice of lexical item. The construction itself does not encode the direction of the truth-domain outcome; that information is carried entirely by the verb. P4b notes that *verify* and *authenticate* are listed alongside *validate*, *invalidate*, and *falsify* as members of the same causative verb set (P4b row 10). No separate construction type exists for either operator.
+
+### 2.3 NEGATION: analytic and morphological strategies coexist
+
+English employs both an analytic strategy (free negator *not* + adjective: *not accurate*, *not valid*) and a morphological strategy (derivational prefix: *inaccurate*, *invalid*, *untrue*, *illegitimate*). P4b confirms that both are fully natural and that the choice between them is primarily a matter of register (prefixed forms tend toward formal and written registers) rather than grammatical constraint. However, P4b also notes that the two strategies are not always connotationally equivalent: *disingenuous* carries an implication of strategic concealment that *not genuine* does not fully replicate, and *spurious* implies pretense of validity beyond what *not valid* conveys. These cases represent lexical specialization within the morphological strategy rather than a structural difference between the two negation types.
+
+*False* is noted as a root negative form rather than a prefixed derivative; it is the primary single-word negative counterpart to *true* and does not fit the prefixation pattern.
+
+### 2.4 Asymmetry between positive and negative poles in agentive nominalization
+
+Agentive nominalization (Construction 7) shows a consistent directional asymmetry. Negative-pole agents are formed by suffixation on the corresponding verb (*faker*, *falsifier*, *fabricator*, *counterfeiter*) and are rated [CORE] in P4b. Positive-pole agents cannot be formed by direct suffixation on the adjective (*\*truer*, *\*truther* are noted as non-standard in P4b row 15) and instead require compounding (*truth-teller*, *truth-seeker*), which is rated [MARGINAL]. This asymmetry is not replicated in any other construction type in the inventory: abstract nominalization, attribution, adnominal modification, degree modification, and negation all show no comparable directional asymmetry.
+
+### 2.5 CAUSATION (character) is not attested as a distinct operator
+
+P4a and P4b do not identify any construction that specifically encodes the causation of truth-domain properties as a function of a person's character or habitual disposition, as distinct from the causation of truth-domain states in propositions or documents. The agentive nominalization constructions (Construction 7) describe persons by their truth-domain role but do not constitute a causative construction. No example in the source data maps to this operator.
+
+### 2.6 Periphrastic causative is marginal
+
+The periphrastic causative construction (Agent + MAKE/RENDER + NP + truth-domain adjective) is rated [MARGINAL] in P4b and is described as less frequent than dedicated derived verbs in formal registers. It is grammatical but not the preferred strategy. The dedicated causative verb construction is [CORE] and is the expected form in formal, legal, and academic contexts.
+
+### 2.7 Degree modification and partial-truth constructions address scalar space without a unified operator
+
+P4b cross-construction observation 3 notes that degree modification (Construction 8) and partial-truth constructions (Construction 10) both address the scalar nature of truth-domain adjectives but through structurally distinct means. Neither maps cleanly to a single CLCA operator. Degree modification (*broadly accurate*, *barely plausible*) modifies the adjective within the ATTR or ADNOM construction. Partial-truth constructions (*a grain of truth*, *stretch the truth*) are idiomatic multi-word expressions that occupy the semantic space between full correspondence and deliberate falsification. These are treated under DISCONFIRMATION (weak/partial) in the mapping table above, but they do not constitute a dedicated CLCA operator.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **BECOME: morphosyntactic gap** | English has no dedicated inchoative copula or morphological inchoative for the truth domain. The BECOME function is expressed only periphrastically via revelation verbs (*prove*, *turn out to be*). The gap is at the level of morphosyntax (no dedicated operator); the semantic function is covered by substitution. |
+| **CAUSATION (character): morphosyntactic gap** | No construction in P4a or P4b encodes causation of truth-domain properties as a function of personal character as a distinct structural type. The agentive nominalization constructions describe role but do not constitute a causative pattern for this sub-type. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Positive-pole agentive noun by direct suffixation** | No standard agent noun is formed by direct suffixation on the positive-pole adjective (*\*truer*, *\*truther* are non-standard per P4b row 15). The positive-pole agentive function is covered by compounding (*truth-teller*), which is rated [MARGINAL]. |
+| **Single-word expression for partial truth** | No single lexical item covers the semantic space of *a grain of truth*, *a half-truth*, or *stretch the truth*. P4a §10 explicitly notes that these constructions "have no single-word equivalents." |
+| **Single-word expression for technically-true-but-misleading** | P4b row 17 notes that *technically accurate* "asserts narrow truth while implying broader misleadingness — a pattern with no dedicated lexical item." |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified from the P4a and P4b data. All CLCA operators for which constructions exist are expressible in English; the gaps identified above are structural or lexical rather than conceptual (the meanings can be expressed, but not through a single dedicated operator or lexical item).
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Description |
+|---|---|
+| **Agentive nominalization: positive pole only** | The positive pole of agentive nominalization lacks a [CORE] suffixation-based form. Negative-pole agents (*faker*, *falsifier*, *fabricator*) are [CORE]; positive-pole agents (*truth-teller*, *truth-seeker*) are [MARGINAL] compounds. The gap is one-directional: only the positive pole is affected. |
+| **Inchoative: no directional asymmetry, but lexical restriction on *come true*** | *come true* is restricted to the positive pole and to specific subject types (wishes, predictions, fears). No equivalent lexicalized inchoative exists for the negative pole (*\*come false* is not attested). This is a one-directional lexical restriction within the REVELATION/BECOME substitution pattern. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Copular Subject + BE + truth-domain adjective; [CORE]; no register or subject-type restriction beyond propositional/referential/personal subjects |
+| **ADNOM** | **Fully available** | Prenominal attributive adjective + noun; [CORE]; no agreement morphology; many collocations conventionalized |
+| **BECOME** | **Available with substitution** | No dedicated inchoative operator; **SUBSTITUTED BY REVELATION** via *prove*, *turn out to be*, *ring true/false*, *come true*; substitution conflates state-change with discovery |
+| **REVELATION** | **Fully available** | *prove*, *turn out to be*, *ring true/false*, *come true*; [CORE] for the first two; lexically restricted for the latter two; functions as the primary operator for the BECOME semantic space |
+| **CAUSATION (factual)** | **Fully available** | Dedicated causative verbs (*validate*, *authenticate*, *invalidate*, *falsify*, *verify*) are [CORE]; periphrastic *make/render* + adjective is [MARGINAL] but attested |
+| **CAUSATION (character)** | **Missing entirely** | **MISSING (structural gap)**; no construction in P4a or P4b encodes this sub-type as a distinct operator; circumlocution would be required |
+| **VERIFICATION** | **Fully available** | Expressed via the causative verb construction (*verify*, *authenticate*, *validate*); shares construction type with DISCONFIRMATION; distinguished only lexically |
+| **DISCONFIRMATION** | **Fully available** | Expressed via the causative verb construction (*invalidate*, *falsify*) for strong disconfirmation; partial-truth constructions cover weak/partial disconfirmation; shares construction type with VERIFICATION |
+| **NEGATION** | **Fully available** | Both analytic (*not* + adjective) and morphological (derivational prefix) strategies are [CORE] and coexist freely; minor connotational differences between strategies for some items (*disingenuous*, *spurious*) |
+| **NOMINALIZATION** | **Partially available** | Abstract nominalization is fully available [CORE] across the domain; agentive nominalization is fully available [CORE] for the negative pole but only marginally available [MARGINAL] via compounding for the positive pole; asymmetric gap at the positive pole of agentive nominalization |

@@ -1,0 +1,99 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Swahili (sw)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Pattern 1 (Attribution): Subject + *ni* + truth-domain adjective/noun | *Hii ni kweli.* / *Taarifa hii ni sahihi.* | Direct mapping. Invariant copula *ni*; no agreement morphology on predicate. | None |
+| **ADNOM** | Pattern 3 (Adnominal Modification): post-nominal adjective; *wa/ya* + noun | *dhahabu halisi* / *ukweli wa jambo* / *rafiki wa kweli* | Direct mapping. Post-nominal position only; no pre-nominal variant attested. | None |
+| **BECOME** | Pattern 4 (Inchoative): verb stem + *-ika* / *-ka* suffix | *Ukweli ulidhihirika baada ya uchunguzi.* / *Alidanganyika.* | Direct mapping for roots that permit the suffix (*dhahiri*, *danganya*). No inchoative form attested for *kweli* or *sahihi* as bases. | **Lexical gap**: *kweli* and *sahihi* do not participate in this construction. |
+| **REVELATION** | Pattern 4 (Inchoative *-ika*) and Pattern 10 (Passive *-wa*) | *Ukweli ulidhihirika.* / *Uongo wake ulidhihirika.* / *Hati ilithibitishwa na mamlaka.* | REVELATION is expressed through the same morphological forms as BECOME (*-ika*) and PASSIVE VERIFICATION (*-wa*). The two are distinguished by implied agentivity, not by a dedicated revelation construction. | None — **SUBSTITUTED BY BECOME (*-ika*) and PASSIVE (*-wa*)** depending on agentivity |
+| **CAUSATION (factual)** | Pattern 5 (Causative): verb stem + *-sha* / *-isha* | *Matendo yake yalidhihirisha tabia yake.* | Direct mapping for roots that permit causative derivation (*dhahiri* → *kudhihirisha*). *Kweli* and *halisi* do not show well-attested causative forms. | **Lexical gap**: *kweli* and *halisi* excluded from causative derivation. |
+| **CAUSATION (character)** | Pattern 7 (Agentive Nominalization) + Pattern 1 (Attribution) | *Yeye ni mwongo.* / *Yeye ni mdanganyifu wa hali ya juu.* | Character causation is expressed as a nominal predication (copula + agentive nominal), not as a verbal causative construction. The agentive nominal (*mwongo*, *mdanganyifu*) carries the character-attribution meaning. | **SUBSTITUTED BY AGENTIVE NOMINALIZATION + ATTR**. No dedicated character-causation verbal construction attested. |
+| **VERIFICATION** | Pattern 10 (Passive *-wa*): subject + passive verb (+ *na*-phrase) | *Hati ilithibitishwa na mamlaka.* | Direct mapping. The *-wa* passive with an agentive *na*-phrase is the primary verification construction. Distinguished from BECOME by implied external agent. | None |
+| **DISCONFIRMATION** | Pattern 2 (Negative Attribution): Subject + *si* + truth-domain adjective/noun | *Hii si kweli.* / *Jibu lako si sahihi.* | Direct mapping for propositional disconfirmation. *Si* is the invariant negative copula, the direct counterpart of *ni*. | None — but see asymmetry note below |
+| **NEGATION** | Pattern 2 (Negative Attribution): *si* (invariant negative copula) | *Hii si kweli.* / *Jibu lako si sahihi.* | Direct mapping. Negation is **analytic** (a separate invariant morpheme *si*), not morphological modification of the predicate. | None |
+| **NOMINALIZATION** | Pattern 6 (Abstract Nominalization): *u-* prefix + root; Pattern 7 (Agentive Nominalization): *m-/wa-* prefix + root | *ukweli*, *usahihi*, *udanganyifu*, *uthibitisho* / *mwongo*, *mdanganyifu*, *mwaminifu* | Direct mapping. Two distinct nominalization strategies: abstract property (*u-*) and human agent (*m-/wa-*). Both are productive across the domain. | **Asymmetric lexical gap**: no fixed agentive nominal for "truth-teller" attested; expressed periphrastically as *mtu wa kweli*. |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME and PASSIVE
+
+Swahili does not deploy a dedicated REVELATION construction distinct from BECOME or PASSIVE VERIFICATION. The stative suffix *-ika* (Pattern 4) covers both the inchoative reading ("came to be in a state") and the revelation reading ("came to light"), as illustrated by *Ukweli ulidhihirika* ("The truth became evident / was revealed"). The passive suffix *-wa* (Pattern 10) covers revelation when an external agent is implied, as in *Hati ilithibitishwa na mamlaka* ("The document was authenticated by the authorities"). The distinction between the two is agentivity: *-ika* does not imply an external agent; *-wa* does. There is no third, dedicated form for REVELATION as a separate operator. The same example (*Uongo wake ulidhihirika*) is listed under both Pattern 4 and Pattern 10 in P4b, explicitly marking the overlap.
+
+### 2.2 CAUSATION (character) substituted by AGENTIVE NOMINALIZATION + ATTRIBUTION
+
+The CAUSATION (character) operator — expressing that a person is characterized as a habitual agent of truth or deception — is not realized through a verbal causative construction in Swahili. Instead, it is realized through the combination of an agentive nominal (*mwongo*, *mdanganyifu*, *mwaminifu*) and the copular attribution frame (*ni*): *Yeye ni mwongo*. The agentive nominal itself encodes the character meaning; the copula predicates it of the subject. This is a substitution of a nominal predication strategy for a verbal causative strategy.
+
+### 2.3 Asymmetry: positive vs. negative agentive nominals
+
+P4a and P4b both note that no fixed lexical agentive nominal for "truth-teller" is attested. The negative pole (liar, deceiver, fraudster) has fully lexicalized agentive nominals: *mwongo*, *mdanganyifu*, *mlaghai*. The positive pole (truth-teller) lacks a parallel fixed form and requires the periphrastic *mtu wa kweli* ("a person of truth"). This is an asymmetric lexical gap: the negative character-attribution nominals are lexicalized; the positive character-attribution nominal is not.
+
+### 2.4 Asymmetry: BECOME restricted by root class
+
+The inchoative *-ika* construction (BECOME) is available only for roots that permit verbal derivation. P4a explicitly states that no inchoative form is attested for *kweli* or *sahihi* as bases. The construction is available for *dhahiri* (*kudhihirika*) and *danganya* (*kudanganyika*). This produces a root-conditioned asymmetry within the BECOME operator: the construction exists morphosyntactically but is blocked for specific lexical items.
+
+### 2.5 Asymmetry: CAUSATION (factual) restricted by root class
+
+The same root-conditioned restriction applies to the causative *-sha*/*-isha* construction (CAUSATION factual). P4a states that *kweli* and *halisi* do not show well-attested causative forms in common usage. The construction is available for *dhahiri* (*kudhihirisha*) and *sahihi* (*kusahihisha*). This is a parallel lexical gap within the CAUSATION (factual) operator.
+
+### 2.6 NEGATION is analytic
+
+Negation of truth-domain predicates in Swahili is realized through the invariant negative copula *si*, which is a separate morpheme replacing *ni*. There is no morphological modification of the predicate itself (no negative suffix on the adjective or noun). The *ni/si* opposition is described in P4a and P4b as the canonical binary truth-evaluation frame. No alternate negation strategy is attested for this construction.
+
+### 2.7 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is realized through the passive *-wa* construction (Pattern 10): *kuthibitishwa* ("to be verified/authenticated"). DISCONFIRMATION is realized through the negative copula *si* (Pattern 2): *Hii si kweli*. These are structurally distinct constructions. VERIFICATION is a verbal passive; DISCONFIRMATION is a copular negation. They do not share a form.
+
+### 2.8 Complementizer framing as a distinct propositional strategy
+
+Pattern 8 (Complementizer Framing) provides a construction not directly mapped to any single CLCA operator in the table above. It functions as a propositional embedding frame (*Ukweli ni kwamba...*, *Ni dhahiri kwamba...*) that combines ATTR with a complement clause. This construction is available for both truth-positive (*ukweli*, *dhahiri*) and evidential readings. It is not a substitution for any missing operator but an additional structural resource for propositional content introduction.
+
+### 2.9 Parenthetical sincerity frame as a discourse-level operator
+
+Pattern 9 (Parenthetical Sincerity Frame) does not map to any of the ten CLCA operators listed. It operates at the discourse level as a speaker-sincerity marker (*Kusema ukweli, sikupenda hilo.*; *Kwa kweli, sijui.*). It is restricted to sentence-initial position and does not predicate truth of a proposition. It is noted here as a construction present in the data that falls outside the CLCA operator inventory.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+- **None identified.** All ten CLCA operators are realized by at least one attested construction in Swahili. No operator is entirely absent at the morphosyntactic level.
+
+### 3.2 Lexical Gaps
+- **BECOME**: No inchoative form (*-ika*) attested for *kweli* or *sahihi* as bases. The construction exists; specific roots are excluded.
+- **CAUSATION (factual)**: No causative form (*-sha*/*-isha*) well-attested for *kweli* or *halisi* in common usage. The construction exists; specific roots are excluded.
+- **NOMINALIZATION (agentive)**: No fixed agentive nominal for "truth-teller" attested. The *m-/wa-* nominalization pattern exists and is productive for negative-pole agents (*mwongo*, *mdanganyifu*, *mlaghai*) and for the positive-pole faithful agent (*mwaminifu*), but not for a general "truth-teller." Concept expressed periphrastically as *mtu wa kweli*.
+
+### 3.3 Conceptual Gaps
+- **None identified from the data.** No operation is described in P4a or P4b as conceptually unavailable or blocked at the level of meaning. All gaps identified are lexical (specific roots excluded from otherwise productive patterns) or asymmetric (one pole of a contrast lacking a fixed form).
+
+### 3.4 Asymmetric Gaps
+
+| Domain | Positive Pole | Negative Pole | Gap |
+|---|---|---|---|
+| Agentive nominalization (character) | *mtu wa kweli* (periphrastic only) | *mwongo*, *mdanganyifu*, *mlaghai* (lexicalized) | Positive "truth-teller" nominal is **not lexicalized**; negative nominals are. |
+| BECOME (*-ika*) | *kudhihirika* (attested) | *kudanganyika* (attested) | Gap is root-conditioned, not polarity-conditioned: *kweli* and *sahihi* excluded regardless of polarity. |
+| CAUSATION (*-sha*) | *kudhihirisha*, *kusahihisha* (attested) | No parallel negative-pole causative noted | Gap is root-conditioned: *kweli* and *halisi* excluded. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Invariant copula *ni* + truth-domain predicate. Productive across all registers and all attested truth-domain items. |
+| **ADNOM** | **Fully available** | Post-nominal attributive adjective and *wa/ya* + noun. Productive across all attested truth-domain items. No pre-nominal variant attested. |
+| **BECOME** | **Partially available** | *-ika* suffix construction is attested and productive for *dhahiri* and *danganya*. Blocked for *kweli* and *sahihi* as bases. Lexical gap, not structural gap. |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME (*-ika*)** when no external agent is implied; **SUBSTITUTED BY PASSIVE (*-wa*)** when an external agent is implied. No dedicated revelation construction distinct from these two. |
+| **CAUSATION (factual)** | **Partially available** | *-sha*/*-isha* causative construction attested for *dhahiri* (*kudhihirisha*) and *sahihi* (*kusahihisha*). Not well-attested for *kweli* or *halisi*. Lexical gap, not structural gap. |
+| **CAUSATION (character)** | **Available with substitution** | **SUBSTITUTED BY AGENTIVE NOMINALIZATION + ATTR**. Character causation is expressed as copular predication of an agentive nominal (*Yeye ni mwongo*), not through a verbal causative construction. |
+| **VERIFICATION** | **Fully available** | Passive *-wa* construction (*kuthibitishwa*) with optional agentive *na*-phrase. Attested in legal, administrative, and journalistic registers. Distinguished from BECOME by implied external agent. |
+| **DISCONFIRMATION** | **Fully available** | Invariant negative copula *si* + truth-domain predicate. Direct structural counterpart of ATTR. Productive across all registers and all attested truth-domain items. |
+| **NEGATION** | **Fully available** | Realized analytically through *si* (separate invariant morpheme). No morphological modification of the predicate. The *ni/si* opposition is the canonical binary truth-evaluation frame. |
+| **NOMINALIZATION** | **Partially available** | Abstract nominalization (*u-* prefix) is fully productive across the domain. Agentive nominalization (*m-/wa-* prefix) is productive for negative-pole agents and for *mwaminifu* (faithful person), but no fixed agentive nominal for "truth-teller" is attested; expressed periphrastically as *mtu wa kweli*. Asymmetric lexical gap. |

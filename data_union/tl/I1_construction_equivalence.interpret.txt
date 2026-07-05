@@ -1,0 +1,136 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tagalog (tl)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** (attributive predication) | Predicate-initial verbless clause: [truth-adjective] + *ang* + NP / pronoun | *Totoo ang balita.* / *Tama ang sagot mo.* / *Mali ang sagot.* | Direct mapping; no substitution required | None |
+| **ADNOM** (adnominal modification) | [truth-adjective] + *na* / *-ng* (linker) + [noun] | *Tunay na kaibigan* / *Huwad na dokumento* / *maling impormasyon* | Direct mapping; no substitution required | None |
+| **BECOME** (inchoative / entry into state) | *Maging* + [truth-adjective]; *Naging* + [truth-adjective]; [truth-adjective] + *na* (change-of-state particle) | *Maging tapat ka sa akin.* / *Naging totoo ang kanyang pangarap.* / *Totoo na.* | Direct mapping for *tapat* and *totoo*; [MARGINAL] for *huwad* and *peke* | Partial gap: BECOME is blocked for object-property adjectives (*huwad*, *peke*) — see §3 |
+| **REVELATION** (discovery / realization of truth) | Particle cluster *totoo nga pala*; *pala*-marked constructions; *Mukhang* / *Parang* + truth-adjective (appearance-to-reality shift) | *Totoo nga pala.* / *Mukhang totoo ang produkto pero peke pala.* | REVELATION is expressed through particle-marked epistemic stance (*nga pala*) and appearance/evidential framing (*mukhang … pero pala*); no dedicated REVELATION verb | **SUBSTITUTED BY** particle-marked epistemic stance (*nga pala*) and evidential framing (*mukhang … pero … pala*) |
+| **CAUSATION (factual)** — causing a proposition to be verified / proven | *Pa-* + *tunay* + *-an* verbal paradigm | *Patunayan mo ang iyong sinasabi.* / *Pinatunayan niya ang kanyang sinabi.* | Direct mapping for the verification/proof sub-domain via *patunayan*; no equivalent attested for *totoo* or *tapat* | Partial gap: productive causative-factual construction attested only for *tunay* → *patunayan*; not attested for *totoo* or *tapat* — see §3 |
+| **CAUSATION (character)** — causing a person or object to become correct / right | *i-* + [correctness adjective] verbal paradigm | *Itama ang iyong mga pagkakamali.* / *Iwasto ang mali.* / *Iniwasto na ang pagkakamali.* | Direct mapping for correctness adjectives (*tama*, *wasto*, *akma*); not attested for truth-predicate adjectives (*totoo*, *tunay*) | Partial gap: productive only within the correctness sub-cluster; blocked for truth-predicate adjectives — see §3 |
+| **VERIFICATION** (asserting the presence of proof or truth) | *May* + truth/proof nominal; existential construction | *May katotohanan iyan.* / *May katunayan.* | Direct mapping via existential *may* + nominal; also partially covered by *patunayan* (causative-verificational) | None for the existential form; the causative form (*patunayan*) additionally covers the act of verifying |
+| **DISCONFIRMATION** (asserting the absence of proof or truth) | *Wala* + *-ng* + truth/proof nominal; *Hindi* + truth-adjective + *ang* + NP | *Walang pruweba.* / *Walang katotohanan ang akusasyon.* / *Hindi totoo ang alegasyon.* | Two structurally distinct patterns: existential negation (*wala*) for nominal truth-terms; adjectival negation (*hindi*) for predicative adjectives; these are not interchangeable | None; both patterns are [CORE] — but see §2 for the structural distinction |
+| **NEGATION** (negative attribution) | *Hindi* + [truth-adjective] + *ang* + NP / pronoun; *Wala* + *-ng* + [truth-nominal] | *Hindi totoo ang alegasyon.* / *Hindi tapat ang kanyang mga salita.* / *Walang katotohanan ang akusasyon.* | Direct mapping; analytic negation via preverbal particle *hindi* (adjectival predicates) and existential negator *wala* (nominal predicates) | None; negation is analytic, not morphological — see §2 |
+| **NOMINALIZATION** (abstract noun formation from truth-domain roots) | *Ka-…-an* circumfix (native roots); *pag-* action nominalization; *-idad* suffix (Spanish-borrowed) | *katotohanan* / *katapatan* / *pagtapat* / *pagpapatunay* / *kredibilidad* | Direct mapping across three distinct morphological strategies; each applies to a distinct lexical stratum | None; all three patterns are [CORE] |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for a dedicated BECOME-of-discovery construction
+
+Tagalog does not attest a dedicated lexical verb meaning "to discover that X is true" or "to realize that X is true" in the truth domain. The semantic function of REVELATION — the moment at which a truth becomes known to a subject — is instead expressed through two overlapping mechanisms:
+
+**Particle-marked epistemic stance:** The cluster *totoo nga pala* encodes a specific epistemic update: the speaker confirms a proposition as true upon new evidence or realization. The particle *pala* specifically marks discovery or realization; *nga* marks confirmation. The combination *nga pala* following a truth-domain predicate constitutes the primary attested form for REVELATION in Tagalog. This cluster is documented as specific to *totoo*; no parallel particle-cluster construction at the same density is attested for *tunay*, *tapat*, or *tama*.
+
+**Appearance-to-reality shift via evidential framing:** The construction *Mukhang totoo ang produkto pero peke pala* encodes a REVELATION structure: an initial appearance (*mukhang totoo*) is corrected by a realized truth (*peke pala*). The corrective clause introduced by *pero … pala* performs the REVELATION function. This pattern is attested for the appearance/authenticity sub-domain (*totoo*, *peke*, *tunay*) and is not documented for correctness adjectives (*tama*, *wasto*).
+
+Neither of these mechanisms is a dedicated REVELATION construction. Both are compositional uses of existing particles and evidential markers that, in combination, produce a REVELATION reading. The BECOME construction (*naging totoo*, *totoo na*) covers the change-of-state reading but does not encode the epistemic-discovery component that REVELATION requires. REVELATION is therefore **SUBSTITUTED BY** particle-marked epistemic stance and evidential framing, not by BECOME.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share partially overlapping but structurally distinct constructions
+
+VERIFICATION (asserting the presence of truth or proof) and DISCONFIRMATION (asserting the absence of truth or proof) are expressed through parallel but structurally distinct constructions:
+
+- VERIFICATION: *May* + truth/proof nominal (*May katotohanan iyan.*, *May katunayan.*)
+- DISCONFIRMATION: *Wala* + *-ng* + truth/proof nominal (*Walang pruweba.*, *Walang katotohanan ang akusasyon.*)
+
+These two constructions are formally parallel (existential verb + nominal) and occupy the same structural slot; they differ only in the choice of existential verb (*may* vs. *wala*). They are therefore the positive and negative poles of a single existential construction type, not two separate construction types.
+
+However, DISCONFIRMATION is also expressed through adjectival negation: *Hindi totoo ang alegasyon.* This second pattern for DISCONFIRMATION has no parallel positive form in the same slot — there is no *\*totoo ang alegasyon* that functions as a VERIFICATION statement in the same way that *hindi totoo* functions as DISCONFIRMATION. (The positive *Totoo ang alegasyon* is an ATTRIBUTION statement, not a VERIFICATION statement in the evidentiary sense.) The two DISCONFIRMATION patterns (*wala* + nominal vs. *hindi* + adjective) are explicitly noted in P4a and P4b as structurally distinct and not interchangeable.
+
+### 2.3 CAUSATION (factual) does not substitute for VERIFICATION; they are distinct
+
+The construction *patunayan* (CAUSATION-factual: "cause to be proven") is distinct from the existential VERIFICATION construction (*may katunayan*). *Patunayan* encodes an agentive act directed at establishing proof; *may katunayan* asserts the current existence of proof without encoding agency. These two constructions are not substitutes for each other; they cover adjacent but distinct semantic functions within the verification domain.
+
+### 2.4 Asymmetry between positive and negative truth-domain constructions
+
+A consistent asymmetry is attested across multiple construction types:
+
+**Discourse-framing constructions** are attested only for positive truth-domain items (*totoo*, *katotohanan*, *katunayan*). No equivalent sentence-initial discourse-framing construction is attested for *mali*, *huwad*, or *peke*. Constructions such as *Sa totoo lang*, *Ang totoo*, *Sa katunayan* have no documented parallels *\*Sa mali lang*, *\*Ang huwad*, *\*Sa kamalian*.
+
+**Particle-marked epistemic stance** is documented as specific to *totoo*. No parallel conventionalized particle-cluster constructions are attested for *tunay*, *tapat*, or *tama* at the same density.
+
+**BECOME constructions** are most naturally attested with *tapat* and *totoo* (person-oriented states). They are [MARGINAL] with *huwad* and *peke* (object-property adjectives). This asymmetry reflects a semantic constraint: *maging huwad* / *maging peke* requires a subject that can enter a state of being forged or fake, which is pragmatically restricted.
+
+**CAUSATION (character)** via *i-* prefix is productive for correctness adjectives (*tama*, *wasto*, *akma*) but is explicitly not attested for truth-predicate adjectives (*totoo*, *tunay*). Conversely, CAUSATION (factual) via *pa-…-an* is productive for *tunay* → *patunayan* but is not attested for correctness adjectives. These two causative patterns are thus complementarily distributed across the truth-domain inventory.
+
+### 2.5 Negation is analytic, not morphological
+
+Negation of truth-domain predicates in Tagalog is expressed analytically through preverbal particles (*hindi* for adjectival predicates, *wala* for existential/nominal predicates). No morphological negation prefix is productive across the truth-domain inventory in predicative position. The clitic *di-* (e.g., *di-tunay*, *di-lehitimo*) is attested in formal written registers and is typically hyphenated, but it functions as a bound modifier in adnominal position rather than as a predicative negator. The *di-* form is therefore a restricted adnominal variant, not a productive predicative negation strategy.
+
+### 2.6 Agentive nominalization: no productive operator; lexical and periphrastic substitution
+
+No productive agentive morpheme is attested for the truth domain as a whole. The concept "liar" is covered by the lexicalized root *sinungaling*; the concept "one who deceives habitually" is covered by *manlinlang* (*man-* + *linlang*), which is [MARGINAL] and restricted to the deception sub-domain. The concept "truth-teller" or "honest person" has no dedicated agentive nominal; it is expressed periphrastically (*ang nagsasabi ng katotohanan*) or through the adnominal construction *tapat na tao*. This is a documented lexical and morphosyntactic gap, not a conceptual one.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps (missing constructions)
+
+**BECOME blocked for object-property adjectives (*huwad*, *peke*):**
+The *maging* + [truth-adjective] inchoative construction is [MARGINAL] with *huwad* and *peke*. These adjectives describe properties of objects (documents, goods, currency) rather than states that a person or abstract entity enters into. The BECOME construction is therefore structurally available but pragmatically blocked for this sub-class of truth-domain adjectives. This is a partial structural gap within the BECOME category.
+
+**No productive causative construction for *totoo* or *tapat*:**
+The *pa-…-an* causative is productive only for *tunay* → *patunayan*. The *i-* causative is productive only for correctness adjectives (*tama*, *wasto*, *akma*). No productive causative verbal paradigm is attested for *totoo* or *tapat* in the truth-evaluation domain. This is a morphosyntactic gap: the causative construction type exists in the language but is not available for these specific roots.
+
+**No dedicated REVELATION construction:**
+No dedicated verb or construction type encoding the epistemic event of discovering or realizing that a proposition is true is attested. REVELATION is expressed through particle combinations and evidential framing, both of which are substitutions rather than direct mappings.
+
+**No productive agentive nominalization for the truth domain:**
+No productive agentive morpheme derives "truth-teller," "verifier," or "honest person" from truth-domain roots as a regular pattern. The construction type exists in the language (*tagapag-*, *mang-*) but is not productively available across the truth-domain inventory. This is a morphosyntactic gap.
+
+### 3.2 Lexical Gaps (missing words)
+
+**No single-word agentive nominal for "truth-teller":**
+The concept is expressed periphrastically (*ang nagsasabi ng katotohanan*). No lexicalized single-word equivalent is attested. This is a lexical gap.
+
+**No lexicalized agentive for "verifier" or "honest person" via dedicated affix:**
+*Tagapagtanggol ng katotohanan* ("defender of truth") is a compound construction, not a lexicalized single word. *Tapat na tao* ("honest person") uses the adnominal construction rather than an agentive nominal. These are lexical gaps within the agentive nominalization category.
+
+**No discourse-framing construction for *mali*, *huwad*, or *peke*:**
+The sentence-initial discourse-framing constructions (*Sa totoo lang*, *Ang totoo*, *Sa katunayan*) are attested only for positive truth-domain items. No parallel conventionalized forms are attested for the falsity or inauthenticity sub-domain. This is a lexical gap at the level of grammaticalized discourse connectors.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a and P4b data. All major truth-domain semantic operations (attribution, modification, negation, nominalization, causation, inchoation, verification, evidential framing) are expressible in Tagalog, though some require substitution or circumlocution. No semantic operation is documented as inexpressible in principle.
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing)
+
+**Discourse-framing: positive only, negative absent.**
+Sentence-initial discourse-framing constructions are attested only for positive truth-domain items (*totoo*, *katotohanan*, *katunayan*). No equivalent is attested for *mali*, *huwad*, or *peke*. The negative/falsity pole of this construction type is absent.
+
+**Particle-marked epistemic stance: *totoo* only, other truth-domain adjectives absent.**
+The conventionalized particle-cluster constructions (*totoo nga pala*, *totoo naman*) are documented only for *totoo*. No parallel constructions at the same density are attested for *tunay*, *tapat*, or *tama*. This is an asymmetry within the truth-domain inventory: the epistemic-stance construction is available for one item but not productively extended to the others.
+
+**CAUSATION: complementary distribution between sub-domains.**
+CAUSATION (factual) via *pa-…-an* is available for *tunay* but not for *totoo* or *tapat*. CAUSATION (character) via *i-* is available for *tama*, *wasto*, *akma* but not for *totoo* or *tunay*. Neither causative construction covers the full truth-domain inventory; together they cover complementary sub-domains, leaving *totoo* and *tapat* without a productive causative construction.
+
+**BECOME: person-oriented adjectives available, object-property adjectives marginal.**
+BECOME is [CORE] for *tapat* and *totoo* (person-oriented states) and [MARGINAL] for *huwad* and *peke* (object-property adjectives). The positive/person-oriented pole is available; the object-property pole is not.
+
+**Agentive nominalization: deception sub-domain has an agentive (*manlinlang*, *sinungaling*); truth-telling sub-domain does not.**
+The falsity/deception side of the truth domain has lexicalized agentive nominals (*sinungaling*, *manlinlang*). The truth-telling side has no parallel lexicalized agentive. This is a one-directional lexical gap.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Predicate-initial verbless clause is the unmarked, productive default across the full truth-domain inventory and all registers. |
+| **ADNOM** | **Fully available** | Linker-mediated prenominal modification is productive across the full P1 inventory; both *na* and *-ng* forms are [CORE]. |
+| **NEGATION** | **Fully available** | Analytic negation via *hindi* (adjectival predicates) and *wala* (nominal/existential predicates); both are [CORE] and productive across the inventory. Negation is not morphological in predicative position. |
+| **NOMINALIZATION** | **Fully available** | Three productive strategies: *ka-…-an* circumfix (native roots), *pag-* action nominalization, *-idad* suffix (Spanish-borrowed); all [CORE] and covering distinct lexical strata. |
+| **VERIFICATION** | **Fully available** | Existential *may* + truth/proof nominal is [CORE] and productive; additionally covered in the agentive-causative domain by *patunayan*. |
+| **DISCONFIRMATION** | **Fully available** | Two structurally distinct [CORE] patterns: *wala* + nominal (existential) and *hindi* + adjective (predicative); not interchangeable but both productive. |
+| **CAUSATION (factual)** | **Available with substitution** | Productive only for *tunay* → *patunayan* via *pa-…-an* paradigm; not attested for *totoo* or *tapat*. The construction type is available but restricted to one root in the truth-predicate sub-domain. |
+| **CAUSATION (character)** | **Available with substitution** | Productive for correctness adjectives (*tama* → *itama*; *wasto* → *iwasto*; *akma* → *iakma*) via *i-* prefix; not attested for truth-predicate adjectives (*totoo*, *tunay*). The construction type is available but restricted to the correctness sub-cluster. |
+| **BECOME** | **Partially available** | [CORE] for person-oriented truth-domain adjectives (*tapat*, *totoo*); [MARGINAL] for object-property adjectives (*huwad*, *peke*). The construction type exists but is blocked for a sub-class of the inventory. |
+| **REVELATION** | **Available with substitution** | No dedicated REVELATION construction attested. The function is expressed through particle-marked epistemic stance (*totoo nga pala*) and appearance-to-reality evidential framing (*mukhang … pero peke pala*). Both are substitutions using existing particles and evidential markers, not dedicated REVELATION operators. Restricted to *totoo* and the appearance/authenticity sub-domain. |
+| **AGENTIVE NOMINALIZATION** | **Partially available** | Lexicalized items exist for the deception sub-domain (*sinungaling*, *manlinlang*); no productive agentive morpheme covers the truth-domain as a whole; no lexicalized agentive for "truth-teller" or "honest person" is attested; the concept is expressed periphrastically or via adnominal construction (*tapat na tao*). |

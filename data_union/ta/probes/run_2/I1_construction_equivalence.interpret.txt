@@ -1,0 +1,89 @@
+# CLCA Protocol v3.3 — I1: Construction Equivalence & Missingness Analysis
+## Language: Tamil (ta)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | *-āna* prenominal modifier (P4a §1); negative privative *-aṟṟa* / *-illāta* (P4a §2) | *uṇmaiyāna ceytī* "a true news report"; *ātāramaṟṟa vatanti* "an unsubstantiated rumor" | Direct mapping; both positive and negative attribution are morphologically expressed. Negative attribution is a distinct sub-operator (see §2 below). | None |
+| **ADNOM** | Genitive *-iṉ* construction; juxtaposition compound (P4a §3) | *āvaṇattiṉ uṇmaitaṉmai* "the authenticity of the document"; *maṉat tūymai* "purity of mind" | Direct mapping. Two formally distinct constructions, conditioned by degree of lexicalization. | None |
+| **BECOME** | *-āki(viṭu)* inchoative construction (P4a §4) | *nampakattaṉmai kēḷvikkuṟiyākiviṭṭatu* "His credibility has become a question mark" | Direct mapping. The *viṭu* completive auxiliary adds a finality/irreversibility component not present in the bare BECOME operator. | None |
+| **REVELATION** | *veḷippaṭu* collocation (P4a §4, noted as distinct from *āki*) | *uṇmai veḷippaṭṭatu* "The truth came out / became revealed" | **SUBSTITUTED BY** a dedicated lexical collocation rather than the general BECOME construction. P4b explicitly states these are not interchangeable. REVELATION is expressed by a fixed verb collocation, not by the *āki* inchoative. | None (lexically filled, but by a distinct operator from BECOME) |
+| **CAUSATION (factual)** | Morphological causative *paṭuttu* (P4a §5); lexical causative *niṟuvu* / *nirūpikku* (P4a §5) | *ātārappaṭuttu* "to substantiate"; *uṇmai niṟuvu* "to establish the truth" | Direct mapping. Two formally distinct strategies (morphological vs. lexical) are both attested without apparent register restriction between them. | None |
+| **CAUSATION (character)** | Agentive nominalization: *-aṉ* / *-aḷ* / *-āḷar* (P4a §7) | *poyyan* "liar (m.)"; *vañcakaṉ* "deceiver (m.)"; *uṇmaiyāḷar* "person of truth (honorific)" | Partial mapping. The agentive forms encode a person characterized by a truth-domain property, which corresponds to the character-causation operator (habitual/dispositional agent). However, positive agentive forms (*uṇmaiyāḷar*, *nēṟmaiyāḷar*) are rated [MARGINAL] and restricted to formal/elevated registers. Negative agentive forms (*poyyan*, *vañcakaṉ*, *kapaṭi*) are [CORE] and cross-register. | **Asymmetric gap**: positive character-causation agents are marginal; negative are core. |
+| **VERIFICATION** | Morphological causative *paṭuttu* (*uṟutippaṭuttu* "to confirm/certify"); lexical *nirūpikku* "to prove" (P4a §5) | *uṟutippaṭuttu* "to confirm/certify"; *nirūpikku* "to prove" | **SUBSTITUTED BY** CAUSATION (factual) constructions. No dedicated VERIFICATION construction is attested as formally distinct from the causative pattern. Verification meaning is carried by specific lexical items (*uṟutippaṭuttu*, *nirūpikku*) within the general causative frame. | Lexical gap (no dedicated VERIFICATION morphosyntactic operator); meaning is expressed through the causative construction with specific lexical choices. |
+| **DISCONFIRMATION** | No dedicated construction attested in P4a or P4b data. | — | **NO COMMON EXPRESSION — circumlocution required.** The data contain no attested construction specifically encoding disconfirmation (showing something to be false). The binary question construction (*uṇmaiyā illai poyyā*, P4a §10) frames the true/false opposition as a question but does not itself express disconfirmation. Negative attribution (*ātāramaṟṟa*, P4a §2) encodes lack of support but not active disconfirmation. | **Structural gap**: no dedicated disconfirmation construction is attested. |
+| **NEGATION** | Morphological privative: *-aṟṟa* (formal) and *-illāta* (cross-register) (P4a §2) | *ātāramaṟṟa vatanti* "unsubstantiated rumor"; *kaḷḷamillāta maṉitaṉ* "person without guile" | Direct mapping. Negation in the truth domain is **morphological**, not analytic. Two distinct morphological forms are attested, register-differentiated. The binary question construction (*X-ā illai Y-ā*, P4a §10) provides an analytic framing of the true/false opposition in interrogative contexts only; it is not a negation operator. | None for attributive negation. No predicative negation construction is separately attested in the data beyond the privative participial forms. |
+| **NOMINALIZATION** | *-mai* abstract suffix (P4a §6); *taṉmai* compound (P4a §6); agentive *-aṉ/-aḷ/-āḷar* (P4a §7) | *nēṟmai* "honesty"; *uṇmaitaṉmai* "truthfulness/authenticity"; *poyyan* "liar" | Direct mapping. Two sub-types are attested: abstract property nominalization (*-mai*, *taṉmai*) and agentive person nominalization (*-aṉ/-aḷ/-āḷar*). The *-mai* forms are [CORE] and fully productive; the *taṉmai* compound forms are [MARGINAL] and register-restricted. | Partial availability for *taṉmai* forms (formal register only). |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME in truth-specific contexts
+
+The data show two formally distinct inchoative constructions in Tamil. The general BECOME operator is expressed by *āki(viṭu)*, which is productive across domains. However, for the specific meaning of truth being revealed or coming to light, the data attest a fixed collocation *uṇmai veḷippaṭṭatu* using the verb *veḷippaṭu* ("to come out / be revealed"). P4b explicitly states these two constructions are not interchangeable in this collocation. This means that in the truth domain, REVELATION is not simply a sub-case of BECOME but is expressed by a dedicated lexical collocation. The BECOME construction (*āki*) is attested for changes of state involving truth-domain nominals in other configurations (e.g., credibility becoming a question mark), but the specific REVELATION meaning (truth emerging from concealment) is carried by *veḷippaṭu* alone.
+
+### 2.2 CAUSATION (factual) constructions carry VERIFICATION meaning
+
+No dedicated VERIFICATION construction is attested as formally distinct from the causative pattern. The meanings "to confirm," "to certify," and "to prove" are expressed by specific lexical items (*uṟutippaṭuttu*, *nirūpikku*) that operate within the general causative morphosyntactic frame (*paṭuttu* or lexical verb + nominal object). VERIFICATION is therefore not a separate morphosyntactic operator in Tamil as documented; it is a semantic specialization within the CAUSATION (factual) construction, distinguished only by lexical choice.
+
+### 2.3 DISCONFIRMATION is not attested as a construction
+
+The data contain no construction specifically encoding the act of showing something to be false or refuting a claim. The closest attested patterns are: (a) negative attribution (*ātāramaṟṟa*, "lacking evidence"), which encodes absence of support rather than active refutation; and (b) the binary question construction (*uṇmaiyā illai poyyā*), which frames the true/false opposition as an interrogative but does not itself assert falsity. No morphological or syntactic pattern for "to disprove" or "to refute" is attested in the P4a/P4b data. This constitutes a structural gap in the documented inventory.
+
+### 2.4 Asymmetry between positive and negative agentive forms
+
+The data explicitly note that agentive nominalizations for negative truth-domain properties (*poyyan* "liar," *vañcakaṉ* "deceiver," *kapaṭi* "hypocrite") are [CORE] and attested across registers including colloquial speech. Agentive forms for positive truth-domain properties (*uṇmaiyāḷar* "person of truth," *nēṟmaiyāḷar* "person of integrity") are rated [MARGINAL] and restricted to formal or elevated registers. This asymmetry is explicitly flagged in both P4a and P4b. The CAUSATION (character) operator is therefore partially available: fully available for negative character attribution, marginally available for positive character attribution.
+
+### 2.5 Asymmetry in the EPISTEMIC DISCOURSE MARKER
+
+The epistemic discourse marker function (sentence-initial adverb marking correction or strong factual assertion) is attested only for *uṇmaiyil* / *uṇmaiyilēyē*, derived from *uṇmai* ("truth"). P4b explicitly states that no parallel forms from *poy* ("falsehood") or *nēṟmai* ("honesty/integrity") are attested in this discourse-marker function. This means the grammaticalized epistemic marker is lexically restricted to the *uṇmai* base. The EPISTEMIC DISCOURSE MARKER construction does not map directly onto any of the ten canonical CLCA operators listed in the task; it is noted here as an additional construction type attested in the data that falls outside the canonical inventory.
+
+### 2.6 NEGATION is morphological, not analytic
+
+In the truth domain, negation of attributive properties is expressed morphologically through two privative participial suffixes (*-aṟṟa*, *-illāta*) rather than through a separate analytic negation word modifying the positive form. The two forms are register-differentiated (*-aṟṟa* formal, *-illāta* cross-register) but semantically equivalent. The binary question construction provides an analytic *illai* element, but this functions as an interrogative coordinator ("or not"), not as a negation operator applied to a truth-domain predicate.
+
+### 2.7 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is expressed through the causative frame with specific lexical items (*uṟutippaṭuttu*, *nirūpikku*). DISCONFIRMATION has no attested construction in the data. These two operators therefore do not share a construction; rather, one is partially filled (through causative substitution) and the other is absent.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+- **DISCONFIRMATION**: No construction encoding the act of showing something to be false or refuting a claim is attested in the P4a/P4b data. Neither the negative attribution constructions nor the binary question construction fills this function. This is a structural gap.
+
+### 3.2 Lexical Gaps
+- **VERIFICATION**: No dedicated morphosyntactic operator for verification is attested. The meaning is expressed through lexical specialization within the general CAUSATION (factual) construction (*uṟutippaṭuttu*, *nirūpikku*). The gap is lexical in the sense that VERIFICATION is not a distinct construction type but is carried by specific lexical items within an existing frame.
+- **EPISTEMIC DISCOURSE MARKER from *poy* or *nēṟmai***: The grammaticalized sentence-initial epistemic marker is attested only for *uṇmai*. No parallel lexicalized forms from *poy* or *nēṟmai* are attested. This is a lexical gap within the epistemic marker paradigm.
+
+### 3.3 Conceptual Gaps
+- No conceptual gaps are identifiable from the data alone. All major truth-domain concepts (truth, falsehood, honesty, deception, evidence, credibility) are lexically represented. The gaps identified above are constructional or lexical, not conceptual.
+
+### 3.4 Asymmetric Gaps
+- **CAUSATION (character) — positive agents**: Positive agentive nominalizations (*uṇmaiyāḷar*, *nēṟmaiyāḷar*) are [MARGINAL] and register-restricted (formal/elevated only). Negative agentive nominalizations (*poyyan*, *vañcakaṉ*, *kapaṭi*) are [CORE] and cross-register. The positive side of the CAUSATION (character) operator is therefore underrepresented relative to the negative side.
+- **EPISTEMIC DISCOURSE MARKER — truth vs. falsehood**: The grammaticalized epistemic marker is attested only for *uṇmai* (truth-asserting direction). No parallel marker for the falsehood direction is attested.
+- **Abstract nominalization — *-mai* vs. *taṉmai***: The *-mai* forms are fully productive and cross-register; the *taṉmai* compound forms are [MARGINAL] and formal-register-restricted. Both encode abstract nominalization, but the *taṉmai* forms are partially unavailable in spoken and informal registers.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** (positive) | **Fully available** | *-āna* prenominal modifier; [CORE]; productive across all registers and truth-domain nominals. |
+| **ATTR** (negative) | **Fully available** | *-aṟṟa* and *-illāta* privative participials; both [CORE]; register-differentiated but collectively cross-register. |
+| **ADNOM** | **Fully available** | Genitive *-iṉ* and juxtaposition compound; both [CORE]; distribution conditioned by lexicalization degree. |
+| **BECOME** | **Fully available** | *-āki(viṭu)* inchoative; [CORE]; productive across registers. |
+| **REVELATION** | **Available with substitution** | Expressed by the fixed collocation *veḷippaṭu* rather than the general BECOME construction; [CORE] but lexically restricted to this collocation. Not interchangeable with *āki* in this function. |
+| **CAUSATION (factual)** | **Fully available** | Morphological *paṭuttu* and lexical *niṟuvu*/*nirūpikku*; both [CORE]; no register restriction between them. |
+| **CAUSATION (character)** | **Partially available** | Negative agentive forms (*poyyan*, *vañcakaṉ*, *kapaṭi*) are [CORE] and cross-register. Positive agentive forms (*uṇmaiyāḷar*, *nēṟmaiyāḷar*) are [MARGINAL] and formal-register-restricted. Positive side is underrepresented. |
+| **VERIFICATION** | **Available with substitution** | No dedicated construction; expressed through lexical specialization (*uṟutippaṭuttu*, *nirūpikku*) within the CAUSATION (factual) frame. |
+| **DISCONFIRMATION** | **Missing entirely** | No attested construction in P4a/P4b data. Negative attribution and binary question constructions do not fill this function. Structural gap. |
+| **NEGATION** | **Fully available** | Morphological privative suffixes *-aṟṟa* and *-illāta*; both [CORE]; negation is morphological, not analytic, in attributive contexts. |
+| **NOMINALIZATION** (abstract) | **Partially available** | *-mai* forms are [CORE] and fully productive. *taṉmai* compound forms are [MARGINAL] and formal-register-restricted. Full availability is register-conditioned. |
+| **NOMINALIZATION** (agentive) | **Partially available** | Negative agentive forms are [CORE]; positive agentive forms are [MARGINAL]. Asymmetric availability by polarity and register. |

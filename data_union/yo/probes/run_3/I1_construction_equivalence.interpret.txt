@@ -1,0 +1,105 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Yoruba (yo)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) from P4a/P4b | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Post-nominal attributive: [NOUN] + [EVALUATIVE NOUN/ADJ] (P4a §1) | *ènìyàn òtítọ́* ("a truthful person"); *ohun ojúlówó* ("a genuine thing") | Direct mapping; no copula in attributive position | None |
+| **ADNOM** | Juxtaposition: [HEAD NOUN] + [MODIFIER NOUN] (P4a §3) | *ẹ̀rí ojú* ("eyewitness evidence"); *ìwádìí òtítọ́* ("investigation of the truth") | Direct mapping; no genitive particle required | None |
+| **BECOME** | Inchoative: *di* + [NOUN/ADJ] (P4a §4) | *Ó di ènìyàn òtítọ́.* ("He/she became a truthful person."); *Ìgbàgbọ́ rẹ̀ di lágbára.* ("His/her belief became strong.") | Direct mapping via periphrastic *di* construction | None |
+| **REVELATION** | No dedicated construction documented in P4a/P4b | — | **SUBSTITUTED BY** instrumental causative *fi* + [NOUN] + [VERB PHRASE] in contexts of making something manifest (e.g., *Ìdánwò ló fi ìwà ẹni hàn.* "It is testing that causes a person's character to be revealed.") | Morphosyntactic gap: no dedicated revelation operator; the *fi* instrumental construction covers the revealing-of-hidden-truth function |
+| **CAUSATION (factual)** | Instrumental causative: *fi* + [INSTRUMENT NOUN] + [VERB PHRASE] (P4a §5) | *Wọ́n fi ìtànjẹ́ gbà owó rẹ̀.* ("They used deception to take his/her money.") | Direct mapping; *fi* construction expresses means-by-which causation | None for the instrumental sub-type; *mú...wá* and *jẹ́ kí* are documented in P4a but have no truth-domain examples |
+| **CAUSATION (character)** | Focus + instrumental causative: [FOCUSED ELEMENT] + *ló* + *fi* + [NOUN] + [VERB PHRASE] (P4a §5, §10) | *Ìdánwò ló fi ìwà ẹni hàn.* ("It is testing that causes a person's character to be revealed.") | **SUBSTITUTED BY** combination of focus construction (*ló*) and instrumental causative (*fi*); no single dedicated character-causation operator | Morphosyntactic gap: character causation is not a distinct construction; it is assembled from two independently attested patterns |
+| **VERIFICATION** | No dedicated construction documented in P4a/P4b | — | Partially covered by: (a) existential affirmation *wà* ("there is evidence that...": *Ẹ̀rí wà tó fi hàn pé...*); (b) epistemic complement *mọ̀ pé* + [CLAUSE] (*Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀.*); (c) agentive nominalization *ìfọwọ́sí* ("authentication") listed in P4a §6 as an attested nominalization but without a full constructional example | **NO COMMON EXPRESSION** — circumlocution required; the closest attested forms are the existential affirmation and the epistemic knowledge construction, neither of which is a dedicated verification operator |
+| **DISCONFIRMATION** | No dedicated construction documented in P4a/P4b | — | Covered by: (a) negative existential *kò sí* + [NOUN PHRASE] (*Kò sí ẹ̀rí tó tó.* "There is no sufficient evidence."); (b) negative attribution *kò jẹ́* + [EVALUATIVE NOUN] (*Kò jẹ́ ohun ojúlówó.* "It is not a genuine thing."); (c) negative propositional belief *kò gbàgbọ́ pé...* | **SUBSTITUTED BY** NEGATION constructions (see below); VERIFICATION and DISCONFIRMATION share the same constructional base (existential and attributive), differentiated only by the presence or absence of negation |
+| **NEGATION** | (a) Nominal predicate negation: *kò jẹ́* + [EVALUATIVE NOUN]; (b) Stative verbal negation: *kò* + [STATIVE VERB]; (c) Negative existential: *kò sí* + [NOUN PHRASE]; (d) Negative nominalization: *àì-* + [VERBAL BASE]; (e) Negative propositional: *kò gbàgbọ́ pé...* (P4a §2, §6, §8, §9) | *Kò jẹ́ ohun ojúlówó.*; *Ìdájọ́ náà kò tọ́.*; *Kò sí ẹ̀rí tó tó.*; *àìmọ̀* ("ignorance"); *kò gbàgbọ́ pé...* | Direct mapping; negation is **analytic** throughout — preverbal *kò* for verbal/stative predicates, *kò jẹ́* for nominal predicates, *kò sí* for existential denial, *àì-* prefix for nominalized forms | None; negation is structurally well-attested across multiple sub-types |
+| **NOMINALIZATION** | Prefixal nominalization: *ì-*, *ò-*, *ẹ̀-*, *à-* + [VERBAL BASE]; negative nominalization *àì-* + [VERBAL BASE]; agentive periphrastic *ènìyàn* + [NOUN]; lexicalized agentive *ẹlẹ́-* + [NOUN] (P4a §6, §7) | *ìmọ̀* ("knowledge"); *òtítọ́* ("truth"); *ẹ̀rí* ("evidence"); *àṣìṣe* ("error"); *àìmọ̀* ("ignorance"); *ẹlẹ́rìí* ("witness"); *ènìyàn irọ́* ("liar") | Direct mapping; nominalization is the primary derivational process in the domain | None for the core process; the *à-* prefix is rated [MARGINAL] in P4b with limited domain attestation |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by the instrumental causative *fi*
+
+No dedicated REVELATION construction is documented in P4a or P4b. The function of making a hidden truth or quality manifest is expressed through the instrumental causative *fi* + [NOUN] + [VERB PHRASE], specifically with the verb *hàn* ("to show, to be revealed"). The example *Ìdánwò ló fi ìwà ẹni hàn* ("It is testing that causes a person's character to be revealed") shows this pattern: the instrument (*ìdánwò*, "testing") is the means by which the character (*ìwà*) is brought into visibility. The revealing is not encoded as a distinct semantic operator but as a sub-case of instrumental causation. REVELATION is therefore not absent from the language's expressive repertoire, but it is not structurally distinguished from CAUSATION (factual); both use the same *fi* construction.
+
+### 2.2 CAUSATION (character) assembled from two independent patterns
+
+CAUSATION (character) — the assertion that a quality or process is the cause of a character-related outcome — is not a single dedicated construction. P4a documents it as a combination of the focus construction (*ló*) and the instrumental causative (*fi*). The focus element (*ìdánwò*, "testing") is fronted and marked with *ló*, and the instrumental *fi* then introduces the means-to-outcome chain. Neither the focus construction nor the *fi* construction is specific to character causation; both are independently productive across the domain. The character-causation reading emerges from the combination and from the lexical content of the focused element, not from a dedicated morphosyntactic operator.
+
+### 2.3 VERIFICATION and DISCONFIRMATION share the same constructional base
+
+P4a and P4b document no dedicated VERIFICATION construction. The closest attested forms are:
+- The existential affirmation *wà* (*Ẹ̀rí wà tó fi hàn pé...* "There is evidence that shows that..."), which asserts the presence of supporting evidence but does not encode a verification act as such.
+- The epistemic knowledge construction *mọ̀ pé* + [CLAUSE] (*Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀.* "I know for certain that it happened."), which asserts epistemic certainty but is not structurally a verification operator.
+- The nominalization *ìfọwọ́sí* ("authentication") is listed in P4a §6 as an attested form but no constructional example is provided; it appears as a lexical item rather than a productive construction in the data.
+
+DISCONFIRMATION is expressed through the negation constructions: *kò sí* (negative existential), *kò jẹ́* (nominal predicate negation), and *kò gbàgbọ́ pé* (negative propositional belief). These are the same constructions used for NEGATION generally. VERIFICATION and DISCONFIRMATION are therefore not a matched pair of dedicated operators; DISCONFIRMATION is handled by NEGATION, and VERIFICATION has no direct structural equivalent.
+
+### 2.4 Negation is consistently analytic
+
+Across all sub-types documented in P4a and P4b, negation in the truth domain is analytic rather than morphological at the clausal level. The preverbal particle *kò* handles verbal and stative predicate negation; the sequence *kò jẹ́* handles nominal predicate negation; *kò sí* handles existential denial. The only morphological negation is the prefix *àì-* on nominalized forms (*àìmọ̀*, *àìgbàgbọ́*, *àìgbẹ́kẹ̀lé*), which operates at the word level within the nominalization system rather than at the clausal level. There is no morphological sentential negation.
+
+### 2.5 Asymmetry between positive and negative forms in VERIFICATION
+
+A directional asymmetry is observable in the data: the negative side of VERIFICATION (i.e., DISCONFIRMATION) is more structurally explicit than the positive side. Multiple constructions are attested for denying truth, evidence, or authenticity (*kò sí*, *kò jẹ́*, *kò tọ́*, *àì-* nominalization), while the positive assertion of verified truth relies on the existential *wà* or the epistemic *mọ̀ pé*, neither of which is a dedicated verification operator. This asymmetry is a pattern in the data, not an interpretation of its cause.
+
+### 2.6 The focus construction (*ló*) as a cross-domain intensifier
+
+The focus construction [FOCUSED ELEMENT] + *ló* + [PREDICATE] is documented in P4a §10 as pervasive in proverbial and moral discourse. It is not a dedicated truth-domain operator but functions across the domain to assert the primacy or causal role of truth (*òtítọ́*), knowledge (*ìmọ̀*), good character (*ìwà rere*), and testing (*ìdánwò*). It combines with the instrumental causative (Pattern 5) and with simple predication. It does not substitute for any single CLCA operator but amplifies the assertive force of whichever construction it combines with.
+
+### 2.7 Light verb behavior
+
+In the propositional belief construction, *ní* ("have") in *ní ìgbàgbọ́ pé* functions as a light verb carrying the epistemic operator, with *ìgbàgbọ́* ("belief") as the semantic head. Similarly, *fi* in the instrumental causative functions as a light verb introducing the instrument, with the following noun carrying the semantic content. In both cases the light verb is the syntactic carrier and the nominal is the semantic operator. This is consistent with Yoruba's isolating-analytic profile noted in P4a.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps (morphosyntactic constructions absent)
+
+- **REVELATION**: No dedicated revelation construction exists. The function is covered by the instrumental causative *fi* + *hàn*, which is a sub-case of CAUSATION (factual). The gap is morphosyntactic: there is no operator that specifically encodes the transition from hidden to manifest truth as distinct from general instrumental causation.
+- **VERIFICATION (as a dedicated operator)**: No single construction encodes the act of checking, confirming, or establishing the truth of a proposition. The nominalization *ìfọwọ́sí* ("authentication") is attested as a lexical item in P4a §6 but no productive constructional pattern is documented around it. The existential *wà* and epistemic *mọ̀ pé* cover adjacent territory but are not verification operators.
+- **CAUSATION (character) as a distinct construction**: Character causation is assembled from the focus construction and the instrumental causative; it is not a structurally distinct pattern.
+
+### 3.2 Lexical Gaps (missing words or lexicalized forms)
+
+- No single lexicalized word for "liar" functioning as a simple noun is documented; the periphrastic *ènìyàn irọ́* is the attested form. This is a lexical gap relative to languages with a single agentive nominal.
+- No productive agentive suffix covering the full truth-domain agent class is documented; P4a §7 explicitly states this. The contracted *ẹlẹ́-* form is lexicalized only for *ẹlẹ́rìí* ("witness").
+- The *à-* nominalization prefix has only one attested truth-domain form (*àṣìṣe*, "error/wrongdoing"); its productivity within the domain is not established, representing a potential lexical gap for resultant-state nominals.
+
+### 3.3 Conceptual Gaps (operations that appear blocked or unattested)
+
+- No evidence in P4a or P4b of a construction that encodes **degree of truth** (e.g., "more true," "partially true"). No comparative or scalar truth-modification construction is documented.
+- No evidence of a construction encoding **source attribution of testimony** beyond the agentive *ẹlẹ́rìí* ("witness") and the adnominal *ẹ̀rí ojú* ("eyewitness evidence"). A construction meaning "according to X" or "X reports that" is not documented.
+- The causative sub-patterns *mú...wá* and *jẹ́ kí* are listed in P4a §5 but have no truth-domain examples; whether they are conceptually available for truth-domain causation or simply unattested in the data cannot be determined from P4a/P4b alone.
+
+### 3.4 Asymmetric Gaps (only one polarity attested)
+
+- **VERIFICATION positive / DISCONFIRMATION negative asymmetry**: As noted in §2.5, the negative side (DISCONFIRMATION via *kò sí*, *kò jẹ́*, *kò tọ́*) is structurally more explicit and multiply attested than the positive side (VERIFICATION). The positive existential *wà* is attested but is not a dedicated verification operator.
+- **Negative nominalization (*àì-*) vs. positive nominalization**: The *àì-* prefix productively generates negative abstract nominals (*àìmọ̀*, *àìgbàgbọ́*, *àìgbẹ́kẹ̀lé*), but no corresponding positive-intensifying nominalization prefix is documented. The asymmetry is morphological: negation has a dedicated prefix; positive intensification does not.
+- **Agentive forms**: *ẹlẹ́rìí* ("witness") has a lexicalized contracted form; no equivalent contracted agentive form is documented for "liar," "deceiver," or "truth-teller." The asymmetry favors the witness/evidence side of the domain over the deception/falsity side in terms of lexicalization.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | Post-nominal attributive [NOUN] + [EVALUATIVE NOUN/ADJ] is productive and core (P4a §1, P4b §1) |
+| **ADNOM** | **Fully available** | Juxtaposition [HEAD NOUN] + [MODIFIER NOUN] is the primary nominal compounding strategy; productive and core (P4a §3, P4b §3) |
+| **BECOME** | **Fully available** | *di* + [NOUN/ADJ] is the standard inchoative; periphrastic but productive and core (P4a §4, P4b §4) |
+| **REVELATION** | **Available with substitution** | Expressed via instrumental causative *fi* + *hàn*; not a dedicated operator; SUBSTITUTED BY CAUSATION (factual) construction |
+| **CAUSATION (factual)** | **Fully available** | Instrumental causative *fi* + [INSTRUMENT NOUN] + [VERB PHRASE] is productive and core in the truth domain (P4a §5, P4b §5); *mú...wá* and *jẹ́ kí* are documented but lack truth-domain examples |
+| **CAUSATION (character)** | **Available with substitution** | Expressed by combining focus construction (*ló*) with instrumental causative (*fi*); not a structurally distinct operator; SUBSTITUTED BY focus + instrumental causative combination |
+| **VERIFICATION** | **Partially available** | Adjacent coverage via existential *wà* and epistemic *mọ̀ pé*; lexical item *ìfọwọ́sí* attested without productive construction; NO COMMON EXPRESSION as a dedicated operator — circumlocution required |
+| **DISCONFIRMATION** | **Available with substitution** | Expressed through NEGATION constructions (*kò sí*, *kò jẹ́*, *kò tọ́*, *kò gbàgbọ́ pé*); SUBSTITUTED BY NEGATION; no dedicated disconfirmation operator distinct from negation |
+| **NEGATION** | **Fully available** | Multiple analytic sub-types attested: preverbal *kò* (stative verbal), *kò jẹ́* (nominal predicate), *kò sí* (existential), *àì-* (nominalized forms), *kò gbàgbọ́ pé* (propositional); structurally well-differentiated (P4a §2, §6, §8, §9) |
+| **NOMINALIZATION** | **Fully available** | Prefixal nominalization (*ì-*, *ò-*, *ẹ̀-*) is productive and core; *àì-* negative nominalization is productive; agentive periphrastic *ènìyàn* + [NOUN] is core; *ẹlẹ́-* contraction is marginal/lexicalized (P4a §6, §7) |
+
+---
+
+*End of I1 output. All examples are drawn directly from P4a and P4b. No constructions, examples, or interpretive categories have been introduced beyond those documented in the source steps.*

@@ -1,0 +1,151 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Swahili (sw)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: Copular NP + ni + TRUTH-TERM | *Habari hii ni kweli* "This news is true" | Direct match | None |
+| **ADNOM** | Construction 3: Associative NOUN + -a + TRUTH-TERM; Direct NOUN + TRUTH-TERM | *Mtu wa kweli* "Genuine person"; *Ushahidi madhubuti* "Reliable evidence" | Direct match (two strategies) | None |
+| **BECOME** | Construction 4: ROOT + -ik- + -a (stative); *kuwa* + TRUTH-TERM (periphrastic) | *Jambo limekamilika* "The matter has become complete"; *Amekuwa mwongo* "He/she has become a liar" | Direct match (two strategies) | None |
+| **REVELATION** | — | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | Construction 5: ROOT + -ish-/-sh- + -a (causative) | *Sahihisha maandishi* "Correct/verify the documents"; *Hakikisha ukweli* "Ensure/verify the truth" | Direct match | None |
+| **CAUSATION (character)** | Construction 5: ROOT + -ish-/-sh- + -a (causative) applied to character terms | *Amekuwa mwongo* (periphrastic become, not causative) | **NO DEDICATED CONSTRUCTION - uses BECOME instead** | Functional gap |
+| **VERIFICATION** | Construction 5: Causative forms (thibitisha, hakikisha, sahihisha); Construction 24: Instrumental kwa + ushahidi | *Ukweli umethibitishwa* "The truth has been confirmed"; *Thibitisha kwa ushahidi* "Confirm with evidence" | **SUBSTITUTED BY CAUSATION** | Functional substitution |
+| **DISCONFIRMATION** | Construction 2: Negative copular si + TRUTH-TERM; Negated causative forms | *Hii si kweli* "This is not true"; Implied negated verification forms | **SUBSTITUTED BY NEGATION + CAUSATION** | Functional substitution |
+| **NEGATION** | Construction 2: Negative copular si + TRUTH-TERM; Construction 16: Privative bila (ya) + TRUTH-TERM | *Hii si kweli* "This is not true"; *Bila ushahidi* "Without evidence" | Direct match (analytic) | None |
+| **NOMINALIZATION** | Construction 6: Abstract u- + ROOT; Construction 7: Agentive m-/wa- + ROOT (+ -ifu) | *Ukweli wa mambo* "The truth of the matter"; *Mwongo anasema uongo* "The liar tells lies" | Direct match (two types) | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 VERIFICATION as CAUSATION
+Swahili does not maintain a distinct VERIFICATION construction separate from CAUSATION. The causative suffix *-ish-* serves both functions:
+- **Factual causation**: *sahihisha* "make correct/verify", *hakikisha* "make certain/ensure"
+- **Verification**: *thibitisha* "confirm/verify", *sahihisha* "verify/correct"
+
+The same morphological pattern (ROOT + -ish- + -a) covers both "making something true" and "verifying that something is true." The passive forms (*thibitishwa*, *sahihishwa*) are particularly common in verification contexts, as shown in Construction 22.
+
+Construction 24 (instrumental *kwa* + evidence term) provides an additional verification strategy by specifying the means of confirmation, but this is a manner specification rather than a dedicated verification operator.
+
+### 2.2 DISCONFIRMATION as NEGATION + CAUSATION
+Swahili lacks a dedicated DISCONFIRMATION construction. Instead, it employs:
+- **Simple negation** (Construction 2): *si kweli* "is not true"
+- **Negated causative/verification**: Implied forms like *haijathibitishwa* "has not been confirmed"
+
+The language does not have a specific morphological or syntactic pattern meaning "prove false" or "disconfirm" distinct from "negate" or "fail to verify."
+
+### 2.3 CAUSATION (character) as BECOME
+For character attribution (making someone a liar, making someone truthful), Swahili strongly prefers the BECOME construction over causative morphology:
+- **Attested**: *Amekuwa mwongo* "He/she has become a liar" (Construction 4)
+- **Not attested**: A causative form meaning "make (someone) a liar"
+
+This represents a functional gap where BECOME substitutes for character-oriented CAUSATION. The causative suffix *-ish-* applies productively to factual/state changes but not to character transformation.
+
+### 2.4 REVELATION Gap
+No construction in P4a or P4b corresponds to REVELATION (becoming known, coming to light, being discovered). The language has:
+- **BECOME constructions** for state change (*kamilika* "become complete")
+- **Passive constructions** for actions done to truth-terms (*thibitishwa* "be confirmed")
+- **No dedicated pattern** for truth emerging or being revealed
+
+This appears to be a structural gap. While circumlocution is possible (e.g., *ukweli umejulikana* "the truth has become known" using the stative form of *jua* "know"), this is not a conventionalized construction in the truth domain.
+
+### 2.5 Negation Strategy: Analytic
+Swahili negation is consistently analytic in the truth domain:
+- **Copular negation**: Separate negative copula *si* (Construction 2)
+- **Verbal negation**: Negative prefixes on verbs (*ha-*, *si-*) but not incorporated into truth-terms
+- **Privative**: Separate preposition *bila* (Construction 16)
+
+No morphological negation attaches directly to truth-terms themselves (no *un-true* equivalent).
+
+### 2.6 Asymmetries
+**Truth vs. Falsity**: The constructions apply symmetrically to both positive truth-terms (*kweli*, *sahihi*, *ukweli*) and negative ones (*uongo*, *bandia*). No structural asymmetry observed.
+
+**Positive vs. Negative Forms**: All major constructions (attribution, adnominal, causative, nominalization) work equally in affirmative and negative polarity.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+- **REVELATION**: No construction for "X becomes known/revealed/discovered." The language lacks a dedicated pattern for truth emerging or coming to light. Circumlocution possible but not conventionalized.
+
+### 3.2 Functional Gaps (Substitution Required)
+- **CAUSATION (character)**: No causative construction for character transformation ("make someone a liar"). **SUBSTITUTED BY BECOME** (*kuwa mwongo*).
+- **VERIFICATION**: No distinct verification construction. **SUBSTITUTED BY CAUSATION** (causative suffix *-ish-* serves both functions).
+- **DISCONFIRMATION**: No dedicated disconfirmation construction. **SUBSTITUTED BY NEGATION + CAUSATION** (negative copula or negated verification forms).
+
+### 3.3 Lexical Gaps
+None identified. The language has rich lexical resources for truth-domain concepts (multiple terms for truth, falsity, correctness, genuineness, etc.).
+
+### 3.4 Conceptual Gaps
+None identified. All truth-domain concepts appear expressible, though some require substitution or circumlocution.
+
+### 3.5 Asymmetric Gaps
+None identified. Constructions apply symmetrically across:
+- Truth vs. falsity terms
+- Positive vs. negative polarity
+- Abstract vs. concrete reference
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+- **ATTR**: Copular construction (ni/si + TRUTH-TERM)
+- **ADNOM**: Associative and direct modification patterns
+- **BECOME**: Stative extension (-ik-) and periphrastic (*kuwa*) strategies
+- **CAUSATION (factual)**: Causative suffix (-ish-/-sh-)
+- **NEGATION**: Analytic negation (negative copula *si*, privative *bila*)
+- **NOMINALIZATION**: Abstract (u- prefix) and agentive (m-/wa- prefix) patterns
+
+### 4.2 Available with Substitution
+- **VERIFICATION**: Expressed through CAUSATION constructions (causative suffix *-ish-* in verification sense: *thibitisha*, *hakikisha*, *sahihisha*)
+- **DISCONFIRMATION**: Expressed through NEGATION + CAUSATION (negative copula or negated causative/verification forms)
+- **CAUSATION (character)**: Expressed through BECOME construction (*kuwa* + character term)
+
+### 4.3 Partially Available
+None. All expressible operators have clear constructional realizations, even if through substitution.
+
+### 4.4 Missing Entirely
+- **REVELATION**: No conventionalized construction for truth emerging, becoming known, or being discovered. Circumlocution possible (*ukweli umejulikana* "the truth has become known") but not a standard truth-domain construction pattern.
+
+---
+
+## 5. Additional Observations
+
+### 5.1 Multi-Functional Constructions
+Several constructions serve multiple CLCA operators:
+
+**Construction 5 (Causative)** serves:
+- CAUSATION (factual): *sahihisha* "make correct"
+- VERIFICATION: *thibitisha* "confirm/verify"
+
+**Construction 2 (Negative Copular)** serves:
+- NEGATION: *si kweli* "is not true"
+- DISCONFIRMATION (partial): *si sahihi* "is not correct"
+
+**Construction 4 (BECOME)** serves:
+- BECOME: *kamilika* "become complete"
+- CAUSATION (character): *kuwa mwongo* "become a liar"
+
+### 5.2 Construction Density
+Swahili shows high construction density in certain functional areas:
+- **Manner specification**: Multiple constructions (10, 24) for expressing how truth is told/verified
+- **Intensification**: Multiple strategies (9, 14, 18) for emphasizing truth-value
+- **Domain specification**: Productive pattern (19) for distinguishing truth types
+
+These do not map to canonical CLCA operators but represent language-specific elaborations of the truth domain.
+
+### 5.3 Morphological Productivity
+The causative suffix *-ish-* shows exceptional productivity across the truth domain, creating forms for:
+- Correction: *sahihisha*
+- Verification: *hakikisha*, *thibitisha*
+- Completion: *kamilisha*
+- Manifestation: *dhihirisha*
+- Clarification: *safisha* (metaphorical extension)
+
+This single morphological pattern carries much of the functional load for both CAUSATION and VERIFICATION operators.

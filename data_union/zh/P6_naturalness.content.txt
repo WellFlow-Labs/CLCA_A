@@ -1,0 +1,358 @@
+# CLCA Protocol v3.4 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+# Layer: P6_naturalness
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Chinese encodes dynamic truth-related meanings: processes by which something comes to be true/genuine/accurate, processes by which something ceases to be so, causative structures that bring about or undermine truth-related states, and resistance to change (stability). Chinese does not have a single dedicated morpheme for "become" or "cause to be"; dynamic meanings are expressed through a range of constructions including resultative complements, the suffix 化, the verb 成, aspect markers, and periphrastic causative frames. All vocabulary is drawn exclusively from the CONTEXT (P1–P5 and I1). Where a dynamic expression is not attested for a given term, this is stated explicitly. Absence is preserved as data.
+
+The analysis is organized by semantic type (becoming, ceasing, causing, resisting change) rather than by individual lexical item, since many items participate in more than one dynamic type. Cross-references to P4a/P4b constructions are provided where relevant.
+
+The primary resources available from the context for encoding dynamics are:
+
+- **Inchoative/change-of-state:** 变得 + adjective + 了; result-complement constructions (V + 成/为); the lexicalized 弄假成真; aspect marker 了; the 化 suffix
+- **Causative:** 使/让 + NP + predicate; verb + result-complement; 导致 (to lead to); 造成 (to cause/create); 将 + Object + 化-verb
+- **Stability/resistance:** 真金不怕火炼; 颠扑不破; 坚持; 经得起; 保持; 守
+- **Completion of a process:** 经过 + process noun; 真相大白; 坐实; 属实
+
+---
+
+## Section 1: Expressions of Becoming — X Enters a Truth-Related State
+
+### 1.1 真相大白 — The truth comes to light (inchoative: hidden truth becomes known)
+
+**Form:** 真相大白
+**Transliteration:** zhēnxiàng dàbái
+**Literal Breakdown:** true-state-of-affairs + become-fully-clear
+**English Translation:** The truth has come to light; the facts are now clear.
+**Structure:** 真相 (subject) + 大白 (resultative predicate: become fully clear/revealed)
+**Source:** P2b Construction 39; P4a Construction 9
+**Usage Notes:** This is the primary lexicalized inchoative in the domain. 大白 functions as a resultative complement expressing the transition from a state of concealment to a state of full revelation. The subject is always 真相; no parallel construction is attested with 事实 or 真实 as subject. The construction describes a change of state in the epistemic availability of truth, not in truth itself. The temporal frame 经过…后/终于 (after…finally) is the standard way to express the completion of the revelatory process. The 大白 component encodes both the completeness (大, greatly) and the clarity (白, clear/white) of the revelation.
+
+- **Example:** 经过长达三年的调查，案件真相终于大白。
+- **Transliteration:** Jīngguò cháng dá sān nián de diàochá, ànjiàn zhēnxiàng zhōngyú dàbái.
+- **Translation:** "After an investigation lasting three years, the truth of the case finally came to light."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.2 真相大白 vs. 真相不明 (dynamic contrast)
+
+**Form:** 真相不明 … 真相大白
+**Transliteration:** zhēnxiàng bù míng … zhēnxiàng dàbái
+**English Translation:** From epistemic uncertainty to epistemic clarity through an intervening process.
+**Structure:** 真相不明 (truth unclear) → 经过调查 (through investigation) → 真相大白 (truth comes to light)
+
+- **Example:** 事发初期真相不明，经过调查后真相大白。
+- **Transliteration:** Shì fā chūqī zhēnxiàng bù míng, jīngguò diàochá hòu zhēnxiàng dàbái.
+- **Translation:** "In the early stages after the incident, the truth was unclear; after investigation, the truth came to light."
+
+**Usage Notes:** This construction explicitly encodes the dynamic transition from epistemic uncertainty (真相不明) to epistemic clarity (真相大白) through an intervening process (经过调查, through investigation). Common in journalistic narrative of investigative processes.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.3 弄假成真 — Pretense becomes real (inchoative: false state transitions to genuine)
+
+**Form:** 弄假成真
+**Transliteration:** nòng jiǎ chéng zhēn
+**Literal Breakdown:** play-with/manipulate + false + become + true/genuine
+**English Translation:** What started as a pretense becomes real; fiction becomes fact.
+**Structure:** 弄假 (manipulate the false) + 成真 (become genuine); 成 is the inchoative marker
+**Source:** P1b Root 3a #11; P2b Construction 11; P4a Construction 4; P5 Opposition 25
+**Usage Notes:** The verb 成 encodes the transition from one state (假) to another (真). This is a lexicalized inchoative expressing an unintended or emergent process rather than a deliberate act. The direction of change is from false/pretend toward genuine, and the change is typically unintended or ironic. The construction is a fixed four-character expression (成语) and is not syntactically productive; no parallel forms (e.g., *弄真成假) are attested as standard expressions. No productive morphological inchoative exists for the 假→真 transition.
+
+- **Example:** 两人本是演戏，没想到弄假成真，真的相爱了。
+- **Transliteration:** Liǎng rén běn shì yǎnxì, méi xiǎngdào nòng jiǎ chéng zhēn, zhēn de xiāng'ài le.
+- **Translation:** "The two were only acting, but unexpectedly what started as pretense became real — they genuinely fell in love."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.4 假戏真做 — Fiction enacted as real (inchoative-performative: pretense is performed as genuine)
+
+**Form:** 假戏真做
+**Transliteration:** jiǎ xì zhēn zuò
+**Literal Breakdown:** false + drama/role + true/genuine + do/perform
+**English Translation:** To play a fake role as if it were real; to act out a fiction as though it were genuine.
+**Structure:** 假戏 (false drama) + 真做 (do/perform genuinely); 真 functions as an adverbial modifier on 做, indicating the manner of performance
+**Source:** P2b Construction 6; P4a Construction 4
+**Usage Notes:** Distinct from 弄假成真 in that the performative frame is maintained even as the execution becomes genuine. The transition here is in the mode of performance rather than in the ontological status of the thing itself. Also a fixed four-character expression; not a productive open construction.
+
+- **Example:** 假戏真做，竟然做成真的了。
+- **Transliteration:** Jiǎxì zhēn zuò, jìngrán zuò chéng zhēn de le.
+- **Translation:** "Playing a false role in earnest, it actually turned into the real thing."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.5 变得 + truth-domain adjective — Gradual becoming (periphrastic inchoative)
+
+**Form:** 变得 + [准确 / 可靠 / 客观 / 真实 / 诚实 / 正确]
+**Transliteration:** biàn de + [zhǔnquè / kěkào / kèguān / zhēnshí / chéngshí / zhèngquè]
+**English Translation:** to become [more accurate / more reliable / more objective / more truthful / more honest / correct]
+**Structure:** 变得 (become, change to) + gradable truth-domain adjective
+**Source:** P4a Construction 4; P4b
+**Usage Notes:** The periphrastic inchoative 变得 applies to gradable truth-domain adjectives. It is semantically natural with 准确 (accuracy can increase), 可靠 (reliability can improve), 客观 (objectivity can be cultivated), and 真实 (a representation can become more faithful). It is semantically odd with categorical 真/假, which do not readily admit of becoming in standard usage — one does not normally say 变得真 or 变得假 of an object or claim. The construction is productive but not restricted to this domain.
+
+Individual item behavior within this frame:
+
+- **失实 (shīshí):** 报道变得失实了。 (Bàodào biàn de shīshí le.) "The reporting has become inaccurate / has departed from the facts." Attested and natural. 失实 is a lexicalized negative compound encoding the change of state directly (失 = to lose/depart from; 实 = factual reality), so the inchoative meaning is already partially encoded in the item itself. The 变得…了 frame adds explicit marking of the transition. Common in journalistic and legal evaluative discourse. **[CORE]**
+
+- **失真 (shīzhēn):** 录音变得失真了。/ 历史记录变得失真了。 (Lùyīn biàn de shīzhēn le. / Lìshǐ jìlù biàn de shīzhēn le.) "The recording has become distorted." / "The historical record has become distorted." Attested and natural in both technical (audio/visual) and evaluative (historical, journalistic) contexts. Like 失实, the morphology of 失真 already encodes departure from a prior state (失 = to lose; 真 = genuineness/fidelity), making it particularly compatible with inchoative framing. **[CORE]**
+
+- **真实 (zhēnshí):** 这部电影变得越来越真实了。 (Zhè bù diànyǐng biàn de yuèláiyuè zhēnshí le.) "This film has become more and more realistic." Attested in aesthetic contexts (真实感, sense of realism). The inchoative frame with 真实 is less common than with 失实/失真 because 真实 describes a positive property that is typically asserted rather than acquired. The construction is more natural with a degree modifier (越来越, more and more) than as a bare change-of-state assertion. The bare form 变得真实了 is grammatical but infrequent. **[MARGINAL]**
+
+- **正确 (zhèngquè):** 他的判断变得正确了。 (Tā de pànduàn biàn de zhèngquè le.) "His judgment has become correct." Grammatically well-formed but pragmatically unusual. Correctness is typically evaluated as a static property of a statement or judgment at a given moment rather than as something that changes over time. The construction is more natural in contexts of learning or revision (e.g., after correction). Not a high-frequency pattern. **[MARGINAL]**
+
+- **可靠 (kěkào):** 这个消息来源变得可靠了。 (Zhège xiāoxi láiyuán biàn de kěkào le.) "This information source has become reliable." Grammatically well-formed and pragmatically plausible in contexts where a source's reliability has improved over time. Not a high-frequency pattern; reliability is more typically evaluated as a stable property. Attested in contexts of institutional development or reputation change. **[MARGINAL]**
+
+- **诚实 (chéngshí):** 他变得诚实了。 (Tā biàn de chéngshí le.) "He has become honest." Attested and natural in moral and narrative contexts describing character change. The inchoative frame is compatible with 诚实 because honesty is understood as a character trait that can be acquired or lost. Common in moral education and narrative discourse. **[CORE]**
+
+**Items with no attested inchoative form in this frame:**
+- **真理 (zhēnlǐ):** 变得真理了 is ungrammatical; 真理 is a noun denoting an abstract principle, not an adjectival property that can be acquired. No inchoative form exists.
+- **真相 (zhēnxiàng):** 变得真相了 is ungrammatical; 真相 is a noun. The relevant dynamic for 真相 is revelation or concealment (揭露真相, 掩盖真相), not change of state.
+- **虚假 (xūjiǎ):** 变得虚假了 is grammatically possible but rare; 虚假 is more typically used as a static attributive modifier in legal and regulatory contexts rather than as a predicate in inchoative constructions.
+- **错误 (cuòwù):** 变得错误了 is grammatically marginal; 错误 functions primarily as a noun (an error) or attributive adjective rather than as a predicate in inchoative constructions. The relevant dynamic is 犯错误 (to commit an error) rather than becoming erroneous.
+- **本质 (běnzhì), 实质 (shízhì):** These are nouns denoting abstract entities or states of affairs rather than properties that can be acquired or lost. No inchoative form attested.
+
+**Epistemic Status:** [CORE] (for the frame itself; individual items vary as noted above)
+
+---
+
+### 1.6 变成真的 — General periphrastic inchoative for becoming genuine
+
+**Form:** 变成真的
+**Transliteration:** biànchéng zhēn de
+**English Translation:** To become real; to turn into something genuine.
+**Structure:** 变成 (to become/turn into) + 真的
+**Usage Notes:** 变成 is a general-purpose inchoative verb in Chinese. This specific form is not attested as a fixed expression, but 变成 combines productively with 真的 as the general periphrastic frame for "become real/genuine." This is the open productive pattern where 弄假成真 is the fixed idiomatic one.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.7 成真 — Result-complement construction encoding change to a genuine state
+
+**Form:** 成真
+**Transliteration:** chéng zhēn
+**English Translation:** To become real/genuine; to come true.
+**Structure:** 成 (become, resultative complement) + 真 (genuine/real)
+**Usage Notes:** The result complement 成真 (become real/genuine) is productive and attested in everyday and literary discourse. It encodes the transition from a non-genuine to a genuine state. 成真 also appears in the fixed expression 梦想成真 (dreams come true), though this is outside the strict truth-evaluation domain.
+
+- **Example:** 假戏真做，竟然做成真的了。
+- **Transliteration:** Jiǎxì zhēn zuò, jìngrán zuò chéng zhēn de le.
+- **Translation:** "Playing a false role in earnest, it actually turned into the real thing."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.8 真的东西被做成假的了 — Result-complement construction encoding change to a false state
+
+**Form:** 真的东西被做成假的了
+**Transliteration:** zhēn de dōngxi bèi zuò chéng jiǎ de le
+**English Translation:** The genuine item has been made into a fake.
+**Structure:** 被 (passive marker) + 做成 (made into) + 假的 (fake); the passive 被 frame is natural because the change is typically caused by an external agent.
+**Usage Notes:** Grammatically well-formed and attested in contexts of counterfeiting and falsification. Less common as a spontaneous change-of-state construction.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.9 失实了 / 失真了 — Aspect marker 了 with lexicalized change-of-state compounds
+
+**Form:** 失实了 / 失真了
+**Transliteration:** shīshí le / shīzhēn le
+**English Translation:** has become inaccurate / has departed from the facts; has become distorted / has lost fidelity
+**Structure:** Lexicalized change-of-state compound + 了 (completion aspect marker)
+**Usage Notes:** Several items from the context encode change of state directly in their morphology (失 = to lose/depart from), making them inherently inchoative when used as predicates with 了. 失实了 marks the completion of the departure from factual accuracy; 失真了 marks the completion of the departure from fidelity. These are the most natural and frequent inchoative expressions in the domain because the change of state is lexically encoded rather than syntactically constructed.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.10 落实 — Plans/commitments become concrete (inchoative: nominal becomes actual)
+
+**Form:** 落实
+**Transliteration:** luòshí
+**Literal Breakdown:** fall/land + solid/real
+**English Translation:** to be implemented, to be put into effect, to follow through
+**Structure:** Verb; the 实 component encodes the transition from a planned or nominal state to an actual, concrete one
+**Source:** P1b Root 2 #16; P3 (ungrouped items)
+**Usage Notes:** 落实 encodes a specific type of becoming: the transition from a plan, policy, or commitment that exists only nominally to one that is concretely realized. The contrast is not with falsity but with unexecuted plans. Common in administrative and political discourse: 政策落实了 (the policy has been implemented). This is a domain-specific inchoative for the 实 root in its administrative register.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.11 实现 — Goals/potentials become actual (inchoative: potential becomes real)
+
+**Form:** 实现
+**Transliteration:** shíxiàn
+**Literal Breakdown:** solid/real + appear/manifest
+**English Translation:** to realize, to achieve, to actualize
+**Structure:** Verb; encodes the transition from potential or planned to actual
+**Source:** P1b Root 2 #4
+**Usage Notes:** 实现 encodes the becoming-actual of something previously only potential or planned: 梦想实现了 (the dream has been realized). The 实 component contributes the sense of becoming concretely real. Distinct from 落实 in that 实现 applies to goals and aspirations, while 落实 applies to policies and commitments. Both encode a transition from nominal/potential to actual.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.12 属实 — A claim becomes confirmed as true (inchoative: unverified becomes verified)
+
+**Form:** 经查属实 / 情况属实 / 经调查，举报内容属实
+**Transliteration:** jīng chá shǔshí / qíngkuàng shǔshí / jīng diàochá, jǔbào nèiróng shǔshí
+**Literal Breakdown:** after investigation + belong-to/be + real; situation + belong-to/be + real
+**English Translation:** verified upon investigation; the situation is confirmed as true; following investigation, the content of the report has been confirmed as accurate
+**Structure:** 属实 functions as a resultative predicate; 经查/经调查 (after investigation) introduces the process that produces the result
+**Source:** P1b Root 2 #23; P1b Root 2 item 26; P3 Group 2
+**Usage Notes:** 属实 describes the outcome of a verification process: a claim transitions from unverified to confirmed-as-true. The construction 经查属实 makes the process explicit. This is a formal/legal inchoative expressing the epistemic transition from uncertain to verified. The prepositional frame 经…(调查/核实/鉴定) (following/through investigation/verification/appraisal) is the standard way to express the completion of a verification process that results in the establishment of a truth-related state. 属实 encodes the completed outcome. No parallel construction for the opposite transition (verified → disconfirmed) is attested in the CONTEXT using 属实.
+
+- **Example:** 经调查，举报内容属实。
+- **Transliteration:** Jīng diàochá, jǔbào nèiróng shǔshí.
+- **Translation:** "Following investigation, the content of the report has been confirmed as accurate."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.13 合法化 — Becoming lawful (inchoative: unlawful or informal becomes lawful)
+
+**Form:** 合法化
+**Transliteration:** héfǎhuà
+**English Translation:** To legalize; to become lawful; legalization.
+**Structure:** 合法 + 化 (suffix); the 化 suffix encodes both "to become lawful" (intransitive) and "to make lawful" (transitive/causative); the two readings are not morphologically distinguished
+**Source:** P2a item 10; P4a Construction 4
+**Usage Notes:** Documented as [CORE] and as the primary attested inchoative in this domain using the 化 suffix. Common in political, legal, and social discourse ("大麻合法化" — legalization of cannabis). This is the most fully lexicalized inchoative in the truth-domain vocabulary of the CONTEXT. The causative reading is also attested: see Section 3.4 below.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.14 真实化 — Becoming realistic (inchoative: aesthetic/media contexts)
+
+**Form:** 真实化
+**Transliteration:** zhēnshíhuà
+**English Translation:** To make realistic; to render authentic; to bring closer to reality.
+**Structure:** 真实 + 化 (suffix)
+**Source:** P2a item 2
+**Usage Notes:** Documented as [MARGINAL]. The 化 suffix encodes a process of becoming or making more 真实. Restricted to aesthetic and media contexts ("角色真实化" — making characters more realistic). Not a general inchoative for "becoming true."
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### 1.15 现实化 — Becoming realistic / actualizing (inchoative: formal/analytical contexts)
+
+**Form:** 现实化
+**Transliteration:** xiànshíhuà
+**English Translation:** To realize; to make real; to actualize; to become realistic.
+**Structure:** 现实 + 化 (suffix)
+**Source:** P2a item 18
+**Usage Notes:** Documented as [MARGINAL]. Used to describe the process of bringing something from possibility into actual existence ("将目标现实化" — to actualize a goal). Less common than 实现 (shíxiàn), which is the standard term for "to realize/achieve." Attested in formal and analytical contexts.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### 1.16 道德化 — Becoming moralized (inchoative/causative: social/critical contexts)
+
+**Form:** 道德化
+**Transliteration:** dàodéhuà
+**English Translation:** To moralize; to make moral; moralization.
+**Structure:** 道德 + 化 (suffix)
+**Source:** P2a item 12
+**Usage Notes:** Documented as [CORE]. Describes the process of framing something in moral terms or imposing moral standards on a domain ("将问题道德化" — to moralize an issue). Carries a somewhat critical connotation in contemporary usage, suggesting inappropriate or excessive application of moral judgment. This is therefore an inchoative with an evaluative valence rather than a neutral process description. The causative reading is also attested: see Section 3.5 below.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.17 正确化 — No attested form
+
+**Form:** (none attested)
+**Notes:** The CONTEXT does not attest a fixed or common construction for "X becomes correct." The concept is typically expressed through correction constructions (纠正错误 — to correct an error) rather than through an inchoative frame applied to 正确 itself. The form *正确化 is not attested in the CONTEXT.
+
+---
+
+## Section 2: Expressions of Ceasing — X Exits a Truth-Related State
+
+### 2.1 失真 — A representation loses fidelity (privative: genuine becomes distorted)
+
+**Form:** 失真 / 报道失真 / 信号失真 / 图像失真
+**Transliteration:** shīzhēn / bàodào shīzhēn / xìnhào shīzhēn / túxiàng shīzhēn
+**Literal Breakdown:** lose + true/genuine
+**English Translation:** to become distorted; the report becomes inaccurate; the signal becomes distorted; the image loses fidelity
+**Structure:** 失 (lose, privative prefix-like element) + 真 (genuine/true); the compound encodes the loss of a truth-related property
+**Source:** P1 #17; P2b Constructions 59–61; P4a; P5 Oppositions 30–31
+**Usage Notes:** 失真 is the primary privative expression in the domain, encoding the transition from a state of fidelity to a state of distortion. It applies to representations (reports, accounts), signals (audio, image), and depictions. The subject undergoes the change: 报道失真 (the report has become distorted), 信号失真 (the signal has become distorted). The process may be gradual (measured by 失真度) or abrupt. No agentive subject is required; the construction is compatible with both agentless and agentive readings. The morpheme 失 (to lose, to depart from) encodes the transition from a truth-related state into its absence; this is the most grammaticalized change-of-state pattern in the truth domain.
+
+- **Example:** 信号在传输过程中失真了。
+- **Transliteration:** Xìnhào zài chuánshū guòchéng zhōng shīzhēn le.
+- **Translation:** "The signal became distorted during transmission."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.2 失实 — A report loses factual correspondence (privative: accurate becomes inaccurate)
+
+**Form:** 失实 / 报道失实 / 内容失实 / 严重失实
+**Transliteration:** shīshí / bàodào shīshí / nèiróng shīshí / yánzhòng shīshí
+**Literal Breakdown:** lose + fact/reality
+**English Translation:** to become inaccurate; the report misrepresents the facts; seriously inaccurate
+**Structure:** 失 (lose) + 实 (fact/reality); parallel to 失真 but applied specifically to factual correspondence of statements and reports
+**Source:** P1 #29; P2b Constructions 84–86; P5 Opposition 3
+**Usage Notes:** 失实 encodes the loss of factual correspondence in a statement or report. Unlike 失真, it does not extend to technical signal distortion. The degree modifier 严重 (serious) is attested (严重失实), indicating that the privative state admits of degree. The construction does not require deliberate intent; 失实 may be inadvertent, distinguishing it from 虚假 (which implies deliberate deception). The morpheme 失 encodes departure from 实 (factual reality).
+
+- **Example:** 事件经过多次转述后严重失实。
+- **Transliteration:** Shìjiàn jīngguò duō cì zhuǎnshù hòu yánzhòng shīshí.
+- **Translation:** "After being retold multiple times, the account of the event became seriously inaccurate."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.3 弄虚作假 — Genuine conduct becomes falsified (privative-agentive: honest practice becomes fraudulent)
+
+**Form:** 弄虚作假
+**Transliteration:** nòng xū zuò jiǎ
+**Literal Breakdown:** manipulate + empty/hollow + make + false
+**English Translation:** to engage in fraud and falsification; to turn honest practice into deception
+**Structure:** Fixed four-character expression; encodes the deliberate introduction of falsity into what should be genuine conduct
+**Source:** P1 #23; P2b Constructions 90–91; P3 Group 7; P4a Construction 8
+**Usage Notes:** Unlike 失真 and 失实, which describe a loss of truth-related properties without necessarily implying agency, 弄虚作假 is inherently agentive and deliberate. It describes the active transformation of conduct from genuine to fraudulent. The prohibitive construction (严禁弄虚作假) presupposes that the transition is avoidable and subject to normative control.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.4 造假 / 作假 — Data or records become falsified (privative-agentive: genuine becomes fabricated)
+
+**Form:** 造假 / 作假 / 数据造假 / 账目作假
+**Transliteration:** zào jiǎ / zuò jiǎ / shùjù zào jiǎ / zhàngmù zuò jiǎ
+**Literal Breakdown:** make/manufacture + false; do/engage-in + false
+**English Translation:** to fabricate; to falsify; data fabrication; falsifying accounts
+**Structure:** Verb + 假; the object (data, accounts) undergoes the transition from genuine to falsified
+**Source:** P2b Constructions 11, 13; P3 Group 7
+**Usage Notes:** 造假 and 作假 both encode the agentive transformation of genuine records or data into false ones. 造假 emphasizes manufacture (creating something false from scratch); 作假 emphasizes procedural falsification (manipulating existing records). Both are inherently agentive. The subject of the change is the data or record, not the agent.
+
+- **Example:** 数据造假导致研究结论严重失实。
+- **Transliteration:** Shùjù zàojiǎ dǎozhì yánjiū jiélùn yánzhòng shīshí.
+- **Translation:** "Data fabrication caused the research conclusions to become seriously inaccurate."
+
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.5 掺假 — Genuine goods become adulterated (privative: pure becomes mixed with false)
+
+**Form:** 掺假 / 食品掺假
+**Transliteration:** chān jiǎ / shípǐn chān jiǎ
+**Literal Breakdown:** mix-in/adulterate + false
+**English Translation:** to adulterate; to mix in fake or inferior material; food adulteration
+**Structure:** 掺 (to mix in) + 假 (false/fake); encodes the introduction of inauthentic material into genuine goods
+**Source:** P2b Construction 12; P3 Group 3
+**Usage Notes:** 掺假 encodes a specific type of privative change: genuine goods lose their purity by having false or inferior material mixed in. The result is a hybrid state rather than complete falsification. This distinguishes it from 造假 (complete fabrication) and 假冒 (complete substitution).
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.6 脱离实际 / 脱离现实

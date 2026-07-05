@@ -1,0 +1,112 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tamil (ta)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (a) Predicative bare nominal, zero copula; (b) Predicative bare nominal + emphatic *-tāṉ*; (c) *-āna* prenominal adjectival modifier | *atu uṇmai* ("that is true"); *atu uṇmaitāṉ* ("that is indeed true"); *uṇmaiyāna ceytī* ("a true news report") | No substitution required; all three sub-patterns are [CORE] | None |
+| **ADNOM** | (a) *-āna* adjectival prenominal; (b) Bare nominal prenominal; (c) Genitive *-iṉ* construction; (d) Juxtaposition compound | *uṇmaiyāna taka'l* ("true information"); *pōli āvaṇam* ("forged document"); *āvaṇattiṉ uṇmaitaṉmai* ("the authenticity of the document"); *maṉat tūymai* ("purity of mind") | No substitution required; choice among sub-patterns is lexically and register-conditioned | None |
+| **BECOME** | (a) *-āka āku* + completive *viṭu* (general change of state); (b) *veḷippaṭu* collocation (truth-specific revelation-inchoative); (c) *teriya varu* (come to be known) | *atu uṇmaiyākiviṭṭatu* ("that has become true"); *uṇmai veḷippaṭṭatu* ("the truth came to light"); *uṇmai teriya vantatu* ("the truth became known") | REVELATION partially substitutes for BECOME in the truth-specific domain (see §2) | None for general BECOME; see REVELATION row for domain-specific pattern |
+| **REVELATION** | (a) *veḷippaṭu* collocation (most conventionalized); (b) *teriya varu* construction; (c) Intransitive *uṇmai veḷiyē vantatu* | *uṇmai veḷippaṭṭatu* ("the truth came out"); *uṇmai teriya vantatu* ("the truth became known"); *uṇmai veḷiyē vantatu* ("the truth emerged") | Operates as the primary realization of BECOME in the truth-specific domain; not a full substitute for general BECOME | None |
+| **CAUSATION (factual)** | (a) Morphological causative *mey* + *-ppi-* → *meyppiкka*; (b) Periphrastic *nilaināṭṭu*; (c) Lexical *niṟuvu* / *nirūpikku*; (d) *-paṭuttu* morphological causative on *ātāram* | *atai meyppiкka muṭiyavillai* ("it could not be proved"); *uṇmaiyai nilaināṭṭiṉār* ("established the truth"); *uṇmai niṟuvu* ("establish the truth"); *ātārappaṭuttu* ("substantiate") | No single construction covers the full operator; periphrastic constructions carry the primary load | Partial morphosyntactic gap: morphological causative via *-ppi-* is available only from *mey*, not from *uṇmai* (see §3) |
+| **CAUSATION (character)** | (a) *-paṭuttu* causative on *uṇmai* (*uṇmaippaṭuttu*); (b) Light verb constructions (*niyāyam cey*, *tavaṟu tiruttu*) | *uṇmaippaṭuttutal* ("authentication, substantiation"); *ātāratai uṇmaippaṭuttu* ("authenticate the evidence") | *-paṭuttu* causative partially covers this; light verb constructions fill remaining cases | Partial morphosyntactic gap: *-paṭuttu* on *uṇmai* is [MARGINAL] and restricted to administrative/formal contexts; not productive across the full truth-domain vocabulary |
+| **VERIFICATION** | (a) *meyppiкka* (morphological causative, prove); (b) *nilaināṭṭu* (establish); (c) *nirūpikku* (prove); (d) *ātārappaṭuttu* (substantiate); (e) *uṟutippaṭuttu* (confirm/certify) | *atai meyppiкka muṭiyavillai* ("could not be proved"); *uṇmaiyai nilaināṭṭiṉār* ("established the truth"); *ātārappaṭuttu* ("substantiate") | No single dedicated construction; VERIFICATION is distributed across multiple periphrastic and morphological forms | Lexical gap: no single lexicalized item covers the full VERIFICATION operator |
+| **DISCONFIRMATION** | (a) Negative existential predicate *illai*; (b) *-illāta* negative participial prenominal; (c) *-aṟṟa* privative participial prenominal | *atu poyyillai* ("that is not a lie"); *ātāramaṟṟa kuṟṟaccāṭṭu* ("a baseless accusation"); *nērmaiyillāta maṉitaṉ* ("a person lacking honesty") | NEGATION constructions (see below) partially overlap with DISCONFIRMATION; the two are not fully distinct in the data (see §2) | None for basic DISCONFIRMATION; see §2 for overlap with NEGATION |
+| **NEGATION** | (a) Nominal + *illai* (predicative negation); (b) *-illāta* participial (attributive); (c) *-aṟṟa* privative participial (attributive); (d) *iṉmai* nominal (*nērmayiṉmai*, absence of honesty) | *atu poyyillai* ("that is not a lie"); *nērmaiyillāta maṉitaṉ* ("a person lacking honesty"); *ātāramaṟṟa vatanti* ("an unsubstantiated rumor") | Analytic (periphrastic) for predicative negation; morphological for attributive negation (two distinct suffixes, register-differentiated) | None; both analytic and morphological strategies are [CORE] |
+| **NOMINALIZATION** | (a) *-mai* abstract nominalizer; (b) *taṉmai* compound; (c) *-ikkai* suffix (*nampikkai*); (d) *-akam* suffix (*nampakam*); (e) *-tal* verbal nominalization (*uṇmaippaṭuttutal*) | *poymai* ("falsehood"); *uṇmaitaṉmai* ("truthfulness"); *nampikkai* ("trust/belief"); *nampakam* ("credibility"); *uṇmaippaṭuttutal* ("authentication") | No substitution required; multiple nominalizing strategies coexist | *taṉmai* compounds are [MARGINAL] in everyday use; *-mai* forms are [CORE] |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME in the truth-specific domain
+
+The general BECOME operator in Tamil is expressed by the *-āka āku* construction (*uṇmaiyākiviṭṭatu*, "that has become true"), which is available and [CORE]. However, within the truth domain specifically, the most conventionalized and idiomatic realization of the inchoative is not *āku* but the revelation-oriented constructions *veḷippaṭu* and *teriya varu*. The P4b data explicitly marks *uṇmai veḷippaṭṭatu* as the most conventionalized form for "truth coming to light" and notes that *-āka āku* is "available but marked [MARGINAL] for this domain." This means that while BECOME is not absent, the language systematically prefers REVELATION constructions when the subject is a truth-domain nominal. The two constructions are not interchangeable: *teriya varu* is restricted to the revelation-of-hidden-truth pattern (truth moving from concealment to visibility), while *āku* expresses a general change of state. REVELATION is therefore not a full substitute for BECOME but is the preferred realization of BECOME when the semantic content involves truth emerging from concealment.
+
+### 2.2 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION (proving, establishing, authenticating) and DISCONFIRMATION (negating, denying, showing absence) are expressed through structurally distinct constructions. VERIFICATION uses causative and establishing constructions (*meyppiкka*, *nilaināṭṭu*, *nirūpikku*, *ātārappaṭuttu*), all of which are transitive and take the truth-domain nominal as object. DISCONFIRMATION uses the negative existential *illai* for predicative negation and the participial suffixes *-illāta* and *-aṟṟa* for attributive negation. There is no single construction that serves both functions. The two operators are formally and functionally distinct in Tamil.
+
+### 2.3 DISCONFIRMATION and NEGATION overlap but are not identical
+
+The P4a and P4b data present DISCONFIRMATION and NEGATION as closely related. The negative existential *illai* (*atu poyyillai*, "that is not a lie") functions as both a predicative negation of a truth-domain nominal and as a disconfirmation of a claim. The privative participials *-illāta* and *-aṟṟa* function as attributive disconfirmations (*ātāramaṟṟa kuṟṟaccāṭṭu*, "a baseless accusation"). The data do not provide a construction that is exclusively DISCONFIRMATION as opposed to NEGATION; the same formal devices serve both functions. The distinction between the two operators in Tamil is therefore one of pragmatic context rather than formal construction type.
+
+### 2.4 CAUSATION (factual) is distributed across multiple constructions; no single form covers the operator
+
+The proving/establishing function (CAUSATION factual) is not expressed by a single construction in Tamil. The morphological causative *meyppiкka* (from *mey* + *-ppi-*) is the only morphologically derived form, but it is restricted to the classical root *mey* and is not available from *uṇmai*. The *-paṭuttu* causative is available on *uṇmai* (*uṇmaippaṭuttu*) but is [MARGINAL] and restricted to administrative contexts. The periphrastic constructions *nilaināṭṭu*, *nirūpikku*, and *niṟuvu* carry the primary load of CAUSATION (factual) across registers. This distribution means that no single operator form covers the full CAUSATION (factual) domain; the function is realized through a set of partially overlapping constructions.
+
+### 2.5 Asymmetry between positive and negative agentive forms
+
+The agentive nominalization data show a consistent asymmetry: agentive forms for negative truth-domain properties (*poyyan*, *vañcakaṉ*, *kapaṭi*) are more frequent and more lexicalized than those for positive properties. The form *uṇmaiyāḷar* ("person of truth") is [MARGINAL], and no common lexicalized agentive nominal meaning "truth-teller" built on *uṇmai* is attested. The concept of truth-teller is expressed periphrastically (*uṇmai pēcukiṟavaṉ*, "one who speaks the truth"). This asymmetry is one-directional: negative agentive forms are lexicalized; positive agentive forms are either [MARGINAL] or require circumlocution.
+
+### 2.6 The *-āka* adverbial and *-āna* adjectival are formally related but functionally distinct
+
+Both *-āka* (adverbial) and *-āna* (adjectival) derive from the same copular base *āku*, but they serve different syntactic functions. *-āna* modifies nouns (prenominal position, obligatory); *-āka* modifies verbs (manner adverbial) or appears in predicative complement constructions (*itu uṇmaiyāka irukku*, "this is genuinely the case"). The two suffixes are not interchangeable. The P4b data treat them as distinct construction types (§3 ADNOM and §14 ADVERBIAL respectively), and this distinction is maintained here.
+
+### 2.7 The epistemic discourse marker *uṇmaiyil* is asymmetric: no parallel from *poy* or *nēṟmai*
+
+The grammaticalized sentence-initial adverb *uṇmaiyil* ("in truth") and its emphatic form *uṇmaiyilēyē* are attested as fixed discourse markers. The P4b data explicitly note that no parallel forms from *poy* or *nēṟmai* are attested in this function. This is a one-directional lexical asymmetry: the discourse-marker function is available only from *uṇmai*, not from other truth-domain nominals.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**CAUSATION (factual) — partial morphosyntactic gap:**
+The morphological causative suffix *-ppi-* is available in the truth domain only from the classical root *mey* (*meyppiкka*). No parallel morphological causative from *uṇmai* via *-ppi-* is attested. The *-paṭuttu* causative is available on *uṇmai* but is [MARGINAL] and restricted to administrative contexts. The full CAUSATION (factual) operator therefore lacks a single productive morphological realization across the truth-domain vocabulary. This is a partial morphosyntactic gap: the function is available but only through a combination of a restricted morphological form and multiple periphrastic constructions.
+
+**CAUSATION (character) — partial morphosyntactic gap:**
+The *-paṭuttu* causative is not productive across the full truth-domain vocabulary. No common *poyppaṭuttu*, *nērmaipaṭuttu*, or *niyāyappaṭuttu* is attested. The causative for most truth-domain meanings other than *uṇmai* and *ātāram* is expressed through light verb constructions (*niyāyam cey*, *tavaṟu tiruttu*) rather than morphological causativization. This is a partial morphosyntactic gap.
+
+**BECOME (truth-specific) — functional displacement, not a gap:**
+The general *-āka āku* construction is available but [MARGINAL] for truth-domain inchoatives. The function is displaced to REVELATION constructions (*veḷippaṭu*, *teriya varu*). This is not a structural gap but a functional displacement: the BECOME operator is **SUBSTITUTED BY REVELATION** in the truth-specific domain.
+
+### 3.2 Lexical Gaps
+
+**VERIFICATION — no single lexicalized item:**
+No single lexicalized word or morphologically simple form covers the full VERIFICATION operator. The function is distributed across *meyppiкka*, *nilaināṭṭu*, *nirūpikku*, *ātārappaṭuttu*, and *uṟutippaṭuttu*. This is a lexical gap: the operator is expressible but requires selection among multiple partially overlapping forms.
+
+**Agentive nominal for "truth-teller" — lexical gap:**
+No common lexicalized agentive nominal meaning "truth-teller" built on *uṇmai* is attested. The concept requires circumlocution (*uṇmai pēcukiṟavaṉ*, "one who speaks the truth"). This is a lexical gap specific to the positive agentive nominalization of *uṇmai*.
+
+**Epistemic discourse marker from *poy* or *nēṟmai* — lexical gap:**
+No grammaticalized sentence-initial discourse marker parallel to *uṇmaiyil* is attested from *poy* or *nēṟmai*. This is a lexical gap: the discourse-marker function is available only from *uṇmai*.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a and P4b data. All CLCA operators are expressible in Tamil, either through dedicated constructions or through circumlocution. No operator is blocked by the conceptual structure of the language as documented.
+
+### 3.4 Asymmetric Gaps
+
+**Positive vs. negative agentive forms:**
+Agentive nominals for negative truth-domain properties (*poyyan*, *vañcakaṉ*, *kapaṭi*) are [CORE] and lexicalized. Agentive nominals for positive truth-domain properties (*uṇmaiyāḷar*, *nērmayāḷar*) are [MARGINAL] or require circumlocution. The gap is one-directional: positive agentive forms are underrepresented relative to negative forms.
+
+**Epistemic discourse marker: *uṇmai* only:**
+The discourse-marker function (*uṇmaiyil*, *uṇmaiyilēyē*) is available only from *uṇmai*. No parallel forms from *poy*, *nēṟmai*, or other truth-domain nominals are attested. The gap is one-directional: the discourse-marker operator is available for truth but not for falsity or honesty.
+
+**Morphological causative: *mey* only:**
+The *-ppi-* morphological causative is available only from *mey*, not from *uṇmai* or other truth-domain nominals. The gap is one-directional within the causative domain.
+
+**Abstract nominalization register asymmetry:**
+*-mai* forms (*nēṟmai*, *poymai*, *tūymai*) are [CORE] across registers. *taṉmai* compound forms (*uṇmaitaṉmai*, *nampakattaṉmai*) are [MARGINAL] in everyday use and restricted to formal, philosophical, and written registers. This is not a gap in availability but an asymmetry in register distribution.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Three sub-patterns: predicative bare nominal (zero copula), emphatic *-tāṉ* form, and *-āna* prenominal adjectival. All [CORE]. |
+| **ADNOM** | Fully available | Four sub-patterns: *-āna* adjectival, bare nominal prenominal, genitive *-iṉ*, juxtaposition compound. Distribution is lexically and register-conditioned. All [CORE]. |
+| **BECOME** | Available with substitution | General *-āka āku* construction is available but [MARGINAL] in the truth-specific domain. **SUBSTITUTED BY REVELATION** for truth-domain inchoatives. |
+| **REVELATION** | Fully available | Three constructions: *veḷippaṭu* (most conventionalized), *teriya varu*, intransitive *veḷiyē vantatu*. All [CORE]. Operates as the primary realization of BECOME in the truth domain. |
+| **CAUSATION (factual)** | Partially available | No single productive morphological form covers the full operator. Distributed across *meyppiкka* (restricted to *mey*), *nilaināṭṭu*, *nirūpikku*, *niṟuvu*, and *ātārappaṭuttu*. Partial morphosyntactic gap. |
+| **CAUSATION (character)** | Partially available | *-paṭuttu* causative available on *uṇmai* and *ātāram* but [MARGINAL] and not productive across the full truth-domain vocabulary. Light verb constructions fill remaining cases. Partial morphosyntactic gap. |
+| **VERIFICATION** | Available with substitution | No single lexicalized item. Function distributed across multiple periphrastic and morphological constructions. Lexical gap; no structural gap. |
+| **DISCONFIRMATION** | Fully available | Realized through NEGATION constructions (*illai*, *-illāta*, *-aṟṟa*). No construction exclusively dedicated to DISCONFIRMATION as distinct from NEGATION; the two operators share formal devices. |
+| **NEGATION** | Fully available | Analytic (*illai*) for predicative negation [CORE]; morphological (*-illāta*, *-aṟṟa*) for attributive negation [CORE]. Two morphological strategies are register-differentiated but both productive. |
+| **NOMINALIZATION** | Fully available | Multiple strategies: *-mai* [CORE], *taṉmai* compound [MARGINAL in everyday use], *-ikkai*, *-akam*, *-tal*. Register asymmetry between *-mai* and *taṉmai* forms is noted but does not constitute a gap. |

@@ -1,0 +1,301 @@
+# G7a — Data-Derived Global Constraint Matrix
+
+## Preliminary Notes on Scope and Method
+
+The dimensions and constructional functions below are drawn directly from the G1–G6 summaries and the underlying F-phase tables. No external theoretical framework is imposed. Where evidence is thin or contradictory, this is noted explicitly. The matrix covers the intersection of semantic dimensions (rows) with constructional function types (columns); each cell records the cross-language pattern as ALLOWED, BLOCKED, VARIABLE, or INSUFFICIENT DATA, with brief supporting notes.
+
+---
+
+## Part 1: Semantic Dimensions (Rows)
+
+The following dimensions are drawn from G3 and confirmed by recurrence across G1, G2, G4, G5, G6. They are listed with brief reminders of their empirical basis.
+
+**D-A: Propositional Correspondence** — Whether a statement or claim corresponds to actual states of affairs (true/false as applied to propositions). Attested in all 8 languages as the primary binary opposition.
+
+**D-B: Material Authenticity** — Whether a physical object, document, or credential is genuine rather than counterfeit or imitation. Clearly lexicalized in zh, he, el, en, tl, sw; weakly in sa, qu.
+
+**D-C: Procedural Correctness** — Whether an answer, calculation, or procedure conforms to a standard or rule. Present in all 8 languages; degree of lexical separation from D-A varies.
+
+**D-D: Personal Honesty and Sincerity** — Whether a person habitually tells the truth or acts without deception (character trait). Clearly lexicalized in all 8 languages.
+
+**D-E: Moral Rightness** — Whether actions, conduct, or situations are morally right, just, or proper. Present in all 8 languages; merged with D-C in en (right/wrong), tl (tama), qu (allin), sw (haki).
+
+**D-F: Reliability and Trustworthiness** — Whether persons, sources, or information can be consistently depended upon. Clearly lexicalized in zh, he, el, en; weakly attested or merged with D-D in sa, tl, sw, qu.
+
+**D-G: Belief and Epistemic Acceptance** — The mental act of accepting something as true. Clearly lexicalized only in he (א-מ-נ root); weakly in qu (yuyay vs. yachay). Largely absent as a dedicated grouping in zh, sa, el, en, tl, sw within the documented truth-domain vocabulary.
+
+**D-H: Epistemic Certainty** — The degree of confidence or certainty with which something is known or asserted. Clearly lexicalized in he, el, sw; grammatically encoded in qu; weakly in zh, en; absent in sa, tl.
+
+**D-I: Validity and Logical Soundness** — Whether arguments, reasoning, or formal procedures meet standards of logical or legal validity. Clearly lexicalized in he, el, en; present but less developed in sa, zh, qu; absent in tl, sw.
+
+**D-J: Appearance vs. Reality** — Whether something is what it appears to be, or whether surface appearances correspond to underlying reality. Present in all 8 languages but with very different degrees of elaboration (most in sa; least in qu).
+
+**D-K: Completeness and Substantiality** — Whether something is complete, whole, or has genuine substance. Clearly lexicalized in zh (实/虚), el (ουσιαστικός), sw (kamili), qu (hunt'a/ch'usaq); absent in he, tl.
+
+**D-L: Deception and Intentional Falsification** — Deliberate acts of deceiving, misleading, or creating false impressions (distinct from unintentional error). Clearly lexicalized in all 8 languages.
+
+**D-M: Precision and Exactness** — The degree of exactness or precision in measurements or descriptions (gradable accuracy). Clearly lexicalized in zh, he, el, en, tl; weakly in sw; absent in sa, qu.
+
+---
+
+## Part 2: Constructional Functions (Columns)
+
+The following constructional functions are drawn from G5 and confirmed by recurrence across F4 tables.
+
+**CF-1: Copular Attribution** — Stating that something has a truth-domain property (Subject + copula + predicate).
+
+**CF-2: Negated Attribution** — Stating that something lacks a truth-domain property (negation of copular construction or morphological negation of the adjective).
+
+**CF-3: Adnominal Modification** — Using a truth-domain term to modify a noun (true story, false document, honest person).
+
+**CF-4: Inchoative / Becoming** — Expressing change of state toward a truth-domain property (becoming true, coming true, being verified).
+
+**CF-5: Inchoative / Departing** — Expressing change of state away from a truth-domain property (becoming false, turning out to be wrong, being disproven).
+
+**CF-6: Causative Verification** — Making something true, verified, authenticated, or correct (causative constructions for establishing truth-domain states).
+
+**CF-7: Causative Falsification** — Making something false, forged, or wrong (causative constructions for inducing falsity or error).
+
+**CF-8: Abstract Nominalization** — Forming a nominal that refers to the quality or state itself (truth, correctness, authenticity, honesty).
+
+**CF-9: Agentive Nominalization (Negative)** — Forming a nominal for a person characterized by negative truth-related behavior (liar, deceiver, forger).
+
+**CF-10: Agentive Nominalization (Positive)** — Forming a nominal for a person characterized by positive truth-related behavior (truth-teller, honest person).
+
+**CF-11: Degree Modification / Intensification** — Expressing that a truth-domain property holds to a high or emphatic degree (very true, absolutely correct, completely genuine).
+
+**CF-12: Comparative Construction** — Expressing that one thing has more or less of a truth-domain property than another.
+
+**CF-13: Deontic / Obligation Construction** — Expressing that one should tell the truth, must not lie, ought to correct an error.
+
+**CF-14: Epistemic Source Marking** — Marking the evidential basis of a truth claim (I know directly, I heard, I infer).
+
+**CF-15: Discourse Marker Use** — Using a truth-domain term pragmatically to frame statements as honest, express surprise, or seek confirmation.
+
+**CF-16: Revelation / Concealment Construction** — Expressing that truth is uncovered, revealed, hidden, or exposed (truth as object of verbs of disclosure or concealment).
+
+**CF-17: Disjunctive / Binary Question** — Asking whether something is true or false, correct or wrong, genuine or fake (presenting both poles simultaneously).
+
+**CF-18: Light Verb + Truth/Falsity Object** — Combining a verb of speaking or communicating with a truth-domain term as object (tell the truth, speak lies, give testimony).
+
+---
+
+## Part 3: The Global Constraint Matrix
+
+**Key:**
+- **A** = ALLOWED (broadly attested across multiple languages, consistently natural)
+- **B** = BLOCKED (broadly resisted, absent, or consistently unnatural across multiple languages)
+- **V** = VARIABLE (attested but inconsistent, language-specific, or sensitive to construction type)
+- **I** = INSUFFICIENT DATA (too little evidence for a reliable judgment)
+- Superscript notes indicate important qualifications; see narrative below.
+
+| Semantic Dimension | CF-1 Copular Attribution | CF-2 Negated Attribution | CF-3 Adnominal Modification | CF-4 Inchoative/Becoming | CF-5 Inchoative/Departing | CF-6 Causative Verification | CF-7 Causative Falsification | CF-8 Abstract Nominalization | CF-9 Agentive Nom. (Negative) | CF-10 Agentive Nom. (Positive) | CF-11 Degree/Intensification | CF-12 Comparative | CF-13 Deontic/Obligation | CF-14 Epistemic Source Marking | CF-15 Discourse Marker | CF-16 Revelation/Concealment | CF-17 Disjunctive Question | CF-18 Light Verb + Object |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **D-A Propositional Correspondence** | **A** | **A** | **A** | **A**¹ | **V**² | **A** | **V**³ | **A** | **A** | **V**⁴ | **A** | **A** | **A** | **V**⁵ | **A** | **A** | **A** | **A** |
+| **D-B Material Authenticity** | **A** | **A** | **A** | **V**⁶ | **V**⁷ | **A** | **V**⁸ | **A** | **V**⁹ | **B**¹⁰ | **A** | **V** | **V** | **I** | **V** | **V**¹¹ | **A** | **V** |
+| **D-C Procedural Correctness** | **A** | **A** | **A** | **A** | **A** | **A** | **V**¹² | **A** | **V**¹³ | **B**¹⁴ | **A** | **A** | **A** | **I** | **V** | **I** | **A** | **A** |
+| **D-D Personal Honesty/Sincerity** | **A** | **A** | **A** | **V**¹⁵ | **V**¹⁶ | **V**¹⁷ | **I** | **A** | **A** | **V**¹⁸ | **A** | **V** | **A** | **I** | **A** | **I** | **V** | **A** |
+| **D-E Moral Rightness** | **A** | **A** | **A** | **V** | **V** | **V**¹⁹ | **I** | **A** | **V**²⁰ | **V**²¹ | **A** | **V** | **A** | **I** | **V** | **I** | **V** | **V** |
+| **D-F Reliability/Trustworthiness** | **A** | **A** | **A** | **V**²² | **V**²³ | **V**²⁴ | **I** | **A** | **V**²⁵ | **B**²⁶ | **A** | **V** | **V** | **I** | **V** | **I** | **V** | **I** |
+| **D-G Belief/Epistemic Acceptance** | **V**²⁷ | **V** | **V** | **V** | **V** | **I** | **I** | **V**²⁸ | **V**²⁹ | **V** | **V** | **V** | **V** | **V** | **V** | **I** | **I** | **V** |
+| **D-H Epistemic Certainty** | **A** | **A** | **A** | **V**³⁰ | **V**³¹ | **V**³² | **I** | **A** | **I** | **I** | **A** | **V** | **V** | **A**³³ | **A** | **I** | **V** | **I** |
+| **D-I Validity/Logical Soundness** | **A** | **A** | **A** | **V**³⁴ | **A**³⁵ | **A** | **A**³⁶ | **A** | **I** | **I** | **A** | **V** | **V** | **I** | **I** | **I** | **V** | **I** |
+| **D-J Appearance vs. Reality** | **V**³⁷ | **V** | **A** | **V**³⁸ | **V**³⁹ | **I** | **I** | **V**⁴⁰ | **I** | **I** | **V** | **I** | **I** | **I** | **V** | **V**⁴¹ | **V** | **I** |
+| **D-K Completeness/Substantiality** | **A** | **A** | **A** | **A**⁴² | **A**⁴³ | **A**⁴⁴ | **I** | **A** | **I** | **I** | **A** | **V** | **I** | **I** | **I** | **I** | **V** | **I** |
+| **D-L Deception/Intentional Falsification** | **A** | **A** | **A** | **V**⁴⁵ | **I** | **I** | **A**⁴⁶ | **A** | **A** | **B**⁴⁷ | **A** | **V** | **A** | **I** | **V** | **V** | **V** | **A** |
+| **D-M Precision/Exactness** | **A** | **A** | **A** | **I** | **I** | **A**⁴⁸ | **I** | **A** | **I** | **I** | **A** | **A** | **I** | **I** | **I** | **I** | **V** | **I** |
+
+---
+
+## Part 4: Superscript Notes
+
+¹ **D-A × CF-4 (Propositional Correspondence × Inchoative/Becoming):** Positive inchoative (becoming true, coming true, being verified) is ALLOWED and broadly natural. All 8 languages have some form of this construction. However, the specific realization varies: zh uses 变得真实 or resultative compounds; he uses התברר (it became clear); el uses γίνεται + adjective; en has the fixed "come true"; tl has dedicated verbal forms (nagtotoo, magkatotoo); sw uses amekuwa + predicate; qu uses allinyay. All are rated [CORE] in F6 data.
+
+² **D-A × CF-5 (Propositional Correspondence × Inchoative/Departing):** VARIABLE. The negative direction (becoming false, turning out to be wrong) is consistently less natural than the positive direction. English *come false is ungrammatical; Quechua has no attested inchoative for deterioration; Chinese 变假 is marginal. However, he (התברר שזה שקר), el (αποδεικνύεται ψευδής, διαψεύδεται), sw (amekuwa uongo), and tl (hindi na totoo) all have natural constructions for this direction. The asymmetry is consistent but not absolute.
+
+³ **D-A × CF-7 (Propositional Correspondence × Causative Falsification):** VARIABLE. Direct causatives meaning "make X true" are largely ungrammatical in en, he, and qu. Causatives for making false are more restricted than for making true: en requires dedicated verbs (falsify, forge); zh uses 弄假; qu has no attested *llullachay (make false). However, sa, sw, and el have some constructions in this space. The asymmetry between CF-6 and CF-7 is consistent across multiple unrelated families.
+
+⁴ **D-A × CF-10 (Propositional Correspondence × Agentive Nominalization Positive):** VARIABLE. "Truth-teller" as a single derived word is absent in zh, he, el, en, sw. Sanskrit (satyavādin) and Quechua (chiqan rimaq) have compound forms. Tagalog lacks a dedicated form. The positive agentive is consistently less lexicalized than the negative (CF-9).
+
+⁵ **D-A × CF-14 (Propositional Correspondence × Epistemic Source Marking):** VARIABLE. In qu, evidential suffixes (-mi/-si/-cha) are grammatically obligatory on every propositional truth claim — a structural difference from all other languages. In all other languages, epistemic source marking is optional and expressed through lexical items (zh 据说, he כנראה, en apparently). The function is present everywhere but the realization type differs fundamentally between qu and the other 7 languages.
+
+⁶ **D-B × CF-4 (Material Authenticity × Inchoative/Becoming):** VARIABLE. Constructions like "became genuine" or "turned out to be authentic" are attested in he (הסיפור התברר כאמיתי [CORE]) and el (αποδεικνύεται αυθεντικό [CORE]). However, in sw the construction "bidhaa hii imekuwa halisi baada ya ukaguzi" is rated [UNCERTAIN] — the change is epistemic (our knowledge) rather than ontological (the object itself). The construction is more natural when framed as discovery than as actual change of state.
+
+⁷ **D-B × CF-5 (Material Authenticity × Inchoative/Departing):** VARIABLE. "Turned out to be fake" is natural in he (התברר שזה מזויף [CORE]), el (αποδεικνύεται πλαστό), en (turned out to be fake [CORE]). Less documented in zh, tl, sw, qu. The direction of discovery (revealing fakeness) is more natural than the direction of actual change (becoming fake from genuine).
+
+⁸ **D-B × CF-7 (Material Authenticity × Causative Falsification):** VARIABLE. Forging/counterfeiting constructions are attested in he (זייף [CORE]), el (πλαστογραφώ), en (counterfeit, forge [CORE]), tl (maghuwad [CORE]). Less documented in zh (伪造 [CORE]), sw, qu. The causative for creating fakes is more lexicalized than the causative for making propositions false.
+
+⁹ **D-B × CF-9 (Material Authenticity × Agentive Nominalization Negative):** VARIABLE. "Forger/counterfeiter" is lexicalized in en (counterfeiter, forger [CORE]), he (מזייף), el (πλαστογράφος), zh (造假者). Less clearly documented in tl, sw, qu as dedicated agent nouns for this specific domain.
+
+¹⁰ **D-B × CF-10 (Material Authenticity × Agentive Nominalization Positive):** BLOCKED. No language in the corpus has a dedicated single-word agent noun meaning "authenticator" or "genuine-article-person" in the material authenticity domain. The positive agentive for material authenticity is consistently absent across all 8 languages. This is a stronger gap than the truth-teller gap (D-A × CF-10), which at least has compound forms in sa and qu.
+
+¹¹ **D-B × CF-16 (Material Authenticity × Revelation/Concealment):** VARIABLE. "Expose as fake" constructions are attested in el (εκθέτω ως ψεύτικο [CORE]), en (expose as fake [CORE]), he (התברר כמזויף [CORE]). Less documented in zh, tl, sw, qu for the material authenticity domain specifically.
+
+¹² **D-C × CF-7 (Procedural Correctness × Causative Falsification):** VARIABLE. "Making wrong" or "causing error" constructions are attested in zh (弄错 [CORE], 搞错 [CORE]), he (הטעה [CORE]), sa (pantachiy [CORE]), el (παραπλανώ [CORE]), en (mislead [CORE]). However, these tend to be deception/misleading verbs rather than direct causatives of the wrongness adjective. The construction is available but typically realized through deception vocabulary rather than through direct causatives of "wrong."
+
+¹³ **D-C × CF-9 (Procedural Correctness × Agentive Nominalization Negative):** VARIABLE. "One who makes errors" is not consistently lexicalized as a dedicated agent noun across languages. zh has no standard single-word form; he has no dedicated form; el has no standard form; en has "blunderer" but this is not a core truth-domain term. The negative agentive for procedural error is less lexicalized than for deception (D-L × CF-9).
+
+¹⁴ **D-C × CF-10 (Procedural Correctness × Agentive Nominalization Positive):** BLOCKED. No language in the corpus has a dedicated single-word agent noun meaning "one who is always correct" or "one who never makes errors" in the procedural correctness domain. This gap is consistent across all 8 languages.
+
+¹⁵ **D-D × CF-4 (Personal Honesty × Inchoative/Becoming):** VARIABLE. "Became honest" constructions are attested in he (הפך לאמין [CORE], הוא הוכיח את עצמו כנאמן [CORE]), el (γίνεται ειλικρινής), en (became honest), sw (amekuwa mwaminifu). However, zh 变诚实 is marginal; qu has no dedicated inchoative for character improvement in the honesty domain specifically. The construction is available in most languages but not uniformly natural.
+
+¹⁶ **D-D × CF-5 (Personal Honesty × Inchoative/Departing):** VARIABLE. "Became dishonest" or "became a liar" constructions are attested in he (הפך ללא אמין [CORE]), sw (amekuwa mwongo [CORE]), el (έγινε υποκριτής). Less documented in zh, tl, qu. The negative direction is less consistently attested than the positive.
+
+¹⁷ **D-D × CF-6 (Personal Honesty × Causative Verification):** VARIABLE. "Making someone honest" or "causing honesty" is not a standard construction in most languages. The closest attested forms are in sa (guru causes student to practice truthfulness: ācāryaḥ śiṣyaṃ dharmam ācārayati [CORE]) and qu (allinchakuy = improve oneself [CORE]). In most languages, honesty is treated as a character trait that develops rather than something that can be directly caused.
+
+¹⁸ **D-D × CF-10 (Personal Honesty × Agentive Nominalization Positive):** VARIABLE. "Honest person" as a single derived word is present in some languages: he כנה (adjective used as noun), sa satyavādin (compound), qu chiqan runa (compound). But in zh, el, en, sw, the positive agentive requires a phrase (honest person, mtu wa kweli). Less blocked than D-B × CF-10 but still consistently less lexicalized than the negative (liar).
+
+¹⁹ **D-E × CF-6 (Moral Rightness × Causative Verification):** VARIABLE. "Making just" or "justifying" constructions are attested in he (להצדיק [CORE]), el (δικαιώνω [CORE]), en (justify [CORE]), sa (lehatsдik). Less documented in zh, tl, sw, qu for the moral rightness domain specifically. The causative for moral justification is more lexicalized in the European languages in the corpus.
+
+²⁰ **D-E × CF-9 (Moral Rightness × Agentive Nominalization Negative):** VARIABLE. "Wrongdoer" or "unjust person" is lexicalized in en (wrongdoer [CORE]), he (רשע, though not in F1 tables), sa (adharmin). Less clearly documented as a dedicated agent noun in zh, el, tl, sw, qu.
+
+²¹ **D-E × CF-10 (Moral Rightness × Agentive Nominalization Positive):** VARIABLE. "Righteous person" is lexicalized in he (צדיק [CORE]), sa (dhārmika [CORE]), en (righteous person). Less clearly documented as a single derived word in zh, el, tl, sw, qu.
+
+²² **D-F × CF-4 (Reliability × Inchoative/Becoming):** VARIABLE. "Became reliable" constructions are attested in he (הפך לאמין [CORE], הוא הוכיח את עצמו כנאמן [CORE]), el (γίνεται αξιόπιστος), en (became reliable). Less documented in zh, tl, sw, qu. The construction is available in languages where reliability is clearly lexicalized (zh, he, el, en) but less attested elsewhere.
+
+²³ **D-F × CF-5 (Reliability × Inchoative/Departing):** VARIABLE. "Lost reliability" or "became unreliable" constructions are attested in he (הפך ללא אמין [CORE], המקור איבד את אמינותו [CORE]), el (χάνει την αξιοπιστία του), en (became unreliable). Less documented in zh, tl, sw, qu.
+
+²⁴ **D-F × CF-6 (Reliability × Causative Verification):** VARIABLE. "Building trust" or "establishing reliability" constructions are attested in he (הוא בנה אמון [CORE], הוא ביסס את אמינותו [CORE]), en (build trust [CORE]), sw (madhubuti). Less documented in zh, tl, qu as dedicated constructions for this function.
+
+²⁵ **D-F × CF-9 (Reliability × Agentive Nominalization Negative):** VARIABLE. "Unreliable person" as a dedicated agent noun is not consistently lexicalized. he has no single-word form; el has αναξιόπιστος (adjective); en has "unreliable person" (phrase). Less lexicalized than the liar agent noun across all languages.
+
+²⁶ **D-F × CF-10 (Reliability × Agentive Nominalization Positive):** BLOCKED. No language in the corpus has a dedicated single-word agent noun meaning "reliable person" or "trustworthy person" as a derived form from the reliability root. he נאמן functions as an adjective; en "reliable person" is a phrase. This gap is consistent across all 8 languages.
+
+²⁷ **D-G × CF-1 (Belief × Copular Attribution):** VARIABLE. "X believes Y" constructions are present in all languages, but the copular attribution pattern ("X is a believer," "this is a belief") is only clearly lexicalized in he (הוא מאמין [CORE], זו אמונה). In other languages, belief vocabulary exists but is not integrated into the truth-domain copular system as documented in the F1 tables.
+
+²⁸ **D-G × CF-8 (Belief × Abstract Nominalization):** VARIABLE. Abstract nouns for belief/faith are present in he (אמונה [CORE]), sa (śraddhā — not in F1 tables), en (belief, faith — partially in F1 tables). In zh, el, tl, sw, qu, belief vocabulary exists but is not documented in the F1 truth-domain tables, making cross-language comparison unreliable.
+
+²⁹ **D-G × CF-9 (Belief × Agentive Nominalization Negative):** VARIABLE. "Unbeliever" or "skeptic" as a dedicated agent noun is present in he (כופר — not in F1 tables), en (skeptic, unbeliever — not in F1 tables). The data is insufficient for reliable cross-language comparison.
+
+³⁰ **D-H × CF-4 (Epistemic Certainty × Inchoative/Becoming):** VARIABLE. "Became certain" constructions are attested in he (סוף סוף נוכחתי, הוא הוכיח את עצמו [CORE]), sw (sasa nina hakika [CORE], baada ya uchunguzi tumekuwa na hakika [CORE]), el (αυτό με κάνει βέβαιο [CORE]). Less documented in zh, tl, qu.
+
+³¹ **D-H × CF-5 (Epistemic Certainty × Inchoative/Departing):** VARIABLE. "Lost certainty" or "became uncertain" constructions are attested in he (הוא איבד את האמונה [CORE]), sw (tumepoteza hakika yetu [CORE]), el (αυτό με κάνει να αμφιβάλλω [CORE]). Less documented in zh, tl, qu.
+
+³² **D-H × CF-6 (Epistemic Certainty × Causative Verification):** VARIABLE. "Making certain" or "confirming" constructions are attested in he (הוא וידא את הדברים [CORE]), sw (hakikisha [CORE]), el (βεβαιώνω [CORE]), en (confirm, certify [CORE]). Less documented in zh, tl, qu for the certainty domain specifically.
+
+³³ **D-H × CF-14 (Epistemic Certainty × Epistemic Source Marking):** ALLOWED with structural variation. This is the cell where the Quechua evidential system is most directly relevant. In qu, the evidential suffixes (-mi/-si/-cha) are the primary realization of epistemic certainty marking and are grammatically obligatory. In he (ודאי, בוודאי), el (βέβαιος, αμφίβολος), sw (hakika, kwa hakika), the function is realized through optional lexical items. The function is broadly attested but the structural realization differs fundamentally between qu and all other languages.
+
+³⁴ **D-I × CF-4 (Validity × Inchoative/Becoming):** VARIABLE. "Became valid" or "gained validity" constructions are attested in he (הדבר נעשה מוצדק [CORE], הטענה התבררה כמוצדקת [CORE]), el (γίνεται έγκυρο), en (became valid). Less documented in zh, tl, sw, qu.
+
+³⁵ **D-I × CF-5 (Validity × Inchoative/Departing):** ALLOWED. "Became invalid," "expired," or "lost validity" constructions are broadly attested: he (הדבר איבד את הצדקתו [CORE], הטענה נעשתה לא מוצדקת [CORE]), el (γίνεται άκυρο [CORE], ακυρώνεται [CORE]), en (expired [CORE], was invalidated [CORE]), sw (hoja zisizo tosha). The negative inchoative for validity is more consistently attested than for propositional truth (D-A × CF-5), possibly because validity is inherently time-limited or condition-dependent in ways that propositional truth is not.
+
+³⁶ **D-I × CF-7 (Validity × Causative Falsification):** ALLOWED. "Invalidating" or "nullifying" constructions are broadly attested: he (ביטל [CORE], פסל [CORE]), el (ακυρώνω [CORE]), en (invalidate [CORE], nullify [CORE]), sw (bia ushahidi). The causative for invalidation is more consistently lexicalized than the causative for making propositions false (D-A × CF-7). This may reflect the institutional/procedural nature of validity, which is more amenable to direct causation than propositional truth.
+
+³⁷ **D-J × CF-1 (Appearance vs. Reality × Copular Attribution):** VARIABLE. Copular constructions for this dimension vary considerably by language. sa uses bhavati with mithyā (mithyā bhavati = is illusory); el uses εικονικός (είναι εικονικό = it is virtual/apparent); en uses real/unreal (it is unreal); tl uses palabás (palabás lang = just for show). The construction is available but the specific predicate varies widely.
+
+³⁸ **D-J × CF-4 (Appearance vs. Reality × Inchoative/Becoming):** VARIABLE. "Became apparent" or "turned out to be illusory" constructions are attested in sa (mithyā bhavati with inchoative reading), el (αποδεικνύεται εικονικό), en (turned out to be virtual/unreal). Less documented in zh, tl, sw, qu for this specific dimension.
+
+³⁹ **D-J × CF-5 (Appearance vs. Reality × Inchoative/Departing):** VARIABLE. "Became real" (from apparent) constructions are attested in en (became real), el (γίνεται πραγματικό), zh (弄假成真 = fake becomes real, fixed expression). Less documented in sa, tl, sw, qu.
+
+⁴⁰ **D-J × CF-8 (Appearance vs. Reality × Abstract Nominalization):** VARIABLE. Abstract nouns for this dimension are present in sa (mithyātva, vyavahāra, paramārtha), el (αληθοφάνεια, εικονικότητα), en (unreality, virtuality), sw (uhalisia). Less documented in zh (handled through fixed expressions), tl, qu.
+
+⁴¹ **D-J × CF-16 (Appearance vs. Reality × Revelation/Concealment):** VARIABLE. Constructions for revealing true nature (as opposed to apparent nature) are attested in tl (tunay na kulay = true colors, revealed), en (show one's true colors), zh (真相大白 = truth becomes clear). Less documented in sa, sw, qu for this specific dimension.
+
+⁴² **D-K × CF-4 (Completeness × Inchoative/Becoming):** ALLOWED. "Became complete" or "was completed" constructions are broadly attested: zh (充实 [CORE]), sa (kamilika [CORE]), sw (kamilika [CORE], amekamilisha [CORE]), qu (hunt'achikuy [CORE]). The positive inchoative for completeness is consistently natural across languages where this dimension is lexicalized.
+
+⁴³ **D-K × CF-5 (Completeness × Inchoative/Departing):** ALLOWED. "Became empty" or "lost substance" constructions are attested: zh (变得虚弱 [CORE]), sw (si kamili), qu (ch'usaqyay [CORE]). Less documented in el, en, he for this specific dimension, but the pattern is available where the dimension is lexicalized.
+
+⁴⁴ **D-K × CF-6 (Completeness × Causative Verification):** ALLOWED. "Making complete" or "completing" constructions are broadly attested: zh (充实 [CORE]), sa (kamilisha [CORE]), sw (kamilisha [CORE]), qu (hunt'achikuy [CORE]), el (κάνω πλήρες), en (complete [CORE]). The causative for completeness is consistently natural.
+
+⁴⁵ **D-L × CF-4 (Deception × Inchoative/Becoming):** VARIABLE. "Became deceptive" or "became a liar" constructions are attested in sw (amekuwa mwongo [CORE]), he (הפך לשקרן), el (έγινε υποκριτής). Less documented in zh, tl, qu. The inchoative for acquiring a deceptive character is less consistently attested than for acquiring honesty.
+
+⁴⁶ **D-L × CF-7 (Deception × Causative Falsification):** ALLOWED. Causative constructions for deceiving, forging, or causing false beliefs are broadly attested in all 8 languages: zh 欺骗 [CORE], he -danganya [CORE], sa mithyāvādin/llullachiy, el απατώ [CORE], en deceive/forge [CORE], tl mandaya/linlangin [CORE], sw -danganya [CORE], qu llullachiy [CORE]. This is the most consistently ALLOWED causative construction in the corpus for the negative direction.
+
+⁴⁷ **D-L × CF-10 (Deception × Agentive Nominalization Positive):** BLOCKED. No language in the corpus has a dedicated single-word agent noun meaning "one who detects deception" or "one who is never deceived" as a derived form from the deception root. This gap is consistent across all 8 languages.
+
+⁴⁸ **D-M × CF-6 (Precision × Causative Verification):** ALLOWED. "Making precise" or "verifying accuracy" constructions are attested in zh (校准, 核实 [CORE]), he (לדייק, לוודא [CORE]), el (ακριβολογώ, επαληθεύω [CORE]), en (calibrate, verify accuracy [CORE]). Less documented in tl, sw, qu, but the function is available where the dimension is lexicalized.
+
+---
+
+## Part 5: Narrative Analysis
+
+### 5.1 Strongly Recurrent Constraints (ALLOWED across most or all languages)
+
+**The copular attribution construction (CF-1) is ALLOWED for all semantic dimensions where the dimension is lexicalized.** Without exception, every language uses some form of copular or predicative construction to attribute truth-domain properties to subjects. The structural realization varies (zero copula in he and tl present tense; invariant ni/si in sw; evidential suffix in qu; nominalizer 的 with monosyllabic adjectives in zh), but the function is universally available. No semantic dimension in the corpus shows a consistent resistance to copular attribution.
+
+**The negated attribution construction (CF-2) is ALLOWED for all semantic dimensions where the dimension is lexicalized.** Morphological negation is the dominant antonym-forming strategy in all 8 languages, and syntactic negation of the copular construction is available in all languages. The specific negation device varies (不/非 in zh; לא in he; a-/an- in sa; α- in el; un-/in-/dis- in en; hindi/di- in tl; si in sw; mana in qu), but the function is universally available. No semantic dimension shows consistent resistance to negated attribution.
+
+**The adnominal modification construction (CF-3) is ALLOWED for all semantic dimensions.** Every language uses truth-domain terms to modify nouns, though the structural realization varies (modifier + 的 + noun in zh; adjective follows noun with agreement in he; tatpuruṣa compound in sa; adjective precedes noun with agreement in el; adjective precedes noun in en; modifier + na + noun in tl; adjective follows noun with class agreement in sw; modifier precedes noun in qu). No semantic dimension shows consistent resistance to adnominal modification.
+
+**The abstract nominalization construction (CF-8) is ALLOWED for all semantic dimensions where the dimension is lexicalized.** Every language has a morphological or syntactic strategy for creating abstract nouns from truth-domain roots. The specific device varies by morphological type but the function is universally available. No semantic dimension shows consistent resistance to abstract nominalization.
+
+**The light verb + truth/falsity object construction (CF-18) is ALLOWED for D-A (Propositional Correspondence), D-D (Personal Honesty), and D-L (Deception).** The construction [speak/tell + truth/lie] is attested in all 8 languages and is among the most frequently rated [CORE] constructions in the F6 data. This is the single most consistently natural construction type in the corpus.
+
+**The causative verification construction (CF-6) is ALLOWED for D-A, D-B, D-C, D-I, D-K, and D-M.** Causative constructions for establishing truth, verifying, authenticating, or correcting are broadly attested across all languages for these dimensions. The specific realization varies (resultative compounds in zh; hif'il causatives in he; -isha suffix in sw; -cha- suffix in qu; dedicated verbs in en), but the function is consistently available.
+
+**The degree modification / intensification construction (CF-11) is ALLOWED for all semantic dimensions where the dimension is lexicalized.** Every language has strategies for intensifying truth-domain predicates (degree adverbs, reduplication, emphatic particles, fixed expressions). No semantic dimension shows consistent resistance to intensification.
+
+**The deontic / obligation construction (CF-13) is ALLOWED for D-A, D-C, D-D, and D-L.** Constructions expressing that one should tell the truth, must not lie, or ought to correct an error are broadly attested across all 8 languages. The specific realization varies (modal verbs in zh, he, el, en; optative in sa; imperative + prohibitive in tl, qu; subjunctive in sw), but the function is universally available for these dimensions.
+
+**The discourse marker use (CF-15) is ALLOWED for D-A and D-D.** Truth-domain terms from the propositional correspondence and personal honesty dimensions are recruited as discourse markers in at least 7 of the 8 languages. This grammaticalization pattern is one of the most consistent cross-linguistic findings in the corpus.
+
+---
+
+### 5.2 Likely Prohibitions or Avoidance Patterns (BLOCKED or consistently VARIABLE)
+
+**The positive agentive nominalization (CF-10) is BLOCKED or strongly disfavored for D-B (Material Authenticity), D-C (Procedural Correctness), D-F (Reliability), and D-L (Deception).** No language in the corpus has a dedicated single-word agent noun meaning "authenticator" (D-B), "one who is always correct" (D-C), "reliable person" (D-F), or "one who detects deception" (D-L). These gaps are consistent across all 8 languages and across unrelated language families. The positive agentive is also consistently less lexicalized than the negative agentive for D-A (truth-teller vs. liar) and D-D (honest person vs. liar). This asymmetry — negative agentives are lexicalized; positive agentives are not — is the most consistent BLOCKED pattern in the corpus.
+
+**The causative falsification construction (CF-7) is VARIABLE to BLOCKED for D-A (Propositional Correspondence).** Direct causatives meaning "make X true" or "make X false" as applied to propositions are largely ungrammatical or unattested in en, he, and qu. The function is typically realized through deception verbs (deceive, forge, falsify) rather than through direct causatives of the falsity adjective. This substitution pattern is consistent across multiple unrelated families (Indo-European: en, he; Quechuan: qu; Austronesian: tl). The causative for making propositions false is consistently less natural than the causative for verifying or correcting them.
+
+**The inchoative/departing construction (CF-5) is VARIABLE and consistently less natural than CF-4 for D-A (Propositional Correspondence) and D-D (Personal Honesty).** The asymmetry between positive change (becoming true, becoming honest) and negative change (becoming false, becoming dishonest) is documented across at least 5 unrelated families. English *come false is ungrammatical; Quechua has no attested inchoative for deterioration; Chinese 变假 is marginal; Hebrew has no parallel to התברר for "turning out to be false." This is not an absolute prohibition — some languages (he, el, sw) have natural constructions for the negative direction — but the consistent disfavor of the negative inchoative relative to the positive is a robust pattern.
+
+**The epistemic source marking construction (CF-14) is VARIABLE with a structural split between qu and all other languages.** In qu, this function is grammatically obligatory (evidential suffixes -mi/-si/-cha). In all other 7 languages, it is optional and expressed through lexical items. This is not a prohibition but a fundamental structural difference: the function is universally available but realized through incompatible mechanisms.
+
+**The revelation/concealment construction (CF-16) is VARIABLE and appears to be absent or marginal for D-J (Appearance vs. Reality) and D-K (Completeness) in most languages.** The spatial/container metaphor for truth (truth as a hidden object that can be revealed or concealed) is most developed for D-A (propositional truth) and D-D (personal honesty). It is less consistently attested for material authenticity (D-B), appearance/reality (D-J), or completeness (D-K). Quechua handles the revelation function through perception verbs rather than revelation/concealment constructions, suggesting a different conceptual organization.
+
+**The disjunctive/binary question construction (CF-17) is VARIABLE and shows language-specific patterns.** The A-not-A pattern (zh 是不是真的?) is specific to Chinese. The disjunctive coordination pattern (sw kweli au uongo, tl tama o mali) is attested in several languages. The -chu suffix on both poles (qu chiqanchu llullachu?) is specific to Quechua. Sanskrit and Greek lack documented disjunctive truth questions in the F4 data. The function is available in most languages but the realization is highly language-specific.
+
+---
+
+### 5.3 Important Divergences, Substitutions, and Asymmetries
+
+**The liar/truth-teller agentive asymmetry is the most consistent cross-linguistic asymmetry in the corpus.** Across all 8 languages and multiple unrelated families, the negative agentive (liar, deceiver) is lexicalized as a single derived word while the positive agentive (truth-teller, honest person) requires a compound or periphrasis. This asymmetry holds for D-A, D-B, D-C, D-D, D-F, and D-L. The only partial exception is Sanskrit, which has symmetric compound patterns (satyavādin/mithyāvādin), but even here both are compounds rather than simple derived forms.
+
+**The inchoative asymmetry (positive change more lexicalized than negative change) is the second most consistent cross-linguistic asymmetry.** For D-A, D-D, and D-K, positive inchoatives (becoming true, becoming honest, becoming complete) are consistently more natural and more lexicalized than negative inchoatives (becoming false, becoming dishonest, becoming empty). This asymmetry is documented across Sino-Tibetan (zh), Indo-European (en, el, he), Quechuan (qu), and Austronesian (tl). It is not absolute — some languages have natural negative inchoatives — but the consistent disfavor of the negative direction is robust.
+
+**The causative asymmetry (verification more lexicalized than falsification) parallels the inchoative asymmetry.** For D-A and D-D, causative constructions for establishing truth, verifying, or correcting (CF-6) are consistently more natural and more lexicalized than causative constructions for making false or causing error (CF-7). The negative causative function is typically filled by deception verbs (D-L vocabulary) rather than by direct causatives of the falsity adjective. This substitution — deception verbs replacing direct causatives of falsity — is consistent across multiple unrelated families.
+
+**The Hebrew א-מ-נ root creates a unique merger of D-A, D-D, D-F, and D-G under a single derivational family.** In all other languages, these dimensions are covered by distinct roots. This merger means that the constraint matrix for Hebrew shows different ALLOWED/BLOCKED patterns for the intersection of these dimensions with constructional functions than for other languages. Specifically, CF-14 (epistemic source marking) and CF-15 (discourse marker use) are both ALLOWED for D-G (belief) in Hebrew in ways not attested in other languages.
+
+**The Quechua evidential system creates a unique structural realization of CF-14 (epistemic source marking) that is incompatible with the optional lexical strategies used in all other languages.** The obligatory -mi/-si/-cha suffixes mean that in Quechua, CF-14 is not a separate optional construction but an obligatory component of every main-clause truth attribution (CF-1). This structural integration of CF-1 and CF-14 in Quechua has no parallel in the other 7 languages.
+
+**The Sanskrit two-truths framework (vyavahāra/paramārtha) creates a unique realization of D-J (Appearance vs. Reality) that is not available in other languages.** The dedicated adverbial forms (vyavahārataḥ, paramārthataḥ) and the locative domain constructions (vyavahāre satyam, paramārthe satyam) allow Sanskrit to relativize truth claims to levels of analysis in a way that has no structural parallel in the other 7 languages. For Sanskrit, CF-1 (copular attribution) applied to D-A (propositional correspondence) is systematically modified by a domain-level locative construction that is absent elsewhere.
+
+**The Greek ψευδ- prefix creates a unique productive system for evaluating false claims to category membership.** This system — generating ψευδοεπιστήμη, ψευδοδημοκρατία, ψευδοδιανοούμενος, etc. — is not a simple extension of CF-3 (adnominal modification) but a distinct constructional function (evaluating whether something falsely claims to belong to a legitimate category) that is not systematically available in the other 7 languages. The closest parallels (en pseudoscience, zh 伪科学) are less productive and less systematically derived from the primary falsity root.
+
+**The Tagalog totoo/tunay split creates the clearest lexical separation between D-A (propositional correspondence) and D-B (material authenticity) in the corpus.** In all other languages, the primary truth term (真, אמת, satya, αλήθεια, true, kweli, chiqan) can be applied to both propositions and objects, with specialized terms for material authenticity being secondary. In Tagalog, totoo is restricted to propositional truth while tunay is the primary term for material authenticity and sincerity. This means that for Tagalog, the constraint matrix shows different ALLOWED patterns for D-A vs. D-B across multiple constructional functions.
+
+**The Tagalog tama na cessation extension creates a unique semantic drift from D-C (procedural correctness) into a cessation/sufficiency domain not found in other languages.** The construction tama na (enough/stop) is rated [CORE] in the F6 data but represents a semantic extension of the correctness term into a domain (cessation of action) that is not part of the truth-related semantic field in any other language in the corpus. This extension is language-specific and does not appear in the constraint matrix as a cross-linguistic pattern.
+
+**The D-G (belief) dimension is the most weakly attested dimension in the corpus.** It is clearly lexicalized only in Hebrew. In all other languages, belief vocabulary exists but is not consistently integrated into the truth-domain vocabulary as documented in the F1 tables. The constraint matrix for D-G is therefore largely INSUFFICIENT DATA, and the VARIABLE ratings in that row reflect genuine uncertainty about cross-linguistic patterns rather than confirmed variability.
+
+---
+
+### 5.4 Confidence Assessment
+
+**Strong evidence (multiple languages, consistent F6 ratings, documented in F4 and F5):**
+- CF-1, CF-2, CF-3, CF-8 are ALLOWED for all lexicalized dimensions (confidence: high)
+- CF-18 (light verb + truth/falsity object) is ALLOWED for D-A, D-D, D-L (confidence: high)
+- CF-6 (causative verification) is ALLOWED for D-A, D-B, D-C, D-I, D-K (confidence: high)
+- CF-10 (positive agentive) is BLOCKED for D-B, D-C, D-F, D-L (confidence: high)
+- The liar/truth-teller agentive asymmetry (confidence: high)
+- The inchoative asymmetry (positive > negative) for D-A, D-D (confidence: high)
+- CF-15 (discourse marker) is ALLOWED for D-A, D-D (confidence: high)
+- CF-13 (deontic) is ALLOWED for D-A, D-C, D-D, D-L (confidence: high)
+
+**Moderate evidence (attested in several languages but with notable variation or gaps):**
+- CF-5 (inchoative/departing) is VARIABLE for most dimensions (confidence: moderate)
+- CF-7 (causative falsification) is VARIABLE for D-A (confidence: moderate)
+- CF-16 (revelation/concealment) is ALLOWED for D-A, D-D but VARIABLE for other dimensions (confidence: moderate)
+- CF-14 (epistemic source marking) structural split between qu and other languages (confidence: moderate)
+- D-I (validity) patterns across CF-4, CF-5, CF-6, CF-7 (confidence: moderate)
+- D-K (completeness) patterns across CF-4, CF-5, CF-6 (confidence: moderate)
+
+**Weak evidence or insufficient data:**
+- All cells in the D-G (belief) row (confidence: low — data is sparse and language-specific)
+- D-J (appearance vs. reality) across most constructional functions (confidence: low to moderate — highly language-specific)
+- D-M (precision) across CF-4, CF-5, CF-7, CF-13, CF-14, CF-15, CF-16, CF-17 (confidence: low — limited F4/F5 documentation)
+- D-E (moral rightness) across CF-6, CF-7, CF-9, CF-10, CF-12 (confidence: low to moderate)
+- D-F (reliability) across CF-4, CF-5, CF-6, CF-9, CF-10 (confidence: low to moderate — dimension is weakly attested in sa, tl, sw, qu)
+- CF-12 (comparative) for most dimensions other than D-A, D-C, D-M (confidence: low — limited F4 documentation in sa, sw, qu)
+- CF-17 (disjunctive question) for most dimensions other than D-A, D-C (confidence: low to moderate — highly language-specific realizations)

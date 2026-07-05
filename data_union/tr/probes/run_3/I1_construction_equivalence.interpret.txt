@@ -1,0 +1,88 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | §1 Attribution: [Truth-domain adjective] + [Noun], invariant adjective, pre-nominal | *doğru haber*, *sahte belge* | Direct match; fully productive | None |
+| **ADNOM** | §3 Adnominal Modification: *-lı/-li* suffix on noun base; *-sal/-sel* suffix on noun base | *geçerli pasaport*; *doğrusal denklem* | Direct match for *-lı/-li*; *-sal/-sel* is [MARGINAL], restricted to technical registers | Partial: *-sal/-sel* is register-restricted |
+| **BECOME** | §4 Inchoative: [Adj/Noun] + *-laş-/-leş-* + *-mak* | *meşrulaştı*, *gerçekleşti* | Direct match | None |
+| **REVELATION** | §9 Predicate Outcome Construction: [Truth-domain adj/noun] + *çıkmak* | *Tahmini doğru çıktı*, *Bu yalan çıktı* | Distinct from BECOME: semantically restricted to retrospective discovery; *çıkmak* is not interchangeable with *-laş-* inchoatives | No gap; REVELATION is a separate, attested operator |
+| **CAUSATION (factual)** | §5 Causative/Factitive: [Adj] + *-la-* + *-mak* | *Haberi doğrulamak gerekiyor* | Direct match for factual causation (making something true/verified) | None |
+| **CAUSATION (character)** | §5 Causative: [Inchoative stem] + *-laş-tır-* + *-mak* | *Şiddeti meşrulaştırmak* | Direct match for character/state causation (causing something to become legitimate) | None |
+| **VERIFICATION** | §5 Factitive (*doğrulamak*); §8 Light-verb (*teyit etmek*, *tasdik etmek*) | *Haberi doğrulamak gerekiyor*; *Bilgiyi teyit etmek gerekiyor* | Two distinct constructions cover VERIFICATION: native *-la-* factitive and Arabic/Persian-origin light-verb construction; both [CORE] | None |
+| **DISCONFIRMATION** | §5 Factitive (*yalanlamak*, *yanlışlamak*) | *yalanlamak* (to deny/refute); *yanlışlamak* (to falsify) | Attested via the same *-la-* factitive suffix as VERIFICATION; no separate construction type | None; VERIFICATION and DISCONFIRMATION share the same morphological construction (*-la-*) |
+| **NEGATION** | §2 Negative Attribution: predicative *değil* (analytic); privative *-sız/-siz* suffix (morphological) | *Bu haber doğru değil*; *asılsız iddialar* | Two strategies: analytic (*değil*) and morphological (*-sız/-siz*); both [CORE] | None |
+| **NOMINALIZATION** | §6 Abstract Nominalization: *-lık/-lik/-luk/-lük*; verbal-stem nominalization *-ma/-me*; §7 Agentive Nominalization: *-cı/-ci/-cu/-cü*; verbal-stem agentive *-yıcı/-yici* | *dürüstlük*, *doğruluk*, *doğrulama*; *yalancı*, *sahteci*, *doğrulayıcı* | Multiple nominalization strategies attested; abstract property, verbal process, and agentive readings all covered | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME are distinct, non-substituting operators
+
+Turkish maintains a structural distinction between BECOME and REVELATION. The inchoative suffix *-laş-/-leş-* (§4) expresses a process of change of state — the subject genuinely transitions into the truth-domain property (*meşrulaştı* — "became legitimate"). The Predicate Outcome Construction with *çıkmak* (§9) expresses retrospective discovery — the subject is evaluated as having had a truth-domain property, which is now confirmed through a process of finding out (*doğru çıktı* — "turned out to be correct"). P4b notes explicitly that *çıkmak* in this function is not interchangeable with other copular verbs. These two constructions are therefore not substitutes for each other; they express different semantic relationships. No substitution pattern is present.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share the same morphological construction
+
+Both VERIFICATION (*doğrulamak*, *teyit etmek*, *tasdik etmek*) and DISCONFIRMATION (*yalanlamak*, *yanlışlamak*) are expressed through the same *-la-* factitive suffix strategy (§5). The suffix applies to both truth-affirming bases (*doğru* → *doğrulamak*) and truth-denying bases (*yalan* → *yalanlamak*, *yanlış* → *yanlışlamak*). There is no structural asymmetry between the two operators at the constructional level; the distinction is carried entirely by the lexical base, not by any difference in morphosyntactic form. Additionally, VERIFICATION has a second construction type available — the Arabic/Persian-origin light-verb construction (*teyit etmek*, *tasdik etmek*, §8) — which has no parallel disconfirmation counterpart attested in P4a. This creates a mild asymmetry: VERIFICATION is expressed by two distinct construction types, while DISCONFIRMATION is expressed by only one.
+
+### 2.3 NEGATION is both analytic and morphological, with different scopes
+
+Turkish employs two negation strategies that are not interchangeable. The analytic strategy (*değil*, §2) is syntactic and applies to any predicative adjective; it does not produce a new lexical item and is fully compositional (*Bu haber doğru değil*). The morphological strategy (*-sız/-siz*, §2) is derivational and produces new lexical items (*asılsız*, *haksız*, *geçersiz*); it applies to nominal bases and is not freely productive across all bases. P4b notes that not all bases accept *-sız/-siz* freely. The two strategies therefore differ in scope: *değil* is unrestricted and syntactic; *-sız/-siz* is lexically selective and derivational. No substitution pattern exists between them; they operate at different levels.
+
+### 2.4 CAUSATION (factual) and CAUSATION (character) use different suffix chains
+
+The two causative subtypes are formally distinct. CAUSATION (factual) uses the *-la-* factitive suffix directly on an adjective base (*doğru* → *doğrulamak*), producing a verb meaning "to make/treat as [base]" or "to verify." CAUSATION (character) uses the *-laş-tır-* chain, which adds the causative *-tır-* to an already-inchoative stem (*meşru* → *meşrulaş-* → *meşrulaştır-*), producing a verb meaning "to cause to become [base]." These are not interchangeable: *doğrulamak* means "to verify/confirm," not "to cause something to become true," while *meşrulaştırmak* means "to legitimize," not "to verify legitimacy." The formal distinction in suffix chains corresponds to a semantic distinction between factual verification and state-change causation.
+
+### 2.5 The Concessive Partial-Truth Construction has no parallel with *hakikat* or *gerçek*
+
+P4a and P4b both note that the fixed nominal phrase *doğruluk payı* in the Concessive Partial-Truth Construction (§10) is not substitutable with *hakikat payı* or *gerçek payı*. This is a lexically specific restriction: the construction is formally available (existential *var* + locative frame) but the nominal slot is occupied by a fixed expression built on *doğruluk* specifically. This does not constitute a gap in the CLCA operator inventory but is noted as a lexical restriction within the NOMINALIZATION and ATTR domains.
+
+### 2.6 The Rights construction (§11) does not map to any canonical CLCA operator
+
+The Rights-Deprivation/Fulfillment construction (*hakkını yemek*, *hakkını vermek*, §11) involves the truth-domain lexeme *hak* (right, due, entitlement) but expresses entitlement fulfillment or violation rather than any of the ten canonical CLCA operators. It is noted here as an attested construction in the truth-domain vocabulary that falls outside the CLCA operator inventory as defined. No mapping is assigned.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**None identified.** All ten canonical CLCA operators have at least one attested construction in Turkish based on P4a and P4b data. No operator is entirely without a corresponding morphosyntactic form.
+
+### 3.2 Lexical Gaps
+
+**Partial gap in ADNOM (*-sal/-sel*):** The *-sal/-sel* adnominal modifier is rated [MARGINAL] and restricted to technical registers. Within general truth-domain discourse, this derivational strategy is not available. The *-lı/-li* strategy covers the same operator in general registers, so this is a register-internal lexical gap rather than a full structural gap.
+
+**Partial gap in DISCONFIRMATION (light-verb):** VERIFICATION has a light-verb construction (*teyit etmek*, *tasdik etmek*) with no attested parallel for DISCONFIRMATION in P4a. No *[Arabic/Persian noun] + etmek* construction expressing disconfirmation is listed. This is a lexical gap within the light-verb construction type for the DISCONFIRMATION operator specifically.
+
+### 3.3 Conceptual Gaps
+
+**None identified** from the P4a and P4b data. All canonical CLCA operators correspond to expressible meanings in Turkish.
+
+### 3.4 Asymmetric Gaps
+
+**VERIFICATION vs. DISCONFIRMATION (light-verb construction):** VERIFICATION is expressed by both the *-la-* factitive and the light-verb construction (*teyit etmek*, *tasdik etmek*). DISCONFIRMATION is expressed only by the *-la-* factitive (*yalanlamak*, *yanlışlamak*). The light-verb construction is available for VERIFICATION but not attested for DISCONFIRMATION in P4a. This is an asymmetric gap: the construction type exists in the language and is available for one polarity of the operator but not the other.
+
+**NEGATION (morphological *-sız/-siz*):** The privative suffix *-sız/-siz* applies to nominal bases and produces negated adnominal forms (*asılsız*, *haksız*, *geçersiz*). No parallel morphological negation suffix applies to verbal bases in the truth domain; verbal negation uses the standard Turkish verbal negation suffix *-ma/-me* (not listed as a separate construction in P4a). This is noted as a domain-internal asymmetry: morphological negation is available for nominal/adjectival bases but not documented as a distinct truth-domain construction for verbal bases in P4a.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Construction(s) Supporting This Assessment |
+|---|---|---|
+| **ATTR** | **Fully available** | §1 Attribution: invariant pre-nominal adjective; fully productive, all registers |
+| **ADNOM** | **Fully available** (with register restriction on one subtype) | §3: *-lı/-li* [CORE, all registers]; *-sal/-sel* [MARGINAL, technical only] |
+| **BECOME** | **Fully available** | §4 Inchoative *-laş-/-leş-*; fully productive, all registers |
+| **REVELATION** | **Fully available** | §9 Predicate Outcome Construction (*çıkmak*); semantically restricted to retrospective truth-evaluation but [CORE] within that domain |
+| **CAUSATION (factual)** | **Fully available** | §5 Factitive *-la-* (*doğrulamak*); [CORE], all registers |
+| **CAUSATION (character)** | **Fully available** | §5 Causative *-laş-tır-* (*meşrulaştırmak*); [CORE], political/academic/journalistic registers |
+| **VERIFICATION** | **Fully available** | §5 Factitive *-la-* (*doğrulamak*) + §8 Light-verb (*teyit etmek*, *tasdik etmek*); two distinct constructions, both [CORE] |
+| **DISCONFIRMATION** | **Available with substitution** | §5 Factitive *-la-* only (*yalanlamak*, *yanlışlamak*); light-verb construction not attested for this operator in P4a; shares construction type with VERIFICATION |
+| **NEGATION** | **Fully available** | §2: analytic *değil* [CORE, all registers] + morphological *-sız/-siz* [CORE, formal/legal/journalistic]; two distinct strategies |
+| **NOMINALIZATION** | **Fully available** | §6 Abstract *-lık/-lik* + verbal *-ma/-me*; §7 Agentive *-cı/-ci* + verbal-stem *-yıcı/-yici*; multiple strategies, all [CORE] |

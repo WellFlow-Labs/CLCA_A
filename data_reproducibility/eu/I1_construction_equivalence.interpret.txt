@@ -1,0 +1,204 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Basque (eu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Predicative with copula *izan* + absolutive predicate | *Hau egia da* (This is true) | Direct mapping | None |
+| **NEGATION** | Particle *ez* + copula | *Hau ez da egia* (This is not true) | Direct mapping | None |
+| **ADNOM** | Attributive with *-ko/-zko* suffix | *egiazko historia* (true story) | Direct mapping | None |
+| **BECOME** | *bihurtu* (become) + copula | *Istorioa egia bihurtu da* (The story became true) | MARGINAL - substituted by specialized verbs | Functional substitution |
+| **BECOME** (specialized) | Lexicalized inchoative verbs | *egiaztu* (to be verified), *okertu* (to go wrong) | Preferred over generic *bihurtu* | None |
+| **REVELATION** | Locative *agerian* + position/motion verbs | *Egia agerian jarri dut* (I exposed the truth), *Gezurra agerian dago* (The lie is exposed) | Direct mapping | None |
+| **CAUSATION (factual)** | Lexicalized causative verbs with *-tu/-du* | *egiaztatu* (verify), *zuzendu* (correct), *gezurtatu* (falsify) | Direct mapping via derivational morphology | None |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION** | Circumlocution required: e.g., *gezurlari bihurtu* (become a liar) | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | Lexicalized verb *egiaztatu* | *Datuak egiaztatu ditut* (I verified the data) | Direct mapping | None |
+| **DISCONFIRMATION** | Lexicalized verb *gezurtatu* | *gezurtatu* (falsify) | Direct mapping | None |
+| **NOMINALIZATION (abstract)** | Suffix *-tasun* | *egiazkotasuna* (truthfulness), *zuzentasuna* (correctness) | Direct mapping | None |
+| **NOMINALIZATION (action/result)** | Suffix *-pen* | *egiaztapen* (verification) | Direct mapping | None |
+| **NOMINALIZATION (process)** | Suffix *-tze* | *egiaztatze* (verifying) | Direct mapping | None |
+| **NOMINALIZATION (agent)** | Suffix *-tzaile* or *-lari* | *zuzentzaile* (corrector), *gezurlari* (liar) | Direct mapping | None |
+| **NOMINALIZATION (pejorative)** | Suffix *-keria* | *gezurkeria* (lying/deceit), *faltsukeria* (falseness/hypocrisy) | Direct mapping | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME → Specialized Lexicalized Verbs
+
+The generic inchoative construction with *bihurtu* (become) is rated **[MARGINAL]** for truth-domain concepts. The language strongly prefers specialized lexicalized verbs:
+- *egiaztu* (to be verified/confirmed) instead of *egia bihurtu*
+- *okertu* (to go wrong) instead of *oker bihurtu*
+
+This represents a systematic preference for derivational morphology over periphrastic constructions for change-of-state in the truth domain.
+
+### 2.2 REVELATION as Distinct Operator
+
+Basque maintains REVELATION as a distinct construction type using the locative *agerian* (in the open) combined with position/motion verbs (*jarri* "put", *utzi* "leave", *egon* "be"). This does NOT substitute for BECOME but rather expresses a separate semantic operation: making manifest or exposing what was hidden. Examples:
+- *Egia agerian jarri dut* (I exposed the truth)
+- *Gezurra agerian dago* (The lie is exposed)
+
+This construction is **[CORE]** and productive, not a substitute for inchoative meaning.
+
+### 2.3 VERIFICATION and DISCONFIRMATION: Shared Morphological Pattern
+
+Both operators use the same derivational pattern (*-tu/-du* causative suffix on roots):
+- *egiaztatu* (verify) - from *egiaz-* root
+- *gezurtatu* (falsify) - from *gezur-* root
+
+However, they are distinct lexicalized verbs, not a single construction with different arguments. The morphological parallelism is productive but each verb is independently lexicalized.
+
+### 2.4 CAUSATION: Factual vs. Character Asymmetry
+
+**Factual causation** (making something true/false/correct) is robustly expressed through lexicalized causative verbs:
+- *egiaztatu* (verify/make true)
+- *zuzendu* (correct/make right)
+- *gezurtatu* (falsify/make false)
+- *okertu* (make wrong)
+
+**Character causation** (making someone truthful/deceptive) shows a **structural gap**. No common expression exists for "make someone a liar" or "make someone truthful." The P4a data notes: "For 'truth-teller,' no single lexicalized form exists; periphrastic *egia esaten duena* (one who tells truth) is used."
+
+Circumlocution would require constructions like:
+- *gezurlari bihurtu* (become a liar) - using generic BECOME
+- *egia esatera behartu* (force to tell truth) - using force/compulsion verbs
+
+This represents a **conceptual gap** where the language does not readily encode causation of character traits in the truth domain.
+
+### 2.5 NEGATION: Analytic, Not Morphological
+
+Negation is consistently analytic, using the particle *ez* before the finite verb:
+- *Hau ez da egia* (This is not true)
+- *Zure esana ez da zuzena* (Your statement is not correct)
+
+No morphological negation (negative prefix/suffix on truth-domain roots) is attested in the data. The position of *ez* is fixed (immediately pre-verbal), and the predicate remains unchanged.
+
+### 2.6 Light Verb Constructions as Semantic Carriers
+
+Basque extensively uses NOUN + VERB collocations where the noun carries semantic weight:
+- *egia esan* (tell truth) - literally "truth say"
+- *gezurra esan* (tell lie) - literally "lie say"
+
+These function as semi-lexicalized units but are syntactically compositional. The verb *esan* (say) serves as the grammatical carrier while *egia/gezurra* provides the truth-domain semantics. This pattern is **[CORE]** and highly productive.
+
+### 2.7 Doubt/Questioning as Parallel to Revelation
+
+The construction *zalantzan jarri/egon* (call into question / be in doubt) parallels the REVELATION construction structurally:
+- Locative case (*zalantzan* "in doubt") + position verb
+- *Haren zintzotasuna zalantzan jarri dut* (I called his/her honesty into question)
+
+This represents a distinct epistemic operator (expressing uncertainty) rather than a substitute for DISCONFIRMATION. It is **[CORE]** and productive.
+
+### 2.8 Positive vs. Negative Asymmetries
+
+No systematic asymmetries appear between positive (truth/correctness) and negative (falsehood/error) forms. Both sides of the truth domain show:
+- Predicative adjectives: *egia/gezurra*, *zuzen/oker*
+- Attributive forms: *egiazko/gezurrezko*
+- Causative verbs: *egiaztatu/gezurtatu*, *zuzendu/okertu*
+- Abstract nominalizations: *egiazkotasuna/gezurtasuna*
+- Agent nominalizations: *gezurlari* (liar) - though "truth-teller" lacks a single lexeme
+
+The only notable gap is the absence of a single-word agent noun for "truth-teller," requiring periphrastic *egia esaten duena*.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**CAUSATION (character)**: No common construction exists for causing someone to become truthful or deceptive. The language lacks a productive pattern for "make X a liar" or "make X truthful." Circumlocution requires generic BECOME (*gezurlari bihurtu*) or compulsion verbs (*egia esatera behartu*).
+
+### 3.2 Lexical Gaps
+
+**Agent noun for "truth-teller"**: No single lexicalized form exists. The language uses periphrastic *egia esaten duena* (one who tells truth). This contrasts with *gezurlari* (liar), which is fully lexicalized.
+
+### 3.3 Conceptual Gaps
+
+**Character causation** represents a conceptual gap where the language does not readily encode the causation of truth-related character traits. This is distinct from factual causation (making statements/documents true/false), which is robustly expressed.
+
+### 3.4 Asymmetric Gaps
+
+**Agent nominalization asymmetry**: 
+- Negative agent (*gezurlari* "liar") is lexicalized with *-lari* suffix
+- Positive agent ("truth-teller") requires periphrastic expression
+- This is the only clear positive/negative asymmetry in the data
+
+### 3.5 Non-Gaps (Clarifications)
+
+**Generic BECOME is not missing**: The construction *X bihurtu da* exists but is **[MARGINAL]** for truth-domain concepts because specialized lexicalized verbs (*egiaztu*, *okertu*) are strongly preferred. This is a preference pattern, not a structural gap.
+
+**DISCONFIRMATION is not missing**: *Gezurtatu* (falsify) directly expresses this operator, though it may be less frequent than *egiaztatu* (verify) in actual usage.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available Operators
+
+| Operator | Primary Construction(s) | Status |
+|----------|------------------------|--------|
+| **ATTR** | Copula *izan* + absolutive predicate | [CORE] |
+| **NEGATION** | Particle *ez* + verb | [CORE] |
+| **ADNOM** | Attributive *-ko/-zko* suffix | [CORE] |
+| **REVELATION** | Locative *agerian* + position/motion verbs | [CORE] |
+| **CAUSATION (factual)** | Lexicalized causative verbs (*-tu/-du*) | [CORE] |
+| **VERIFICATION** | *egiaztatu* (verify) | [CORE] |
+| **DISCONFIRMATION** | *gezurtatu* (falsify) | [CORE] |
+| **NOMINALIZATION (abstract)** | Suffix *-tasun* | [CORE] |
+| **NOMINALIZATION (action)** | Suffix *-pen* | [CORE] |
+| **NOMINALIZATION (process)** | Suffix *-tze* | [CORE] |
+| **NOMINALIZATION (agent)** | Suffixes *-tzaile*, *-lari* | [CORE] |
+| **NOMINALIZATION (pejorative)** | Suffix *-keria* | [CORE] |
+
+### 4.2 Available with Substitution
+
+| Operator | Substitution Pattern | Status |
+|----------|---------------------|--------|
+| **BECOME** | Generic *bihurtu* → Specialized lexicalized verbs (*egiaztu*, *okertu*) | [MARGINAL] generic, [CORE] specialized |
+
+### 4.3 Partially Available
+
+| Operator | Available Form | Missing Form | Gap Type |
+|----------|---------------|--------------|----------|
+| **NOMINALIZATION (agent)** | *gezurlari* (liar) | Single-word "truth-teller" | Lexical gap - requires periphrasis |
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Description | Circumlocution Strategy |
+|----------|----------------|------------------------|
+| **CAUSATION (character)** | No common construction for causing truth-related character traits | Generic BECOME (*gezurlari bihurtu*) or compulsion verbs (*egia esatera behartu*) |
+
+---
+
+## 5. Additional Operators Attested in Basque
+
+The following operators are robustly attested in the P4a/P4b data but do not map to the canonical CLCA categories:
+
+| Operator | Construction | Example | Status |
+|----------|--------------|---------|--------|
+| **DOUBT/QUESTIONING** | Locative *zalantzan* + position verbs | *zalantzan jarri* (call into question) | [CORE] |
+| **EVIDENTIAL/APPEARANCE** | *dirudi* (seems) or *itxura du* (has appearance) | *Gezurra dirudi* (It seems like a lie) | [CORE] |
+| **MODAL NECESSITY** | *behar* (must/need) + verbal noun | *zuzendu behar dut* (I must correct) | [CORE] |
+| **POTENTIAL/EVALUATIVE** | Suffix *-garri* (worthy of/able to be) | *sinesgarria* (believable), *frogagarria* (provable) | [CORE] |
+| **COMPARATIVE** | *bezain* (as...as) for equality; *baino* + *-ago* for superiority | *hura bezain egia* (as true as that) | [CORE] |
+| **BINOMIAL EXPRESSIONS** | Fixed/semi-fixed pairs | *egia eta gezurra* (truth and falsehood) | [CORE] |
+| **REDUPLICATION** | Full reduplication for emphasis | *gezur-gezurra* (complete lie) | [CORE] |
+| **LIGHT VERB COLLOCATIONS** | NOUN + semantically light verb | *egia esan* (tell truth) | [CORE] |
+| **LOCATIVE/MANNER ADVERBIALS** | Locative *-an/-ean/-tan* | *egiatan* (in truth/truly) | [CORE] |
+| **INSTRUMENTAL ADVERBIALS** | Instrumental *-z/-ez* or adverbial *-ki* | *zuzentasunez* (rightly), *zintzoki* (honestly) | [CORE] |
+
+These represent productive morphosyntactic patterns in Basque that extend the truth-domain beyond the canonical CLCA operators.
+
+---
+
+## 6. Summary Statement
+
+Basque shows a **highly productive derivational morphology** for truth-domain concepts, with robust support for most canonical CLCA operators. The primary gaps are:
+
+1. **Character causation** (structural/conceptual gap)
+2. **Single-word "truth-teller"** (lexical gap)
+3. **Generic BECOME** (functional substitution by specialized verbs)
+
+The language strongly prefers **lexicalized causative verbs** over periphrastic constructions and maintains **distinct constructions** for REVELATION (exposure) vs. BECOME (change of state). Negation is consistently **analytic** (particle *ez*), and the language shows **no systematic positive/negative asymmetries** except in agent nominalization.

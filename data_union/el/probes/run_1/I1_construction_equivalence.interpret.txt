@@ -1,0 +1,90 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Greek (el)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + είναι + truth-domain adjective (copular attribution) | *Αυτό είναι αληθινό.* / *Η κατάθεσή του είναι ψευδής.* | Direct mapping; fully attested across all registers | None |
+| **ADNOM** | Truth-domain adjective (pre- or postnominal) + noun, with agreement | *ψευδής κατάθεση* / *αξιόπιστη πηγή* | Direct mapping; semi-fixed collocations in legal and journalistic registers | None |
+| **BECOME** | αποδείχτηκε + adjective (passive of αποδεικνύω) | *Αποδείχτηκε ψευδής.* / *Η πληροφορία αποδείχτηκε αναληθής.* | **SUBSTITUTED BY REVELATION** (see §2); γίνομαι + adjective is grammatical but noted as less natural for truth-value transitions | Lexical gap: no dedicated inchoative copula for truth-value transitions; the BECOME slot is filled by a REVELATION-type verb |
+| **REVELATION** | αποδείχτηκε + adjective/ότι-clause; διαπίστωσε ότι… | *Αποδείχτηκε ψευδής.* / *Διαπίστωσε ότι τα έγγραφα ήταν πλαστά.* | Serves as the primary expression for both REVELATION and BECOME in this domain | None (as REVELATION); see BECOME row for substitution note |
+| **CAUSATION (factual)** | Periphrastic: αποδεικνύω, επαληθεύω, διαψεύδω + NP or ότι-clause | *Απέδειξε ότι η κατάθεση ήταν ψευδής.* / *Διέψευσε τους ισχυρισμούς.* | Direct mapping via dedicated lexical verbs; no morphological causative exists | Morphosyntactic gap: no productive causative morpheme; causation is expressed only through lexically distinct verbs |
+| **CAUSATION (character)** | Agentive nominalization: ψεύτης / ψεύτρα | *ψεύτης / ψεύτρα* ("liar") | Partial mapping: the liar role is lexicalized; a truth-teller agentive (*αληθευτής) is absent and requires circumlocution | Lexical gap: no agentive nominalization for "truth-teller"; **NO COMMON EXPRESSION — circumlocution required** (*αυτός που λέει την αλήθεια*) |
+| **VERIFICATION** | Dedicated verbs: επαληθεύω, διαπιστώνω, τεκμηριώνω + NP or ότι-clause; passive forms: επαληθεύτηκε, τεκμηριώθηκε | *Τεκμηριώνει τη θέση του με στοιχεία.* / *Διαπίστωσε ότι τα έγγραφα ήταν πλαστά.* | Direct mapping; structurally distinct from ATTR in encoding an epistemic process | None |
+| **DISCONFIRMATION** | Dedicated verb: διαψεύδω + NP or ότι-clause | *Διέψευσε τους ισχυρισμούς.* | Direct mapping; lexically distinct from VERIFICATION verbs | None; however, see §2 for asymmetry note |
+| **NEGATION** | (a) Sentential: δεν + είναι + positive adjective; (b) Morphological: privative-prefixed adjective (αν-/ανα- + adjective) | *Αυτό δεν είναι αληθινό.* / *Η πηγή είναι αναξιόπιστη.* | Both strategies are attested; (a) is the default in everyday speech, (b) is preferred in formal/legal registers; not all positive adjectives have a privative counterpart | Partial lexical gap: privative morphological negation is not fully productive across all truth-domain adjectives |
+| **NOMINALIZATION** | Abstract: -εια / -ία / -ότητα suffixes; verbal: -ση suffix; agentive: -τής / -τρια suffixes | *αλήθεια*, *αξιοπιστία*, *επαλήθευση*, *ψεύτης / ψεύτρα* | Direct mapping across multiple nominalization types; each suffix class covers a distinct semantic subtype (property vs. process vs. agent) | Lexical gap: no agentive nominalization for truth-teller (see CAUSATION (character) row) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+The data in P4a and P4b consistently show that Greek does not use a dedicated inchoative copula (equivalent to English "become + adjective") for truth-value transitions. The construction γίνομαι + truth-domain adjective is noted as grammatical but explicitly described as less natural for this semantic domain. Instead, the passive form αποδείχτηκε ("it was proven / it turned out") fills the BECOME slot. This verb encodes not merely a change of state but a change of epistemic status — the transition from unverified to established-as-true or established-as-false. The REVELATION operator therefore systematically substitutes for BECOME in the truth domain. This substitution is consistent across both formal and journalistic registers. No example in the data shows a pure BECOME construction (state change without epistemic framing) that is rated as natural or core for truth-value transitions.
+
+### 2.2 VERIFICATION and DISCONFIRMATION are structurally parallel but lexically distinct
+
+VERIFICATION (επαληθεύω, διαπιστώνω, τεκμηριώνω) and DISCONFIRMATION (διαψεύδω) share the same syntactic construction type: dedicated transitive verb + NP or ότι-clause. They do not share the same construction in the sense of using the same verb or the same morphological pattern; they are lexically distinct. However, both are structurally distinguished from simple ATTR in encoding an epistemic process rather than a static property. The passive alternants (επαληθεύτηκε, τεκμηριώθηκε, διαψεύστηκε) are available for both and are used in formal and journalistic registers to background the agent. The two operators are therefore parallel in construction type but not merged into a single form.
+
+### 2.3 NEGATION is both analytic and morphological, with register asymmetry
+
+Greek supports two negation strategies in the truth domain. Sentential (analytic) negation — δεν + είναι + positive adjective — is the default across all registers and applies without restriction. Morphological (privative) negation — αν-/ανα- prefixed adjectives such as αναξιόπιστος, αναληθής, ανακριβής — is preferred in formal, legal, and journalistic registers. The two strategies are not fully interchangeable: the morphological strategy is restricted to adjectives that have a lexicalized privative counterpart, and not all positive truth-domain adjectives have one. This creates a partial asymmetry: morphological negation is available for some adjectives (αξιόπιστος → αναξιόπιστος) but not productively derivable for all (no *αναληθινός is noted as established). The analytic strategy fills the gap where morphological negation is unavailable.
+
+### 2.4 Asymmetry between liar and truth-teller in CAUSATION (character) / agentive nominalization
+
+The data show a clear lexical asymmetry: the liar role is lexicalized as ψεύτης (masc.) / ψεύτρα (fem.), which are common across all registers including colloquial speech. The truth-teller role has no established agentive nominalization; *αληθευτής is explicitly noted as not in common use, and the concept requires periphrastic expression (αυτός που λέει την αλήθεια). This asymmetry is one-directional: the negative-valence agent (liar) is lexicalized; the positive-valence agent (truth-teller) is not.
+
+### 2.5 CAUSATION (factual) is expressed through lexically distinct verbs, not a productive morphological pattern
+
+Greek has no morphological causative. The causation of truth-states is distributed across a set of dedicated verbs — αποδεικνύω, επαληθεύω, διαψεύδω, νοθεύω, πλαστογραφώ — each of which is lexically specific to a particular type of causation (proving true, verifying, showing false, adulterating, forging). These verbs are not derived from truth-domain adjectives via a productive causative morpheme. The CAUSATION operator is therefore available but only through lexical enumeration, not through a productive morphosyntactic pattern.
+
+### 2.6 Discourse-framing constructions are pragmatically distinct from ATTR
+
+The discourse-framing constructions (η αλήθεια είναι ότι…, για να λέμε την αλήθεια…) use αλήθεια as a discourse particle to signal speaker stance (candor, frankness, correction). These are noted in P4a and P4b as pragmatically distinct from propositional attribution: they do not evaluate a proposition's truth-value but introduce a speaker's commitment to frankness. They do not map directly to any of the ten CLCA operators as defined, functioning instead as sincerity or stance markers. They are noted here for completeness but are not assigned to a CLCA operator category.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **BECOME (dedicated inchoative copula for truth-value transitions):** No dedicated inchoative copula equivalent to "become + truth-domain adjective" is attested as natural or core for this domain. The slot is structurally filled by the REVELATION verb αποδείχτηκε. This is a morphosyntactic gap in the BECOME category specifically: the construction type exists in Greek (γίνομαι + adjective) but is not the natural or preferred form for truth-value transitions.
+
+- **CAUSATION (morphological causative):** Greek has no productive morphological causative. The CAUSATION operator is expressed only through lexically distinct dedicated verbs. This is a morphosyntactic gap: the construction type (morphological causative) does not exist in Greek generally, not only in the truth domain.
+
+### 3.2 Lexical Gaps
+
+- **Truth-teller agentive nominalization:** *αληθευτής is not in common use. The concept requires periphrastic expression. This is a lexical gap within the CAUSATION (character) / agentive nominalization category.
+
+- **Privative adjective counterparts:** Not all positive truth-domain adjectives have a lexicalized privative counterpart. The morphological negation strategy is therefore not fully productive across the domain. This is a partial lexical gap within the NEGATION category.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the data. All ten CLCA operators can be expressed in Greek, either directly or through substitution or circumlocution. No operator appears to be blocked by the conceptual structure of the language as described in P4a and P4b.
+
+### 3.4 Asymmetric Gaps
+
+- **Liar vs. truth-teller agentive:** The negative-valence agent (liar: ψεύτης / ψεύτρα) is fully lexicalized and common across registers. The positive-valence agent (truth-teller) has no established lexical form and requires circumlocution. The gap is one-directional: only the positive-valence agentive is missing.
+
+- **Morphological negation coverage:** Morphological (privative) negation is available for some truth-domain adjectives (e.g., αξιόπιστος → αναξιόπιστος, ακριβής → ανακριβής) but not for all (e.g., no established *αναληθινός noted). The gap affects the positive-to-negative derivation for a subset of adjectives; the analytic negation strategy is available as a universal fallback.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Copular attribution with truth-domain adjectives is the default frame across all registers; adjective choice varies by register |
+| **ADNOM** | Fully available | Pre- and postnominal adjective modification with agreement; semi-fixed collocations established in legal and journalistic registers |
+| **BECOME** | Available with substitution | **SUBSTITUTED BY REVELATION** (αποδείχτηκε); γίνομαι + adjective is grammatical but not the natural or preferred form for truth-value transitions |
+| **REVELATION** | Fully available | αποδείχτηκε and διαπίστωσε ότι… are well established; serves double duty as the primary expression for both REVELATION and BECOME in this domain |
+| **CAUSATION (factual)** | Available with substitution | No morphological causative; expressed through lexically distinct dedicated verbs (αποδεικνύω, επαληθεύω, διαψεύδω, νοθεύω, πλαστογραφώ); morphosyntactic gap in productive causative formation |
+| **CAUSATION (character)** | Partially available | Negative-valence agent (ψεύτης / ψεύτρα) is fully lexicalized; positive-valence agent (truth-teller) is absent — **NO COMMON EXPRESSION — circumlocution required** |
+| **VERIFICATION** | Fully available | Dedicated verbs (επαληθεύω, διαπιστώνω, τεκμηριώνω) with NP or ότι-complement; passive alternants available; common in formal, journalistic, and academic registers |
+| **DISCONFIRMATION** | Fully available | Dedicated verb διαψεύδω with NP complement; structurally parallel to VERIFICATION but lexically distinct; well established in journalistic and formal registers |
+| **NEGATION** | Fully available (analytic); partially available (morphological) | Analytic negation (δεν + είναι + adjective) is fully productive across all registers and adjectives; morphological negation (privative prefix αν-/ανα-) is available for a subset of adjectives and preferred in formal registers but not fully productive |
+| **NOMINALIZATION** | Fully available | Multiple productive suffix classes cover abstract property nominalizations (-εια, -ία, -ότητα), process nominalizations (-ση), and agentive nominalizations (-τής / -τρια); lexical gap for truth-teller agentive only |

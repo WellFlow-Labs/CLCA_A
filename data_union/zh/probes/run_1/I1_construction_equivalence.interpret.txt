@@ -1,0 +1,102 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + 是 + truth/authenticity adjective + 的 (P4a §1) | 这是真的。/ 这份报告是虚假的。 | Direct mapping; fully productive across all truth-domain adjectives | None |
+| **ADNOM** | Truth/authenticity adjective + 的 + Noun (P4a §3) | 可靠的证据 / 客观的评价 | Direct mapping; highly productive | None |
+| **BECOME** | 变得 + adjective (P4a §4); lexicalized: 弄假成真, 假戏真做 | 真相变得难以查明 / 弄假成真 | Partially available: 变得 applies only to gradable adjectives; categorical 真/假 blocked; lexicalized forms cover pretense-to-reality transition only | Partial: categorical terms (真/假) do not enter productive BECOME construction |
+| **REVELATION** | Verb + 真相/事实/真伪 (revealing set) (P4a §9) | 揭露真相 / 查明真相 / 还原事实 | Direct mapping to revealing/establishing sub-set of Construction 9 | None |
+| **CAUSATION (factual)** | 使/让 + NP + adjective/verb (P4a §5); lexicalized: 以假乱真 | 这种做法使报道失真。/ 以假乱真 | Direct mapping; productive periphrastic form (使/让) plus lexicalized form | None |
+| **CAUSATION (character)** | No dedicated construction attested | — | **SUBSTITUTED BY** periphrastic description (e.g., 他的虚伪使人误解) using the same 使/让 frame as factual causation, or by agentive nominalization (伪善者, P4a §7) | No construction dedicated to character-based causation is distinguished from factual causation in the data |
+| **VERIFICATION** | Verb + 真相/事实/真伪 (establishing sub-set, P4a §9); discourse marker 事实上 (P4a §10) | 查明真相 / 属实 / 事实上，情况并非如此 | Partially mapped: establishing verbs (查明, 还原) cover verification of facts; 属实 is a lexicalized resultative; no dedicated productive VERIFICATION construction distinct from the broader investigative collocation pattern | Partial: no construction exclusively dedicated to VERIFICATION as a distinct operator; it is subsumed within Construction 9 |
+| **DISCONFIRMATION** | Verb + 真相/事实/真伪 (concealing/distorting set, P4a §9); discourse marker 事实上 used to correct prior claim (P4a §10) | 歪曲事实 / 掩盖真相 / 事实上，情况并非如此 | Partially mapped: distorting/concealing verbs cover the falsification side; 事实上 as corrective discourse marker covers propositional disconfirmation; no single dedicated DISCONFIRMATION construction | Partial: DISCONFIRMATION is distributed across Construction 9 (distorting set) and Construction 10 (corrective adverbial); not a unified operator |
+| **NEGATION** | Subject + 不是 + adjective + 的; Subject + 不 + adjective (P4a §2) | 这不是真的。/ 他的判断不准确。 | Direct mapping; analytic (pre-adjectival 不 or copular 不是…的); no morphological negation | None; negation is fully analytic |
+| **NOMINALIZATION** | Base + 性 (abstract property); Base + 上 (adverbial); Base + 度 (degree, marginal); Base + 者 (agentive) (P4a §§6–7) | 真实性 / 本质上 / 失真度 / 造假者 | Direct mapping for abstract property (性) and agentive (者); adverbial 上-forms overlap with DISCOURSE MARKER function; 度 is marginal | None for core types; 度 is marginal/restricted |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION does not substitute for BECOME; both are present but functionally distinct
+
+In the P4a data, REVELATION (Construction 9, revealing set: 揭露真相, 查明真相) and BECOME (Construction 4: 变得, 弄假成真) are attested as separate construction types with non-overlapping functions. REVELATION encodes an agent acting to uncover a pre-existing state; BECOME encodes a change of state in the truth-value of a situation or entity. There is no evidence in the data that one systematically substitutes for the other.
+
+### 2.2 BECOME is partially blocked for categorical truth terms
+
+The productive BECOME construction (变得 + adjective) applies to gradable truth-domain adjectives (准确, 可靠, 客观) but is noted as semantically odd with categorical 真/假. The lexicalized four-character expressions 弄假成真 and 假戏真做 fill the specific niche of pretense-to-reality transition for categorical terms, but these are fixed expressions, not productive constructions. The result is a partial gap: BECOME for categorical truth/falsity is not expressible through a productive open construction and requires either a lexicalized idiom or circumlocution.
+
+### 2.3 CAUSATION (factual) and CAUSATION (character) share the same construction frame
+
+The data provides a single productive causative construction (使/让 + NP + result) that covers both factual causation (causing a report to become distorted: 使报道失真) and, by extension, character-based causation (causing someone to be misled through false virtue). No dedicated construction for CAUSATION (character) is distinguished in the data. The agentive nominalization (伪善者, 造假者, P4a §7) encodes the agent of character-based falsification but does not itself constitute a causative construction. CAUSATION (character) is therefore expressed through the same 使/让 frame as factual causation, with no structural differentiation.
+
+### 2.4 VERIFICATION and DISCONFIRMATION share Construction 9 and are not structurally distinguished
+
+Both VERIFICATION (establishing the truth: 查明真相, 属实) and DISCONFIRMATION (distorting or concealing truth: 歪曲事实, 掩盖真相) are expressed through the same verb + truth-noun collocation pattern (Construction 9). The two functions are differentiated only by the semantic class of the verb (revealing/establishing vs. concealing/distorting), not by any distinct construction type. Additionally, the discourse marker construction (事实上, Construction 10) performs a corrective/disconfirmatory function at the propositional level, partially overlapping with DISCONFIRMATION. VERIFICATION and DISCONFIRMATION thus share the same construction and are not formally distinguished.
+
+### 2.5 NEGATION is fully analytic; no morphological negation is attested
+
+The data documents two analytic negation patterns: the copular 不是…的 (emphatic/contrastive) and the pre-adjectival 不 (neutral). No morphological negation (e.g., prefixation) is attested for truth-domain adjectives. The choice between the two analytic patterns reflects pragmatic emphasis (contrastive vs. neutral) rather than grammatical restriction. 没有 is explicitly noted as not used for property negation in this domain.
+
+### 2.6 Asymmetry in agentive nominalization: negative pole only
+
+The agentive nominalization construction (Base + 者, Construction 7) is attested exclusively for negative-pole agents: 伪善者 (hypocrite), 造假者 (fabricator), 作假者 (falsifier). No positive-pole agentive ("truth-teller") is lexicalized via 者-suffixation. The nearest positive-pole equivalents are periphrastic (说真话的人, 如实陈述的人) or use a different construction type (诚实的人). This asymmetry is explicitly noted in P4a and P4b and is supported by the data.
+
+### 2.7 Prohibitive construction is restricted to the falsification sub-domain
+
+The prohibitive/normative construction (严禁/不得 + verb phrase, Construction 8) is restricted to the deliberate-falsification cluster (弄虚作假, 造假, 作假, 伪造). It does not extend to truth-evaluation adjectives (正确, 真实) or authenticity nouns (真相, 事实). This restriction means that the prohibitive construction does not map onto any of the canonical CLCA operators in a general way; it is a domain-internal construction specific to the falsification sub-domain.
+
+### 2.8 Discourse marker construction partially overlaps with DISCONFIRMATION and VERIFICATION
+
+The 上-adverbial construction (事实上, 本质上, 实质上, Construction 10) functions to introduce corrections or claims about underlying reality. When used to contradict a prior claim (事实上，情况并非如此), it performs a DISCONFIRMATION function at the discourse level. When used to assert an underlying truth (本质上，这两个问题是一样的), it performs a function closer to VERIFICATION or ATTR. The construction is not dedicated to either operator but overlaps with both depending on discourse context.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character):** No construction dedicated to character-based causation is distinguished from factual causation in the data. The same 使/让 frame covers both. This is a **morphosyntactic gap**: the language does not structurally differentiate the two causation types.
+- **BECOME (categorical terms):** No productive open construction for BECOME applies to categorical truth terms (真/假). The lexicalized idioms 弄假成真 and 假戏真做 cover a specific sub-case (pretense to reality) but are not generative. This is a **morphosyntactic gap** for the categorical sub-domain.
+- **VERIFICATION as a distinct operator:** No construction exclusively dedicated to VERIFICATION is attested. Verification meaning is subsumed within the broader verb + truth-noun collocation pattern (Construction 9). This is a **morphosyntactic gap**: VERIFICATION is not structurally distinguished from the general investigative/epistemic collocation pattern.
+- **DISCONFIRMATION as a distinct operator:** Similarly, DISCONFIRMATION is not a structurally distinct construction; it is distributed across the distorting/concealing set of Construction 9 and the corrective use of Construction 10. This is a **morphosyntactic gap**.
+
+### 3.2 Lexical Gaps
+
+- **Positive-pole agentive nominalization:** No lexicalized 者-suffixed form for "truth-teller" or equivalent positive-pole agent is attested. The gap is filled by periphrastic expressions (说真话的人, 如实陈述的人). This is a **lexical gap** (missing word, not missing construction).
+- **Degree nominalization (度):** Only one attested form (失真度) in the degree nominalization pattern. The construction is not productive in this domain. This is a **lexical gap** within a marginally attested construction.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the data alone. All canonical CLCA operators are either directly attested, partially attested, or expressible through circumlocution or substitution. No operator is blocked by a conceptual constraint documented in P4a or P4b.
+
+### 3.4 Asymmetric Gaps
+
+- **Agentive nominalization (者-suffixation): negative pole only.** Agentives for falsifiers (伪善者, 造假者, 作假者) are lexicalized; agentives for truth-tellers are not. The positive pole requires periphrasis. This is an **asymmetric lexical gap**: the construction exists but is only productively filled on the negative pole.
+- **Prohibitive construction: falsification sub-domain only.** The prohibitive/normative construction (严禁/不得) applies only to deliberate falsification vocabulary, not to truth-evaluation adjectives or authenticity nouns. There is no corresponding normative construction for the positive pole (e.g., no productive "it is required to tell the truth" construction parallel to "it is forbidden to falsify"). This is an **asymmetric structural gap** within the prohibitive sub-domain.
+- **BECOME: gradable adjectives only.** The productive BECOME construction (变得) applies to gradable truth-domain adjectives but not to categorical 真/假. This is an **asymmetric structural gap** within the BECOME operator, where the gradable sub-domain is covered but the categorical sub-domain is not.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Subject + 是 + adjective + 的; productive across all truth-domain adjectives; all registers |
+| **ADNOM** | Fully available | Adjective + 的 + Noun; highly productive across full vocabulary |
+| **NEGATION** | Fully available | Fully analytic: 不是…的 (emphatic) and 不 + adjective (neutral); no morphological negation |
+| **NOMINALIZATION** | Fully available | 性 (abstract property, productive); 者 (agentive, productive but asymmetric); 上 (adverbial, productive); 度 (marginal) |
+| **REVELATION** | Fully available | Verb + 真相/事实/真伪 (revealing set); productive collocation pattern across registers |
+| **CAUSATION (factual)** | Fully available | 使/让 + NP + result; productive periphrastic causative; lexicalized supplement (以假乱真) |
+| **CAUSATION (character)** | Available with substitution | **SUBSTITUTED BY** the same 使/让 frame as factual causation; no structural differentiation; agentive nominalization (伪善者) encodes the agent but not the causative relation |
+| **BECOME** | Partially available | Productive for gradable adjectives (变得 + adjective); blocked for categorical 真/假 in productive construction; lexicalized idioms (弄假成真, 假戏真做) cover pretense-to-reality sub-case only |
+| **VERIFICATION** | Partially available | Subsumed within Construction 9 (establishing verbs: 查明, 还原, 属实); not a structurally distinct operator |
+| **DISCONFIRMATION** | Partially available | Distributed across Construction 9 (distorting/concealing verbs) and Construction 10 (corrective discourse marker 事实上); not a structurally distinct operator |
+
+---
+
+*End of I1 output.*

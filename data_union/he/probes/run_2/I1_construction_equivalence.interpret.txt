@@ -1,0 +1,96 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Adjective (truth-domain) + Noun, post-nominal, with gender/number/definiteness agreement (P4a §1) | *ḥaver ʾamiti* ("a genuine friend"); *ʿed meheymen* ("a credible witness") | Direct mapping; no substitution required | None |
+| **ADNOM** | Construct state (*smikhut*) or *shel* periphrastic genitive with truth-domain noun as modifier (P4a §3) | *ʿedut sheker* ("false testimony"); *regaʿ ha-ʾemet* ("the moment of truth") | Direct mapping; no substitution required | None |
+| **BECOME** | Intransitive verb + truth-domain noun subject (*hitʿarer*, *gadal*); hitpaʿel binyan with inchoative force; *lehafokh le-* + noun (P4a §4) | *ha-ʾimun hitʿarer* ("the trust was shaken"); *ha-safek gadal* ("the doubt grew") | Direct mapping; no single dedicated morphological form; expressed through intransitive verbs and hitpaʿel binyan | None as gap; morphosyntactic note: no dedicated inchoative morpheme — construction is periphrastic or binyan-based |
+| **REVELATION** | Verbal periphrasis: general-purpose verb (*legallot*, *laḥsof*) + *ha-ʾemet* as direct object (P4a §10); hitpaʿel form *lehitgalaʾh ke-mezuyaf* noted under §4 | *legallot et ha-ʾemet* ("to reveal the truth"); *lehitgalaʾh ke-mezuyaf* ("to turn out to be a forgery") | Partially overlaps with BECOME domain: *lehitgalaʾh ke-* ("to turn out to be") appears under inchoative listing (P4a §4) and also functions as a revelation frame | No gap; REVELATION and BECOME share surface overlap in *lehitgalaʾh ke-* construction — see §2 below |
+| **CAUSATION (factual)** | Hifʿil binyan verb (*leʾasher*, "to confirm/authorize"); periphrastic *lgaram she-* + clause (P4a §5) | *leʾasher* ("to confirm, to authorize"); *lgaram she-* + clause | Direct mapping for factual causation via *leʾasher* and *lgaram she-*; morphological causative available but lexicalized | Partial: morphological causative (hifʿil) has lexicalized away from transparent causative meaning for some roots (e.g., *lehaʾamin* = "to believe," not "to cause to believe") |
+| **CAUSATION (character)** | No dedicated construction identified in P4a or P4b for causing a person to acquire a truth-domain character trait | — | **SUBSTITUTED BY** periphrastic *lgaram le-mishehu lehaʾamin* for the belief-causation case; no attested form for causing character-level traits (e.g., causing someone to become trustworthy) | **NO COMMON EXPRESSION — circumlocution required** for character-level causation; the data show only act-level periphrastic causation |
+| **VERIFICATION** | Truth-predicate frame *nakhon she-* + embedded clause in interrogative contexts (P4a §8); verbal periphrasis *levarer et ha-ʾemet* ("to ascertain the truth") (P4a §10) | *nakhon she-ʾamarta she-lo hayita sham?* ("is it correct that you said you were not there?"); *levarer et ha-ʾemet* | Direct mapping; *nakhon she-* is the primary interrogative verification frame; *levarer* is the primary verbal form | None |
+| **DISCONFIRMATION** | Truth-predicate frame *ze lo nakhon* ("that is not correct") (P4a §8, §2); predicative negation *ha-meqor lo meheymen* (P4a §2); verbal periphrasis *leʿavvet et ha-ʾemet* ("to distort the truth"), *lesalef* ("to falsify") (P4a §10) | *ze lo nakhon* ("that is not correct"); *leʿavvet et ha-ʾemet* ("to distort the truth") | Direct mapping; DISCONFIRMATION and VERIFICATION share the *nakhon she-* / *ze lo nakhon* frame — see §2 below | None as gap; note shared construction base with VERIFICATION |
+| **NEGATION** | Predicative negation with *lo* before adjective (P4a §2); nominal alternative *ḥoser* + abstract noun (P4a §2) | *ha-meqor lo meheymen* ("the source is not reliable"); *ḥoser kanut* ("lack of sincerity") | Analytic (syntactic *lo*); no productive morphological negative prefix for truth-domain adjectives | Morphosyntactic note: **no morphological negation** — negation is exclusively analytic in this domain; *ḥoser* + noun is a nominal circumlocution, not a morphological negative |
+| **NOMINALIZATION** | Abstract nominalization: adjectival/verbal stem + *-ut* suffix (P4a §6); agentive nominalization: *-an* suffix (habitual) or active participle (act-based) (P4a §7); verbal nouns via piʿel and hifʿil binyanim (P4a §6) | *ʾaminut* ("credibility"); *meqoriyut* ("originality"); *shaqran* ("liar"); *mezayef* ("forger"); *ziyyuf* ("forgery"); *honaʾaʾh* ("deception") | Direct mapping; two distinct nominalization subtypes (abstract quality vs. agentive) are both fully attested and productive | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME: Partial Overlap
+
+The construction *lehitgalaʾh ke-* ("to turn out to be") is listed in P4a §4 under the BECOME/inchoative category, but its semantic content is closer to what CLCA labels REVELATION: it describes a state of affairs becoming known or apparent rather than a subject undergoing a change of state. The example *lehitgalaʾh ke-mezuyaf* ("to turn out to be a forgery") describes the epistemic exposure of a pre-existing condition, not a transition into a new state. In the P4a and P4b data, this construction appears only once, under the inchoative listing, and is not separately categorized. The data do not support a strong claim that REVELATION systematically replaces BECOME in Hebrew; rather, one construction (*lehitgalaʾh ke-*) straddles both operators. The two operators are otherwise served by distinct constructions: BECOME by *hitʿarer*, *gadal*, and *lehafokh le-*; REVELATION by *legallot*, *laḥsof*, and *laḥsof et ha-ʾemet*.
+
+### 2.2 VERIFICATION and DISCONFIRMATION: Shared Construction Base
+
+VERIFICATION and DISCONFIRMATION in Hebrew share the same constructional base. The truth-predicate frame *nakhon she-* (P4a §8) serves VERIFICATION in interrogative contexts (*nakhon she-ʾamarta...?*), while the negated form *ze lo nakhon* (P4a §2, §8) serves DISCONFIRMATION in declarative contexts. The two operators are thus distinguished by illocutionary force (interrogative vs. declarative) and by the presence or absence of *lo*, not by separate constructions. This is explicitly noted in P4b: *nakhon she-* is "restricted to interrogative illocutionary force" and *ha-ʾemet hi she-* is "restricted to declarative illocutionary force." The data show no case where VERIFICATION and DISCONFIRMATION require entirely different constructional resources.
+
+### 2.3 CAUSATION (factual) and CAUSATION (character): Asymmetry
+
+The data show a clear asymmetry between factual and character-level causation. Factual causation is served by the hifʿil binyan (*leʾasher*, *letsdiq*) and by periphrastic *lgaram she-* + clause. Character-level causation — causing a person to acquire or lose a truth-domain character trait (e.g., causing someone to become trustworthy or to become a liar) — has no attested construction in P4a or P4b. The only causation example that approaches this domain is *lgaram le-mishehu lehaʾamin* ("to cause someone to believe"), which is act-level (causing a belief state) rather than character-level (causing a person to become a believer by disposition). No example of causing someone to become *shaqran* ("a liar by character") or *meheymen* ("reliable by character") is attested. This asymmetry is not explicitly flagged in P4a or P4b but is derivable from the absence of any such example across the full dataset.
+
+### 2.4 Morphological Causative Lexicalization
+
+The hifʿil binyan, which is the standard morphological causative in Hebrew, has undergone lexicalization for several truth-domain roots such that the causative meaning is no longer transparently available. *Lehaʾamin* (hifʿil of א-מ-נ) means "to believe," not "to cause to believe." This means that for these roots, CAUSATION (factual) in the sense of causing a belief or credibility state must be expressed periphrastically. The morphological causative is available and productive for other roots in the domain (*letsdiq*, *leʾasher*), so this is a lexical gap for specific items rather than a morphosyntactic gap in the causative construction itself.
+
+### 2.5 NEGATION: Exclusively Analytic
+
+Hebrew expresses negation of truth-domain qualities exclusively through the analytic particle *lo* in predicative position. There is no productive morphological negative prefix for truth-domain adjectives (P4a §2 explicitly states: "There is no productive negative prefix, e.g., *\*lo-meheymen* as a compound attributive, in standard usage"). The nominal alternative *ḥoser* + abstract noun (*ḥoser kanut*, "lack of sincerity") provides a circumlocutionary nominal strategy but does not constitute a morphological negative. This is a morphosyntactic gap relative to languages that have productive negative attributive prefixes, but it is not a functional gap: the analytic construction is fully productive and rated [CORE].
+
+### 2.6 Positive/Negative Asymmetry in Attributive Position
+
+A directional asymmetry is observable between positive and negative attribution. Positive truth-domain attribution is available in both attributive position (*ʿed meheymen*, "a credible witness") and predicative position (*ha-meqor meheymen*, "the source is reliable"). Negative attribution is available only in predicative position (*ha-meqor lo meheymen*, "the source is not reliable"); there is no attributive negative form (*\*ʿed lo-meheymen* is not a standard construction). This means that to express "an unreliable source" attributively, Hebrew requires either a predicative relative clause (*meqor she-ʾeno meheymen*, "a source that is not reliable") or a nominal circumlocution. This asymmetry is derivable from the P4a §2 note but is not explicitly stated there.
+
+### 2.7 Indefinite/Definite Contrast in Verbal Periphrasis
+
+Within the VERBAL PERIPHRASIS construction (P4a §10), the data show a systematic contrast between indefinite and definite use of the truth-domain noun as object. *Ledaber ʾemet* ("to tell the truth," lit. "to speak truth") requires the indefinite form and is a fixed collocation. *Leʿavvet et ha-ʾemet* ("to distort the truth") requires the definite form with the accusative marker *et*. P4b notes that "the indefinite noun (*ʾemet* without *ha-*) is obligatory in this collocation" for *ledaber ʾemet*, while "the definite object (*ha-ʾemet* with *et*) is the expected form when referring to a specific truth" for distortion/concealment verbs. This contrast is internal to the construction and does not constitute a gap, but it is a systematic constraint on the distribution of definiteness within the verbal periphrasis pattern.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No full structural gaps are identified. All ten CLCA operators listed in the mapping table have at least one attested construction in the P4a/P4b data, with the exception noted under CAUSATION (character) below.
+
+### 3.2 Lexical Gaps
+
+- **Morphological causative for *lehaʾamin***: The hifʿil form *lehaʾamin* has lexicalized as "to believe" and does not transparently express "to cause to believe." This is a lexical gap for this specific root: the causative meaning must be expressed periphrastically (*lgaram le-mishehu lehaʾamin*). The morphological causative construction itself is not absent.
+- **Negative attributive adjective**: There is no single-word negative attributive form for truth-domain adjectives (e.g., no lexical item equivalent to "unreliable" functioning as a pre-nominal or post-nominal attributive modifier without a relative clause). The gap is at the level of individual lexical items rather than the construction type.
+
+### 3.3 Morphosyntactic Gaps
+
+- **No productive morphological negative prefix for truth-domain adjectives**: Negation in attributive position requires a relative clause strategy (*meqor she-ʾeno meheymen*) or predicative restatement. The analytic *lo* is restricted to predicative position. This is a morphosyntactic gap in the attributive negative construction specifically.
+- **No dedicated inchoative morpheme**: BECOME is expressed through intransitive verbs, the hitpaʿel binyan, or periphrastic *lehafokh le-*. There is no single morphological marker dedicated to inchoative meaning in this domain.
+
+### 3.4 Conceptual Gaps
+
+No conceptual gaps are identifiable from the data. All operators — including REVELATION, VERIFICATION, DISCONFIRMATION, and NEGATION — are expressible in Hebrew, though some require periphrastic or analytic strategies.
+
+### 3.5 Asymmetric Gaps
+
+- **CAUSATION (character) vs. CAUSATION (factual)**: Factual causation is attested with multiple constructions. Character-level causation (causing a person to acquire or lose a truth-domain character trait) has **no attested construction** in the P4a/P4b data. This is an asymmetric gap: **NO COMMON EXPRESSION — circumlocution required** for CAUSATION (character).
+- **Positive vs. negative attribution**: Positive truth-domain attribution is available in both attributive and predicative positions. Negative attribution is available only in predicative position; attributive negative modification requires a relative clause. This is an asymmetric morphosyntactic gap affecting the negative side of the ATTR operator.
+- **Indefinite vs. definite in verbal periphrasis**: Truth-affirming verbal periphrasis (*ledaber ʾemet*) uses the indefinite noun; truth-distorting verbal periphrasis (*leʿavvet et ha-ʾemet*) uses the definite noun. This is an asymmetry internal to the VERBAL PERIPHRASIS construction, not a gap, but it is directionally consistent: positive/affirming collocations favor indefinite; negative/distorting collocations favor definite.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Post-nominal attributive with obligatory agreement; both attributive and predicative positions attested; [CORE] rating |
+| **ADNOM** | **Fully available** | Construct state (*smikhut*) and *shel* periphrastic genitive both productive; [CORE] rating |
+| **BECOME** | **Fully available** | Expressed through intransitive verbs (*hitʿarer*, *gadal*), hitpaʿel binyan, and *lehafokh le-*; no dedicated morpheme but construction is productive; [CORE] rating |
+| **REVELATION** | **Fully available** | Expressed through verbal periphrasis (*legallot*, *laḥsof* + *ha-ʾemet*) and *lehitgalaʾh ke-*; partial overlap with BECOME in *lehitgalaʾh ke-* construction |
+| **CAUSATION (factual)** | **Available with substitution** | Hifʿil binyan productive for some roots (*leʾasher*, *letsdiq*); lexicalized away from causative meaning for *lehaʾamin*; periphrastic *lgaram she-* available as substitute |
+| **CAUSATION (character)** | **Missing entirely** | No attested construction for causing a person to acquire or lose a truth-domain character trait; **NO COMMON EXPRESSION — circumlocution required** |
+| **VERIFICATION** | **Fully available** | *Nakhon she-* frame (interrogative); *levarer et ha-ʾemet* (verbal); [CORE] rating |
+| **DISCONFIRMATION** | **Fully available** | *Ze lo nakhon* (declarative); *leʿavvet*, *lesalef* + *ha-ʾemet* (verbal); shares construction base with VERIFICATION; [CORE] rating |
+| **NEGATION** | **Partially available** | Analytic *lo* in predicative position is fully productive; morphological negative prefix absent; attributive negative requires relative clause; *ḥoser* + noun available as nominal circumlocution |
+| **NOMINALIZATION** | **Fully available** | Abstract (*-ut* suffix), agentive (*-an* suffix; active participle), and verbal (piʿel/hifʿil binyan nouns) all productive; [CORE] rating |

@@ -1,0 +1,112 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **X (adalah) benar / betul / tepat / sesuai / sah / valid / akurat / asli / palsu** | *Informasi itu benar.*; *Dokumen ini sah.* | Direct equivalent | None |
+| ADNOM | **N yang + ADJ** / **N + ADJ** | *jawaban yang tepat*; *bukti yang sah* | Direct equivalent | None |
+| BECOME | **menjadi + ADJ/N** | *Data itu menjadi tidak valid setelah diubah.* | Direct equivalent for change-of-state | None |
+| REVELATION | **terbukti + ADJ**; also evaluative passive set **dianggap / dinyatakan / dipastikan / diduga / terbukti + ADJ** when result is presented as established/suspected/judged | *Dokumen itu terbukti palsu.*; *Data itu dianggap valid.*; *Tanda tangan itu diduga palsu.* | Direct equivalent for result-discovery / evidential revelation | None |
+| CAUSATION (factual) | Root-specific **meN- + root + -kan** causative/confirmative/validative verbs | *Pejabat itu membenarkan kabar tersebut.*; *Pemerintah mengesahkan undang-undang itu.* | Available through lexicalized verb derivations, not a single uniform construction | Partial morphosyntactic restriction |
+| CAUSATION (character) | (no common expression identified in P4a/P4b) | (no common expression identified) | **MISSING (structural gap)** | Structural gap |
+| VERIFICATION | Root-specific confirmative/validative verbs; evaluative/evidential passive also overlaps functionally | *Pejabat itu membenarkan kabar tersebut.*; *Pemerintah mengesahkan undang-undang itu.*; *Data itu dianggap valid.* | Expressed by lexicalized causative/confirmative verbs and by evaluative passive; no single dedicated verification construction identified | Available with substitution / partial |
+| DISCONFIRMATION | Negative truth evaluation and falsity marking: **X tidak + ADJ**; authenticity/falsity predicates in evaluative passive | *Kabar itu tidak benar.*; *Tanda tangan itu diduga palsu.*; *Dokumen itu terbukti palsu.* | Expressed through NEGATION and falsity predicates rather than a distinct dedicated disconfirmative construction | **SUBSTITUTED BY NEGATION / REVELATION** |
+| NEGATION | **X tidak + ADJ** / **X kurang + ADJ** / **X belum + ADJ**; propositional **tidak benar bahwa ...** | *Kabar itu tidak benar.*; *Data ini kurang akurat.*; *Tidak benar bahwa dia memalsukan data.* | Analytic negation | None |
+| NOMINALIZATION | **ke- + ADJ + -an** / borrowed noun formation | *kebenaran*; *keaslian dokumen* | Direct equivalent | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Indonesian shows a clear distinction between ordinary attribution, change-of-state, and evidential/result-discovery.
+
+For **BECOME**, the regular overt construction is **menjadi + ADJ/N**, as in *Data itu menjadi tidak valid setelah diubah.* This is the direct change-of-state pattern.
+
+For **REVELATION**, Indonesian commonly uses **terbukti + ADJ**, as in *Dokumen itu terbukti palsu.* P4a and P4b describe this not as simple becoming, but as a confirmed or discovered result. So REVELATION does not replace BECOME across the board; rather, it covers a different function: established discovery or proof. In this sense, **REVELATION is available alongside BECOME**, not as its full replacement. Where the intended meaning is “turned out/proved to be,” Indonesian prefers REVELATION-type forms such as *terbukti*.
+
+For **VERIFICATION**, Indonesian does not show one single dedicated construction in the provided material. Instead, verification meanings are distributed across:
+- lexicalized **meN- + root + -kan** verbs such as *membenarkan* and *mengesahkan*,
+- and evaluative/evidential passive forms such as *dianggap valid* or *dipastikan + ADJ* within the pattern listed in P4a/P4b.
+
+So **VERIFICATION is expressed through lexicalized factual/validative verbs and evidential passive operators**, rather than by one uniform operator.
+
+For **DISCONFIRMATION**, no separate dedicated construction is identified in P4a/P4b. Instead, Indonesian uses:
+- ordinary **NEGATION**, e.g. *Kabar itu tidak benar.*,
+- or falsity/authenticity predicates under REVELATION/evidential passive, e.g. *Dokumen itu terbukti palsu.*, *Tanda tangan itu diduga palsu.*
+
+So **DISCONFIRMATION is largely substituted by NEGATION and by REVELATION/evidential evaluation with falsity predicates**.
+
+**NEGATION is analytic, not morphological.** The main markers are separate words before the predicate: *tidak*, *kurang*, and *belum*. This is explicit in P4a/P4b.
+
+**VERIFICATION and DISCONFIRMATION do not share one single construction.**
+- Verification is expressed by lexicalized confirmative/validative verbs and evaluative passive.
+- Disconfirmation is expressed by analytic negation and falsity predicates, sometimes in evaluative passive.
+There is overlap only at the broad level of institutional evaluation, not a single shared form.
+
+There is also an asymmetry between **positive confirmation** and **negative rejection**:
+- positive confirmation often uses specialized lexical verbs such as *membenarkan* and *mengesahkan*;
+- negative rejection is more directly handled by analytic negation (*tidak benar*) or by predicates like *palsu*.
+
+For **CAUSATION**, the language does not present a single general truth-domain causative construction. P4a/P4b explicitly note that the pattern is **root-specific** and lexicalized. Thus factual causation is available, but only through particular verbs. No corresponding productive pattern is identified for **CAUSATION (character)**.
+
+### Normalization of multi-word expressions
+- **benar, betul, tepat, sesuai, sah, valid, akurat, asli, palsu**: predicate adjectives or adjective-like predicates in bare predication.
+- **tidak / kurang / belum + ADJ**: analytic negation or scalar/status operators preceding an adjectival predicate.
+- **N yang + ADJ**: adnominal modification with **yang** linking noun and adjective.
+- **menjadi + ADJ/N**: light verb/carrier **menjadi** marks change-of-state; the truth-domain content is in the following adjective/noun.
+- **terbukti + ADJ**: verbal evidential/resultative carrier **terbukti** plus adjectival predicate.
+- **dianggap / dinyatakan / dipastikan / diduga / terbukti + ADJ**: passive verbal carriers of evaluation/evidential stance; the truth-domain property is expressed by the following adjective.
+- **benar bahwa ... / tidak benar bahwa ...**: predicate adjective plus clausal complement.
+- **ke- + ADJ + -an** forms: nominalizations.
+- **membenarkan, mengesahkan**: lexicalized derived verbs functioning as verbal operators for confirmation/ratification.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **CAUSATION (character): MISSING (structural gap)**
+  - P4a/P4b provide no common expression for agentive/character-type derivation in this semantic area.
+- No single fully general truth-domain causative construction:
+  - factual causation exists, but only through root-specific lexicalized verbs rather than one uniform morphosyntactic pattern.
+
+### Lexical Gaps
+- **Agentive nominalization (liar, truth-teller)**: no common productive expression identified.
+  - P4a/P4b explicitly state **(no common expression identified)**.
+  - This is a lexical gap in the provided dataset, and also reflects absence of a productive derivational pattern.
+
+### Conceptual Gaps
+- No conceptual gap is directly identified in P4a/P4b for attribution, negation, adnominal modification, becoming, revelation, or nominalization.
+- The main limitation is not conceptual absence, but **lack of a single dedicated construction** for some operators.
+
+### Asymmetric Gaps
+- **Verification vs. disconfirmation asymmetry**:
+  - verification often uses specialized lexical verbs (*membenarkan, mengesahkan*);
+  - disconfirmation is more often expressed by analytic negation (*tidak benar*) or falsity predicates (*palsu*).
+- **Factual causation vs. character causation asymmetry**:
+  - factual causation is partially available through lexicalized verbs;
+  - character causation is missing in the provided material.
+- **BECOME vs. REVELATION asymmetry**:
+  - both are available, but REVELATION is especially associated with evidence-based result (*terbukti*), not general change-of-state.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **REVELATION**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **VERIFICATION**
+  - expressed through lexicalized confirmative/validative verbs and evaluative passive
+- **DISCONFIRMATION**
+  - **SUBSTITUTED BY NEGATION / REVELATION**
+
+### Partially available
+- **CAUSATION (factual)**
+  - available through root-specific lexicalized **meN- + root + -kan** verbs
+  - not a single uniform construction
+
+### Missing entirely
+- **CAUSATION (character)**
+  - **MISSING (structural gap)**
+
+If useful, I can also convert this into a stricter “operator-by-operator audit” with one-line judgments only.

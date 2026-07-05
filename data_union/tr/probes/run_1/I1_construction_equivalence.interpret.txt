@@ -1,0 +1,115 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a #1 (Attribution): [Subject] + [truth-domain adjective] + zero copula / *olmak* | *Bu iddia doğru.* "This claim is correct." / *Belge sahte.* "The document is fake." | Direct mapping; fully attested. Tense and evidential variants (*doğruydu*, *doğruymuş*) are productive extensions of the same construction. | None |
+| **ADNOM** | P4a #3 (Adnominal Modification): [truth-domain adjective] + [noun], prenominal, no agreement morphology | *Güvenilir kaynak* "reliable source" / *Asılsız iddia* "unfounded allegation" | Direct mapping; fully attested. Invariant prenominal position; no agreement inflection on the adjective. | None |
+| **BECOME** | P4a #4 (Become / Inchoative): [base] + *-laş-* + *-mak*; or [adjective] + *hale gelmek* | *Meşrulaşmak* "to become legitimate" / *Geçersiz hale gelmek* "to become invalid" | Direct mapping; two strategies (morphological and periphrastic) both attested. Periphrastic *hale gelmek* is universally available; morphological *-laş-* is lexically restricted. | None (lexical restriction on *-laş-* noted but periphrastic alternative covers all cases) |
+| **REVELATION** | Not attested as a distinct construction in P4a or P4b. | — | **SUBSTITUTED BY BECOME** (periphrastic *hale gelmek* covers state-change; no distinct construction encoding the moment of discovery or coming-to-light is documented) | Structural gap: no dedicated REVELATION construction attested |
+| **CAUSATION (factual)** | P4a #8 (Process Nominalization): *doğrulama* "verification/confirmation"; P4a #5 (Causative): *meşrulaştırmak*, *geçersiz kılmak* | *Doğrulama* "verification, confirmation" / *Yalanlama* "denial, refutation" | Partially mapped. The causative construction (*-laştır-* / *kılmak*) encodes rendering-something-a-certain-state. The process nominalization (*-ma/-me*) encodes the act of establishing a fact. No single construction labeled CAUSATION (factual) is explicitly documented; the closest attested forms are the causative and process nominalization constructions. | Partial mapping; no dedicated CAUSATION (factual) construction explicitly attested as a unified category |
+| **CAUSATION (character)** | P4a #7 (Agentive Nominalization): *yalancı* "liar" (*yalan* + *-cı*); *yanıltıcı* "misleading agent" (*yanılt-* + *-ıcı*) | *Yalancı* "liar" / *Yanıltıcı* "misleader, misleading agent" | Partially mapped. Agentive nominalizations encode habitual character roles (*yalancı* = one who habitually lies) or dispositional properties (*yanıltıcı* = one that misleads). These encode character attribution but are nominal/adjectival forms, not a dedicated predicate construction for character causation. | Partial mapping; character attribution is expressed through agentive nominalization rather than a distinct CAUSATION (character) predicate construction |
+| **VERIFICATION** | P4a #8 (Process Nominalization): *doğrulama* "verification, confirmation"; P4a #9 (Ability/Potential Nominalization): *doğrulanabilirlik* "verifiability" | *Doğrulama* "verification, confirmation" / *Doğrulanabilirlik* "verifiability" | Mapped via process nominalization (*doğrulama*) and potential nominalization (*doğrulanabilirlik*). The verbal base *doğrula-* underlies both. No dedicated VERIFICATION predicate construction (e.g., a verb phrase meaning "to verify [a claim]") is explicitly documented as a construction type in P4a; the attested forms are nominalizations of the process. | Partial mapping; VERIFICATION is expressed through nominalized forms; the underlying verbal construction is implied but not documented as a construction type |
+| **DISCONFIRMATION** | P4a #8 (Process Nominalization): *yalanlama* "denial, refutation"; P4a #4 (Become / Inchoative) and #5 (Causative) applied to falsity-domain items: *yanlışlama* "falsification" | *Yalanlama* "denial, refutation" / *Yanlışlama* "falsification" | Mapped via the same process nominalization construction as VERIFICATION (*-ma/-me* suffix). VERIFICATION and DISCONFIRMATION share the same construction type; they are distinguished lexically by the base (*doğrula-* vs. *yalanla-* / *yanlışla-*), not by distinct constructions. | None for the construction type; VERIFICATION and DISCONFIRMATION share the same construction |
+| **NEGATION** | P4a #2 (Negative Attribution): [Subject] + [truth-domain adjective] + *değil* | *Bu bilgi doğru değil.* "This information is not correct." / *İddia asılsız değil.* "The allegation is not unfounded." | Direct mapping. Negation of adjectival predicates is **analytic**: the invariant particle *değil* is inserted after the adjective. *Değil* itself takes tense/person suffixes. Verbal negation uses a separate morphological strategy (*-me/-ma* suffix on the verb stem), but for truth-domain adjectival predicates the *değil* strategy is obligatory and standard. | None |
+| **NOMINALIZATION** | P4a #6 (Abstract Nominalization): *-lık/-lik/-luk/-lük*; P4a #7 (Agentive Nominalization): *-cı/-ci*, *-ıcı/-ici*; P4a #8 (Process Nominalization): *-ma/-me*; P4a #9 (Ability/Potential Nominalization): *-(y)abil-* + *-ir* + *-lik* | *Doğruluk* "truthfulness" / *Yalancı* "liar" / *Doğrulama* "verification" / *Doğrulanabilirlik* "verifiability" | Direct mapping; multiple nominalization subtypes are attested and productive. The *-lık* abstract nominalizer is the broadest; *-ma/-me* encodes process; *-cı* and *-ıcı* encode agents; the layered potential nominalization is register-restricted (philosophical/scientific). | None for the construction type overall; register restriction on the potential nominalization noted |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME
+
+No construction in P4a or P4b is documented as encoding REVELATION as a distinct operator — that is, a construction specifically encoding the moment at which something hidden comes to light, or at which a truth is discovered by a subject. The BECOME construction (P4a #4) encodes state change (*meşrulaşmak*, *geçersiz hale gelmek*) but does not encode the perspectival or epistemic dimension of a truth being revealed to someone. The discourse marker construction (P4a #10) encodes corrective or sincerity framing (*aslında*, *doğrusu*) but this is a pragmatic hedge, not a predicate construction for revelation. On the basis of the P4a and P4b data, REVELATION as a canonical CLCA operator has no dedicated construction and is not systematically substituted by any single documented operator; the closest available form is the BECOME construction for state change, but the epistemic discovery dimension is not covered.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share the same construction
+
+Both VERIFICATION (*doğrulama*) and DISCONFIRMATION (*yalanlama*, *yanlışlama*) are expressed through the same process nominalization construction (P4a #8: verb stem + *-ma/-me*). The distinction between them is entirely lexical: the base verb encodes whether the process confirms or refutes. There is no asymmetry in the construction itself. The ability/potential nominalization (P4a #9) also produces a parallel pair: *doğrulanabilirlik* (verifiability) and *yanlışlanabilirlik* (falsifiability), again using the same construction with different bases. This parallel is noted in P4a as directly encoding a philosophical distinction (logical positivist / Popperian), but the construction is the same for both.
+
+### 2.3 NEGATION is analytic for adjectival predicates
+
+For truth-domain adjectival predicates, negation is analytic: the invariant particle *değil* is inserted after the adjective and before any copular suffixes. This is the obligatory and only strategy for this construction type; no morphological negation on the adjective itself is available. For verbal predicates (e.g., the process nominalizations used as verb phrases), a separate morphological strategy (*-me/-ma* on the verb stem) applies, but this is a different construction domain. Within the ATTR and NEGATIVE ATTRIBUTION constructions, the analytic *değil* strategy is the sole form.
+
+P4b notes that double negation (*asılsız değil*, "not unfounded") is grammatical and used for rhetorical attenuation. This is structurally regular but pragmatically marked.
+
+### 2.4 Asymmetry between morphological and periphrastic strategies in BECOME and CAUSATION
+
+Both BECOME (P4a #4) and CAUSATION (P4a #5) show a consistent asymmetry: the morphological strategies (*-laş-* for inchoative, *-laştır-* for causative) are lexically restricted to a subset of P1 bases, while the periphrastic strategies (*hale gelmek* for inchoative, *kılmak* for causative) are universally available for all adjectives. This means that for items where the morphological strategy is unavailable or marginal (e.g., *doğrulaşmak* is noted as marginal; *geçersizleşmek* is noted as rare), the periphrastic form is the default. There is no documented case where the morphological strategy is available but the periphrastic is not; the asymmetry runs in one direction only.
+
+### 2.5 CAUSATION (factual) and CAUSATION (character) are not documented as unified predicate constructions
+
+Neither CAUSATION (factual) nor CAUSATION (character) appears in P4a or P4b as a labeled construction type with a dedicated predicate pattern. What is attested is:
+
+- For factual causation: the causative construction (P4a #5, *-laştır-* / *kılmak*) encodes rendering something into a state, and the process nominalization (P4a #8) encodes the act of establishing or refuting a fact. These are related but not identical to a CAUSATION (factual) operator as typically understood (e.g., "X caused it to be true that P").
+- For character causation: the agentive nominalization (P4a #7) encodes habitual or dispositional character roles (*yalancı*, *yanıltıcı*), but these are nominal/adjectival forms, not predicate constructions encoding that someone caused a character state.
+
+No substitution pattern is documented for these operators; they are partially covered by adjacent constructions.
+
+### 2.6 Discourse markers as a distinct functional class
+
+P4a #10 documents a set of truth-domain items that have grammaticalized as sentence-initial discourse markers (*doğrusu*, *aslında*, *gerçek şu ki*, *hakikaten*). These do not map to any of the canonical CLCA operators as predicate constructions; they function as sincerity hedges or corrective frames at the discourse level. P4b confirms that *doğrusu* and *aslında* are fully grammaticalized and that their etymological compositionality is not synchronically active. These are noted here as a functional class present in the data that does not correspond to a canonical CLCA operator.
+
+### 2.7 Approximation construction as a distinct epistemic pattern
+
+P4a #11 documents a spatial metaphor construction (*doğruya en yakın*, *gerçekten uzak*) that encodes degrees of correspondence to truth. This construction does not map directly to any canonical CLCA operator; it is a degree or approximation modifier rather than a predicate or nominalization. It is noted here as an attested pattern without a canonical CLCA equivalent.
+
+### 2.8 Contrastive distinction construction
+
+P4a #12 documents a concessive construction (*ama* / *olmakla birlikte* + *değil*) used to mark conceptual distinctions between paired truth-domain terms (*yasal ama meşru değil*). This is a syntactic pattern rather than a lexical or morphological operator. It does not map to a canonical CLCA operator but is noted as a productive pattern in the data for marking near-synonym distinctions.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No dedicated construction encoding the moment of discovery or coming-to-light of a truth is attested in P4a or P4b. The BECOME construction covers state change but not the epistemic/perspectival dimension of revelation. **MISSING (structural gap)** |
+| **CAUSATION (factual) as a unified predicate construction** | No single construction type is documented as encoding "X caused it to be the case that P is true/false." The causative construction (P4a #5) and process nominalization (P4a #8) cover adjacent meanings but not this operator as a unified predicate. **MISSING (structural gap)** |
+| **CAUSATION (character) as a predicate construction** | No predicate construction encoding "X caused Y to become a liar / deceiver" is documented. Character attribution is expressed through agentive nominalization (nominal/adjectival forms), not through a dedicated predicate construction. **MISSING (structural gap)** |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Morphological inchoative for some P1 bases** | *Doğrulaşmak* is noted as marginal; *geçersizleşmek* is noted as rare. These are lexical gaps within the *-laş-* strategy, not gaps in the overall BECOME operator (covered by periphrastic alternative). |
+| **Morphological causative for some P1 bases** | The *-laştır-* strategy is lexically restricted; not all P1 bases accept it. Covered by periphrastic *kılmak*. |
+| **Arabic *-iyet* nominalization** | Restricted to Arabic-origin bases (*meşruiyet*, *hakkaniyet*); not available for native Turkish bases. This is a lexical restriction, not a gap in the NOMINALIZATION operator overall. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps — that is, cases where the meaning is structurally blocked or unrepresentable — are documented in P4a or P4b. All noted absences are either structural gaps (no dedicated construction) or lexical restrictions (some bases excluded from a strategy that has an available alternative).
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Description |
+|---|---|
+| **Positive vs. negative BECOME morphology** | The *-laş-* inchoative is noted as marginal for *doğrulaşmak* (becoming true/correct) but productive for *meşrulaşmak* (becoming legitimate). No parallel asymmetry is documented for the negative/falsity direction specifically; the periphrastic alternative covers both. |
+| **Potential nominalization: positive and negative forms both attested but register-restricted** | Both *doğrulanabilirlik* (verifiability) and *yanlışlanabilirlik* (falsifiability) are attested but both are marked [MARGINAL] and restricted to philosophical/academic registers. The asymmetry here is register-based, not positive/negative. |
+| **Agentive nominalization: adjectival use more frequent than nominal use for *-ıcı* forms** | P4b notes that *yanıltıcı* and similar *-ıcı* forms are more commonly used adjectivally than as pure agent nouns. This is a frequency asymmetry within the agentive nominalization construction, not a gap. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Zero copula (3rd-person present) + tense/evidential variants; no restrictions across P1 items. |
+| **ADNOM** | **Fully available** | Invariant prenominal adjective; no agreement morphology; productive across all P1 adjectives and all noun types. |
+| **BECOME** | **Fully available** | Two strategies: morphological (*-laş-*, lexically restricted) and periphrastic (*hale gelmek*, universally available). The periphrastic strategy ensures full coverage. |
+| **REVELATION** | **Missing entirely** | No dedicated construction attested. The BECOME construction covers state change but not the epistemic discovery dimension. |
+| **CAUSATION (factual)** | **Partially available** | The causative construction (*-laştır-* / *kılmak*) and process nominalization (*-ma/-me*) cover adjacent meanings. No unified predicate construction for factual causation is documented. |
+| **CAUSATION (character)** | **Partially available** | Agentive nominalization (*-cı*, *-ıcı*) encodes habitual character roles and dispositional properties. No dedicated predicate construction for character causation is documented. |
+| **VERIFICATION** | **Available with substitution** | Expressed through process nominalization (*doğrulama*) and potential nominalization (*doğrulanabilirlik*). The underlying verbal construction is implied but not documented as a construction type in P4a. |
+| **DISCONFIRMATION** | **Available with substitution** | Expressed through the same process nominalization construction as VERIFICATION (*yalanlama*, *yanlışlama*). Shares construction with VERIFICATION; distinguished lexically by base. |
+| **NEGATION** | **Fully available** | Analytic *değil* particle for adjectival predicates; obligatory and the only strategy for this construction type. Morphological *-me/-ma* applies to verbal predicates in a separate domain. |
+| **NOMINALIZATION** | **Fully available** | Multiple productive subtypes: abstract property (*-lık*), process (*-ma/-me*), agentive (*-cı*, *-ıcı*), potential (*-(y)abil-* + *-ir* + *-lik*). The potential nominalization is register-restricted (philosophical/scientific) but structurally productive. |
+
+---
+
+*End of I1 output for Turkish (tr).*

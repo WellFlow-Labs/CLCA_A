@@ -1,0 +1,97 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+**Language: English (en)**
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copula *be* + truth-domain adjective (predicative) | *That is true.* / *The document is genuine.* | None required; directly attested | None |
+| **ADNOM** | Truth-domain adjective in prenominal attributive position | *A genuine concern was raised.* / *A spurious correlation appeared in the data.* | None required; directly attested | None |
+| **BECOME** | *Come true* (restricted); *turn out to be* + adjective (general); *prove* + adjective (formal) | *Her prediction came true.* / *The report turned out to be false.* | *Come true* is lexically restricted to wishes/predictions/hopes; general inchoative covered by *turn out to be* | Partial lexical restriction on *come true*; no morphosyntactic gap |
+| **REVELATION** | *Turn out to be* + adjective; *prove* + adjective | *The report turned out to be false.* / *Her prediction proved correct.* | REVELATION and BECOME share the same periphrastic constructions in English; no dedicated REVELATION-only form | **SUBSTITUTED BY BECOME** (same constructions serve both) |
+| **CAUSATION (factual)** | Dedicated derived verbs: *verify*, *validate*, *authenticate*, *falsify*, *invalidate* | *The laboratory verified the results.* / *New evidence falsified the hypothesis.* | No productive morphological causative; expressed by dedicated lexical verbs | Lexical gap for adjectives lacking a dedicated causative verb (no *\*truify*, *\*genuinize*, *\*correctify*); periphrasis required in those cases |
+| **CAUSATION (character)** | No dedicated construction attested in P4a/P4b | — | No construction identified in the data | **MISSING (structural gap)** |
+| **VERIFICATION** | Dedicated verb *verify*; also *validate*, *authenticate*, *confirm* | *The laboratory verified the results.* | Distinct from DISCONFIRMATION; separate lexical items used | None |
+| **DISCONFIRMATION** | Dedicated verb *falsify*; also *disprove*, *refute*, *invalidate* | *New evidence falsified the hypothesis.* | Distinct from VERIFICATION; separate lexical items used | None |
+| **NEGATION** | Analytic: *be not* + adjective; morphological: prefixed adjective (*untrue*, *inaccurate*, *invalid*, *dishonest*) | *That is not true.* / *The contract is invalid.* | Both strategies attested; choice is register- and lexeme-driven, not structurally conditioned | None |
+| **NOMINALIZATION** | Abstract: *-ity*, *-ness*, *-y*, *-hood*, *-th* suffixation; Agentive: *-er*, *-or* suffixation and compounding | *The authenticity of the painting was disputed.* / *She was known as a truth-teller.* | Both abstract and agentive subtypes attested; agentive for negative pole drawn from separate lexical set | Partial lexical gap: no agentive derived directly from *true*, *honest*, *sincere*, *genuine* |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME
+
+In English, as documented in P4a and P4b, there is no construction dedicated exclusively to REVELATION (the discovery or disclosure of a pre-existing truth-status). The constructions that express inchoative truth-status change — *turn out to be* + adjective and *prove* + adjective — simultaneously cover both the BECOME function (a state coming into being) and the REVELATION function (a state being discovered to have already obtained). The P4b notes describe *turn out to be* as "the general-purpose inchoative frame for discovered truth-status," which indicates that the discovered-truth reading (REVELATION) is expressed by the same form as the coming-to-be reading (BECOME). No separate REVELATION-only construction is attested in the data. REVELATION is therefore **SUBSTITUTED BY BECOME** in English.
+
+### 2.2 VERIFICATION and DISCONFIRMATION are asymmetric but parallel
+
+VERIFICATION and DISCONFIRMATION are expressed by distinct dedicated verbs in English and do not share a single construction. VERIFICATION is expressed by *verify*, *validate*, *authenticate*, and *confirm*; DISCONFIRMATION is expressed by *falsify*, *disprove*, *refute*, and *invalidate*. The two sets are parallel in structure (dedicated derived verbs, mostly Latinate) but lexically non-overlapping. P4b notes that *falsify* is "strongly associated with scientific and philosophical discourse," while *verify* is "the most broadly distributed causative verb in this domain," indicating an asymmetry in register distribution: VERIFICATION has broader register coverage than DISCONFIRMATION.
+
+### 2.3 NEGATION: analytic and morphological strategies coexist without consistent semantic difference
+
+P4a and P4b document that English uses both analytic negation (*is not true*) and morphological negation (*untrue*, *inaccurate*, *invalid*) with "no consistent semantic difference between the two strategies." The choice is described as "largely lexical and register-driven," with morphological negation preferred in formal and written registers. This means NEGATION in English is not a single construction but a pair of constructions whose distribution is conditioned by register and by which lexical items have established morphologically negated forms. Not all truth-domain adjectives have attested morphological negatives (no *\*unvalid* alongside *invalid*; no *\*uncorrect* alongside *incorrect*), so the morphological strategy has lexical gaps that the analytic strategy fills.
+
+### 2.4 CAUSATION (factual): lexical coverage is uneven
+
+The CAUSATION (factual) operator is expressed in English by dedicated derived verbs rather than by a productive morphological causative. P4a explicitly notes the absence of a productive causative morpheme and lists adjectives for which no dedicated causative verb exists: *true* (no *\*truify*), *genuine* (no *\*genuinize*), *correct* (no *\*correctify*). For these adjectives, P4a states that "periphrastic constructions are used" or that a separate verb (*correct* as a verb; *realize* for *make real*) fills the gap. The CAUSATION (factual) operator is therefore available for a subset of truth-domain adjectives but requires circumlocution or a semantically adjacent verb for others.
+
+### 2.5 CAUSATION (character): no construction attested
+
+No construction in P4a or P4b addresses the causing or inducing of a truth-related character disposition (e.g., causing someone to become honest, or causing someone to become a truth-teller). The agentive nominalization section (P4a §7) describes agents of truth-domain practices but does not document any construction that causes such a character state to come about. This operator is absent from the data.
+
+### 2.6 Positive/negative asymmetry in agentive nominalization
+
+P4a §7 notes that "the agentive for the negative pole (*liar*, *deceiver*, *fraud*) is drawn from a separate lexical set not derived from the positive truth-domain adjectives," and that "no agentive is derived directly from *true*, *honest*, *sincere*, or *genuine*." This is an asymmetric lexical gap: the negative-pole agentives are well-attested but are not morphologically derived from the corresponding positive adjectives, while the positive-pole agentives either do not exist or are formed by compounding (*truth-teller*) rather than direct suffixation. The compound *truth-teller* is rated [MARGINAL] in P4b, indicating it is less frequent and more marked than the negative-pole agentives.
+
+### 2.7 *Come true* is lexically restricted relative to the general BECOME frame
+
+Within the BECOME operator, *come true* is restricted to subjects that are "wishes, predictions, dreams, or hopes" (P4b). It does not extend to other truth-domain adjectives (*\*came genuine*, *\*came valid*). The general BECOME frame (*turn out to be* + adjective) has no such subject restriction and covers the full range of truth-domain adjectives. This is an internal asymmetry within the BECOME operator: one form is lexically restricted, the other is general.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character)**: No construction in P4a or P4b expresses the causing of a truth-related character disposition. This is a **structural gap**: the operator is not expressed by any attested construction type.
+
+### 3.2 Lexical Gaps
+
+- **CAUSATION (factual), partial**: No dedicated causative verb exists for *true* (*\*truify*), *genuine* (*\*genuinize*), or *correct* (*\*correctify*). The gap is lexical, not morphosyntactic: the construction type (dedicated derived verb) exists, but specific lexical items are absent for certain adjectives.
+- **AGENTIVE NOMINALIZATION, positive pole**: No agentive noun is derived directly from *true*, *honest*, *sincere*, or *genuine* by suffixation. The compound *truth-teller* partially fills this gap but is rated [MARGINAL]. The gap is lexical.
+- **MORPHOLOGICAL NEGATION, partial**: Not all truth-domain adjectives have attested morphologically negated forms (e.g., no *\*unvalid* is standard; *invalid* exists but is not transparently derived from *valid* for all speakers). The analytic negation strategy fills these gaps, so there is no structural gap, only a lexical one.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the data. All operators that are present are expressed by constructions whose meanings are compositionally or idiomatically recoverable within the truth domain.
+
+### 3.4 Asymmetric Gaps
+
+- **Agentive nominalization**: Negative-pole agentives (*liar*, *deceiver*, *counterfeiter*) are well-attested and unmarked; positive-pole agentives derived directly from truth-domain adjectives are absent or marginal. The gap is **asymmetric: positive pole only**.
+- **CAUSATION (factual)**: Causative verbs exist for some truth-domain adjectives (*validate*, *authenticate*, *falsify*, *verify*) but not others (*true*, *genuine*, *correct*). The gap is **asymmetric: affects specific adjectives, not the operator as a whole**.
+- **Register distribution of VERIFICATION vs. DISCONFIRMATION**: *Verify* has broader register coverage than *falsify*, which is restricted to scientific and philosophical discourse. This is an **asymmetric register gap: DISCONFIRMATION is register-restricted relative to VERIFICATION**.
+- **BECOME internal asymmetry**: *Come true* is restricted to wishes/predictions/hopes; *turn out to be* is unrestricted. The gap is **asymmetric: restricted form exists only for positive truth-realization with specific subject types**.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Copula *be* + predicative truth-domain adjective; no register or subject restriction |
+| **ADNOM** | **Fully available** | Prenominal attributive position; same adjective form as predicative; no morphological change |
+| **BECOME** | **Fully available** | *Turn out to be* + adjective (general); *come true* (restricted); *prove* + adjective (formal) |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME**; *turn out to be* and *prove* serve both functions; no dedicated REVELATION-only form |
+| **CAUSATION (factual)** | **Partially available** | Dedicated derived verbs (*verify*, *validate*, *authenticate*, *falsify*, *invalidate*) cover a subset of truth-domain adjectives; periphrasis or adjacent verbs required for *true*, *genuine*, *correct* |
+| **CAUSATION (character)** | **Missing entirely** | **MISSING (structural gap)**; no construction attested in P4a or P4b |
+| **VERIFICATION** | **Fully available** | Dedicated verbs *verify*, *validate*, *authenticate*, *confirm*; broad register distribution |
+| **DISCONFIRMATION** | **Fully available** | Dedicated verbs *falsify*, *disprove*, *refute*, *invalidate*; register-restricted relative to VERIFICATION but structurally complete |
+| **NEGATION** | **Fully available** | Both analytic (*be not* + adjective) and morphological (prefixed adjective) strategies attested; analytic fills gaps where morphological forms are absent |
+| **NOMINALIZATION** | **Partially available** | Abstract nominalization fully productive; agentive nominalization has a lexical gap at the positive pole (no direct suffixation from *true*, *honest*, *sincere*, *genuine*) |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — English (en)*

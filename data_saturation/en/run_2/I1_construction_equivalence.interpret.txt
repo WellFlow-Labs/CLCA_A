@@ -1,0 +1,101 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: English (en)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copular: NP + BE + ADJ(truth-domain); copula slot extends to *prove*, *hold*, *remain*, *seem*, *ring* | *The statement is true.* / *The claim proved false.* | None required; directly attested | None |
+| **ADNOM** | Attributive pre-nominal: ADJ + NP | *a genuine mistake* / *a spurious correlation* | None required; directly attested | None |
+| **BECOME** | Periphrastic: *become* + ADJ; *turn out* (+ to be) + ADJ | *become true*, *become valid*; *turn out to be false*, *turn out to be genuine* | **SUBSTITUTED BY REVELATION** for the most frequent attested frame (*prove* + ADJ); *become* + ADJ is grammatically available but less frequent in this domain | No structural gap; *become* + ADJ is available. Lexical gap: no morphological inchoative |
+| **REVELATION** | *prove* + ADJ (inchoative-like frame); *turn out* + ADJ | *His prediction proved correct.* | Serves as the primary functional equivalent of BECOME in this domain; *prove* + ADJ is the most productive frame | No gap; REVELATION is fully attested. Functions as the dominant realization of BECOME |
+| **CAUSATION (factual)** | Dedicated causative verbs: *verify*, *authenticate*, *validate*, *falsify*, *invalidate*; periphrastic: *make* + NP + ADJ | *The laboratory verified the results.* / *New evidence invalidated the earlier findings.* | None required for the verbal strategy; periphrastic *make* + NP + ADJ also available | No structural gap. Lexical gap: no single productive morphological causative suffix; causation is lexicalized in individual derived verbs |
+| **CAUSATION (character)** | No dedicated construction attested in P4a/P4b for causing a person to become honest, sincere, truthful, etc. | No example attested | **NO COMMON EXPRESSION — circumlocution required** (e.g., *make someone honest*, *cause someone to be sincere*) | Morphosyntactic gap: no dedicated construction. Periphrastic *make* + NP + ADJ is available but not attested in P4a/P4b for character-domain targets specifically |
+| **VERIFICATION** | Dedicated causative verb: *verify*; also *authenticate*, *validate*, *confirm* (attested in P4a as domain members) | *The laboratory verified the results.* | Shares the dedicated-verb construction type with CAUSATION (factual); VERIFICATION is a sub-type of the causative frame directed at establishing truth | No gap; directly attested. VERIFICATION and CAUSATION (factual) share the same construction type (dedicated derived verb) |
+| **DISCONFIRMATION** | Dedicated causative verb: *invalidate*, *falsify*; *prove* + negative ADJ (*prove false*, *prove incorrect*) | *New evidence invalidated the earlier findings.* / *The claim proved false.* | DISCONFIRMATION shares the dedicated-verb construction type with VERIFICATION and CAUSATION (factual); *prove* + ADJ also serves both REVELATION and DISCONFIRMATION | No structural gap. VERIFICATION and DISCONFIRMATION share the same construction type; they are distinguished lexically (different verbs / different adjective polarity), not constructionally |
+| **NEGATION** | (a) Prefixal (morphological): *in-*, *un-*, *im-*, *dis-*, *il-* + ADJ; (b) Sentential (analytic): *not* + copula + ADJ; (c) Antonym substitution | *The account is inaccurate.* / *The argument is not valid.* | Both morphological and analytic strategies are attested; choice is conditioned by the morphological origin of the base item | No structural gap. Asymmetric gap: prefixal negation is unavailable or marginal for native Germanic items (*fake*, *ersatz*) and fixed expressions (*bona fide*); sentential negation serves as the universal fallback |
+| **NOMINALIZATION** | Abstract: ADJ + *-ity*/*-cy*, *-ness*, *-y*, *-hood*; root-level nouns (*truth*, *veracity*); Agentive: compound *truth-teller*, *-er*/*-or* suffix (*counterfeiter*, *faker*, *verifier*, *authenticator*) | *The validity of the argument was disputed.* / *The truthfulness of the account was never questioned.* / *She was known as a truth-teller.* / *The counterfeiter was sentenced to five years.* | None required; multiple strategies directly attested | No structural gap. Lexical gaps: no agentive nominal derived directly from *true*, *honest*, *sincere*, *accurate*, *genuine*, or *authentic* by suffixation; *liar* is an independent lexeme unconnected to any P1 adjective |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME as the dominant inchoative frame
+
+The CLCA BECOME operator is grammatically available in English via *become* + ADJ (*become true*, *become valid*), but P4a and P4b consistently identify *prove* + ADJ as the most productive and most frequent inchoative-like frame in the truth domain. *Prove* + ADJ (*proved correct*, *proved false*, *proved genuine*) encodes not merely a change of state but the establishment or revelation of a state through evidence or outcome. This means that in practice, the REVELATION frame (*prove* + ADJ, *turn out* + ADJ) systematically displaces the neutral BECOME frame (*become* + ADJ) in this domain. The substitution is not absolute — *become* + ADJ remains grammatically available — but it is the dominant pattern attested in P4a/P4b. *Turn out* + ADJ is described as more neutral and broadly applicable than *prove* + ADJ, and closer in meaning to a pure BECOME frame, but it still carries an implication of discovery or outcome rather than simple change of state.
+
+The lexicalized form *come true* is a further substitution: it is restricted to *true* only and carries a connotation of desired realization, making it a specialized sub-type of REVELATION/BECOME that is not interchangeable with either *proved true* or *became true* in most contexts.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share the same construction type
+
+Both VERIFICATION (*verify*, *authenticate*, *validate*) and DISCONFIRMATION (*invalidate*, *falsify*, *prove false*) are expressed through the same constructional strategy: dedicated derived causative verbs. They are not distinguished by construction type but by lexical choice and, in the *prove* + ADJ frame, by the polarity of the adjective. This means English does not maintain a constructional asymmetry between establishing truth and establishing falsity; both operations use the same morphosyntactic template. The only asymmetry is lexical: the positive-pole verbs (*verify*, *validate*, *authenticate*) are more numerous and more register-differentiated than the negative-pole verbs (*invalidate*, *falsify*).
+
+### 2.3 NEGATION is both morphological and analytic, with conditioned distribution
+
+English employs both morphological (prefixal) negation and analytic (sentential) negation in the truth domain. The choice between them is conditioned by the morphological origin of the base item: Latinate bases strongly prefer prefixal negation (*inaccurate*, *invalid*, *insincere*, *illegitimate*, *implausible*), while native Germanic items and fixed expressions lack productive prefixed forms and rely on sentential negation (*not fake*, *not genuine*, *not bona fide*). Antonym substitution (*true* → *false*, *genuine* → *counterfeit*) is a third strategy that operates independently of the morphological origin of the base. This creates an asymmetry within the NEGATION operator: the same semantic operation (negating a truth-domain property) is realized by three different strategies depending on the lexical item involved.
+
+A further asymmetry is noted in P4a/P4b: *ungenuine* and *unauthentic* are not standard forms; *not genuine* and *inauthentic* serve instead. This means that for *genuine*, the prefixal strategy is available only via a different prefix (*in-*) rather than *un-*, and the *un-* form is blocked.
+
+### 2.4 CAUSATION (character) is not attested as a distinct construction
+
+P4a and P4b document causative constructions for factual truth operations (verifying, invalidating, authenticating results, findings, claims). No dedicated construction or dedicated verb is attested for causing a person to acquire or lose a character-domain truth property (e.g., causing someone to become honest, sincere, or truthful). The periphrastic *make* + NP + ADJ is grammatically available for this purpose (*make someone honest*) but is not attested in P4a/P4b as a domain-specific pattern. This is reported as a gap in the attested data, not necessarily a conceptual impossibility.
+
+### 2.5 Positive agentive nominalization uses compounding rather than suffixation
+
+The positive-pole agentive nominal (*truth-teller*) is formed by compounding (N + V-*er*) rather than by suffixation on a truth-domain adjective. This contrasts with the negative-pole agentive nominals (*counterfeiter*, *faker*, *falsifier*), which are formed by suffixation on verbal or nominal bases. No agentive nominal is derived directly from *true*, *honest*, *sincere*, *accurate*, *genuine*, or *authentic* by suffixation. The dominant negative-pole agentive nominal *liar* is an independent lexeme with no derivational connection to any P1 adjective. This creates a structural asymmetry within the NOMINALIZATION operator: the positive and negative poles use different word-formation strategies.
+
+### 2.6 Discourse-marker constructions are a distinct pragmatic operator not mapped to ATTR or ADNOM
+
+The discourse-marker constructions documented in P4a/P4b (*to be honest*, *truth be told*, *true enough*, *it is true that … but*) do not predicate truth-domain adjectives of propositional subjects. They function as pragmatic framing devices. They are not instances of ATTR, ADNOM, or any other CLCA operator listed above; they represent a separate pragmatic use of truth-domain vocabulary that falls outside the constructional mapping table. They are noted here for completeness but are not assigned to any CLCA operator category, as no such category is listed in the task specification.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character):** No dedicated construction is attested in P4a/P4b for causing a person to acquire or lose a character-domain truth property. The periphrastic *make* + NP + ADJ is available in principle but is not attested as a domain-specific pattern. **Morphosyntactic gap in the attested data.**
+- **Morphological inchoative:** No morphological (suffixal or prefixal) inchoative exists in English for this domain. All inchoative meaning is expressed periphrastically. **Morphosyntactic gap (structural, language-wide for this domain).**
+- **Morphological causative:** No single productive morphological causative suffix covers this domain. Causative meaning is lexicalized in individual derived verbs or expressed periphrastically. **Morphosyntactic gap (structural, language-wide for this domain).**
+
+### 3.2 Lexical Gaps
+
+- No agentive nominal is derived directly from *true*, *honest*, *sincere*, *accurate*, *genuine*, or *authentic* by suffixation. The positive-pole agentive role is expressed by the compound *truth-teller*, not by suffixation on a truth-domain adjective.
+- *Liar* (the dominant negative-pole agentive nominal) has no derivational connection to any P1 adjective in the truth domain.
+- *Ungenuine* is not a standard form; *not genuine* or *inauthentic* must be used instead.
+- *Unauthentic* is not standard; *inauthentic* or *not authentic* must be used instead.
+- No prefixed negative form exists in common use for *fake* or *ersatz*.
+- *Falseness* is noted as marginal; *falsity* and *falsehood* are the standard forms, with semantic differentiation between them.
+- No dedicated causative verb is attested for the character domain (no verb meaning "cause someone to become honest/sincere/truthful").
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a/P4b data. All CLCA operators listed (with the partial exception of CAUSATION (character) in the attested data) correspond to expressible meanings in English; the gaps are structural or lexical rather than conceptual. The periphrastic resources of English (*make* + NP + ADJ, *become* + ADJ, *not* + ADJ) ensure that all operators can be expressed through circumlocution even where dedicated forms are absent.
+
+### 3.4 Asymmetric Gaps
+
+- **Negation — prefixal strategy:** Available for Latinate bases; unavailable or marginal for Germanic bases (*fake*, *ersatz*) and fixed expressions (*bona fide*). The asymmetry is conditioned by morphological origin of the base, not by semantic polarity.
+- **Negation — *un-* vs. *in-* prefix:** For *genuine*, the *un-* prefixed form (*ungenuine*) is non-standard; the *in-* prefixed form (*inauthentic*) is used for *authentic* but not for *genuine* itself, which relies on *not genuine*. Asymmetry within the prefixal strategy.
+- **Agentive nominalization — positive vs. negative pole:** Positive-pole agentive nominal uses compounding (*truth-teller*); negative-pole agentive nominals use suffixation (*counterfeiter*, *faker*) or are independent lexemes (*liar*). The two poles use different word-formation strategies.
+- **Causative verbs — positive vs. negative pole:** The positive-pole causative verbs (*verify*, *validate*, *authenticate*, *legitimize*) are more numerous and more register-differentiated than the negative-pole causative verbs (*invalidate*, *falsify*, *delegitimize*). No asymmetry in construction type, but asymmetry in lexical density.
+- **BECOME / REVELATION — *come true*:** The lexicalized inchoative *come true* is available only for *true* and only with a connotation of desired realization. No equivalent lexicalized inchoative exists for *false*, *valid*, *genuine*, or other truth-domain adjectives. Asymmetry between *true* and all other items in the domain for this construction.
+- **Abstract nominalization — *-hood* suffix:** *Falsehood* is the only *-hood* nominalization in this domain and is rated [MARGINAL] in P4b; no equivalent *-hood* form exists for the positive pole (*truthhood* is not attested). Asymmetry between positive and negative poles for this suffix.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Copular NP + BE + ADJ is the primary frame; copula slot extends to *prove*, *hold*, *remain*, *seem*, *ring*. Attested across all registers. |
+| **ADNOM** | **Fully available** | Attributive pre-nominal ADJ + NP is productive for all adjectival P1 items; includes highly lexicalized domain-specific collocations. |
+| **BECOME** | **Available with substitution** | Grammatically available via *become* + ADJ and *turn out* + ADJ; systematically displaced in practice by the REVELATION frame (*prove* + ADJ). No morphological inchoative. |
+| **REVELATION** | **Fully available** | *Prove* + ADJ is the most productive inchoative-like frame in the domain; *turn out* + ADJ is the neutral alternative. Functions as the dominant realization of BECOME. |
+| **CAUSATION (factual)** | **Fully available** | Expressed through dedicated derived causative verbs (*verify*, *authenticate*, *validate*, *falsify*, *invalidate*, *legitimize*, *delegitimize*) and periphrastic *make* + NP + ADJ. No single morphological causative. |
+| **CAUSATION (character)** | **Partially available** | Periphrastic *make* + NP + ADJ is grammatically available but not attested as a domain-specific pattern in P4a/P4b. No dedicated verb or construction for causing a person to acquire a character-domain truth property. |
+| **VERIFICATION** | **Fully available** | Expressed through dedicated derived verbs (*verify*, *authenticate*, *validate*); shares construction type with CAUSATION (factual) and DISCONFIRMATION. |
+| **DISCONFIRMATION** | **Fully available** | Expressed through dedicated derived verbs (*invalidate*, *falsify*) and *prove* + negative ADJ (*prove false*); shares construction type with VERIFICATION. Distinguished from VERIFICATION lexically, not constructionally. |
+| **NEGATION** | **Fully available** | Three strategies attested: prefixal morphological negation (conditioned by Latinate base), sentential analytic negation (universal fallback), and antonym substitution. Asymmetric distribution across items. |
+| **NOMINALIZATION** | **Fully available** | Abstract nominalization via *-ity*/*-cy*, *-ness*, *-y*, *-hood*, and root-level nouns (*truth*, *veracity*). Agentive nominalization via compounding (*truth-teller*) and *-er*/*-or* suffixation (*counterfeiter*, *faker*). Lexical gaps in agentive forms for positive-pole adjectives. |

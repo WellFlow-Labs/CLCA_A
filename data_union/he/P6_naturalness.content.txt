@@ -1,0 +1,395 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Hebrew (he)
+
+---
+
+**Methodological note:** The following documents how Hebrew encodes dynamic processes — becoming, causing, losing, maintaining — involving the truth-related vocabulary established in P1–P5. All vocabulary is drawn exclusively from the CONTEXT. Auxiliary verbs, aspect markers, copulas, and function words are added only as needed for grammatical well-formedness. Where no common expression exists for a given dynamic type with a given item, this is stated explicitly rather than filled by inference. Items are grouped by the type of dynamic process; within each section, behavior is documented per relevant P1 item or semantic group where the data supports differentiation.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE ("X becomes [truth-related state]")
+
+### 1.1 General pattern
+
+The primary strategies for encoding inchoative change in this domain, as documented in P4a (Construction 4), are:
+
+- **הָפַךְ לְ-** (*hafakh le-*) — "became" + predicate: the general inchoative verb, unrestricted across registers
+- **נַעֲשָׂה** (*naʿasah*) — "became, turned into" + predicate: near-synonym of *hafakh le-*, somewhat more colloquial, used interchangeably in most contexts
+- **נִמְצָא** (*nimtsa*) + predicate adjective — "was found to be / turned out to be": common in legal and evaluative discourse, recording a change in assessed status
+- **הִתְגַּלָּה כְּ-** (*hitgalla ke-*) — "was revealed as / turned out to be": used when the change involves a disclosure or discovery
+- **הִתְגַּלָּה שֶׁ-** (*hitgallah she-*) — "it was revealed that": propositional complement variant, implies prior concealment
+- **הִתְבָּרֵר שֶׁ-** (*hitbarer she-*) — "it turned out that / it emerged that": the most productive inchoative-epistemic construction across all truth-domain terms; applies without restriction to all terms in the domain and does not require a specific inchoative verb for each term individually
+- **לְהִתְבַּסֵּס** (*lehitbasés*) — "to become established, to be grounded": expresses the gradual inchoative process of trust or credibility coming into being
+- **לְהִתְעַרֵר** (*lehitʿarer*) — "to be shaken, to erode": specifically collocated with *ʾimun*, *ʾaminut*, and *ʾemunaʾh* for trust-erosion
+
+These strategies are not interchangeable; their distribution across items is documented below.
+
+---
+
+### 1.2 Becoming credible / trustworthy
+
+**Item: אָמִין (*ʾamin*), מְהֵימָן (*mehiman*), נֶאֱמָן (*neʾeman*)**
+
+**הַמָּקוֹר הָפַךְ לְאָמִין**
+*ha-maqor hafakh le-ʾamin*
+"The source became reliable / credible"
+**Notes:** *hafakh le-* is the natural inchoative construction here. The change described is a shift in assessed credibility, typically following new evidence or a track record of accuracy. Common in journalistic and evaluative discourse.
+**Epistemic status:** [CORE]
+
+**הָעֵד נִמְצָא מְהֵימָן**
+*ha-ʿed nimtsa mehiman*
+"The witness was found to be credible / turned out to be credible"
+**Notes:** *nimtsa* + predicate adjective is the standard legal formula for recording a court's finding on credibility, as documented in P2b (items 9.4–9.5) and P5 (Opposition 10). This construction encodes a change in legal status — from unassessed to assessed — rather than a change in the underlying property.
+**Epistemic status:** [CORE]
+
+**הוּא הָפַךְ לְנֶאֱמָן לְ-**
+*hu hafakh le-neʾeman le-*
+"He became loyal / faithful to"
+**Notes:** *neʾeman le-* (faithful to) takes *hafakh le-* as its inchoative. The change described is a shift in relational loyalty, not merely in assessed credibility. Less common than the static attribution *hu neʾeman le-* but attested in narrative and political discourse.
+**Epistemic status:** [CORE]
+
+**הִתְבָּרֵר שֶׁהַמָּקוֹר מְהֵימָן**
+*hitbarer she-ha-meqor meheymen*
+"It turned out that the source was reliable"
+**Notes:** The *lehitbarer* construction is the intransitive counterpart of the transitive *levarer* ("to ascertain the truth"), documented in P2b (Item 1, Construction 5). Common in journalistic and legal registers.
+**Epistemic status:** [CORE]
+
+**הָאֲמִינוּת הִתְבַּסְּסָה עִם הַזְּמַן**
+*ha-ʾaminut hitbasesah ʿim ha-zman*
+"Credibility became established over time"
+**Notes:** The hitpaʿel *lehitbasés* ("to become established, to be grounded") expresses the gradual inchoative process of credibility coming into being. Documented in P1b (Root א-מ-נ, item 22: *binyan ʾimun*, "trust-building") and P3 (Group 8).
+**Epistemic status:** [CORE]
+
+**הָאֱמוּן נִבְנָה לְאַט**
+*ha-ʾimun nivnaʾh le-ʾat*
+"Trust was built slowly"
+**Notes:** The passive *nivnaʾh* ("was built") expresses the gradual inchoative process of trust coming into being. Documented in P1b (Root א-מ-נ, item 22) and P3 (Group 8). The process-noun *binyan ʾimun* ("trust-building") is the nominalized form of this dynamic.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Becoming correct / true
+
+**Item: נָכוֹן (*nakhon*), אֱמֶת (*ʾemet*)**
+
+**זֶה הָפַךְ לְנָכוֹן**
+*ze hafakh le-nakhon*
+"That became correct / turned out to be correct"
+**Notes:** Used when a statement that was previously incorrect or uncertain is subsequently confirmed as accurate — for example, a prediction that proved true, or a claim that was later verified. Common in everyday and journalistic discourse.
+**Epistemic status:** [CORE]
+
+**הַתַּחֲזִית הִתְגַּלְּתָה כְּנְכוֹנָה**
+*ha-taḥazit hitgaleta ke-nekhona*
+"The forecast turned out to be correct / was revealed to be accurate"
+**Notes:** *hitgalla ke-* is used here when the correctness of a prediction or claim is revealed by subsequent events. The feminine agreement (*nekhona*) reflects the gender of *taḥazit* (forecast, feminine noun). This construction emphasizes the revelatory aspect of the change.
+**Epistemic status:** [CORE]
+
+**הַתַּחֲזִית הָפְכָה לִנְכוֹנָה**
+*ha-taḥazit hafkhah li-nekhonah*
+"The forecast turned out to be correct"
+**Notes:** Used when a prediction or claim is subsequently confirmed as correct. The feminine agreement form (נְכוֹנָה) is required when the subject is feminine. Common in journalistic and analytical discourse.
+**Epistemic status:** [CORE]
+
+**זֶה הָפַךְ לְאֱמֶת**
+*ze hafakh le-ʾemet*
+"This became truth / this turned out to be true"
+**Notes:** Documented in P4a. Used when a claim, prediction, or rumor is subsequently confirmed as true. The construction implies a prior state of uncertainty or falsity that has been resolved. Common in journalistic and everyday discourse ("מה שנאמר אז הפך לאמת" — "what was said then turned out to be true").
+**Epistemic status:** [CORE]
+
+**Note on *ʾemet*:** The construction *ze hafakh le-ʾemet* ("that became the truth") is grammatically possible but uncommon in everyday Hebrew. *ʾemet* as a predicate in inchoative constructions is less natural than *nakhon*, because *ʾemet* typically describes a stable property of a statement rather than a state that something transitions into. The more natural expression for a claim being confirmed as true uses *leʾammet* (to verify/authenticate) or *nimtsa nakhon* (was found to be correct) rather than an inchoative with *ʾemet* itself.
+
+**Note on *nakhon* inchoative:** There is no attested common expression for "becoming correct" or "becoming accurate" as a change-of-state construction with *nakhon* as the target state in the *hitbarer she-* pattern. Correction is expressed causatively (*lenakhen*, "to correct") rather than inchoatively. The inchoative "to turn out to be correct" is expressed through *lehitbarer she-* + clause rather than through a construction with *nakhon* as complement.
+
+**הִתְבָּרֵר שֶׁהוּא צָדַק**
+*hitbarer she-hu tsadak*
+"It turned out that he was right"
+**Notes:** Extremely common in everyday and journalistic discourse. The construction expresses the epistemic transition from uncertainty to confirmed knowledge.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 Becoming genuine / authentic
+
+**Item: אֲמִתִּי (*ʾamitī*), אוֹתֶנְטִי (*ʾotenti*), מְקוֹרִי (*meqori*)**
+
+**הַיַּחַס שֶׁלּוֹ הָפַךְ לְאֲמִתִּי יוֹתֵר עִם הַזְּמַן**
+*ha-yaḥas shello hafakh le-ʾamitī yoter ʿim ha-zman*
+"His attitude became more genuine over time"
+**Notes:** Used in psychological and interpersonal contexts to describe a gradual development toward greater genuineness. The comparative יוֹתֵר ("more") is natural here because ʾamitī admits of degrees. The construction is compositional.
+**Epistemic status:** [CORE]
+
+**הַמִּסְמָךְ הִתְגַּלָּה כְּאוֹתֶנְטִי**
+*ha-mismakh hitgalaʾh ke-ʾotenti*
+"The document turned out to be authentic"
+**Notes:** The *lehitgalaʾh ke-* construction is the primary construction for expressing the inchoative discovery that something is genuine. Documented in P4a (Construction 4) as a natural hitpaʿel inchoative.
+**Epistemic status:** [CORE]
+
+**הַצִּיּוּר הִתְגַּלָּה כְּמְקוֹרִי**
+*ha-tsiyur hitgalaʾh ke-meqori*
+"The painting turned out to be original"
+**Notes:** The same *lehitgalaʾh ke-* construction applies to *meqori*. Documented in P4a (Construction 4).
+**Epistemic status:** [CORE]
+
+**Note on *ʾotenti* and *meqori*:** No common inchoative construction for *ʾotenti* or *meqori* has been identified in the data beyond the *lehitgalaʾh ke-* pattern. Authenticity and originality are typically treated as stable properties of objects rather than states that objects transition into. The relevant dynamic in this domain is not "becoming authentic" but rather "being found to be authentic" or "being authenticated," which is expressed through the verification vocabulary (*leʾammet*, *immut*, *meʾummat*) documented in P2a (items 1.3–1.5) and P3 (Group 8).
+
+**הַמִּסְמָךְ אֻמַּת**
+*ha-mismakh ummat*
+"The document was authenticated / verified"
+**Notes:** The Pi'el passive (*ummat*, Pu'al perfect of *leʾammet*) expresses the result of an authentication process. This is not strictly an inchoative of *ʾotenti* but is the natural expression for the process by which a document acquires verified authentic status.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 Becoming justified / warranted
+
+**Item: מוּצְדָּק (*mutsdddaq*)**
+
+**הַהַחְלָטָה הָפְכָה לְמוּצְדֶּקֶת**
+*ha-haḥlata hafekha le-mutsdddeqet*
+"The decision became justified / warranted"
+**Notes:** *hafakh le-* with *mutsdddaq* (feminine *mutsdddeqet* in agreement with *haḥlata*, decision, feminine) is the natural inchoative. Used in legal and moral discourse when a decision that was initially questionable is subsequently shown to be warranted by events or evidence.
+**Epistemic status:** [CORE]
+
+**הַבִּיקֹּרֶת נִמְצֵאת מוּצְדֶּקֶת**
+*ha-biqqoret nimtset mutsdddeqet*
+"The criticism was found to be justified"
+**Notes:** *nimtsa* + *mutsdddaq* is attested in P1b (Root צ-ד-ק, item 6), where the example *ha-biqqoret mutsdddaq* is given. The *nimtsa* construction adds the sense of a finding or determination, common in evaluative and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.6 Becoming valid / in force
+
+**Item: תָּקֵף (*taqef*)**
+
+**הַחֹזֶה הָפַךְ לְתָקֵף**
+*ha-ḥoze hafakh le-taqef*
+"The contract became valid / came into force"
+**Notes:** *hafakh le-taqef* is the natural inchoative for legal validity. Used in legal and administrative discourse to describe the moment at which a document, contract, or decision acquires legal force. Closely related to the verb *letaqqef* (to validate, to ratify), documented in P2a (item 21.3).
+**Epistemic status:** [CORE]
+
+**הַחֹזֶה נִכְנַס לְתֹקֶף**
+*ha-ḥoze nikhnas le-toqef*
+"The contract entered into force / came into effect"
+**Notes:** The construction *nikhnas le-toqef* (entered into force) uses the abstract noun *toqef* (validity, legal force), documented in P2a (item 21.1), with the verb *nikhnas* (entered). This is a more idiomatic and institutionally fixed expression for the coming-into-force of a legal instrument than *hafakh le-taqef*, and is the standard phrase in Israeli legal and administrative discourse.
+**Epistemic status:** [CORE]
+
+**הַהֶסְכֵּם הָפַךְ לְתָקֵף עִם הַחֲתִימָה**
+*ha-heskem hafakh le-taqef ʿim ha-ḥatimah*
+"The agreement became valid upon signing"
+**Notes:** Used in legal and administrative contexts to mark the moment at which a document or agreement enters into force. The construction is compositional and not lexicalized; it is the standard way to express the coming-into-force of a legal instrument.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.7 Becoming void / null
+
+**Item: בָּטֵל (*batel*)**
+
+**הַחוֹזֶה הָפַךְ לְבָטֵל**
+*ha-ḥoze hafakh le-batel*
+"The contract became void"
+**Notes:** Documented in P4a. Used in legal contexts when a contract or document loses its validity through a subsequent event (e.g., expiry, breach, court ruling). The construction marks the transition from valid to void status.
+**Epistemic status:** [CORE]
+
+**הַחוֹזֶה נַעֲשָׂה בָּטֵל**
+*ha-ḥoze naʿasah batel*
+"The contract became void"
+**Notes:** Near-synonym of הַחוֹזֶה הָפַךְ לְבָטֵל. Both are natural in legal discourse; הָפַךְ לְ- is slightly more formal.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.8 Becoming reasonable / plausible
+
+**Item: סָבִיר (*savir*)**
+
+**הַהַסְבֵּר הָפַךְ לְסָבִיר**
+*ha-hasber hafakh le-savir*
+"The explanation became plausible / reasonable"
+**Notes:** *hafakh le-savir* is the natural inchoative. Used in everyday and legal discourse when an explanation or claim that initially seemed implausible becomes credible in light of new information.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.9 Becoming misled
+
+**Item: מוּטְעֶה (*mutʿe*)**
+
+**הוּא הָפַךְ לְמוּטְעֶה לְגַמְרֵי**
+*hu hafakh le-mutʿe le-gamre*
+"He became completely misled"
+**Notes:** Used to describe a process by which a person comes to hold a mistaken belief, often as a result of accumulated misleading information. The adverb לְגַמְרֵי ("completely") is a natural intensifier here.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.10 Becoming revealed as false or forged
+
+**Item: מְזֻיָּף (*mezuyaf*), שֶׁקֶר (*sheqer*)**
+
+**הַמִּסְמָךְ הִתְגַּלָּה כְּמְזֻיָּף**
+*ha-mismaḵh hitgalaʾh ke-mezuyaf*
+"The document was revealed to be forged"
+**Notes:** The same *lehitgalaʾh ke-* construction applies symmetrically to the negative pole. Documented in P4a (Construction 4) and attested in P2b (Item 5, Construction 5). The construction is neutral with respect to the valence of the complement; the truth-domain term in the complement determines whether the outcome is positive or negative.
+**Epistemic status:** [CORE]
+
+**הַטַּעֲנָה הִתְגַּלְּתָה כְּשֶׁקֶר**
+*ha-taʿanah hitgaletah ke-sheker*
+"The claim was revealed to be a lie"
+**Notes:** The same *lehitgalaʾh ke-* construction applies with negative truth-domain terms. Common in journalistic and legal registers when a prior claim is retrospectively discredited.
+**Epistemic status:** [CORE]
+
+**הַסִּיבָּה הִתְגַּלְּתָה כְּלֹא אֲמִתִּית**
+*ha-sibaʾh hitgaletah ke-lo ʾamitit*
+"The reason turned out not to be genuine"
+**Notes:** The negated form (*ke-lo ʾamitit*) is as natural as the positive form in the *lehitgalaʾh ke-* construction.
+**Epistemic status:** [CORE]
+
+**הִתְגַּלָּה שֶׁהַחֲתִימָה מְזֻיֶּפֶת**
+*hitgallah she-ha-ḥatimah mezuyefet*
+"It was revealed that the signature was forged"
+**Notes:** Common in journalistic and legal discourse. Implies prior concealment, consistent with the semantics of לְגַלּוֹת אֶת הָאֱמֶת documented in P2b. The construction is productive across terms involving concealment and disclosure.
+**Epistemic status:** [CORE]
+
+**הִתְבָּרֵר שֶׁהָעֵד שִׁיקֵּר**
+*hitbarer she-ha-ʿed shiqer*
+"It emerged that the witness had lied"
+**Notes:** Common in journalistic and legal registers when a prior claim or source is retrospectively discredited.
+**Epistemic status:** [CORE]
+
+**הִתְבָּרֵר שֶׁהַמֵּידָע לֹא הָיָה מְדֻיָּק**
+*hitbarer she-ha-meydaʿ lo hayah meduyaq*
+"It turned out that the information was not accurate"
+**Notes:** The same *lehitbarer* construction applies with negative complements.
+**Epistemic status:** [CORE]
+
+**הִתְבָּרֵר שֶׁהַמֵּידָע לֹא מְהֵימָן**
+*hitbarer she-ha-meydaʿ lo meheymen*
+"It turned out that the information was not reliable"
+**Notes:** The construction is fully productive across truth-domain terms. The negated form (לֹא מְהֵימָן, לֹא נָכוֹן, etc.) is as natural as the positive form.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.11 Trust and credibility: erosion and collapse
+
+**Item: אֱמוּן (*ʾimun*), אֲמִינוּת (*ʾaminut*), אֱמוּנָה (*ʾemunaʾh*), נֶאֱמָנוּת (*neʾemanut*)**
+
+**הָאֱמוּן הִתְעַרֵר**
+*ha-ʾimun hitʿarer*
+"The trust was shaken / eroded"
+**Notes:** Documented in P4a (Construction 4) as the primary inchoative construction for trust-erosion. The hitpaʿel *lehitʿarer* is specifically collocated with *ʾimun*, *ʾaminut*, and *ʾemunaʾh* in journalistic and political discourse. The resulting state is the *mashber ʾemunaʾh* ("crisis of trust") documented in P2b (Item 9, Construction 6).
+**Epistemic status:** [CORE]
+
+**הָאֲמִינוּת הִתְעַרְעֲרָה לְאַחַר הַדִּיּוּחַ**
+*ha-ʾaminut hitʿarerah le-ʾaḥar ha-divuaḥ*
+"The credibility was undermined after the report"
+**Notes:** The hitpaʿel *lehitʿarer* collocated with *ʾaminut*. Common in journalistic and political discourse.
+**Epistemic status:** [CORE]
+
+**הָאֱמוּנָה בַּמֶּמְשָׁלָה הִתְעַרְעֲרָה**
+*ha-ʾemunaʾh ba-memshalaʾh hitʿarerah*
+"Trust in the government was shaken"
+**Notes:** The hitpaʿel *lehitʿarer* collocated with *ʾemunaʾh*. Common in political discourse.
+**Epistemic status:** [CORE]
+
+**הָאֱמוּן קָרַס לְחַלּוּטִין**
+*ha-ʾimun qaras le-ḥalutʾin*
+"The trust collapsed entirely"
+**Notes:** Expresses a more complete or terminal loss of trust than *lehitʿarer* (which implies shaking or weakening). Less frequent than *lehitʿarer* but attested in political and literary registers. The contrast between *lehitʿarer* (partial erosion) and *qaras* (collapse) is a degree distinction within the same inchoative domain.
+**Epistemic status:** [CORE]
+
+**הַנֶּאֱמָנוּת אָבְדָה**
+*ha-neʾemanut ʾavdah*
+"The loyalty/faithfulness was lost"
+**Notes:** Expresses a complete or terminal loss of faithfulness. Less frequent than *lehitʿarer* but attested in political and literary registers.
+**Epistemic status:** [CORE]
+
+**אֱמוּן הַצִּבּוּר הִתְמוֹטֵט**
+*ʾemun ha-tsibbur hitmotet*
+"Public trust collapsed"
+**Notes:** The verb *hitmotet* (collapsed, Hitpa'el of מ-ו-ט) is the natural expression for the sudden loss of trust at an institutional level. This is more specific than *hafakh le-lo ʾamin* and is the standard phrase in political and journalistic discourse for a trust collapse, closely related to *mashber ʾemun* (crisis of trust), documented in P1b (Root א-מ-נ, item 28) and P2b (item 8.6).
+**Epistemic status:** [CORE]
+
+---
+
+### 1.12 Doubt: becoming established
+
+**Item: סָפֵק (*safek*)**
+
+**הַסָּפֵק גָּדַל**
+*ha-safek gadal*
+"The doubt grew"
+**Notes:** Documented in P4a (Construction 4): "*ha-safek gadal* — common in narrative and journalistic registers; intransitive verb *gadal* with abstract noun subject is a natural Hebrew pattern." The inchoative process of doubt increasing is expressed through intransitive verbs of growth or intensification applied to *safek* as subject.
+**Epistemic status:** [CORE]
+
+**הַסָּפֵק הִתְעַצֵּם עִם הַזְּמַן**
+*ha-safek hitʿatsem ʿim ha-zman*
+"The doubt intensified over time"
+**Notes:** The verb *hitʿatsem* ("intensified") applied to *safek* as subject. Common in narrative and journalistic registers.
+**Epistemic status:** [CORE]
+
+**עָלָה סָפֵק לְגַבֵּי מְהֵימָנוּת הָעֵד**
+*ʿalah safek le-gabi meheymanut ha-ʿed*
+"A doubt arose regarding the credibility of the witness"
+**Notes:** The verb *laʿalot* ("to arise, to come up") used with *safek* as subject to express the inchoative emergence of doubt. Common in legal and narrative registers.
+**Epistemic status:** [CORE]
+
+**נוֹצַר סָפֵק בְּלֵב הַשּׁוֹפֵט**
+*notsaʾr safek be-lev ha-shefeṭ*
+"A doubt was created in the judge's mind"
+**Notes:** The verb *lehivaʾreʾ* / *lehinotsér* ("to be created, to arise") used with *safek* as subject. Common in legal and narrative registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.13 Becoming disqualified
+
+**Item: פָּסוּל (*pasul*)**
+
+**הָעֵד הָפַךְ לְפָסוּל**
+*ha-ʿed hafakh le-pasul*
+"The witness became disqualified"
+**Notes:** Used in legal contexts when a witness loses their qualified status due to a subsequent disqualifying event. The construction marks the transition from כָּשֵׁר to פָּסוּל status.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.14 Becoming misleading
+
+**Item: מַטְעֶה (*matʿe*)**
+
+**הַדִּיּוּחַ הָפַךְ לְמַטְעֶה**
+*ha-diyuaḥ hafakh le-matʿe*
+"The report became misleading"
+**Notes:** Used when a report or statement that was initially accurate becomes misleading due to changed circumstances or selective updating. Common in journalistic and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.15 Becoming forged (inchoative)
+
+**Item: מְזֻיָּף (*mezuyaf*)**
+
+**הַמָּסְמָךְ הָפַךְ לְמְזֻיָּף בְּיָדָיו**
+*ha-mismakh hafakh le-mezuyaf be-yadav*
+"The document became forged in his hands / he turned the document into a forgery"
+**Naturalness:** [UNCERTAIN]
+**Notes:** This construction is grammatically possible but semantically awkward. Forgery is typically understood as a completed act rather than a gradual transition; the inchoative frame sits uneasily with the instantaneous nature of the act of falsification. The active causative construction (זִיֵּף אֶת הַמָּסְמָךְ, "he forged the document") is strongly preferred. The inchoative is not a common or natural expression for this term.
+
+**Note on *hafakh le-mezuyaf*:** The construction *hafakh le-mezuyaf* ("became forged") is grammatically possible but semantically anomalous in most contexts, because forgery is typically a completed act rather than a gradual transition. The natural expression for the act of falsification uses the verb *lezayyef* (to forge), documented in P2a (item 12.1). There is no morphological inchoative derived directly from root ז-י-פ; the discovery of the forged state is expressed through the general revelation verb *lehitgalaʾh*.
+
+---
+
+### 1.16 Pattern: נַעֲשָׂה (*naʿasah*) — additional examples
+
+**הַשְּׁמוּעָה נַעֲשְׂתָה אֲמִתִּית**
+*ha-shmuʿah naʿasetat ʾamitit*
+"The rumor became real / the rumor turned out to be true"
+**Notes:** Slightly more colloquial than הָפַךְ לְ-. The agreement form (אֲמִתִּית, feminine) is required. Used in everyday and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE ("

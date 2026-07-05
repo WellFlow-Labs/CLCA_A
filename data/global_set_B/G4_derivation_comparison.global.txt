@@ -1,0 +1,459 @@
+# G4 — CROSS-LANGUAGE DERIVATIONAL AND MORPHOLOGICAL STRATEGIES
+
+## Cross-Language Comparison Table
+
+| Strategy Type | Description | Languages Using It | Concrete Examples | Distribution / Notes |
+|---------------|-------------|--------------------|-------------------|----------------------|
+| **ABSTRACT NOMINALIZATION** | Derivation of abstract nouns denoting qualities or states from truth-domain adjectives/roots | **All 8 languages** | **zh**: -性 suffix (真实性 zhēnshíxìng "authenticity")<br>**he**: -וּת suffix (אמינות aminut "reliability")<br>**sa**: -त्व/-ता suffixes (सत्यता satyatā "truthfulness")<br>**el**: -ότητα/-ία suffixes (αληθινότητα alithinótita "truthfulness")<br>**en**: -ness/-ity/-hood (truthfulness, validity, falsehood)<br>**tl**: ka-...-an circumfix (katotohanan "truth")<br>**sw**: u-...-a/u-...-ifu patterns (uhalisia "authenticity")<br>**qu**: nominalized copula (chiqan kay "truth") | **UNIVERSALLY ATTESTED**. All languages show productive patterns for creating abstract quality nouns. Formal variation (suffixation, circumfixation, periphrasis) but functional equivalence. Highly productive in formal/philosophical registers across all languages. |
+| **ADVERBIAL DERIVATION** | Formation of manner adverbs from truth-domain terms | **All 8 languages** | **zh**: -地 suffix (真实地 zhēnshí de "truly")<br>**he**: -ית suffix (באמת be'emet "truly")<br>**sa**: -तः ablative (परमार्थतः paramārthataḥ "ultimately")<br>**el**: -ά/-ως suffixes (αληθινά alithiná "truly")<br>**en**: -ly suffix (truly, honestly, accurately)<br>**tl**: reduplication + -an (totóhanán "seriously")<br>**sw**: kwa + abstract noun (kwa kweli "truly")<br>**qu**: -p genitive/adverbial (chiqap "truly") | **UNIVERSALLY ATTESTED**. Strategies vary: suffixation (most languages), prepositional phrases (Hebrew, Swahili), case marking (Sanskrit, Quechua). All highly productive. |
+| **MORPHOLOGICAL NEGATION** | Prefixal or proclitic negation creating antonyms | **All 8 languages** | **zh**: 不 bù proclitic (不真实 bù zhēnshí "untrue")<br>**he**: לא lo proclitic (לא נכון lo nakhon "incorrect")<br>**sa**: अ-/अन- prefix (असत्य asatya "untrue")<br>**el**: α- privative / δεν proclitic (άδικος ádikos "unjust")<br>**en**: un-/in-/dis- prefixes (untrue, incorrect, dishonest)<br>**tl**: hindi/di- (hindi totoo "not true")<br>**sw**: mana/si (mana chanin "invalid")<br>**qu**: mana (mana allin "not good") | **UNIVERSALLY ATTESTED**. All languages show highly productive morphological negation. Coexists with lexical antonyms (true/false) but extends to derived forms. Prefixal in most; proclitic in Chinese, Hebrew, Tagalog, Swahili, Quechua. |
+| **CAUSATIVE DERIVATION (VERIFICATION)** | Morphological causatives meaning "make true/verify/confirm" | **6/8 languages** (not English, not Chinese in same way) | **he**: הצדיק lehatsדik (hif'il causative)<br>**sa**: साधयति sādhayati (causative, though rare)<br>**el**: βεβαιώνω vevaióno (-ώνω causative suffix)<br>**tl**: patunayan (pa- causative prefix)<br>**sw**: thibitisha (-isha causative suffix)<br>**qu**: chiqanchay (-cha- causative suffix) | **WIDELY ATTESTED** (6/8). Chinese uses resultative compounds (证实 zhèngshí) instead. English uses separate roots (verify < Latin). All six languages with causative morphology apply it productively to truth-domain. Extremely common in legal/administrative contexts. |
+| **CAUSATIVE DERIVATION (CORRECTION)** | Morphological causatives meaning "make correct/improve/fix" | **7/8 languages** (not English in same way) | **zh**: 改正 gǎizhèng (resultative compound)<br>**he**: (uses separate roots, not causative of נכון)<br>**sa**: (uses separate roots like शुध्- śudh-)<br>**el**: διορθώνω diorthóno (-ώνω causative)<br>**tl**: itama (i- causative)<br>**sw**: sahihisha (-isha causative)<br>**qu**: allinchay (-cha- causative) | **WIDELY ATTESTED** but with variation. Tagalog, Swahili, Quechua, Greek show productive causative morphology. Chinese uses resultative compounds. Hebrew and Sanskrit use separate lexical roots for correction rather than causative derivation from "correct." English uses separate roots (correct as verb, improve, fix). |
+| **AGENTIVE NOMINALIZATION (NEGATIVE)** | Formation of agent nouns for "liar/deceiver" | **7/8 languages** (English suppletive) | **zh**: 说谎的人 shuō huǎng de rén (circumlocution)<br>**he**: שקרן shakran (-an suffix)<br>**sa**: मिथ्यावादिन् mithyāvādin (compound + -in)<br>**el**: ψεύτης pséftis (-της suffix)<br>**en**: liar (suppletive, not from false)<br>**tl**: sinungaling (lexicalized)<br>**sw**: mwongo (m- person prefix)<br>**qu**: llullakuq (-q agentive suffix) | **UNIVERSALLY PRESENT** but strategies vary. Productive affixation in Hebrew, Greek, Swahili, Quechua. Compounding in Sanskrit. Lexicalized/suppletive in English, Tagalog. Chinese uses circumlocution. All languages show this for negative pole (liar) more than positive (truth-teller). |
+| **AGENTIVE NOMINALIZATION (POSITIVE)** | Formation of agent nouns for "truth-teller" | **2/8 languages productively** (Sanskrit, Quechua); **others use circumlocution** | **sa**: सत्यवादिन् satyavādin (productive compound)<br>**qu**: chiqan rimaq (productive compound)<br>**zh**: 说真话的人 (circumlocution)<br>**he**: דובר אמת (participial phrase)<br>**el**: (no single word; circumlocution)<br>**en**: truth-teller (compound, marginal)<br>**tl**: (no dedicated form)<br>**sw**: mwenye ukweli (possessive phrase) | **WEAKLY ATTESTED**. Only Sanskrit and Quechua show productive agentive formation for positive pole. Other languages use circumlocution or compounds. This represents a systematic asymmetry: negative moral evaluation (liar) drives lexicalization more than positive (truth-teller). |
+| **COMPOUNDING (QUALITY + NOUN)** | Compounds combining truth-domain terms with nouns to create specialized concepts | **All 8 languages** | **zh**: 真相 zhēnxiàng "truth-appearance = truth"<br>**he**: אמת מידה amat mida "truth-measure = criterion"<br>**sa**: सत्यवचन satyavacana "truth-speech"<br>**el**: ψευδώνυμο psevdónymo "false-name = pseudonym"<br>**en**: truth-teller, half-truth, white lie<br>**tl**: tunay na pag-ibig "true love"<br>**sw**: mtu wa kweli "person of truth"<br>**qu**: chiqan simi "true word" | **UNIVERSALLY ATTESTED**. Strategies vary: direct compounding (Chinese, Sanskrit, English), associative constructions (Hebrew, Tagalog, Swahili, Quechua), attributive modification (Greek). All highly productive for creating domain-specific terms. |
+| **PSEUDO-X COMPOUNDING** | Productive prefixation creating "false pretender to category" terms | **1 language strongly** (Greek); **English borrows pattern** | **el**: ψευδοεπιστήμη psevdoepistími "pseudoscience"<br>ψευδοδημοκρατία psevdodimokratía "pseudo-democracy"<br>ψευδοδιανοούμενος psevdodianoúmenos "pseudo-intellectual"<br>**en**: pseudoscience, pseudo-intellectual (borrowed from Greek) | **LANGUAGE-SPECIFIC** (Greek). Extremely productive in Greek for academic/political criticism. English borrows the pattern but less productive. Other languages lack equivalent systematic pattern. Represents specialized elaboration for critical/polemical discourse. |
+| **RESULTATIVE VERB COMPOUNDS** | Verb-complement compounds where truth-domain term indicates achieved result | **1 language strongly** (Chinese) | **zh**: 改正 gǎizhèng "change-correct = to correct"<br>落实 luòshí "fall-solid = to implement"<br>证实 zhèngshí "prove-solid = to verify"<br>坐实 zuòshí "sit-solid = to confirm" | **LANGUAGE-SPECIFIC** (Chinese). Highly productive and preferred over periphrastic causatives. Other languages use affixal causatives (Hebrew, Greek, Tagalog, Swahili, Quechua) or periphrastic constructions (English, Sanskrit). Represents characteristic Chinese morphological strategy. |
+| **INCHOATIVE DERIVATION** | Morphological marking of "become X" meanings | **4/8 languages productively** | **tl**: mag-ka- prefix (magkatotoo "come true")<br>**sw**: -ika stative suffix (kamilika "become complete")<br>**qu**: -ya- inchoative suffix (allinyay "become good")<br>**sa**: भवति bhavati verb (context-dependent inchoative) | **MODERATELY ATTESTED**. Tagalog, Swahili, Quechua show productive inchoative morphology. Sanskrit uses context-dependent verb forms. Chinese, Hebrew, Greek, English use periphrastic constructions (become + adjective, turn into, etc.). Shows lexical restrictions even in productive languages (English come true but not *come false). |
+| **REFLEXIVE/MIDDLE MARKING** | Reflexive or middle voice marking on truth-domain verbs | **4/8 languages** | **he**: reflexive binyanim (התברר hitbarer "became clear")<br>**tl**: -ku- reflexive (magsinungaling, from llullakuy pattern)<br>**sw**: -ji- reflexive (rare in truth domain)<br>**qu**: -ku- reflexive (llullakuy "to lie", chiqanchakuy "verify for oneself") | **MODERATELY ATTESTED**. Hebrew, Tagalog, Quechua show productive reflexive marking. Swahili has reflexive morphology but less used in truth domain. Chinese, Greek, English, Sanskrit show less systematic reflexive marking in this domain. Functions vary: self-directed action (verify for oneself), moral self-affection (lying affects one's character), or middle voice semantics. |
+| **RECIPROCAL DERIVATION** | Morphological marking of mutual or reciprocal action | **3/8 languages** | **he**: reciprocal binyanim (התווכחו hitvakḥu "argued with each other")<br>**sw**: -ana reciprocal (hojiana "argue with each other")<br>**qu**: -naku- reciprocal (chiqanchanakuy "verify mutually") | **WEAKLY ATTESTED**. Only Hebrew, Swahili, Quechua show productive reciprocal morphology in truth domain. Other languages use periphrastic constructions (each other, mutually). Applies primarily to argumentative/verificational verbs rather than stative truth-predicates. |
+| **STATIVE/NEUTER DERIVATION** | Morphological marking distinguishing state from action | **3/8 languages** | **sw**: -ika stative (kamilika "be complete" vs. kamilisha "make complete")<br>**qu**: -ya- inchoative/stative (allinyay "become good")<br>**sa**: -इक- stative extension (कामिलिक kāmilika "be complete") | **WEAKLY ATTESTED**. Swahili and Sanskrit show clear stative/causative opposition through different suffixes. Quechua -ya- has both inchoative and stative functions. Other languages lack systematic morphological distinction between state and action in truth domain. |
+| **REDUPLICATION (EMPHATIC)** | Full or partial reduplication for emphasis or intensification | **5/8 languages** | **zh**: 实实在在 shíshízàizài "really and truly" (AABB pattern)<br>**el**: σωστά σωστά sostá sostá "okay okay" (pragmatic)<br>**tl**: totoong-totoo "very true", tunay na tunay "very genuine"<br>**sw**: kweli kweli "really truly" (marginal)<br>**qu**: (limited; not productive in truth domain) | **MODERATELY ATTESTED**. Chinese shows systematic AABB reduplication. Tagalog shows productive reduplication with linker. Greek, Swahili show marginal/pragmatic reduplication. Hebrew, Sanskrit, English, Quechua show little or no productive reduplication in truth domain. Functions primarily for emphasis in informal registers. |
+| **PREPOSITIONAL/CASE ADVERBIALS** | Prepositional phrases or case-marked forms functioning as adverbs | **6/8 languages** | **he**: באמת be'emet "in truth"<br>**sa**: परमार्थतः paramārthataḥ "ultimately" (ablative)<br>**el**: στην αλήθεια stin alítheia "in truth"<br>**tl**: sa totoo lang "honestly"<br>**sw**: kwa kweli "truly" (instrumental)<br>**qu**: chiqamanta "from truth = truly" (ablative) | **WIDELY ATTESTED**. Hebrew, Greek, Tagalog, Swahili use prepositional phrases. Sanskrit and Quechua use case suffixes (ablative). Chinese and English rely more on suffixal adverbs (-ly, -地). All highly productive and common in discourse. |
+| **ASSOCIATIVE/GENITIVE MODIFICATION** | Genitive or associative constructions for adjectival modification | **4/8 languages strongly** | **he**: construct state (אמת מידה amat mida "truth of measure")<br>**tl**: -ng/-na linker (tunay na kaibigan "true friend")<br>**sw**: -a associative (mtu wa kweli "person of truth")<br>**qu**: genitive juxtaposition (chiqan simi "true word") | **WIDELY ATTESTED** in Semitic, Austronesian, Bantu, and Quechuan. Hebrew uses construct state; Tagalog uses linker particles; Swahili uses associative marker; Quechua uses simple juxtaposition. Chinese, Greek, English, Sanskrit prefer direct adjectival modification or compounding. Represents alternative to attributive adjective strategy. |
+| **LIGHT VERB CONSTRUCTIONS** | Fixed or semi-fixed combinations of generic verbs with truth-domain nouns | **All 8 languages** | **zh**: 说实话 shuō shíhuà "speak-truth"<br>**he**: לומר את האמת lomar et ha'emet "say the truth"<br>**sa**: सत्यं वद satyaṃ vada "speak truth"<br>**el**: λέω την αλήθεια léo tin alítheia "tell the truth"<br>**en**: tell the truth, make a mistake<br>**tl**: magsabi ng totoo "say truth"<br>**sw**: sema ukweli "speak truth"<br>**qu**: chiqanta rimay "speak truth" | **UNIVERSALLY ATTESTED**. All languages show highly conventionalized verb-object constructions for "speak truth/lies." Verbs vary (say, tell, speak) but pattern is universal. Also extends to "make mistake/error" in most languages. Represents universal pragmatic importance of truth-telling speech acts. |
+| **DISCOURSE MARKER GRAMMATICALIZATION** | Truth-domain terms grammaticalized as discourse markers | **7/8 languages** (not Sanskrit) | **zh**: 说真的 shuō zhēn de "speaking truly = honestly"<br>**he**: באמת be'emet "in truth = really?"<br>**el**: αλήθεια alítheia "truth = really?"<br>**en**: to be honest, for real<br>**tl**: totoo lang "true only = honestly"<br>**sw**: kwa kweli "with truth = truly"<br>**qu**: chiqap "truly = indeed" | **WIDELY ATTESTED** (7/8). Sanskrit lacks this pattern (classical language, limited pragmatic grammaticalization). Functions include: introducing frank statements, seeking confirmation, expressing surprise, marking speaker stance. Represents universal pragmatic pathway from truth-assertion to discourse management. |
+| **INTENSIFICATION SUFFIXES** | Dedicated morphology for "completely/absolutely X" | **4/8 languages** | **he**: לחלוטין leḥalutin "completely" (separate adverb)<br>**el**: kabisa suffix (σωστά kabisa "completely correct")<br>**tl**: -ng + reduplication (totoong-totoo "very true")<br>**sw**: kabisa particle (kweli kabisa "absolutely true") | **MODERATELY ATTESTED**. Greek and Swahili use kabisa (possibly shared areal feature or borrowing). Tagalog uses reduplication. Hebrew uses separate adverb. Chinese, English, Sanskrit, Quechua use separate intensifying adverbs rather than bound morphology. |
+| **PASSIVE DERIVATION** | Morphological passives of causative/transitive truth-domain verbs | **6/8 languages** | **he**: passive binyanim (הוכח hukhaḥ "was proven")<br>**sa**: passive forms (प्रमाणीकृत pramāṇīkṛta "validated")<br>**el**: -ώνομαι passive (βεβαιώνομαι "am confirmed")<br>**en**: -ed passive (verified, authenticated)<br>**tl**: -in patient voice (pinatunayan "was proven")<br>**sw**: -wa passive (thibitishwa "was confirmed")<br>**qu**: -sqa resultative (pantasqa "mistaken") | **WIDELY ATTESTED** (6/8). Chinese and Quechua show less systematic passive morphology (Chinese uses 被 bèi construction; Quechua uses -sqa resultative). All languages with productive causatives show corresponding passives. Very common in formal/legal registers for verification statements. |
+| **EVIDENTIAL INTEGRATION** | Grammatical evidential marking integrated with truth vocabulary | **1/8 languages** (Quechua only) | **qu**: chiqapmi "it is truly so (direct knowledge)"<br>chiqapsi "it is reportedly true"<br>chiqapcha "it seems to be true" | **LANGUAGE-SPECIFIC** (Quechua). Obligatory evidential suffixes (-mi/-si/-cha) combine with truth-domain terms to mark epistemic source. No other language shows grammatical evidentials, though all have optional epistemic modals/adverbs. Represents typologically rare feature. |
+| **DUAL NUMBER FOR OPPOSITIONS** | Grammatical dual number used for binary truth-domain contrasts | **2/8 languages** (Sanskrit, Hebrew) | **sa**: सत्यासत्ययोः satyāsatyayoḥ "of truth and falsehood" (dual genitive)<br>**he**: similar dual constructions (less productive than Sanskrit) | **WEAKLY ATTESTED**. Only Sanskrit and Hebrew have grammatical dual number. Sanskrit uses it productively for philosophical oppositions. Other languages use coordination (and/or) instead. Represents grammatical resource available only in languages with dual number. |
+| **DOMAIN-SPECIFIC COMPOUNDING** | Compounds specifying type of truth by domain | **5/8 languages** | **zh**: 科学真理 kēxué zhēnlǐ "scientific truth"<br>**he**: אמת מדעית emet mada'it "scientific truth"<br>**sa**: (less systematic, but domain specifications exist)<br>**el**: επιστημονική αλήθεια epistīmonikí alítheia "scientific truth"<br>**sw**: ukweli wa kisayansi "truth of scientific-manner" | **MODERATELY ATTESTED**. Chinese, Hebrew, Greek, Swahili show productive domain specification (scientific, historical, legal truth). English uses attributive adjectives. Tagalog and Quechua less elaborated. Sanskrit treats through philosophical frameworks rather than domain adjectives. Common in academic/formal registers. |
+| **SPATIAL METAPHOR EXTENSIONS** | Truth-domain terms extended to spatial/temporal precision | **2/8 languages strongly** | **zh**: 正中 zhèngzhōng "correct-center = exact center"<br>正午 zhèngwǔ "correct-noon = noon"<br>**el**: ορθογώνιος orthogṓnios "correct-angled = right-angled" | **WEAKLY ATTESTED**. Chinese 正 and Greek ορθ- uniquely extend from correctness to spatial/temporal precision and geometric terms. Other languages lack systematic spatial extension from truth-domain roots. Represents language-specific semantic extension patterns. |
+| **TECHNICAL DOMAIN EXTENSIONS** | Truth-domain roots extended into specialized technical vocabularies | **2/8 languages strongly** | **el**: ορθογραφία orthografía "correct-writing = orthography"<br>ορθοπεδική orthopedikí "correct-child = orthopedics"<br>ορθοδοντική orthodontikí "correct-tooth = orthodontics"<br>**zh**: 真菌 zhēnjūn "true-fungus = true fungi"<br>真核 zhēnhé "true-nucleus = eukaryotic" | **WEAKLY ATTESTED**. Greek ορθ- shows extensive technical elaboration (medical, linguistic, geometric). Chinese shows some biological/mathematical extensions. Other languages show minimal technical domain extension from truth-domain roots. Represents specialized vocabulary development in languages with strong technical registers. |
+| **PARTICLE MODULATION** | Grammatical particles modulating illocutionary force of truth-domain terms | **2/8 languages strongly** | **tl**: ba (interrogative), nga (emphatic), lang (limitative), naman (concessive), pa (additive)<br>**qu**: -chu (interrogative/dubitative), -mi/-si/-cha (evidentials) | **WEAKLY ATTESTED** as systematic pattern. Tagalog shows extensive particle system modulating truth-domain terms. Quechua shows obligatory evidentials plus optional particles. Other languages use separate adverbs or discourse markers rather than bound particles. Represents agglutinative/particle-rich language strategy. |
+| **ABLATIVE STANDPOINT MARKING** | Ablative case marking philosophical/epistemic standpoint | **1 language strongly** (Sanskrit) | **sa**: परमार्थतः paramārthataḥ "from ultimate standpoint"<br>व्यवहारतः vyavahārataḥ "from conventional standpoint" | **LANGUAGE-SPECIFIC** (Sanskrit). Productive pattern for marking philosophical perspective in two-truths doctrine. Quechua has ablative case but doesn't use it systematically for standpoint marking. Other languages lack equivalent grammatical resource. |
+| **BINYAN/VOICE ALTERNATIONS** | Templatic morphology creating voice/valency alternations | **1 language** (Hebrew) | **he**: pa'al → pi'el → hif'il → huf'al<br>Example: צדק tsedek → הצדיק lehatsדik (causative) → מוצדק mutsдak (passive causative) | **LANGUAGE-SPECIFIC** (Hebrew). Semitic root-and-pattern morphology creates systematic voice alternations. No equivalent in other languages, which use affixation (Greek, Tagalog, Swahili, Quechua) or separate lexemes (Chinese, English). |
+| **NOUN CLASS AGREEMENT** | Grammatical noun class/gender agreement in derivation | **2/8 languages** (Swahili, Quechua) | **sw**: m-/wa- person class (mwongo/waongo "liar/liars")<br>u- abstract class (ukweli, uongo)<br>**qu**: (less systematic, but case agreement patterns) | **WEAKLY ATTESTED**. Swahili shows systematic noun class prefixation. Quechua shows some agreement patterns. Hebrew and Greek show gender agreement but less systematic in derivation. Other languages lack noun class systems. |
+| **CIRCUMFIXATION** | Simultaneous prefixation and suffixation | **2/8 languages** | **tl**: ka-...-an (katotohanan "truth", katapatan "honesty")<br>**sw**: u-...-a / u-...-ifu (uhalisia "authenticity", udanganyifu "deception") | **WEAKLY ATTESTED**. Tagalog and Swahili show productive circumfixation for abstract nouns. Other languages use simple suffixation or compounding. Represents Austronesian and Bantu morphological strategy. |
+
+---
+
+## Narrative Analysis
+
+### Universally Attested Patterns (All 8 Languages)
+
+**1. Abstract Nominalization**
+
+Every language shows productive means of deriving abstract quality nouns from truth-domain terms:
+
+- **Suffixation**: Chinese -性, Hebrew -וּת, Sanskrit -त्व/-ता, Greek -ότητα/-ία, English -ness/-ity
+- **Circumfixation**: Tagalog ka-...-an, Swahili u-...-a
+- **Periphrasis**: Quechua nominalized copula (chiqan kay)
+
+This represents a universal derivational need: all languages require ways to refer to truth, honesty, accuracy, etc. as abstract concepts rather than just predicating them of subjects. The formal strategies vary (affixation vs. circumfixation vs. periphrasis), but the functional requirement is constant.
+
+**Productivity**: Highly productive in all languages, especially in formal and philosophical registers. No restrictions observed on which truth-domain terms can undergo nominalization.
+
+**2. Morphological Negation**
+
+All eight languages show highly productive morphological negation of truth-domain terms:
+
+- **Prefixal**: Sanskrit अ-/अन-, Greek α-, English un-/in-/dis-
+- **Proclitic**: Chinese 不, Hebrew לא, Tagalog hindi/di-, Swahili mana, Quechua mana
+
+This creates systematic oppositions (true/untrue, correct/incorrect, honest/dishonest) across all languages. The strategy (prefix vs. proclitic) varies, but productivity is universal.
+
+**Asymmetry**: Morphological negation coexists with lexical antonyms (true/false, good/bad) in all languages. Pattern: morphological negation more productive for derived/abstract terms; lexical antonyms more common for basic oppositions.
+
+**3. Light Verb Constructions**
+
+All languages show highly conventionalized verb-object constructions for "speak truth/lies":
+
+- Chinese 说实话/说谎
+- Hebrew לומר את האמת/לספר שקרים
+- Sanskrit सत्यं वद/असत्यं वदति
+- Greek λέω την αλήθεια/λέω ψέματα
+- English tell the truth/tell lies
+- Tagalog magsabi ng totoo/magsinungaling
+- Swahili sema ukweli/sema uongo
+- Quechua chiqanta rimay/llullata rimay
+
+Despite structural differences (accusative marking, definiteness, verb choice), all show high conventionalization of this specific collocation. This suggests universal pragmatic importance of the "truth-telling" speech act.
+
+**Extension**: The pattern extends to "make mistake/error" in most languages (Chinese 犯错误, Greek κάνω λάθος, English make a mistake, Tagalog gumawa ng pagkakamali, Swahili fanya makosa).
+
+**4. Compounding Strategies**
+
+All languages show productive compounding of truth-domain terms with nouns to create specialized concepts:
+
+- **Direct compounding**: Chinese 真相, Sanskrit सत्यवचन, English truth-teller
+- **Associative constructions**: Hebrew construct state, Tagalog linker, Swahili associative, Quechua juxtaposition
+- **Attributive modification**: Greek, English
+
+The formal strategies vary by language type (isolating, fusional, agglutinative), but all show high productivity in creating domain-specific terms (true friend, false witness, genuine love, etc.).
+
+### Widely Attested Patterns (6-7 Languages)
+
+**1. Causative Derivation for Verification**
+
+Six of eight languages show dedicated causative morphology for "make true/verify/confirm":
+
+- **Affixal causatives**: Hebrew hif'il, Greek -ώνω, Tagalog pa-, Swahili -isha, Quechua -cha-
+- **Alternative strategies**: Chinese resultative compounds (证实), Sanskrit uses separate roots
+
+**English exception**: Uses separate roots from Latin (verify, prove, authenticate) rather than causative derivation from true/truth.
+
+**Productivity**: Extremely productive in the six languages with causative morphology. Common in legal, administrative, and investigative contexts.
+
+**Asymmetry**: Causatives for "make true/verify" are more common and productive than causatives for "make false/falsify." Several languages lack or rarely use causatives for falsification, suggesting truth-establishment is conceptualized as active process while falsity may be seen as default or passive state.
+
+**2. Discourse Marker Development**
+
+Seven languages (all except Sanskrit) show grammaticalization of truth vocabulary into discourse markers:
+
+- **Introducing frank statements**: Chinese 说真的, Hebrew באמת, Greek αλήθεια?, English to be honest, Tagalog totoo lang, Swahili kwa kweli, Quechua chiqap
+- **Seeking confirmation**: Hebrew נכון?, Greek ορθός?, Tagalog totoo ba?
+- **Expressing surprise**: Hebrew באמת?, Greek αλήθεια?, English really?
+
+**Sanskrit exception**: As a classical language with limited colloquial development, Sanskrit lacks pragmatic grammaticalization into discourse markers.
+
+This represents a universal pragmatic pathway: truth-asserting terms grammaticalize into markers of speaker stance, sincerity, or epistemic attitude. The pathway appears active in all living languages sampled.
+
+**3. Passive Derivation**
+
+Six languages show productive passive derivation from causative/transitive truth-domain verbs:
+
+- **Morphological passives**: Hebrew passive binyanim, Greek -ομαι, Tagalog -in/-an, Swahili -wa, Quechua -sqa
+- **Periphrastic passives**: English be + past participle
+
+**Chinese exception**: Uses 被 bèi construction rather than morphological passive.
+
+**Sanskrit**: Shows passive forms but less systematically in truth domain.
+
+Common in formal/legal registers for verification statements ("was proven," "has been confirmed").
+
+### Moderately Attested Patterns (3-5 Languages)
+
+**1. Inchoative Derivation**
+
+Four languages show productive inchoative morphology for "become X":
+
+- **Dedicated morphology**: Tagalog mag-ka-, Swahili -ika, Quechua -ya-, Sanskrit (context-dependent)
+- **Periphrastic**: Chinese 变 biàn + adjective, Hebrew להפוך le-hafokh, Greek γίνομαι gínomai, English become
+
+**Restrictions**: Even in productive languages, inchoatives show lexical restrictions. English "come true" is fixed but *come false is ungrammatical. This suggests "becoming true" is conceptualized differently from "becoming false" (revelation vs. exposure).
+
+**2. Reflexive/Middle Marking**
+
+Four languages show productive reflexive marking in truth domain:
+
+- **Hebrew**: reflexive binyanim (התברר hitbarer "became clear")
+- **Tagalog**: -ku- reflexive (from llullakuy pattern)
+- **Swahili**: -ji- reflexive (rare in truth domain)
+- **Quechua**: -ku- reflexive (llullakuy "to lie", chiqanchakuy "verify for oneself")
+
+**Functions vary**:
+- Self-directed action (verify for oneself)
+- Moral self-affection (lying affects one's character)
+- Middle voice semantics (spontaneous change)
+
+Other languages show less systematic reflexive marking in truth domain.
+
+**3. Reduplication for Emphasis**
+
+Five languages show reduplication patterns, but with varying productivity:
+
+- **Systematic**: Chinese AABB pattern (实实在在), Tagalog with linker (totoong-totoo)
+- **Marginal**: Greek (pragmatic), Swahili (informal), Quechua (limited)
+- **Absent**: Hebrew, Sanskrit, English
+
+This appears to be a feature of isolating (Chinese) and agglutinative (Tagalog) languages rather than a universal pattern. Functions primarily for emphasis in informal registers.
+
+**4. Prepositional/Case Adverbials**
+
+Six languages create adverbials through prepositional phrases or case marking:
+
+- **Prepositional**: Hebrew באמת, Greek στην αλήθεια, Tagalog sa totoo lang, Swahili kwa kweli
+- **Case-marked**: Sanskrit ablative -तः, Quechua ablative -manta
+
+Chinese and English rely more on suffixal adverbs (-ly, -地) but also have some prepositional phrases (in truth, for real).
+
+Highly productive across languages with rich case or prepositional systems.
+
+### Weakly Attested or Language-Specific Patterns
+
+**1. Pseudo-X Compounding (Greek)**
+
+Greek shows uniquely extensive ψευδ- (pseud-) compounding for creating critical/polemical terms:
+
+- Academic: ψευδοεπιστήμη "pseudoscience", ψευδοφιλόσοφος "pseudo-philosopher"
+- Political: ψευδοδημοκρατία "pseudo-democracy"
+- Media: ψευδοπληροφορία "misinformation"
+
+**English** borrows this pattern (pseudoscience, pseudo-intellectual) but shows less productivity.
+
+**Other languages** lack equivalent systematic pattern. This represents Greek-specific elaboration for critical discourse, possibly reflecting its role in academic and intellectual contexts.
+
+**2. Resultative Verb Compounds (Chinese)**
+
+Chinese uniquely shows extensive resultative verb compounding as preferred strategy over periphrastic causatives:
+
+- 改正 gǎizhèng "change-correct = to correct"
+- 落实 luòshí "fall-solid = to implement"
+- 证实 zhèngshí "prove-solid = to verify"
+
+Other languages use affixal causatives (Hebrew, Greek, Tagalog, Swahili, Quechua) or periphrastic constructions (English, Sanskrit). This represents characteristic Chinese morphological strategy not paralleled elsewhere.
+
+**3. Evidential Integration (Quechua)**
+
+Quechua uniquely shows obligatory grammatical evidential marking integrated with truth vocabulary:
+
+- chiqapmi "it is truly so (I know directly)"
+- chiqapsi "it is reportedly true"
+- chiqapcha "it seems to be true"
+
+No other language shows grammatical evidentials, though all have optional epistemic modals or adverbs. This represents typologically rare feature specific to Quechua and related languages.
+
+**4. Ablative Standpoint Marking (Sanskrit)**
+
+Sanskrit uniquely uses ablative case systematically for marking philosophical standpoint:
+
+- परमार्थतः paramārthataḥ "from ultimate standpoint"
+- व्यवहारतः vyavahārataḥ "from conventional standpoint"
+
+Quechua has ablative case but doesn't use it systematically for standpoint marking. Other languages lack equivalent grammatical resource. This represents Sanskrit-specific philosophical elaboration.
+
+**5. Binyan/Voice Alternations (Hebrew)**
+
+Hebrew uniquely shows Semitic root-and-pattern morphology creating systematic voice alternations:
+
+- pa'al → pi'el → hif'il → huf'al
+- Example: צדק → הצדיק (causative) → מוצדק (passive causative)
+
+No equivalent in other languages, which use affixation or separate lexemes. This represents Semitic morphological typology.
+
+**6. Dual Number for Oppositions (Sanskrit, Hebrew)**
+
+Only Sanskrit and Hebrew productively use grammatical dual number for binary oppositions:
+
+- Sanskrit: सत्यासत्ययोः satyāsatyayoḥ "of truth and falsehood"
+- Hebrew: similar dual constructions
+
+Other languages use coordination (and/or) instead. This represents grammatical resource available only in languages with dual number.
+
+### Systematic Asymmetries and Blocked Pathways
+
+**1. Agentive Nominalization Asymmetry**
+
+**Pattern**: Most languages show productive agentive formation for "liar" but gaps or circumlocution for "truth-teller."
+
+**Evidence**:
+- **Productive for liar**: Hebrew שקרן, Sanskrit मिथ्यावादिन्, Greek ψεύτης, Tagalog sinungaling, Swahili mwongo, Quechua llullakuq
+- **Gaps for truth-teller**: English (compound truth-teller, not *truther), Chinese (circumlocution 说真话的人), Hebrew (participial phrase), Tagalog (no dedicated form), Swahili (possessive mwenye ukweli)
+- **Productive for both**: Sanskrit सत्यवादिन्/मिथ्यावादिन्, Quechua chiqan rimaq/llullakuq
+
+**Interpretation**: Negative moral evaluation (lying) drives lexicalization more strongly than positive evaluation (truth-telling). This suggests a universal cognitive or social bias toward marking and naming negative moral agents.
+
+**2. Causative Verification vs. Falsification Asymmetry**
+
+**Pattern**: Causatives for "make true/verify" are more common and productive than causatives for "make false/falsify."
+
+**Evidence**:
+- **Productive verification causatives**: Hebrew אימת, Greek βεβαιώνω, Tagalog patunayan, Swahili thibitisha, Quechua chiqanchay
+- **Limited falsification causatives**: Most languages lack or rarely use causatives for "make false." Greek shows some symmetry (διαψεύδω "disprove") but others don't.
+- **Alternative strategies**: Languages use separate roots for falsification (English falsify from different root) or describe falsification through deception verbs rather than direct causatives.
+
+**Interpretation**: Truth-establishment is conceptualized as active process requiring causative morphology, while falsification may be seen as passive state or achieved through deception rather than direct causation. This suggests asymmetric conceptualization of how truth and falsehood come about.
+
+**3. Inchoative Restrictions**
+
+**Pattern**: Even in languages with productive inchoative morphology, "become true" shows restrictions not seen with "become good/better."
+
+**Evidence**:
+- **English**: come true (fixed) but *come false, *become true (marked)
+- **Chinese**: 变好 biàn hǎo "become good" productive, but 变真 biàn zhēn "become true" marginal
+- **Hebrew**: להשתפר "improve" productive, but truth inchoatives use different constructions (התברר "became clear")
+
+**Interpretation**: "Becoming true" is conceptualized differently from general improvement. Languages prefer revelation/discovery constructions (truth emerging, coming to light) over simple inchoative "become true." This suggests truth is seen as pre-existing and revealed rather than coming into being.
+
+**4. Positive vs. Negative Agentive Elaboration**
+
+**Pattern**: Across languages, vocabulary for negative agents (liar, deceiver, fraud) is more elaborate than for positive agents (truth-teller, honest person).
+
+**Evidence**:
+- **Chinese**: Multiple deception terms (骗子 piànzi "fraud", 说谎者 shuōhuǎng zhě "liar") but no simple truth-teller
+- **Greek**: ψεύτης "liar", απατεώνας "swindler", υποκριτής "hypocrite" but no single truth-teller
+- **English**: liar (suppletive), deceiver, fraud but truth-teller (marginal compound)
+- **Tagalog**: sinungaling "liar", mandaya "cheater" but no dedicated truth-teller
+
+**Interpretation**: Negative moral evaluation drives lexicalization more than positive. This may reflect universal cognitive bias toward marking threats or violations more than virtues.
+
+### Recurrent Patterns Across Unrelated Families
+
+**1. Causative Morphology for Verification (6/8 Languages)**
+
+Six languages from four unrelated families show productive causative derivation for verification:
+
+- **Semitic**: Hebrew hif'il causative
+- **Indo-European**: Greek -ώνω causative, Sanskrit (limited)
+- **Austronesian**: Tagalog pa- causative
+- **Niger-Congo**: Swahili -isha causative
+- **Quechuan**: Quechua -cha- causative
+
+This represents convergent evolution: unrelated languages independently develop causative morphology and apply it to truth-domain. The function (establishing truth through active process) appears universal even though formal realization varies.
+
+**Exceptions**: Chinese uses resultative compounds instead. English uses separate borrowed roots (verify < Latin).
+
+**2. Discourse Marker Grammaticalization (7/8 Languages)**
+
+Seven languages from all families except classical Sanskrit show grammaticalization of truth terms into discourse markers:
+
+- **Sino-Tibetan**: Chinese 说真的
+- **Semitic**: Hebrew באמת
+- **Indo-European**: Greek αλήθεια?, English to be honest
+- **Austronesian**: Tagalog totoo lang
+- **Niger-Congo**: Swahili kwa kweli
+- **Quechuan**: Quechua chiqap
+
+This represents a universal pragmatic pathway: truth-asserting terms → markers of speaker stance/sincerity. The pathway appears active in all living languages, suggesting ongoing grammaticalization process.
+
+**Sanskrit exception**: Classical language with limited colloquial development lacks this pragmatic grammaticalization.
+
+**3. Abstract Nominalization Productivity (8/8 Languages)**
+
+All languages show productive abstract nominalization, though strategies vary:
+
+- **Suffixation**: Chinese, Hebrew, Sanskrit, Greek, English (most common cross-linguistically)
+- **Circumfixation**: Tagalog, Swahili (Austronesian and Bantu strategy)
+- **Periphrasis**: Quechua (agglutinative strategy)
+
+Despite formal variation, all show high productivity and no restrictions on which truth-domain terms can nominalize. This suggests universal need for abstract quality nouns in philosophical and formal discourse.
+
+### One-Way or Blocked Derivational Pathways
+
+**1. Agentive Nominalization: Productive for Negative, Blocked for Positive**
+
+**Pattern**: Most languages productively form agentive nouns for "liar/deceiver" but block or lack productive formation for "truth-teller."
+
+**Evidence**:
+- **Productive negative**: Hebrew שקרן (productive -an suffix), Greek ψεύτης (productive -της), Swahili mwongo (productive m- prefix), Quechua llullakuq (productive -q suffix)
+- **Blocked positive**: English *truther (unattested; uses compound truth-teller), Chinese (no 真者; uses circumlocution), Hebrew (no *אמתן; uses participial phrase), Tagalog (no dedicated form)
+
+**Exceptions**: Sanskrit सत्यवादिन् satyavādin shows productive formation for both poles.
+
+**Interpretation**: This represents a systematic cross-linguistic asymmetry. Negative moral agents are more readily lexicalized than positive ones. This may reflect:
+- Cognitive salience of threats/violations
+- Social need to identify and warn about dishonest persons
+- Positive behavior seen as default or less marked
+
+**2. Causative Falsification: Rare or Uses Different Strategies**
+
+**Pattern**: While causatives for "make true/verify" are productive, causatives for "make false/falsify" are rare or use different roots.
+
+**Evidence**:
+- **Verification causatives productive**: Hebrew אימת, Greek βεβαιώνω, Tagalog patunayan, Swahili thibitisha, Quechua chiqanchay
+- **Falsification causatives rare**: Most languages lack productive causative "make false" from false/lie roots
+- **Alternative strategies**: English falsify (from different root), Greek uses deception verbs, others describe falsification through deception rather than direct causation
+
+**Interpretation**: Truth-establishment is conceptualized as active process requiring causative morphology. Falsification is conceptualized differently—either as passive state, as achieved through deception (different verb class), or as corruption/destruction rather than direct causation.
+
+**3. Inchoative "Become True": Restricted or Uses Different Constructions**
+
+**Pattern**: Even in languages with productive inchoative morphology, "become true" shows restrictions.
+
+**Evidence**:
+- **English**: come true (lexically restricted to this phrase), *become true (marked), prove true (evidential, not pure inchoative)
+- **Chinese**: 变真 biàn zhēn (marginal), prefers 成为现实 chéngwéi xiànshí "become reality"
+- **Hebrew**: Uses התברר hitbarer "became clear" (different root) rather than inchoative of אמת
+- **Productive languages**: Tagalog, Swahili, Quechua allow inchoatives but often prefer revelation/discovery constructions
+
+**Interpretation**: "Becoming true" is conceptualized as revelation or discovery of pre-existing truth rather than truth coming into being. Languages prefer:
+- Revelation metaphors (truth emerging, coming to light)
+- Evidential constructions (proved true, turned out to be true)
+- Realization of predictions (dreams came true)
+
+This suggests truth is seen as pre-existing and discovered rather than created or achieved.
+
+**4. Positive Evaluation Terms: Broader Than Truth-Specific**
+
+**Pattern**: Languages often lack dedicated "truth-teller" or "honest person" agentives but have general positive evaluation terms that include honesty.
+
+**Evidence**:
+- **Quechua**: allin runa "good person" (includes honest) rather than dedicated *chiqan runa agentive
+- **Swahili**: Uses mtu mwema "good person" or possessive mwenye ukweli rather than dedicated agentive
+- **English**: honest person, truthful person (adjective + noun) rather than dedicated agentive *honester
+
+**Interpretation**: Positive moral qualities may be less individuated in agentive formation. Languages prefer general "good person" terms or adjectival modification over dedicated agentives for specific virtues. This contrasts with negative agents (liar, thief, murderer) which are more readily individuated.
+
+### Productivity Assessments
+
+**Highly Productive Across Languages**:
+
+1. **Abstract nominalization**: No restrictions observed; applies to all truth-domain terms in all languages
+2. **Morphological negation**: Extremely productive; creates systematic oppositions across all derived forms
+3. **Light verb constructions**: Highly conventionalized but productive with new truth-domain terms
+4. **Adverbial derivation**: Productive across all languages; unrestricted application
+5. **Causative verification**: Productive in 6/8 languages with causative morphology; common in formal registers
+
+**Moderately Productive**:
+
+1. **Inchoative derivation**: Productive in 4/8 languages but shows lexical restrictions even where available
+2. **Passive derivation**: Productive in 6/8 languages but applies primarily to transitive/causative verbs
+3. **Compounding**: Productive across all languages but with language-specific formal strategies
+4. **Discourse marker grammaticalization**: Active process in 7/8 languages but creates fixed expressions rather than productive pattern
+
+**Restricted or Lexicalized**:
+
+1. **Agentive nominalization (positive)**: Blocked or uses circumlocution in 6/8 languages
+2. **Causative falsification**: Rare or uses different strategies across languages
+3. **Reduplication**: Productive only in Chinese and Tagalog; marginal or absent in others
+4. **Reflexive marking**: Productive in 4/8 languages but with varying functions
+5. **Reciprocal derivation**: Productive in 3/8 languages; applies mainly to argumentative verbs
+
+**Fossilized or Fixed Expressions**:
+
+1. **English come true**: Fixed expression, not productive (*come false ungrammatical)
+2. **Greek proverbs**: το ψέμα έχει κοντά ποδάρια "lies have short legs" (fixed)
+3. **Chinese four-character idioms**: 名副其实 míng fù qí shí (fixed, not productive pattern)
+4. **Hebrew biblical phrases**: אמת ויציב emet veyatsiv (liturgical, fixed)
+
+### Summary of Major Findings
+
+**Universal or Near-Universal Strategies**:
+
+1. Abstract nominalization (8/8 languages)
+2. Morphological negation (8/8 languages)
+3. Light verb constructions (8/8 languages)
+4. Adverbial derivation (8/8 languages)
+5. Compounding (8/8 languages, varying strategies)
+
+**Widely Attested Strategies**:
+
+1. Causative derivation for verification (6/8 languages)
+2. Discourse marker grammaticalization (7/8 languages)
+3. Passive derivation (6/8 languages)
+4. Prepositional/case adverbials (6/8 languages)
+
+**Systematic Asymmetries**:
+
+1. Agentive nominalization more productive for negative (liar) than positive (truth-teller)
+2. Causative verification more productive than causative falsification
+3. Inchoative "become true" restricted compared to "become good/better"
+4. Negative evaluation vocabulary generally more elaborate than positive
+
+**Language-Specific Elaborations**:
+
+1. Greek pseudo-X compounding (critical/polemical discourse)
+2. Chinese resultative verb compounds (characteristic morphological strategy)
+3. Sanskrit ablative standpoint marking (philosophical framework)
+4. Quechua evidential integration (typologically rare)
+5. Hebrew binyan alternations (Semitic morphology)
+
+**Typological Observations**:
+
+- **Isolating languages** (Chinese) favor compounding and resultative constructions
+- **Fusional languages** (Greek, Sanskrit) favor suffixation and templatic morphology
+- **Agglutinative languages** (Tagalog, Swahili, Quechua) favor affixation and circumfixation
+- **All types** show convergent evolution in causative verification and discourse marker development
+
+These patterns suggest both universal cognitive/pragmatic pressures (need for abstract nouns, verification processes, discourse management) and language-specific morphological resources (compounding, affixation, templatic morphology) that shape how truth-domain vocabulary is elaborated.

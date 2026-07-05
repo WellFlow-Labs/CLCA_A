@@ -1,0 +1,335 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+**Language: Indonesian (id)**
+
+---
+
+## Preliminary Note on Method
+
+This step documents how Indonesian encodes dynamic meanings — becoming, causing, and maintaining truth-related states — using only vocabulary attested in the CONTEXT (P1 through P5). Each construction type is examined separately for each relevant lexical item or group where the data supports distinct treatment. Where no common expression is attested in the CONTEXT, this is stated explicitly. Function words, aspect markers (*sudah*, *telah*, *akan*, *sedang*, *belum*), and auxiliaries (*bisa*, *harus*, *mulai*) are added as needed to form natural sentences, but no new truth-domain vocabulary is introduced.
+
+Constructions already documented in P4a and P4b are referenced rather than repeated in full; this step focuses on dynamic (change, causation, stability) readings not already covered there.
+
+---
+
+## 1. X BECOMES A TRUTH-RELATED STATE
+
+### 1a. Something becomes true / becomes reality
+
+**Primary construction:** *menjadi kenyataan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Prediksi itu akhirnya menjadi kenyataan.* | "That prediction finally became reality." | [CORE] | Fixed collocation documented in P2b (Construction 6 under *nyata*) and P4a. *Menjadi* is the general inchoative; *kenyataan* is the nominal target state. Subject is typically a prediction, fear, or hope. |
+| *Mimpinya menjadi kenyataan.* | "His dream became reality." | [CORE] | Same construction; subject is an aspiration. Extremely common across all registers. |
+
+**Secondary construction:** *terbukti benar*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dugaan itu terbukti benar.* | "That suspicion turned out to be correct." | [CORE] | *Terbukti* ("to be proven," from *bukti* "evidence" + *ter-* stative prefix) + *benar* as predicate. Documented in P4a under inchoative constructions. Foregrounds the evidentiary process of becoming confirmed. Common in journalistic and legal registers. |
+| *Perkiraan para ahli terbukti benar.* | "The experts' estimates turned out to be correct." | [CORE] | Same pattern; subject is a claim or estimate. |
+
+**Note on *benar*:** The inchoative "becomes true" is not expressed by deriving an inchoative directly from *benar* itself (no *\*membenar* or *\*menjadi benar* as a fixed formula). Instead, the construction uses *terbukti benar* (proven to be correct) or *ternyata benar* (turns out to be correct). *Ternyata* ("as it turned out," from *nyata*) is an evidential particle documented in P2b that frequently co-occurs with *benar* in revelatory contexts.
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Ternyata informasi itu benar.* | "It turned out that the information was correct." | [CORE] | *Ternyata* + predicate; introduces a revelation that something is the case. Documented in P2b under *palsu* (Construction 8) as a revelatory construction; the same pattern applies with *benar*. |
+
+---
+
+### 1b. Something becomes false / fake / invalid
+
+**Primary construction:** *ternyata palsu* / *ternyata tidak benar*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Ternyata itu semua palsu.* | "It turned out that it was all fake." | [CORE] | Documented directly in P2b (Construction 8 under *palsu*). *Ternyata* introduces the revelation of falsity. |
+| *Ternyata informasi itu tidak benar.* | "It turned out that the information was not correct." | [CORE] | Same *ternyata* + negated predicate pattern. Common in journalistic corrections and retractions. |
+
+**Construction with *terbukti*:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Klaim itu terbukti salah.* | "That claim was proven wrong." | [CORE] | *Terbukti* + *salah* as predicate. Parallel to *terbukti benar*; foregrounds evidentiary process. Common in legal and journalistic registers. |
+| *Dokumen itu terbukti palsu.* | "That document was proven to be fake." | [CORE] | *Terbukti* + *palsu*; frequent in legal and forensic contexts. |
+
+**Becoming invalid (*tidak sah*):**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Pernikahan itu dinyatakan tidak sah.* | "That marriage was declared invalid." | [CORE] | *Dinyatakan* (passive of *menyatakan*, "to declare") + *tidak sah*. Documented in P1b and P2b. The change to invalidity is expressed through a declarative act rather than a spontaneous change; see Section 3 (causation by authority). |
+
+**Note on *sah*:** There is no attested construction meaning "spontaneously becomes valid" without an authorizing agent. Validity in the *sah* domain is always conferred by an act (see Section 3b). The inchoative reading is therefore absent for *sah* without a causal agent.
+
+---
+
+### 1c. Something becomes genuine / authentic
+
+**Note:** No fixed inchoative construction meaning "becomes genuine" (*menjadi asli*) is documented in the CONTEXT. The context documents *mengasli* (P2a, Item 3) as a marginal verbal form meaning "to become original again / to revert to the original state," but notes it is "less frequent than other derivatives in this family" and "attested but not common." This gap is preserved.
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *\*Barang itu menjadi asli.* | "That item became genuine." | [UNCERTAIN] | Not attested as a natural construction in the CONTEXT. The concept of an object spontaneously becoming genuine is not a typical real-world scenario, which may explain the absence. |
+
+---
+
+### 1d. Something becomes revealed / comes to light
+
+**Primary construction:** *terungkap*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Kebenaran akan terungkap pada akhirnya.* | "The truth will come to light in the end." | [CORE] | Documented directly in P4a (Construction 4) and P1b. *Terungkap* is the conventionalized inchoative for truth-revelation; subject is typically *kebenaran* or a concealed fact. |
+| *Kebohongannya akhirnya terungkap.* | "His lie finally came to light." | [CORE] | Same construction with *kebohongan* as subject. The lie is the concealed thing that becomes revealed. Common in journalistic and narrative registers. |
+| *Penyimpangan itu terungkap setelah penyelidikan.* | "The distortion came to light after the investigation." | [CORE] | *Penyimpangan* (deviation/distortion, documented in P2a) as subject of *terungkap*. |
+
+**Note on *terungkap* vs. *mengungkap*:** *Terungkap* is the spontaneous/stative form ("comes to light on its own"); *mengungkap kebenaran* (documented in P1b and P2b) is the agentive form ("someone reveals the truth"). This active/stative distinction is relevant to the causation section below (Section 3).
+
+---
+
+### 1e. Something becomes a lie / becomes distorted
+
+**Note:** No fixed inchoative construction meaning "becomes a lie" or "becomes distorted" is documented in the CONTEXT. The relevant constructions are causative (someone causes something to be falsified or distorted) rather than spontaneous change. See Section 3.
+
+---
+
+## 2. X BECOMES [SINCERITY / HONESTY STATE]
+
+### 2a. Becoming honest / coming clean
+
+**Primary construction:** *berjujur* / *mengakui kesalahan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Akhirnya dia berjujur.* | "He finally came clean / was honest." | [MARGINAL] | *Berjujur* is documented in P2a (Item 12) as attested but marginal, restricted to informal or literary registers. The inchoative reading ("finally became honest") is available but the form itself is not common. |
+| *Dia akhirnya mengakui kesalahannya.* | "He finally admitted his mistake." | [CORE] | *Mengakui kesalahan* is documented in P2b (Construction 8 under *salah*) as a stable collocation for acknowledging wrongdoing. This is the standard expression for the transition from concealment to admission. |
+
+**Construction with *ikhlas*:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia belum bisa ikhlas.* | "He is not yet able to accept it." | [CORE] | Documented directly in P2b (Construction 4 under *ikhlas*). Describes the state of not yet having achieved full acceptance; implies a potential future transition. |
+| *Lama-lama dia bisa ikhlas juga.* | "Eventually he was able to accept it too." | [CORE] | Extension of the *belum bisa ikhlas* construction to the achieved state; *lama-lama* ("gradually, over time") marks the inchoative process. Common in everyday and emotional discourse. |
+
+---
+
+### 2b. Becoming earnest / serious
+
+**Primary construction:** *bersungguh-sungguh*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Mulai sekarang dia bersungguh-sungguh dalam belajar.* | "From now on he is earnest in his studies." | [CORE] | *Bersungguh-sungguh* is documented in P2a (Item 6) as a stative/active form. The inchoative reading is achieved through temporal adverbials (*mulai sekarang*, "starting now") rather than a dedicated inchoative morpheme. |
+| *Dia mulai bersungguh-sungguh.* | "He began to be earnest." | [CORE] | *Mulai* ("to begin") + *bersungguh-sungguh* as the standard inchoative frame. |
+
+---
+
+## 3. Y CAUSES X TO BE [TRUTH-RELATED STATE]
+
+### 3a. Causing something to be confirmed / justified
+
+**Primary construction:** *membenarkan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Penyelidikan itu membenarkan klaim tersebut.* | "The investigation confirmed that claim." | [CORE] | *Membenarkan* (causative of *benar*, documented in P2a Item 1 and P4a Construction 5) with an institutional agent. The investigation causes the claim to be in a confirmed state. |
+| *Dia membenarkan pernyataan rekannya.* | "He confirmed his colleague's statement." | [CORE] | Personal agent; *membenarkan* in the epistemic confirmation sense. Common in journalistic and everyday registers. |
+| *Tidak ada yang bisa membenarkan tindakan itu.* | "Nothing can justify that action." | [CORE] | *Membenarkan* in the moral justification sense (documented in P2a as the dual sense of the form). Negated with *tidak ada yang bisa*. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Klaim itu dibenarkan oleh bukti yang ada.* | "That claim was confirmed by the available evidence." | [CORE] | *Dibenarkan* (passive causative, documented in P2a and P4a). Agent (*bukti*, "evidence") expressed with *oleh*. |
+| *Tindakan itu tidak dibenarkan.* | "That action is not permitted / not justified." | [CORE] | Documented directly in P2b (Construction 12 under *benar*) and P4b as a standard regulatory formula. |
+
+---
+
+### 3b. Causing something to be valid / ratified
+
+**Primary construction:** *mengesahkan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *DPR mengesahkan undang-undang itu kemarin.* | "The parliament ratified that law yesterday." | [CORE] | *Mengesahkan* (causative of *sah*, documented in P2a Item 10 and P4a). Institutional agent causes a document or act to enter the valid state. Standard in legislative reporting. |
+| *Notaris mengesahkan dokumen tersebut.* | "The notary authenticated that document." | [CORE] | Same construction with a notarial agent. Documented in P1b. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Undang-undang itu telah disahkan.* | "That law has been ratified." | [CORE] | *Disahkan* (passive, documented in P2a and P4a). *Telah* marks completion. Standard formula in legislative and administrative reporting. |
+| *Pernikahan mereka dinyatakan sah oleh pengadilan.* | "Their marriage was declared valid by the court." | [CORE] | *Dinyatakan sah* (documented in P2b Construction 3 under *sah*). The court as authorizing agent causes the marriage to enter the valid state through a declarative act. |
+
+**Note on the causation structure for *sah*:** All attested causative constructions for *sah* involve an institutional or authoritative agent (parliament, court, notary, religious official). No construction is documented in the CONTEXT where a non-authoritative agent causes something to become *sah*. This constraint is preserved.
+
+---
+
+### 3c. Causing something to be false / forged
+
+**Primary construction:** *memalsukan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia memalsukan dokumen itu.* | "He forged that document." | [CORE] | *Memalsukan* (causative of *palsu*, documented in P2a Item 4 and P4a). Agent deliberately causes an object to enter the false/forged state. |
+| *Seseorang telah memalsukan tanda tangannya.* | "Someone has forged his signature." | [CORE] | Same construction; *telah* marks completion. Common in legal and journalistic registers. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dokumen itu dipalsukan oleh pihak yang tidak bertanggung jawab.* | "That document was forged by irresponsible parties." | [CORE] | *Dipalsukan* (passive, documented in P2a). Agent expressed with *oleh*; agent backgrounding is common when the forger is unknown. |
+
+---
+
+### 3d. Causing someone to be misled / mistaken
+
+**Primary construction:** *mengelirukan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Pernyataan itu mengelirukan publik.* | "That statement misled the public." | [CORE] | Documented directly in P4a (Construction 5) and P4b. *Mengelirukan* (causative of *keliru*) with a statement as the causal agent. |
+| *Informasi yang salah itu mengelirukan banyak orang.* | "That incorrect information misled many people." | [CORE] | Same construction; the causal agent is incorrect information. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Masyarakat dikelirukan oleh informasi yang salah.* | "The public was misled by incorrect information." | [CORE] | Documented directly in P4b (Construction 7 under *keliru*). Standard passive form. |
+
+---
+
+### 3e. Causing something to be manipulated / distorted
+
+**Primary construction:** *memanipulasi*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Mereka memanipulasi data penelitian itu.* | "They manipulated that research data." | [CORE] | *Memanipulasi* (documented in P2a Item 27). Agent deliberately causes data to enter a distorted state. Common in academic integrity and journalistic discourse. |
+| *Foto itu telah dimanipulasi.* | "That photograph has been manipulated." | [CORE] | *Dimanipulasi* (passive, documented in P2a). *Telah* marks completion. Common in media verification discourse. |
+
+---
+
+### 3f. Causing someone to accept / let go (ikhlas)
+
+**Primary construction:** *mengikhlaskan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia berusaha mengikhlaskan kepergian ibunya.* | "He tried to accept his mother's departure wholeheartedly." | [CORE] | *Mengikhlaskan* (causative of *ikhlas*, documented in P2a Item 16). The agent causes themselves or another to enter the state of wholehearted acceptance. The reflexive reading (causing oneself to accept) is the most common. |
+| *Keluarga itu akhirnya bisa mengikhlaskan kepergiannya.* | "That family was finally able to accept his passing." | [CORE] | Same construction with *bisa* ("able to") marking the achievement of the state after effort. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Semua itu harus diikhlaskan.* | "All of that must be accepted wholeheartedly." | [CORE] | *Diikhlaskan* (passive, documented in P2a). *Harus* ("must") adds deontic force. Common in religious and counseling discourse. |
+
+---
+
+### 3g. Causing something to be purified
+
+**Primary construction:** *memurnikan*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Proses ini memurnikan air dari kontaminan.* | "This process purifies the water of contaminants." | [CORE] | *Memurnikan* (causative of *murni*, documented in P2a Item 17). Agent (a process) causes a substance to enter the pure state. |
+| *Mereka berusaha memurnikan ajaran yang telah menyimpang.* | "They tried to purify the doctrine that had deviated." | [CORE] | Same construction in a doctrinal/religious context; *menyimpang* (documented in P1 and P2a) describes the prior deviated state that the purification reverses. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Air itu dimurnikan sebelum dikonsumsi.* | "The water is purified before consumption." | [CORE] | *Dimurnikan* (passive, documented in P2a). Standard in technical and public health discourse. |
+
+---
+
+### 3h. Causing someone to lie to someone
+
+**Primary construction:** *membohongi*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia membohongi semua orang selama bertahun-tahun.* | "He lied to everyone for years." | [CORE] | *Membohongi* (transitive of *bohong* with *-i* suffix, documented in P2a Item 13). Agent causes a target to be in the state of having been deceived. The *-i* suffix marks the target of the deception. |
+| *Jangan membohongi diri sendiri.* | "Don't lie to yourself." | [CORE] | Reflexive use; *diri sendiri* ("oneself") as target. Common in motivational and moral discourse. |
+
+**Passive counterpart:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Saya merasa dibohongi.* | "I feel I was lied to." | [CORE] | Documented directly in P2a (Item 13). *Merasa* ("to feel") + passive *dibohongi* expresses the experiential result of being deceived. |
+
+---
+
+## 4. STABILITY CONSTRUCTIONS
+
+### 4a. Truth / validity persisting or being upheld
+
+**Primary construction:** *menegakkan kebenaran*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Kita harus terus menegakkan kebenaran.* | "We must continue to uphold the truth." | [CORE] | *Menegakkan kebenaran* (documented in P1b and P2b) describes the active maintenance of truth against forces that would suppress it. *Terus* ("continue") marks ongoing action. Common in moral, religious, and political discourse. |
+
+**Construction with *menepati*:**
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia selalu menepati janjinya.* | "He always keeps his promises." | [CORE] | *Menepati janji* (documented in P2a Item 7 and P2b) describes the ongoing fulfillment of a commitment. *Selalu* ("always") marks habitual stability. |
+| *Janji itu tidak ditepati.* | "That promise was not kept." | [CORE] | Negated passive; the failure to maintain the committed state. Documented in P2a. |
+
+---
+
+### 4b. Concealment of truth as a maintained state
+
+**Primary construction:** *menyembunyikan kebenaran*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Mereka terus menyembunyikan kebenaran dari publik.* | "They continued to conceal the truth from the public." | [CORE] | *Menyembunyikan kebenaran* (documented in P1b and P2b as a stable collocation). *Terus* marks the ongoing maintenance of concealment. Common in investigative journalism and legal discourse. |
+
+---
+
+### 4c. Sustained sincerity / earnestness
+
+**Primary construction:** *bersungguh-sungguh* / *dengan sungguh-sungguh*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Dia bekerja dengan sungguh-sungguh setiap hari.* | "He works earnestly every day." | [CORE] | *Dengan sungguh-sungguh* (documented in P2b Construction 2 under *sungguh*) as an adverbial marking sustained earnest conduct. *Setiap hari* ("every day") marks habitual stability. |
+| *Kesungguhan harus dijaga.* | "Earnestness must be maintained." | [CORE] | *Kesungguhan* (documented in P2a Item 6) as subject; *dijaga* ("to be maintained/guarded") as the stability predicate. Common in educational and motivational discourse. |
+
+---
+
+### 4d. Sustained validity
+
+**Primary construction:** *sah dan mengikat*
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Perjanjian ini sah dan mengikat selama lima tahun.* | "This agreement is valid and binding for five years." | [CORE] | *Sah dan mengikat* (documented in P1b and P2b as a fixed legal formula). The temporal phrase *selama lima tahun* specifies the duration of the valid state. Standard in Indonesian contract law language. |
+
+---
+
+## 5. SUMMARY OF PATTERNS
+
+The following patterns emerge from the data documented above:
+
+**Inchoative (becoming) constructions:**
+- Truth-revelation uses *terungkap* (spontaneous) or *terbukti benar* (evidential); no dedicated inchoative morpheme on *benar* itself.
+- Reality-realization uses the fixed collocation *menjadi kenyataan*.
+- Revelatory discovery uses *ternyata* + predicate for both *benar* and *palsu*.
+- Validity (*sah*) does not have a spontaneous inchoative; it is always conferred by an authoritative agent (see causation).
+- Genuineness (*asli*) has no attested spontaneous inchoative construction in the CONTEXT.
+
+**Causative constructions:**
+- The *me(N)-...-kan* pattern is productive across the truth domain: *membenarkan*, *memalsukan*, *mengesahkan*, *memurnikan*, *mengelirukan*, *mengikhlaskan*.
+- The *me(N)-...-i* pattern applies where the target of the action is foregrounded: *membohongi* (to lie to someone), *menepati* (to fulfill a commitment to someone).
+- Passive *di-...-kan* and *di-...-i* counterparts are equally productive and frequent, particularly in formal and journalistic registers.
+- Causation for *sah* (validity) is institutionally constrained: only authoritative agents (parliament, court, notary) appear as causal agents in attested constructions.
+
+**Stability constructions:**
+- Stability is expressed through habitual aspect markers (*selalu*, *setiap hari*, *terus*) combined with the relevant predicate rather than through dedicated stability morphology.
+- Active maintenance of truth uses *menegakkan kebenaran*; active maintenance of a commitment uses *menepati janji*.
+- Concealment as a maintained state uses *menyembunyikan kebenaran* + *terus*.
+- The fixed legal formula *sah dan mengikat* with a temporal phrase expresses the duration of a valid state.

@@ -1,0 +1,713 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Tamil (ta)
+
+## DERIVATIONAL PATTERNS IDENTIFIED
+
+### Pattern Analysis Note
+Tamil derivational morphology for truth-related terms shows several productive patterns:
+1. **Adjectival suffix -āṉa** (ஆன): Highly productive across multiple bases
+2. **Adverbial suffix -āka** (ஆக): Productive for manner/state expressions
+3. **Locative -il** (இல்): Used for abstract location/state
+4. **Abstract noun suffix -mai** (மை): Classical pattern for abstract concepts
+5. **Quality noun suffix -taṉmai** (தன்மை): Formal register for properties
+6. **Agentive suffixes -aṉ/-āḷ/-ar** (அன்/ஆள்/அர்): Person markers with gender/number distinctions
+
+---
+
+## DERIVATIONS BY BASE FORM
+
+### Base: உண்மை (uṇmai) - "truth"
+
+#### D1.1
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மையான (uṇmaiyāṉa)
+**Transliteration:** uṇmaiyāṉa
+**Literal Breakdown:** uṇmai (truth) + āṉa (adjectival suffix)
+**Translation:** true, real, genuine, authentic
+**Usage:** Primary adjectival form modifying nouns. Extremely productive and common in all registers of speech and writing.
+**Epistemic status:** [CORE]
+
+#### D1.2
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மையாக (uṇmaiyāka)
+**Transliteration:** uṇmaiyāka
+**Literal Breakdown:** uṇmai (truth) + āka (adverbial suffix)
+**Translation:** truly, truthfully, really
+**Usage:** Adverbial form indicating manner or degree. Used both for truth-evaluation and as general intensifier.
+**Epistemic status:** [CORE]
+
+#### D1.3
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மையில் (uṇmaiyil)
+**Transliteration:** uṇmaiyil
+**Literal Breakdown:** uṇmai (truth) + il (locative case marker)
+**Translation:** in truth, actually, in reality
+**Usage:** Functions as discourse marker and adverbial emphasizing actual truth or reality of a statement.
+**Epistemic status:** [CORE]
+
+#### D1.4
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மைத்தன்மை (uṇmaittaṉmai)
+**Transliteration:** uṇmaittaṉmai
+**Literal Breakdown:** uṇmai (truth) + taṉmai (quality/nature)
+**Translation:** truthfulness, veracity, the quality of being true
+**Usage:** Formal abstract noun for the property or quality of truth. Common in academic and legal registers.
+**Epistemic status:** [CORE]
+
+#### D1.5
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மையற்ற (uṇmaiyaṟṟa)
+**Transliteration:** uṇmaiyaṟṟa
+**Literal Breakdown:** uṇmai (truth) + aṟṟa (without - negative adjectival)
+**Translation:** without truth, untrue, false
+**Usage:** Negative adjectival form indicating absence of truth. Used in formal and written contexts.
+**Epistemic status:** [CORE]
+
+#### D1.6
+**Base Form:** உண்மை (uṇmai)
+**Derived Form:** உண்மையின்மை (uṇmaiyiṉmai)
+**Transliteration:** uṇmaiyiṉmai
+**Literal Breakdown:** uṇmai (truth) + iṉmai (absence/non-existence)
+**Translation:** absence of truth, untruth, falsity
+**Usage:** Abstract noun for the state of lacking truth. Formal and literary register.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: பொய் (poy) - "lie, falsehood"
+
+#### D2.1
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யான (poyyāṉa)
+**Transliteration:** poyyāṉa
+**Literal Breakdown:** poy (lie) + āṉa (adjectival suffix)
+**Translation:** false, fake, untrue, lying
+**Usage:** Primary adjectival form for modifying nouns. Highly productive across all registers.
+**Epistemic status:** [CORE]
+
+#### D2.2
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யாக (poyyāka)
+**Transliteration:** poyyāka
+**Literal Breakdown:** poy (lie) + āka (adverbial suffix)
+**Translation:** falsely, untruthfully, as a lie
+**Usage:** Adverbial form indicating manner of action or state. Common in both speech and writing.
+**Epistemic status:** [CORE]
+
+#### D2.3
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யில் (poyyil)
+**Transliteration:** poyyil
+**Literal Breakdown:** poy (lie) + il (locative case marker)
+**Translation:** in falsehood, in lies
+**Usage:** Less common than poyyāka; used primarily in literary and formal contexts to indicate state of being in falsehood.
+**Epistemic status:** [CORE]
+
+#### D2.4
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்மை (poymai)
+**Transliteration:** poymai
+**Literal Breakdown:** poy (lie) + mai (abstract noun suffix)
+**Translation:** falsehood, falsity, untruth
+**Usage:** Classical Tamil abstract noun form. Used in literary and formal registers, particularly in classical literature.
+**Epistemic status:** [CORE]
+
+#### D2.5
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்த்தன்மை (poyttaṉmai)
+**Transliteration:** poyttaṉmai
+**Literal Breakdown:** poy (lie) + taṉmai (quality/nature)
+**Translation:** falseness, the quality of being false
+**Usage:** Formal abstract noun for the property of falseness. Used in analytical and academic discourse.
+**Epistemic status:** [CORE]
+
+#### D2.6
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யன் (poyyan)
+**Transliteration:** poyyan
+**Literal Breakdown:** poy (lie) + aṉ (masculine agentive suffix)
+**Translation:** liar (masculine)
+**Usage:** Agentive noun referring to a male person who lies. Common in everyday speech for character judgment.
+**Epistemic status:** [CORE]
+
+#### D2.7
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யாள் (poyyāḷ)
+**Transliteration:** poyyāḷ
+**Literal Breakdown:** poy (lie) + āḷ (person agentive suffix)
+**Translation:** liar (gender-neutral/feminine)
+**Usage:** Agentive noun referring to a person who lies. Used in everyday speech.
+**Epistemic status:** [CORE]
+
+#### D2.8
+**Base Form:** பொய் (poy)
+**Derived Form:** பொய்யர் (poyyar)
+**Transliteration:** poyyar
+**Literal Breakdown:** poy (lie) + ar (plural/honorific agentive suffix)
+**Translation:** liars, false people (plural/honorific)
+**Usage:** Plural or honorific form referring to people who lie. Used in moral condemnation.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: மெய் (mey) - "truth, reality, body"
+
+#### D3.1
+**Base Form:** மெய் (mey)
+**Derived Form:** மெய்யான (meyyāṉa)
+**Transliteration:** meyyāṉa
+**Literal Breakdown:** mey (truth) + āṉa (adjectival suffix)
+**Translation:** true, real, genuine
+**Usage:** Adjectival form used in literary and formal registers. Less common in colloquial speech than uṇmaiyāṉa.
+**Epistemic status:** [CORE]
+
+#### D3.2
+**Base Form:** மெய் (mey)
+**Derived Form:** மெய்யாக (meyyāka)
+**Transliteration:** meyyāka
+**Literal Breakdown:** mey (truth) + āka (adverbial suffix)
+**Translation:** truly, really, genuinely
+**Usage:** Adverbial form primarily in literary and formal registers. Indicates genuine manner or state.
+**Epistemic status:** [CORE]
+
+#### D3.3
+**Base Form:** மெய் (mey)
+**Derived Form:** மெய்மை (meymai)
+**Transliteration:** meymai
+**Literal Breakdown:** mey (truth) + mai (abstract noun suffix)
+**Translation:** truth, reality, genuineness
+**Usage:** Classical Tamil abstract noun for truth. Highly productive in classical and literary Tamil.
+**Epistemic status:** [CORE]
+
+#### D3.4
+**Base Form:** மெய் (mey)
+**Derived Form:** மெய்த்தன்மை (meyttaṉmai)
+**Transliteration:** meyttaṉmai
+**Literal Breakdown:** mey (truth) + taṉmai (quality/nature)
+**Translation:** true nature, essential quality, reality
+**Usage:** Formal abstract noun for the quality or nature of truth. Used in philosophical and analytical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நிஜம் (nijam) - "truth, reality" (Sanskrit loan)
+
+#### D4.1
+**Base Form:** நிஜம் (nijam)
+**Derived Form:** நிஜமான (nijamāṉa)
+**Transliteration:** nijamāṉa
+**Literal Breakdown:** nijam (truth) + āṉa (adjectival suffix)
+**Translation:** true, real, actual
+**Usage:** Adjectival form common in colloquial speech. Fully integrated despite Sanskrit origin.
+**Epistemic status:** [CORE]
+
+#### D4.2
+**Base Form:** நிஜம் (nijam)
+**Derived Form:** நிஜமாக (nijamāka)
+**Transliteration:** nijamāka
+**Literal Breakdown:** nijam (truth) + āka (adverbial suffix)
+**Translation:** truly, really, actually
+**Usage:** Adverbial form very common in everyday speech. Often used as intensifier.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: சரி (cari) - "correct, right"
+
+#### D5.1
+**Base Form:** சரி (cari)
+**Derived Form:** சரியான (cariyāṉa)
+**Transliteration:** cariyāṉa
+**Literal Breakdown:** cari (correct) + āṉa (adjectival suffix)
+**Translation:** correct, right, proper
+**Usage:** Extremely common adjectival form in all registers. Used for both factual correctness and moral rightness.
+**Epistemic status:** [CORE]
+
+#### D5.2
+**Base Form:** சரி (cari)
+**Derived Form:** சரியாக (cariyāka)
+**Transliteration:** cariyāka
+**Literal Breakdown:** cari (correct) + āka (adverbial suffix)
+**Translation:** correctly, rightly, properly
+**Usage:** Very common adverbial form indicating correct manner or proper execution.
+**Epistemic status:** [CORE]
+
+#### D5.3
+**Base Form:** சரி (cari)
+**Derived Form:** சரியில்லை (cariyillai)
+**Transliteration:** cariyillai
+**Literal Breakdown:** cari (correct) + illai (not/negative copula)
+**Translation:** not correct, wrong, incorrect
+**Usage:** Common negative construction functioning as single lexical unit. Used in everyday speech.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: தப்பு (tappu) - "wrong, mistake"
+
+#### D6.1
+**Base Form:** தப்பு (tappu)
+**Derived Form:** தப்பான (tappāṉa)
+**Transliteration:** tappāṉa
+**Literal Breakdown:** tappu (wrong) + āṉa (adjectival suffix)
+**Translation:** wrong, incorrect, mistaken
+**Usage:** Common adjectival form in everyday speech. Used for both factual errors and moral wrongs.
+**Epistemic status:** [CORE]
+
+#### D6.2
+**Base Form:** தப்பு (tappu)
+**Derived Form:** தப்பாக (tappāka)
+**Transliteration:** tappāka
+**Literal Breakdown:** tappu (wrong) + āka (adverbial suffix)
+**Translation:** wrongly, incorrectly, mistakenly
+**Usage:** Adverbial form indicating incorrect manner or mistaken action.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நேர்மை (nērmai) - "honesty, integrity"
+
+#### D7.1
+**Base Form:** நேர்மை (nērmai)
+**Derived Form:** நேர்மையான (nērmaiyāṉa)
+**Transliteration:** nērmaiyāṉa
+**Literal Breakdown:** nērmai (honesty) + āṉa (adjectival suffix)
+**Translation:** honest, upright, having integrity
+**Usage:** Adjectival form used to describe honest persons and conduct. Common in moral discourse.
+**Epistemic status:** [CORE]
+
+#### D7.2
+**Base Form:** நேர்மை (nērmai)
+**Derived Form:** நேர்மையாக (nērmaiyāka)
+**Transliteration:** nērmaiyāka
+**Literal Breakdown:** nērmai (honesty) + āka (adverbial suffix)
+**Translation:** honestly, with integrity, uprightly
+**Usage:** Adverbial form indicating honest manner of action or speech.
+**Epistemic status:** [CORE]
+
+#### D7.3
+**Base Form:** நேர்மை (nērmai)
+**Derived Form:** நேர்மையற்ற (nērmaiyaṟṟa)
+**Transliteration:** nērmaiyaṟṟa
+**Literal Breakdown:** nērmai (honesty) + aṟṟa (without - negative adjectival)
+**Translation:** dishonest, without integrity
+**Usage:** Negative adjectival form describing lack of honesty. Used in character judgments.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நியாயம் (niyāyam) - "justice, fairness" (Sanskrit loan)
+
+#### D8.1
+**Base Form:** நியாயம் (niyāyam)
+**Derived Form:** நியாயமான (niyāyamāṉa)
+**Transliteration:** niyāyamāṉa
+**Literal Breakdown:** niyāyam (justice) + āṉa (adjectival suffix)
+**Translation:** just, fair, right, legitimate
+**Usage:** Common adjectival form in everyday speech and formal discourse. Used for moral and legal evaluation.
+**Epistemic status:** [CORE]
+
+#### D8.2
+**Base Form:** நியாயம் (niyāyam)
+**Derived Form:** நியாயமாக (niyāyamāka)
+**Transliteration:** niyāyamāka
+**Literal Breakdown:** niyāyam (justice) + āka (adverbial suffix)
+**Translation:** justly, fairly, rightly
+**Usage:** Adverbial form indicating just or fair manner of action.
+**Epistemic status:** [CORE]
+
+#### D8.3
+**Base Form:** நியாயம் (niyāyam)
+**Derived Form:** நியாயமற்ற (niyāyamaṟṟa)
+**Transliteration:** niyāyamaṟṟa
+**Literal Breakdown:** niyāyam (justice) + aṟṟa (without - negative adjectival)
+**Translation:** unjust, unfair, illegitimate
+**Usage:** Negative adjectival form describing lack of justice or fairness.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: பொருத்தம் (poruttam) - "suitability, appropriateness"
+
+#### D9.1
+**Base Form:** பொருத்தம் (poruttam)
+**Derived Form:** பொருத்தமான (poruttamāṉa)
+**Transliteration:** poruttamāṉa
+**Literal Breakdown:** poruttam (suitability) + āṉa (adjectival suffix)
+**Translation:** suitable, appropriate, fitting
+**Usage:** Common adjectival form for evaluating appropriateness and fit. Used in everyday speech.
+**Epistemic status:** [CORE]
+
+#### D9.2
+**Base Form:** பொருத்தம் (poruttam)
+**Derived Form:** பொருத்தமாக (poruttamāka)
+**Transliteration:** poruttamāka
+**Literal Breakdown:** poruttam (suitability) + āka (adverbial suffix)
+**Translation:** suitably, appropriately, fittingly
+**Usage:** Adverbial form indicating appropriate manner or suitable execution.
+**Epistemic status:** [CORE]
+
+#### D9.3
+**Base Form:** பொருத்தம் (poruttam)
+**Derived Form:** பொருத்தமற்ற (poruttamaṟṟa)
+**Transliteration:** poruttamaṟṟa
+**Literal Breakdown:** poruttam (suitability) + aṟṟa (without - negative adjectival)
+**Translation:** unsuitable, inappropriate, unfitting
+**Usage:** Negative adjectival form describing lack of suitability or appropriateness.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: தவறு (tavaṟu) - "mistake, error"
+
+#### D10.1
+**Base Form:** தவறு (tavaṟu)
+**Derived Form:** தவறான (tavaṟāṉa)
+**Transliteration:** tavaṟāṉa
+**Literal Breakdown:** tavaṟu (mistake) + āṉa (adjectival suffix)
+**Translation:** wrong, mistaken, erroneous
+**Usage:** Adjectival form more formal than tappāṉa. Used in written and formal spoken contexts.
+**Epistemic status:** [CORE]
+
+#### D10.2
+**Base Form:** தவறு (tavaṟu)
+**Derived Form:** தவறாக (tavaṟāka)
+**Transliteration:** tavaṟāka
+**Literal Breakdown:** tavaṟu (mistake) + āka (adverbial suffix)
+**Translation:** wrongly, mistakenly, erroneously
+**Usage:** Adverbial form indicating mistaken manner. More formal than tappāka.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: போலி (pōli) - "fake, counterfeit"
+
+#### D11.1
+**Base Form:** போலி (pōli)
+**Derived Form:** போலியான (pōliyāṉa)
+**Transliteration:** pōliyāṉa
+**Literal Breakdown:** pōli (fake) + āṉa (adjectival suffix)
+**Translation:** fake, counterfeit, false, imitation
+**Usage:** Adjectival form used to modify nouns. Common in commercial and legal contexts.
+**Epistemic status:** [CORE]
+
+#### D11.2
+**Base Form:** போலி (pōli)
+**Derived Form:** போலியாக (pōliyāka)
+**Transliteration:** pōliyāka
+**Literal Breakdown:** pōli (fake) + āka (adverbial suffix)
+**Translation:** fakely, as a counterfeit, in imitation
+**Usage:** Adverbial form indicating manner of imitation or counterfeit nature.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: அசல் (acal) - "original, genuine" (Arabic/Urdu loan)
+
+#### D12.1
+**Base Form:** அசல் (acal)
+**Derived Form:** அசலான (acalāṉa)
+**Transliteration:** acalāṉa
+**Literal Breakdown:** acal (original) + āṉa (adjectival suffix)
+**Translation:** original, genuine, authentic
+**Usage:** Adjectival form common in commercial and legal contexts. Fully integrated despite foreign origin.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நம்பகம் (nampakam) - "reliability, trustworthiness"
+
+#### D13.1
+**Base Form:** நம்பகம் (nampakam)
+**Derived Form:** நம்பகமான (nampakamāṉa)
+**Transliteration:** nampakamāṉa
+**Literal Breakdown:** nampakam (reliability) + āṉa (adjectival suffix)
+**Translation:** reliable, trustworthy, credible
+**Usage:** Adjectival form used to describe reliable persons and sources. Common in formal discourse.
+**Epistemic status:** [CORE]
+
+#### D13.2
+**Base Form:** நம்பகம் (nampakam)
+**Derived Form:** நம்பகமாக (nampakamāka)
+**Transliteration:** nampakamāka
+**Literal Breakdown:** nampakam (reliability) + āka (adverbial suffix)
+**Translation:** reliably, trustworthily, credibly
+**Usage:** Adverbial form indicating reliable manner or trustworthy execution.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: சாத்தியம் (cāttiyam) - "possibility, feasibility" (Sanskrit loan)
+
+#### D14.1
+**Base Form:** சாத்தியம் (cāttiyam)
+**Derived Form:** சாத்தியமான (cāttiyamāṉa)
+**Transliteration:** cāttiyamāṉa
+**Literal Breakdown:** cāttiyam (possibility) + āṉa (adjectival suffix)
+**Translation:** possible, feasible, potential
+**Usage:** Adjectival form common in evaluations of possibility. Used in all registers.
+**Epistemic status:** [CORE]
+
+#### D14.2
+**Base Form:** சாத்தியம் (cāttiyam)
+**Derived Form:** சாத்தியமற்ற (cāttiyamaṟṟa)
+**Transliteration:** cāttiyamaṟṟa
+**Literal Breakdown:** cāttiyam (possibility) + aṟṟa (without - negative adjectival)
+**Translation:** impossible, not feasible, not possible
+**Usage:** Negative adjectival form describing impossibility. Very common in everyday speech.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: சந்தேகம் (cantēkam) - "doubt, suspicion" (Sanskrit loan)
+
+#### D15.1
+**Base Form:** சந்தேகம் (cantēkam)
+**Derived Form:** சந்தேகமான (cantēkamāṉa)
+**Transliteration:** cantēkamāṉa
+**Literal Breakdown:** cantēkam (doubt) + āṉa (adjectival suffix)
+**Translation:** doubtful, suspicious, uncertain
+**Usage:** Adjectival form describing doubtful situations or suspicious circumstances.
+**Epistemic status:** [CORE]
+
+#### D15.2
+**Base Form:** சந்தேகம் (cantēkam)
+**Derived Form:** சந்தேகமற்ற (cantēkamaṟṟa)
+**Transliteration:** cantēkamaṟṟa
+**Literal Breakdown:** cantēkam (doubt) + aṟṟa (without - negative adjectival)
+**Translation:** without doubt, certain, undoubted
+**Usage:** Negative adjectival form indicating certainty or absence of doubt.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நம்பிக்கை (nampikkai) - "trust, belief"
+
+#### D16.1
+**Base Form:** நம்பிக்கை (nampikkai)
+**Derived Form:** நம்பிக்கையான (nampikkaiyāṉa)
+**Transliteration:** nampikkaiyāṉa
+**Literal Breakdown:** nampikkai (trust) + āṉa (adjectival suffix)
+**Translation:** trustful, believing, faithful
+**Usage:** Adjectival form describing persons or attitudes characterized by trust or belief.
+**Epistemic status:** [CORE]
+
+#### D16.2
+**Base Form:** நம்பிக்கை (nampikkai)
+**Derived Form:** நம்பிக்கையற்ற (nampikkaiyaṟṟa)
+**Transliteration:** nampikkaiyaṟṟa
+**Literal Breakdown:** nampikkai (trust) + aṟṟa (without - negative adjectival)
+**Translation:** without trust, faithless, hopeless
+**Usage:** Negative adjectival form describing lack of trust or absence of hope.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: உறுதி (uṟuti) - "certainty, confirmation"
+
+#### D17.1
+**Base Form:** உறுதி (uṟuti)
+**Derived Form:** உறுதியான (uṟutiyāṉa)
+**Transliteration:** uṟutiyāṉa
+**Literal Breakdown:** uṟuti (certainty) + āṉa (adjectival suffix)
+**Translation:** certain, confirmed, assured, firm
+**Usage:** Adjectival form describing certainty or confirmed status. Common in formal and legal contexts.
+**Epistemic status:** [CORE]
+
+#### D17.2
+**Base Form:** உறுதி (uṟuti)
+**Derived Form:** உறுதியாக (uṟutiyāka)
+**Transliteration:** uṟutiyāka
+**Literal Breakdown:** uṟuti (certainty) + āka (adverbial suffix)
+**Translation:** certainly, firmly, assuredly
+**Usage:** Adverbial form indicating certain manner or firm execution.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: தெளிவு (teḷivu) - "clarity, clearness"
+
+#### D18.1
+**Base Form:** தெளிவு (teḷivu)
+**Derived Form:** தெளிவான (teḷivāṉa)
+**Transliteration:** teḷivāṉa
+**Literal Breakdown:** teḷivu (clarity) + āṉa (adjectival suffix)
+**Translation:** clear, lucid, evident
+**Usage:** Very common adjectival form describing clarity of understanding, expression, or perception.
+**Epistemic status:** [CORE]
+
+#### D18.2
+**Base Form:** தெளிவு (teḷivu)
+**Derived Form:** தெளிவாக (teḷivāka)
+**Transliteration:** teḷivāka
+**Literal Breakdown:** teḷivu (clarity) + āka (adverbial suffix)
+**Translation:** clearly, lucidly, evidently
+**Usage:** Very common adverbial form indicating clear manner of expression or understanding.
+**Epistemic status:** [CORE]
+
+#### D18.3
+**Base Form:** தெளிவு (teḷivu)
+**Derived Form:** தெளிவற்ற (teḷivaṟṟa)
+**Transliteration:** teḷivaṟṟa
+**Literal Breakdown:** teḷivu (clarity) + aṟṟa (without - negative adjectival)
+**Translation:** unclear, obscure, ambiguous
+**Usage:** Negative adjectival form describing lack of clarity or ambiguous nature.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: குற்றம் (kuṟṟam) - "fault, crime"
+
+#### D19.1
+**Base Form:** குற்றம் (kuṟṟam)
+**Derived Form:** குற்றமான (kuṟṟamāṉa)
+**Transliteration:** kuṟṟamāṉa
+**Literal Breakdown:** kuṟṟam (fault) + āṉa (adjectival suffix)
+**Translation:** faulty, criminal, blameworthy
+**Usage:** Adjectival form describing faulty or criminal nature. Used in legal and moral contexts.
+**Epistemic status:** [CORE]
+
+#### D19.2
+**Base Form:** குற்றம் (kuṟṟam)
+**Derived Form:** குற்றமற்ற (kuṟṟamaṟṟa)
+**Transliteration:** kuṟṟamaṟṟa
+**Literal Breakdown:** kuṟṟam (fault) + aṟṟa (without - negative adjectival)
+**Translation:** faultless, blameless, innocent
+**Usage:** Negative adjectival form describing absence of fault or blame. Common in moral and legal discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: அறம் (aṟam) - "virtue, righteousness"
+
+#### D20.1
+**Base Form:** அறம் (aṟam)
+**Derived Form:** அறமான (aṟamāṉa)
+**Transliteration:** aṟamāṉa
+**Literal Breakdown:** aṟam (virtue) + āṉa (adjectival suffix)
+**Translation:** virtuous, righteous, moral
+**Usage:** Adjectival form used in classical and formal contexts to describe virtuous conduct or righteous persons.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: நீதி (nīti) - "justice, righteousness" (Sanskrit loan)
+
+#### D21.1
+**Base Form:** நீதி (nīti)
+**Derived Form:** நீதியான (nītiyāṉa)
+**Transliteration:** nītiyāṉa
+**Literal Breakdown:** nīti (justice) + āṉa (adjectival suffix)
+**Translation:** just, righteous, moral
+**Usage:** Adjectival form used in legal and moral discourse to describe just actions or righteous persons.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: இயல்பு (iyalpu) - "nature, natural state"
+
+#### D22.1
+**Base Form:** இயல்பு (iyalpu)
+**Derived Form:** இயல்பான (iyalpāṉa)
+**Transliteration:** iyalpāṉa
+**Literal Breakdown:** iyalpu (nature) + āṉa (adjectival suffix)
+**Translation:** natural, inherent, normal
+**Usage:** Common adjectival form describing natural or inherent qualities. Used across all registers.
+**Epistemic status:** [CORE]
+
+#### D22.2
+**Base Form:** இயல்பு (iyalpu)
+**Derived Form:** இயல்பாக (iyalpāka)
+**Transliteration:** iyalpāka
+**Literal Breakdown:** iyalpu (nature) + āka (adverbial suffix)
+**Translation:** naturally, inherently, normally
+**Usage:** Adverbial form indicating natural manner or inherent state.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: மாயை (māyai) - "illusion, delusion"
+
+#### D23.1
+**Base Form:** மாயை (māyai)
+**Derived Form:** மாயையான (māyaiyāṉa)
+**Transliteration:** māyaiyāṉa
+**Literal Breakdown:** māyai (illusion) + āṉa (adjectival suffix)
+**Translation:** illusory, deceptive, magical
+**Usage:** Adjectival form describing illusory or deceptive nature. Used in philosophical and everyday contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: ஏமாற்று (ēmāṟṟu) - "deception, cheating"
+
+#### D24.1
+**Base Form:** ஏமாற்று (ēmāṟṟu)
+**Derived Form:** ஏமாற்றும் (ēmāṟṟum)
+**Transliteration:** ēmāṟṟum
+**Literal Breakdown:** ēmāṟṟu (deception) + um (present participle/adjectival)
+**Translation:** deceptive, cheating, fraudulent
+**Usage:** Participial form functioning as adjective. Common in descriptions of deceptive practices.
+**Epistemic status:** [CORE]
+
+---
+
+### Base: சாட்சி (cāṭci) - "witness, testimony" (Sanskrit loan)
+
+#### D25.1
+**Base Form:** சாட்சி (cāṭci)
+**Derived Form:** சாட்சியான (cāṭciyāṉa)
+**Transliteration:** cāṭciyāṉa
+**Literal Breakdown:** cāṭci (witness) + āṉa (adjectival suffix)
+**Translation:** witnessed, testified, evidenced
+**Usage:** Adjectival form describing something that has been witnessed or evidenced. Used in legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+## PRODUCTIVITY NOTES
+
+### High Productivity Patterns
+
+1. **-āṉa adjectival derivation**: Extremely productive across nearly all nominal bases in the truth domain. This is the default adjectival formation strategy in Tamil.
+
+2. **-āka adverbial derivation**: Highly productive for creating manner adverbs from nominal bases. Nearly parallel to -āṉa in distribution.
+
+3. **-aṟṟa negative adjectival**: Productive pattern for creating negative adjectives meaning "without X" or "lacking X". Particularly common with abstract nouns.
+
+### Moderate Productivity Patterns
+
+4. **-mai abstract nominalization**: Classical Tamil pattern still productive in formal registers. Creates abstract nouns from roots and other nominals.
+
+5. **-taṉmai quality nominalization**: Formal pattern for creating nouns denoting qualities or properties. More restricted than -mai.
+
+### Limited Productivity Patterns
+
+6. **Agentive suffixes (-aṉ, -āḷ, -ar)**: Only productively attested with பொய் (poy) in this domain. Other bases do not readily form agentive nouns.
+
+7. **Locative -il as derivational**: Functions derivationally with some bases (உண்மை, பொய்) but not a general productive pattern.
+
+### Gaps and Asymmetries
+
+- Not all bases take all derivational suffixes
+- Sanskrit loans (நிஜம், நியாயம், சாத்தியம், etc.) fully participate in Tamil derivational morphology
+- Some bases (like ஏமாற்று) show verbal rather than nominal derivational patterns
+- Agentive derivation is highly restricted, appearing productively only with பொய்
+
+---
+
+## SUMMARY
+
+Total derivations documented: **68**
+
+Distribution by pattern:
+- **-āṉa adjectival**: 25 forms
+- **-āka adverbial**: 15 forms  
+- **-aṟṟa negative adjectival**: 11 forms
+- **-mai abstract nominal**: 3 forms
+- **-taṉmai quality nominal**: 5 forms
+- **-il locative/derivational**: 2 forms
+- **Agentive (-aṉ, -āḷ, -ar)**: 3 forms
+- **Other patterns**: 4 forms
+
+The data shows clear asymmetries: adjectival and adverbial derivations are highly productive, while agentive and some nominal derivations are restricted to specific lexical items.

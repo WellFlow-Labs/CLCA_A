@@ -1,0 +1,40 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Greek (el)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** | Αυτό είναι αληθινό. | *Aftó íne alithinó.* | "This is true / real." | [CORE] | Copular attribution with truth-domain adjectives is the default frame across all registers. Register determines adjective choice: αληθής / ψευδής are formal/legal; αληθινός / ψεύτικος are colloquial. |
+| **1. ATTRIBUTION** | Η κατάθεσή του είναι ψευδής. | *I katáthesí tu íne psevdhís.* | "His testimony is false." | [CORE] | Strongly established in legal and formal written registers. The adjective ψευδής is largely restricted to formal contexts and does not freely substitute for ψεύτικος in everyday speech. |
+| **2. NEGATIVE ATTRIBUTION (sentential negation)** | Αυτό δεν είναι αληθινό. | *Aftó dhen íne alithinó.* | "This is not true." | [CORE] | Default negation strategy in everyday speech. No register restriction; applies across spoken and written contexts. |
+| **2. NEGATIVE ATTRIBUTION (privative adjective)** | Η πηγή είναι αναξιόπιστη. | *I pigí íne anaksiópistos.* | "The source is unreliable." | [CORE] in formal registers; [MARGINAL] in colloquial speech | Privative-prefixed adjectives (αναξιόπιστος, αναληθής, ανακριβής) are preferred in formal, journalistic, and legal registers. Not all positive adjectives have a lexicalized privative counterpart, limiting productivity. |
+| **3. ADNOMINAL MODIFICATION** | ψευδής κατάθεση | *psevdhís katáthesi* | "false testimony" | [CORE] | Semi-fixed collocations in legal and journalistic registers (ψευδής κατάθεση, ψευδής δήλωση) are highly established. Prenominal position is slightly marked (emphatic or literary); postnominal is the neutral default. |
+| **3. ADNOMINAL MODIFICATION** | αξιόπιστη πηγή | *aksiópistos pigí* | "reliable source" | [CORE] | Common across journalistic and academic registers. Postnominal position is neutral; the collocation is not as rigidly fixed as legal examples but is frequent and idiomatic. |
+| **4. BECOME / INCHOATIVE** | Αποδείχτηκε ψευδής. | *Apodhíchtike psevdhís.* | "It turned out to be false / was proven false." | [CORE] | The passive αποδείχτηκε is the natural and idiomatic expression for truth-value transitions in Greek. Common in formal, journalistic, and legal registers. |
+| **4. BECOME / INCHOATIVE** | Η πληροφορία αποδείχτηκε αναληθής. | *I pliroforía apodhíchtike analithís.* | "The information turned out to be untrue." | [CORE] in formal registers | Formal register variant combining αποδείχτηκε with a privative adjective. The combination is natural in written and journalistic contexts. γίνομαι + truth-domain adjective is grammatical but noted as less natural for this specific semantic domain. |
+| **5. CAUSATIVE** | Απέδειξε ότι η κατάθεση ήταν ψευδής. | *Apédhikse óti i katáthesi ítan psevdhís.* | "He proved that the testimony was false." | [CORE] | Periphrastic causative via dedicated verbs (αποδεικνύω, επαληθεύω) is the only available strategy; no morphological causative exists. Common across formal, legal, and journalistic registers. |
+| **5. CAUSATIVE** | Διέψευσε τους ισχυρισμούς. | *Dhiépsefse tus ischirismús.* | "He refuted / disproved the claims." | [CORE] | διαψεύδω is well established in journalistic and formal registers for refutation. Each causative verb in this domain is lexically distinct rather than productively derived from adjectives. |
+| **6. ABSTRACT NOMINALIZATION** | αλήθεια | *alíthia* | "truth" | [CORE] | Fully lexicalized; the most frequent and unmarked nominal in the truth domain. Occurs across all registers and contexts without restriction. |
+| **6. ABSTRACT NOMINALIZATION** | αξιοπιστία | *aksiopistía* | "credibility, reliability" | [CORE] | Common in journalistic, academic, and formal registers. The -ία suffix is productive for this adjective class. Verbal nominalizations in -ση (επαλήθευση, τεκμηρίωση) form a parallel set denoting processes rather than properties and are similarly well established in formal registers. |
+| **7. AGENTIVE NOMINALIZATION** | ψεύτης / ψεύτρα | *psévtis / psévtra* | "liar (masc. / fem.)" | [CORE] | Primary agentive for the liar; common across all registers including colloquial speech. The feminine form ψεύτρα is the standard counterpart. |
+| **7. AGENTIVE NOMINALIZATION** | αξιολογητής | *aksioloyitís* | "evaluator, assessor" | [CORE] in formal/institutional registers | Restricted to formal, administrative, and academic contexts. A truth-teller agentive (*αληθευτής) is not in common use; the concept requires periphrastic expression. |
+| **8. DISCOURSE-FRAMING** | Η αλήθεια είναι ότι δεν το ήξερα. | *I alíthia íne óti dhen to íksera.* | "The truth is that I didn't know." | [CORE] | Most frequent written form of the candor-introducing frame. Signals speaker stance (frankness, correction) rather than propositional truth evaluation. Common across written and spoken registers. |
+| **8. DISCOURSE-FRAMING** | Για να λέμε την αλήθεια, δεν συμφωνώ. | *Ya na léme tin alíthia, dhen simfonó.* | "To tell the truth, I don't agree." | [CORE] in spoken registers | Characteristic of spoken and informal registers. Pragmatically distinct from propositional attribution; functions as a sincerity or candor marker. The variant αν θέλεις την αλήθεια is similarly restricted to spoken use. |
+| **9. VERIFICATION / ESTABLISHMENT** | Διαπίστωσε ότι τα έγγραφα ήταν πλαστά. | *Dhiapístoce óti ta éngrafa ítan plastá.* | "He established / found that the documents were forged." | [CORE] | Common in formal, journalistic, and legal registers. The verb selects either an ότι-complement or a direct object. Encodes an epistemic process rather than a static property, distinguishing it structurally from simple attribution. |
+| **9. VERIFICATION / ESTABLISHMENT** | Τεκμηριώνει τη θέση του με στοιχεία. | *Tekmirióni ti thési tu me stoichía.* | "He substantiates his position with evidence." | [CORE] in formal/academic registers | Restricted to formal, academic, and journalistic contexts. Passive forms (επαληθεύτηκε, τεκμηριώθηκε) are common in formal writing to background the agent of verification. |
+| **10. PSEUDO- COMPOUND** | ψευδοεπιστήμη | *psevdhoepistími* | "pseudoscience" | [CORE] | Productive across scientific, political, and rhetorical registers. The prefix ψευδο- combines freely with domain nouns; the compound is structurally distinct from simple negation in asserting a positive category of simulacrum. |
+| **10. PSEUDO- COMPOUND** | ψευδοδίλημμα | *psevdhodhílima* | "false dilemma" | [CORE] in rhetorical/academic registers | Well established in rhetorical, philosophical, and academic contexts. The prefix is invariant; the compound follows the inflectional pattern of the base noun. No restriction on the base noun class has been noted. |
+
+---
+
+## Alternate Constructions
+
+| Construction Type | Alternate Form | Notes |
+|---|---|---|
+| **2. NEGATIVE ATTRIBUTION** | Subject + είναι + privative adjective (e.g., αναληθής) | Formal/legal alternate to sentential negation with δεν; not all positive adjectives have a lexicalized privative counterpart |
+| **4. BECOME / INCHOATIVE** | γίνομαι + truth-domain adjective | Grammatical but noted as less natural than αποδείχτηκε for truth-value transitions specifically |
+| **8. DISCOURSE-FRAMING** | αν θέλεις την αλήθεια… | Spoken register variant of the candor-introducing frame; functionally parallel to για να λέμε την αλήθεια |
+| **9. VERIFICATION / ESTABLISHMENT** | Passive forms: επαληθεύτηκε, τεκμηριώθηκε | Agent-backgrounding alternates common in formal and journalistic written registers |

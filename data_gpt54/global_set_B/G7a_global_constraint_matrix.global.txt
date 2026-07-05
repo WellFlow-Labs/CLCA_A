@@ -1,0 +1,440 @@
+## Main recurring semantic dimensions
+
+The data supports the following recurring dimensions in the truth-related domain:
+
+1. **Statement truth vs falsehood**  
+   Whether a statement/report/proposition is true or false.
+
+2. **Correctness / rightness of answer, judgment, or procedure**  
+   Whether something is correct, right, proper, or mistaken.
+
+3. **Precision / exactness / fine-grained accuracy**  
+   Whether wording, measurement, description, or representation is exact.
+
+4. **Credibility / trustworthiness / dependability**  
+   Whether a source, witness, report, or person deserves belief or reliance.
+
+5. **Honesty / sincerity / truthful character or speech**  
+   Whether a person or utterance is candid, honest, or morally truthful.
+
+6. **Genuineness / authenticity / real identity or object**  
+   Whether an object, identity, relation, or experience is genuine rather than fake.
+
+7. **Fake / counterfeit / forged / deceptive imitation**  
+   Whether something is fake, forged, falsified, or deceptively non-genuine.
+
+8. **Verification / checked or officially confirmed status**  
+   Whether truth/authenticity is established through checking, investigation, or proof.
+
+9. **Basis / support / evidential grounding**  
+   Whether a claim/report/accusation has grounds or lacks support.
+
+10. **Validity / formal standing / admissibility**  
+    Whether something counts as valid, null, acceptable, or standing under rules.
+
+11. **Lawfulness / legitimacy / rightful standing**  
+    Whether an act, claim, authority, or status is lawful or legitimate.
+
+12. **Justice / fairness / moral rightness**  
+    Whether treatment, judgment, or outcome is fair or just.
+
+13. **Reality / actuality / what is really the case**  
+    Whether something is actual rather than apparent, fictional, or merely claimed.
+
+14. **Essence / substance / underlying nature**  
+    What something fundamentally is, beyond form or surface.
+
+15. **Resemblance / correspondence / sameness to an original or model**  
+    Whether something matches, resembles, corresponds to, or is identical with something else.
+
+16. **Appearance-of-truth / plausibility / seeming real**  
+    Whether something seems true, believable, or lifelike without being established as true.
+
+These dimensions are not equally distinct in all languages. Some are clearly split in some languages and merged in others:
+- **truth vs authenticity** is clearly split in zh/he/el/en/tl/sw, weaker in qu, partly merged in sa.
+- **correctness vs precision** is strong in zh/he/el/en/tl, weaker in qu and partly sw.
+- **credibility vs truth** is strong in zh/he/en/tl/sw, weaker in qu, partly absorbed into validity/proof in sa.
+- **reality vs essence** is strongly distinct in zh/he/sa/el, weaker elsewhere.
+
+---
+
+## Main recurring constructional functions / realization types
+
+From the data, the main recurring constructional functions are:
+
+1. **Simple predicative evaluation**  
+   “X is true/correct/reliable/fake/etc.”
+
+2. **Negative predicative evaluation / rejection**  
+   “X is not true / false / incorrect / baseless / fake.”
+
+3. **Noun modification / classification**  
+   “true story,” “fake document,” “reliable source,” etc.
+
+4. **Speech/reporting action constructions**  
+   “tell the truth,” “lie,” “answer truthfully,” “false statement.”
+
+5. **Interrogative checking / querying**  
+   “Is it true?”, “Is that correct?”, “Are you sure?”
+
+6. **Change into a state / inchoative realization**  
+   “come true,” “turn out true,” “become credible,” “prove false.”
+
+7. **Causative / induced result**  
+   “mislead,” “authenticate,” “validate,” “correct,” “falsify.”
+
+8. **Abstract nominal evaluation**  
+   “truth,” “accuracy,” “validity,” “authenticity,” “credibility.”
+
+9. **Person-labeling / agentive characterization**  
+   “liar,” “truthful person,” “trustworthy person,” “forger.”
+
+10. **Discourse framing / stance marking**  
+    “to tell the truth,” “in fact,” “in reality,” “in essence.”
+
+11. **Correspondence / fidelity construction**  
+    “matches the facts,” “faithful to the original,” “true to life.”
+
+12. **Basis / support construction**  
+    “based on evidence,” “has basis,” “baseless.”
+
+13. **Verification / authentication procedure construction**  
+    “verify X,” “verified X,” “confirmed true,” “authenticated.”
+
+These are also unevenly distributed:
+- **Simple predication**, **negative predication**, **noun modification**, **abstract nominalization** are strongest cross-linguistically.
+- **Inchoative** and **causative** patterns are much less uniform.
+- **Interrogative checking** is clearly foregrounded only in some languages in the construction tables, though present elsewhere.
+- **Correspondence/fidelity** is strongly constructional in some languages, more lexical in others.
+
+---
+
+## Global constraint matrix
+
+| Semantic Dimension | Simple Predicative Evaluation | Negative Predicative Evaluation | Noun Modification / Classification | Speech / Reporting Action | Interrogative Checking | Change into State / Inchoative | Causative / Induced Result | Abstract Nominal Evaluation | Person-Labeling | Discourse Framing / Stance | Correspondence / Fidelity Construction | Basis / Support Construction | Verification / Authentication Procedure |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Statement truth vs falsehood | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | VARIABLE |
+| Correctness / rightness | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| Precision / exactness | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| Credibility / trustworthiness | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE |
+| Honesty / sincerity / truthful character | ALLOWED | VARIABLE | ALLOWED | ALLOWED | INSUFFICIENT DATA | BLOCKED | BLOCKED | VARIABLE | ALLOWED | ALLOWED | BLOCKED | INSUFFICIENT DATA | BLOCKED |
+| Genuineness / authenticity | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | ALLOWED |
+| Fake / counterfeit / forged status | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | ALLOWED | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | ALLOWED |
+| Verification / confirmed status | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | BLOCKED | VARIABLE | VARIABLE | INSUFFICIENT DATA | VARIABLE | VARIABLE | ALLOWED | ALLOWED |
+| Basis / support / evidential grounding | VARIABLE | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | VARIABLE | ALLOWED | VARIABLE |
+| Validity / formal standing | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE | ALLOWED | ALLOWED | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | ALLOWED |
+| Lawfulness / legitimacy | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | BLOCKED | VARIABLE | INSUFFICIENT DATA |
+| Justice / fairness / moral rightness | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | BLOCKED | VARIABLE | INSUFFICIENT DATA |
+| Reality / actuality | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | VARIABLE | VARIABLE |
+| Essence / substance / underlying nature | VARIABLE | INSUFFICIENT DATA | VARIABLE | BLOCKED | INSUFFICIENT DATA | BLOCKED | BLOCKED | ALLOWED | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | BLOCKED |
+| Resemblance / correspondence / sameness | VARIABLE | VARIABLE | ALLOWED | BLOCKED | INSUFFICIENT DATA | BLOCKED | BLOCKED | VARIABLE | INSUFFICIENT DATA | VARIABLE | ALLOWED | VARIABLE | BLOCKED |
+| Appearance-of-truth / plausibility | ALLOWED | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | BLOCKED | BLOCKED | VARIABLE | INSUFFICIENT DATA | VARIABLE | ALLOWED | BLOCKED | BLOCKED |
+
+---
+
+## Narrative analysis
+
+### Strongly recurrent constraints
+
+#### 1. Static evaluation is the most stable realization type
+Across the languages, the strongest and most recurrent pattern is **simple predicative evaluation**:
+- true / false
+- correct / incorrect
+- reliable / unreliable
+- authentic / fake
+- valid / invalid
+
+This is strongly supported for:
+- statement truth
+- correctness
+- precision
+- credibility
+- authenticity
+- fake/counterfeit status
+- validity
+- lawfulness
+- justice/fairness
+- reality
+
+So the broadest cross-language generalization is:  
+**truth-related meanings are most robustly encoded as stable evaluative states.**
+
+#### 2. Negative predication is also highly stable
+A second strong recurrent pattern is **negative predicative evaluation**:
+- not true
+- false
+- not correct
+- baseless
+- invalid
+- unlawful
+- fake
+
+This is supported across nearly all languages, either by:
+- analytic negation,
+- lexical negatives,
+- or specialized rejecting predicates.
+
+So another strong constraint is:  
+**if a semantic dimension supports simple predication, it usually also supports some form of negative predication.**
+
+#### 3. Noun modification is broadly available
+Many dimensions are naturally realized as noun modifiers:
+- true story
+- false statement
+- correct answer
+- accurate description
+- reliable source
+- authentic document
+- fake passport
+- lawful authority
+
+This is especially strong for:
+- statement truth/falsity
+- correctness
+- precision
+- credibility
+- authenticity
+- fake/counterfeit
+- lawfulness/legitimacy
+
+So:  
+**classification of entities by truth-related properties is a highly recurrent cross-language strategy.**
+
+#### 4. Abstract nominalization is also highly recurrent
+Many languages strongly support abstract nouns for:
+- truth
+- accuracy
+- validity
+- authenticity
+- credibility
+- fairness
+- legitimacy
+- reality
+
+This is one of the strongest cross-language patterns after predication and noun modification.
+
+---
+
+### Likely prohibitions or avoidance patterns
+
+#### 1. Broad inchoative “become true/false/authentic/correct” systems are generally weak
+A major recurrent avoidance pattern is the lack of a **single general change-of-state system** across the whole domain.
+
+Across many languages:
+- “become true” is only available in restricted lexical families
+- “become false” is often weak or absent
+- “become authentic/genuine” is especially weak
+- “become correct” is often less natural than “correct/fix/verify”
+
+This is especially clear in:
+- he
+- sa
+- el
+- tl
+- sw
+- qu
+and only partly overcome in:
+- en
+- zh
+- tl (for one family only)
+
+So a likely global constraint is:  
+**truth-related domains broadly resist uniform inchoative realization; change-of-state is usually lexically restricted.**
+
+#### 2. General causative “make X true/authentic/correct” is broadly avoided
+Another strong avoidance pattern is the absence of a general causative construction meaning:
+- make true
+- make authentic
+- make genuine
+- make correct
+across the whole domain.
+
+Instead, languages prefer **specialized lexical verbs**:
+- verify
+- authenticate
+- validate
+- falsify
+- forge
+- correct
+- mislead
+
+So a likely prohibition is:  
+**languages tend not to generalize one causative construction across truth-related meanings; they substitute domain-specific verbs.**
+
+#### 3. Authenticity strongly resists ordinary inchoatives
+This is one of the clearest subdomain-specific restrictions:
+- “proved fake/forged” is common
+- “became authentic/genuine” is often weak or absent
+
+This pattern is visible in:
+- he
+- el
+- en
+- tl
+- sw
+- qu
+and partly in zh
+
+So:  
+**the fake side is often easier to lexicalize dynamically than the genuine side.**
+
+#### 4. Verification terms often resist ordinary “become” syntax
+Some verification meanings are not treated like ordinary adjectives.
+Most clearly:
+- zh 属实 resists ordinary become/cause-to-become patterns
+
+More broadly, many languages encode verification through:
+- investigation
+- proof
+- authentication
+- checking
+rather than ordinary inchoative predication.
+
+So:  
+**verification status is often constructionally specialized and not freely integrated into ordinary change-of-state patterns.**
+
+---
+
+### Important divergences, substitutions, and asymmetries
+
+#### 1. Different languages split the domain differently
+The matrix should not be read as implying identical semantic partitions in all languages.
+
+Some dimensions are strongly split in some languages and merged in others:
+- **truth vs authenticity**
+- **correctness vs precision**
+- **credibility vs truth**
+- **reality vs essence**
+- **validity vs legitimacy vs justice**
+
+This means some ALLOWED cells reflect broad cross-language recurrence, but not identical lexical boundaries.
+
+#### 2. Dynamicity is often rerouted through other constructions
+Instead of “become true,” languages often use:
+- **verification/result** constructions
+- **revelation** constructions
+- **proof** constructions
+- **correction** constructions
+- **falsification** constructions
+
+Typical substitutions:
+- truth → prove true / verified / came out
+- falsity → proved false / shown false
+- authenticity → authenticated / proved forged
+- correctness → corrected / got right
+- validity → validated / invalidated
+- credibility → judged credible / trusted / not credible
+
+So the recurrent asymmetry is:
+**state assignment is general; state transition is often indirect and domain-specific.**
+
+#### 3. Negative domains are often more lexically compact
+Across several languages:
+- liar terms are stronger than truth-teller terms
+- fake/forged terms are stronger than become-genuine terms
+- falsification verbs are stronger than make-true verbs
+
+This asymmetry is visible in:
+- en
+- el
+- he
+- qu
+- sw
+and partly elsewhere.
+
+#### 4. Speech-action constructions are especially robust
+Even where dynamic state-change is weak, many languages strongly support:
+- tell the truth
+- lie
+- answer truthfully
+- false statement
+
+So one important substitution pattern is:
+**speech-action constructions often replace more abstract truth-state dynamics.**
+
+#### 5. Basis/support is uneven but important
+Some languages strongly lexicalize support/grounding:
+- sa
+- tl
+- zh/he/en partly
+while others show it less clearly.
+
+This means:
+- support/basis is a real recurring dimension,
+- but its constructional profile is less uniform than truth/correctness/authenticity.
+
+#### 6. Correspondence/fidelity is often separate from truth proper
+Several languages distinguish:
+- being true
+from
+- matching an original
+- being faithful to a source
+- being identical
+- seeming lifelike
+
+This is especially strong in:
+- he
+- el
+- en
+- zh
+and weaker elsewhere.
+
+So:
+**correspondence/fidelity should not be collapsed into statement truth.**
+
+---
+
+## Confidence assessment
+
+### Strong evidence
+Evidence is strongest for:
+- **statement truth vs falsehood**
+- **correctness**
+- **precision**
+- **credibility**
+- **authenticity**
+- **fake/counterfeit**
+- **simple predicative evaluation**
+- **negative predicative evaluation**
+- **noun modification**
+- **abstract nominalization**
+
+These are supported across many languages with multiple examples and repeated contrasts.
+
+### Moderate evidence
+Evidence is moderate for:
+- **verification / confirmed status**
+- **basis / support / evidential grounding**
+- **validity / formal standing**
+- **lawfulness / legitimacy**
+- **justice / fairness**
+- **correspondence / fidelity**
+- **discourse framing**
+- **person-labeling**
+- **change into state / inchoative**
+- **causative / induced result**
+
+These are clearly present, but less evenly distributed and often domain-specific.
+
+### Weak or missing evidence
+Evidence is weak or missing for:
+- **interrogative checking** as a cross-language constructional type in the F4 tables
+- **inchoatives for honesty/sincerity**
+- **inchoatives for authenticity**
+- **general causatives for truth/correctness/authenticity**
+- **person-labeling for many positive domains**
+- **essence/substance with dynamic constructions**
+- **appearance-of-truth with support/verification constructions**
+- **resemblance/sameness with speech-action constructions**
+
+These cells are therefore marked **BLOCKED**, **VARIABLE**, or **INSUFFICIENT DATA** rather than generalized positively.
+
+---
+
+## Brief final assessment
+
+The data supports a **multi-dimensional truth-related domain** rather than a single true/false system. The most stable cross-language realization types are **static predication**, **negative predication**, **noun modification**, and **abstract nominalization**. By contrast, **dynamic change** and **causation** are uneven, often blocked, and frequently replaced by **verification**, **proof**, **correction**, **falsification**, or **authentication** constructions. The strongest asymmetries are:
+- negative/fake/lying terms are often more compact than positive counterparts,
+- authenticity resists ordinary inchoatives,
+- verification is often constructionally specialized,
+- and many languages prefer subdomain-specific verbs over a general “make true” or “become true” system.

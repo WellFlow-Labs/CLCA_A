@@ -1,0 +1,503 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Turkish (tr)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Turkish encodes dynamic relationships — becoming, causing, losing, and maintaining truth-related states — using vocabulary established in P1 through P5. The analysis is organized by the type of dynamic expressed. Within each type, items are treated separately where their behavior differs. Where no common expression exists for a given item or dynamic type, this is stated explicitly.
+
+Sources drawn on: P1b (root expansion, especially inchoative and causative derivations), P2a (derivational system), P2b (multi-word constructions), P3 (semantic groups), P4a (construction types §4 and §5), P4b (usage table), and P5 (oppositions, especially Oppositions 34 and 35).
+
+---
+
+## Section 1 — "X becomes [truth-related state]"
+
+This section documents expressions in which a subject undergoes a change into a truth-related state. The primary morphological resource is the inchoative suffix *-laş-/-leş-* (P4a §4); secondary resources include the predicate outcome construction with *çıkmak* (P4a §9) and the verb *olmak* (to become/be) in change-of-state readings.
+
+---
+
+### 1.1 — *gerçekleşmek* (to come true, to materialize, to be realized)
+
+**Form:** gerçekleşmek
+**Morpheme breakdown:** *gerçek* + *-leş-* (inchoative) + *-mek*
+**Natural English translation:** to come true, to materialize, to be realized, to happen
+**Example:** Hayali gerçekleşti.
+**Transliteration:** Hayali gerçekleşti.
+**English translation:** His/her dream came true.
+**Usage notes:** The subject is typically an abstract noun denoting a plan, dream, prediction, or event. The verb encodes the transition from a non-actual state to an actual one — the subject acquires the property of being real. This is the most frequent inchoative in the truth domain and has extended beyond strict truth-evaluation to mean "to occur" in general. Fully lexicalized; used across all registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 — *meşrulaşmak* (to become legitimate, to gain legitimacy)
+
+**Form:** meşrulaşmak
+**Morpheme breakdown:** *meşru* + *-laş-* (inchoative) + *-mak*
+**Natural English translation:** to become legitimate, to gain legitimacy, to acquire recognized standing
+**Example:** Hareket zamanla meşrulaştı.
+**Transliteration:** Hareket zamanla meşrulaştı.
+**English translation:** The movement became legitimate over time.
+**Usage notes:** The subject is typically a political movement, institution, authority, or practice. The verb encodes the transition from a state of lacking legitimacy to one of recognized legitimacy. Temporal adverbials (*zamanla* — over time; *giderek* — gradually) frequently co-occur, marking the gradual nature of the change. Common in political, social, and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 — *doğru çıkmak* (to turn out to be correct)
+
+**Form:** doğru çıkmak
+**Morpheme breakdown:** *doğru* (correct) + *çıkmak* (to come out, to turn out)
+**Natural English translation:** to turn out to be correct, to prove true
+**Example:** Tahmini doğru çıktı.
+**Transliteration:** Tahmini doğru çıktı.
+**English translation:** His/her prediction turned out to be correct.
+**Usage notes:** The Predicate Outcome Construction (P4a §9) encodes a retrospective change-of-epistemic-status: the subject was previously of uncertain truth-value and is now evaluated as correct following a process of discovery or confirmation. The change is not in the subject itself but in its recognized status. Common in conversational and journalistic registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 — *haklı çıkmak* (to be proven right)
+
+**Form:** haklı çıkmak
+**Morpheme breakdown:** *haklı* (in the right, justified) + *çıkmak* (to turn out)
+**Natural English translation:** to be proven right, to turn out to be correct (of a person or position)
+**Example:** Sonunda haklı çıktı.
+**Transliteration:** Sonunda haklı çıktı.
+**English translation:** In the end, he/she was proven right.
+**Usage notes:** Parallel to *doğru çıkmak* but applied to persons and positions rather than statements. Encodes the retrospective confirmation that a person's claim or judgment was warranted. The temporal adverbial *sonunda* (in the end, finally) frequently co-occurs, marking the resolution of a prior dispute or uncertainty.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 — *geçerli olmak* (to become valid, to come into force)
+
+**Form:** geçerli olmak (in change-of-state reading)
+**Morpheme breakdown:** *geçerli* (valid) + *olmak* (to be/become)
+**Natural English translation:** to become valid, to come into force, to take effect
+**Example:** Yeni kural yarından itibaren geçerli olacak.
+**Transliteration:** Yeni kural yarından itibaren geçerli olacak.
+**English translation:** The new rule will come into force from tomorrow.
+**Usage notes:** *Olmak* in Turkish serves both as a copula (to be) and as a change-of-state verb (to become). In the change-of-state reading, *geçerli olmak* encodes the transition of a document, rule, or claim from a non-valid to a valid state. The temporal frame (*yarından itibaren* — from tomorrow; *bugünden itibaren* — from today) is a characteristic co-occurrence marking the onset of validity.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.6 — *doğrulanmak* (to come to be verified, to be confirmed)
+
+**Form:** doğrulanmak
+**Morpheme breakdown:** *doğru* + *-la-* + *-n-* (passive/reflexive) + *-mak*
+**Natural English translation:** to be verified, to be confirmed, to come to be established as true
+**Example:** İddia sonunda doğrulandı.
+**Transliteration:** İddia sonunda doğrulandı.
+**English translation:** The claim was finally confirmed.
+**Usage notes:** The passive of *doğrulamak* encodes the change in status of a claim or piece of information from unverified to verified. The subject (the claim) undergoes a change of epistemic status through the verification process. Common in journalistic and legal registers. The temporal adverbial *sonunda* (finally) frequently co-occurs.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.7 — *teyit edilmek* (to come to be confirmed)
+
+**Form:** teyit edilmek
+**Morpheme breakdown:** *teyit* + *edilmek* (passive of *etmek*)
+**Natural English translation:** to be confirmed, to come to be corroborated
+**Example:** Haber teyit edildi.
+**Transliteration:** Haber teyit edildi.
+**English translation:** The news was confirmed.
+**Usage notes:** Parallel to *doğrulanmak* in encoding the change of status of information from unconfirmed to confirmed, but more specifically journalistic and informational in register. The subject is typically a piece of news, a claim, or a piece of information rather than a document.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.8 — Items for which no common "becoming" expression is attested
+
+The following truth-domain items do not participate in common "becoming" expressions in the data:
+
+- **doğru** (correct/true as a property of statements): No inchoative *doğrulaşmak* is attested. The change-of-status reading is handled by *doğrulanmak* (passive verification) and *doğru çıkmak* (predicate outcome), not by an inchoative on the adjective itself.
+- **hakikat** (deep truth): No inchoative *hakikatleşmek* is attested. The domain of *hakikat* does not participate in becoming-expressions in the data.
+- **özgün** (original): No inchoative *özgünleşmek* is attested in the data. The copular *özgün olmak* (to be original) does not have a common change-of-state reading.
+- **sahici** (genuine, colloquial): No inchoative *sahicileşmek* is attested in the data.
+- **yanlış** (wrong/incorrect): No inchoative *yanlışlaşmak* is attested. The change-of-status reading is handled by *yanlış çıkmak* (predicate outcome) and *yanlışlanmak* (passive falsification).
+- **sahte** (fake): No inchoative *sahtelaşmak* or *sahtelaşmak* is attested. The change-of-status reading is handled by *sahte çıkmak* (predicate outcome).
+- **yalan** (lie/false): No inchoative is attested. The change-of-status reading is handled by *yalan çıkmak* (predicate outcome).
+
+---
+
+## Section 2 — "X becomes [non-truth / opposed state]"
+
+This section documents expressions in which a subject undergoes a change away from a truth-related state — losing validity, legitimacy, or recognized status.
+
+---
+
+### 2.1 — *meşruiyetini yitirmek* (to lose legitimacy)
+
+**Form:** meşruiyetini yitirmek
+**Morpheme breakdown:** *meşruiyet* + *-ini* (possessed accusative) + *yitirmek* (to lose)
+**Natural English translation:** to lose legitimacy, to forfeit one's legitimacy
+**Example:** Hükümet meşruiyetini yitirdi.
+**Transliteration:** Hükümet meşruiyetini yitirdi.
+**English translation:** The government lost its legitimacy.
+**Usage notes:** Documented in P2b (Item 22, Construction 3) and P5 (Opposition 34). The possessed accusative *meşruiyetini* marks the legitimacy as belonging to the subject; *yitirmek* (to lose) encodes the change from a state of having legitimacy to one of lacking it. Common in political and journalistic discourse. The contrast with *meşrulaşmak* (to gain legitimacy) and *meşrulaştırmak* (to legitimize) constitutes a full dynamic triad for the legitimacy domain.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.2 — *geçerliliğini yitirmek* (to lose validity, to expire)
+
+**Form:** geçerliliğini yitirmek
+**Morpheme breakdown:** *geçerlilik* + *-ini* (possessed accusative) + *yitirmek* (to lose)
+**Natural English translation:** to lose validity, to become invalid, to expire
+**Example:** Pasaportunun geçerliliği sona erdi.
+**Transliteration:** Pasaportunun geçerliliği sona erdi.
+**English translation:** The validity of his/her passport expired.
+**Usage notes:** Documented in P2b (Item 23, Construction 2) and P2a (Item 23, Derived Form 2). Two near-synonymous constructions are attested: *geçerliliğini yitirmek* (to lose its validity — with *yitirmek*) and *geçerliliği sona ermek* (its validity comes to an end — with *sona ermek*). Both encode the transition from valid to invalid status. Common in administrative and legal registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 — *geçerliliği sona ermek* (for validity to expire)
+
+**Form:** geçerliliği sona ermek
+**Morpheme breakdown:** *geçerlilik* + *-i* (possessed nominative) + *sona* (to an end — dative of *son*) + *ermek* (to reach, to come)
+**Natural English translation:** for validity to expire, to come to an end (of a document or rule)
+**Example:** Kural geçerliliğini yitirdi. / Kuralın geçerliliği sona erdi.
+**Transliteration:** Kuralın geçerliliği sona erdi.
+**English translation:** The rule's validity came to an end.
+**Usage notes:** Parallel to *geçerliliğini yitirmek* in meaning; *sona ermek* (to come to an end) is the standard verb for the expiration of time-limited states in Turkish. The subject of *sona ermek* is the validity itself (*geçerliliği*) rather than the document, which distinguishes this construction syntactically from *geçerliliğini yitirmek* where the document is the subject.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 — *geçersiz kılınmak* (to be rendered invalid)
+
+**Form:** geçersiz kılınmak
+**Morpheme breakdown:** *geçersiz* (invalid) + *kılınmak* (passive of *kılmak* — to make, to render)
+**Natural English translation:** to be rendered invalid, to be nullified, to be declared void
+**Example:** Sözleşme mahkeme tarafından geçersiz kılındı.
+**Transliteration:** Sözleşme mahkeme tarafından geçersiz kılındı.
+**English translation:** The contract was rendered invalid by the court.
+**Usage notes:** The passive of *geçersiz kılmak* (documented in P2b, Item 24, Construction 1) encodes the change of a document or decision from valid to invalid status through an external agent's action. The agent (*mahkeme tarafından* — by the court) is typically expressed with the postposition *tarafından* (by). Common in legal registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.5 — *gerçeklikle bağını koparmak* (to sever one's connection with reality)
+
+**Form:** gerçeklikle bağını koparmak
+**Morpheme breakdown:** *gerçeklik* + *-le* (comitative) + *bağ* (connection) + *-ını* (possessed accusative) + *koparmak* (to sever, to break)
+**Natural English translation:** to sever one's connection with reality, to lose touch with reality
+**Example:** Uzun süre yalnız kalan kişi gerçeklikle bağını kopardı.
+**Transliteration:** Uzun süre yalnız kalan kişi gerçeklikle bağını kopardı.
+**English translation:** The person who had been alone for a long time severed their connection with reality.
+**Usage notes:** Documented in P2b (Item 11, Construction 3). Encodes the change from a state of being connected to reality to one of disconnection. The subject is a person; the change is framed as an action (*koparmak* — to sever) rather than a passive process, implying agency or at least a decisive break. Used in psychological and critical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.6 — *yalan çıkmak* (to turn out to be a lie)
+
+**Form:** yalan çıkmak
+**Morpheme breakdown:** *yalan* (lie, false) + *çıkmak* (to turn out)
+**Natural English translation:** to turn out to be a lie, to prove false
+**Example:** Söylediği her şey yalan çıktı.
+**Transliteration:** Söylediği her şey yalan çıktı.
+**English translation:** Everything he/she said turned out to be a lie.
+**Usage notes:** The Predicate Outcome Construction (P4a §9) in its negative-truth reading. Encodes the retrospective discovery that something previously accepted or uncertain was in fact false. Contrasts directly with *doğru çıkmak* (Opposition 18 in P5).
+**Epistemic status:** [CORE]
+
+---
+
+### 2.7 — *haksız çıkmak* (to be proven wrong)
+
+**Form:** haksız çıkmak
+**Morpheme breakdown:** *haksız* (unjustified, in the wrong) + *çıkmak* (to turn out)
+**Natural English translation:** to be proven wrong, to turn out to have been unjustified
+**Example:** Tartışmanın sonunda haksız çıktı.
+**Transliteration:** Tartışmanın sonunda haksız çıktı.
+**English translation:** At the end of the argument, he/she was proven wrong.
+**Usage notes:** The negative-entitlement reading of the Predicate Outcome Construction. Encodes the retrospective confirmation that a person's claim or position was not warranted. Contrasts directly with *haklı çıkmak* (Opposition 20 in P5). The temporal frame *tartışmanın sonunda* (at the end of the argument) is a characteristic co-occurrence.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.8 — *sahte çıkmak* (to turn out to be fake)
+
+**Form:** sahte çıkmak
+**Morpheme breakdown:** *sahte* (fake, counterfeit) + *çıkmak* (to turn out)
+**Natural English translation:** to turn out to be fake, to prove counterfeit
+**Example:** İmzanın sahte çıkması herkesi şaşırttı.
+**Transliteration:** İmzanın sahte çıkması herkesi şaşırttı.
+**English translation:** The signature turning out to be fake surprised everyone.
+**Usage notes:** Documented in P2b (Item 7, Construction 5). Encodes the retrospective discovery that something presented as genuine is in fact fabricated. Contrasts with *doğru çıkmak* (Opposition 19 in P5). Common in journalistic and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 3 — "Y causes X to be [truth-related state]"
+
+This section documents expressions in which an agent causes a subject to acquire or be recognized as having a truth-related property. The primary morphological resources are the causative suffix chain *-laş-tır-* (P4a §5) and the factitive *-la-* suffix (P4a §5); secondary resources include light-verb constructions with *etmek* and the construction *geçersiz kılmak*.
+
+---
+
+### 3.1 — *doğrulamak* (to verify, to confirm, to validate)
+
+**Form:** doğrulamak
+**Morpheme breakdown:** *doğru* + *-la-* (factitive) + *-mak*
+**Natural English translation:** to verify, to confirm, to validate, to authenticate
+**Example:** Gazeteci haberi doğruladı.
+**Transliteration:** Gazeteci haberi doğruladı.
+**English translation:** The journalist verified the news.
+**Usage notes:** The factitive *-la-* suffix on *doğru* produces a verb meaning "to cause [something] to be established as correct" or "to treat [something] as correct by checking it." The agent (journalist, authority, system) causes the claim to acquire the status of verified. This is the primary causative expression for truth-establishment in the data. Common across journalistic, legal, and technical registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.2 — *meşrulaştırmak* (to legitimize, to cause to become legitimate)
+
+**Form:** meşrulaştırmak
+**Morpheme breakdown:** *meşru* + *-laş-* (inchoative) + *-tır-* (causative) + *-mak*
+**Natural English translation:** to legitimize, to make legitimate, to confer legitimacy on
+**Example:** Seçim sonuçları hükümetin iktidarını meşrulaştırdı.
+**Transliteration:** Seçim sonuçları hükümetin iktidarını meşrulaştırdı.
+**English translation:** The election results legitimized the government's power.
+**Usage notes:** Documented in P2a (Item 21, Derived Form 2) and P4b. The *-laş-tır-* chain encodes "to cause [subject] to become legitimate." The agent is typically an institution, event, or process (election results, a court ruling, public recognition) rather than an individual. Common in political and academic discourse. Contrasts with *meşruiyetini yitirmek* (to lose legitimacy) as the causative acquisition versus the loss of the same property.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 — *tasdik etmek* (to certify, to authenticate)
+
+**Form:** tasdik etmek
+**Morpheme breakdown:** *tasdik* (certification) + *etmek* (light verb)
+**Natural English translation:** to certify, to attest, to authenticate, to officially confirm
+**Example:** Noter belgeyi tasdik etti.
+**Transliteration:** Noter belgeyi tasdik etti.
+**English translation:** The notary certified the document.
+**Usage notes:** Documented in P2b (Item 14, Construction 1). The light-verb construction encodes the act by which an authorized agent (notary, official body) causes a document to acquire the status of officially certified. The agent is typically an institution or authorized person; the object is a document or signature. More formal and notarial than *doğrulamak*.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.4 — *teyit etmek* (to confirm, to corroborate)
+
+**Form:** teyit etmek
+**Morpheme breakdown:** *teyit* (confirmation) + *etmek* (light verb)
+**Natural English translation:** to confirm, to corroborate, to verify
+**Example:** Yetkili kaynaklar bilgiyi teyit etti.
+**Transliteration:** Yetkili kaynaklar bilgiyi teyit etti.
+**English translation:** Authoritative sources confirmed the information.
+**Usage notes:** Documented in P2b (Item 15, Construction 1). The light-verb construction encodes the act by which an agent (source, authority, witness) causes a piece of information to acquire the status of confirmed. The agent is typically an independent source; the object is a piece of information or a claim. More journalistic and informational than *tasdik etmek*.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.5 — *geçersiz kılmak* (to invalidate, to render void)
+
+**Form:** geçersiz kılmak
+**Morpheme breakdown:** *geçersiz* (invalid) + *kılmak* (to make, to render)
+**Natural English translation:** to invalidate, to render void, to nullify
+**Example:** Mahkeme sözleşmeyi geçersiz kıldı.
+**Transliteration:** Mahkeme sözleşmeyi geçersiz kıldı.
+**English translation:** The court rendered the contract void.
+**Usage notes:** Documented in P2b (Item 24, Construction 1) and P4b. The construction *geçersiz kılmak* encodes the act by which an authorized agent (court, authority) causes a document, decision, or rule to acquire the status of invalid. *Kılmak* (to make, to render) is the standard verb for this type of causative rendering in legal language. Contrasts with *geçerli kılmak* (to make valid, to validate — implied by the pattern but not separately documented in P4a).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.6 — *yalanlamak* (to deny, to refute, to give the lie to)
+
+**Form:** yalanlamak
+**Morpheme breakdown:** *yalan* + *-la-* (factitive) + *-mak*
+**Natural English translation:** to deny, to refute, to give the lie to, to officially contradict
+**Example:** Sözcü iddiaları yalanladı.
+**Transliteration:** Sözcü iddiaları yalanladı.
+**English translation:** The spokesperson denied the claims.
+**Usage notes:** Documented in P2a (Item 8, Derived Form 3) and P3 (Group 11). The factitive *-la-* on *yalan* produces a verb meaning "to cause [something] to be established as false" or "to officially declare [something] to be a lie." The agent (spokesperson, official, institution) causes the claim to acquire the status of denied or refuted. Functions as the causative counterpart of *doğrulamak* in journalistic and official language (P5, Opposition 12).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.7 — *yanlışlamak* (to falsify, to show as wrong)
+
+**Form:** yanlışlamak
+**Morpheme breakdown:** *yanlış* + *-la-* (factitive) + *-mak*
+**Natural English translation:** to falsify, to show as wrong, to refute
+**Example:** Deney hipotezi yanlışladı.
+**Transliteration:** Deney hipotezi yanlışladı.
+**English translation:** The experiment falsified the hypothesis.
+**Usage notes:** Documented in P2a (Item 6, Derived Form 2). The factitive *-la-* on *yanlış* produces a verb meaning "to cause [something] to be established as wrong." In scientific and philosophical contexts, the agent is typically an experiment, observation, or argument; the object is a hypothesis or claim. Reflects Popperian usage in Turkish philosophy of science. Contrasts with *doğrulamak* (P5, Opposition 33).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.8 — *yanıltmak* (to mislead, to cause to err)
+
+**Form:** yanıltmak
+**Morpheme breakdown:** *yanıl-* (to err) + *-t-* (causative) + *-mak*
+**Natural English translation:** to mislead, to deceive, to cause to err
+**Example:** Reklamın yanıltıcı görselleri tüketicileri yanılttı.
+**Transliteration:** Reklamın yanıltıcı görselleri tüketicileri yanılttı.
+**English translation:** The advertisement's misleading visuals caused consumers to err / misled consumers.
+**Usage notes:** Documented in P2a (Item 25, Derived Form 4). The causative *-t-* on *yanıl-* (to err) produces a verb meaning "to cause [someone] to be mistaken." The agent is typically a representation, statement, or person; the object is the person caused to err. Encodes causation of a false epistemic state in the affected party rather than causation of a true state.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.9 — *aldatmak* (to deceive, to cause to be deceived)
+
+**Form:** aldatmak
+**Morpheme breakdown:** *aldat-* (causative of *alda-*: to deceive) + *-mak*
+**Natural English translation:** to deceive, to cheat, to defraud, to betray
+**Example:** Sahte belgelerle herkesi aldattı.
+**Transliteration:** Sahte belgelerle herkesi aldattı.
+**English translation:** He/she deceived everyone with forged documents.
+**Usage notes:** Documented in P2a (Item 26, Derived Form 2). Encodes intentional causation of a false epistemic state in the affected party, with stronger implication of intent than *yanıltmak*. The agent is a person; the object is the person deceived. The instrument (*sahte belgelerle* — with forged documents) is a characteristic co-occurrence in legal and journalistic contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.10 — *gerçekleştirmek* (to realize, to bring about, to accomplish)
+
+**Form:** gerçekleştirmek
+**Morpheme breakdown:** *gerçek* + *-leş-* + *-tir-* (causative) + *-mek*
+**Natural English translation:** to realize, to carry out, to bring about, to accomplish
+**Example:** Ekip projeyi zamanında gerçekleştirdi.
+**Transliteration:** Ekip projeyi zamanında gerçekleştirdi.
+**English translation:** The team carried out the project on time.
+**Usage notes:** Documented in P1b (ROOT 2, item 4), P2a (Item 2, Derived Form 4), and P4b. The causative of *gerçekleşmek* encodes "to cause [something] to come true/materialize." The agent is typically a person or group; the object is a plan, project, or goal. This verb has extended beyond the strict truth domain to mean "to carry out/accomplish" in general. The causation here is of actualization rather than of truth-recognition.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 4 — Stability expressions: maintaining or sustaining a truth-related state
+
+This section documents expressions in which a truth-related state is maintained, protected, or sustained over time, as opposed to being acquired or lost.
+
+---
+
+### 4.1 — *hak gözetmek* (to uphold rights, to protect what is due)
+
+**Form:** hak gözetmek
+**Morpheme breakdown:** *hak* (right, due) + *gözetmek* (to watch over, to protect)
+**Natural English translation:** to uphold rights, to protect what is due, to observe equity
+**Example:** Yargıç herkese hakkını gözetmekle yükümlüdür.
+**Transliteration:** Yargıç herkese hakkını gözetmekle yükümlüdür.
+**English translation:** The judge is obliged to uphold everyone's rights.
+**Usage notes:** Documented in P2b (Item 4, Construction 8). *Gözetmek* (to watch over, to protect) encodes the ongoing maintenance of a state of entitlement rather than its acquisition or loss. The agent is typically an authority or institution; the object is the rights of persons. Common in legal and moral discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.2 — *geçerliliğini korumak* (to maintain validity, to remain in force)
+
+**Form:** geçerliliğini korumak
+**Morpheme breakdown:** *geçerlilik* + *-ini* (possessed accusative) + *korumak* (to protect, to maintain)
+**Natural English translation:** to maintain validity, to remain in force, to keep its validity
+**Example:** Anlaşma on yıl boyunca geçerliliğini korudu.
+**Transliteration:** Anlaşma on yıl boyunca geçerliliğini korudu.
+**English translation:** The agreement maintained its validity for ten years.
+**Usage notes:** Not separately documented in P2b but follows directly from the *geçerlilik* + possessed-accusative frame established there (Item 23, Derived Form 2) and the general Turkish pattern of *[possessed noun] + korumak* for maintenance of a state. *Korumak* (to protect, to maintain) encodes the active preservation of validity against potential loss. Common in legal and administrative registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.3 — *meşruiyetini korumak* (to maintain legitimacy)
+
+**Form:** meşruiyetini korumak
+**Morpheme breakdown:** *meşruiyet* + *-ini* (possessed accusative) + *korumak* (to protect, to maintain)
+**Natural English translation:** to maintain legitimacy, to preserve one's legitimate standing
+**Example:** Hükümet meşruiyetini korumak için seçimlere gitti.
+**Transliteration:** Hükümet meşruiyetini korumak için seçimlere gitti.
+**English translation:** The government called elections in order to maintain its legitimacy.
+**Usage notes:** Parallel to *geçerliliğini korumak* in structure; follows from the *meşruiyet* + possessed-accusative frame established in P2b (Item 22, Construction 3) and the general *korumak* maintenance pattern. Encodes the active preservation of legitimacy against potential loss or challenge. Common in political discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.4 — *doğruluğunu korumak* (to maintain accuracy, to remain accurate)
+
+**Form:** doğruluğunu korumak
+**Morpheme breakdown:** *doğruluk* + *-unu* (possessed accusative) + *korumak* (to protect, to maintain)
+**Natural English translation:** to maintain accuracy, to remain accurate, to preserve truthfulness
+**Example:** Bilginin doğruluğunu korumak gazetecinin görevidir.
+**Transliteration:** Bilginin doğruluğunu korumak gazetecinin görevidir.
+**English translation:** Maintaining the accuracy of information is the journalist's duty.
+**Usage notes:** Follows from the *doğruluk* + possessed-accusative frame and the general *korumak* maintenance pattern. Encodes the active preservation of accuracy in information or reporting. Common in journalistic and academic discourse about standards of truthfulness.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.5 — *özgünlüğünü korumak* (to maintain originality, to preserve authenticity)
+
+**Form:** özgünlüğünü korumak
+**Morpheme breakdown:** *özgünlük* + *-ünü* (possessed accusative) + *korumak* (to protect, to maintain)
+**Natural English translation:** to maintain originality, to preserve one's authenticity
+**Example:** Sanatçı ticari baskılara rağmen özgünlüğünü korudu.
+**Transliteration:** Sanatçı ticari baskılara rağmen özgünlüğünü korudu.
+**English translation:** The artist maintained his/her originality despite commercial pressures.
+**Usage notes:** Follows from the *özgünlük* + possessed-accusative frame and the general *korumak* maintenance pattern. Encodes the active preservation of originality or authenticity against pressures toward imitation or compromise. Common in aesthetic and critical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 5 — Resistance and failure expressions
+
+This section documents expressions in which a truth-related state resists change or in which an attempt to establish or maintain a truth-related state fails.
+
+---
+
+### 5.1 — *doğrulayamamak* (to be unable to verify, to fail to confirm)
+
+**Form:** doğrulayamamak
+**Morpheme breakdown:** *doğrula-* + *-ya-* (buffer) + *-ma-* (negative) + *-mak* (with ability suffix *-abil-* negated: *-ama-*)
+**Natural English translation:** to be unable to verify, to fail to confirm
+**Example:** Haberi doğrulayamadık.
+**Transliteration:** Haberi doğrulayamadık.
+**English translation:** We were unable to verify the news.
+**Usage notes:** Documented in P2a (Item 13, Derived Form 4). The negative ability form of *doğrulamak* encodes the failure of the verification process — the agent attempts to verify but cannot. Common in journalistic contexts where information cannot be independently confirmed. The first-person plural (*doğrulayamadık*) is a characteristic journalistic form.
+**Epistemic status:** [CORE]
+
+---
+
+### 5.2 — *yanlışlanamaz* (cannot be falsified)
+
+**Form:** yanlışlanamaz
+**Morpheme breakdown:** *yanlışla-* + *-n-* (passive) + *-a-* (ability) + *-maz* (negative aorist)
+**Natural English translation:** cannot be falsified, is not falsifiable
+**Example:** Bu teori yanlışlanamaz.
+**Transliteration:** Bu teori yanlışlanamaz.
+**English translation:** This theory cannot be falsified.
+**Usage notes:** Documented in P2a (Item 6, Derived Form 3). The negative ability passive of *yanlışlamak* encodes the resistance of a claim or theory to falsification. Used in philosophy of science discourse to characterize theories that are not open to empirical refutation. The form *yanlışlanamaz* is the standard Turkish rendering of "unfalsifiable" in this context.
+**Epistemic status:** [CORE]
+
+---
+
+### 5.3 — *teyit beklemek* (to await confirmation, to be pending confirmation)
+
+**Form:** teyit beklemek
+**Morpheme breakdown:** *teyit* (confirmation) + *beklemek* (to wait for, to await)
+**Natural English translation:** to await confirmation, to be pending confirmation
+**Example:** Teyit bekleyen haberler var.
+**Transliteration:** Teyit bekleyen haberler var.
+**English translation:** There are reports awaiting confirmation.
+**Usage notes:** Documented in P2b (Item 15, Construction 4). Encodes the state of a claim or piece of information that has not yet undergone the change to confirmed status — it is in a transitional state between unconfirmed and confirmed. Common in breaking news language where information is reported before full verification.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 6 — Summary of dynamic patterns
+
+The following observations are supported by the data documented in Sections 1–5.
+
+---
+
+**6.1 — The *-laş-* inchoative is the primary morphological resource for "becoming" in the truth domain**, but it is not uniformly available across all truth-domain items. It is attested for *meşru* (*meşrulaşmak*) and *gerçek* (*gerçekleşmek*) but not for *doğru*, *yanlış*, *sahte*, *yalan*, *özgün*, or *sahici*. For items where *-laş-* is not attested, the Predicate Outcome Construction with *çıkmak* (P4a §9) serves as the primary resource for encoding change-of-recognized-status.
+
+**6.2 — The *-laş-tır-* causative chain and the *-la-* factitive are the primary morphological resources for "causing to be" in the truth domain.** The *-laş-tır-* chain is attested for *meşru* (*meşrulaştırmak*) and *gerçek* (*gerçekleştirmek*); the *-la-* factitive is attested for *doğru* (*doğrulamak*), *yalan* (*yalanlamak*), and *yanlış* (*yanlışlamak*). Light-verb constructions with *etmek* serve this function for Arabic/Persian-origin bases (*tasdik etmek*, *teyit etmek*).
+
+**6.3 — Loss of a truth-related state is encoded primarily by** *yitirmek* (to lose) with a possessed-accusative object (*meşruiyetini yitirmek*, *geçerliliğini yitirmek*) and by *sona ermek* (to come to an end) with the validity as subject (*geçerliliği sona ermek*). The Predicate Outcome Construction with *çıkmak* also encodes retrospective discovery of a non-truth state (*yalan çıkmak*, *sahte çıkmak*, *haksız çıkmak*).
+
+**6.4 — Maintenance of a truth-related state is encoded by** *korumak* (to protect, to maintain) with a possessed-accusative object. This pattern is productive across the truth domain (*geçerliliğini korumak*, *meşruiyetini korumak*, *doğruluğunu korumak*, *özgünlüğünü korumak*) and follows from the general Turkish possessed-accusative + *korumak* maintenance construction rather than from truth-domain-specific morphology.
+
+**6.5 — Resistance and failure are encoded by** negative ability forms (*doğrulayamamak*, *yanlışlanamaz*) and by the *teyit beklemek* construction for the transitional state of pending confirmation. No truth-domain-specific resistance construction is attested; the general Turkish negative ability morphology (*-ama-/-eme-*) applies.
+
+**6.6 — The causation of false epistemic states** (*yanıltmak*, *aldatmak*) is morphologically parallel to the causation of true epistemic states (*doğrulamak*, *yalanlamak*) — both use the *-t-* causative or *-la-* factitive on truth-domain bases — but they differ in the direction of the caused state: toward truth versus toward error or deception.

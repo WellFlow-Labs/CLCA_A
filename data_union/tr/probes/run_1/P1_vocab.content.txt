@@ -1,0 +1,309 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Turkish (tr)
+
+---
+
+**1.**
+**Form:** doğru
+**Transliteration:** doğru
+**Literal meaning:** straight, direct (from Proto-Turkic root)
+**Typical English translations:** true, correct, right, accurate
+**Usage:** Used across everyday, moral, and epistemic contexts to affirm that a statement or action corresponds to fact or norm. Participates in productive derivation: *doğruluk* (truthfulness), *doğrulamak* (to verify/confirm), *doğrultmak* (to straighten/correct). One of the most semantically broad evaluative terms in Turkish.
+**Epistemic status:** [CORE]
+
+---
+
+**2.**
+**Form:** yanlış
+**Transliteration:** yanlış
+**Literal meaning:** oblique, off to the side (from *yan*, side)
+**Typical English translations:** wrong, incorrect, false, mistaken
+**Usage:** The primary antonym of *doğru*; applied to statements, beliefs, actions, and representations judged to deviate from correctness. Productive in derivation: *yanlışlık* (error), *yanlışlamak* (to falsify, to show as wrong). Widely used in both colloquial and formal registers.
+**Epistemic status:** [CORE]
+
+---
+
+**3.**
+**Form:** gerçek
+**Transliteration:** gerçek
+**Literal meaning:** real, genuine (etymology debated; possibly from Persian *gark* or native Turkic)
+**Typical English translations:** real, true, genuine, actual
+**Usage:** Emphasizes ontological or factual reality rather than mere correctness; contrasts with *sahte* (fake) and *yanlış* (wrong). Used in philosophical, legal, and everyday contexts: *gerçek kimlik* (true identity), *gerçek değer* (real value). Derives *gerçeklik* (reality, genuineness) and *gerçekten* (truly, really).
+**Epistemic status:** [CORE]
+
+---
+
+**4.**
+**Form:** sahte
+**Transliteration:** sahte
+**Literal meaning:** false, counterfeit (from Arabic *saḥt*, forbidden/invalid, via Ottoman)
+**Typical English translations:** fake, counterfeit, forged, spurious
+**Usage:** Applied to objects, documents, identities, and representations that are presented as genuine but are not. Common in legal contexts: *sahte belge* (forged document), *sahte para* (counterfeit money). Less commonly extended to abstract claims than *yanlış* or *asılsız*.
+**Epistemic status:** [CORE]
+
+---
+
+**5.**
+**Form:** gerçek dışı
+**Transliteration:** gerçek dışı
+**Literal meaning:** outside of the real (*gerçek* + *dışı*, outside of)
+**Typical English translations:** unreal, fictitious, contrary to fact
+**Usage:** A compositional expression used to characterize claims, scenarios, or representations that do not correspond to reality. Appears in legal and philosophical discourse, e.g., *gerçek dışı beyan* (false/fictitious declaration). Less lexicalized than *sahte* or *yanlış* but conventionally used.
+**Epistemic status:** [CORE]
+
+---
+
+**6.**
+**Form:** doğruluk
+**Transliteration:** doğruluk
+**Literal meaning:** straightness, correctness (*doğru* + nominal suffix *-luk*)
+**Typical English translations:** truth, truthfulness, accuracy, correctness
+**Usage:** The nominalized form of *doğru*, used to refer to the property or quality of being true or accurate. Appears in moral discourse (*doğruluk erdemi*, the virtue of truthfulness) and in technical contexts (measurement accuracy). Productive base for further derivation.
+**Epistemic status:** [CORE]
+
+---
+
+**7.**
+**Form:** yalan
+**Transliteration:** yalan
+**Literal meaning:** lie, falsehood (Turkic origin)
+**Typical English translations:** lie, falsehood, untruth
+**Usage:** Refers specifically to a deliberate false statement, carrying a stronger moral charge than *yanlış*. Used in moral, legal, and everyday contexts: *yalan söylemek* (to tell a lie), *yalancı* (liar). Participates in compounds such as *yalan beyan* (false declaration) in legal registers.
+**Epistemic status:** [CORE]
+
+---
+
+**8.**
+**Form:** asılsız
+**Transliteration:** asılsız
+**Literal meaning:** without foundation (*asıl*, foundation/origin + *-sız*, without)
+**Typical English translations:** unfounded, baseless, groundless
+**Usage:** Applied to claims, accusations, or allegations that lack evidentiary or factual basis. Frequent in legal and journalistic contexts: *asılsız iddia* (unfounded allegation). Implies not merely that something is wrong but that it lacks any supporting ground.
+**Epistemic status:** [CORE]
+
+---
+
+**9.**
+**Form:** özgün
+**Transliteration:** özgün
+**Literal meaning:** belonging to one's own essence (*öz*, essence/self + adjectival suffix)
+**Typical English translations:** original, authentic, genuine
+**Usage:** Used in aesthetic and intellectual contexts to describe works, ideas, or expressions that are not derivative or imitative. *Özgün eser* (original work) is standard in copyright and literary discourse. Distinct from *orijinal* (which is a loanword also in use) in carrying a stronger connotation of intrinsic authenticity.
+**Epistemic status:** [CORE]
+
+---
+
+**10.**
+**Form:** orijinal
+**Transliteration:** orijinal
+**Literal meaning:** original (loanword from French *original*)
+**Typical English translations:** original, authentic (of an object or document)
+**Usage:** Used especially in commercial, legal, and everyday contexts to distinguish an authentic item from a copy or imitation: *orijinal ürün* (original/genuine product). Overlaps with *özgün* but tends toward concrete objects rather than creative originality. Widely used in colloquial speech.
+**Epistemic status:** [CORE]
+
+---
+
+**11.**
+**Form:** güvenilir
+**Transliteration:** güvenilir
+**Literal meaning:** trustworthy, reliable (*güven*, trust + passive participial suffix *-ilir*)
+**Typical English translations:** reliable, trustworthy, credible
+**Usage:** Applied to persons, sources, institutions, and information judged to be dependable and accurate. *Güvenilir kaynak* (reliable source) is a standard collocation in journalism and academic discourse. Derives from *güvenmek* (to trust) and participates in the broader *güven-* derivational family.
+**Epistemic status:** [CORE]
+
+---
+
+**12.**
+**Form:** güvenilmez
+**Transliteration:** güvenilmez
+**Literal meaning:** not trustworthy (*güven* + negative passive participial *-ilmez*)
+**Typical English translations:** unreliable, untrustworthy, not credible
+**Usage:** The direct negation of *güvenilir*, used to characterize persons, sources, or data that cannot be depended upon. Appears in evaluative contexts across legal, journalistic, and everyday registers. Morphologically transparent and productive.
+**Epistemic status:** [CORE]
+
+---
+
+**13.**
+**Form:** geçerli
+**Transliteration:** geçerli
+**Literal meaning:** valid, in force (*geçer*, passes/is accepted + adjectival suffix *-li*)
+**Typical English translations:** valid, legitimate, applicable, in effect
+**Usage:** Used in legal, logical, and administrative contexts to indicate that something meets the required conditions for acceptance or force: *geçerli sözleşme* (valid contract), *geçerli argüman* (valid argument). Contrasts with *geçersiz* (invalid). Carries both procedural and epistemic senses.
+**Epistemic status:** [CORE]
+
+---
+
+**14.**
+**Form:** geçersiz
+**Transliteration:** geçersiz
+**Literal meaning:** invalid, not in force (*geçer* + *-siz*, without)
+**Typical English translations:** invalid, void, null, not applicable
+**Usage:** The antonym of *geçerli*; used in legal, administrative, and logical contexts to declare that something fails to meet required conditions. *Geçersiz oy* (invalid ballot), *geçersiz sözleşme* (void contract) are standard collocations. Also used informally to dismiss an argument or claim.
+**Epistemic status:** [CORE]
+
+---
+
+**15.**
+**Form:** meşru
+**Transliteration:** meşru
+**Literal meaning:** lawful, legitimate (from Arabic *mašrūʿ*, legislated, permitted)
+**Typical English translations:** legitimate, lawful, rightful
+**Usage:** Used in legal, political, and moral contexts to evaluate whether an action, authority, or claim is sanctioned by law, norm, or right. *Meşru müdafaa* (legitimate self-defense) is a fixed legal expression. Distinct from *yasal* (legal) in that *meşru* can extend to moral or political legitimacy beyond strict legality.
+**Epistemic status:** [CORE]
+
+---
+
+**16.**
+**Form:** yasal
+**Transliteration:** yasal
+**Literal meaning:** pertaining to law (*yasa*, law + adjectival suffix *-l*)
+**Typical English translations:** legal, lawful, statutory
+**Usage:** Refers specifically to conformity with written law, as opposed to broader moral or political legitimacy. *Yasal düzenleme* (legal regulation), *yasal hak* (legal right) are standard collocations. Often contrasted with *meşru* in discussions where legality and legitimacy diverge.
+**Epistemic status:** [CORE]
+
+---
+
+**17.**
+**Form:** haksız
+**Transliteration:** haksız
+**Literal meaning:** without right or justice (*hak*, right/justice + *-sız*, without)
+**Typical English translations:** unjust, wrongful, unfair, unrightful
+**Usage:** Applied to actions, decisions, or persons judged to violate standards of justice or rightful entitlement. *Haksız kazanç* (unjust enrichment) is a legal term; *haksız eleştiri* (unfair criticism) is common in everyday use. Participates in the productive *hak-* family alongside *haklı* (rightful, justified).
+**Epistemic status:** [CORE]
+
+---
+
+**18.**
+**Form:** haklı
+**Transliteration:** haklı
+**Literal meaning:** having right or justice (*hak* + *-lı*, possessing)
+**Typical English translations:** right, justified, in the right, having a valid claim
+**Usage:** Used to affirm that a person's position, action, or claim is justified or correct. *Haklı çıkmak* (to be proven right) is a common collocation. Carries both epistemic (being correct) and moral (being justified) senses, making it semantically broad.
+**Epistemic status:** [CORE]
+
+---
+
+**19.**
+**Form:** adil
+**Transliteration:** adil
+**Literal meaning:** just, fair (from Arabic *ʿādil*, just)
+**Typical English translations:** fair, just, equitable
+**Usage:** Applied to persons, processes, and outcomes evaluated against standards of fairness and impartiality. *Adil yargılama* (fair trial) is a fixed legal expression. Overlaps with *hakkaniyetli* but is more widely used across registers.
+**Epistemic status:** [CORE]
+
+---
+
+**20.**
+**Form:** hakkaniyetli
+**Transliteration:** hakkaniyetli
+**Literal meaning:** possessing equity (*hakkaniyet*, equity/fairness, from Arabic *ḥaqq* + Persian/Ottoman nominal suffix, + Turkish *-li*)
+**Typical English translations:** equitable, fair, just
+**Usage:** More formal and legalistic than *adil*; used especially in judicial and administrative contexts where equitable treatment is at issue. *Hakkaniyetli karar* (equitable decision) is a standard collocation in legal writing. Less frequent in colloquial speech than *adil*.
+**Epistemic status:** [CORE]
+
+---
+
+**21.**
+**Form:** tarafsız
+**Transliteration:** tarafsız
+**Literal meaning:** without a side (*taraf*, side/party + *-sız*, without)
+**Typical English translations:** impartial, neutral, unbiased, objective
+**Usage:** Applied to persons, institutions, and judgments that are not aligned with any particular interest or party. *Tarafsız hakem* (impartial arbitrator), *tarafsız basın* (neutral press) are common collocations. Used in legal, journalistic, and everyday evaluative contexts.
+**Epistemic status:** [CORE]
+
+---
+
+**22.**
+**Form:** nesnel
+**Transliteration:** nesnel
+**Literal meaning:** pertaining to the object (*nesne*, object + adjectival suffix *-l*)
+**Typical English translations:** objective
+**Usage:** Used in philosophical, scientific, and evaluative discourse to characterize judgments or facts that are independent of personal perspective. Contrasts with *öznel* (subjective). A relatively modern coinage in Turkish, associated with academic and intellectual registers rather than everyday speech.
+**Epistemic status:** [CORE]
+
+---
+
+**23.**
+**Form:** öznel
+**Transliteration:** öznel
+**Literal meaning:** pertaining to the self/subject (*öz*, self/essence + adjectival suffix *-el*)
+**Typical English translations:** subjective
+**Usage:** The antonym of *nesnel*; used to characterize evaluations, experiences, or judgments that depend on the perspective of an individual subject. Appears in philosophical, aesthetic, and academic discourse. Like *nesnel*, it is a modern Turkish coinage and is more formal than colloquial.
+**Epistemic status:** [CORE]
+
+---
+
+**24.**
+**Form:** yanıltıcı
+**Transliteration:** yanıltıcı
+**Literal meaning:** causing to err, misleading (*yanılt-*, causative of *yanılmak*, to err + agentive *-ıcı*)
+**Typical English translations:** misleading, deceptive, fallacious
+**Usage:** Applied to statements, representations, or actions that lead others to form false beliefs, even if not outright false themselves. *Yanıltıcı reklam* (misleading advertisement) is a standard legal and regulatory collocation. Implies an effect on the receiver's epistemic state rather than simply the falsity of content.
+**Epistemic status:** [CORE]
+
+---
+
+**25.**
+**Form:** aldatıcı
+**Transliteration:** aldatıcı
+**Literal meaning:** causing to be deceived (*aldatıcı* from *aldatmak*, to deceive + agentive *-ıcı*)
+**Typical English translations:** deceptive, deceitful, fraudulent
+**Usage:** Stronger than *yanıltıcı* in implying intentional deception; applied to persons, acts, and representations. *Aldatıcı davranış* (deceptive conduct) appears in legal and moral discourse. Overlaps with *yanıltıcı* but carries a clearer implication of intent to deceive.
+**Epistemic status:** [CORE]
+
+---
+
+**26.**
+**Form:** özgürlük
+**Transliteration:** —
+*(excluded — does not meet inclusion criteria for this domain)*
+
+---
+
+**26.**
+**Form:** asıl
+**Transliteration:** asıl
+**Literal meaning:** root, origin, foundation (from Arabic *aṣl*, root, origin)
+**Typical English translations:** original, genuine, fundamental, essential; also: the real/true one
+**Usage:** Used to identify the genuine, foundational, or original instance of something as opposed to a copy, derivative, or surface appearance. *Asıl mesele* (the real issue), *asıl nüsha* (the original copy/document). Also functions as an adverb meaning "actually" or "in fact," reinforcing claims about what something truly is.
+**Epistemic status:** [CORE]
+
+---
+
+**27.**
+**Form:** sahici
+**Transliteration:** sahici
+**Literal meaning:** genuine, real (from *sahih*, via Arabic *ṣaḥīḥ*, sound/correct, + Turkish adjectival suffix)
+**Typical English translations:** genuine, authentic, real
+**Usage:** Used in everyday and literary contexts to affirm that something is truly what it appears to be, without pretense or artificiality. *Sahici duygu* (genuine feeling), *sahici bir insan* (a genuine person). Somewhat more colloquial and affective in tone than *gerçek* or *özgün*.
+**Epistemic status:** [CORE]
+
+---
+
+**28.**
+**Form:** sahih
+**Transliteration:** sahih
+**Literal meaning:** sound, correct, authentic (from Arabic *ṣaḥīḥ*)
+**Typical English translations:** authentic, valid, sound, correct
+**Usage:** Primarily used in religious (Islamic), historical, and legal contexts to evaluate the authenticity or soundness of texts, traditions, or documents. *Sahih hadis* (authentic hadith) is a fixed expression in Islamic scholarship. Less common in secular everyday speech, where *gerçek* or *özgün* are preferred.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**29.**
+**Form:** muteber
+**Transliteration:** muteber
+**Literal meaning:** held in esteem, valid, credible (from Arabic *muʿtabar*, considered, respected)
+**Typical English translations:** credible, valid, reputable, authoritative
+**Usage:** Used in formal, legal, and historical registers to characterize sources, persons, or documents as worthy of credence or official recognition. *Muteber kaynak* (credible/authoritative source). Largely displaced in modern colloquial Turkish by *güvenilir* and *geçerli*, but retained in formal and archaic registers.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**30.**
+**Form:** hakikat
+**Transliteration:** hakikat
+**Literal meaning:** truth, reality, the true nature of something (from Arabic *ḥaqīqa*, true nature, reality)
+**Typical English translations:** truth, reality, the true nature (of something)
+**Usage:** Used in philosophical, religious, and literary contexts to refer to deep or ultimate truth, often with a stronger ontological weight than *doğru* or *gerçek*. *Hakikati aramak* (to seek the truth) is a common expression in philosophical and religious discourse. More formal and elevated in register than *gerçek*.
+**Epistemic status:** [CORE]

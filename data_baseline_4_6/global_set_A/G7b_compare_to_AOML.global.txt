@@ -1,0 +1,253 @@
+# G7b — Empirical vs. AOML Constraint Comparison
+
+---
+
+## Preliminary Notes
+
+The empirical matrix (G7a) was derived from F-phase data across 8 languages using 16 semantic dimensions (A–P) and 25 constructional functions (CF1–CF25). The AOML matrix is a theoretical architecture with 7 primary axes (VER, AUTH, SINC, NORM, ESS, VERIF, LIFE), 2 meta-axes (DEG, TEMP), 7 core operators (ATTR, CAUSE, BECOME, RESULT, ABSTR, STRAT, CONTR), 1 provisional operator (REVEAL), 4 levels, and 6 structural rules (R1–R6).
+
+Alignment is assessed by mapping empirical dimensions to AOML axes and empirical constructional functions to AOML operators, then comparing empirical ALLOWED/VARIABLE/BLOCKED ratings against AOML licensed/restricted/blocked predictions. Where no mapping is possible, this is noted explicitly.
+
+---
+
+## Dimension-to-Axis Mapping
+
+Before the comparison table, the mapping between empirical dimensions and AOML axes must be established. This mapping is not always one-to-one.
+
+| Empirical Dimension | Best AOML Axis Mapping | Mapping Quality | Notes |
+|---|---|---|---|
+| A: Propositional Correspondence | VER | Strong | Direct match: both concern statement-to-world correspondence |
+| B: Moral Honesty / Integrity of Character | SINC | Strong | Both concern dispositional truthfulness of agents |
+| C: Ontological Reality / Actuality | AUTH (actualization subregion) + VER | Partial | AOML places actualization within AUTH; empirical data treats it as partially distinct from material authenticity |
+| D: Material Authenticity / Genuineness of Objects | AUTH | Strong | Direct match: both concern origin integrity of objects |
+| E: Factual Correctness / Error | VER | Partial | Overlaps with VER but focuses on conformity to standards rather than correspondence to facts; AOML does not distinguish these |
+| F: Reliability / Trustworthiness of Sources | SINC (faithfulness subregion) | Partial | AOML places reliability within SINC; empirical data treats it as partially distinct from personal honesty |
+| G: Verification / Authentication Processes | VERIF | Strong | Direct match: both concern evidential establishment processes |
+| H: Revelation / Concealment of Truth | REVEAL (provisional) | Partial | AOML's provisional REVEAL operator covers revelation; concealment is not explicitly modeled |
+| I: Epistemic Certainty / Doubt | DEG[VER] or DEG[VERIF] | Partial | AOML treats certainty as a meta-axis modulation; empirical data treats it as a dimension with its own vocabulary |
+| J: Moral Righteousness / Justice | NORM | Strong | Both concern moral and legal rightness |
+| K: Legal / Formal Validity | NORM (legitimacy subregion) | Partial | AOML places legitimacy within NORM; empirical data treats legal validity as partially distinct from moral rightness |
+| L: Precision / Exactness | DEG[VER] | Partial | AOML treats precision as degree modulation of VER; empirical data treats it as a distinct dimension with dedicated vocabulary |
+| M: Sincerity / Authenticity of Expression | SINC | Partial | Overlaps with SINC but focuses on emotional authenticity rather than habitual truthfulness; AOML does not distinguish these |
+| N: Plausibility / Surface Appearance of Truth | LIFE | Partial | AOML's LIFE axis covers representational resemblance to reality; empirical plausibility is related but not identical |
+| O: Actual vs. Nominal / Formal Status | AUTH (actualization) + NORM | Partial | Spans AOML axes; no single AOML axis captures this distinction cleanly |
+| P: Consistency / Coherence | ESS (essential structure subregion) | Weak | AOML places consistency within ESS; empirical data treats it as a distinct dimension; mapping is uncertain |
+
+---
+
+## Comparison Table
+
+| Empirical Dimension | Construction | Empirical Result | AOML Prediction | Alignment Type | Notes |
+|---|---|---|---|---|---|
+| **A: Propositional Correspondence** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × VER: licensed | MATCH | Perfect alignment. Both systems predict universal availability of truth attribution. |
+| **A: Propositional Correspondence** | CF2: Predicative negation | ALLOWED (all 8 languages) | CONTR × VER: licensed | MATCH | Negation of truth attribution is universally licensed in both systems. |
+| **A: Propositional Correspondence** | CF3: Adnominal modification | ALLOWED (all 8 languages) | ATTR × VER (adnominal form): licensed | MATCH | Adnominal modification is a surface realization of ATTR; universally licensed. |
+| **A: Propositional Correspondence** | CF4: Inchoative / become | VARIABLE (substitution by revelation constructions; Turkish/Finnish partial exceptions) | BECOME × VER: restricted | PARTIAL | AOML predicts restricted; empirical data shows consistent substitution by revelation constructions. AOML does not predict the specific substitution pattern. |
+| **A: Propositional Correspondence** | CF5: Causative (making X true) | BLOCKED (all 8 languages; universal gap) | CAUSE × VER: restricted (not blocked) | CONFLICT | This is the most significant conflict. AOML predicts CAUSE × VER is restricted (not blocked), but empirical data shows universal blocking for the specific meaning "cause a proposition to acquire truth value." AOML's restriction applies to factual targets generally; the empirical block is specific to propositional truth-value causation. |
+| **A: Propositional Correspondence** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × VER: licensed | MATCH | Perfect alignment. Both systems predict universal availability of truth nominalization. |
+| **A: Propositional Correspondence** | CF7: Agentive nominalization (liar) | ALLOWED (all 8 languages) | CONTR × VER (agentive form): licensed | PARTIAL | AOML licenses CONTR × VER but does not specifically predict agentive nominalization as a constructional function. The alignment is indirect. |
+| **A: Propositional Correspondence** | CF7b: Agentive nominalization (truth-teller) | VARIABLE (consistently weaker than liar agentive; asymmetric across all 8 languages) | No specific AOML prediction for agentive asymmetry | NO ALIGNMENT | AOML does not predict or model the liar/truth-teller agentive asymmetry. This is an unmodeled empirical finding. |
+| **A: Propositional Correspondence** | CF8: Action nominalization | ALLOWED (all 8 languages) | ABSTR × VER (process form): licensed | MATCH | Action nominalization is a form of ABSTR; universally licensed. |
+| **A: Propositional Correspondence** | CF9: Light verb speech acts (tell truth/lie) | ALLOWED (all 8 languages) | ATTR × VER (speech act form): licensed | PARTIAL | AOML licenses ATTR × VER but does not specifically model light verb constructions as a distinct constructional type. The alignment is indirect. |
+| **A: Propositional Correspondence** | CF12a: Revelation constructions | ALLOWED (all 8 languages) | REVEAL × VER: provisionally licensed | MATCH | Strong alignment. AOML's provisional REVEAL operator is specifically licensed for VER, and empirical data shows universal availability. |
+| **A: Propositional Correspondence** | CF12b: Concealment constructions | ALLOWED (all 8 languages) | No explicit AOML prediction for concealment | PARTIAL | AOML models REVEAL but not its opposite (concealment). Empirical data shows concealment is universally productive. AOML would need to model the REVEAL/conceal opposition explicitly. |
+| **A: Propositional Correspondence** | CF13: Adverbial manner modification | ALLOWED (all 8 languages) | ATTR × VER (manner form): licensed | MATCH | Manner adverbials are a surface realization of ATTR; universally licensed. |
+| **A: Propositional Correspondence** | CF18: Discourse marker function | ALLOWED (all 8 languages; asymmetric: truth roots only) | No specific AOML prediction for grammaticalization | NO ALIGNMENT | AOML does not model grammaticalization of truth roots into discourse markers. This is an unmodeled empirical finding. The asymmetry (truth roots grammaticalize, falsehood roots do not) is also unmodeled. |
+| **A: Propositional Correspondence** | CF19: Comparative/scalar constructions | VARIABLE (restricted but not entirely absent) | DEG[VER]: meta-axis, cannot substitute for VER | DIRECTIONAL | AOML predicts DEG[VER] cannot substitute for VER (Rule R5); empirical data shows restriction on gradable comparison of truth terms. The direction matches but AOML's prediction is about inference substitution, not about the naturalness of degree modification itself. |
+| **A: Propositional Correspondence** | CF21: Disjunctive binary choice | ALLOWED (all 8 languages) | CONTR × VER: licensed | MATCH | Binary truth/falsehood opposition is universally licensed in both systems. |
+| **A: Propositional Correspondence** | CF24: Degree modification | VARIABLE (restricted on core truth terms; more available for precision/certainty terms) | DEG[VER]: meta-axis, restricted as substitution | DIRECTIONAL | AOML's DEG meta-axis predicts degree modification is available but cannot substitute for the primary axis in inference. Empirical data shows degree modification is restricted even as a surface construction, not just as an inference substitution. AOML predicts less restriction than empirical data shows. |
+| **B: Moral Honesty / Integrity** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × SINC: licensed | MATCH | Universal availability of honesty attribution. |
+| **B: Moral Honesty / Integrity** | CF5: Causative | VARIABLE (some languages show "encourage honesty" constructions; direct causation of character is restricted) | CAUSE × SINC: universally_blocked (R1) | CONFLICT | AOML predicts universal blocking of CAUSE × SINC (R1, strongest empirical finding in AOML). Empirical data rates CF5 × B as VARIABLE, not BLOCKED. The empirical data shows that indirect causation ("encourage honesty," "teach honesty") is attested in several languages, while direct causation ("make someone honest") is restricted. AOML's R1 blocks direct causation but the empirical rating does not distinguish direct from indirect causation. This is a measurement granularity issue rather than a true conflict, but the ratings do not align. |
+| **B: Moral Honesty / Integrity** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × SINC: licensed | MATCH | Universal availability of honesty nominalization. |
+| **B: Moral Honesty / Integrity** | CF7: Agentive nominalization (liar) | ALLOWED (all 8 languages) | CONTR × SINC (agentive): licensed | PARTIAL | Indirect alignment; AOML licenses CONTR × SINC but does not specifically predict agentive nominalization. |
+| **B: Moral Honesty / Integrity** | CF13: Adverbial manner modification | ALLOWED (all 8 languages) | ATTR × SINC (manner form): licensed | MATCH | Manner adverbials from honesty terms are universally licensed. |
+| **D: Material Authenticity** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × AUTH: licensed | MATCH | Universal availability of authenticity attribution. |
+| **D: Material Authenticity** | CF5: Causative (positive: manufacturing authenticity) | VARIABLE (restricted; no language shows "manufacture authentic goods" as natural) | CAUSE(+) × AUTH: blocked (R3) | PARTIAL | AOML predicts CAUSE(+) × AUTH is blocked (R3). Empirical data rates CF5 × D as VARIABLE rather than BLOCKED. The empirical data does not clearly distinguish positive from negative causation in the CF5 rating. If the rating were split by polarity, CAUSE(+) × AUTH would likely be BLOCKED (matching R3) and CAUSE(−) × AUTH (forgery, falsification) would be VARIABLE or ALLOWED. The aggregate VARIABLE rating obscures the polarity asymmetry that AOML specifically predicts. |
+| **D: Material Authenticity** | CF5: Causative (negative: forgery, falsification) | VARIABLE (forgery vocabulary attested in all 8 languages) | CAUSE(−) × AUTH: licensed (R3) | MATCH | AOML predicts CAUSE(−) × AUTH is licensed (forgery, destruction of authenticity). Empirical data shows forgery vocabulary is productive in all 8 languages. |
+| **D: Material Authenticity** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × AUTH: licensed | MATCH | Universal availability of authenticity nominalization. |
+| **D: Material Authenticity** | CF24: Degree modification | BLOCKED (no language shows gradable comparison of authenticity) | DEG[AUTH]: meta-axis, restricted as substitution | CONFLICT | AOML predicts DEG[AUTH] is available as a meta-axis modulation (though it cannot substitute for AUTH in inference). Empirical data shows degree modification of authenticity terms is BLOCKED across all 8 languages — authenticity is treated as binary. AOML does not predict this binary treatment. |
+| **E: Factual Correctness / Error** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × VER: licensed | MATCH | Correctness attribution is universally licensed. Note: AOML maps E to VER, collapsing the empirical distinction between propositional correspondence (A) and conformity to standards (E). |
+| **E: Factual Correctness / Error** | CF5: Causative (correction) | VARIABLE (correction vocabulary attested in all 8 languages) | CAUSE × VER: restricted | PARTIAL | AOML predicts CAUSE × VER is restricted. Empirical data shows correction constructions are productive in all 8 languages. The alignment is directional: both predict availability with conditions, but AOML does not specifically model the correction/falsification distinction. |
+| **E: Factual Correctness / Error** | CF9: Light verb speech acts | ALLOWED (all 8 languages) | ATTR × VER (speech act): licensed | PARTIAL | Indirect alignment; AOML licenses ATTR × VER but does not specifically model light verb constructions. |
+| **G: Verification / Authentication** | CF5: Causative (verification) | VARIABLE (verification causatives attested in several languages) | CAUSE × VERIF: restricted | PARTIAL | AOML predicts CAUSE × VERIF is restricted. Empirical data shows verification causatives are productive in several languages (Georgian daadast'ura, Finnish todentaa, Indonesian membenarkan). The alignment is directional. |
+| **G: Verification / Authentication** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × VERIF: licensed | MATCH | Universal availability of verification nominalization. |
+| **G: Verification / Authentication** | CF11: Light verb verification | ALLOWED (all 8 languages) | RESULT × VERIF: licensed | PARTIAL | AOML's RESULT operator covers achieved verification states. Light verb verification constructions are a surface realization of RESULT × VERIF. Indirect alignment. |
+| **H: Revelation / Concealment** | CF12a: Revelation constructions | ALLOWED (all 8 languages) | REVEAL × VER: provisionally licensed | MATCH | Strong alignment. AOML's provisional REVEAL operator is specifically licensed for VER, and empirical data shows universal availability of revelation constructions. |
+| **H: Revelation / Concealment** | CF4: Inchoative (truth coming to light) | VARIABLE (revelation constructions preferred over inchoative) | BECOME × VER: restricted; REVEAL × VER: provisionally licensed | DIRECTIONAL | Both systems predict that simple inchoative is not the primary realization; AOML's REVEAL operator better captures the empirical preference for revelation constructions over inchoative constructions. |
+| **I: Epistemic Certainty / Doubt** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × DEG[VER]: licensed (meta-axis) | PARTIAL | AOML treats certainty as DEG[VER]; empirical data treats it as a dimension with its own vocabulary. The alignment is indirect. |
+| **I: Epistemic Certainty / Doubt** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × DEG[VER]: licensed (inherits from VER) | PARTIAL | Abstract nominals for certainty/doubt are attested in all 8 languages. AOML predicts meta-axes inherit operator licensing from host axis. Indirect alignment. |
+| **J: Moral Righteousness / Justice** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × NORM: licensed | MATCH | Universal availability of justice/righteousness attribution. |
+| **J: Moral Righteousness / Justice** | CF6: Abstract nominalization | ALLOWED (all 8 languages) | ABSTR × NORM: licensed | MATCH | Universal availability of justice nominalization. |
+| **J: Moral Righteousness / Justice** | CF5: Causative | INSUFFICIENT DATA | CAUSE × NORM: restricted | NO ALIGNMENT | Insufficient empirical data to assess; AOML predicts restricted causation for NORM. |
+| **K: Legal / Formal Validity** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × NORM (legitimacy subregion): licensed | MATCH | Legal validity attribution is universally licensed. Note: AOML maps K to NORM, collapsing the empirical distinction between moral rightness (J) and legal validity (K). |
+| **K: Legal / Formal Validity** | CF5: Causative (validation/invalidation) | VARIABLE (validation causatives attested in several languages) | CAUSE × NORM: restricted | PARTIAL | AOML predicts CAUSE × NORM is restricted. Empirical data shows validation causatives (Georgian mengesahkan, Finnish mengesahkan, Indonesian mengesahkan) are productive. Directional alignment. |
+| **L: Precision / Exactness** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × DEG[VER]: licensed (meta-axis) | PARTIAL | AOML treats precision as DEG[VER]; empirical data treats it as a distinct dimension with dedicated vocabulary. The alignment is indirect and involves a category collapse. |
+| **L: Precision / Exactness** | CF24: Degree modification | ALLOWED (more available for precision terms than core truth terms) | DEG[DEG[VER]]: meta-axis of meta-axis | PARTIAL | Precision terms show more gradability than core truth terms. AOML would treat this as DEG modulating DEG[VER], which is architecturally awkward. The empirical finding that precision terms are more gradable than truth terms is not clearly predicted by AOML. |
+| **M: Sincerity / Authenticity of Expression** | CF1: Predicative attribution | ALLOWED (all 8 languages) | ATTR × SINC: licensed | MATCH | Universal availability of sincerity attribution. Note: AOML maps M to SINC, collapsing the empirical distinction between habitual honesty (B) and emotional sincerity (M). |
+| **M: Sincerity / Authenticity of Expression** | CF5: Causative | INSUFFICIENT DATA | CAUSE × SINC: universally_blocked (R1) | NO ALIGNMENT | Insufficient empirical data for CF5 × M specifically. AOML predicts universal blocking. |
+| **N: Plausibility / Surface Appearance** | CF1: Predicative attribution | VARIABLE (present in all 8 languages but variably lexicalized) | ATTR × LIFE: licensed | PARTIAL | AOML maps N to LIFE (representational fidelity). The mapping is imperfect: empirical plausibility concerns whether something appears true, while AOML's LIFE concerns how closely a constructed thing resembles reality. The overlap is real but incomplete. |
+| **N: Plausibility / Surface Appearance** | CF6: Abstract nominalization | VARIABLE (dedicated abstract nominals in Finnish, Basque; absent in others) | ABSTR × LIFE: blocked (AOML explicitly blocks ABSTR × LIFE) | CONFLICT | AOML explicitly blocks ABSTR × LIFE (nominalization of lifelikeness is universally blocked). Empirical data shows that abstract nominals for plausibility/believability are attested in Finnish (uskottavuus "believability") and Basque (sinesgarritasuna). If N maps to LIFE, this is a conflict. However, the mapping of N to LIFE may itself be imperfect — plausibility may not be the same as LIFE. |
+| **O: Actual vs. Nominal / Formal Status** | CF1: Predicative attribution | ALLOWED (all 8 languages) | No single AOML axis maps cleanly | NO ALIGNMENT | Dimension O spans AOML axes (AUTH actualization + NORM legitimacy). No single AOML axis captures the actual/nominal distinction. This is an unmodeled empirical finding. |
+| **O: Actual vs. Nominal / Formal Status** | CF18: Discourse marker function | ALLOWED (all 8 languages) | No specific AOML prediction | NO ALIGNMENT | AOML does not model grammaticalization of actual/nominal distinctions into discourse markers. |
+| **P: Consistency / Coherence** | CF1: Predicative attribution | VARIABLE (clearly lexicalized in Turkish and Finnish; weakly attested in others) | ATTR × ESS (essential structure subregion): licensed | PARTIAL | AOML maps P to ESS (essential structure). The mapping is weak: empirical consistency/coherence concerns logical non-contradiction, while AOML's ESS concerns inherent nature. The overlap is partial. |
+| **P: Consistency / Coherence** | CF5: Causative | INSUFFICIENT DATA | CAUSE × ESS: blocked (R2) | NO ALIGNMENT | Insufficient empirical data. AOML predicts CAUSE × ESS is blocked. |
+| **P: Consistency / Coherence** | CF4: Inchoative | INSUFFICIENT DATA | BECOME × ESS: blocked (R2) | NO ALIGNMENT | Insufficient empirical data. AOML predicts BECOME × ESS is blocked. |
+| **Cross-dimensional** | CF7b: Positive agentive asymmetry (truth-teller less lexicalized than liar) | VARIABLE with consistent asymmetric pattern (all 8 languages) | No AOML prediction | NO ALIGNMENT | AOML does not model the liar/truth-teller agentive asymmetry. This is the most consistent unmodeled empirical finding. |
+| **Cross-dimensional** | CF18: Discourse marker grammaticalization (truth roots only, not falsehood roots) | ALLOWED with systematic asymmetry (all 8 languages) | No AOML prediction | NO ALIGNMENT | AOML does not model grammaticalization paths or the asymmetry between truth and falsehood roots in discourse marker formation. |
+| **Cross-dimensional** | Saturation/totality asymmetry ("full of lies" attested; "full of truth" absent) | VARIABLE with consistent asymmetric pattern (multiple languages) | No AOML prediction | NO ALIGNMENT | AOML does not model saturation expressions or the positive/negative asymmetry in totality marking. |
+| **Cross-dimensional** | Privative asymmetry ("without lies" attested; "without truth" absent) | VARIABLE with consistent asymmetric pattern (multiple languages) | No AOML prediction | NO ALIGNMENT | AOML does not model privative constructions or the positive/negative asymmetry in absence marking. |
+| **Cross-dimensional** | CF4 substitution: revelation constructions replace inchoative on core truth terms | VARIABLE with consistent substitution pattern (all 8 languages) | REVEAL provisionally licensed; BECOME restricted | DIRECTIONAL | AOML's provisional REVEAL operator and restricted BECOME on VER together predict that revelation is preferred over inchoative. The substitution pattern is directionally consistent with AOML but AOML does not explicitly predict the substitution. |
+| **A: Propositional Correspondence** | CF5: Causative (verification/confirmation, not truth-value causation) | VARIABLE (verification causatives attested in several languages) | CAUSE × VERIF: restricted | PARTIAL | When CF5 is interpreted as verification causation (establishing that X is true) rather than truth-value causation (making X true), the empirical VARIABLE rating aligns better with AOML's restricted prediction for CAUSE × VERIF. The empirical data conflates these two meanings in the CF5 rating. |
+| **B: Moral Honesty** vs. **M: Sincerity** | CF1: Predicative attribution | Both ALLOWED | ATTR × SINC: licensed (single AOML axis) | PARTIAL | AOML maps both B and M to SINC, collapsing the empirical distinction. Empirical data treats habitual honesty (B) and emotional sincerity (M) as distinct dimensions with different vocabulary and different constructional profiles. AOML's single SINC axis does not capture this distinction. |
+| **J: Moral Righteousness** vs. **K: Legal Validity** | CF1: Predicative attribution | Both ALLOWED | ATTR × NORM: licensed (single AOML axis) | PARTIAL | AOML maps both J and K to NORM, collapsing the empirical distinction. Empirical data treats moral righteousness (J) and legal validity (K) as distinct dimensions with different vocabulary and different constructional profiles. AOML's single NORM axis does not capture this distinction. |
+| **A: Propositional Correspondence** vs. **E: Factual Correctness** | CF1: Predicative attribution | Both ALLOWED | ATTR × VER: licensed (single AOML axis) | PARTIAL | AOML maps both A and E to VER, collapsing the empirical distinction. Empirical data treats propositional correspondence (A) and conformity to standards (E) as distinct dimensions, most clearly in Tamil (uṇmai/poy vs. cari/tappu). AOML's single VER axis does not capture this distinction. |
+
+---
+
+## Summary
+
+### Confirmed Patterns
+
+**1. Universal licensing of ATTR across all primary axes.** The empirical finding that CF1 (predicative attribution) is ALLOWED for all dimensions with sufficient data aligns perfectly with AOML's prediction that ATTR is universally licensed across all primary axes. This is the most robustly confirmed prediction in the comparison.
+
+**2. Universal licensing of ABSTR for core dimensions.** The empirical finding that CF6 (abstract nominalization) is ALLOWED for dimensions A through M aligns with AOML's prediction that ABSTR is licensed for VER, AUTH, SINC, NORM, VERIF. The one AOML exception (ABSTR × LIFE is blocked) is not clearly testable in the empirical data because the mapping of Dimension N to LIFE is imperfect.
+
+**3. Universal licensing of CONTR (binary opposition).** The empirical finding that CF21 (disjunctive binary choice) is ALLOWED for dimensions A and E aligns with AOML's prediction that CONTR is universally licensed across all primary axes.
+
+**4. CAUSE(−) × AUTH is licensed (forgery, falsification).** The empirical finding that forgery and falsification vocabulary is productive in all 8 languages aligns with AOML's Rule R3 prediction that CAUSE(−) × AUTH is licensed. This is a specific and non-trivial prediction that the empirical data supports.
+
+**5. REVEAL × VER is licensed.** The empirical finding that CF12a (revelation constructions) is ALLOWED for all 8 languages aligns with AOML's provisional REVEAL operator being licensed for VER. The empirical data provides strong support for REVEAL as a structurally distinct operator, consistent with AOML's provisional status for it.
+
+**6. BECOME × VER is restricted (not the primary realization).** The empirical finding that CF4 is VARIABLE for Dimension A, with consistent substitution by revelation constructions, aligns directionally with AOML's prediction that BECOME × VER is restricted. The empirical data goes further by showing the specific substitution pattern (revelation replaces inchoative), which AOML does not explicitly predict but is consistent with.
+
+**7. DEG[A] cannot substitute for A in inference (Rule R5).** The empirical finding that core truth terms resist gradable comparison (CF19 VARIABLE, CF24 VARIABLE for Dimension A) aligns directionally with AOML's Rule R5 prediction that DEG[A] cannot substitute for A. The empirical restriction is somewhat stronger than AOML predicts (see Conflicts), but the direction is consistent.
+
+**8. Action nominalization (CF8) is universally licensed.** The empirical finding that CF8 is ALLOWED for all core dimensions aligns with AOML's prediction that ABSTR (in its process form) is licensed across primary axes.
+
+---
+
+### Partial or Conditional Matches
+
+**1. CF5 (Causative) × Dimension B (Moral Honesty) — AOML predicts universal block (R1); empirical rates VARIABLE.** The empirical VARIABLE rating for CF5 × B reflects that indirect causation constructions ("encourage honesty," "teach honesty") are attested in several languages, while direct causation ("make someone honest") is restricted. AOML's R1 blocks direct causation of dispositional targets but does not address indirect causation. The conflict is partly a measurement granularity issue: if the empirical rating distinguished direct from indirect causation, the direct causation rating would likely be BLOCKED, matching R1. The partial match reflects that AOML's prediction is correct for direct causation but the empirical data does not cleanly separate the two.
+
+**2. CF5 (Causative) × Dimension D (Material Authenticity) — AOML predicts polarity asymmetry (R3); empirical rates VARIABLE without polarity distinction.** AOML's R3 predicts CAUSE(+) × AUTH is blocked and CAUSE(−) × AUTH is licensed. The empirical CF5 × D rating is VARIABLE, which aggregates both polarities. If split by polarity, the empirical data would likely show BLOCKED for positive causation (no language shows "manufacture authentic goods" as natural) and VARIABLE/ALLOWED for negative causation (forgery vocabulary is productive in all 8 languages). The partial match reflects that AOML's polarity-specific prediction is supported by the underlying data but not captured by the aggregate empirical rating.
+
+**3. CF4 (Inchoative) × Dimension A — AOML predicts restricted; empirical shows consistent substitution by revelation constructions.** Both systems predict that simple inchoative is not the primary realization for propositional truth. AOML's REVEAL operator and restricted BECOME together predict the preference for revelation constructions. The empirical data confirms this preference but also shows that Turkish and Finnish have productive morphological inchoatives on truth roots (gerçekleşmek, toteutua), which AOML does not specifically predict. The partial match reflects directional agreement with language-specific exceptions.
+
+**4. CF11 (Light verb verification) × Dimension G — AOML's RESULT × VERIF is licensed; empirical shows ALLOWED.** Light verb verification constructions are a surface realization of RESULT × VERIF. The alignment is real but indirect: AOML does not specifically model light verb constructions as a constructional type, so the mapping requires an interpretive step.
+
+**5. Dimension I (Epistemic Certainty/Doubt) — AOML treats as DEG[VER]; empirical treats as a distinct dimension.** The empirical data shows that certainty/doubt has dedicated vocabulary in all 8 languages (Basque ziurra/zalantza, Turkish kesin/şüpheli, Korean hwaksilhada/uisimhada), suggesting it functions as a distinct semantic dimension rather than a meta-axis modulation. AOML's treatment of certainty as DEG[VER] is partially supported (certainty does concern the degree of confidence in a VER claim) but does not capture the lexical elaboration that the empirical data shows.
+
+**6. Dimension N (Plausibility) — AOML maps to LIFE; empirical mapping is imperfect.** AOML's LIFE axis covers representational fidelity and resemblance to reality. Empirical plausibility concerns whether something appears true or believable. The overlap is real (both involve surface resemblance to truth) but the empirical dimension is broader: plausibility applies to statements and claims, while AOML's LIFE specifically concerns constructed representations. The partial match reflects genuine overlap with important differences.
+
+---
+
+### Conflicts
+
+**1. CF5 (Causative) × Dimension A (Propositional Correspondence) — AOML predicts restricted; empirical shows BLOCKED.** This is the most significant conflict. AOML predicts CAUSE × VER is restricted (not blocked), meaning causation of propositional truth is available under conditions. The empirical data shows universal blocking across all 8 languages for the specific meaning "cause a proposition to acquire truth value." The F6 naturalness data explicitly marks this as unnatural or absent in Georgian, Basque, Finnish, Tamil, and Indonesian, and the pattern is consistent across the remaining languages. AOML's restriction applies to factual targets generally and does not predict this specific universal block. The conflict may reflect that AOML's CAUSE × VER restriction is too permissive: the empirical data suggests that propositional truth-value causation is not merely restricted but categorically unavailable.
+
+**2. CF24 (Degree modification) × Dimension D (Material Authenticity) — AOML predicts available (meta-axis); empirical shows BLOCKED.** AOML treats DEG as a meta-axis that modulates primary axes, implying degree modification of authenticity claims is available (though it cannot substitute for AUTH in inference). The empirical data shows that degree modification of authenticity terms is BLOCKED across all 8 languages — authenticity is treated as binary in all languages. No language shows "more genuine" or "somewhat fake" as natural constructions for material authenticity. AOML does not predict this binary treatment. The conflict suggests that AOML's DEG meta-axis may need a blocking condition for AUTH: DEG[AUTH] is blocked, not merely restricted.
+
+**3. CF6 (Abstract nominalization) × Dimension N (Plausibility) — AOML predicts blocked (ABSTR × LIFE); empirical shows VARIABLE with some languages having dedicated abstract nominals.** If Dimension N maps to LIFE, then AOML's explicit blocking of ABSTR × LIFE conflicts with the empirical finding that Finnish uskottavuus "believability" and Basque sinesgarritasuna are attested abstract nominals for plausibility. However, this conflict may be partly resolved by questioning the N → LIFE mapping: if plausibility is not the same as LIFE, the conflict disappears. The conflict is conditional on the mapping.
+
+---
+
+### Unmodeled Empirical Findings
+
+The following empirical findings have no clear mapping to AOML structures:
+
+**1. The liar/truth-teller agentive asymmetry (CF7b).** All 8 languages show that agentive forms for habitual liars are more lexicalized, more productive, or use more dedicated morphology than corresponding forms for habitual truth-tellers. AOML does not model agentive nominalization as a constructional type, nor does it predict this asymmetry. This is the most consistent unmodeled finding in the data.
+
+**2. Discourse marker grammaticalization from truth roots (CF18).** All 8 languages show truth roots grammaticalizing into discourse markers introducing corrections or frank statements. No language shows falsehood roots following this path. AOML does not model grammaticalization processes or the asymmetry between truth and falsehood roots in discourse marker formation.
+
+**3. Saturation/totality asymmetry.** Multiple languages show productive expressions for "full of lies" (Korean geojittuseongi, Turkish yalan dolan, Basque gezur-gezurra) but no language shows a corresponding expression for "full of truth." AOML does not model saturation expressions or the positive/negative asymmetry in totality marking.
+
+**4. Privative asymmetry ("without lies" vs. "without truth").** Multiple languages show productive constructions for "without lies/falsehood" (Georgian uṭq'uari, Korean geojiseobsi, Finnish vilpitön) but no language shows a corresponding construction for "without truth." AOML does not model privative constructions or this asymmetry.
+
+**5. Dimension O (Actual vs. Nominal / Formal Status).** The empirical distinction between what is actually the case in practice versus what is nominally or formally designated has no clean mapping to any single AOML axis. Korean's sil- compound family and Indonesian's sebenarnya/de facto vocabulary represent a semantic territory that spans AOML's AUTH (actualization) and NORM (legitimacy) without being reducible to either.
+
+**6. The specific substitution pattern: revelation constructions replace inchoative on core truth terms.** While AOML's REVEAL operator and restricted BECOME together predict a preference for revelation over inchoative, the specific cross-linguistic substitution pattern — where revelation constructions are the primary realization and inchoative constructions are consistently dispreferred for propositional truth — is not explicitly predicted by AOML. AOML predicts restriction; the empirical data shows a systematic substitution.
+
+**7. The empirical distinction between Dimensions A (Propositional Correspondence) and E (Factual Correctness).** Tamil most clearly shows this distinction (uṇmai/poy vs. cari/tappu), but it is present in other languages as well. AOML maps both to VER, collapsing a distinction that the empirical data treats as real. The distinction concerns whether truth is evaluated by correspondence to facts (A) or by conformity to standards/norms (E).
+
+**8. The empirical distinction between Dimensions B (Moral Honesty) and M (Sincerity of Expression).** AOML maps both to SINC, but empirical data treats habitual truthfulness as a character trait (B) and emotional authenticity as a distinct category (M). The distinction is most clearly visible in Finnish (rehellinen "honest" vs. vilpitön "sincere") and Korean (jeongjik "honest" vs. jinsim "sincere heart").
+
+**9. The empirical distinction between Dimensions J (Moral Righteousness) and K (Legal Validity).** AOML maps both to NORM, but empirical data treats moral righteousness and legal validity as distinct dimensions with different vocabulary and constructional profiles. Georgian's samart'- family and Yoruba's òdodo family show that moral righteousness is more elaborated than legal validity in some languages, while the reverse is true in others.
+
+**10. Dimension P (Consistency / Coherence) as a distinct dimension.** AOML places consistency within ESS (essential structure subregion). The empirical data treats consistency/coherence as a distinct dimension with dedicated vocabulary in Turkish (tutarlı/tutarsız) and Finnish (johdonmukainen). The mapping to ESS is weak: logical consistency concerns non-contradiction, not inherent nature.
+
+---
+
+### Unattested AOML Structures
+
+The following AOML structures are not clearly supported by the empirical data:
+
+**1. LIFE axis as a primary axis.** AOML's LIFE axis (representational fidelity, verisimilitude) is not clearly attested as a primary semantic dimension in the empirical data. Dimension N (Plausibility) is the closest empirical candidate, but the mapping is imperfect. No language in the dataset shows a clearly distinct lexical domain for "representational fidelity" or "verisimilitude" as a primary truth-evaluation category. The LIFE axis may be more relevant to aesthetic and narrative contexts than to the core truth-evaluation domain covered by the empirical data.
+
+**2. ESS axis as a primary axis in the truth domain.** AOML's ESS axis (inherent nature, essential properties) is not clearly attested as a primary semantic dimension in the empirical data. Dimension P (Consistency/Coherence) is the closest empirical candidate, but the mapping is weak. The empirical data shows that essence-related vocabulary (Georgian namdvili "real/genuine," Tamil iyal "nature," Korean bonjil "essence") exists but is not elaborated as a distinct primary axis in the way AOML predicts.
+
+**3. CAUSE × SINC universal block (R1) as a clean empirical finding.** AOML's R1 is described as the strongest empirical finding in the system (16 of 16 languages, p < 1e-9). The empirical data from the 8-language dataset rates CF5 × B as VARIABLE rather than BLOCKED, suggesting that indirect causation constructions are attested. While the underlying pattern (direct causation of character is blocked) is consistent with R1, the empirical rating does not cleanly confirm the universal block as stated. This may reflect a measurement issue (the empirical rating does not distinguish direct from indirect causation) rather than a genuine disconfirmation.
+
+**4. TEMP meta-axis (provisional).** The TEMP meta-axis is marked as provisional in AOML and is not clearly attested in the empirical data. The 8-language dataset does not show temporal modification of truth claims as a distinct constructional domain. This is consistent with AOML's provisional status for TEMP.
+
+**5. The specific blocking of ABSTR × LIFE.** AOML explicitly blocks ABSTR × LIFE (nominalization of lifelikeness is universally blocked). The empirical data does not clearly test this prediction because the mapping of Dimension N to LIFE is imperfect. If N is not LIFE, the prediction is untested rather than confirmed.
+
+---
+
+## Theoretical Discussion
+
+### Where AOML Appears Strongly Supported
+
+**The ATTR operator is universally licensed.** The empirical finding that predicative attribution (CF1) is ALLOWED for all dimensions with sufficient data provides strong support for AOML's prediction that ATTR is universally licensed across all primary axes. This is the most robustly confirmed prediction in the comparison and is consistent across all 8 languages and all language families represented.
+
+**The CONTR operator is universally licensed.** The empirical finding that binary opposition constructions (CF21) are ALLOWED for all core dimensions provides strong support for AOML's prediction that CONTR is universally licensed. The binary treatment of core truth terms (true/false, real/fake, honest/dishonest) is consistent across all 8 languages.
+
+**The REVEAL operator is provisionally supported.** The empirical finding that revelation constructions (CF12a) are ALLOWED for all 8 languages, combined with the consistent preference for revelation over inchoative constructions on core truth terms, provides strong support for AOML's provisional REVEAL operator. The empirical data independently confirms that revelation is structurally distinct from RESULT + STRAT: the presupposition of a pre-existing latent truth state is consistently present in revelation constructions across all 8 languages. The LIFE-blocks-REVEAL diagnostic is not directly testable in the empirical data, but the overall pattern is consistent with AOML's provisional licensing.
+
+**The CAUSE(−) × AUTH licensing (R3) is supported.** The empirical finding that forgery and falsification vocabulary is productive in all 8 languages supports AOML's prediction that CAUSE(−) × AUTH is licensed. This is a specific and non-trivial prediction that the empirical data confirms.
+
+**The DEG meta-axis substitution prohibition (R5) is directionally supported.** The empirical finding that core truth terms resist gradable comparison is directionally consistent with AOML's Rule R5 prediction that DEG[A] cannot substitute for A in inference. The empirical restriction is somewhat stronger than AOML predicts (see below), but the direction is consistent.
+
+### Where AOML May Require Refinement
+
+**1. CAUSE × VER should be BLOCKED (not restricted) for propositional truth-value causation.** The most significant finding is that AOML's prediction of restricted CAUSE × VER conflicts with the empirical universal block on "making a proposition true." AOML's current architecture treats CAUSE × VER as restricted (available under conditions), but the empirical data shows that no language licenses the construction "cause a proposition to acquire truth value." AOML may need to distinguish between:
+- CAUSE × VER (verification/confirmation): restricted, available in several languages
+- CAUSE × VER (truth-value causation): blocked, universally unavailable
+
+This distinction is not currently in AOML. The empirical data suggests that the blocked cell is specifically the causation of truth-value change, not causation of verification or confirmation. AOML's current architecture does not capture this distinction.
+
+**2. DEG[AUTH] should be BLOCKED (not merely restricted as meta-axis).** The empirical finding that authenticity is treated as binary across all 8 languages (no language shows gradable comparison of authenticity terms) suggests that DEG[AUTH] is blocked, not merely restricted. AOML's current architecture treats DEG as a meta-axis that inherits operator licensing from its host axis, which would predict DEG[AUTH] is available (since AUTH is a factual target). The empirical data contradicts this prediction. AOML may need a blocking condition: DEG[AUTH] is blocked because authenticity is a categorical property (genuine or not genuine) rather than a gradable one.
+
+**3. The SINC axis should be split into at least two subregions with different constructional profiles.** The empirical data consistently distinguishes between habitual honesty as a character trait (Dimension B) and emotional sincerity/authenticity of expression (Dimension M). AOML maps both to SINC, but the empirical data shows different vocabulary, different constructional profiles, and different cross-linguistic elaboration patterns for the two. AOML's SINC subregions (honesty, reliability, faithfulness) do not capture the B/M distinction. A refinement would distinguish:
+- SINC-HABIT: habitual truthfulness as a character trait (Dimension B)
+- SINC-EXPR: emotional authenticity and sincerity of expression (Dimension M)
+
+**4. The NORM axis should be split to capture the J/K distinction.** The empirical data consistently distinguishes between moral righteousness/justice (Dimension J) and legal/formal validity (Dimension K). AOML maps both to NORM, but the empirical data shows different vocabulary, different constructional profiles, and different cross-linguistic elaboration patterns. A refinement would distinguish:
+- NORM-MORAL: moral rightness, justice, fairness (Dimension J)
+- NORM-LEGAL: legal validity, formal legitimacy (Dimension K)
+
+**5. The VER axis should be split to capture the A/E distinction.** The empirical data shows that propositional correspondence (Dimension A) and factual correctness/conformity to standards (Dimension E) are distinct in some languages (most clearly Tamil). AOML maps both to VER. A refinement would distinguish:
+- VER-PROP: propositional correspondence to facts (Dimension A)
+- VER-NORM: correctness as conformity to standards (Dimension E)
+
+This distinction is less robust than the SINC and NORM splits (only Tamil clearly lexicalizes it), but it is present in the data.
+
+**6. The LIFE axis mapping to Dimension N (Plausibility) is imperfect and may require a new axis.** AOML's LIFE axis covers representational fidelity of constructed things. Empirical plausibility concerns whether statements or claims appear true. The overlap is real but the empirical dimension is broader and applies to propositions, not just representations. If plausibility is not LIFE, then AOML lacks an axis for epistemic plausibility/surface appearance of truth. A new axis — tentatively PLAUS (plausibility, surface appearance of truth) — may be needed.
+
+**7. The DEG meta-axis may need to be a primary axis for certainty/doubt.** The empirical data shows that certainty/doubt (Dimension I) has dedicated vocabulary in all 8 languages, suggesting it functions as a distinct semantic dimension rather than a meta-axis modulation. AOML's treatment of certainty as DEG[VER] is partially supported but does not capture the lexical elaboration. If certainty/doubt is a primary axis rather than a meta-axis, AOML's architecture would need revision.
+
+### Where Empirical Findings Suggest New Dimensions, Constructional Constraints, or Revised Constraint Strength
+
+**New dimension: Actual vs. Nominal / Formal Status (Dimension O).** The empirical data shows a consistent cross-linguistic distinction between what is actually the case in practice and what is nominally or formally designated. Korean's sil- compound family is the most systematic realization, but the distinction is present in all 8 languages through discourse markers (Indonesian sebenarnya, Turkish aslında, Korean sasireun). AOML does not model this dimension. A new axis — tentatively ACTUAL (actual vs. nominal status) — may be needed.
+
+**New constructional constraint: Agentive asymmetry.** The consistent cross-linguistic finding that liar agentives are more lexicalized than truth-teller agentives is not modeled in AOML. This asymmetry may reflect a deeper constraint: deviations from expected behavior are marked, while conformity to expected behavior is unmarked. AOML could model this as a constraint on CONTR × SINC agentive forms: the negative pole (liar) is more productively nominalized than the positive pole (truth-teller).
+
+**New constructional constraint: Discourse marker grammaticalization asymmetry.** The consistent cross-linguistic finding that truth roots grammaticalize into discourse markers while falsehood roots do not is not modeled in AOML. This asymmetry may reflect a deeper constraint: truth is the default epistemic state, and discourse markers signal departures from or confirmations of this default. AOML could model this as a constraint on grammaticalization paths: ATTR × VER (positive pole) licenses discourse marker formation; CONTR × VER (negative pole) does not.
+
+**Revised constraint strength: CAUSE × VER (truth-value causation) should be BLOCKED, not restricted.** As discussed above, the empirical data suggests that CAUSE × VER for propositional truth-value causation is universally blocked, not merely restricted. AOML should revise the CAUSE × VER cell from restricted to blocked for the specific meaning of truth-value causation, while maintaining restricted for verification/confirmation causation.
+
+**Revised constraint strength: DEG[AUTH] should be BLOCKED.** As discussed above, the empirical data suggests that degree modification of authenticity terms is universally blocked. AOML should add a blocking condition: DEG[AUTH] is blocked because authenticity is a categorical property.
+
+**Revised constraint strength: BECOME × VER (negative direction) should be BLOCKED or near-BLOCKED.** The empirical data shows that "becoming false" is consistently marked, dispreferred, or blocked across all 8 languages (consistent with AOML's R4 positive emergence bias). AOML's current architecture rates BECOME × VER as restricted for both directions. The empirical data suggests the negative direction should be rated more strongly: BECOME(−) × VER is near-BLOCKED, not merely restricted.
+
+**Support for REVEAL as a primitive operator.** The empirical data provides strong independent support for AOML's provisional REVEAL operator. The consistent cross-linguistic preference for revelation constructions over inchoative constructions on core truth terms, the presence of dedicated revelation vocabulary in all 8 languages, and the structural distinction between revelation (presupposes pre-existing latent truth) and result (marks achieved state) all support REVEAL as a structurally distinct primitive. The empirical data supports upgrading REVEAL from provisional to confirmed status, pending cross-architectural validation.

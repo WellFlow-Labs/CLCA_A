@@ -1,0 +1,379 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Greek (el)
+
+---
+
+## Preliminary Note on Method
+
+This step documents how Greek encodes dynamic truth-related meanings: transitions into or out of truth-related states, causation of such states, and expressions of stability or persistence. All vocabulary is drawn from the CONTEXT (P1–P5 and P1b). Where a construction type exists for a given term, attested examples are provided. Where no common expression exists, this is explicitly stated. Terms are treated separately where their behavior differs.
+
+A key finding from P4b is that Greek lacks a morphological causative and that the inchoative "become + truth-adjective" construction is not uniformly natural across the domain. These constraints are documented term by term below.
+
+---
+
+## 1. BECOMING TRUE / BEING ESTABLISHED AS TRUE
+
+### Core verb: αποδεικνύομαι (passive of αποδεικνύω)
+
+The passive of αποδεικνύω is the primary and most natural expression for a proposition or claim transitioning from unverified to established-as-true. It is documented in P4b as [CORE] for this function.
+
+**Pattern:** Subject (claim / information / person) + αποδείχτηκε / αποδεικνύεται + adjective or ότι-clause
+
+**Examples:**
+
+- Αποδείχτηκε αληθινό. / *Apodhíchtike alithinó.* / "It turned out to be true / was proven true."
+- Αποδείχτηκε αληθής. / *Apodhíchtike alithís.* / "It turned out to be true / was proven true." (formal register)
+- Αποδείχτηκε σωστό. / *Apodhíchtike sostó.* / "It turned out to be correct."
+- Αποδείχτηκε ορθό. / *Apodhíchtike orthó.* / "It turned out to be correct." (formal register)
+- Αποδείχτηκε ότι είχε δίκιο. / *Apodhíchtike óti íche dhíkio.* / "It turned out that he was right."
+- Η υπόθεση αποδείχτηκε αληθινή. / *I ipóthesi apodhíchtike alithiní.* / "The hypothesis turned out to be true."
+
+**Notes:** αποδείχτηκε is the natural and idiomatic form for this transition. It is used across formal, journalistic, and everyday registers. The present tense αποδεικνύεται ("it is being proven / it turns out") is used for ongoing or habitual transitions.
+
+---
+
+### Secondary expression: επαληθεύεται (passive of επαληθεύω)
+
+**Pattern:** Subject (claim / information) + επαληθεύτηκε / επαληθεύεται
+
+**Examples:**
+
+- Η πληροφορία επαληθεύτηκε. / *I pliroforía epalithéftike.* / "The information was verified / confirmed."
+- Η πρόβλεψη επαληθεύτηκε. / *I próvlepsi epalithéftike.* / "The prediction was confirmed / proved correct."
+
+**Notes:** επαληθεύεται / επαληθεύτηκε encodes verification through a checking process rather than a spontaneous revelation of truth. It is restricted to formal, journalistic, and scientific registers. The subject is typically a claim, prediction, or piece of information rather than a person.
+
+---
+
+### Secondary expression: διαπιστώνεται (passive of διαπιστώνω)
+
+**Pattern:** Subject (fact / state of affairs) + διαπιστώθηκε / διαπιστώνεται + ότι-clause
+
+**Examples:**
+
+- Διαπιστώθηκε ότι τα στοιχεία ήταν ακριβή. / *Dhiapistóthike óti ta stoichía ítan akriví.* / "It was established / found that the data were accurate."
+- Διαπιστώνεται ολοένα και περισσότερο ότι… / *Dhiapistónete oloéna ke perissótero óti…* / "It is increasingly being established that…"
+
+**Notes:** διαπιστώνεται encodes the establishment of a fact through observation or investigation. It is common in official reports, medical contexts, and formal writing. The subject is typically a state of affairs or finding rather than a proposition.
+
+---
+
+### Expression with γίνεται: limited naturalness
+
+**Pattern:** Subject + γίνεται + truth-domain adjective
+
+**Examples:**
+
+- ?Γίνεται αληθινό. / *?Yínete alithinó.* / "It becomes true."
+- ?Γίνεται σωστό. / *?Yínete sostó.* / "It becomes correct."
+
+**Notes:** As documented in P4b, γίνομαι + truth-domain adjective is grammatical but noted as less natural than αποδείχτηκε for truth-value transitions specifically. The construction is not attested as a common expression in the data. It is not listed as a [CORE] construction for this function.
+
+---
+
+### Expression with βγαίνει αληθινό / βγαίνει αλήθεια
+
+**Pattern:** Subject + βγαίνει + αληθινό / αλήθεια
+
+**Examples:**
+
+- Βγήκε αληθινό αυτό που είπε. / *Vyíke alithinó aftó pu ípe.* / "What he said turned out to be true."
+- Βγήκε αλήθεια. / *Vyíke alíthia.* / "It turned out to be true / came true."
+
+**Notes:** The verb βγαίνω (to come out, to emerge) is used colloquially to express that something turns out to be true or comes true. This is a colloquial alternative to αποδείχτηκε, particularly for predictions and claims. It is attested in the proverbial expression Η αλήθεια βγαίνει πάντα στο φως ("The truth always comes to light"), documented in P2b and P3 (Group 6), which encodes the same transition — concealed truth becoming revealed — through a different metaphor (coming to light rather than being proven).
+
+---
+
+## 2. BECOMING FALSE / BEING ESTABLISHED AS FALSE
+
+### Core verb: αποδεικνύομαι (passive) + negative adjective
+
+**Pattern:** Subject + αποδείχτηκε + ψευδής / ψεύτικο / αναληθής / ανακριβής / λανθασμένο
+
+**Examples:**
+
+- Αποδείχτηκε ψευδής. / *Apodhíchtike psevdhís.* / "It was proven false." (formal)
+- Αποδείχτηκε ψεύτικο. / *Apodhíchtike psévtiko.* / "It turned out to be fake / false." (colloquial)
+- Αποδείχτηκε αναληθής. / *Apodhíchtike analithís.* / "It turned out to be untrue." (formal)
+- Αποδείχτηκε ανακριβής. / *Apodhíchtike anakrivís.* / "It turned out to be inaccurate." (formal)
+- Αποδείχτηκε άκυρο. / *Apodhíchtike ákiro.* / "It turned out to be invalid / void." (legal)
+
+**Notes:** The same passive construction αποδείχτηκε applies symmetrically to both the true and false poles. Register determines adjective choice: ψευδής and αναληθής are formal; ψεύτικο is colloquial; ανακριβής is used specifically for inaccuracy; άκυρο is restricted to legal validity contexts.
+
+---
+
+### Core verb: διαψεύδομαι (passive of διαψεύδω)
+
+**Pattern:** Subject (claim / person) + διαψεύστηκε / διαψεύδεται
+
+**Examples:**
+
+- Οι ισχυρισμοί του διαψεύστηκαν. / *I ischirismí tu dhiapsévstikan.* / "His claims were refuted / disproved."
+- Η είδηση διαψεύστηκε. / *I ídhisi dhiapsévstike.* / "The news item was denied / refuted."
+- Διαψεύδεται από τα γεγονότα. / *Dhiapsévdhete apó ta yeyonóta.* / "It is refuted by the facts."
+
+**Notes:** διαψεύδομαι is the passive of διαψεύδω (documented in P4b as the primary causative verb for refutation). It encodes the transition from an asserted claim to a refuted one. It is [CORE] in journalistic and formal registers. The subject is typically a claim, report, or assertion rather than a person (though a person can be the subject in the sense of "his claims were refuted").
+
+---
+
+### Expression: πιάνεται στο ψέμα
+
+**Pattern:** Subject (person) + πιάστηκε / πιάνεται + στο ψέμα
+
+**Examples:**
+
+- Πιάστηκε στο ψέμα. / *Piástike sto pséma.* / "He/she was caught in a lie / caught lying."
+
+**Notes:** This fixed construction (documented in P2b and P3 Group 6) encodes the transition from an undetected lie to a detected one — the moment at which a false claim is exposed as such. It is [CORE] in everyday speech. The subject is always a person (the liar), not the claim itself.
+
+---
+
+## 3. BECOMING GENUINE / AUTHENTIC
+
+**No common expression identified.**
+
+The data does not document a natural expression for a transition into a state of genuineness or authenticity. The reason is structural: γνήσιος and αυθεντικός describe properties of origin and identity that are not typically acquired through a process — an object either is or is not genuine from its origin. The concept of "becoming genuine" does not appear as a documented usage pattern in the data.
+
+The closest attested expression involves certification rather than a change of state:
+
+- Πιστοποιήθηκε η γνησιότητά του. / *Pistopiíthike i gnissiótitá tu.* / "Its authenticity was certified."
+
+This encodes the establishment of a recognized status (certification) rather than a change in the object's intrinsic properties.
+
+---
+
+## 4. BECOMING INVALID / VOID
+
+### Core verb: ακυρώνομαι (passive of ακυρώνω)
+
+**Pattern:** Subject (document / contract / decision) + ακυρώθηκε / ακυρώνεται
+
+**Examples:**
+
+- Η σύμβαση ακυρώθηκε. / *I símvasi akiróthike.* / "The contract was annulled / voided."
+- Το εισιτήριο ακυρώθηκε. / *To eisitírio akiróthike.* / "The ticket was cancelled."
+- Η απόφαση ακυρώνεται. / *I apófasi akirónete.* / "The decision is being annulled."
+
+**Notes:** ακυρώνομαι is the passive of ακυρώνω (documented in P2a as [CORE]). It encodes the transition from a valid (έγκυρος) to an invalid (άκυρος) state. It is [CORE] in legal and administrative registers. The transition is always caused by an external agent or authority; the passive backgrounds this agent.
+
+---
+
+### Expression: καθίσταται άκυρος
+
+**Pattern:** Subject + καθίσταται + άκυρος/η/ο
+
+**Examples:**
+
+- Η σύμβαση καθίσταται άκυρη. / *I símvasi kathístete ákiri.* / "The contract becomes / is rendered void."
+
+**Notes:** καθίσταται (from καθίσταμαι, a formal inchoative copula) + άκυρος is a formal legal expression for the transition to invalidity. It is more formal than ακυρώθηκε and appears primarily in legal texts and official documents. It is the closest Greek equivalent to "becomes invalid" as a direct inchoative construction.
+
+---
+
+## 5. CAUSING SOMETHING TO BE TRUE / PROVEN
+
+### Core verb: αποδεικνύω
+
+**Pattern:** Agent + αποδεικνύω + ότι-clause / direct object
+
+**Examples:**
+
+- Απέδειξε ότι η κατάθεση ήταν ψευδής. / *Apédhikse óti i katáthesi ítan psevdhís.* / "He proved that the testimony was false." (documented in P4b)
+- Απέδειξε την αθωότητά του. / *Apédhikse tin athoótitá tu.* / "He proved his innocence."
+- Αποδεικνύει ότι η θεωρία είναι σωστή. / *Apodhiknýi óti i theoría íne sostí.* / "He/she proves that the theory is correct."
+
+**Notes:** αποδεικνύω is the primary causative verb for causing a claim to be established as true or false. It is [CORE] across formal, legal, and academic registers. It selects either an ότι-complement (propositional content) or a direct object (the thing proven). The agent is typically a person, but evidence or data can also be the subject: Τα στοιχεία αποδεικνύουν ότι… ("The evidence proves that…").
+
+---
+
+### Core verb: επαληθεύω
+
+**Pattern:** Agent + επαληθεύω + noun phrase / ότι-clause
+
+**Examples:**
+
+- Επαλήθευσε την πληροφορία. / *Epalíthefse tin pliroforía.* / "He/she verified the information."
+- Επαλήθευσε ότι τα δεδομένα ήταν ακριβή. / *Epalíthefse óti ta dhédhomena ítan akriví.* / "He/she verified that the data were accurate."
+
+**Notes:** επαληθεύω encodes the act of checking and confirming, rather than proving from scratch. It is [CORE] in journalistic, scientific, and administrative registers. The agent is typically a person or institution performing a verification procedure.
+
+---
+
+### Core verb: τεκμηριώνω
+
+**Pattern:** Agent + τεκμηριώνω + noun phrase (claim / position)
+
+**Examples:**
+
+- Τεκμηριώνει τη θέση του με στοιχεία. / *Tekmirióni ti thési tu me stoichía.* / "He/she substantiates his/her position with evidence." (documented in P4b)
+- Τεκμηρίωσε την κατηγορία. / *Tekmirióse tin katigoría.* / "He/she documented / substantiated the accusation."
+
+**Notes:** τεκμηριώνω encodes the act of providing evidence to support a claim. It is [CORE] in legal, academic, and journalistic registers. Unlike αποδεικνύω, it does not necessarily imply that the claim has been conclusively proven — it implies that evidence has been assembled in its support.
+
+---
+
+### Core verb: πιστοποιώ
+
+**Pattern:** Agent (institution / authority) + πιστοποιώ + noun phrase
+
+**Examples:**
+
+- Πιστοποίησε τη γνησιότητα του εγγράφου. / *Pistopiíse ti gnissiótita tu engráphu.* / "He/she certified the authenticity of the document."
+- Πιστοποιεί ότι ο κάτοχος πληροί τις προϋποθέσεις. / *Pistopií óti o kátochos plirí tis proipothésis.* / "It certifies that the holder meets the requirements."
+
+**Notes:** πιστοποιώ encodes formal institutional certification rather than proof in the logical or evidential sense. It is [CORE] in administrative and legal registers. The agent is typically an institution or authorized person.
+
+---
+
+## 6. CAUSING SOMETHING TO BE FALSE / FORGED / ADULTERATED
+
+### Core verb: διαψεύδω
+
+**Pattern:** Agent + διαψεύδω + noun phrase (claim / report)
+
+**Examples:**
+
+- Διέψευσε τους ισχυρισμούς. / *Dhiépsefse tus ischirismús.* / "He/she refuted / disproved the claims." (documented in P4b)
+- Διέψευσε την είδηση. / *Dhiépsefse tin ídhisi.* / "He/she denied / refuted the news item."
+- Τα γεγονότα διέψευσαν τις προβλέψεις. / *Ta yeyonóta dhiépsefsan tis provlépseis.* / "The facts disproved the predictions."
+
+**Notes:** διαψεύδω is the primary causative verb for causing a claim to be established as false or for formally denying a report. It is [CORE] in journalistic and formal registers. The agent can be a person, institution, or state of affairs (the facts themselves can refute a claim).
+
+---
+
+### Core verb: νοθεύω
+
+**Pattern:** Agent + νοθεύω + noun phrase (substance / document / result)
+
+**Examples:**
+
+- Νόθευσε τα καύσιμα. / *Nóthefse ta káfsima.* / "He/she adulterated the fuel."
+- Νόθευσε τα αποτελέσματα των εκλογών. / *Nóthefse ta apotelésma­ta ton eklogón.* / "He/she falsified / rigged the election results."
+- Νοθεύτηκαν τα τρόφιμα. / *Nothéftikan ta trófi­ma.* / "The food was adulterated." (passive)
+
+**Notes:** νοθεύω encodes the act of adulterating or falsifying a substance, document, or result. It is [CORE] in legal and journalistic registers. The passive νοθεύτηκε encodes the resulting state. The subject of the passive is the adulterated entity.
+
+---
+
+### Core verb: πλαστογραφώ
+
+**Pattern:** Agent + πλαστογραφώ + noun phrase (document / signature)
+
+**Examples:**
+
+- Πλαστογράφησε την υπογραφή. / *Plastográfise tin ipografí.* / "He/she forged the signature."
+- Πλαστογράφησε τα έγγραφα. / *Plastográfise ta éngrafa.* / "He/she forged the documents."
+- Τα έγγραφα πλαστογραφήθηκαν. / *Ta éngrafa plastografíthikan.* / "The documents were forged." (passive)
+
+**Notes:** πλαστογραφώ is the standard legal verb for document forgery. It is [CORE] in legal and journalistic registers. The passive πλαστογραφήθηκε encodes the resulting state of the forged document.
+
+---
+
+### Core verb: παραποιώ (underlying παραποίηση)
+
+**Pattern:** Agent + παραποιώ + noun phrase (document / account / substance)
+
+**Examples:**
+
+- Παραποίησε το έγγραφο. / *Parapiíse to éngrafo.* / "He/she falsified / tampered with the document."
+- Παραποίησε τα γεγονότα. / *Parapiíse ta yeyonóta.* / "He/she distorted the facts."
+- Το έγγραφο παραποιήθηκε. / *To éngrafo parapiíthike.* / "The document was falsified / tampered with." (passive)
+
+**Notes:** παραποιώ (the verb underlying the P1 noun παραποίηση) encodes deliberate alteration or distortion. It is [CORE] in legal and journalistic registers. It applies both to physical documents and to accounts or representations of events.
+
+---
+
+## 7. CAUSING SOMETHING TO BECOME INVALID
+
+### Core verb: ακυρώνω
+
+**Pattern:** Agent + ακυρώνω + noun phrase (document / contract / decision)
+
+**Examples:**
+
+- Ακύρωσε τη σύμβαση. / *Akírose ti símvasi.* / "He/she annulled / voided the contract."
+- Ακύρωσε την κράτηση. / *Akírose tin krátisi.* / "He/she cancelled the reservation."
+- Το δικαστήριο ακύρωσε την απόφαση. / *To dhikastírio akírose tin apófasi.* / "The court annulled the decision."
+
+**Notes:** ακυρώνω is [CORE] in legal and administrative registers. It is documented in P2a as the primary verb for causing a transition from valid (έγκυρος) to invalid (άκυρος). The agent is typically a person or institution with the authority to annul.
+
+---
+
+## 8. STABILITY / PERSISTENCE OF TRUTH-RELATED STATES
+
+### Proverbial expressions encoding persistence of truth
+
+The data documents two proverbial expressions (P2b, P3 Group 6) that encode the persistence or inevitable emergence of truth:
+
+- Η αλήθεια βγαίνει πάντα στο φως. / *I alíthia vgéni pánda sto fos.* / "The truth always comes to light."
+- Το ψέμα έχει κοντά ποδάρια. / *To pséma échi kondá podhária.* / "Lies have short legs."
+
+**Notes:** Both proverbs encode the same underlying claim: truth is stable and persistent; falsehood is unstable and temporary. The first encodes the eventual emergence of truth (a dynamic expression with a stable endpoint); the second encodes the limited persistence of lies. Both are [CORE] in everyday moral discourse and function as fixed utterances.
+
+---
+
+### Expression encoding persistence of a valid state
+
+**Pattern:** Subject + παραμένει + έγκυρος / ισχύει
+
+**Examples:**
+
+- Το διαβατήριο παραμένει έγκυρο μέχρι… / *To dhiavatírio paraméni éngiro méchri…* / "The passport remains valid until…"
+- Η σύμβαση εξακολουθεί να ισχύει. / *I símvasi eksakoluthí na ischýi.* / "The contract continues to be in force."
+
+**Notes:** παραμένω + έγκυρος and εξακολουθώ να ισχύω are the natural expressions for the persistence of a valid state. Both are [CORE] in legal and administrative registers. ισχύω (to be in force, to be valid) is a dedicated verb for the ongoing validity of legal instruments, parallel to but distinct from έγκυρος as a static adjective.
+
+---
+
+### Expression encoding persistence of a credibility state
+
+**Pattern:** Subject + εξακολουθεί να είναι + αξιόπιστος / αναξιόπιστος
+
+**Examples:**
+
+- Εξακολουθεί να είναι αξιόπιστη πηγή. / *Eksakoluthí na íne aksiópistos pigí.* / "It continues to be a reliable source."
+- Παραμένει αναξιόπιστος. / *Paraméni anaksiópistos.* / "He/she remains unreliable."
+
+**Notes:** παραμένω and εξακολουθώ να + adjective are the natural expressions for the persistence of a credibility state. Both are [CORE] in journalistic and formal registers. No dedicated verb for the persistence of credibility is documented in the data; the periphrastic construction is the standard form.
+
+---
+
+## 9. SUMMARY TABLE
+
+| Dynamic Type | Primary Expression | Transliteration | Translation | Naturalness |
+|---|---|---|---|---|
+| Becoming true (established) | αποδείχτηκε αληθινό / αληθής | *apodhíchtike alithinó / alithís* | "turned out to be true / was proven true" | [CORE] |
+| Becoming true (verified) | επαληθεύτηκε | *epalithéftike* | "was verified / confirmed" | [CORE] formal |
+| Becoming true (established by investigation) | διαπιστώθηκε ότι… | *dhiapistóthike óti…* | "it was established / found that…" | [CORE] formal |
+| Becoming true (colloquial) | βγήκε αληθινό / βγήκε αλήθεια | *vyíke alithinó / vyíke alíthia* | "turned out to be true / came true" | [CORE] colloquial |
+| Becoming false (established) | αποδείχτηκε ψευδής / ψεύτικο | *apodhíchtike psevdhís / psévtiko* | "was proven false / turned out to be fake" | [CORE] |
+| Becoming false (refuted) | διαψεύστηκε | *dhiapsévstike* | "was refuted / denied" | [CORE] formal/journalistic |
+| Becoming false (exposed lie) | πιάστηκε στο ψέμα | *piástike sto pséma* | "was caught in a lie" | [CORE] colloquial |
+| Becoming invalid | ακυρώθηκε | *akiróthike* | "was annulled / cancelled / voided" | [CORE] legal/admin |
+| Becoming invalid (formal inchoative) | καθίσταται άκυρος | *kathístete ákiros* | "becomes / is rendered void" | [CORE] formal legal |
+| Causing to be proven | αποδεικνύω | *apodhiknýo* | "to prove" | [CORE] |
+| Causing to be verified | επαληθεύω | *epalithévo* | "to verify" | [CORE] formal |
+| Causing to be substantiated | τεκμηριώνω | *tekmirióno* | "to substantiate, to document" | [CORE] formal |
+| Causing to be certified | πιστοποιώ | *pistopiό* | "to certify, to attest" | [CORE] admin/legal |
+| Causing to be refuted | διαψεύδω | *dhiapsévdho* | "to refute, to disprove, to deny" | [CORE] formal/journalistic |
+| Causing to be adulterated | νοθεύω | *nothévo* | "to adulterate, to falsify" | [CORE] legal |
+| Causing to be forged | πλαστογραφώ | *plastografó* | "to forge (documents)" | [CORE] legal |
+| Causing to be tampered with | παραποιώ | *parapiό* | "to falsify, to distort, to tamper with" | [CORE] legal |
+| Causing to be invalid | ακυρώνω | *akiróno* | "to annul, to cancel, to void" | [CORE] legal/admin |
+| Persisting as valid | παραμένει έγκυρο / εξακολουθεί να ισχύει | *paraméni éngiro / eksakoluthí na ischýi* | "remains valid / continues to be in force" | [CORE] legal/admin |
+| Persisting as credible | παραμένει αξιόπιστος | *paraméni aksiópistos* | "remains reliable / credible" | [CORE] formal |
+| Becoming genuine | **No common expression identified** | — | — | — |
+
+---
+
+## 10. NOTES ON GAPS AND ASYMMETRIES
+
+**Becoming genuine:** As noted in §3, no natural expression for a transition into a state of genuineness or authenticity is documented in the data. γνήσιος and αυθεντικός describe properties of origin that are not typically acquired through a process. The closest attested expression involves certification (πιστοποιήθηκε η γνησιότητα), which encodes the establishment of a recognized status rather than a change in intrinsic properties.
+
+**Becoming correct:** No dedicated inchoative expression for "becoming correct" (σωστός, ορθός) is documented. The concept is expressed through αποδείχτηκε σωστό / ορθό (it turned out to be correct), which uses the same passive construction as the truth-value transitions above.
+
+**Asymmetry between αποδεικνύω and διαψεύδω:** αποδεικνύω can cause a claim to be established as either true or false (αποδεικνύω ότι κάτι είναι αληθές / ψευδές). διαψεύδω is restricted to causing a claim to be established as false or denied. There is no dedicated verb meaning "to cause to be established as true" that is distinct from αποδεικνύω; the positive causative function is covered by αποδεικνύω alone.
+
+**Asymmetry between νοθεύω and πλαστογραφώ:** Both encode causing something to be false or inauthentic, but they apply to different domains: νοθεύω applies to substances (food, fuel) and to processes (elections), while πλαστογραφώ applies specifically to written documents and signatures. παραποιώ is broader and applies to both documents and accounts or representations.
+
+**γίνομαι + truth-domain adjective:** As documented in P4b, this construction is grammatical but not the natural or idiomatic choice for truth-value transitions. The data does not provide attested examples of γίνεται αληθινό or γίνεται σωστό as common expressions. The construction is therefore not listed as [CORE] for any dynamic truth-related meaning.

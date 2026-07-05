@@ -1,0 +1,197 @@
+# CLCA Protocol v3.2 — P3 NATURAL SEMANTIC GROUPING
+# Language: Sanskrit (sa)
+
+---
+
+## Preliminary Note on Method
+
+Groupings below are derived from patterns of co-occurrence, contrast, and contextual deployment observed across P1, P1b, P2a, and P2b documentation. Where terms are regularly contrasted with one another, appear in the same technical frameworks, or are used to evaluate the same kinds of objects, this is treated as evidence of grouping. Where a term appears in multiple distinct usage contexts, it is assigned to multiple groups or flagged as ambiguous. No attempt is made to produce a complete or symmetrical taxonomy. Items for which no clear grouping is supported by the data are listed at the end.
+
+---
+
+## Group 1: Terms used to evaluate whether a cognition correctly apprehends its object
+
+**Label:** Cognition-evaluating terms in epistemological argument
+
+**Definition:** These terms are used in Sanskrit philosophical literature — primarily Nyāya, Mīmāṃsā, and Buddhist epistemology — to assess whether a given cognitive episode accurately apprehends the object it is directed at. They appear in technical discussions of the structure of knowledge, the causes of error, and the distinction between reliable and unreliable cognitive episodes. They are regularly contrasted with one another as positive and negative poles of the same evaluative dimension.
+
+**Representative expressions:**
+
+- प्रमा / *pramā* (#5): the positive pole; a cognition that correctly apprehends its object as it is; contrasted with *apramā*
+- अप्रमा / *apramā* (#6 / P2a item 5): the negative pole; the technical negation of *pramā*; the category that includes *bhrama*, *saṃśaya*, and related states
+- यथार्थज्ञान / *yathārthajñāna* (P2a, Item 3 / P2a #31): knowledge that is "as the object is"; used as a near-synonym of *pramā* but emphasizing the correspondence relation explicitly; *yathārtha-jñāna* as a compound expression
+- भ्रम / *bhrama* (#17 / P2a #76): erroneous cognition in which something is apprehended as other than it is; the canonical example is the rope-snake illusion; near-synonym of *bhrānti*
+- विपर्यय / *viparyaya* (#18 / #23): inverted or reversed cognition; used in Sāṃkhya-Yoga contexts; one of the five *vṛttis* in Sāṃkhya-Yoga
+- भ्रमज्ञान / *bhramajñāna* (P2a, Item 17): erroneous cognition as a compound expression
+- मिथ्याज्ञान / *mithyājñāna* (P2a, Item 10 / P2a #88): false knowledge; used in Vedānta contexts; standard in Advaita Vedānta discussions of *avidyā*
+- भ्रमो न प्रमा / *bhramo na pramā* (P2b, Item 17): "error is not valid cognition" — a fixed definitional contrast between the two poles
+- विपर्ययो न प्रमा / *viparyayo na pramā* (P2b, Item 18): the same contrast in Sāṃkhya-Yoga vocabulary
+- भ्रान्ति / *bhrānti* (#22 / P2a item 11): cognitive error, illusion; the standard term for erroneous cognition; near-synonym of *bhrama*; emphasizes the state of being in error
+- भ्रान्त / *bhrānta* (P2a #74): erroneous, confused; the adjectival form
+- भ्रान्तिज्ञान / *bhrānti-jñāna* (P2a #75): erroneous cognition
+- भ्रामक / *bhrāmaka* (P2a, item 11): characterizes something as causing or inducing error in a cognizer
+- विपर्यस्त / *viparyasta* (P2a #78): inverted, reversed; the adjectival form of *viparyaya*
+- मिथ्यादृष्टि / *mithyā-dṛṣṭi* (P2a #90): false view, wrong view
+- अविसंवादिन् / *avisaṃvādin* (P1, item 30): used in Buddhist *pramāṇa* theory to characterize a cognition that does not mislead with respect to its object
+- असत्ख्याति / *asatkhyāti* (P2a, item 7): a technical position in the *khyātivāda* debate about the nature of error
+- विपर्ययो मिथ्याज्ञानम् / *viparyayo mithyājñānam* (P2b #60): definitional formula from *Yogasūtra* 1.8
+- मिथ्याज्ञानं निवर्तते सम्यग्ज्ञानेन / *mithyājñānaṃ nivartate samyag-jñānena* (P2b #68): "false knowledge is removed by correct knowledge"
+- रज्जौ सर्पभ्रान्तिः / *rajjau sarpa-bhrāntiḥ* (P2b #57): the canonical example: mistaking a rope for a snake
+- भ्रान्तिः निवर्तते / *bhrāntiḥ nivartate* (P2b #58): "the illusion ceases"; describes the removal of error
+- बाधेन भ्रान्तिः निवर्तते / *bādhena bhrāntiḥ nivartate* (P2b #59): "by sublation, the illusion ceases"
+- बाधित / *bādhita* (P1b Root 2, #23): contradicted, sublated; a cognition overridden by stronger evidence
+- बाधा / *bādhā* (P1b Root 2, #24): sublation; the process of a cognition being overridden
+
+**Notes on internal distinctions:** *Bhrama* and *viparyaya* are near-synonyms in function but belong to different school vocabularies; *bhrama* is the standard Nyāya term, *viparyaya* the standard Sāṃkhya-Yoga term. *Bhrānti* is a near-synonym of *bhrama* emphasizing the state of being in error. *Mithyājñāna* carries additional Advaita Vedānta connotations about the ontological status of the object, not only the accuracy of the cognition. *Apramā* is the most technically neutral negation. *Avisaṃvādin* is a Buddhist *pramāṇa*-theory term.
+
+---
+
+## Group 2: Terms used to evaluate the means or source by which a cognition is produced
+
+**Label:** Source-evaluating terms in epistemological argument
+
+**Definition:** These terms are used to assess not the cognition itself but the means, source, or procedure by which it is produced. They appear in debates across all major Sanskrit philosophical schools about which sources of knowledge count as authoritative and why. The central question is not whether a particular cognition is accurate but whether the *means* by which it was arrived at is reliable. The central term *pramāṇa* generates a large cluster of derived expressions that evaluate sources as genuine, spurious, absent, or contested.
+
+**Representative expressions:**
+
+- प्रमाण / *pramāṇa* (#4 / #5): the central term; a valid means of arriving at valid cognition; *pramāṇam asti* / *kiṃ pramāṇam* / *pramāṇena siddham*
+- प्रामाण्य / *prāmāṇya* (P2a, Item 4 / P2a #18): the property of being a valid means of knowledge; the abstract quality at issue in debates about reliability; the subject of the *svataḥ/parataḥ* debate
+- अप्रामाण्य / *aprāmāṇya* (P2a, Item 4): the property of failing to be a valid means of knowledge
+- स्वतःप्रामाण्य / *svataḥprāmāṇya* (P2a, Item 4 / P1b, root 2 / P2a #25): the Mīmāṃsā position that validity is established by the cognition itself; the Mīmāṃsā doctrine of intrinsic validity
+- परतःप्रामाण्य / *parataḥprāmāṇya* (P2a, Item 4 / P1b, root 2 / P2a #26): the Nyāya position that validity must be established externally; the Nyāya doctrine of extrinsic validity
+- प्रमाणाभास / *pramāṇābhāsa* (P2a, Item 4 / P2a #22): something that appears to be a valid means of knowledge but is not; pseudo-valid means of knowledge; resembles but is not genuine
+- हेत्वाभास / *hetvābhāsa* (#16 / P2a #80): a spurious logical reason that appears valid but fails to be probative; a specific subtype of the same evaluative dimension applied to inference; a fallacious reason; a pseudo-*hetu* in logical inference
+- प्रमाणेन सिद्धम् / *pramāṇena siddham* (P2b, Item 4 / P2b #16): "established by a valid means of knowledge" — the standard formula for asserting epistemic warrant
+- प्रमाणाभावात् / *pramāṇābhāvāt* (P2b, Item 4): "due to the absence of a valid means of knowledge" — the standard formula for dismissing a claim
+- प्रमाणं नास्ति / *pramāṇaṃ nāsti* (P2b, Item 4): "there is no valid means of knowledge" — a direct dismissal
+- प्रमाणविरुद्ध / *pramāṇaviruddha* (P2a, Item 4): contradicted by a valid means of knowledge
+- प्रमाणसिद्ध / *pramāṇasiddha* (P2a, Item 4 / P2a #23): established by a valid means of knowledge; epistemically warranted
+- अनुमान / *anumāna* (P1b Root 2, item 18 / P1b Root 2, #14): inference as a specific type of *pramāṇa*; a primary *pramāṇa*
+- अनुमिति / *anumiti* (P1b Root 2, #15): inferential cognition; the result of inference
+- उपमान / *upamāna* (P1b Root 2, item 19 / P1b Root 2, #16): analogical cognition as a specific type of *pramāṇa*; a *pramāṇa* recognized in Nyāya
+- प्रामाणिक / *prāmāṇika* (P2a, item 4): characterizes a source or person as authoritative and reliable; in modern usage, "authentic, genuine"
+- अप्रमाण / *apramāṇa* (P2a, item 4 / P2a #20): a source or means that fails to yield valid knowledge; invalid means of knowledge; lacking epistemic warrant
+- अप्रामाणिक / *aprāmāṇika* (P2a, item 4): lacking authority or validity
+- प्रमाणभूत / *pramāṇabhūta* (P2a, item 4): "having become a *pramāṇa*"; used of the Buddha in Dharmakīrti
+- प्रमाणता / *pramāṇatā* (P2a #19): the property of being a valid means of knowledge
+- प्रमातृ / *pramātṛ* (P2a #28): the knowing subject; the epistemic agent
+- प्रमेय / *prameya* (P2a #29): the object of valid cognition; what is to be known
+- वेदः प्रमाणम् / *vedaḥ pramāṇam* (P2b, item 4): the formula asserting Vedic authority
+- प्रमाणं किम्? / *pramāṇaṃ kim?* (P2b #15): "What is the valid means of knowledge here?"; formulaic challenge in debate
+- न तत्र प्रमाणम् अस्ति / *na tatra pramāṇam asti* (P2b #17): "there is no valid means of knowledge for that"
+- प्रमायाः करणं प्रमाणम् / *pramāyāḥ karaṇaṃ pramāṇam* (P2b #21): definitional formula: "the instrument of valid cognition is the *pramāṇa*"
+- हेत्वाभासो न हेतुः / *hetvābhāso na hetuḥ* (P2b #62): "a fallacious reason is not a reason"
+
+**Notes on internal distinctions:** The *svataḥ/parataḥ* pair marks a specific intra-school debate about the locus of validity-conferring conditions. *Hetvābhāsa* is a specialized application of the *ābhāsa* (semblance) pattern to the specific case of inferential reasoning. *Pramāṇābhāsa* is the more general term for spurious epistemic sources. This group is closely related to Group 1 but is distinct: Group 1 terms evaluate individual cognitions or statements, while Group 2 terms evaluate the *sources and methods* that generate cognitions. The two groups interact: a cognition is *pramā* (Group 1) when it results from a *pramāṇa* (Group 2).
+
+---
+
+## Group 3: Terms used to evaluate statements or speech acts as truthful or false
+
+**Label:** Speech-evaluating terms in ethical and legal contexts
+
+**Definition:** These terms are used in Dharmaśāstra, epic literature, and legal contexts to evaluate utterances, testimony, and speech acts as truthful, false, or wrongful. They appear in prescriptive injunctions about the duty of truthful speech, in legal evaluations of testimony, and in characterizations of persons as reliable or unreliable speakers. The evaluative dimension here is primarily moral and legal rather than epistemological.
+
+**Representative expressions:**
+
+- सत्य / *satya* (#1): the primary positive term; truthful speech and the property of being true; applied to utterances and to persons characterized by truthful speech; appears in oath formulas (*satyena śapāmi*) and moral injunctions (*satyaṃ vada*)
+- असत्य / *asatya* (#12 / #4): the direct negation; false speech, the quality of being untrue; the standard negation; applied to false statements and disqualified witnesses
+- अनृत / *anṛta* (#11 / #3): false speech in Vedic and early classical contexts; carries stronger connotations of violation of cosmic order; applied to false speech and fraudulent representation in legal and Vedic contexts
+- तथ्य / *tathya* (#9): factually accurate speech; closer to "the facts" than to the broader resonances of *satya*; used in legal and narrative contexts to evaluate factual accuracy in a specific case; *tathyaṃ vadati* ("states the facts")
+- सत्यवादिन् / *satyavādin* (P1b Root 1, item 2 / P2a #2): one who speaks truthfully; a characterization of a reliable witness or person
+- असत्यवादिन् / *asatyavādin* (P2a, Item 12): one who speaks falsely; a characterization of an unreliable speaker
+- मिथ्यावादिन् / *mithyāvādin* (P2a, Item 10): one who speaks falsely or holds false views
+- सत्यवचन / *satyavacana* (P1b Root 1, item 3): the act of truthful utterance
+- असत्यवचन / *asatyavacana* (P2a, Item 12): the act of false utterance
+- अनृतवचन / *anṛtavacana* (P1b supplementary, item 5 / P2a #14): false speech in Vedic-Dharmaśāstra contexts; a false utterance; appears in Dharmaśāstra lists of sins
+- असत्यभाषण / *asatya-bhāṣaṇa* (P2a #16): the act of speaking falsehood; appears in lists of prohibited conduct
+- अनृतभाषिन् / *anṛta-bhāṣin* (P2a #13): "one who speaks falsehood"; used in witness disqualification
+- सत्यवाक्य / *satya-vākya* (P2a #6): a true statement; used in discussions of testimony
+- सत्यसंध / *satyasaṃdha* (P2a, item 1): "bound to truth"; evaluates a person as reliable and faithful to their word
+- सत्यं वद / *satyaṃ vada* (P2b, Item 1 / P2b #1): "speak the truth" — the foundational injunction; formulaic imperative
+- सत्यं ब्रूयात् / *satyaṃ brūyāt* (P2b, Item 1 / P2b #2): "one should speak the truth" — the prescriptive form; normative optative
+- असत्यं न वदेत् / *asatyaṃ na vadet* (P2b, Item 12): "one should not speak untruth" — the prohibitive form
+- अनृतं न वदेत् / *anṛtaṃ na vadet* (P2b, Item 11 / P2b #11): the same prohibition in Vedic vocabulary; prohibitive optative
+- तथ्यं वदति / *tathyaṃ vadati* (P2b, Item 9): "speaks the facts" — used in legal testimony contexts
+- असत्यं पापम् / *asatyaṃ pāpam* (P2b, Item 12): "untruth is sin" — the moral condemnation formula
+- असत्यं वदति / *asatyaṃ vadati* (P2b #13): "he speaks falsehood"; the conventional periphrastic expression for lying
+- मिथ्या न वदेत् / *mithyā na vadet* (P2b #66): "one should not speak falsely"; parallel prohibitive formula
+- सत्यं नास्ति परो धर्मः / *satyaṃ nāsti paro dharmaḥ* (P2b #3): "there is no higher *dharma* than truth"
+- सत्यं परं धर्मः / *satyaṃ paraṃ dharmaḥ* (P2b, Item 1): "truth is the highest dharma" — linking Groups 3 and 6
+
+**Notes on internal distinctions:** *Satya* and *asatya* are the most widely used pair in post-Vedic prose. *Anṛta* is the older Vedic term and carries cosmological connotations that *asatya* does not. *Tathya* is more restricted to factual accuracy in legal and narrative contexts and lacks the moral weight of *satya*. The prescriptive constructions (*brūyāt*, *na vadet*) are the characteristic syntactic form of this group.
+
+---
+
+## Group 4: Terms used to evaluate whether something corresponds to or pertains to actual things
+
+**Label:** Reality-correspondence terms in philosophical and general prose
+
+**Definition:** These terms are used to assess whether a description, property, or characterization pertains to how things actually are, as opposed to how they appear, are conventionally described, or are merely named. They appear in philosophical argument when distinguishing genuine from apparent or conventional properties, and in general prose when asserting that an account is accurate to the facts. They are regularly contrasted with terms for appearance, convention, or mere verbal designation.
+
+**Representative expressions:**
+
+- वास्तव / *vāstava* (#13 / P1, item 21): pertaining to the real object; used to distinguish genuine from conventional or apparent properties; evaluates whether something pertains to actual reality (*vastu*) as opposed to appearance; *vāstavam etat* ("this is real/actual")
+- वस्तु / *vastu* (#14): the real thing itself; what cognition must correspond to for the cognition to be valid
+- यथार्थ / *yathārtha* (#3 / #7): as the object actually is; used to evaluate descriptions and cognitions for accuracy; used specifically to evaluate whether a word, name, or description corresponds to its referent; *nāma yathārtham asti* ("the name is accurate to its referent")
+- तथ्य / *tathya* (#9): factually accurate; used in legal and narrative contexts for accounts that correspond to the facts
+- वस्तुतः / *vastutaḥ* (P2a, Item 14 / P2a #49): "in reality" — the standard adverbial formula for asserting correspondence to actual things; "from the standpoint of the real thing"; *vastutaḥ tu* as a formula introducing the author's corrective view
+- वास्तवतः / *vāstavataḥ* (P2b, Item 13): "in reality" — a parallel adverbial formula; introduces a corrective or deeper assessment
+- वस्तुस्थिति / *vastusthiti* (P2a, Item 14 / P2a #50): the actual state of affairs; the facts of the matter
+- वस्तुनि यथावत् ज्ञानम् / *vastuni yathāvat jñānam* (P2b, Item 14): "knowledge of the thing as it actually is"
+- वस्तु न शब्दाधीनम् / *vastu na śabdādhīnam* (P2b, Item 14): "the real thing is not dependent on words" — the standard formula distinguishing real from merely verbal entities
+- वस्तुबलात् / *vastubalaāt* (P2b, Item 14): "by the force of the thing itself" — used when a conclusion is compelled by the subject matter
+- वास्तविक / *vāstavika* (P2a, Item 13 / P2a #47): real, actual; the adjectival form used in modern Sanskrit; used in philosophical and general prose
+- वस्तुस्वभाव / *vastusvabhāva* (P2b, Item 14): the intrinsic nature of the real thing
+- वस्तुतन्त्र / *vastu-tantra* (P2a #51): object-dependent; governed by the real thing rather than by the subject
+- वस्तुसत् / *vastu-sat* (P2a #52): genuinely real as an actual entity; contrasted with *saṃvṛti-sat*
+- यथार्थता / *yathārthatā* (P2a #30): accuracy; the property of corresponding to the object
+- आभासमात्रम् न वस्तु / *ābhāsamātram na vastu* (P2b #63): "a mere semblance is not a real thing"
+
+**Notes on internal distinctions:** *Vastu* and *vāstava* are closely related, with *vastu* being the noun (the real thing) and *vāstava* the adjective (pertaining to the real thing). *Yathārtha* emphasizes the correspondence relation between a description and its object, while *vastu*/*vāstava* emphasize the ontological status of the object itself. *Tathya* overlaps with this group but is more restricted to factual accuracy in testimony and narrative.
+
+---
+
+## Group 5: Terms used to evaluate the ontological status of things as real or unreal
+
+**Label:** Being-status terms in metaphysical and cosmological argument
+
+**Definition:** These terms are used to assess whether something genuinely exists or has genuine being, as opposed to being unreal, illusory, or of indeterminate ontological status. They appear in Vedāntic, Sāṃkhya, and Vaiśeṣika philosophical argument about the nature of reality, in cosmological discussions of what exists before and after creation, and in debates about causation. The evaluative dimension here is ontological rather than epistemic or moral.
+
+**Representative expressions:**
+
+- सत् / *sat* (#7 / P1, item 6): genuine being, what truly exists; the positive ontological pole; in Vedāntic contexts, marks what truly exists as opposed to what merely appears; in compounds such as *sat-puruṣa* ("a genuine/good man"), *sat-karman* ("right action"), marks authenticity and moral worth; *sadeva somyedam agra āsīt*
+- असत् / *asat* (#8 / P1, item 7): non-being, what lacks genuine existence; the negative ontological pole; marks inauthenticity, spuriousness, or moral unworthiness in evaluative contexts; used in ontological debates
+- सत्ता / *sattā* (P2a, Item 7 / P2a #42): the abstract property of existence or being; used in Nyāya-Vaiśeṣika ontology
+- सत्त्व / *sattva* (P2a, Item 7 / P2a #41): the quality of genuine being; also one of the three *guṇas* in Sāṃkhya; being-ness; also the Sāṃkhya *guṇa* associated with clarity
+- मिथ्या / *mithyā* (#10 / #26): in Advaita Vedānta, neither absolutely real nor absolutely unreal; a third ontological category; used both for simple falsity and, in Advaita Vedānta, for the specific status of being neither absolutely real nor absolutely unreal; *mithyā pratibhāti* ("appears falsely")
+- मिथ्यात्व / *mithyātva* (P2a, Item 10 / P2a #89): the abstract property of being *mithyā*; the ontological status of being neither real nor unreal; central Advaita term
+- मिथ्या न सत् न असत् / *mithyā na sat na asat* (P2b, Item 10): "mithyā is neither real nor unreal" — the fixed Advaita formula
+- नासतो विद्यते भावः / *nāsato vidyate bhāvaḥ* (P2b, Item 7): "of non-being there is no existence" — from Bhagavadgītā 2.16
+- नाभावो विद्यते सतः / *nābhāvo vidyate sataḥ* (P2b, Item 7): "of being there is no non-existence" — the paired statement
+- सदेव सोम्येदमग्र आसीत् / *sad eva somyedam agra āsīt* (P2b, Item 7 / P2b #31): "in the beginning this was being alone" — Chāndogya Upaniṣad
+- सतः न असतः जायते / *sataḥ na asataḥ jāyate* (P2b, Item 7): "from being, not from non-being, is it produced"
+- असतो मा सद्गमय / *asato mā sad gamaya* (P2b #33/34): "lead me from the unreal to the real"; Bṛhadāraṇyaka Upaniṣad prayer
+- असत् न विद्यते / *asat na vidyate* (P2b #35): "the unreal does not exist"; Bhagavad Gītā formula
+- सत्कार्यवाद / *satkāryavāda* (P1b Root 1, item 25 / P1b Root 1, #30): the doctrine that the effect is real in the cause; the doctrine that effects pre-exist in causes
+- असत्कार्यवाद / *asatkāryavāda* (P1b Root 1, item 26 / P2a #46): the opposing doctrine; the doctrine that effects are genuinely new
+- सदसत् / *sad-asat* (P1b Root 1, #25): being and non-being; the pair used in Vedāntic discussions of ultimate reality
+- मिथ्येति निश्चितम् / *mithyeti niścitam* (P2b, Item 10 / P2b #67): "it is determined that this is false" / "it is determined to be *mithyā*" — the formula for asserting a settled philosophical conclusion
+- प्रतिभास / *pratibhāsa* (#21): mere appearance; how something seems as opposed to what it is
+- प्रतिभासिक / *pratibhāsika* (P2a #72): pertaining to mere appearance; a level of reality in Advaita Vedānta; the level of mere appearance in Advaita ontology
+- प्रतिभासमात्रम् इदम् / *pratibhāsamātram idam* (P2b #55): "this is mere appearance"
+- तत्त्व / *tattva* (#29 / #16): the true or essential nature of something; what it fundamentally is; used in philosophical inquiry (*jijñāsā*) contexts
+- तत्त्वतः / *tattvataḥ* (P2a #56): "in truth, according to the real nature"; adverb
+- तत्त्वज्ञान / *tattva-jñāna* (P2a #57): knowledge of the real nature; metaphysical knowledge
+- तत्त्वदर्शिन् / *tattva-darśin* (P2a #58): "one who sees the truth"; one who has direct insight
+- तत्त्वदर्शनेन मोक्षः / *tattva-darśanena mokṣaḥ* (P2b #45): "liberation through the vision of reality"
+
+**Notes on internal distinctions:** The *sat/asat* pair is the primary binary. *Mithyā* introduces a third category specific to Advaita Vedānta that disrupts the binary. *Sattā* and *sattva* are abstract nominals from the same root but used in different philosophical contexts (*sattā* in Vaiśeṣika ontology, *sattva* in Sāṃkhya). The causation debate (*satkāryavāda/asatkāryavāda*) is a specific application of the *sat/asat* distinction to the problem of the ontological status of effects. *Pratibhāsa* and *pratibhāsika* mark the level of mere appearance in Advaita ontology.
+
+---
+
+## Group 6: Terms used to distinguish levels or kinds of reality
+
+**Label:** Reality-level distinguishers
+
+**Definition:** These terms are used to mark a distinction between different levels or kinds of reality — typically between what is ultimately or genuinely real and what is merely apparent, conventional, or phenomenally present. They appear in Buddhist two-truths discourse, Advaita Vedānta, and related philosophical contexts where the central question is not whether a statement is true

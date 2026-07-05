@@ -1,0 +1,108 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | NP + ADJ-i (copula optional, enclitic -ia); NP + ADJ-i + aris (full copula, formal/emphatic) | *es ambavi martalia* ("This story is true"); *es dokumenti namdvilia* ("This document is genuine") | Direct mapping; no substitution required | None |
+| **ADNOM** | ADJ-i + NOUN (prenominal, adjective invariant for case) | *q̇albi dokumenti* ("a forged document"); *namdvili megobari* ("a genuine friend") | Direct mapping; no substitution required | None |
+| **BECOME** | No dedicated inchoative construction attested | — | **SUBSTITUTED BY REVELATION** (gamodga; q̇opila) | Conceptual gap: a transition-into-state reading is not a natural category in this domain per P4a |
+| **REVELATION** | NP + ADJ-i + gamodga (resultative/discovery); NP + ADJ-i + q̇opila (evidential/retrospective) | *es ambavi q̇albi gamodga* ("This story turned out to be false"); *q̇albi q̇opila* ("It was fake all along / it turns out it was fake") | Serves as the primary functional equivalent for BECOME; also covers REVELATION as an independent operator | None for REVELATION itself; BECOME is absorbed here |
+| **CAUSATION (factual)** | šecodomashi šeiq̇vana (periphrastic: "led into error/mistake") | *šecodomashi šeiq̇vana* ("He/she misled someone / led someone into error") | Periphrastic; light verb šeq̇vana carries the causative operator; the nominal šecdomashi carries the semantic content | No structural gap; **lexical gap**: no single-word causative verb applying across truth-domain adjectives |
+| **CAUSATION (character)** | No construction attested that specifically targets causing someone to be perceived as or become a truth-/falsity-type agent | — | **NO COMMON EXPRESSION — circumlocution required** | Lexical gap; the agentive nominalization inventory (Construction 7) provides role nouns but no causative frame built on them is attested |
+| **VERIFICATION** | No dedicated VERIFICATION construction attested in P4a/P4b | — | **MISSING (structural gap)** | Structural gap: no construction expressing "confirm/establish that X is true" is attested |
+| **DISCONFIRMATION** | No dedicated DISCONFIRMATION construction attested in P4a/P4b | — | **MISSING (structural gap)** | Structural gap: no construction expressing "establish/demonstrate that X is false" is attested; note that REVELATION (gamodga, q̇opila) covers the discovery of falsity but not an agent-driven act of disconfirming |
+| **NEGATION** | NP + ara-ADJ-i (morphological prefix negation); NP + ADJ-i + ar aris (analytic/syntactic negation) | *es inpormacia arasandoa* ("This information is unreliable"); *es ambavi martali ar aris* ("This story is not true") | Both strategies are attested and largely interchangeable; ara- carries a more categorical sense; ar aris is the general strategy | None; both analytic and morphological negation are available |
+| **NOMINALIZATION** | si-ROOT-e (situational/concrete); ADJ + -oba (stable abstract property); ROOT + -eba (elevated register) | *simartle* ("truth"); *namdviloba* ("genuineness"); *č̣ešmariteba* ("truth," elevated) | Direct mapping across three sub-patterns; -eba forms are register-restricted but attested | None for the category overall; -eba is marked [MARGINAL] in P4b due to register restriction |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### BECOME → REVELATION (systematic substitution)
+
+The most structurally significant substitution in Georgian truth-domain constructions is the systematic replacement of BECOME by REVELATION. P4a explicitly states that "a true inchoative ('become true') is not a natural category in Georgian truth-domain expression." Where other languages might use a dedicated inchoative or a copular change-of-state construction, Georgian uses two distinct REVELATION constructions:
+
+- **gamodga** (resultative/discovery): expresses that a property has been found to hold, framing the event as a resultative discovery. The semantic focus is on the outcome of a process of coming to light.
+- **q̇opila** (evidential/retrospective): expresses that the speaker has inferred or belatedly recognized a state, with an additional evidential commitment marking non-witnessing and often surprise or disillusionment.
+
+These two constructions are not fully interchangeable with each other: gamodga marks resultative discovery without evidential commitment; q̇opila marks speaker non-witnessing and inference. However, both substitute for BECOME in the sense that neither expresses a transition into a state — they express the recognition or discovery of a state that is treated as already obtaining. The BECOME slot is therefore not merely lexically empty but appears to reflect a conceptual organization in which the truth domain is structured around discovery rather than transition.
+
+### Asymmetry: REVELATION is strongly associated with falsity
+
+Both gamodga and q̇opila are described in P4a/P4b as "extremely common in the truth domain," but the paradigmatic examples in both constructions involve the discovery of falsity or inauthenticity (*q̇albi gamodga*, *q̇albi q̇opila*, *pirmoṭne q̇opila*). P4b explicitly notes that "the discovery of falsity or inauthenticity is a paradigmatic context for evidential marking in Georgian." This suggests an asymmetry: REVELATION constructions are more naturally associated with the discovery that something is false, fake, or deceptive than with the discovery that something is true. No parallel examples of *martali gamodga* ("turned out to be true") or *namdvili q̇opila* ("turned out to be genuine") are provided in P4a/P4b, though the constructions are not described as grammatically blocked in those directions.
+
+### NEGATION: analytic and morphological strategies coexist
+
+Georgian supports both morphological negation (ara- prefix on the adjective) and analytic negation (ar aris with the copula). P4b describes these as "largely interchangeable in everyday speech," with the qualification that ara- forms carry "a slightly more categorical or permanent sense." The ara- strategy is described as productive but "not universal across all truth-domain adjectives," while ar aris applies without restriction. This means NEGATION is available through two distinct mechanisms with partially overlapping but not identical pragmatic distributions. Neither strategy is marginal; both are marked [CORE] in P4b.
+
+### CAUSATION (factual): periphrastic, light-verb construction
+
+The CAUSATION (factual) operator is expressed periphrastically via šecodomashi šeq̇vana ("leading into error/mistake"). In this construction, the light verb šeq̇vana ("to lead/bring") carries the causative operator, while the nominal šecdomashi ("into mistake/error") carries the semantic content of the caused state. This is not a morphological causative built on a truth-domain adjective root; P4a explicitly states that "no productive causative suffix applies across truth-domain adjectives." The construction is therefore syntactically a verb phrase with a nominal complement, not a derived causative verb. The root-specific form gaq̇albeba ("falsification") is also attested, but it is a verbal noun (nominalization of a causative act) rather than a finite causative construction, and it does not generalize beyond the q̇alb- root.
+
+### CAUSATION (character): no attested construction
+
+No construction is attested in P4a/P4b that expresses causing someone to be or become a truth-/falsity-type agent (e.g., "make someone a liar," "make someone honest"). The agentive nominalization inventory provides role nouns (tvaltmaq̇ci, pirmoṭne, cru moq̇me), but no causative frame built on these nouns is attested. This is treated as a lexical gap rather than a structural gap, since the periphrastic resources of the language could in principle support such expressions, but no attested form is reported.
+
+### VERIFICATION and DISCONFIRMATION: both absent
+
+Neither VERIFICATION (an agent-driven act of confirming that something is true) nor DISCONFIRMATION (an agent-driven act of establishing that something is false) is attested as a construction in P4a/P4b. The REVELATION constructions (gamodga, q̇opila) cover the discovery of falsity from the perspective of the discoverer, but they do not encode an agent who actively investigates and establishes a truth value. This is a structural gap: the constructions that exist in the truth domain are oriented toward the state of the proposition (attribution, negation) or the speaker's epistemic relationship to it (evidential/retrospective discovery), not toward an agent's act of verification or disconfirmation.
+
+### VERIFICATION and DISCONFIRMATION: shared gap
+
+Since neither is attested, the question of whether they share a construction does not arise. They are symmetrically absent.
+
+### Formulaic Candor Introduction: discourse-level operator not mapped to CLCA categories
+
+The Formulaic Candor Introduction construction (Construction 9 in P4a/P4b) — *simartle rom vtq̇va* ("to tell the truth") and *gulc̣rpelaد geubnebi* ("I'm telling you sincerely") — does not map onto any of the ten CLCA operators listed. It is a discourse-level framing device that signals speaker sincerity. It is noted here for completeness but is not assigned to any CLCA operator category, as none of the listed categories covers discourse-level sincerity marking.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+*(The construction type is absent; the language has no grammatical frame for the meaning)*
+
+- **BECOME**: No inchoative construction expressing a transition into a truth/falsity state is attested. P4a explicitly identifies this as a conceptual organization issue, not merely a lexical one: the category is described as "not a natural category in Georgian truth-domain expression." The gap is therefore both structural and conceptual.
+- **VERIFICATION**: No construction expressing an agent's act of confirming or establishing that something is true is attested in P4a/P4b.
+- **DISCONFIRMATION**: No construction expressing an agent's act of establishing or demonstrating that something is false is attested in P4a/P4b.
+
+### Lexical Gaps
+*(The construction type exists or could exist, but specific lexical items are missing)*
+
+- **CAUSATION (factual)**: The periphrastic construction exists and is [CORE], but no single morphological causative verb applying across truth-domain adjectives is attested. The gap is in the lexical inventory, not in the constructional frame.
+- **CAUSATION (character)**: No attested causative construction targeting truth-/falsity-type agents. The agentive nouns exist, but no causative frame built on them is reported.
+- **Agentive nominalization — "liar"**: P4b explicitly notes that "no common single-word equivalent for 'liar'" is attested as a lexicalized item. The verbal form *cruobs* ("he/she lies") is available, but no agentive noun parallel to English "liar" is in common use.
+- **Agentive nominalization — "truth-teller"**: P4b explicitly notes that "the concept 'truth-teller' has no common single-word expression."
+
+### Conceptual Gaps
+*(The meaning appears to be organized differently in this language, not merely missing a form)*
+
+- **BECOME**: As noted above, P4a states that a true inchoative in the truth domain "is not a natural category in Georgian truth-domain expression." The language organizes this semantic space around discovery and retrospective recognition (REVELATION) rather than transition into a state. This is not simply a missing word or construction but a different conceptual organization of the domain.
+
+### Asymmetric Gaps
+*(One polarity — positive or negative, truth or falsity — is better represented than the other)*
+
+- **REVELATION — falsity bias**: The REVELATION constructions (gamodga, q̇opila) are described and exemplified primarily in the context of discovering falsity, inauthenticity, or deception. P4b explicitly identifies "the discovery of falsity or inauthenticity" as "a paradigmatic context for evidential marking in Georgian." No examples of REVELATION applied to the discovery of truth or genuineness are provided in P4a/P4b. The construction is not described as grammatically blocked for positive truth values, but the attested data shows a falsity-oriented asymmetry.
+- **NEGATION — ara- productivity**: The morphological negation prefix ara- is described as productive but "not universal across all truth-domain adjectives," while analytic negation (ar aris) applies without restriction. This creates a partial asymmetry within the NEGATION operator: morphological negation is available for some adjectives but not all, while analytic negation is universally available.
+- **NOMINALIZATION — register asymmetry**: The -eba nominalization pattern (č̣ešmariteba, sarc̣munoeba) is attested but marked [MARGINAL] in P4b due to register restriction (elevated register only). The si-...-e and -oba patterns are [CORE]. This is an asymmetry within the NOMINALIZATION operator by register, not by truth/falsity polarity.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Two sub-variants: enclitic -ia (informal/standard) and full copula aris (formal/emphatic); both [CORE] |
+| **ADNOM** | Fully available | Single pattern (prenominal, adjective invariant); applies without exception across all truth-domain adjectives; [CORE] |
+| **NEGATION** | Fully available | Two strategies: morphological (ara- prefix, [CORE], not universal across all adjectives) and analytic (ar aris, [CORE], universal); both attested and largely interchangeable |
+| **NOMINALIZATION** | Fully available | Three sub-patterns: si-...-e ([CORE]), -oba ([CORE]), -eba ([MARGINAL], register-restricted); the category as a whole is fully available |
+| **REVELATION** | Fully available | Two sub-constructions: gamodga (resultative/discovery, [CORE]) and q̇opila (evidential/retrospective, [CORE]); grammatically and pragmatically distinct from each other; also serves as the substitution for BECOME |
+| **BECOME** | Available with substitution | **SUBSTITUTED BY REVELATION** (gamodga, q̇opila); the substitution is systematic and P4a identifies the inchoative as "not a natural category" in this domain; the gap has a conceptual dimension |
+| **CAUSATION (factual)** | Partially available | Periphrastic construction (šecodomashi šeq̇vana) is [CORE] and covers the core meaning; root-specific verbal noun (gaq̇albeba) is also [CORE] but does not generalize; no morphological causative across truth-domain adjectives |
+| **CAUSATION (character)** | Missing entirely | **NO COMMON EXPRESSION — circumlocution required**; agentive nouns exist but no causative frame built on them is attested |
+| **VERIFICATION** | Missing entirely | **MISSING (structural gap)**; no construction attested in P4a/P4b |
+| **DISCONFIRMATION** | Missing entirely | **MISSING (structural gap)**; no construction attested in P4a/P4b; REVELATION covers discovery of falsity from the discoverer's perspective but not agent-driven disconfirmation |

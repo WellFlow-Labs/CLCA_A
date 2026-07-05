@@ -1,0 +1,417 @@
+## Global constraint matrix
+
+| Semantic Dimension | Simple attribution (“X is true/correct/real/valid”) | Negative attribution (“X is not true/invalid/fake”) | Adnominal modification (“true story”, “fake document”) | Truth/fact as object of verb (“tell/reveal/check truth”) | Verification / checking / confirmation | Revelation / exposure (“truth came out”) | Become / inchoative status change | Causative / induced result | Appearance vs reality framing (“looks real / turns out fake”) | Abstract nominalization / quality noun |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Factual truth of statements/claims** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **BLOCKED** | **VARIABLE** | **ALLOWED** |
+| **Falsehood / non-truth / lying** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **VARIABLE** | **ALLOWED** |
+| **Genuineness / authenticity / “real thing”** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **BLOCKED** | **BLOCKED** | **ALLOWED** | **ALLOWED** |
+| **Fake / forged / counterfeit** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **ALLOWED** | **ALLOWED** |
+| **Correctness / rightness / properness** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Error / wrongness / incorrectness** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Precision / exactness / accuracy of detail** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **VARIABLE** | **VARIABLE** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Conformity / correspondence / matching to facts, rules, source** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **ALLOWED** |
+| **Reliability / trustworthiness / dependability** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **INSUFFICIENT DATA** | **BLOCKED** | **BLOCKED** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Credibility / plausibility / convincingness** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **VARIABLE** | **INSUFFICIENT DATA** | **VARIABLE** | **ALLOWED** | **ALLOWED** | **ALLOWED** |
+| **Formal validity / legal-procedural standing** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **ALLOWED** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Justification / legitimacy / fairness / being in the right** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **INSUFFICIENT DATA** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **ALLOWED** |
+| **Essence / underlying nature / true identity** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **INSUFFICIENT DATA** | **ALLOWED** | **VARIABLE** | **BLOCKED** | **ALLOWED** | **ALLOWED** |
+| **Resemblance / similarity / likeness** | **ALLOWED** | **ALLOWED** | **ALLOWED** | **VARIABLE** | **VARIABLE** | **INSUFFICIENT DATA** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **ALLOWED** |
+| **Faithfulness to original / source / model** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **VARIABLE** | **ALLOWED** | **INSUFFICIENT DATA** | **VARIABLE** | **VARIABLE** | **ALLOWED** | **VARIABLE** |
+
+---
+
+## Narrative analysis
+
+### 1. Strongly recurrent constraints
+
+The strongest cross-language regularities are the following.
+
+#### A. Core evaluative states are widely allowed in simple attribution
+Across the languages, the following dimensions are very broadly attested in simple predication:
+- factual truth
+- falsehood/non-truth
+- genuineness/authenticity
+- correctness
+- error/incorrectness
+- formal validity
+- reliability
+- credibility
+- justification/legitimacy
+- essence/underlying nature
+- resemblance
+
+This is one of the clearest global patterns. Languages differ in lexical partitioning, but they repeatedly allow “X is true / false / real / fake / correct / valid / reliable / justified / essential / similar.”
+
+#### B. Negative attribution is broadly available
+Analytic negation or equivalent negative predication is strongly recurrent across languages. This is especially robust for:
+- truth/non-truth
+- correctness/incorrectness
+- validity/invalidity
+- authenticity/non-authenticity
+- reliability/unreliability
+
+A repeated pattern in the data is that languages often prefer:
+- a positive predicate plus negation,
+- or a lexical negative counterpart,
+- or both.
+
+So “not true,” “not correct,” “not valid,” “not genuine,” “not reliable” are broadly allowed.
+
+#### C. Adnominal modification is one of the most stable realization types
+Many dimensions are strongly realized as noun modifiers:
+- true story
+- accurate information
+- fake document
+- reliable source
+- valid contract
+- genuine product
+- false accusation
+- proper attitude
+- original work
+
+This is one of the most cross-linguistically stable functions in the dataset.
+
+#### D. Truth/fact as object of a verb is a major recurrent pattern
+A very strong cross-language pattern is not just “X is true,” but:
+- tell the truth
+- reveal the truth
+- hide the truth
+- seek the truth
+- know the truth
+- check the facts
+- distort the truth
+
+This is strongly supported in Georgian, Yoruba, Finnish, Basque, Tamil, Indonesian, Turkish, and Korean. It is one of the clearest shared constructional tendencies.
+
+#### E. Verification/checking is broadly allowed
+Another very strong recurrent function is procedural checking:
+- establish truth
+- verify facts
+- check authenticity
+- test validity
+- confirm information
+- compare with source
+- verify accuracy
+
+This is especially strong for:
+- factual truth
+- authenticity
+- correctness
+- precision
+- conformity
+- formal validity
+
+This function is often more robust than direct change-of-state expressions.
+
+#### F. Revelation/exposure is strongly favored for truth dynamics
+A major cross-language regularity is that languages often encode truth dynamically as:
+- being revealed,
+- coming out,
+- being brought to light,
+- being exposed,
+- turning out to be false,
+rather than as simply “becoming true.”
+
+This is strongly supported across Georgian, Finnish, Basque, Tamil, Indonesian, Turkish, Korean, and partly Yoruba.
+
+#### G. Abstract nominalization is broadly allowed
+Most dimensions have strong support for abstract quality nouns:
+- truth
+- falsity
+- authenticity
+- correctness
+- accuracy
+- reliability
+- validity
+- legitimacy
+- sincerity
+- essence
+- similarity
+
+This is one of the most stable morphological/lexical patterns across the dataset.
+
+---
+
+### 2. Likely prohibitions or avoidance patterns
+
+#### A. General “make X true” is broadly blocked
+This is one of the clearest global constraints in the data.
+
+Across multiple languages, there is no strong, broad, ordinary construction meaning:
+- “make a proposition true”
+- “cause something to become true”
+
+Instead, languages repeatedly substitute:
+- verify
+- confirm
+- reveal
+- establish
+- justify
+- validate
+- correct
+
+This blocking is especially explicit in:
+- Georgian
+- Yoruba
+- Basque
+- Tamil
+- Korean
+
+and effectively also in:
+- Indonesian
+- Turkish
+- Finnish
+
+So the matrix marks **factual truth × causative** as **BLOCKED**.
+
+#### B. “Become true” is not broadly general, only variable
+A general inchoative “become true” is not uniformly supported. Some languages have strong or semi-strong patterns:
+- Finnish
+- Indonesian
+- Turkish
+- some Tamil contexts
+
+But several others explicitly resist or replace it:
+- Georgian
+- Yoruba
+- Basque
+- Korean
+
+So **factual truth × become/inchoative** is best treated as **VARIABLE**, not allowed globally.
+
+#### C. “Become genuine/authentic” is broadly resisted
+For authenticity, the data repeatedly shows that languages prefer:
+- checking authenticity,
+- confirming genuineness,
+- determining whether something is genuine,
+rather than saying it “became genuine.”
+
+This is especially clear in:
+- Georgian
+- Yoruba
+- Basque
+- Tamil
+- Indonesian
+- Korean
+
+So **genuineness/authenticity × become/inchoative** is best treated as **BLOCKED**.
+
+#### D. “Make genuine/authentic” is also broadly resisted
+The same pattern holds for causation:
+languages often have strong verbs for:
+- falsify,
+- forge,
+- counterfeit,
+- invalidate,
+but not equally strong ordinary verbs for:
+- make genuine,
+- make authentic.
+
+So **genuineness/authenticity × causative** is also **BLOCKED**.
+
+#### E. Reliability resists direct inchoative and causative patterns
+The data repeatedly suggests that reliability is usually handled through:
+- being trustworthy,
+- gaining trust,
+- being considered reliable,
+- securing reliability,
+rather than:
+- becoming reliable in a simple lexicalized way,
+- making something reliable via a direct truth-domain causative.
+
+This is especially clear in Indonesian, Turkish, Korean, and partly Tamil and Yoruba.
+
+So:
+- **reliability × become/inchoative** = **BLOCKED**
+- **reliability × causative** = **BLOCKED**
+
+This is one of the clearer domain-specific restrictions.
+
+#### F. Essence strongly resists direct causative treatment
+Essence/underlying nature is widely expressed as:
+- being essential,
+- revealing the essence,
+- understanding the essence,
+- obscuring the essence,
+but not as:
+- making something essence,
+- making something truly essential in a regular truth-domain causative pattern.
+
+So **essence × causative** is best treated as **BLOCKED**.
+
+---
+
+### 3. Important divergences, substitutions, and asymmetries
+
+#### A. Revelation often substitutes for inchoative truth
+A major divergence across languages is that some languages allow “become true” more readily, but many prefer:
+- truth came out,
+- truth was established,
+- facts were confirmed,
+- falsity was revealed.
+
+This substitution is especially strong in:
+- Georgian
+- Yoruba
+- Basque
+- Tamil
+- Korean
+
+and still important in:
+- Indonesian
+- Turkish
+- Finnish
+
+#### B. Institutional status change is easier than truth-state change
+A striking asymmetry is that many languages more readily allow:
+- become invalid
+- be declared valid
+- be recognized as valid
+- invalidate
+than:
+- become true
+- make true
+
+This is especially strong in:
+- Indonesian
+- Turkish
+- Korean
+- Finnish
+
+So formal validity behaves more naturally with inchoative and causative constructions than factual truth does.
+
+#### C. Negative-side dynamics are often richer than positive-side dynamics
+Many languages have strong lexical or constructional resources for:
+- falsify
+- forge
+- invalidate
+- expose as false
+- prove fake
+
+But weaker or absent parallel resources for:
+- make true
+- make genuine
+- make reliable
+
+This asymmetry is especially visible in:
+- Indonesian
+- Korean
+- Tamil
+- Finnish
+- Georgian
+
+#### D. Appearance-vs-reality is strong but unevenly lexicalized
+This dimension is clearly present across several languages, but not always as a dedicated lexical opposition.
+It is especially explicit in:
+- Korean
+- Indonesian
+- Turkish
+- Basque
+- Tamil
+
+Elsewhere it is more distributed across:
+- authenticity vocabulary,
+- revelation constructions,
+- resemblance constructions.
+
+So many cells involving appearance-vs-reality are **VARIABLE** rather than uniformly allowed.
+
+#### E. Credibility is less stable cross-linguistically than reliability
+Some languages clearly distinguish:
+- reliable / trustworthy
+from
+- believable / convincing / plausible
+
+This is strong in:
+- Georgian
+- Finnish
+- Basque
+- Turkish
+
+But less sharply separated in:
+- Tamil
+- Indonesian
+- Korean
+- Yoruba
+
+So credibility-related cells are often **VARIABLE** or weaker than reliability-related ones.
+
+#### F. Some dimensions are split in some languages and merged in others
+This matters for matrix interpretation.
+
+- **Truth vs correctness**:
+  - strongly merged in Yoruba
+  - partly merged in Georgian, Turkish, Indonesian, Korean
+  - more clearly split in Finnish and Indonesian formal vocabulary
+
+- **Truth vs authenticity**:
+  - partly merged in Basque, Tamil, Turkish, Yoruba
+  - more clearly split in Finnish, Georgian, Korean formal vocabulary
+
+- **Correctness vs moral rightness**:
+  - often merged in Yoruba, Tamil, Turkish, Korean
+  - more lexically differentiated in Finnish and Indonesian
+
+- **Validity vs legitimacy/justification**:
+  - clearly split in Indonesian, Turkish, Korean, Finnish
+  - less sharply separated elsewhere
+
+So some matrix cells reflect dimensions that are only partially recoverable as separate in some languages.
+
+---
+
+## Brief confidence assessment
+
+### Strong evidence
+Evidence is strongest for:
+- simple attribution
+- negative attribution
+- adnominal modification
+- truth/fact as object of verb
+- verification/checking
+- revelation/exposure
+- abstract nominalization
+
+And for the following dimensions:
+- factual truth
+- falsehood
+- authenticity/genuineness
+- fake/forged
+- correctness
+- formal validity
+- reliability
+- essence
+
+These are repeatedly supported across many languages and multiple construction types.
+
+### Moderate evidence
+Evidence is moderate for:
+- precision/exactness as distinct from correctness in all languages
+- credibility/plausibility as distinct from reliability
+- conformity/correspondence as a unified dimension rather than several neighboring ones
+- justification/legitimacy/fairness as one cross-language dimension
+- faithfulness to original/source as a separate dimension
+- appearance-vs-reality as a stable constructional function across all languages
+
+These are clearly present, but less evenly distributed or more language-specific.
+
+### Weak or missing evidence
+Evidence is weak or missing for:
+- a broad general causative “make true”
+- a broad general inchoative “become true”
+- productive “become genuine/authentic”
+- productive “make genuine/authentic”
+- productive “make reliable”
+- some appearance-vs-reality pairings outside a few languages
+- some causative patterns for essence, resemblance, and sincerity domains
+
+These are the areas where the matrix most often shows **BLOCKED**, **VARIABLE**, or **INSUFFICIENT DATA**.
+
+---
+
+## Final note
+The clearest global pattern is not that languages freely map all truth-related meanings onto all construction types. Rather, the data strongly suggests a constrained system in which:
+- **state attribution** is broadly available,
+- **checking/verification** is broadly available,
+- **revelation/exposure** is broadly available,
+- but **direct truth-causation** and often **direct truth-inchoation** are broadly disfavored or replaced by other strategies.

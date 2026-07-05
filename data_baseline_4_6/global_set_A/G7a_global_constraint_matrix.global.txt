@@ -1,0 +1,195 @@
+# G7a — Data-Derived Global Constraint Matrix
+
+---
+
+## Preliminary Notes on Scope and Method
+
+The dimensions and constructional functions below are drawn directly from the G3 and G5 summaries, which themselves derive from the F-phase tables. Dimension labels follow G3 conventions (A through P). Constructional function labels follow G5 conventions (Functions 1–25). Where a dimension or function was only partially recoverable in the data, this is noted explicitly. The matrix cells report cross-language evidence patterns; they do not report theoretical predictions.
+
+Evidence ratings:
+- **ALLOWED** — attested as natural or productive in 5 or more of the 8 languages
+- **VARIABLE** — attested in 2–4 languages, or attested but with notable restrictions, asymmetries, or substitutions
+- **BLOCKED** — consistently absent, unnatural, or explicitly marked as a gap in 5 or more languages
+- **INSUFFICIENT DATA** — fewer than 2 languages provide usable evidence for this cell
+
+---
+
+## Dimension Inventory (from G3)
+
+| Code | Dimension Label |
+|------|----------------|
+| A | Propositional Correspondence (statement matches facts) |
+| B | Moral Honesty / Integrity of Character |
+| C | Ontological Reality / Actuality |
+| D | Material Authenticity / Genuineness of Objects |
+| E | Factual Correctness / Error in Statements or Actions |
+| F | Reliability / Trustworthiness of Sources |
+| G | Verification / Authentication Processes |
+| H | Revelation / Concealment of Truth |
+| I | Epistemic Certainty / Doubt |
+| J | Moral Righteousness / Justice |
+| K | Legal / Formal Validity |
+| L | Precision / Exactness |
+| M | Sincerity / Authenticity of Expression |
+| N | Plausibility / Surface Appearance of Truth |
+| O | Actual vs. Nominal / Formal Status |
+| P | Consistency / Coherence |
+
+---
+
+## Constructional Function Inventory (from G5)
+
+| Code | Constructional Function |
+|------|------------------------|
+| CF1 | Predicative attribution (asserting truth-value of proposition or entity) |
+| CF2 | Predicative negation (denying truth-value) |
+| CF3 | Adnominal modification (truth-domain adjective modifying noun) |
+| CF4 | Change-of-state / inchoative (something becoming true, real, certain) |
+| CF5 | Causative (agent making something true, verified, or real) |
+| CF6 | Abstract nominalization (quality or state of being true/honest/correct) |
+| CF7 | Agentive nominalization: negative (person who lies/deceives habitually) |
+| CF7b | Agentive nominalization: positive (person who is truthful habitually) |
+| CF8 | Action/process nominalization (act of verifying, lying, deceiving) |
+| CF9 | Light verb: speech acts (telling truth, telling lies) |
+| CF10 | Light verb: truth-seeking and discovery |
+| CF11 | Light verb: verification and confirmation |
+| CF12a | Revelation constructions (truth coming to light) |
+| CF12b | Concealment constructions (truth being hidden) |
+| CF13 | Adverbial manner modification (doing something truthfully, honestly) |
+| CF14 | Emphatic affirmation and intensification |
+| CF15 | Interrogative constructions for truth-checking |
+| CF16 | Conditional constructions based on truth-value |
+| CF17 | Concessive constructions acknowledging truth |
+| CF18 | Discourse marker function (introducing frank or corrective statements) |
+| CF19 | Comparative and scalar constructions |
+| CF20 | Correspondence / matching constructions |
+| CF21 | Disjunctive / binary choice constructions (true or false) |
+| CF22 | Evidential and reportative constructions |
+| CF23 | Reflexive / self-directed constructions (self-deception) |
+| CF24 | Degree modification (very true, not quite correct) |
+| CF25 | Performative / oath constructions |
+
+---
+
+## Global Constraint Matrix
+
+| Dimension | CF1 Predicative attribution | CF2 Predicative negation | CF3 Adnominal modification | CF4 Inchoative / become | CF5 Causative | CF6 Abstract nominalization | CF7 Agentive: negative | CF7b Agentive: positive | CF8 Action nominalization | CF9 Light verb: speech acts | CF10 Light verb: seeking | CF11 Light verb: verification | CF12a Revelation | CF12b Concealment | CF13 Adverbial manner | CF14 Emphatic/intensification | CF15 Interrogative | CF16 Conditional | CF17 Concessive | CF18 Discourse marker | CF19 Comparative/scalar | CF20 Correspondence/matching | CF21 Disjunctive binary | CF22 Evidential/reportative | CF23 Reflexive/self-directed | CF24 Degree modification | CF25 Performative/oath |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **A Propositional Correspondence** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE |
+| **B Moral Honesty / Integrity** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **C Ontological Reality / Actuality** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | VARIABLE | VARIABLE | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **D Material Authenticity / Genuineness** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | INSUFFICIENT DATA | BLOCKED | INSUFFICIENT DATA |
+| **E Factual Correctness / Error** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **F Reliability / Trustworthiness** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **G Verification / Authentication** | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **H Revelation / Concealment** | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **I Epistemic Certainty / Doubt** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **J Moral Righteousness / Justice** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **K Legal / Formal Validity** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **L Precision / Exactness** | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA |
+| **M Sincerity / Authenticity of Expression** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA |
+| **N Plausibility / Surface Appearance** | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **O Actual vs. Nominal / Formal Status** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **P Consistency / Coherence** | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+
+---
+
+## Narrative Analysis
+
+### Strongly Recurrent Constraints (ALLOWED across most or all languages)
+
+**CF1 (Predicative attribution) and CF2 (Predicative negation) are ALLOWED for all dimensions with sufficient data.** Every dimension that has enough cross-language evidence supports predicative attribution and its negation. This is the most basic constructional function in the domain and shows no blocking across any dimension. The realization strategies differ (zero copula vs. overt copula, syntactic vs. morphological negation), but the function itself is universally available. This finding is robust: it holds across all 8 languages and all 16 dimensions.
+
+**CF3 (Adnominal modification) is ALLOWED for all dimensions with sufficient data.** Truth-domain adjectives modify nouns across all dimensions and all languages. The morphological strategies differ (Georgian case agreement, Yoruba N+ADJ order, Basque relational suffix, Tamil -āna suffix, etc.), but the function is universally available. No dimension blocks adnominal modification.
+
+**CF6 (Abstract nominalization) is ALLOWED for all core dimensions (A through M) and VARIABLE for peripheral dimensions (N, P).** All languages derive abstract nouns from truth-domain adjectives or verbs across the core dimensions. The suffixes differ entirely across languages, but the functional pattern is consistent. For Dimension N (Plausibility) and Dimension P (Consistency/Coherence), the evidence is more variable: some languages have dedicated abstract nominals (Finnish uskottavuus "believability," Turkish tutarlılık "consistency") while others do not.
+
+**CF8 (Action/process nominalization) is ALLOWED for dimensions A, B, C, E, G, H, I, J, K.** All languages derive action nominals from truth-domain verbs across these dimensions. The suffixes differ (Georgian -eba, Finnish -minen, Basque -tze/-pen, Tamil -ttal, Indonesian peN-...-an, Turkish -ma/-me, Korean compound nominals, Yoruba ì- prefix), but the functional pattern is consistent. For dimensions D, F, L, M, N, O, P, the evidence is more variable or insufficient.
+
+**CF9 (Light verb: speech acts) is ALLOWED for Dimension A (Propositional Correspondence).** All 8 languages express truth-telling and lying through light verb constructions combining a truth/falsehood noun with a speech verb. This is one of the most robust cross-linguistic patterns in the data. For other dimensions, the evidence is variable or insufficient: moral honesty (B) shows some light verb constructions (speaking honestly) but these are less central; other dimensions do not clearly generate speech act constructions.
+
+**CF12a (Revelation constructions) is ALLOWED for dimensions A, C, H.** All 8 languages show productive constructions for truth being revealed or coming to light. Both intransitive (truth reveals itself) and transitive (agent reveals truth) variants are attested in all languages. This pattern is particularly robust for Dimension A (propositional truth) and Dimension H (revelation/concealment as a process). For Dimension C (ontological reality), revelation constructions are also attested (things turning out to be real). For other dimensions, evidence is variable or insufficient.
+
+**CF13 (Adverbial manner modification) is ALLOWED for dimensions A, B, C, E, J, K, L, M, O.** All languages derive manner adverbials from truth-domain adjectives or nouns across these dimensions. The suffixes differ but the function is consistent. For dimensions D, F, G, H, I, N, P, the evidence is more variable.
+
+**CF18 (Discourse marker function) is ALLOWED for Dimension A.** All 8 languages show at least one truth-domain form grammaticalized into a discourse marker introducing corrections or frank statements. This grammaticalization is consistently derived from truth roots (not falsehood roots), creating a systematic asymmetry. For other dimensions, the evidence is variable or insufficient.
+
+**CF21 (Disjunctive binary choice) is ALLOWED for dimensions A and E.** All 8 languages show binary choice constructions (true or false, correct or not) for propositional correspondence and factual correctness. For other dimensions, the evidence is variable.
+
+---
+
+### Likely Prohibitions or Avoidance Patterns (BLOCKED)
+
+**CF5 (Causative: making X true) is BLOCKED for Dimension A (Propositional Correspondence).** This is the most consistent blocking pattern in the entire dataset. No language shows a productive construction meaning "to cause a proposition to acquire truth value." The F6 naturalness data explicitly marks this as unnatural or absent in Georgian, Basque, Finnish, Tamil, and Indonesian. The remaining languages (Yoruba, Indonesian, Turkish, Korean) show the same pattern through absence of attested forms. Basque explicitly blocks the morphological causative suffix -arazi on truth roots. All languages that have causative constructions in the truth domain use them for verification, realization/implementation, or confirmation—not for causing truth-value change. This blocking is the single most robust constraint in the data.
+
+**CF19 (Comparative/scalar constructions) is VARIABLE for Dimension A and BLOCKED for Dimension D.** Core truth terms resist gradable comparison across all 8 languages. Expressions like "more true," "very true," or "half true" are either unattested, marked as marginal, or expressed through constructions rather than productive morphological gradation. The F6 data for Finnish, Korean, and Basque explicitly notes this restriction. For Dimension D (Material Authenticity), the blocking is even stronger: no language shows gradable comparison of authenticity (something being "more genuine" or "less fake"). The rating for CF19 × Dimension A is VARIABLE rather than BLOCKED because some languages do show degree modification on truth terms (Yoruba tọ́ púpọ̀ "very correct," Indonesian benar sekali "very true"), but these are intensifiers rather than true gradable comparisons, and the pattern is inconsistent.
+
+**CF24 (Degree modification) is BLOCKED for Dimension D (Material Authenticity).** No language shows productive degree modification on authenticity terms (something being "very genuine" or "somewhat fake"). Authenticity is treated as binary across all 8 languages. For other dimensions, degree modification is VARIABLE: precision terms (Dimension L) show more gradability than core truth terms (Dimension A), and certainty terms (Dimension I) show scalar modification in several languages.
+
+**CF7b (Agentive nominalization: positive) is VARIABLE across all dimensions, with a strong asymmetric pattern.** While not strictly BLOCKED, the positive agentive (truth-teller) is consistently less lexicalized, less productive, or uses different morphological strategies than the negative agentive (liar) across all 8 languages. This asymmetry is documented in the G6 comparison and is one of the most consistent cross-linguistic findings. Where positive agentives exist (Yoruba olótítọ́, Basque egiazale, Tamil uṇmaiyāḷar), they use different morphological strategies than the liar agentive. The rating VARIABLE reflects that positive agentives are not entirely absent but are systematically weaker than their negative counterparts.
+
+---
+
+### Important Divergences, Substitutions, and Asymmetries
+
+**The inchoative (CF4) shows a consistent substitution pattern.** For Dimension A (Propositional Correspondence), the inchoative function ("becoming true") is consistently expressed through revelation constructions (CF12a) rather than through dedicated inchoative morphology or light verb constructions. Turkish and Finnish are partial exceptions: they have productive morphological inchoatives on truth roots (gerçekleşmek, toteutua), but these mean "to be realized/implemented" rather than "to acquire truth value." The substitution of revelation constructions for inchoative constructions on core truth terms is one of the most consistent cross-linguistic patterns in the data.
+
+**The discourse marker grammaticalization (CF18) is systematically asymmetric.** All 8 languages grammaticalize truth roots into discourse markers, but no language grammaticalizes falsehood roots into discourse markers. This asymmetry is consistent across all language families represented. The grammaticalization path is: truth root → adverbial form → discourse marker introducing corrections or frank statements. The falsehood root does not follow this path in any language.
+
+**The saturation/totality pattern is asymmetric.** Several languages show productive expressions for "full of lies" or "riddled with falsehood" (Korean geojittuseongi, Turkish yalan dolan, Basque gezur-gezurra, Georgian ṭq'uilubralo) but no language shows a corresponding expression for "full of truth." This asymmetry parallels the agentive asymmetry: deceptive behavior is marked as an excess, while truthful behavior is the unmarked default.
+
+**The privative "without lies" pattern is asymmetric.** Several languages show productive constructions for "without lies/falsehood" (Georgian uṭq'uari, Korean geojiseobsi, Tamil kaḷḷamillāmai, Finnish vilpitön) but no language shows a corresponding construction for "without truth." The absence of deception is marked; the absence of truth is not.
+
+**The light verb speech act construction (CF9) shows a morphological asymmetry in Turkish.** Turkish doğruyu söylemek "tell truth" takes accusative case on the truth noun, while yalan söylemek "tell lie" does not. This is a lexicalized morphological asymmetry within a single language that is not found in other languages. Korean shows a different asymmetry: truth-telling uses malhada "say" while lying uses hada "do," indicating different verb selection for the two speech acts.
+
+**Dimensions N (Plausibility) and P (Consistency/Coherence) are the least cross-linguistically elaborated.** Both dimensions show VARIABLE or INSUFFICIENT DATA ratings across most constructional functions. Dimension N is clearly lexicalized in Finnish, Basque, and Korean but expressed primarily through constructions in Yoruba and Tamil. Dimension P is clearly lexicalized in Turkish and Finnish but weakly attested in Georgian, Basque, Tamil, and Korean. These dimensions appear to be language-specific elaborations rather than universal semantic partitions in the truth domain.
+
+**The causative (CF5) shows a split pattern across dimensions.** For Dimension A (Propositional Correspondence), CF5 is BLOCKED. For Dimension C (Ontological Reality), CF5 is VARIABLE: Turkish gerçekleştirmek "to realize/implement" and Finnish toteuttaa "to implement" are productive causatives, but they mean "to make real/actual" in the sense of implementing plans, not "to cause something to exist." For Dimension G (Verification), CF5 is VARIABLE: several languages have causative verification verbs (Georgian daadast'ura, Finnish todentaa, Indonesian membenarkan), but these mean "to establish as true" rather than "to make true." The distinction between "establishing truth" and "causing truth" appears to be consistently maintained across languages.
+
+**Dimension H (Revelation/Concealment) shows a transitivity asymmetry.** In all 8 languages, both intransitive revelation (truth reveals itself) and transitive revelation (agent reveals truth) are attested. However, the intransitive construction is consistently preferred in narrative contexts, suggesting that truth emergence is conceptualized as a natural process rather than an agentive act. The concealment construction is consistently transitive (an agent hides truth), creating an asymmetry: truth reveals itself but must be hidden by an agent.
+
+**Dimensions B (Moral Honesty) and J (Moral Righteousness) show different elaboration patterns.** Dimension B is clearly lexicalized in all 8 languages with dedicated vocabulary for honesty and dishonesty. Dimension J is present in all 8 languages but shows substantially more variation in elaboration: Yoruba (òdodo family) and Georgian (samart'- family) show the most elaborate vocabulary, while Tamil, Indonesian, and Korean show this dimension with less dedicated vocabulary. The two dimensions are consistently distinct from each other: honesty concerns truthfulness in communication, while righteousness concerns conformity to moral law and fair treatment of others.
+
+---
+
+## Confidence Assessment
+
+### Strong Evidence (ALLOWED or BLOCKED ratings with high confidence)
+
+The following cells have strong cross-language support (5 or more languages with consistent evidence):
+
+- CF1, CF2, CF3 × all dimensions with sufficient data: ALLOWED — supported by all 8 languages
+- CF6 × dimensions A through M: ALLOWED — supported by all 8 languages
+- CF9 × Dimension A: ALLOWED — supported by all 8 languages
+- CF12a × dimensions A, H: ALLOWED — supported by all 8 languages
+- CF13 × dimensions A, B, E: ALLOWED — supported by all 8 languages
+- CF18 × Dimension A: ALLOWED — supported by all 8 languages (asymmetric: truth roots only)
+- CF21 × dimensions A, E: ALLOWED — supported by all 8 languages
+- CF5 × Dimension A: BLOCKED — supported by all 8 languages (universal gap)
+- CF24 × Dimension D: BLOCKED — supported by all 8 languages
+- CF7b asymmetry: VARIABLE with consistent asymmetric pattern — supported by all 8 languages
+
+### Moderate Evidence (VARIABLE ratings with consistent direction)
+
+The following cells have moderate support (3–4 languages with consistent evidence, or all languages with notable variation):
+
+- CF4 × Dimension A: VARIABLE — inchoative is consistently substituted by revelation constructions; Turkish and Finnish are partial exceptions
+- CF4 × Dimension C: ALLOWED — becoming real/actual is more natural than becoming true; supported by 5+ languages
+- CF19 × Dimension A: VARIABLE — degree modification is restricted but not entirely absent; Yoruba and Indonesian show some degree modification
+- CF5 × Dimension C: VARIABLE — causatives for realization/implementation exist in Turkish and Finnish; other languages use light verb constructions
+- CF5 × Dimension G: VARIABLE — causative verification verbs exist in several languages but mean "establish as true" not "make true"
+- CF12b × Dimension A: ALLOWED — concealment constructions are productive in all 8 languages
+- CF16 × Dimension A: ALLOWED — conditional constructions on truth predicates are productive in all 8 languages
+- CF22 × Dimension A: ALLOWED — evidential and reportative constructions are attested in all 8 languages
+
+### Weak Evidence (INSUFFICIENT DATA ratings)
+
+The following areas have insufficient cross-language evidence for reliable classification:
+
+- Most cells involving Dimension P (Consistency/Coherence): this dimension is only clearly lexicalized in Turkish and Finnish, making cross-language comparison unreliable
+- Most cells involving Dimension N (Plausibility) beyond CF1, CF2, CF3: the dimension is variably lexicalized and constructional evidence is sparse
+- CF23 (Reflexive/self-directed) across all dimensions: only Georgian shows a clearly morphological form; other languages use syntactic constructions, making cross-language comparison difficult
+- CF25 (Performative/oath) across most dimensions: only Tamil (sattiyam), Georgian, and Korean show clearly grammaticalized oath constructions in the truth domain
+- CF20 (Correspondence/matching) across most dimensions: only Georgian (obligatory dative case) and Finnish (fixed idiom pitää paikkansa) show clearly grammaticalized correspondence constructions
+- CF7b (Positive agentive) across all dimensions: the asymmetry is consistent but the positive agentive is so variably realized that individual cell ratings are unreliable
+- Most cells for Dimensions F, K, L, M, O beyond CF1, CF2, CF3, CF6: these dimensions are present in all languages but their constructional elaboration is variable and the F4 data does not consistently document all constructional functions for each dimension

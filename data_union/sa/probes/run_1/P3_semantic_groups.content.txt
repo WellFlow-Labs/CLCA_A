@@ -1,0 +1,306 @@
+# CLCA Protocol v3.2 — P3 NATURAL SEMANTIC GROUPING
+# Language: Sanskrit (sa)
+
+---
+
+## Preliminary Note on Method
+
+Groupings below are derived from patterns of co-occurrence, contrast, and contextual deployment observed across P1 and P2 documentation. Where terms are regularly contrasted with one another, appear in the same technical frameworks, or are used to evaluate the same kinds of objects, this is treated as evidence of grouping. Where a term appears in multiple distinct usage contexts, it is assigned to multiple groups or flagged as ambiguous. No attempt is made to produce a complete or symmetrical taxonomy. Items for which no clear grouping is supported by the data are listed at the end.
+
+---
+
+## Group 1: Terms used to evaluate whether a cognition correctly apprehends its object
+
+**Label:** Cognition-evaluating terms in epistemological argument
+
+**Definition:** These terms are used in Sanskrit philosophical literature — primarily Nyāya, Mīmāṃsā, and Buddhist epistemology — to assess whether a given cognitive episode accurately apprehends the object it is directed at. They appear in technical discussions of the structure of knowledge, the causes of error, and the distinction between reliable and unreliable cognitive episodes. They are regularly contrasted with one another as positive and negative poles of the same evaluative dimension.
+
+**Representative expressions:**
+
+- प्रमा / *pramā* (#5): the positive pole; a cognition that correctly apprehends its object as it is
+- अप्रमा / *apramā* (#6): the negative pole; a cognition that fails to apprehend its object correctly
+- यथार्थज्ञान / *yathārthajñāna* (P2a, Item 3): knowledge that is "as the object is"; used as a near-synonym of *pramā* but emphasizing the correspondence relation explicitly
+- भ्रम / *bhrama* (#17): erroneous cognition in which something is apprehended as other than it is; the canonical example is the rope-snake illusion
+- विपर्यय / *viparyaya* (#18): inverted or reversed cognition; used in Sāṃkhya-Yoga contexts for the same evaluative dimension
+- भ्रमज्ञान / *bhramajñāna* (P2a, Item 17): erroneous cognition as a compound expression
+- मिथ्याज्ञान / *mithyājñāna* (P2a, Item 10): false knowledge; used in Vedānta contexts for the same evaluative dimension
+- भ्रमो न प्रमा / *bhramo na pramā* (P2b, Item 17): "error is not valid cognition" — a fixed definitional contrast between the two poles
+- विपर्ययो न प्रमा / *viparyayo na pramā* (P2b, Item 18): the same contrast in Sāṃkhya-Yoga vocabulary
+
+**Notes on internal distinctions:** *Bhrama* and *viparyaya* are near-synonyms in function but belong to different school vocabularies; *bhrama* is the standard Nyāya term, *viparyaya* the standard Sāṃkhya-Yoga term. *Mithyājñāna* carries additional Advaita Vedānta connotations about the ontological status of the object, not only the accuracy of the cognition. *Apramā* is the most technically neutral negation.
+
+---
+
+## Group 2: Terms used to evaluate the means or source by which a cognition is produced
+
+**Label:** Source-evaluating terms in epistemological argument
+
+**Definition:** These terms are used to assess not the cognition itself but the means, source, or procedure by which it is produced. They appear in discussions of which cognitive sources are reliable, how reliability is established, and what disqualifies a source from being genuinely probative. The central term *pramāṇa* generates a large cluster of derived expressions that evaluate sources as genuine, spurious, absent, or contested.
+
+**Representative expressions:**
+
+- प्रमाण / *pramāṇa* (#4): the central term; a reliable means of arriving at valid cognition
+- प्रामाण्य / *prāmāṇya* (P2a, Item 4): the property of being a valid means of knowledge; the abstract quality at issue in debates about reliability
+- अप्रामाण्य / *aprāmāṇya* (P2a, Item 4): the property of failing to be a valid means of knowledge
+- स्वतःप्रामाण्य / *svataḥprāmāṇya* (P2a, Item 4): the Mīmāṃsā position that validity is established by the cognition itself
+- परतःप्रामाण्य / *parataḥprāmāṇya* (P2a, Item 4): the Nyāya position that validity must be established externally
+- प्रमाणाभास / *pramāṇābhāsa* (P2a, Item 4): something that appears to be a valid means of knowledge but is not
+- हेत्वाभास / *hetvābhāsa* (#16): a spurious logical reason that appears valid but fails to be probative; a specific subtype of the same evaluative dimension applied to inference
+- प्रमाणेन सिद्धम् / *pramāṇena siddham* (P2b, Item 4): "established by a valid means of knowledge" — the standard formula for asserting epistemic warrant
+- प्रमाणाभावात् / *pramāṇābhāvāt* (P2b, Item 4): "due to the absence of a valid means of knowledge" — the standard formula for dismissing a claim
+- प्रमाणं नास्ति / *pramāṇaṃ nāsti* (P2b, Item 4): "there is no valid means of knowledge" — a direct dismissal
+- प्रमाणविरुद्ध / *pramāṇaviruddha* (P2a, Item 4): contradicted by a valid means of knowledge
+- प्रमाणसिद्ध / *pramāṇasiddha* (P2a, Item 4): established by a valid means of knowledge
+- अनुमान / *anumāna* (P1b Root 2, item 18): inference as a specific type of *pramāṇa*
+- उपमान / *upamāna* (P1b Root 2, item 19): analogical cognition as a specific type of *pramāṇa*
+
+**Notes on internal distinctions:** The *svataḥ/parataḥ* pair marks a specific intra-school debate about the locus of validity-conferring conditions. *Hetvābhāsa* is a specialized application of the *ābhāsa* (semblance) pattern to the specific case of inferential reasoning. *Pramāṇābhāsa* is the more general term for spurious epistemic sources.
+
+---
+
+## Group 3: Terms used to evaluate statements or speech acts as truthful or false
+
+**Label:** Speech-evaluating terms in ethical and legal contexts
+
+**Definition:** These terms are used in Dharmaśāstra, epic literature, and legal contexts to evaluate utterances, testimony, and speech acts as truthful, false, or wrongful. They appear in prescriptive injunctions about the duty of truthful speech, in legal evaluations of testimony, and in characterizations of persons as reliable or unreliable speakers. The evaluative dimension here is primarily moral and legal rather than epistemological.
+
+**Representative expressions:**
+
+- सत्य / *satya* (#1): the primary positive term; truthful speech and the property of being true
+- असत्य / *asatya* (#12): the direct negation; false speech, the quality of being untrue
+- अनृत / *anṛta* (#11): false speech in Vedic and early classical contexts; carries stronger connotations of violation of cosmic order
+- तथ्य / *tathya* (#9): factually accurate speech; closer to "the facts" than to the broader resonances of *satya*
+- सत्यवादिन् / *satyavādin* (P1b Root 1, item 2): one who speaks truthfully; a characterization of a reliable speaker
+- असत्यवादिन् / *asatyavādin* (P2a, Item 12): one who speaks falsely; a characterization of an unreliable speaker
+- मिथ्यावादिन् / *mithyāvādin* (P2a, Item 10): one who speaks falsely or holds false views
+- सत्यवचन / *satyavacana* (P1b Root 1, item 3): the act of truthful utterance
+- असत्यवचन / *asatyavacana* (P2a, Item 12): the act of false utterance
+- अनृतवचन / *anṛtavacana* (P1b supplementary, item 5): false speech in Vedic-Dharmaśāstra contexts
+- सत्यं वद / *satyaṃ vada* (P2b, Item 1): "speak the truth" — the foundational injunction
+- सत्यं ब्रूयात् / *satyaṃ brūyāt* (P2b, Item 1): "one should speak the truth" — the prescriptive form
+- असत्यं न वदेत् / *asatyaṃ na vadet* (P2b, Item 12): "one should not speak untruth" — the prohibitive form
+- अनृतं न वदेत् / *anṛtaṃ na vadet* (P2b, Item 11): the same prohibition in Vedic vocabulary
+- तथ्यं वदति / *tathyaṃ vadati* (P2b, Item 9): "speaks the facts" — used in legal testimony contexts
+- असत्यं पापम् / *asatyaṃ pāpam* (P2b, Item 12): "untruth is sin" — the moral condemnation formula
+
+**Notes on internal distinctions:** *Satya* and *asatya* are the most widely used pair in post-Vedic prose. *Anṛta* is the older Vedic term and carries cosmological connotations that *asatya* does not. *Tathya* is more restricted to factual accuracy in legal and narrative contexts and lacks the moral weight of *satya*. The prescriptive constructions (*brūyāt*, *na vadet*) are the characteristic syntactic form of this group.
+
+---
+
+## Group 4: Terms used to evaluate whether something corresponds to or pertains to actual things
+
+**Label:** Reality-correspondence terms in philosophical and general prose
+
+**Definition:** These terms are used to assess whether a description, property, or characterization pertains to how things actually are, as opposed to how they appear, are conventionally described, or are merely named. They appear in philosophical argument when distinguishing genuine from apparent or conventional properties, and in general prose when asserting that an account is accurate to the facts. They are regularly contrasted with terms for appearance, convention, or mere verbal designation.
+
+**Representative expressions:**
+
+- वास्तव / *vāstava* (#13): pertaining to the real object; used to distinguish genuine from conventional or apparent properties
+- वस्तु / *vastu* (#14): the real thing itself; what cognition must correspond to for the cognition to be valid
+- यथार्थ / *yathārtha* (#3): as the object actually is; used to evaluate descriptions and cognitions for accuracy
+- तथ्य / *tathya* (#9): factually accurate; used in legal and narrative contexts for accounts that correspond to the facts
+- वस्तुतः / *vastutaḥ* (P2a, Item 14): "in reality" — the standard adverbial formula for asserting correspondence to actual things
+- वास्तवतः / *vāstavataḥ* (P2b, Item 13): "in reality" — a parallel adverbial formula
+- वस्तुस्थिति / *vastusthiti* (P2a, Item 14): the actual state of affairs
+- वस्तुनि यथावत् ज्ञानम् / *vastuni yathāvat jñānam* (P2b, Item 14): "knowledge of the thing as it actually is"
+- वस्तु न शब्दाधीनम् / *vastu na śabdādhīnam* (P2b, Item 14): "the real thing is not dependent on words" — the standard formula distinguishing real from merely verbal entities
+- वस्तुबलात् / *vastubalaāt* (P2b, Item 14): "by the force of the thing itself" — used when a conclusion is compelled by the subject matter
+- वास्तविक / *vāstavika* (P2a, Item 13): real, actual; the adjectival form used in modern Sanskrit
+
+**Notes on internal distinctions:** *Vastu* and *vāstava* are closely related, with *vastu* being the noun (the real thing) and *vāstava* the adjective (pertaining to the real thing). *Yathārtha* emphasizes the correspondence relation between a description and its object, while *vastu*/*vāstava* emphasize the ontological status of the object itself. *Tathya* overlaps with this group but is more restricted to factual accuracy in testimony and narrative.
+
+---
+
+## Group 5: Terms used to evaluate the ontological status of things as real or unreal
+
+**Label:** Being-status terms in metaphysical and cosmological argument
+
+**Definition:** These terms are used to assess whether something genuinely exists or has genuine being, as opposed to being unreal, illusory, or of indeterminate ontological status. They appear in Vedāntic, Sāṃkhya, and Vaiśeṣika philosophical argument about the nature of reality, in cosmological discussions of what exists before and after creation, and in debates about causation. The evaluative dimension here is ontological rather than epistemic or moral.
+
+**Representative expressions:**
+
+- सत् / *sat* (#7): genuine being, what truly exists; the positive ontological pole
+- असत् / *asat* (#8): non-being, what lacks genuine existence; the negative ontological pole
+- सत्ता / *sattā* (P2a, Item 7): the abstract property of existence or being
+- सत्त्व / *sattva* (P2a, Item 7): the quality of genuine being; also one of the three *guṇas* in Sāṃkhya
+- मिथ्या / *mithyā* (#10): in Advaita Vedānta, neither absolutely real nor absolutely unreal; a third ontological category
+- मिथ्यात्व / *mithyātva* (P2a, Item 10): the abstract property of being *mithyā*
+- मिथ्या न सत् न असत् / *mithyā na sat na asat* (P2b, Item 10): "mithyā is neither real nor unreal" — the fixed Advaita formula
+- नासतो विद्यते भावः / *nāsato vidyate bhāvaḥ* (P2b, Item 7): "of non-being there is no existence" — from Bhagavadgītā 2.16
+- नाभावो विद्यते सतः / *nābhāvo vidyate sataḥ* (P2b, Item 7): "of being there is no non-existence" — the paired statement
+- सदेव सोम्येदमग्र आसीत् / *sad eva somyedam agra āsīt* (P2b, Item 7): "in the beginning this was being alone" — Chāndogya Upaniṣad
+- सतः न असतः जायते / *sataḥ na asataḥ jāyate* (P2b, Item 7): "from being, not from non-being, is it produced"
+- सत्कार्यवाद / *satkāryavāda* (P1b Root 1, item 25): the doctrine that the effect is real in the cause
+- असत्कार्यवाद / *asatkāryavāda* (P1b Root 1, item 26): the opposing doctrine
+- सच्चिदानन्द / *saccidānanda* (P1b Root 1, item 27): being-consciousness-bliss; the characterization of ultimate reality
+
+**Notes on internal distinctions:** The *sat/asat* pair is the primary binary. *Mithyā* introduces a third category specific to Advaita Vedānta that disrupts the binary. *Sattā* and *sattva* are abstract nominals from the same root but used in different philosophical contexts (*sattā* in Vaiśeṣika ontology, *sattva* in Sāṃkhya). The causation debate (*satkāryavāda/asatkāryavāda*) is a specific application of the *sat/asat* distinction to the problem of the ontological status of effects.
+
+---
+
+## Group 6: Terms used to evaluate conduct, persons, or speech as conforming to or violating right order
+
+**Label:** Conduct-evaluating terms in ethical, legal, and social contexts
+
+**Definition:** These terms are used to assess whether actions, persons, or utterances conform to the standards of right conduct, duty, or proper order. They appear in Dharmaśāstra, epic literature, and social discourse to prescribe, commend, or condemn conduct. The evaluative standard invoked is not primarily correspondence to facts but conformity to a normative order — whether cosmic, social, legal, or role-specific.
+
+**Representative expressions:**
+
+- धर्म / *dharma* (#20): the primary positive term; right conduct, duty, the sustaining order
+- अधर्म / *adharma* (#21): the negation; conduct that violates right order
+- साधु / *sādhu* (#22): correct, proper, well-formed; used in both grammatical and ethical contexts
+- ऋत / *ṛta* (#2): cosmic right order; the Vedic term for the ordered functioning of the cosmos and moral rightness aligned with it
+- अनृत / *anṛta* (#11): violation of cosmic order; the Vedic term for falsehood and moral wrongness
+- सद्वृत्त / *sadvṛtta* (P1b Root 1, item 17): good conduct; conduct conforming to what is genuinely right
+- धर्मानुसार / *dharmānusāra* (P1b Root 3, item 14): in accordance with dharma
+- धर्मविरुद्ध / *dharmaviruddha* (P1b Root 3, item 13): contrary to dharma
+- धर्मे स्थितः / *dharme sthitaḥ* (P2b, Item 20): "standing in dharma" — characterization of a person firmly grounded in right conduct
+- धर्मात् न चलति / *dharmāt na calati* (P2b, Item 20): "does not deviate from dharma"
+- धर्मो रक्षति रक्षितः / *dharmo rakṣati rakṣitaḥ* (P2b, Item 20): "dharma protects those who protect it" — the foundational maxim
+- धर्मं चर / *dharmaṃ cara* (P2b, Item 20): "practice dharma" — the foundational injunction
+- सत्यं परं धर्मः / *satyaṃ paraṃ dharmaḥ* (P2b, Item 1): "truth is the highest dharma" — linking Groups 3 and 6
+- आपद्धर्म / *āpaddharma* (P1b Root 3, item 27): emergency dharma; modified conduct norms under extreme circumstances
+- वर्णधर्म / *varṇadharma* (P1b Root 3, item 26): class-specific dharma
+- राजधर्म / *rājadharma* (P1b Root 3, item 24): the dharma of kings
+
+**Notes on internal distinctions:** *Ṛta* and *dharma* are historically related but occupy different registers: *ṛta* is primarily Vedic and cosmological, *dharma* is the dominant post-Vedic term covering both cosmic and social-legal dimensions. *Sādhu* in ethical contexts overlaps with this group but is also used in grammatical contexts (see Group 7). The role-specific compounds (*rājadharma*, *varṇadharma*, *strīdharma*) show that the evaluative standard is understood as context-dependent.
+
+---
+
+## Group 7: Terms used to evaluate linguistic forms as correct or deviant
+
+**Label:** Grammatical correctness terms
+
+**Definition:** These terms are used in Sanskrit grammatical literature to evaluate whether a word, form, or usage conforms to the standard of correct Sanskrit as defined by Pāṇinian grammar and the usage of the learned. They appear in discussions of what counts as a well-formed Sanskrit expression and what counts as a corrupt or deviant form. The evaluative standard is linguistic correctness rather than truth, moral rightness, or ontological status.
+
+**Representative expressions:**
+
+- साधु / *sādhu* (#22): a correct, well-formed word; the positive pole of grammatical evaluation
+- अपशब्द / *apaśabda* (#23): a deviant, incorrect word; a form not sanctioned by grammar
+- साधु शब्दः / *sādhu śabdaḥ* (P2b, Item 22): "a correct word" — the standard nominal phrase for a grammatically well-formed expression
+
+**Notes on internal distinctions:** This group is small and internally homogeneous. *Sādhu* in this context is contrasted specifically with *apaśabda*; the same term *sādhu* in ethical contexts belongs to Group 6. The grammatical use of *sādhu* is a distinct usage context, not a different word, but the contrast partner (*apaśabda*) is specific to this context.
+
+---
+
+## Group 8: Terms used to evaluate whether a use of language is primary/literal or secondary/figurative
+
+**Label:** Literalness-evaluating terms in Mīmāṃsā and grammatical philosophy
+
+**Definition:** These terms are used in Mīmāṃsā and philosophical grammar to assess whether a term is being used in its primary, direct sense or in a secondary, figurative, or transferred sense. They appear in discussions of how to interpret Vedic injunctions and in analyses of metaphor and secondary predication. The evaluative dimension concerns the mode of linguistic reference rather than the truth or correctness of what is said.
+
+**Representative expressions:**
+
+- मुख्य / *mukhya* (#26): primary, literal, direct; the positive pole of this evaluative dimension
+- गौण / *gauṇa* (#27): secondary, figurative, based on a quality shared with the primary referent
+- औपचारिक / *aupacārika* (#25): figurative, secondary, conventional; used for transferred or courtesy uses of terms
+- सादृश्य / *sādṛśya* (#24): resemblance, similarity; the basis on which secondary (*gauṇa*) uses are licensed
+
+**Notes on internal distinctions:** *Mukhya* and *gauṇa* are the primary contrast pair. *Aupacārika* is a near-synonym of *gauṇa* in some contexts but emphasizes the conventional or courtesy dimension of secondary use. *Sādṛśya* is not itself an evaluative term in this dimension but is the criterion that licenses *gauṇa* use; it belongs here because its primary philosophical function is to explain when secondary predication is legitimate.
+
+---
+
+## Group 9: Terms used to evaluate the intrinsic or essential nature of something
+
+**Label:** Essential-nature terms in philosophical inquiry
+
+**Definition:** These terms are used when the question at issue is what something fundamentally or essentially is, as opposed to how it appears, what it is called, or what properties it has relationally or conventionally. They appear in philosophical inquiry (*jijñāsā*) contexts and in evaluations that bypass conventional or relational characterizations to reach what something is in itself.
+
+**Representative expressions:**
+
+- तत्त्व / *tattva* (#29): the true or essential nature of something; what it fundamentally is
+- स्वरूप / *svarūpa* (#28): the own form or intrinsic nature of something; what it is in itself
+- वस्तुस्वभाव / *vastusvabhāva* (P2b, Item 14): the intrinsic nature of the real thing
+- वस्तुतः / *vastutaḥ* (P2a, Item 14): "in reality" — used when assessing from the standpoint of what something actually is
+- सत्यमेव जयते / *satyam eva jayate* (P2b, Item 1): "truth alone conquers" — invokes the ultimate prevailing of what is genuinely real
+
+**Notes on internal distinctions:** *Tattva* and *svarūpa* are closely related in function but differ in emphasis: *tattva* is used more in the context of philosophical inquiry into the nature of categories and principles, while *svarūpa* emphasizes the intrinsic form of a particular thing as opposed to its relational or conventional characterizations. Both are used to frame evaluations that claim to reach beyond appearance to what something really is.
+
+---
+
+## Group 10: Terms used to evaluate the fittingness or appropriateness of something in context
+
+**Label:** Fittingness-evaluating terms in aesthetic and ethical contexts
+
+**Definition:** These terms are used to assess whether something — a word, image, sentiment, or act — is appropriate or fitting given its context, role, or situation. The evaluative standard is not correspondence to facts or conformity to a fixed rule but the quality of fit between an element and its context. They appear primarily in Sanskrit aesthetic literature and in ethical discussions of role-appropriate conduct.
+
+**Representative expressions:**
+
+- औचित्य / *aucitya* (#19): fittingness, propriety; the central term in Sanskrit aesthetic evaluation
+- औचित्यं काव्यस्य जीवितम् / *aucityaṃ kāvyasya jīvitam* (P2b, Item 19): "propriety is the life of poetry" — the foundational aesthetic maxim
+- औचित्यात् च्युतम् / *aucityāt cyutam* (P2b, Item 19): "fallen from propriety" — the standard formula for aesthetic or ethical deviation from fittingness
+- औचित्यं रक्षेत् / *aucityaṃ rakṣet* (P2b, Item 19): "one should preserve propriety" — the prescriptive form
+
+**Notes:** This group is small. *Aucitya* is the dominant term in this evaluative dimension and does not have a close negative counterpart in the P1/P2 data (no term for "unfittingness" appears as a P1 item). The group is included because the evaluative dimension it represents — fit rather than correspondence or conformity — is distinct from the other groups.
+
+---
+
+## Group 11: Terms used to evaluate the definitiveness or settledness of a conclusion
+
+**Label:** Conclusion-status terms in epistemological and legal argument
+
+**Definition:** These terms are used to assess whether a matter has been definitively determined or remains uncertain, disputed, or unresolved. They appear in epistemological discussions of the outcome of inquiry and in legal contexts for verdicts and rulings. The evaluative dimension concerns the epistemic or procedural status of a conclusion rather than its content.
+
+**Representative expressions:**
+
+- निर्णय / *nirṇaya* (#30): definitive determination, ascertainment, verdict; the settled conclusion of inquiry or deliberation
+- प्रमाणसिद्ध / *pramāṇasiddha* (P2a, Item 4): established by a valid means of knowledge; a claim whose warrant is settled
+- प्रमाणेन सिद्धम् / *pramāṇena siddham* (P2b, Item 4): "established by a valid means of knowledge" — the standard formula for asserting a settled conclusion
+- धर्मनिर्णय / *dharmanirṇaya* (P1b Root 3, item 5): determination of what dharma requires; a legal ruling
+- मिथ्येति निश्चितम् / *mithyeti niścitam* (P2b, Item 10): "it is determined that this is false" — the formula for asserting a settled philosophical conclusion
+- सत्यापन / *satyāpana* (P1b Root 1, item 7): verification, attestation; the act of establishing the truth of a claim officially
+- सत्यापित / *satyāpita* (P1b Root 1, item 8): verified, attested; the status of a claim that has been officially established
+
+**Notes on internal distinctions:** *Nirṇaya* is the most general term for settled determination. *Pramāṇasiddha* and *pramāṇena siddham* specify that the settlement is by epistemic means. *Satyāpana/satyāpita* are more specifically administrative and legal. *Dharmanirṇaya* applies the same evaluative dimension to legal-ethical determination.
+
+---
+
+## Ambiguous and Multi-Group Items
+
+The following items appear in multiple groups or resist clean assignment:
+
+**सत्य / *satya* (#1):**
+Appears in Group 3 (speech-evaluating terms) as the primary term for truthful speech, in Group 5 (being-status terms) through its connection to *sat* and its use in cosmological contexts (*satyayuga*, *satyaloka*), and in Group 6 (conduct-evaluating terms) through maxims like *satyaṃ paraṃ dharmaḥ*. The term's range across moral, ontological, and cosmological contexts makes it resistant to single-group assignment. Its most frequent and central use is in Group 3, but the other uses are well-attested and not peripheral.
+
+**मिथ्या / *mithyā* (#10):**
+Appears in Group 1 (cognition-evaluating terms) as a term for false cognition, in Group 5 (being-status terms) as a specific Advaita ontological category, and in Group 3 (speech-evaluating terms) through *mithyā vadati* (speaks falsely). The Advaita technical use (Group 5) is the most distinctive, but the other uses are attested.
+
+**तथ्य / *tathya* (#9):**
+Appears in Group 3 (speech-evaluating terms) and Group 4 (reality-correspondence terms). The term evaluates both speech acts (testimony, reports) and the factual accuracy of descriptions. It does not fit cleanly into either group alone.
+
+**साधु / *sādhu* (#22):**
+Appears in Group 6 (conduct-evaluating terms) in ethical contexts and in Group 7 (grammatical correctness terms) in linguistic contexts. The two uses are distinct in context and contrast partner but share the same form.
+
+**सादृश्य / *sādṛśya* (#24):**
+Assigned to Group 8 (literalness-evaluating terms) as the criterion for secondary predication, but also appears in epistemological contexts as the basis of analogical cognition (*upamāna*), which connects it to Group 2. Its primary philosophical function in the P1/P2 data is as a criterion for evaluating the legitimacy of comparisons and secondary uses, which places it most naturally in Group 8, but the epistemological use is also attested.
+
+**धर्म / *dharma* (#20) in its logical sense:**
+The use of *dharma* to mean "property" (as in *dharmin*, the subject of a property in inference) belongs to a different evaluative context from Groups 6 and 11. In this logical use, *dharma* is not evaluating conduct or conclusions but naming the logical role of a predicate in an inference. This use does not fit cleanly into any of the groups above. It is noted here as an ungrouped use of a grouped item.
+
+**आभास / *ābhāsa* (#15):**
+Appears in Group 2 (source-evaluating terms) through *pramāṇābhāsa* and in Group 1 (cognition-evaluating terms) through its general use for mere appearance. In Kashmiri Śaiva philosophy, *ābhāsa* has a further technical use for the manifestation of appearances within consciousness that does not fit either group. The compound-forming function of *ābhāsa* (as second member in *hetvābhāsa*, *pramāṇābhāsa*) is its most consistent usage pattern across the data.
+
+---
+
+## Items Without Clear Grouping
+
+The following items from P1 do not fit cleanly into any of the groups identified above, based on the usage patterns documented in P1 and P2:
+
+**सत्यग्रह / *satyagraha* (P1b Root 1, item 9):**
+The political and activist use of this term — nonviolent resistance grounded in truth — does not correspond to any of the evaluative dimensions represented in the groups above. It is a modern coinage that applies the *satya* root in a context of political action rather than epistemic, moral, or ontological evaluation. No other P1/P2 items share this usage context.
+
+**सच्चिदानन्द / *saccidānanda* (P1b Root 1, item 27):**
+This compound characterizes ultimate reality as being-consciousness-bliss. While *sat* connects it to Group 5, the compound as a whole is a devotional and theological designation rather than an evaluative term. It does not evaluate anything as real, true, or correct; it names a property of the ultimate. No clear group assignment is supported.
+
+**सत्ययुग / *satyayuga* (P1b Root 1, item 11):**
+The use of *satya* in a cosmological-temporal context (the first and most virtuous cosmic age) does not correspond to any of the evaluative dimensions in the groups above. It is a cosmological periodization term that uses *satya* to characterize an era rather than to evaluate a cognition, statement, act, or thing.
+
+**प्रमाणपत्र / *pramāṇapatra* (P2a, Item 4) and सत्यापित / *satyāpita* (P1b Root 1, item 8):**
+These administrative and legal terms (certificate, verified document) are partially assigned to Group 11 but their primary usage context — official document certification — is distinct from the epistemological and legal-deliberative contexts of the other Group 11 items. They are included in Group 11 with the caveat that their usage context is more administrative than argumentative.
+
+**धारणा / *dhāraṇā* (P1b Root 3, item 28) and धृति / *dhṛti* (P1b Root 3, item 29):**
+These terms from the *dhṛ-* root — yogic concentration and mental steadiness respectively — do not evaluate truth, correctness, or right conduct in the senses represented by the groups above. They describe psychological states or practices. No clear group assignment is supported by the usage data.
+
+---
+
+*End of P3 NATURAL SEMANTIC GROUPING*

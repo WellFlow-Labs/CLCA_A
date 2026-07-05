@@ -1,0 +1,117 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a §1 Attribution: [truth/falsity adjective] + [noun], no copula, no agreement morphology | *cheqa runa* "honest/genuine person"; *llulla simi* "false word/lying speech" | Direct mapping; no substitution required | None |
+| **ADNOM** | P4a §3 Adnominal Modification: [participial or agentive form] + [head noun], no linker | *cheqanchasqa qelqa* "verified document"; *cheqaq simi* "truthful speech" | Direct mapping; participial (*-sqa*) and agentive (*-q*) forms both occupy this position | None |
+| **BECOME** | P4a §4 Inchoative: [root] + *-ya-* + *-y* | *llullayay* "to become false"; *allinyay* "to become good/right" | Direct mapping for *llulla-* and *allin-* roots; **SUBSTITUTED BY** *cheqanchay* (verbalizer *-ncha-*) or periphrasis for *cheqa-* root specifically | Asymmetric gap: *cheqa-* root lacks direct *-ya-* inchoative form |
+| **REVELATION** | Not attested in P4a or P4b | — | No construction identified in the data | **MISSING (structural gap)** |
+| **CAUSATION (factual)** | Not attested as a distinct construction in P4a or P4b | — | No construction identified in the data that encodes "X causes it to be the case that [proposition] is true/false" at the propositional level | **MISSING (structural gap)** |
+| **CAUSATION (character)** | P4a §5 Causative: [verbal stem] + *-chi-* + *-y* | *pantachiy* "to cause to err / to mislead"; *llullachiy* "to cause someone to lie / to induce false testimony" | Direct mapping for character-level causation (causing a person to err, lie, or deceive); *cheqa-* root uses *-ncha-* rather than *-chi-* | Asymmetric gap: *cheqa-* root does not use the standard *-chi-* causative frame |
+| **VERIFICATION** | P4a §3 Adnominal Modification (participial): *cheqanchasqa* "verified/confirmed"; P4a §5 Notes: *cheqanchay* "to verify/correct/establish as true" | *cheqanchasqa qelqa* "verified/confirmed document" | Expressed through the derived verbal stem *cheqanchay* and its participial form *cheqanchasqa*; no dedicated VERIFICATION construction separate from the causative/verbalizer derivation of *cheqa-* | Available through *cheqanchay* derivation; no standalone VERIFICATION construction distinct from this form |
+| **DISCONFIRMATION** | P4a §9 Corrective Topic Construction: *cheqaqa* + corrective statement | *Cheqaqam, mana hinachu.* "The truth is, it is not like that." | Discourse-level construction; functions as pragmatic correction of a prior claim; structurally distinct from NEGATION | Direct mapping at discourse level; see §2 for relationship to NEGATION |
+| **NEGATION** | P4a §2 Negative Attribution: *mana* + [predicate] + *-chu* | *Mana cheqachu.* "It is not true."; *Mana allinchu.* "It is not right." | Direct mapping; negation is **morphosyntactic** (discontinuous frame: proclitic *mana* + enclitic *-chu*); not purely analytic (two obligatory elements) and not purely morphological (not a single bound suffix) | None |
+| **NOMINALIZATION** | P4a §6 Abstract Nominalization: (a) [root] + *kay* [MARGINAL]; (b) infinitive-as-nominal in *-y* [CORE]; P4a §7 Agentive Nominalization: [stem] + *-q* [CORE] | *cheqa kay* "truth/reality" [formal]; *pantay* "error/the act of erring" [everyday]; *llullaq* "liar/one who lies" | Two distinct nominalization strategies attested: process/property nominalization (§6) and agentive nominalization (§7); register difference between *kay* construction and infinitive-as-nominal | None for the category overall; register restriction on *cheqa kay* noted |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+The data in P4a and P4b attest a BECOME construction (inchoative *-ya-*) but provide no evidence of a REVELATION construction (a construction encoding that a truth or falsity is disclosed or comes to light). There is no attested pattern in which REVELATION substitutes for BECOME or vice versa. The two categories remain distinct in the data: BECOME is present; REVELATION is absent. No substitution relationship can be reported.
+
+### 2.2 CAUSATION (factual) and CAUSATION (character)
+
+The attested causative construction (P4a §5, *-chi-*) encodes character-level causation: causing a person to err (*pantachiy*), causing a person to lie (*llullachiy*). The data do not attest a construction encoding propositional or factual causation — that is, a construction meaning "X causes [proposition P] to be true" or "X causes [state of affairs] to obtain." The *-chi-* causative is person-directed, not proposition-directed, in all attested examples. No substitution of CAUSATION (factual) by another operator is attested; the category is simply absent from the data.
+
+### 2.3 VERIFICATION and CAUSATION (character): Overlap via *cheqanchay*
+
+The verbal stem *cheqanchay* ("to verify / to correct / to establish as true") is noted in P4a §4 and §5 as the form the *cheqa-* root uses in place of the standard *-ya-* inchoative and in place of the standard *-chi-* causative. This stem appears in the VERIFICATION function (its participial form *cheqanchasqa* means "verified/confirmed") and also covers the inchoative/causative gap for the *cheqa-* root. The data do not provide enough examples to determine whether *cheqanchay* fully covers CAUSATION (character) for the *cheqa-* root or only VERIFICATION; the P4a notes treat it as covering both inchoative and verifying/correcting meanings. This overlap is reported descriptively without further interpretation.
+
+### 2.4 DISCONFIRMATION and NEGATION: Structural Distinction
+
+The data attest two constructions that both involve the rejection or denial of a truth claim, but they are structurally distinct:
+
+- **NEGATION** (P4a §2): *mana* ... *-chu* applied to a predicative truth/falsity adjective. This is a sentence-level operation on a predicate. It negates a proposition directly: *Mana cheqachu* "It is not true."
+- **DISCONFIRMATION** (P4a §9): *cheqaqa* + corrective statement. This is a discourse-level construction that replaces a prior claim. It does not simply negate; it introduces a replacement: *Cheqaqam, mana hinachu* "The truth is, it is not like that."
+
+These two constructions do not share the same structural frame. DISCONFIRMATION requires a prior discourse context (a claim being corrected); NEGATION does not. They are not interchangeable in the data.
+
+### 2.5 Asymmetry: *cheqa-* root vs. other truth-domain roots
+
+A cross-cutting asymmetry is documented in P4a and preserved in P4b. The *cheqa-* root behaves differently from *llulla-*, *allin-*, *panta-*, *riqsi-*, and *yacha-* in two constructions:
+
+- **BECOME**: *llullayay* and *allinyay* are attested with *-ya-*; *cheqayay* is not attested. The inchoative meaning for *cheqa-* is expressed through *cheqanchay* or periphrasis.
+- **CAUSATION (character)**: *pantachiy* and *llullachiy* are attested with *-chi-*; the *cheqa-* root uses *-ncha-* (*cheqanchay*) rather than *-chi-*.
+
+This asymmetry is root-specific, not construction-specific. The constructions themselves (BECOME via *-ya-*, CAUSATION via *-chi-*) are productive across other roots in the domain. The gap is therefore classified as a **lexical/root-specific gap** rather than a morphosyntactic gap in the construction itself.
+
+### 2.6 Negation: Morphosyntactic Character
+
+The negation frame *mana* ... *-chu* is neither purely analytic (it is not two free words; *-chu* is a bound suffix) nor purely morphological (it is not a single bound morpheme on the predicate; *mana* is a separate proclitic). It is a **discontinuous morphosyntactic frame** in which both elements are obligatory. The P4b notes explicitly state that *-chu* cannot be omitted and that *mana* alone is insufficient. This is reported as a morphosyntactic negation pattern, not a purely analytic or purely morphological one.
+
+### 2.7 Nominalization: Two Strategies, Register-Differentiated
+
+Two nominalization strategies are attested for the truth domain:
+
+- **Infinitive-as-nominal** (*-y*): [CORE], everyday register, process/event nominal (*pantay* "error/the act of erring").
+- ***kay* construction** ([root] + *kay*): [MARGINAL], formal/reflective register, abstract property nominal (*cheqa kay* "truth/reality/the state of being true").
+
+These two strategies are not interchangeable in all contexts; they differ in register and in the type of nominal meaning they produce (process vs. abstract property). The agentive nominalization (*-q*) is a third strategy producing agent/habitual-performer nominals (*llullaq* "liar"), which is structurally and semantically distinct from the other two.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No construction attested in P4a or P4b that encodes the disclosure or coming-to-light of a truth. The category is entirely absent from the data. |
+| **CAUSATION (factual)** | No construction attested that encodes propositional-level causation ("X causes [proposition P] to be true/false"). The attested causative (*-chi-*) is person-directed only. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| ***cheqayay*** (inchoative of *cheqa-*) | The form *cheqayay* is not attested. The *-ya-* inchoative construction is productive for other roots (*llullayay*, *allinyay*) but does not apply to the *cheqa-* root. This is a root-specific lexical gap within an otherwise productive construction. |
+| ***cheqachiy*** (standard causative of *cheqa-*) | The form *cheqachiy* (with standard *-chi-*) is not attested. The *cheqa-* root uses *-ncha-* instead. This is a root-specific lexical gap within an otherwise productive causative construction. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a and P4b data alone. The data do not provide evidence that any truth-domain concept is blocked or inexpressible; the gaps identified above are structural or lexical, not conceptual. The *cheqa-* root asymmetries result in alternative forms (*cheqanchay*) rather than in the absence of any means of expression.
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Description |
+|---|---|
+| **BECOME: positive truth root only** | The inchoative *-ya-* construction is attested for the falsity root (*llullayay*) and the goodness root (*allinyay*) but not for the primary truth root (*cheqa-*). The gap is one-sided: the falsity-side inchoative is present; the truth-side inchoative (via *-ya-*) is absent. |
+| **CAUSATION (character): positive truth root only** | The *-chi-* causative is attested for error (*pantachiy*) and falsity (*llullachiy*) roots but not for the *cheqa-* root in the standard frame. The gap is again one-sided within the causative construction. |
+| **NOMINALIZATION register asymmetry** | The *kay* abstract nominalization is [MARGINAL] (formal/reflective register only); the infinitive-as-nominal is [CORE] (everyday register). This is an asymmetry in availability across registers, not a gap in the construction itself. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | [CORE] construction attested for both truth and falsity roots across all registers; no restrictions noted |
+| **ADNOM** | **Fully available** | [CORE] construction attested with both participial (*-sqa*) and agentive (*-q*) modifier forms; no linker required |
+| **BECOME** | **Partially available** | [CORE] *-ya-* inchoative attested for *llulla-* and *allin-* roots; *cheqa-* root lacks this form and substitutes *cheqanchay* or periphrasis; the construction is productive but root-specifically incomplete |
+| **REVELATION** | **Missing entirely** | No construction attested in P4a or P4b |
+| **CAUSATION (factual)** | **Missing entirely** | No propositional-level causative construction attested; the *-chi-* causative is person-directed only |
+| **CAUSATION (character)** | **Partially available** | [CORE] *-chi-* causative attested for *panta-* and *llulla-* roots; *cheqa-* root uses *-ncha-* instead; the construction is productive but root-specifically incomplete for the primary truth root |
+| **VERIFICATION** | **Available with substitution** | Expressed through the derived stem *cheqanchay* and its participial *cheqanchasqa*; no standalone VERIFICATION construction separate from this derivation is attested; the function is available but not through a dedicated construction |
+| **DISCONFIRMATION** | **Fully available** | [CORE] corrective topic construction (*cheqaqa* + corrective statement) attested at discourse level; structurally distinct from NEGATION |
+| **NEGATION** | **Fully available** | [CORE] discontinuous morphosyntactic frame *mana* ... *-chu* attested across all predicative truth/falsity adjectives; obligatory and productive |
+| **NOMINALIZATION** | **Fully available** | Multiple strategies attested: infinitive-as-nominal (*-y*) [CORE, everyday], *kay* construction [MARGINAL, formal], agentive nominalization (*-q*) [CORE]; the category as a whole is fully available with internal register and semantic differentiation |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — Quechua (qu)*

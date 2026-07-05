@@ -1,0 +1,44 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Chinese (zh)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** (是…的 frame) | 这条消息是真实的。 | Zhè tiáo xiāoxi shì zhēnshí de. | "This piece of news is truthful/accurate." | [CORE] | Widely used across registers for predicating truth-domain adjectives; the 是…的 frame is the default spoken and written form. No observable restriction on noun type. |
+| **1. ATTRIBUTION** (bare predicate) | 他的陈述属实。 | Tā de chénshù shǔshí. | "His statement is confirmed as accurate." | [CORE] | Restricted to formal, legal, and administrative registers; 属实 is a fixed predicate and does not appear in the 是…的 frame. The bare adjectival predicate (without 是) is more assertive and formal than the copular form. |
+| **2. NEGATIVE ATTRIBUTION** (不是…真的 / 是假的) | 这份文件不是真的，是假的。 | Zhè fèn wénjiàn bù shì zhēn de, shì jiǎ de. | "This document is not genuine; it is fake." | [CORE] | Common in everyday and journalistic registers for genuineness judgments; the paired structure (不是真的，是假的) is a natural reinforcement pattern. Applies primarily to concrete objects and documents. |
+| **2. NEGATIVE ATTRIBUTION** (严重失实) | 这篇报道严重失实。 | Zhè piān bàodào yánzhòng shīshí. | "This report is seriously inaccurate." | [CORE] | Characteristic of journalistic and legal registers; 失实 is a lexicalized negative compound and does not take 不. Degree modification (严重) is common and attested. |
+| **3. ADNOMINAL MODIFICATION** (的 + noun) | 真实的情况 | zhēnshí de qíngkuàng | "the actual/true situation" | [CORE] | Fully productive across registers; 的 is required for open syntactic modification with adjectival compounds. No restriction on head noun type in this frame. |
+| **3. ADNOMINAL MODIFICATION** (成语 + 的 + noun) | 名副其实的专家 | míng fù qí shí de zhuānjiā | "a genuine expert; an expert who truly deserves the name" | [CORE] | Four-character expressions used attributively require 的; this pattern is common in written and formal registers. The 成语 itself carries evaluative force beyond simple modification. |
+| **4. BECOME / INCHOATIVE** (变得 + adjective + 了) | 报道变得失实了。 | Bàodào biàn de shīshí le. | "The reporting has become inaccurate." | [MARGINAL] | Syntactically well-formed but less common than direct predication; inchoative framing of truth-domain adjectives is not a high-frequency pattern. More natural with negative-outcome predicates (失实, 失真) than with positive ones. |
+| **4. BECOME / INCHOATIVE** (fixed expression) | 弄假成真 | nòng jiǎ chéng zhēn | "What started as pretense has become real." | [CORE] | Lexicalized 成语 used as a fixed expression; common in written and spoken registers. Not syntactically productive; no parallel forms are attested in P4a. |
+| **5. CAUSATIVE** (使/让 + NP + predicate) | 这使报道失真。 | Zhè shǐ bàodào shīzhēn. | "This caused the report to become distorted." | [CORE] | 使 is the formal causative coverb; 让 is more colloquial. In the truth domain, this frame is most commonly attested with distortion/negative-outcome predicates (失真, 失实) rather than truth-positive ones. |
+| **5. CAUSATIVE** (verb + NP object) | 掩盖真相 | yǎngài zhēnxiàng | "to cover up the truth" | [CORE] | Highly productive verb-object pattern; causative force is implicit in the semantics of the verb rather than marked syntactically. Common across journalistic, legal, and everyday registers. |
+| **6. ABSTRACT NOMINALIZATION** (-性 suffix) | 真实性 | zhēnshíxìng | "truthfulness; factual accuracy (as a property)" | [CORE] | Productive suffix on adjectival compounds in this domain; standard in academic, journalistic, and legal registers. Not applicable to monosyllabic roots or verbal items. |
+| **6. ABSTRACT NOMINALIZATION** (-性 suffix) | 可靠性 | kěkàoxìng | "reliability (as a property)" | [CORE] | Same productive pattern as 真实性; commonly appears in technical and evaluative contexts (e.g., data reliability). Restricted to adjectival compound bases as noted in P4a. |
+| **7. AGENTIVE NOMINALIZATION** (-者 suffix) | 欺骗者 | qīpiànzhě | "deceiver; one who deceives" | [MARGINAL] | Formal and written register; -者 forms are grammatically productive but less frequent in everyday speech, where 骗子 is preferred. Restricted to verbal compound bases; does not attach to adjectival items. |
+| **7. AGENTIVE NOMINALIZATION** (-者 suffix) | 伪装者 | wěizhuāngzhě | "one who disguises; impostor" | [MARGINAL] | Same register restriction as 欺骗者; formal and written. The -者 suffix is productive across verbal compounds in this domain but the resulting forms are stylistically marked as formal. |
+| **8. VERB-OBJECT COLLOCATIONS** (investigative verbs + 真相) | 揭露真相 | jiēlù zhēnxiàng | "to expose the truth; to reveal the true facts" | [CORE] | Highly productive and common across journalistic and public discourse registers; 揭露/揭示 are the most frequent verbs in this slot. Verb selection is constrained by the noun: 真相 takes investigative verbs, not commitment verbs. |
+| **8. VERB-OBJECT COLLOCATIONS** (commitment verbs + 真理) | 追求真理 | zhuīqiú zhēnlǐ | "to pursue truth" | [CORE] | Common in philosophical, educational, and formal registers; 真理 collocates with commitment and pursuit verbs rather than investigative ones. The verb-noun pairing is conventionalized. |
+| **9. ADVERBIAL TRUTH FRAME** (如实 + verb) | 如实陈述 | rúshí chénshù | "to state truthfully; to give a truthful account" | [CORE] | Fixed adverbial expression; common in legal and administrative registers. Restricted to verbs of communication, reporting, and recording. No attested negative parallel form (*如假陈述 is unattested). |
+| **9. ADVERBIAL TRUTH FRAME** (据实 + verb) | 据实汇报 | jùshí huìbào | "to report based on the facts" | [CORE] | Same register and collocational restrictions as 如实; especially common in administrative and official reporting contexts. Both 如实 and 据实 are fixed forms and not syntactically decomposable in current usage. |
+| **10. CORRESPONDENCE PREDICATE** (与…相符) | 与事实相符 | yǔ shìshí xiāngfú | "consistent with the facts" | [CORE] | Standard construction in legal and administrative registers; requires the coverb 与 to introduce the standard of comparison. Negative form 不相符 is equally common and attested. |
+| **10. CORRESPONDENCE PREDICATE** (前后相符) | 前后相符 | qiánhòu xiāngfú | "internally consistent; consistent from start to finish" | [CORE] | Common in legal and evaluative contexts; 前后 functions as a fixed temporal frame rather than a coverb-introduced NP. Slightly different structural pattern from 与…相符 but same predicate. |
+| **11. IMPOSSIBILITY-OF-VERIFICATION FRAME** (无法 + verb) | 无法核实 | wúfǎ héshí | "unable to verify; impossible to confirm" | [CORE] | Productive and common in journalistic and investigative discourse; marks the limits of verification. Contrasts with the positive completed-verification frame 经过核实 as noted in P4a. |
+| **11. IMPOSSIBILITY-OF-VERIFICATION FRAME** (无从 + verb + noun) | 无从判断真伪 | wúcóng pànduàn zhēnwěi | "no way to judge authenticity; unable to determine whether genuine or fake" | [CORE] | 无从 is slightly more formal and literary than 无法; both are attested in this frame. The construction is productive with authentication and judgment verbs (判断, 核实, 鉴别). |
+
+---
+
+## Attested Alternate Constructions
+
+| Construction Type | Alternate Form | Notes |
+|---|---|---|
+| **1. ATTRIBUTION** | [Subject] + [truth-predicate adjective] (bare, no 是) | Attested in P4a as the more formal/assertive variant; not an alternate but a distinct register-conditioned form. |
+| **2. NEGATIVE ATTRIBUTION** | 不正确 / 不准确 / 不可靠 / 不真实 | Attested in P4a as syntactic negation via 不 + adjective, distinct from lexicalized 失实 / 失真. |
+| **2. NEGATIVE ATTRIBUTION** | 失实 / 失真 | Attested in P4a as lexicalized negative compounds that do not take 不; distinct from syntactic negation. |
+| **6. ABSTRACT NOMINALIZATION** | [adjective/compound] + 感 (e.g., 真实感) | Attested in P4a as a distinct nominalizing suffix for experiential/aesthetic properties; not interchangeable with -性. |
+| **10. CORRESPONDENCE PREDICATE** | 与…一致 / 不一致 | Attested in P4a as a near-synonym of 相符 used in broader contexts; same coverb 与 required. |
+| **11. IMPOSSIBILITY-OF-VERIFICATION FRAME** | 经过核实 / 经专家鉴定 (positive counterpart) | Attested in P4a as the contrasting positive frame asserting completed verification; not an alternate of the impossibility frame but its discourse counterpart. |

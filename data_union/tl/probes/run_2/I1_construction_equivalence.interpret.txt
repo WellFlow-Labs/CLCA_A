@@ -1,0 +1,120 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tagalog (tl)
+## Source: P4a and P4b outputs
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicate-initial verbless clause: [truth-adjective] + [ang-phrase / pronoun] | *Totoo iyan.* / *Mali ang sagot.* | Direct mapping; no substitution required | None |
+| **ADNOM** | [truth-adjective] + *na* / *-ng* (linker) + [noun] | *totoong kwento* / *maling impormasyon* | Direct mapping; linker is obligatory surface element | None |
+| **BECOME** | [truth-adjective / nominal] + *na* (change-of-state particle) | *Totoo na.* / *Sigurado na ako.* | Direct mapping via particle; inchoative reading is context-dependent with stative predicates | None |
+| **REVELATION** | Not attested as a distinct construction in P4a/P4b | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | *i-* + [correctness adjective]; distinct pattern *pa-* + *tunay* + *-an* → *patunayan* | *Itama ang pagkakamali.* / *Iwasto ang mali.* | Partially attested: *i-* causative covers correctness sub-domain only; *patunayan* covers verification/proof sub-domain; no single unified causative construction covers the full truth-predicate domain | Partial gap: *i-* causative explicitly not attested for *totoo*, *tunay* |
+| **CAUSATION (character)** | Not attested as a distinct construction in P4a/P4b | — | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | *patunayan* (*pa-* + *tunay* + *-an*); existential construction *may* + [proof nominal] | *patunayan* ("to prove to someone; to cause to be proven") / *May katunayan iyan.* | Partially attested: *patunayan* covers the causative-verificational sense; existential construction covers presence-of-evidence sense; no single unified VERIFICATION construction | None for the sub-functions attested; see Substitution Patterns |
+| **DISCONFIRMATION** | Negative attribution: *Hindi* + [truth-adjective] + [ang-phrase / pronoun]; existential negative: *Wala* + *(-ng)* + [truth/proof nominal] | *Hindi totoo iyan.* / *Walang pruweba.* | Two distinct constructions cover different aspects of disconfirmation: propositional negation (*hindi totoo*) and evidentiary absence (*walang pruweba* / *walang katunayan*) | None for attested sub-functions |
+| **NEGATION** | *Hindi* + [truth-adjective] + [ang-phrase / pronoun] | *Hindi totoo iyan.* / *Hindi mali ang ginawa mo.* | Direct mapping; analytic (pre-posed negator *hindi*); no morphological negation attested in this field | None |
+| **NOMINALIZATION** | Circumfix *ka-* … *-an* / *-han* + [root]; action nominal *pag-* + [verbal stem] | *katotohanan*, *kasinungalingan* / *pagpapatunay*, *pagkakamali* | Direct mapping via two distinct patterns with distinct semantic outputs (abstract state/quality vs. action/event nominal) | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME vs. REVELATION
+
+The BECOME operator is directly attested in Tagalog via the change-of-state particle *na* (*Totoo na.* — "It's become real / It's actually happening now"). No distinct REVELATION construction is attested in P4a or P4b. There is no construction identified that encodes the meaning "it has come to light that X is true" as a separate operator distinct from BECOME. The BECOME construction (*na*-particle) handles the change-of-state reading, but whether it also covers revelation-of-hidden-truth readings cannot be confirmed from the data as supplied. REVELATION is therefore recorded as a structural gap rather than as substituted by BECOME, since no substitution is explicitly reported.
+
+### 2.2 CAUSATION (factual) — Split Domain Coverage
+
+The CAUSATION (factual) operator is not covered by a single unified construction. P4a and P4b report two distinct morphological patterns operating over different sub-domains:
+
+- The *i-* prefix causative (*itama*, *iwasto*) applies productively to **correctness adjectives** (*tama*, *wasto*, *akma*) and is explicitly noted as **not attested** for truth-predicate adjectives (*totoo*, *tunay*).
+- The *pa-* + *tunay* + *-an* pattern (*patunayan*) applies specifically to the **verification/proof sub-domain** and is reported as a distinct morphological pattern.
+
+The result is a domain split: correctness causation and proof causation are handled by different constructions, and no single construction covers the full CAUSATION (factual) space. For the truth-predicate adjectives (*totoo*, *tunay*) specifically, no *i-* causative is attested, leaving a partial gap in the causative paradigm for that sub-domain.
+
+### 2.3 CAUSATION (character) — No Attested Construction
+
+No construction encoding "causing someone to become a truth-teller" or "causing someone to become a liar" is attested in P4a or P4b. The agentive nominalization section (P4a §7) notes that the concept of "truth-teller" has no lexicalized single-word form and is expressed periphrastically. No causative built on that periphrastic base is reported. This is recorded as a structural gap.
+
+### 2.4 VERIFICATION and DISCONFIRMATION — Shared vs. Distinct Constructions
+
+VERIFICATION and DISCONFIRMATION do not share a single construction in Tagalog as attested in P4a/P4b. They are expressed through different operators:
+
+- VERIFICATION is partially covered by *patunayan* (causative-verificational) and by the existential *may* + [proof nominal] (*May katunayan iyan.*).
+- DISCONFIRMATION is covered by negative attribution (*Hindi totoo iyan.*) for propositional negation and by the existential negative *wala* + *(-ng)* + [proof nominal] (*Walang pruweba.*) for evidentiary absence.
+
+The existential construction (*may* / *wala*) is the one construction that spans both VERIFICATION and DISCONFIRMATION, but it does so through its positive and negative poles respectively, not through a single undifferentiated form. The two poles (*may* and *wala*) are morphologically and semantically distinct.
+
+### 2.5 NEGATION — Analytic, Not Morphological
+
+Negation in this field is entirely analytic. The negator *hindi* is a free-standing pre-posed particle; no morphological negation (infixation, prefixation, or suppletive negative form) is attested for truth-predicate adjectives. This is consistent across all examples in P4a and P4b.
+
+### 2.6 Asymmetry: Positive vs. Negative Forms
+
+One asymmetry is attested in the data. The agentive nominalization field shows an asymmetry between the positive and negative poles:
+
+- **Negative pole (liar):** Lexicalized single-word item *sinungaling* is attested, functioning as both noun and adjective without additional affixation.
+- **Positive pole (truth-teller):** No parallel single-word lexicalized item is attested. The concept requires periphrastic expression (*ang nagsasabi ng katotohanan*).
+
+This asymmetry is reported in P4a §7 and confirmed in P4b §7. No explanation for it is offered in the source data; it is recorded here as an observed asymmetric lexical gap.
+
+A second, weaker asymmetry is noted in the pragmatic loading of *hindi mali* ("not wrong"), which P4a and P4b report as carrying a hedging or defensive nuance beyond simple negation. No parallel pragmatic loading is reported for the positive form *tama* ("correct/right"). This is reported as a pragmatic tendency, not a structural asymmetry.
+
+### 2.7 Grammaticalized Discourse Connectors as Operator Substitutes
+
+The grammaticalized discourse connectors (*Sa katotohanan*, *Sa katunayan*, *Ang totoo...*) occupy a functional slot that partially overlaps with what might be called a REVELATION or ASSERTION operator in discourse. However, P4a and P4b describe these as pragmatic markers for correction, emphasis, and concession rather than as truth-predication constructions proper. They are not mapped to any CLCA operator in this analysis, as no such mapping is supported by the source data. Their pragmatic force is reported as non-compositional.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No construction encoding "it has come to light that X is true" as a distinct operator is attested in P4a or P4b. The BECOME construction (*na*-particle) is attested but is not reported as covering the revelation reading. |
+| **CAUSATION (character)** | No construction encoding "causing someone to become a truth-teller or liar" is attested. The agentive nominalization for "truth-teller" is itself absent as a lexicalized item, blocking the construction at the lexical level as well. |
+| **CAUSATION (factual) — truth-predicate sub-domain** | The *i-* causative is explicitly not attested for *totoo* and *tunay*. The *patunayan* pattern covers the proof/verification sub-domain but does not extend to the full truth-predicate domain. This is a partial structural gap within CAUSATION (factual). |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Agentive for "truth-teller"** | No single lexicalized word for "truth-teller" is attested. The concept requires periphrastic expression. This is a lexical gap that also blocks any causative or agentive construction built on such a base. |
+| **Causative base for *totoo* / *tunay*** | No *i-*-prefixed causative form of *totoo* or *tunay* is attested. Whether this reflects a phonological, morphological, or lexical constraint is not determinable from the data supplied. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the data as supplied. All major truth-domain concepts (truth, falsity, correctness, error, certainty, proof, evidence, lying) are expressible in Tagalog through attested constructions or lexical items. The gaps identified above are structural or lexical, not conceptual: the concepts are accessible through periphrasis or alternative constructions even where a direct single-construction or single-word form is absent.
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Positive Pole | Negative Pole | Gap Location |
+|---|---|---|---|
+| **Agentive nominalization** | No lexicalized single-word "truth-teller" attested; periphrastic only | *sinungaling* ("liar") fully lexicalized as stable single-word noun/adjective | Positive pole: lexical gap |
+| **Pragmatic loading of negated correctness** | *tama* — no special pragmatic loading reported | *hindi mali* — hedging/defensive nuance reported | Negative pole: pragmatic asymmetry (not a structural gap) |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Predicate-initial verbless clause; unmarked across all registers; no restrictions attested. |
+| **ADNOM** | **Fully available** | Linker *na* / *-ng* construction; fully productive across the semantic field. |
+| **BECOME** | **Fully available** | Particle *na* (change-of-state); particle-based rather than morphologically derived; inchoative reading context-dependent with stative predicates. |
+| **REVELATION** | **Missing entirely** | No attested construction in P4a or P4b. Not reported as substituted by BECOME or any other operator. |
+| **CAUSATION (factual)** | **Partially available** | *i-* causative available for correctness adjectives (*tama*, *wasto*, *akma*); *patunayan* available for proof/verification sub-domain; *i-* causative explicitly not attested for truth-predicate adjectives (*totoo*, *tunay*). |
+| **CAUSATION (character)** | **Missing entirely** | No attested construction. Blocked additionally by the lexical gap in the agentive "truth-teller" domain. |
+| **VERIFICATION** | **Available with substitution** | Covered by *patunayan* (causative-verificational sense) and by existential *may* + [proof nominal] (evidentiary presence sense); no single unified VERIFICATION construction. |
+| **DISCONFIRMATION** | **Available with substitution** | Covered by negative attribution (*hindi totoo*) for propositional negation and by existential *wala* + [proof nominal] for evidentiary absence; two distinct constructions cover different aspects of the operator. |
+| **NEGATION** | **Fully available** | Analytic pre-posed negator *hindi*; no morphological negation attested in this field; fully productive. |
+| **NOMINALIZATION** | **Fully available** | Two distinct patterns: circumfix *ka-* … *-an* / *-han* for abstract state/quality nominals; *pag-* + [verbal stem] for action/event nominals; both productive across the field. |
+
+---
+
+*End of I1 output.*

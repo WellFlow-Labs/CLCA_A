@@ -1,0 +1,92 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Swahili (sw)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copula *ni* + truth-domain predicate (P4a §1); Negative copula *si* + truth-domain predicate (P4a §2) | *Hii ni kweli.* / *Si kweli.* | Direct; both positive and negative forms attested | None |
+| **ADNOM** | Head noun + postposed invariant adjective (P4a §3) | *jibu sahihi* / *bidhaa bandia* | Direct | None |
+| **BECOME** | *-ika* stative-intransitive (P4a §4); periphrastic *kuwa na* + nominal (P4a §4) | *Ukweli ulidhihirika.* / *Imani yake ilianza kuwa na uhakika.* | *-ika* form is primary; periphrastic form is [MARGINAL] | None for *-ika* path; periphrastic path is marginal |
+| **REVELATION** | *-ika* stative-intransitive on *kudhihirika* base (P4a §4) | *Ukweli ulidhihirika.* | **SUBSTITUTED BY BECOME** — the *-ika* form covers both "become evident" and "come to light" readings; no separate REVELATION operator is distinguished | No structural gap; the two operators share a single construction |
+| **CAUSATION (factual)** | Causative *-sha/-isha* + truth-domain base (P4a §5) | *Tafadhali thibitisha taarifa hii.* | Direct; *kuthibitisha*, *kuhakikisha*, *kudhihirisha* all attest this operator | None |
+| **CAUSATION (character)** | Agentive nominalization *m-/wa-* + stem (P4a §7); periphrastic *mtu anayesema ukweli* | *mdanganyifu* / *mtu anayesema ukweli* | Negative (deceiver) is directly nominalized; positive (truth-teller) requires circumlocution | **Asymmetric gap**: positive agentive nominal absent; circumlocution required for "truth-teller" |
+| **VERIFICATION** | Causative *-sha/-isha* (P4a §5); possessive epistemic *nina uhakika* (P4a §10) | *Hakikisha mlango umefungwa.* / *Nina uhakika.* | *Kuhakikisha* covers procedural verification; *nina uhakika* covers personal epistemic verification | The two sub-functions (procedural vs. epistemic) are expressed by distinct constructions |
+| **DISCONFIRMATION** | Negative copula *si* + truth predicate (P4a §2); negative periphrastic verbal *piga uongo* (P4a §9) | *Si sahihi kabisa.* / *Usipige uongo.* | **SUBSTITUTED BY NEGATION** for propositional disconfirmation; *piga uongo* covers the act of asserting falsehood | No dedicated DISCONFIRMATION construction distinct from NEGATION |
+| **NEGATION** | Negative copula *si* + truth predicate (P4a §2); negative possessive *sina uhakika* (P4a §10) | *Si kweli.* / *Sina uhakika.* | Analytic (suppletive *si* replaces *ni*; *sina* = *si* + *-na-*); not morphological negation on the predicate itself | None |
+| **NOMINALIZATION** | *u-* prefix abstract nominal (P4a §6); *u-* + causative stem + *-o* result nominal (P4a §6); *m-/wa-* agentive nominal (P4a §7) | *ukweli* / *uthibitisho* / *mdanganyifu* | Direct; multiple sub-patterns attested | None for abstract and result nominals; asymmetric gap for agentive (see CAUSATION (character) above) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME
+
+The CLCA category REVELATION — expressing that a truth or fact "comes to light" or "is revealed" — is not realized by a distinct construction in Swahili. Instead, the *-ika* stative-intransitive form, which is the primary device for BECOME in this domain, covers both readings simultaneously. The example *Ukweli ulidhihirika* ("The truth became evident / came to light") is the same form regardless of whether the reading is inchoative ("became evident") or revelatory ("was revealed, came to light"). The *-ika* suffix derives an agentless intransitive from the causative base, and this agentlessness is what allows the revelatory reading to arise without a separate operator. There is no construction in P4a or P4b that is restricted to the revelatory reading alone. REVELATION is therefore **substituted by BECOME** in Swahili, with the *-ika* construction serving both functions.
+
+### 2.2 VERIFICATION partially overlaps with CAUSATION (factual)
+
+The causative construction *kuhakikisha* (P4a §5) covers both CAUSATION (factual) — "to make something certain/verified" — and VERIFICATION — "to check/ensure." P4b notes that *kuhakikisha* has extended into procedural contexts not strictly related to truth evaluation (*Hakikisha mlango umefungwa*, "Make sure the door is closed"). This means the same morphosyntactic construction serves both operators, and the distinction between CAUSATION (factual) and VERIFICATION is not marked by separate constructions. The possessive epistemic construction *nina/sina uhakika* (P4a §10) covers a distinct sub-function of VERIFICATION — the speaker's personal epistemic state — but this construction does not overlap with CAUSATION (factual). The two sub-functions of VERIFICATION are therefore expressed by two different constructions, neither of which is dedicated exclusively to VERIFICATION.
+
+### 2.3 DISCONFIRMATION substituted by NEGATION
+
+No construction in P4a or P4b is identified as dedicated to DISCONFIRMATION (the act of actively disproving or refuting a claim). The closest attested forms are the negative copula *si* + truth predicate (P4a §2), which is the primary propositional denial formula, and the periphrastic *piga uongo* (P4a §9), which expresses the act of asserting a falsehood rather than the act of refuting one. Neither of these is structurally distinct from NEGATION. DISCONFIRMATION is therefore **substituted by NEGATION** in Swahili for propositional contexts. No dedicated DISCONFIRMATION verb or construction (comparable to, e.g., "to disprove," "to refute," "to debunk") is identified in the data.
+
+### 2.4 Asymmetry: positive vs. negative in CAUSATION (character) / agentive nominalization
+
+P4a §7 and P4b both note that the agentive nominal for a habitual deceiver (*mdanganyifu*) is directly derived and fully lexicalized, while the concept of a habitual truth-teller has no parallel direct agentive nominal. The periphrastic form *mtu anayesema ukweli* ("a person who tells the truth") is the only attested expression. This is a consistent asymmetry across the data: the negative pole (deception, falsehood) has a dedicated agentive nominal; the positive pole (truth-telling) does not.
+
+### 2.5 Asymmetry: *piga uongo* vs. *sema ukweli*
+
+The periphrastic verbal construction for lying uses the light verb *piga* ("to strike/do") + *uongo* (P4a §9). The corresponding positive directive ("tell the truth") uses a different light verb, *sema* ("to speak/say") + *ukweli*. P4b explicitly notes that no *piga kweli* construction is attested. The two poles of the truth/falsehood opposition therefore use different light verbs in the periphrastic verbal construction, and the pattern is not symmetrical.
+
+### 2.6 Possessive epistemic construction restricted to certainty/doubt
+
+The possessive epistemic construction *nina/sina uhakika* (P4a §10) is restricted to certainty and doubt nominals. P4b notes that no parallel *nina kweli* construction is attested for propositional truth. The "have/not-have" frame does not extend across the full truth domain; it is limited to the sub-domain of epistemic certainty. This means the possessive construction and the copular ATTR construction (*ni/si* + truth predicate) serve distinct sub-domains and do not substitute for each other.
+
+### 2.7 NEGATION is analytic, not morphological
+
+The negative copula *si* is a suppletive form replacing *ni*; it is not a morphological negation prefix attached to the predicate. Similarly, *sina* is the negative form of *nina* (subject prefix + *-na-*), not a negation morpheme on the nominal. Both negation patterns in this domain are therefore analytic (involving a distinct negative word or suppletive form) rather than morphological (involving a prefix or suffix on the truth-domain predicate itself).
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **DISCONFIRMATION**: No construction dedicated to the act of disproving or refuting a claim is identified. The function is covered by NEGATION (*si* + truth predicate). This is a **structural gap**: the language does not distinguish DISCONFIRMATION from NEGATION at the constructional level.
+
+### 3.2 Lexical Gaps
+
+- **Agentive nominal for "truth-teller"**: No word directly derived from *kweli* or *ukweli* denoting a habitual truth-teller is attested. The concept requires the periphrastic form *mtu anayesema ukweli*. This is a **lexical gap** within the agentive nominalization pattern: the derivational slot exists (as shown by *mdanganyifu*, *mwaminifu*, etc.) but is not filled for the positive truth-telling agent.
+- **Dedicated REVELATION lexeme**: No lexeme or construction restricted to the revelatory reading ("to reveal a truth") is identified as distinct from the BECOME *-ika* construction. The *-ika* form covers both readings. This is a **lexical gap** in the sense that no separate REVELATION verb is lexicalized.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the data. All major truth-domain concepts (truth, falsehood, accuracy, certainty, deception, verification, legitimacy) are expressible in Swahili. The gaps identified above are lexical or structural, not conceptual.
+
+### 3.4 Asymmetric Gaps
+
+- **Positive agentive nominal absent**: *mdanganyifu* (deceiver) is attested; no parallel direct nominal for "truth-teller" exists. The negative pole is lexicalized; the positive pole is not.
+- **Light verb asymmetry in periphrastic verbal construction**: *piga uongo* (lie) is attested; *piga kweli* is not. The positive counterpart uses a different light verb (*sema ukweli*). The *piga* construction is restricted to the negative pole.
+- **Possessive epistemic construction**: *nina/sina uhakika* (certainty/doubt) is attested; *nina kweli* (propositional truth) is not. The possessive frame is available for the certainty sub-domain but not for the propositional truth sub-domain.
+- **Inchoative periphrastic form**: The periphrastic *kuwa na uhakika* is rated [MARGINAL]; the *-ika* lexicalized form is [CORE]. The periphrastic BECOME path is available but marked relative to the lexicalized path.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Both positive (*ni* + truth predicate) and negative (*si* + truth predicate) forms are [CORE] and attested across all registers. |
+| **ADNOM** | **Fully available** | Head + postposed invariant adjective is [CORE]; attested for *sahihi*, *halisi*, *bandia*. |
+| **BECOME** | **Fully available** | *-ika* stative-intransitive is [CORE]; periphrastic *kuwa na* + nominal is [MARGINAL] but grammatically available. |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME** (*-ika* construction covers both readings); no dedicated REVELATION construction. |
+| **CAUSATION (factual)** | **Fully available** | Causative *-sha/-isha* is [CORE] and productive across multiple bases (*kuthibitisha*, *kuhakikisha*, *kudhihirisha*, *kusahihisha*). |
+| **CAUSATION (character)** | **Partially available** | Negative agentive nominal (*mdanganyifu*) is [CORE]; positive agentive nominal for "truth-teller" is absent; circumlocution required for the positive pole. |
+| **VERIFICATION** | **Available with substitution** | Covered by *kuhakikisha* (procedural) and *nina uhakika* (epistemic); no single dedicated VERIFICATION construction; the two sub-functions use distinct constructions. |
+| **DISCONFIRMATION** | **Available with substitution** | **SUBSTITUTED BY NEGATION** (*si* + truth predicate); no dedicated DISCONFIRMATION construction is attested. |
+| **NEGATION** | **Fully available** | Analytic negation via suppletive *si* (propositional) and *sina* (epistemic possessive); both are [CORE]. |
+| **NOMINALIZATION** | **Fully available** | Abstract (*u-* prefix), result/process (*u-* + causative stem + *-o*), and agentive (*m-/wa-* ± *-aji*) patterns are all attested; agentive pattern has an asymmetric lexical gap at the positive pole only. |

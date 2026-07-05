@@ -1,0 +1,156 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Quechua (qu)
+
+---
+
+**Scope note:** Ratings and usage notes are based solely on patterns documented in P1–P3 and described in P4a. No additional constructions are generated. Naturalness ratings reflect attestation density and contextual breadth as reported in the source data.
+
+---
+
+## 1. ATTRIBUTION
+
+**Naturalness: [CORE]**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Attribution (positive) | Cheqam | cheqa-m | "It is true / That is correct" | [CORE] | Attested as a complete predication in general assertive contexts; the absence of an overt copula is the standard pattern in present-tense non-verbal predication. No restriction to specific register is noted. |
+| Attribution (positive) | Llullam | llulla-m | "It is a lie / That is false" | [CORE] | Parallel to *cheqam*; attested in the same assertive contexts. The direct evidential *-m/-mi* is obligatory for the assertive force of the construction. |
+
+**Attested alternate constructions:**
+- *Cheqa kasqam* — past or reported context, with overt copula *kasqa*; attested but contextually restricted to third-person past and reported speech frames.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+**Naturalness: [CORE]**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Negative attribution | Manan cheqachu | mana-n cheqa-chu | "It is not true / That is not correct" | [CORE] | The *mana...chu* frame is described as the standard negation pattern for predicates; attested without register restriction. The evidential *-n* on *mana* is present but described as optional. |
+| Negative attribution | Manan llullachu | mana-n llulla-chu | "It is not false / That is not a lie" | [CORE] | Parallel construction to *manan cheqachu*; attested as part of the paired rhetorical pattern noted below. |
+
+**Attested alternate constructions:**
+- Paired rhetorical construction: *cheqam, manan llullachu* ("it is true, it is not a lie") — positive assertion combined with negative denial of the opposite pole; attested as a rhetorical pattern but not described as an independent construction type.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+**Naturalness: [CORE]**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Adnominal modification | Cheqa runa | cheqa runa | "An upright person / A person of integrity" | [CORE] | Prenominal position is the standard adjective position in Quechua; no agreement morphology is required or attested. The modifier is invariant across number and case contexts. |
+| Adnominal modification | Llulla simi | llulla simi | "False speech / Lying words" | [CORE] | Same structural pattern as *cheqa runa*; attested without restriction. |
+
+**Attested alternate constructions:**
+- *Cheqa sonqo* ("true-hearted, sincere") and *llulla sonqo* ("false-hearted, deceitful") — extension of the same pattern to body-part nominals encoding inner states; attested but noted as a specific collocation subtype rather than a distinct construction.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+**Naturalness: [CORE] for *allinyay*; [MARGINAL] for *cheqakayta***
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Inchoative verb | Allinyay | allin-ya-y | "To become correct / To improve / To get right" | [CORE] | The *-ya* suffix is described as the productive inchoative on adjectival bases; *allinyay* is attested without contextual restriction noted. |
+| Nominalized stative | Cheqakayta | cheqa-ka-y-ta | "The being true / The becoming real" (nominalized, as object of a verb) | [MARGINAL] | Attested specifically as the object of epistemic verbs in the accusative; the *-ka* stative (rather than *-ya*) is specific to the *cheqa* root and is not described as the general productive pattern. Restricted to object position of epistemic verbs in attested data. |
+
+**Attested alternate constructions:**
+- *Cheqakay* (non-accusative nominalized form) — the base nominalization from which *cheqakayta* is derived; implied by the P4a data but the accusative form is the attested example.
+- No inchoative form of *llulla* is attested in the sources consulted; this gap is explicitly noted in P4a.
+
+---
+
+## 5. CAUSATIVE
+
+**Naturalness: [CORE]**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Causative verb | Cheqachiy | cheqa-chi-y | "To verify / To confirm / To prove / To correct" | [CORE] | Described as highly productive across all roots in this domain; no contextual restriction noted beyond the general transitive causative meaning. |
+| Causative verb | Llullachiy | llulla-chi-y | "To deceive (someone) / To cause to lie / To mislead" | [CORE] | Parallel to *cheqachiy*; attested without restriction. |
+
+**Attested alternate constructions:**
+- *Cheqachikuy* ("to verify for oneself") — causative + reflexive *-ku*; attested.
+- *Llullachikuy* ("to deceive oneself") — causative + reflexive *-ku*; attested.
+- *Sut'ichay* ("to clarify"), *allinchay* ("to correct"), *pantachiy* ("to mislead") — parallel causative forms on other roots in the domain; attested and listed in P4a notes. The causative-reflexive combination is described as attested on all four major roots.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+**Naturalness: [CORE] for *cheqan* / *cheqanta*; [MARGINAL] for *cheqakayta* in this function**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Possessed abstract nominal | Cheqan | cheqa-n | "The truth / What is right / The correct one" | [CORE] | Described as the primary abstract nominal for "truth"; takes case suffixes freely (*cheqanta*, *cheqanmanta*). Attested in the collocation *cheqanta rimay* ("to speak the truth"). |
+| Verbal nominalization (abstract) | Cheqakayta | cheqa-ka-y-ta | "The being true / The truth of (something)" (as object of epistemic verbs) | [MARGINAL] | Attested as object of epistemic verbs; contextually restricted to that position in the data reported. Represents a secondary strategy for abstract nominalization in this domain. |
+
+**Attested alternate constructions:**
+- *Cheqanta* (accusative of *cheqan*) — attested in *cheqanta rimay*; case-inflected form of the primary abstract nominal.
+- *Cheqanmanta* (ablative of *cheqan*) — attested; meaning "about the truth / truly."
+- No parallel abstract nominal for *llulla* is attested in the sources consulted; the concept of "falsehood" as an abstract noun is expressed through the bare adjective or verbal nominalizations according to P4a.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+**Naturalness: [CORE] for *llullaq*; [MARGINAL] for *cheqaq* as person-characterization**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Agentive nominal | Llullaq | llulla-q | "Liar / Deceiver / One who lies" | [CORE] | Described as primarily a person-characterization; the agentive *-q* is productive across all roots in the domain. No contextual restriction noted. |
+| Agentive nominal (habitual) | Llullakuq | llulla-ku-q | "Habitual liar / Chronic deceiver / One who habitually deceives" | [CORE] | The reflexive *-ku* + agentive *-q* combination adds a habitual or self-directed nuance; attested and described as distinct from the bare agentive. |
+
+**Attested alternate constructions:**
+- *Cheqaq* ("genuine, authentic") — agentive form of *cheqa*; attested but described as functioning primarily as an adjective rather than a person-characterization. This asymmetry with *llullaq* is explicitly noted in P4a as present in the attested data.
+- *Yachaq* ("one who knows"), *pantaq* ("one who errs"), *riqsiq* ("one who recognizes") — parallel agentive forms on other roots; listed in P4a notes as attested.
+
+---
+
+## 8. DEONTIC PERIPHRASIS
+
+**Naturalness: [CORE]**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Deontic periphrasis | Cheqanta rimanayki tiyan | cheqanta rima-nayki tiyan | "You must tell the truth / You are obliged to speak truthfully" | [CORE] | Described as the standard Quechua construction for expressing obligation; not specific to the truth domain but attested in legal and testimonial contexts with truth-evaluation verbs. The possessive suffix on *-na* encodes the person bearing the obligation. |
+| Deontic periphrasis (with adverb) | Sut'itatam rimanayki tiyan | sut'i-ta-m rima-nayki tiyan | "You must speak clearly / You are obliged to express yourself plainly" | [CORE] | Parallel construction with an adverbial modifier carrying the direct evidential *-m*; attested in the same legal and testimonial contexts. The evidential on the adverb marks the speaker's direct assertion of the obligation. |
+
+**Attested alternate constructions:**
+- None reported in P4a beyond the two examples given. The purposive/benefactive *-paq* is noted as optional in the construction description but no example with *-paq* is provided in the attested data.
+
+---
+
+## 9. ABILITY PERIPHRASIS
+
+**Naturalness: [CORE] for the positive; [CORE] for the negative**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Ability periphrasis (positive) | Cheqachiy atiy | cheqachiy atiy | "To be able to verify / To be capable of confirming" | [CORE] | The modal verb *atiy* is described as combining freely with infinitives of truth-evaluation verbs; the accusative *-ta* on the infinitive is the standard object-marking in modal constructions. |
+| Ability periphrasis (negative) | Manan cheqachiyta atinichu | mana-n cheqachiy-ta atini-chu | "I cannot verify it / I am unable to confirm it" | [CORE] | Negated with the standard *mana...chu* frame; attested in legal contexts where capacity to verify a claim is at issue. First-person singular form (*atini*) is the attested example. |
+
+**Attested alternate constructions:**
+- Combinations with *sut'ichay* and *pantachiy* are noted in P4a as attested with *atiy*; no additional examples are provided beyond those listed.
+
+---
+
+## 10. CONVERB CONSTRUCTIONS
+
+**Naturalness: [CORE] for *nispa* quotative; [CORE] for *-spa* circumstantial**
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Circumstantial converb | Mana yachaspa rimay | mana yachay-spa rimay | "To speak without knowing / To speak in ignorance" | [CORE] | The *-spa* converb creates an adverbial frame modifying the main verb; this example characterizes speech made without adequate epistemic grounds. Attested without register restriction noted. |
+| Quotative converb | Cheqa nispa rimay | cheqa nispa rimay | "To speak saying it is true / To affirm as true while speaking" | [CORE] | The quotative *nispa* (converb of *niy*) is described as the standard construction for reported speech in Quechua; attested in testimonial contexts when characterizing how a statement was framed. |
+
+**Attested alternate constructions:**
+- None reported in P4a beyond the two sub-patterns and their examples. The quotative *nispa* construction is noted as the standard reported speech construction generally, not a specialized truth-domain form.
+
+---
+
+*End of P4b Construction Usage & Constraints — Quechua (qu)*

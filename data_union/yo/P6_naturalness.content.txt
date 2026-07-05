@@ -1,0 +1,432 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Yoruba (yo)
+
+---
+
+## Preliminary Note
+
+This step documents how Yoruba encodes dynamic meanings — becoming, causing, and maintaining or losing truth-related states — using vocabulary established in P1 through P5. The analysis draws exclusively on attested constructions and vocabulary from the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Where the same construction type applies across multiple terms, this is noted rather than repeated in full for each.
+
+Three general observations from the prior data are relevant here:
+
+1. Yoruba has no dedicated inchoative or causative morpheme in this domain. Change-of-state and causation are expressed through lexical verbs, serial verb constructions, and periphrastic structures (P4a, Construction 4 and 5).
+2. The most productive change-of-state verb in the epistemic domain is *farahàn* (to become visible, to be revealed, to become clear), which takes *pé* + propositional complement (P2b, Construction 4). The inchoative verb *di* ("to become") is the most broadly applicable dynamic construction across the truth domain, combining with nominal and adjectival predicates.
+3. The most productive causative structure is the serial verb *fi* X *hàn* (to cause X to be seen/revealed) and *fi* X *gbà* Y (to use X to cause receipt of Y), alongside the permissive *jẹ́ kí* (P4a, Construction 5).
+
+The CONTEXT establishes the following resources for encoding dynamics:
+
+- **Motion-based inchoative:** *padà sí* (return to), *jáde kúrò nínú* (come out from), *di* (become) — documented in P4a Construction 4
+- **Permissive-causative:** *jẹ́ kí* (let/cause) — P4a Construction 5
+- **Instrumental serial verb:** *fi* (use/employ as instrument) — P4a Construction 5
+- **Negative future:** *kò ní* + predicate — P2b constructions 6, 13, 16, 21, 31, 69, 82
+- **Existential pair:** *wà* / *kò sí* — P4a Construction 10
+- **Directional verb:** *dúró sí* (stand by/remain committed to), *dúró nínú* (stand firm in) — P2b constructions 3, 34
+- **Habitual marker:** *ń* — P2b constructions 26, 71, 72, 73
+
+---
+
+## SECTION 1: BECOMING A TRUTH-RELATED STATE
+
+---
+
+### 1.1 Becoming truthful / coming into truth
+
+**Pattern:** Motion-directional construction — *padà sí* + truth-domain noun
+
+**Attested example:**
+> *Padà sí ìgbàgbọ́*
+> "Return to faith / come back to belief"
+> (P2b construction 36)
+
+**Notes:** This is the only fully attested inchoative construction in the CONTEXT involving a truth-domain noun as the goal state. The verb *padà* (return) implies a prior state of faith that was lost and is being recovered; it encodes re-entry into a state rather than first entry. No parallel construction *padà sí òtítọ́* (return to truth) is attested in the CONTEXT, though the structural pattern would permit it.
+
+---
+
+**Pattern:** Motion-directional construction — *jáde kúrò nínú* + opposed state
+
+**Attested example:**
+> *Jáde kúrò nínú àìmọ̀*
+> "Come out of ignorance / leave ignorance behind"
+> (P2b construction 32)
+
+**Notes:** This construction encodes transition into knowledge by describing departure from its opposed state (*àìmọ̀*, ignorance). The goal state (knowledge, *ìmọ̀*) is implied rather than named. This is the only attested construction of this type in the CONTEXT. No parallel *jáde kúrò nínú irọ́* (come out of falsehood) or *jáde kúrò nínú ẹ̀ṣẹ̀* (come out of sin) is attested as a fixed expression in the CONTEXT, though *wà ní ẹ̀ṣẹ̀* (be in a state of sin, P2b construction 70) implies the logical possibility of such a departure.
+
+---
+
+**Pattern:** *di* + nominal predicate (become)
+
+**Attested in P4a** as an alternate inchoative construction (Construction 4, alternate row). P4a notes it as an alternate to the motion-based pattern and rates it [UNCERTAIN] for frequency relative to the motion construction.
+
+---
+
+**Pattern:** *farahàn pé* + propositional complement
+
+**Attested example (P2b):**
+> *Ó farahàn pé òtítọ́ ni*
+> It became clear that it is the truth / It turned out to be true
+
+**Notes:** The verb *farahàn* (to become visible, to appear, to be revealed) is the primary lexical vehicle for expressing the emergence of truth into clarity. The construction does not assert that something *becomes* true in an ontological sense but that its truth-status becomes apparent or established. The subject of *farahàn* is typically an impersonal *ó* (it) with the propositional content introduced by *pé*. No construction expressing "X becomes truth" in the sense of a proposition changing from false to true is attested in the data. The available constructions express revelation of pre-existing truth rather than ontological change.
+
+---
+
+**Pattern:** *hàn gbangba* (to become clearly visible)
+
+**Attested example (P2b, under ìwà):**
+> *Ìwà rẹ̀ hàn gbangba*
+> His/her true character is clearly visible / His/her true nature has become evident
+
+**Notes:** *hàn* (to appear, become visible) with the adverb *gbangba* (openly, clearly) expresses the becoming-apparent of a previously concealed or unrecognized state. In the truth domain this applies to character (*ìwà*) and, by extension, to the truth of a matter becoming publicly evident. The subject is the thing revealed, not the proposition about it. Character itself (*ìwà*) is not described in the data as changing; the constructions in P2b evaluate it as good or bad, as visible or concealed, but not as undergoing transformation. The absence of a "character becomes good/bad" construction in the data is consistent with the P1 description of *ìwà* as referring to fundamental nature rather than isolated acts.
+
+---
+
+### 1.2 Becoming a specific truth-related state: *di* constructions
+
+**Pattern:** *di* + [NOMINAL/ADJECTIVAL PREDICATE]
+The inchoative verb *di* ("to become") is the primary means of encoding change of state in Yoruba (documented in P4a, Pattern 4). It combines with nominal and adjectival predicates freely.
+
+---
+
+**Form:** *di ènìyàn òtítọ́*
+
+**Attested example:**
+> *Ó di ènìyàn òtítọ́.*
+> He/she became a truthful person. / He/she became a person of truth.
+
+**Source:** Directly attested in P4a (Pattern 4, first example).
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di ojúlówó*
+
+**Attested example:**
+> *Ó di ohun ojúlówó.*
+> It became a genuine thing. / It became authentic.
+
+**Source:** The *di* + nominal predicate pattern is attested in P4a; *ojúlówó* is a post-nominal modifier documented in P1 and P3 (Group 3). The combination follows the attested pattern directly.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di ọmọlúwàbí*
+
+**Attested example:**
+> *Ó di ọmọlúwàbí.*
+> He/she became a person of good character. / He/she became a virtuous, well-bred person.
+
+**Source:** *di* + nominal predicate pattern (P4a); *ọmọlúwàbí* documented in P1b (Root 2, item 6) and P2a (Base 16, Derived Form 4) as a core evaluative nominal.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di lágbára* (applied to *ìgbàgbọ́*)
+
+**Attested example:**
+> *Ìgbàgbọ́ rẹ̀ di lágbára.*
+> His/her belief became strong. / His/her faith grew strong.
+
+**Source:** Directly attested in P4a (Pattern 4, second example).
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di ènìyàn tí a lè gbẹ́kẹ̀lé*
+
+**Attested example:**
+> *Ó di ènìyàn tí a lè gbẹ́kẹ̀lé.*
+> He/she became a person one can trust. / He/she became reliable.
+
+**Source:** *di* + nominal predicate pattern (P4a); the relative-clause nominal *ènìyàn tí a lè gbẹ́kẹ̀lé* is attested in P2a (Base 8, Derived Form 1) and P2b (Base 8, Construction 4) as the standard expression for a trustworthy person.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di tọ́* (stative predicate)
+
+**Attested example:**
+> *Ìdájọ́ náà di tọ́.*
+> The judgment became correct. / The verdict became right.
+
+**Source:** *di* + stative verbal predicate pattern (P4a); *tọ́* as a stative evaluative predicate is attested in P1b (Root 1, item 3) and P2b (Base 18, Construction 2).
+**Notes:** P4a notes that *di* "combines freely with nominal and adjectival predicates." The stative verb *tọ́* functions adjectivally in predicative position; the combination is structurally consistent with the attested pattern. However, no specific example of *di tọ́* is attested in the context; the form is derived by pattern extension.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Becoming known: epistemic transition
+
+**Pattern:** *A mọ̀ pé irọ́ ni* (it becomes known that it is a lie)
+
+**Attested example (P2b):**
+> *A mọ̀ pé irọ́ ni*
+> We know that it is a lie / It is known to be a lie
+
+**Notes:** This construction does not express becoming in a morphological sense but expresses the epistemic transition from not-knowing to knowing that something is false. The verb *mọ̀* (to know) in its perfective reading implies that knowledge has been acquired. No dedicated "becomes a lie" construction is attested; the closest available expression is the revelation construction with *farahàn* applied to falsehood:
+
+> *Ó farahàn pé irọ́ ni*
+> It became clear that it is a lie / It turned out to be false
+
+This construction is not explicitly attested in P2b for *irọ́* but follows directly from the attested pattern for *òtítọ́* and the parallel syntactic behavior of the two terms documented throughout P1–P5.
+
+---
+
+### 1.4 Belief changing
+
+**Pattern:** *yí padà* (serial verb: to turn around, to change)
+
+**Attested example (P2b):**
+> *Ìgbàgbọ́ rẹ̀ yí padà*
+> His/her belief changed / His/her faith shifted
+
+**Notes:** The serial verb *yí padà* (lit. turn-return) is the attested expression for change in the state of belief. It applies to the nominal *ìgbàgbọ́* as subject and expresses a change of orientation or commitment. The direction of change (from belief to unbelief, or from one belief to another) is not specified by the construction itself; context determines this.
+
+---
+
+### 1.5 Being in a state (stative-locative)
+
+**Pattern:** *wà ní* + opposed state
+
+**Attested example:**
+> *Wà ní ẹ̀ṣẹ̀*
+> "Be in sin / exist in a state of guilt / live in transgression"
+> (P2b construction 70)
+
+**Notes:** *Wà ní* encodes being in a state rather than transition into it; it is a stative-locative construction rather than a strict inchoative. However, P2b documents it in contexts of moral discourse where the state of sin is described as something a person can be in, implying entry and exit are possible. No construction encoding the moment of entering sin (*di alẹ̀ṣẹ̀*, become a sinner) is attested in the CONTEXT.
+
+---
+
+### 1.6 Genuineness as a state to be verified
+
+**Pattern:** *ẹ ṣàyẹ̀wò bóyá ó jẹ́ gidi* (examine whether it is genuine)
+
+**Attested example (P2b):**
+> *Ẹ ṣàyẹ̀wò bóyá ó jẹ́ gidi*
+> Examine it to see whether it is genuine / Check whether it is authentic
+
+**Notes:** This construction frames genuineness as a state to be verified rather than one that comes into being. No "becomes genuine" construction is attested in the data. The copular construction *ó jẹ́ gidi* (it is genuine) is stative; *gidi* does not participate in inchoative constructions in the attested data.
+
+---
+
+### 1.7 Summary of inchoative patterns
+
+The following inchoative patterns are attested in the data:
+
+| Expression | Applies to | Meaning |
+|---|---|---|
+| *farahàn pé* + complement | *òtítọ́*, *irọ́*, propositions generally | truth/falsity of a matter becomes apparent |
+| *hàn gbangba* | *ìwà*, character states | a state becomes publicly visible |
+| *yí padà* | *ìgbàgbọ́* | a belief or faith changes |
+| *mọ̀ pé* (perfective) | *irọ́*, *òtítọ́* | it becomes known that something is true/false |
+| *padà sí* + noun | *ìgbàgbọ́* | return to / re-entry into a state |
+| *jáde kúrò nínú* + noun | *àìmọ̀* / *ìmọ̀* | departure from an opposed state |
+| *di* + nominal/adjectival predicate | *òtítọ́*, *ìwà*, *ìgbàgbọ́*, *ìgbẹ́kẹ̀lé*, *ojúlówó*, *ìdájọ́* | becoming a named state |
+
+No inchoative construction is attested for *tọ́* (correctness as a standalone inchoative), *gidi* (genuineness), *ẹ̀rí* (evidence), or *ìjẹ́rìísí* (certification) as states that come into being. These are treated in the data as states that are evaluated or verified, not as states that emerge. No construction of the form *di ẹ̀rí* is attested in the context. *ẹ̀rí* is used as a noun denoting evidence that exists or does not exist (existential constructions, P4a Pattern 9), but no inchoative construction with *di* is documented for it. No construction of the form *di irọ́* (as a nominal predicate for a proposition) is attested. The context documents *irọ́* in verbal collocations (*sọ irọ́*) and existential constructions (*kò sí irọ́ nínú rẹ̀*) but not in inchoative constructions. No construction of the form *di ìmọ̀* is attested. *ìmọ̀* appears in possessive constructions (*ó ní ìmọ̀*) and existential constructions but not in inchoative constructions in the context.
+
+---
+
+## SECTION 2: BECOMING A NON-TRUTH / OPPOSED STATE
+
+### Pattern
+**di** + [OPPOSED NOMINAL/ADJECTIVAL PREDICATE]
+or
+Collapse/destruction constructions: **ti fọ́** ("has broken/shattered"), **ti wó** ("has collapsed/fallen")
+The collapse constructions are attested specifically for *ìgbẹ́kẹ̀lé* and *ìgbàgbọ́* (P2b, P5 Opposition 14) and encode irreversible loss of a truth-related state rather than gradual change.
+
+---
+
+**Form:** *di ènìyàn irọ́*
+
+**Attested example:**
+> *Ó di ènìyàn irọ́.*
+> He/she became a liar. / He/she became a person of falsehood.
+
+**Source:** *di* + nominal predicate pattern (P4a); *ènìyàn irọ́* ("a lying person / a liar") is attested in P2a (Base 2, Derived Form 2) and P4a (Pattern 7) as the periphrastic agentive for liar.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *di ènìyàn ìwà burúkú*
+
+**Attested example:**
+> *Ó di ènìyàn ìwà burúkú.*
+> He/she became a person of bad character. / He/she became wicked.
+
+**Source:** *di* + nominal predicate pattern (P4a); *ìwà burúkú* is a core evaluative expression documented throughout P1–P5.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *ìgbẹ́kẹ̀lé rẹ̀ ti fọ́*
+
+**Attested example:**
+> *Ìgbẹ́kẹ̀lé rẹ̀ ti fọ́.*
+> Trust in him/her has broken. / His/her reliability has been shattered.
+
+**Source:** Directly attested in P2b (Base 8, Construction 2) and P5 (Opposition 14).
+**Notes:** The perfective aspect marker *ti* + *fọ́* ("to break/shatter") encodes a completed, irreversible change of state. This construction is specific to *ìgbẹ́kẹ̀lé* in the attested data; it is not documented for other truth-domain nominals.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *ìgbàgbọ́ rẹ̀ ti wó*
+
+**Attested example:**
+> *Ìgbàgbọ́ rẹ̀ ti wó.*
+> His/her faith/belief has collapsed. / His/her conviction has crumbled.
+
+**Source:** Directly attested in P2b (Base 7, Construction 3) and P5 (Opposition 14).
+**Notes:** The perfective *ti* + *wó* ("to collapse/fall") encodes irreversible loss of the belief state. P5 notes that *fọ́* is used for *ìgbẹ́kẹ̀lé* and *wó* for *ìgbàgbọ́*, and that these are "non-identical but parallel constructions." The two verbs of collapse are not interchangeable across the two nominals in the attested data.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *ìwà rẹ̀ di àìtọ́*
+
+**Attested example:**
+> *Ìwà rẹ̀ di àìtọ́.*
+> His/her conduct became improper. / His/her character became incorrect.
+
+**Source:** *di* + adjectival predicate pattern (P4a); *àìtọ́* (negated *tọ́*, via the *àì-* prefix) is documented in P2a (Base 16, Derived Form 7) as the negative element in *ìwà àìtọ́* ("incorrect conduct, improper character").
+**Notes:** No specific example of *di àìtọ́* is attested in the context; the form is derived by pattern extension from the attested *di* + predicate pattern and the attested *àìtọ́* element.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** *ìwà rẹ̀ di àgàbàgebè*
+
+**Attested example:**
+> *Ìwà rẹ̀ di àgàbàgebè.*
+> His/her conduct became pretense. / His/her character became sham.
+
+**Source:** *di* + nominal predicate pattern (P4a); *àgàbàgebè* is documented in P1 and P2b (Base 13) as a core nominal for pretense and hypocrisy.
+**Notes:** The copular construction *ìwà rẹ̀ jẹ́ àgàbàgebè* ("his/her conduct is pretense") is directly attested in P2b; the inchoative *di* version follows the same structural pattern.
+**Epistemic status:** [CORE]
+
+---
+
+**Proverbial constructions asserting the fate of falsehood and deception:**
+
+**Attested examples:**
+> *Irọ́ kò ní dúró* — "A lie will not stand" (P2b construction 16)
+> *Irọ́ ò ní gbádùn* — "Falsehood will not prosper" (P2b construction 13)
+> *Ìtànjẹ́ kò ní gbádùn* — "Deception will not prosper" (P2b construction 82)
+
+**Notes:** These constructions encode the dynamic fate of falsehood and deception — their inability to persist or succeed — using the negative future *kò ní* / *ò ní*. They do not describe a moment of becoming but assert that the opposed state (standing, prospering) will not be achieved. They are stability-denying rather than strictly inchoative.
+
+---
+
+**Terms for which no opposed-state transition is attested:**
+
+- **Becoming ignorant (*àìmọ̀*):** No construction of the form *di àìmọ̀* is attested in the context. *àìmọ̀* is documented as a nominalized state (P2a) but not in inchoative constructions.
+- **Becoming a counterfeit (*àdàwọ̀*):** *àdàwọ̀* appears in the context only in the contrastive construction *kì í ṣe àdàwọ̀* (P2b); no inchoative construction with it is attested.
+
+---
+
+## SECTION 3: CAUSING A TRUTH-RELATED STATE
+
+### 3.1 Causing truth to be revealed: *fi...hàn*
+
+**Pattern:** *fi* + [truth-related nominal] + *hàn* (serial verb: to use/take...to show/reveal)
+
+**Attested examples (P2b):**
+> *Ó fi òtítọ́ hàn*
+> He/she revealed the truth / He/she showed the truth
+
+> *Ó fi ẹ̀rí hàn lójú ìgbìmọ̀*
+> He/she presented evidence before the court / He/she caused evidence to be seen before the tribunal
+
+> *Ó fi ìmọ̀ rẹ̀ hàn* (P2b)
+> He/she demonstrated his/her knowledge / He/she caused his/her knowledge to be seen
+
+**Notes:** The serial verb construction *fi* X *hàn* is the primary causative structure for causing truth or evidence to become visible or known. The agent is the subject; the truth-related nominal occupies the object slot of *fi*; *hàn* (to show, reveal, make visible) is the result verb. The locative *lójú* (before the face of, in the presence of) optionally specifies the recipient audience. This construction applies productively to *òtítọ́* (truth), *ẹ̀rí* (evidence), and *ìmọ̀* (knowledge).
+
+---
+
+### 3.2 Causing certainty in a person's mind: *dánilójú*
+
+**Pattern:** *dánilójú* — causing certainty in a person's mind
+
+**Attested example:**
+> *Fún ní ìdánilójú*
+> "Give assurance to / provide confirmation to / convince"
+> (P2b construction 87)
+
+**Notes:** The verbal base *dánilójú* (P2a item 44) is documented as meaning "to make one certain, to convince" — its morphological analysis is *dá* (make/establish) + *ni* (person/one) + *lójú* (in the eye/certain). This is the most direct causative construction in the truth domain: it encodes the act of establishing certainty in another person. The ditransitive *fún ní ìdánilójú* is the attested constructional frame. The verb *dánilójú* (from *dá* — to establish + *ni* — for/to someone + *lójú* — in the eye/face of) is the primary causative verb for causing a person to arrive at a state of conviction or assurance. Its nominalization *ìdánilójú* (assurance, convincing proof) and its negation *àìdánilójú* (failure to convince) are documented in P2a. No full sentence example with *dánilójú* as a finite verb is attested in P2b, but the verbal base is documented in P2a with the meaning "to establish in someone's eyes." The construction would take the form:
+
+> *Ó dánilójú pé òtítọ́ ni*
+> He/she convinced [them] that it is the truth / He/she established in their eyes that it is true
+
+This follows directly from the morphological description and the attested nominalization *ìdánilójú*.
+
+---
+
+### 3.3 Causing falsehood to be used as an instrument: *fi irọ́ gbà*
+
+**Pattern:** *fi irọ́ gbà* + [result] (serial verb: to use lies to obtain)
+
+**Attested example (P2b):**
+> *Ó fi irọ́ gbà owó*
+> He/she obtained money through deception / He/she used lies to cause receipt of money
+
+**Notes:** This construction treats *irọ́* (falsehood) as an instrument in a causative chain: the agent uses falsehood to cause a result (here, obtaining money). The construction is documented in P2b in the context of fraud. It is the primary attested pattern for expressing causation through deception.
+
+---
+
+### 3.4 Causing concealment of truth: *pa...mọ́* and *bo...pamọ́*
+
+**Pattern:** *pa* + [truth-related nominal] + *mọ́* (serial verb: to keep/conceal)
+
+**Attested example (P2b):**
+> *Ó ń pa òtítọ́ mọ́*
+> He/she is concealing the truth / He/she is hiding the truth
+
+**Pattern:** *bo* + [truth-related nominal] + *pamọ́* (serial verb: to cover/conceal)
+
+**Attested example (P2b):**
+> *Ó ń gbìyànjú láti bo irọ́ rẹ̀ pamọ́*
+> He/she is trying to conceal his/her lie / He/she is attempting to hide his/her falsehood
+
+**Notes:** These two serial verb constructions express causation of concealment. *pa...mọ́* applies to *òtítọ́* (truth); *bo...pamọ́* applies to *irọ́* (a lie). Both involve an agent causing a truth-related state to remain hidden. The progressive marker *ń* in both attested examples indicates ongoing action. These constructions are the dynamic counterparts to the revelation construction *fi...hàn*: where *fi...hàn* causes something to become visible, *pa...mọ́* and *bo...pamọ́* cause it to remain concealed.
+
+---
+
+### 3.5 Causing correction: *tọ́ sí* and *ìtọ́sí*
+
+**Pattern:** *tọ́* + [object] + *sí* (to correct toward, to direct properly)
+
+**Attested examples (P1b, P2b):**
+> *Ẹ tọ́ ọ sí ọ̀nà tó tọ́*
+> Direct him/her to the correct path / Guide him/her to the right way
+
+**Notes:** The verbal phrase *tọ́...sí* (to correct toward, to direct properly) expresses causation of correctness: an agent causes a person or thing to move toward the correct state or path. The nominalization *ìtọ́sí* (correction, rectification) refers to this act as a completed or named process. This is the primary causative construction for the *tọ́* domain. No "becomes correct" or "becomes incorrect" construction is attested in the data for *tọ́* as a stative predicate in isolation; correction is expressed causatively (*tọ́ sí*, *ìtọ́sí*) rather than inchoatively.
+
+---
+
+### 3.6 Causing acceptance of truth: *gbà...gbọ́*
+
+**Pattern:** *gbà* + [truth-related nominal] + *gbọ́* (serial verb: to accept/receive...to hear/believe)
+
+**Attested example (P2b):**
+> *Ó gbà òtítọ́ gbọ́*
+> He/she accepted the truth / He/she received the truth
+
+**Notes:** This serial verb construction expresses the act of a person causing themselves to accept a truth — or, in a causative reading, an agent causing a recipient to receive and accept a truth. The construction combines *gbà* (to accept, receive) and *gbọ́* (to hear, believe), the two components of *gbàgbọ́* (to believe), in a serial structure that emphasizes the act of reception. It is documented in P2b as a construction for accepting a true statement or teaching.
+
+---
+
+### 3.7 Causing someone to testify: *jẹ́rìí* constructions
+
+**Pattern:** *kọ̀ láti jẹ́rìí* (refusal to testify — blocking causation)
+
+**Attested example (P2b):**
+> *Ó kọ̀ láti jẹ́rìí*
+> He/she refused to testify / He/she declined to bear witness
+
+**Notes:** This construction expresses the blocking of testimony — a person causing the act of *jẹ́rìí* (testifying) not to occur. No construction expressing "Y causes X to testify" is attested in the data beyond the imperative *Ẹ jẹ́rìí sí ohun tí ẹ rí* (testify to what you saw), which is a directive rather than a causative in the strict sense.
+
+---
+
+### 3.8 Permissive causation: *jẹ́ kí*
+
+**Pattern:** *jẹ́ kí* + NP + *jẹ́* + nominal predicate (permissive

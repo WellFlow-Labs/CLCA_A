@@ -1,0 +1,127 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Georgian (ka)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Adjective (truth/falsity predicate) + copula (aris / -a clitic) functioning as a predicate, assigning a truth-domain property to a subject NP.
+
+### Examples
+- მართალია → martalia → "it is true / that is right"
+- სიცრუეა → sicruea → "it is a lie / that is false"
+
+### Notes
+The copula frequently cliticizes to the predicate nominal or adjective (-a suffix), producing a single phonological word. The construction is used both as a full predicate and as a discourse-level response particle confirming or denying a prior claim.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Privative prefix **u-** + adjectival stem + suffix **-o**, producing a negated adjective that is then used predicatively or attributively. Alternatively, the negative particle **ar** + copula with a truth-domain nominal.
+
+### Examples
+- უზუსტო → uzusto → "inaccurate, imprecise" (privative adjective)
+- სიცრუე არ არის → sicrue ar aris → "it is not a lie / it is not false"
+
+### Notes
+The **u-...-o** privative pattern is morphologically productive across the adjectival bases in this domain (uzusto, usarcmuno, usando, uk'anono, unamdvilo). The analytic negation with **ar aris** is available for all nominal predicates and is not restricted to this domain.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Attributive adjective (truth/falsity/authenticity predicate) precedes the head noun directly, with no agreement morphology required (Georgian adjectives do not inflect for gender or number in attributive position).
+
+### Examples
+- ყალბი დოკუმენტი → q̇albi dok'ument'i → "forged document"
+- სარწმუნო მოწმე → sarcmuno mc̣me → "credible witness"
+
+### Notes
+Attributive adjectives are invariant in form regardless of the case, number, or definiteness of the head noun. When the head noun is inflected (e.g., genitive, dative), the adjective takes the same case suffix: **ყალბი დოკუმენტის** (q̇albi dok'ument'is, genitive). This is the primary construction for characterizing documents, persons, and statements as true, false, or authentic.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Truth-domain nominal in the adessive case (**-ze** suffix) + motion verb **წასვლა** (c̣asvla, "going/resorting to"), or resultative verb **გამოაშკარავდა** (gamoašk'aravda, "was exposed/came to light") with a truth-domain subject.
+
+### Examples
+- სიყალბეზე წასვლა → siq̇albeze c̣asvla → "resorting to falsehood / descending into fraud"
+- სიყალბე გამოაშკარავდა → siq̇albe gamoašk'aravda → "the fraud was exposed / the falsity came to light"
+
+### Notes
+Georgian does not have a single dedicated inchoative construction for truth-domain meanings. The adessive + motion verb construction expresses a transition into a state of falsity or deception. The resultative verb construction expresses the coming-to-light of a hidden truth or fraud. Both are attested but neither is a grammaticalized inchoative morpheme.
+
+---
+
+## 5. CAUSATIVE
+
+(no common expression identified)
+
+### Notes
+No productive morphological causative construction specific to truth-domain predicates is attested in the data. The verbal derivations documented (gaq̇albeba "to falsify," gasc̣oreba "to correct") involve preverb + root + verbal noun morphology and encode the causing of a false or correct state, but these are lexical formations rather than a synchronically productive causative pattern applied to truth-domain adjectives as a class.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Two productive patterns are attested:
+- **si-...-e** / **si-...-le** circumfix on adjectival stem: **simartle**, **siq̇albe**, **sizuste**, **sisc̣ore**
+- Adjectival stem + **-eba** / **-oba** suffix: **č̣ešmariteba**, **namdviloba**, **avt'enturoba**, **k'anoniereba**, **sandooba**
+
+### Examples
+- სიმართლე → simartle → "truth, correctness" (from mart- root)
+- ჭეშმარიტება → č̣ešmariteba → "truth, truthfulness, genuineness" (from č̣ešmariti)
+
+### Notes
+The **si-...-e/le** pattern and the **-eba/-oba** pattern are both productive in Georgian nominal derivation. Within the truth domain, **si-...-e/le** nominals (simartle, siq̇albe, sizuste) tend toward colloquial and everyday use, while **-eba** nominals (č̣ešmariteba, k'anoniereba) tend toward formal, philosophical, or legal registers. Both patterns produce nominals that serve as subjects and objects of predicates and as bases for genitive constructions.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Two patterns are attested:
+- Root + agentive suffix **-ari**: **mt'q̇uari** ("liar")
+- Preverb **ga-** + agentive prefix **ma-** + root + suffix **-ebeli**: **gamaq̇albebeli** ("forger, falsifier")
+
+### Examples
+- მტყუარი → mt'q̇uari → "liar, untruthful person"
+- გამაყალბებელი → gamaq̇albebeli → "forger, falsifier, counterfeiter"
+
+### Notes
+**mt'q̇uari** is the primary agentive nominal for a person who lies, derived directly from the lying root with the **-ari** suffix. **gamaq̇albebeli** is derived from the verbal stem via the **ma-...-ebeli** agentive participial pattern, which is productive for forming agent nouns from prefixed verbs. No parallel agentive nominal for "truth-teller" is attested as a single lexicalized form; the concept is expressed periphrastically (e.g., **simartlis mtqveli**, "one who tells the truth").
+
+---
+
+## 8. GENITIVE MODIFICATION (additional pattern)
+
+### Pattern
+Truth-domain nominal in the genitive case (**-is** / **-s** suffix) + deverbal or relational nominal head, forming a noun phrase denoting an action, process, or property related to truth, falsity, or verification.
+
+### Examples
+- მტკიცების ტვირთი → mt'k'icebis t'virti → "burden of proof"
+- სიმართლის დადგენა → simartlis dadgena → "establishing the truth / determination of the truth"
+
+### Notes
+This is the most productive multi-word construction pattern in the truth domain. The genitive nominal specifies the truth-related content (truth, falsity, proof, authenticity) while the head nominal specifies the action or relation (burden, determination, search, criterion, confirmation, violation). The pattern generates the majority of the fixed legal and philosophical collocations documented in P1b and P2b.
+
+---
+
+## 9. RESULTATIVE PARTICIPIAL ATTRIBUTION (additional pattern)
+
+### Pattern
+Preverb + root + **-ebul-** (resultative participial infix) + **-i** adjectival suffix, producing an adjective meaning "that which has been [verb]ed," used attributively or predicatively.
+
+### Examples
+- დადასტურებული → dadasturebuli → "confirmed, verified, attested"
+- გაყალბებული → gaq̇albebuli → "falsified, forged, counterfeited"
+
+### Notes
+The **-ebul-** resultative participial pattern is productive across the verbal system and generates attributive adjectives encoding the completed state resulting from an action. In the truth domain it is attested for verification (dadasturebuli), proof (damt'k'icebuli), falsification (gaq̇albebuli), and cross-checking (gadamomc̣mebuli). These forms appear primarily in legal and administrative attributive contexts.

@@ -1,0 +1,21 @@
+# Global typology analysis: Set A
+# Newly analyzed CLCA languages
+
+languages = [
+    { name = "Georgian", code = "ka", script = "Georgian" },
+    { name = "Yoruba",   code = "yo", script = "Latin" },
+    { name = "Finnish",  code = "fi", script = "Latin" },
+    { name = "Basque",   code = "eu", script = "Latin" },
+    { name = "Tamil",    code = "ta", script = "Tamil" },
+    { name = "Indonesian",  code = "id", script = "Latin" },
+    { name = "Turkish",  code = "tr", script = "Latin" },
+    { name = "Korean",   code = "ko", script = "Hangul" },
+]
+
+# Optional: Provide AOML matrix file for G7b
+aoml_matrix = "aoml/aoml_constraint_matrix.json"
+
+# Backend used for G-phase prompts (neutral formatting phase)
+backend = "openai"
+model = "gpt-4.1"
+temperature = 0.0

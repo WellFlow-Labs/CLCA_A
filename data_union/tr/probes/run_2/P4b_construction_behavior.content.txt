@@ -1,0 +1,46 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Turkish (tr)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** | **Bu haber doğru.** | bu haber doğru | "This news is correct/true." | [CORE] | Null-copula predicate-adjective is the default pattern in everyday speech and writing; *-dır* variant (*Bu haber doğrudur*) is restricted to formal, assertive, or written registers. No agreement inflection on the adjective. |
+| **1. ATTRIBUTION** | **İddia asılsız.** | iddia asılsız | "The claim is unfounded/baseless." | [CORE] | Same null-copula pattern; *asılsız* is a lexicalized privative form, not a productive negation. Typical in journalistic and evaluative contexts. |
+| **2. NEGATIVE ATTRIBUTION** | **Bu belge gerçek değil.** | bu belge gerçek değil | "This document is not real/genuine." | [CORE] | *Değil* is the sole negation strategy for adjectival predicates; no alternate negation construction is attested in this slot. Tense and evidential suffixes attach to *değil* (*değildi*, *değilmiş*). |
+| **2. NEGATIVE ATTRIBUTION** | **İddia doğru değil.** | iddia doğru değil | "The claim is not correct/true." | [CORE] | Fully productive across all truth-domain adjectives. Privative derivatives (*asılsız*, *geçersiz*) are lexical items, not alternates to this construction. |
+| **3. ADNOMINAL MODIFICATION** | **Sahte belgeyle yakalandı.** | sahte belgeyle yakalandı | "He/she was caught with a forged document." | [CORE] | Modifier precedes head noun invariantly; all case inflection falls on the head noun. *Bir* may intervene between modifier and noun without disruption. Fully productive across all truth-domain adjectives listed in P4a. |
+| **3. ADNOMINAL MODIFICATION** | **Güvenilir bir kaynaktan aldım.** | güvenilir bir kaynaktan aldım | "I got it from a reliable source." | [CORE] | Same pattern with indefinite *bir* intervening; ablative case on head noun. No restriction on adjective class within the truth domain. |
+| **4. BECOME / INCHOATIVE (morphological)** | **Hareket zamanla meşrulaştı.** | hareket zamanla meşrulaştı | "The movement became legitimate over time." | [CORE] | Morphological *-leş-* inchoative is productive where conventionalized; temporal adverbials (*zamanla*, *giderek*) are typical co-occurring elements. Not all truth-domain adjectives have a conventionalized *-leş-* form. |
+| **4. BECOME / INCHOATIVE (morphological)** | **Hayalleri gerçekleşti.** | hayalleri gerçekleşti | "Their dreams came true / were realized." | [CORE] | *Gerçekleşmek* is highly frequent but has shifted toward the meaning "to occur, to take place" in addition to "to become real"; the original inchoative reading is still available but context-dependent. |
+| **4. BECOME / INCHOATIVE (periphrastic)** | *(geçerli olmak, haklı olmak)* | geçerli olmak / haklı olmak | "to become valid / to be right" | [CORE] | Periphrastic *[adjective] + olmak* is the default strategy where morphological *-leş-* is not conventionalized. No example sentence was provided in P4a for this sub-pattern; rating based on the attested items cited in the notes. |
+| **5. CAUSATIVE (morphological)** | **Şiddeti meşrulaştırmak mümkün değil.** | şiddeti meşrulaştırmak mümkün değil | "It is not possible to legitimize violence." | [CORE] | Morphological *-leş-tir-* causative-inchoative is available only where *-leş-* is already conventionalized on the base. Infinitive form used here as subject nominal. |
+| **5. CAUSATIVE (periphrastic)** | **Bu durum müdahaleyi haklı kılar.** | bu durum müdahaleyi haklı kılar | "This situation justifies the intervention." | [MARGINAL] | *Kılmak* as a light verb causative is restricted to formal, written, and literary registers; it is not typical in everyday spoken Turkish. The construction is attested and grammatical but stylistically marked. |
+| **6. ABSTRACT NOMINALIZATION (*-lık*)** | **Dürüstlük her zaman ödüllendirilmez.** | dürüstlük her zaman ödüllendirilmez | "Honesty is not always rewarded." | [CORE] | *-lık/-lik/-luk/-lük* is the primary property-nominalization suffix across the truth domain; forms such as *doğruluk*, *yanlışlık*, *güvenilirlik*, *özgünlük* are fully lexicalized and in common use. |
+| **6. ABSTRACT NOMINALIZATION (verbal noun *-ma*)** | **Kimlik doğrulama zorunludur.** | kimlik doğrulama zorunludur | "Identity verification is mandatory." | [CORE] | Verbal noun in *-ma/-me* nominalizes the process rather than the property; common in technical, administrative, and compound-noun contexts (*kimlik doğrulama*, *yanlışlama*). Distinct function from *-lık* nominalization. |
+| **7. AGENTIVE NOMINALIZATION (deceptive)** | **Sahteci mahkemede yargılandı.** | sahteci mahkemede yargılandı | "The forger was tried in court." | [CORE] | Agentive *-ci* nouns are lexicalized on the deceptive/negative side of the domain (*sahteci*, *taklitçi*, *sahtekâr*); this asymmetry is a documented feature of the domain, not a gap in the analysis. |
+| **7. AGENTIVE NOMINALIZATION (truth-telling, periphrastic)** | **Doğruyu söyleyen biri bulmak zor.** | doğruyu söyleyen biri bulmak zor | "It is difficult to find someone who tells the truth." | [CORE] | Participial relative clause (*söyleyen biri*) is the standard strategy for expressing "one who tells the truth"; no lexicalized agentive noun for this concept is in common use. The periphrastic form is natural and unrestricted. |
+| **8. FACTITIVE VERBALIZATION** | **İddiayı kanıtlamak güçtür.** | iddiayı kanıtlamak güçtür | "It is difficult to prove the claim." | [CORE] | *-la-/-le-* verbalizer on truth-domain nouns is highly productive; infinitive used as subject nominal is a standard construction. Passive (*kanıtlanmış*) and potential (*doğrulanabilir*) stacking onto this stem is fully attested. |
+| **8. FACTITIVE VERBALIZATION** | **Hipotezi yanlışlamak mümkün olmalıdır.** | hipotezi yanlışlamak mümkün olmalıdır | "It must be possible to falsify the hypothesis." | [MARGINAL] | *Yanlışlamak* in the Popperian falsificationist sense is attested in academic and philosophical registers but is not a common everyday form; its use outside those registers would be marked. The construction itself is grammatical; the restriction is lexical and register-based. |
+| **9. CORRESPONDENCE POSTPOSITIONAL (aykırı)** | **Gerçeğe aykırı beyan suç teşkil eder.** | gerçeğe aykırı beyan suç teşkil eder | "A statement contrary to fact constitutes a crime." | [CORE] | *Gerçeğe aykırı* is a fixed legal phrase; the construction is fully productive in legal and administrative registers. Use outside formal registers is less common but not unattested. |
+| **9. CORRESPONDENCE POSTPOSITIONAL (uygun)** | **Gerçeğe uygun beyanda bulunmak zorundasınız.** | gerçeğe uygun beyanda bulunmak zorundasınız | "You are required to make a statement conforming to fact." | [CORE] | *Gerçeğe uygun* is the positive-correspondence counterpart to *gerçeğe aykırı*; both are fixed in legal language. *Hakikate aykırı* is attested as a literary variant but is not the default form. |
+
+---
+
+## Attested Alternate Constructions
+
+| Construction Type | Alternate Form | Notes |
+|---|---|---|
+| **1. ATTRIBUTION** | *Bu haber doğrudur.* | Formal/assertive variant with overt *-dır* copula suffix; same construction, register-differentiated. |
+| **4. INCHOATIVE** | *[adjective] + olmak* | Periphrastic alternate where *-leş-* is not conventionalized (*geçerli olmak*, *haklı olmak*); attested in P4a notes. |
+| **5. CAUSATIVE** | *geçersiz kılmak*, *haklı kılmak* | Periphrastic *kılmak* alternate to morphological *-leş-tir-*; formal register only; attested in P4a notes. |
+| **5. CAUSATIVE (related)** | *doğrulamak*, *kanıtlamak*, *ispatlamak* | Factitive *-la-* verbalizations noted in P4a as a related but distinct pattern; not strict causatives of adjectival predicates. |
+| **6. ABSTRACT NOMINALIZATION** | *meşruiyet* (Arabic *-iyet* pattern) | Arabic-pattern suffix used for *legitimacy* instead of *meşruluk*; attested in P4a notes as a lexical variant, not a productive alternate suffix. |
+| **7. AGENTIVE (deceptive)** | *sahtekâr* (Persian *-kâr*) | Alternate agentive form with Persian suffix; lexicalized, not productively derived; attested in P4a notes alongside *sahteci*. |
+| **9. CORRESPONDENCE** | *hakikate aykırı* | Literary variant of *gerçeğe aykırı*; attested in P4a notes as register-restricted. |
+
+---
+
+*No constructions have been added beyond those identified in P4a. Naturalness ratings reflect patterns as reported in P4a data and notes.*

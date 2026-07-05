@@ -1,0 +1,114 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Tagalog (tl)
+
+---
+
+## 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Predicate-initial: truth-adjective + ang + NP | *Totoo ang balita.* | Totoo ang balita. | "The news is true." | [CORE] | Standard copula-less predication; used across all registers from casual speech to formal writing. No restriction on which truth-domain adjective occupies the predicate slot. |
+| Predicate-initial: truth-adjective + ang + NP | *Tama ang sagot niya.* | Tama ang sagot niya. | "His/her answer is correct." | [CORE] | Equally natural with *mali*, *tunay*, *tapat*, *huwad*, *kredible*; the construction is fully productive across the truth-domain set. |
+
+**Attested alternates:**
+- Topic-comment inversion with *ay*: *Ang balita ay totoo.* ("The news is true.") — grammatical but more formal or written in register; the predicate-initial order is the unmarked form.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Hindi + truth-adjective + ang + NP | *Hindi totoo ang kanyang sinabi.* | Hindi totoo ang kanyang sinabi. | "What he/she said is not true." | [CORE] | The standard negation of adjectival predicates; used in all registers. Applies to *hindi tama*, *hindi tunay*, *hindi tapat*, etc. |
+| Wala + -ng + truth-nominal + ang + NP | *Walang katotohanan ang akusasyon.* | Walang katotohanan ang akusasyon. | "The accusation has no truth to it." | [CORE] | Existential negation with abstract nominals; structurally distinct from *hindi* negation and not interchangeable with it. Restricted to nominal (not adjectival) truth-terms. |
+
+**Attested alternates:**
+- None attested in P4a data beyond the two structurally distinct patterns documented above. The two patterns (*hindi* + adjective vs. *wala* + nominal) are not alternates of each other; they occupy different structural slots.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Truth-adjective + na + noun (consonant-final modifier) | *Tunay na ginto* | Tunay na ginto | "Genuine gold" | [CORE] | Fully productive modifier-head order with obligatory linker; attested across all truth-domain adjectives (*tapat na tao*, *huwad na dokumento*, *wastong paraan*, *kredible na saksi*). |
+| Truth-adjective + -ng + noun (vowel-final modifier) | *Mapagkakatiwalaang pinagkukunan ng impormasyon* | Mapagkakatiwalaang pinagkukunan ng impormasyon | "Reliable source of information" | [CORE] | The *-ng* suffix form is the regular phonological variant when the modifier ends in a vowel; no semantic or register difference from the *na* form. |
+
+**Attested alternates:**
+- None attested in P4a data. Head-modifier order (noun preceding adjective) is not documented for this construction type in the data.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Maging + truth-adjective (injunctive/infinitive) | *Maging tapat sa iyong sarili.* | Maging tapat sa iyong sarili. | "Be honest with yourself." | [CORE] | Conventionalized moral injunction with *tapat*; common in interpersonal, motivational, and religious discourse. |
+| Naging + truth-adjective (completed aspect) | *Naging totoo ang kanyang pangarap.* | Naging totoo ang kanyang pangarap. | "His/her dream became real / came true." | [CORE] | Standard completed-aspect inchoative; natural with *totoo* in contexts of wish or prediction fulfillment. Less conventionalized with *tama*, *tunay*, or borrowed adjectives per P4a data. |
+| Nagkatotoo (nagka- + totoo, inchoative of realization) | *(implied in P4a notes)* | nagkatotoo | "came true" | [MARGINAL] | Attested as an alternative inchoative specifically for the realization of predictions or wishes; more restricted in distribution than *naging totoo* and specific to *totoo* only. |
+
+**Attested alternates:**
+- *Nagkatotoo* is documented as an alternate to *naging totoo* for the specific sub-reading of prediction/wish realization; the two are not fully interchangeable across all inchoative contexts.
+
+---
+
+## 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Pa- + tunay + -an verbal paradigm | *Patunayan mo ang iyong sinabi.* | Patunayan mo ang iyong sinabi. | "Prove what you said." | [CORE] | Productive verbal paradigm (*patunayan*, *pinatunayan*, *pagpapatunay*) attested across formal and informal registers; the most grammaticalized causative in the truth domain. |
+| I- + wasto (iwasto) | *Iniwasto na ang pagkakamali.* | Iniwasto na ang pagkakamali. | "The mistake has already been corrected." | [CORE] | Standard causative-corrective construction for *wasto*; natural in contexts of error correction. Structurally distinct from the *pa-…-an* paradigm. |
+
+**Attested alternates:**
+- No productive causative verbal paradigm is attested in P4a data for *totoo* or *tapat* in the truth-evaluation domain. This asymmetry is noted in P4a and is preserved here without inference.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Ka-…-an circumfix (native roots) | *Ang katotohanan ay mapait.* | Ang katotohanan ay mapait. | "The truth is bitter." | [CORE] | Primary nominalizing strategy for native truth-domain roots; fully productive across *katotohanan*, *katunayan*, *katapatan*, *kawastuhan*, *kadalisayan*. Common in all registers. |
+| -idad suffix (Spanish-borrowed adjectives) | *Ang kredibilidad ng saksi ay pinag-aralan ng hukuman.* | Ang kredibilidad ng saksi ay pinag-aralan ng hukuman. | "The credibility of the witness was examined by the court." | [CORE] | Standard nominalization for Spanish-origin adjectives; most frequent in formal, legal, journalistic, and academic registers. |
+| Pag- + reduplication (process nominal) | *(attested in P4a notes: pagtatapat, pagpapatunay, paghahanap ng katotohanan)* | pagtatapat / pagpapatunay / paghahanap ng katotohanan | "act of confessing / act of verifying / truth-seeking" | [CORE] | Yields process nominals rather than state nominals; distinct in meaning from *ka-…-an* forms. Attested across formal and informal contexts. |
+
+**Attested alternates:**
+- The *ka-…-an* and *-idad* strategies are not interchangeable; they apply to distinct lexical strata (native vs. Spanish-borrowed). No overlap is documented in P4a data.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Root alone as agentive nominal/predicate (sinungaling) | *Sinungaling ka.* | Sinungaling ka. | "You are a liar." | [CORE] | *Sinungaling* functions directly as predicate or nominal without additional affixation; natural across all registers including casual accusation and formal characterization. |
+| Mang-/man- + root (habitual agentive) | *(attested in P4a notes: manlinlang)* | manlinlang | "one who deceives habitually" | [MARGINAL] | Attested for deception (*manlinlang*); no parallel habitual agentive for truth-telling is documented in P4a data. Restricted to the deception sub-domain within the truth cluster. |
+| Tagapag- + verbal base (institutional/role agentive) | *Tagapagtanggol ng katotohanan* | Tagapagtanggol ng katotohanan | "Defender of truth" | [MARGINAL] | Yields formal institutional or role-based agentives; more common in formal, legal, or organizational discourse than in casual speech. |
+
+**Attested alternates:**
+- For the concept "honest person," no dedicated agentive affix construction is attested in P4a data; the adnominal construction *tapat na tao* serves this function instead. This is a documented asymmetry and is not inferred beyond what P4a reports.
+
+---
+
+## 8. DISCOURSE-MARKER CONSTRUCTIONS
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Ang + truth-nominal as sentence-initial frame | *Ang totoo, hindi ko alam.* | Ang totoo, hindi ko alam. | "The truth is, I don't know." | [CORE] | Conventionalized corrective or clarifying frame; common in spoken and written discourse. Specific to truth-domain nominals; no parallel at the same level of conventionalization is attested for *tama* or *tunay* in P4a data. |
+| Sa + truth-nominal as sentence-initial frame | *Sa katotohanan, mas kumplikado ang sitwasyon.* | Sa katotohanan, mas kumplikado ang sitwasyon. | "In truth, the situation is more complicated." | [CORE] | Introduces corrective or elaborating statements; near-synonymous with *sa katunayan* ("in fact"). More formal in register than *ang totoo*. |
+
+**Attested alternates:**
+- *Sa katunayan* ("in fact") is documented in P4a as near-synonymous with *sa katotohanan* in this discourse-marker function. No further alternates are attested in P4a data.
+
+---
+
+## 9. PARTICLE-MARKED EPISTEMIC STANCE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Totoo + nga + pala (confirmed realization) | *Totoo nga pala.* | Totoo nga pala. | "So it really is true after all." | [CORE] | Marks a specific epistemic update (realization upon confirmation); treated in P4a as a unit not fully reducible to the sum of its particles. Natural in spoken discourse. |
+| Totoo + naman (responsive affirmation) | *Totoo naman ang sinabi ko.* | Totoo naman ang sinabi ko. | "What I said is indeed true." | [CORE] | Used responsively against expressed or implied doubt; *naman* marks contrast or counter-assertion. Common in conversational and argumentative contexts. |
+
+**Attested alternates:**
+- P4a documents the following particles as attested with *totoo*: *ba* (interrogative), *nga* (confirmation), *pala* (realization/discovery), *naman* (contrast/responsive), *pa rin* (persistence). Only the two examples above are provided with full example sentences in P4a; the remaining particle combinations (*totoo ba*, *totoo pa rin*, etc.) are listed in the notes but without full example sentences and are therefore not expanded here beyond what P4a attests.
+- P4a explicitly notes that no parallel conventionalized particle-cluster constructions at the same density are attested for *tunay*, *tapat*, or *tama*; this asymmetry is preserved without inference.

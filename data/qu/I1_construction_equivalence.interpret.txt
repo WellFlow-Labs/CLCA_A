@@ -1,0 +1,162 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Quechua (qu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: Attribution with copula **kay** | **chiqan kay** "to be true"<br>**llulla kay** "to be false" | Direct match | — |
+| **ADNOM** | Construction 3: Adnominal modification via juxtaposition | **chiqan simi** "true word"<br>**llulla runa** "lying person" | Direct match | — |
+| **BECOME** | Construction 4: Inchoative suffix **-ya-** | **allinyay** "to become good"<br>**llullayay** "to become habitually deceitful" | Direct match (though **llullayay** shows intensifying reading more than pure inchoative) | — |
+| **REVELATION** | — | — | **MISSING (structural gap)** | No dedicated construction for "turn out to be X" or "be revealed as X" |
+| **CAUSATION (factual)** | Construction 5: Causative suffix **-cha-/-chi-** | **chiqanchay** "to verify, to authenticate"<br>**allinchay** "to make good, to fix" | Direct match for "make X" | — |
+| **CAUSATION (character)** | Construction 7: Agentive nominalization **-q** | **llullakuq** "liar"<br>**chiqan rimaq** "truth-speaker" | Nominalization substitutes for causative characterization | Substitution pattern |
+| **VERIFICATION** | Construction 5: Causative **chiqanchay** "to verify, authenticate"<br>Construction 20: Perception + truth | **chiqanchay** "to verify"<br>**chiqanta musyay** "to perceive the truth" | Causative construction serves verification function | Functional overlap |
+| **DISCONFIRMATION** | Construction 20: Perception + falsity | **llullata riqsiy** "to recognize lies, to identify falsehood" | Perception verb + accusative object | No dedicated disconfirmation operator |
+| **NEGATION** | Construction 2: Preverbal particle **mana** | **mana allin kay** "to not be good"<br>**mana chanin kay** "to be invalid" | Analytic negation (particle + predicate) | — |
+| **NOMINALIZATION** | Construction 6: Abstract nominalization via **kay** or **kaq**<br>Construction 7: Agentive **-q** | **chiqan kay** "truth (state)"<br>**chiqan kaq** "that which is true"<br>**llullakuq** "liar" | Multiple nominalization strategies | — |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → No Direct Equivalent
+Quechua lacks a dedicated construction for "turn out to be X" or "be revealed as X." The language does not appear to grammaticalize the distinction between inherent states (ATTR) and discovered/revealed states (REVELATION). Where English might use "turn out to be false," Quechua would use:
+- Basic attribution: **llulla kay** "to be false"
+- Perception constructions: **llullata riqsiy** "to recognize (as) lies"
+- Evidential marking: **llullapsi** "it is false (reportedly)" to indicate discovered information
+
+The evidential system (Construction 13) partially compensates by marking epistemic access (**-mi** direct, **-si** reportative, **-cha** conjectural), but this operates at the clause level rather than as a dedicated REVELATION operator.
+
+### CAUSATION (character) → Agentive Nominalization
+Quechua does not have a construction meaning "make someone a liar" or "cause someone to become deceitful." Instead:
+- **CAUSATION (factual)** applies to states: **allinchay** "to make good, to improve"
+- **CAUSATION (character)** is expressed through **agentive nominalization**: **llullakuq** "liar" (one who lies)
+
+The language characterizes agents by their habitual actions rather than describing processes that create such agents. The reflexive **-ku-** in forms like **llullakuy** "to lie" (literally "to lie to oneself") suggests self-directed action rather than external causation of character.
+
+### VERIFICATION → Causative Construction
+The causative **chiqanchay** "to verify, to authenticate" (literally "to make true") serves the VERIFICATION function. This represents a conceptual mapping where:
+- Making something true = verifying it
+- The causative suffix **-cha-** extends from factual causation to epistemic verification
+
+Construction 20 (Perception + truth) provides an alternative: **chiqanta musyay** "to perceive the truth, to realize what is true," which focuses on epistemic access rather than active verification.
+
+### DISCONFIRMATION → Perception Construction Only
+No dedicated operator exists for "prove false" or "disconfirm." The language uses:
+- Perception verbs with falsity objects: **llullata riqsiy** "to recognize lies"
+- Negated verification: **mana chiqanchay** "to not verify"
+
+Unlike VERIFICATION (which has the dedicated causative **chiqanchay**), DISCONFIRMATION lacks a single-word equivalent and requires multi-word expressions.
+
+### NEGATION → Analytic Strategy
+Negation is consistently analytic, using the preverbal particle **mana** rather than negative affixes on predicates. The suffix **-chu** appears in:
+- Prohibitives: **ama llullakychu** "don't lie" (Construction 14)
+- Questions: **allinchu** "is it good?"
+- Emphatic negation: **mana allinchu** "isn't it good?"
+
+But **-chu** is not a primary negator; **mana** carries the negative force.
+
+### Asymmetries: Truth vs. Falsity
+No systematic asymmetries appear between truth and falsity terms. Both **chiqan** "true" and **llulla** "false" participate equally in:
+- Attribution (Constructions 1, 2)
+- Adnominal modification (Construction 3)
+- Accusative + verb (Construction 8)
+- Case-marked constructions (9-12)
+- Nominalization (6, 7)
+
+The only noted difference: **llullayay** (inchoative with **llulla**) shows intensifying/habitual reading more than pure inchoative, while **allinyay** "to become good" shows clearer inchoative meaning.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **REVELATION**: No construction for "turn out to be X" or "be revealed as X"
+   - The language does not grammaticalize the distinction between inherent and discovered states
+   - Evidential system marks epistemic access but not revelation per se
+
+2. **CAUSATION (character)**: No construction for "make someone (become) a liar/truth-teller"
+   - Agentive nominalization (**llullakuq** "liar") characterizes agents but does not describe causation of character
+   - Causative **-cha-** applies to states/qualities, not to creating character types
+
+3. **DISCONFIRMATION**: No single-word or dedicated construction for "prove false" or "disconfirm"
+   - Must use perception verbs (**llullata riqsiy** "recognize lies") or negated verification (**mana chiqanchay**)
+   - Asymmetric with VERIFICATION, which has dedicated causative **chiqanchay**
+
+### Lexical Gaps
+None identified. The language has robust lexical resources for truth (**chiqan**, **chiqap**), falsity (**llulla**), goodness (**allin**), validity (**chanin**), and error (**pantay**).
+
+### Conceptual Gaps
+1. **REVELATION as distinct from ATTRIBUTION**: The language does not conceptually distinguish "being X" from "turning out to be X" at the constructional level. Evidentials mark how information is known, but not the process of discovery itself.
+
+2. **Character causation**: The language conceptualizes character as habitual action (agentive **-q**) rather than as a caused state. There is no construction for "making someone into a type of person."
+
+### Asymmetric Gaps
+1. **VERIFICATION vs. DISCONFIRMATION**: 
+   - VERIFICATION has dedicated causative **chiqanchay** "to verify"
+   - DISCONFIRMATION lacks equivalent; requires circumlocution
+   - This represents an asymmetry where positive epistemic operations are more grammaticalized than negative ones
+
+2. **Inchoative readings**: 
+   - **allinyay** "to become good" shows clear inchoative
+   - **llullayay** shows intensifying/habitual more than pure inchoative
+   - Suggests **llulla** resists pure inchoative interpretation (one doesn't "become false" but rather "acts falsely repeatedly")
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+1. **ATTR**: Construction 1 (copula **kay**)
+2. **ADNOM**: Construction 3 (juxtaposition)
+3. **BECOME**: Construction 4 (inchoative **-ya-**)
+4. **CAUSATION (factual)**: Construction 5 (causative **-cha-/-chi-**)
+5. **NEGATION**: Construction 2 (analytic **mana**)
+6. **NOMINALIZATION**: Constructions 6-7 (multiple strategies: **kay**, **kaq**, **-q**)
+
+### Available with Substitution
+7. **CAUSATION (character)**: **SUBSTITUTED BY agentive nominalization** (Construction 7)
+   - **llullakuq** "liar" characterizes rather than describes causation of character
+   - No process of "making someone a liar" grammaticalized
+
+8. **VERIFICATION**: **SUBSTITUTED BY causative construction** (Construction 5)
+   - **chiqanchay** "to verify" (literally "to make true")
+   - Also available via perception construction: **chiqanta musyay** "to perceive the truth"
+
+### Partially Available
+9. **DISCONFIRMATION**: **NO COMMON EXPRESSION — circumlocution required**
+   - Available only through perception verbs: **llullata riqsiy** "to recognize lies"
+   - Or negated verification: **mana chiqanchay**
+   - No dedicated single-word operator
+
+### Missing Entirely
+10. **REVELATION**: **MISSING (structural gap)**
+    - No construction for "turn out to be X" or "be revealed as X"
+    - Evidential system marks epistemic stance but not revelation process
+    - Must use basic attribution (**llulla kay** "to be false") with evidentials to approximate discovered information
+
+---
+
+## Summary of Functional Architecture
+
+Quechua shows a **robust system** for:
+- Basic predication and modification (ATTR, ADNOM)
+- State changes and causation (BECOME, CAUSATION factual)
+- Multiple nominalization strategies
+- Analytic negation
+
+The language shows **systematic gaps** in:
+- Epistemic revelation (no "turn out to be" construction)
+- Character causation (no "make someone a liar" construction)
+- Negative epistemic operations (DISCONFIRMATION less grammaticalized than VERIFICATION)
+
+**Compensatory strategies** include:
+- Evidential system for epistemic stance (though not revelation per se)
+- Agentive nominalization for character types
+- Perception verbs for epistemic access
+- Case-marked constructions (ablative, purposive, locative) for nuanced semantic relations
+
+The language appears to favor **concrete, action-based** conceptualizations (agentive **-q**, perception verbs) over **abstract epistemic processes** (revelation, disconfirmation).

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-23T20:37:47.437487+00:00",
+  "prompt": "# CLCA Protocol v3.4 \u2014 P4b Construction Usage & Constraints\n\n# CONTEXT: P4a output\n\n\n### STEP P4a_CONSTRUCTIONS \u2014 OUTPUT\n## 1. ATTRIBUTION\n### Pattern\n**X [egia / gezurra / zuzena / okerra] da**\n\u2018X is true / a lie / correct / wrong\u2019\n\n### Examples\n- **Hori egia da.** \u2192 \u2014 \u2192 \u201cThat is true.\u201d\n- **Erantzuna okerra da.** \u2192 \u2014 \u2192 \u201cThe answer is wrong.\u201d\n\n### Notes\nBasque commonly uses a predicate noun/adjective plus the copula **da** for truth/correctness attribution. Definite forms like **zuzena / okerra** are especially common in evaluative contexts (\u201cthe correct/wrong one\u201d).\n\n## 2. NEGATIVE ATTRIBUTION\n### Pattern\n**X ez da [egia / zuzena / benetakoa]**\n\u2018X is not true / not correct / not real\u2019\n\n### Examples\n- **Hori ez da egia.** \u2192 \u2014 \u2192 \u201cThat is not true.\u201d\n- **Albiste hori ez da benetakoa.** \u2192 \u2014 \u2192 \u201cThat news item is not real/genuine.\u201d\n\n### Notes\nNegation is formed with **ez** before the copular form. Basque often prefers simple copular negation rather than a special antonym construction, though antonyms like **faltsu** or **oker** also occur.\n\n## 3. ADNOMINAL MODIFICATION\n### Pattern\n**[egiazko / benetako / gezurrezko / faltsu / fidagarri / sinesgarri] + N**\n\n### Examples\n- **egiazko istorioa** \u2192 \u2014 \u2192 \u201ca true story\u201d\n- **gezurrezko agiria** \u2192 \u2014 \u2192 \u201ca false/forged document\u201d\n\n### Notes\nTruth-domain adjectives regularly precede the noun. Productive adjectival forms in **-zko / -ko** are especially important for \u201ctrue/genuine\u201d and \u201cfalse/fake\u201d meanings.\n\n## 4. BECOME / INCHOATIVE\n### Pattern\n**(no common expression identified)**\n\n### Examples\n- **(no common expression identified)**\n- **(no common expression identified)**\n\n### Notes\nThe provided dataset does not securely support a dedicated inchoative pattern such as \u201cbecome true/correct/false.\u201d Natural Basque may express such meanings periphrastically, but no common construction is established here from the supplied material.\n\n## 5. CAUSATIVE (OR ABSENCE)\n### Pattern\n**X [egiaztatu / zuzendu]**\n\u2018verify/make true-confirmed\u2019 / \u2018correct, make right\u2019\n\n### Examples\n- **Datuak egiaztatu dituzte.** \u2192 \u2014 \u2192 \u201cThey verified the data.\u201d\n- **Irakasleak testua zuzendu du.** \u2192 \u2014 \u2192 \u201cThe teacher corrected the text.\u201d\n\n### Notes\nThere is no simple productive causative tied specifically to \u201ctruth\u201d in the dataset, but lexical verbs express caused confirmation or correction. **egiaztatu** is procedural \u201cverify/confirm,\u201d while **zuzendu** is \u201ccorrect/amend.\u201d\n\n## 6. ABSTRACT NOMINALIZATION\n### Pattern\n**Adj/verb base + abstract noun suffix**: **-tasun**, **-pen**, **-tze**\n\n### Examples\n- **egiazkotasuna** \u2192 \u2014 \u2192 \u201ctruthfulness; authenticity\u201d\n- **zuzentasuna** \u2192 \u2014 \u2192 \u201ccorrectness; rectitude\u201d\n\n### Notes\nAbstract truth-domain nouns are commonly formed derivationally. **-tasun** yields quality nouns, while **-pen / -tze** form event/process nouns such as **egiaztapen / egiaztatze** \u201cverification.\u201d\n\n## 7. AGENTIVE NOMINALIZATION (LIAR, TRUTH-TELLER)\n### Pattern\n**N/verb base + agentive suffix** or **light-verb expression**\n\n### Examples\n- **gezurti** \u2192 \u2014 \u2192 \u201cliar\u201d\n- **egia esan** \u2192 \u2014 \u2192 \u201ctell the truth\u201d\n\n### Notes\nA clear agentive noun exists for lying: **gezurti** \u201cliar.\u201d The supplied material does not establish a parallel common lexicalized noun meaning \u201ctruth-teller,\u201d so Basque more securely uses verbal expressions like **egia esan**.\n\n## 8. TRUTH-ASSESSMENT CLAUSE\n### Pattern\n**[proposition] + egia da / egia ote den**\n\n### Examples\n- **Egia da berandu iritsi zela.** \u2192 \u2014 \u2192 \u201cIt is true that he/she arrived late.\u201d\n- **Ez dakit egia ote den.** \u2192 \u2014 \u2192 \u201cI don\u2019t know whether it is true.\u201d\n\n### Notes\nBasque has a very common clausal construction for asserting or questioning truth status. **egia da** affirms/concedes truth; **egia ote den** embeds uncertainty or inquiry.\n\n## 9. TRUTH / LIE LIGHT-VERB CONSTRUCTIONS\n### Pattern\n**[egia / gezurra] + verb** such as **esan, bilatu, jakin, aurkitu**\n\n### Examples\n- **Egia esan, nekatuta nago.** \u2192 \u2014 \u2192 \u201cTo tell the truth, I\u2019m tired.\u201d\n- **Gezurra esan du.** \u2192 \u2014 \u2192 \u201cHe/she told a lie.\u201d\n\n### Notes\nBasque frequently packages truth-domain meanings in noun + verb constructions rather than single verbs. **egia** combines with verbs of saying, seeking, knowing, and finding; **gezurra** most centrally with **esan** \u201csay.\u201d\n\n## 10. EMPHATIC DEGREE CONSTRUCTIONS\n### Pattern\n**[egia / gezur] + hutsa / borobila / erdi**\n\n### Examples\n- **Hori egia hutsa da.** \u2192 \u2014 \u2192 \u201cThat is pure truth.\u201d\n- **Hori gezur borobila da.** \u2192 \u2014 \u2192 \u201cThat is an outright lie.\u201d\n\n### Notes\nThese are compact evaluative constructions for totality or partiality of truth/falsity. **hutsa** intensifies purity, **borobila** marks completeness/emphasis, and **erdi** gives \u201chalf-truth/half-lie.\u201d\n\n\n# TASK\n\nFor each construction identified in P4a:\n\n1. Provide a NATURALNESS rating:\n   - [CORE] common and idiomatic\n   - [MARGINAL] less common or restricted\n   - [UNCERTAIN] unclear or doubtful\n\n2. Provide a brief usage note (1\u20132 sentences):\n   - typical contexts of use\n   - any observable restrictions\n   - variation in usage if evident\n\n3. List any attested alternate constructions (if present)\n\n---\n\n## RULES\n\n- Do NOT infer theoretical structure\n- Do NOT assume symmetry across constructions\n- Do NOT generate constructions not already attested\n- Preserve examples exactly as given in P4a\n\n---\n\n## FORMAT\n\n| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |\n",
+  "model": "gpt-5.4",
+  "backend": "openai",
+  "temperature": 0.2,
+  "usage": {
+    "completion_tokens": 2000,
+    "prompt_tokens": 1518,
+    "total_tokens": 3518,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "raw_metadata": {
+    "backend": "openai",
+    "model": "gpt-5.4",
+    "temperature": 0.2,
+    "phase": "P",
+    "usage": {
+      "completion_tokens": 2000,
+      "prompt_tokens": 1518,
+      "total_tokens": 3518,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}

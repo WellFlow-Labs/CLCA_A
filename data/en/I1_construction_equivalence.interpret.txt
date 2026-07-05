@@ -1,0 +1,129 @@
+# I1 Construction Equivalence & Missingness Analysis
+## Language: English (en)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| ATTR | Subject + BE + truth-adj | "That statement is true" / "The document is authentic" | Direct mapping | None |
+| ADNOM | Truth-adj + N | "a true story" / "an honest answer" | Direct mapping | None |
+| BECOME | Subject + PROVE/COME + truth-adj | "The rumor proved false" / "His predictions came true" | Lexically restricted verbs; simple BECOME rare | Partial gap (productive template missing) |
+| REVELATION | Subject + PROVE + truth-adj | "The rumor proved false" | **SUBSTITUTED BY BECOME (with evidential verb)** | Functional merger |
+| CAUSATION (factual) | Agent + causative-V + object | "The lab authenticated the painting" / "He corrected the error" | Lexicalized verbs only; analytic causative blocked | Structural gap (productive template) |
+| CAUSATION (character) | **NO COMMON EXPRESSION** | Notes mark "*make him honest" as ungrammatical | **MISSING (structural gap)** | Structural gap |
+| VERIFICATION | Agent + causative-V + object | "The lab authenticated the painting" | **SUBSTITUTED BY CAUSATION (factual)** | Functional merger |
+| DISCONFIRMATION | V + object + truth-adj (resultative) | "They proved him wrong" / "She exposed it as fake" | Lexically restricted to specific verbs (prove, expose, reveal) | Partial gap (limited productivity) |
+| NEGATION | Subject + BE + NEG + truth-adj / Subject + BE + negated-adj | "His claim is not true" / "The signature is inauthentic" | Two strategies: analytic and synthetic (morphological) | None |
+| NOMINALIZATION | Derived nominal | "The truth emerged slowly" / "We value honesty" | Irregular formation patterns; multiple forms per base | None (but lexically idiosyncratic) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION → BECOME Merger
+English does not distinguish REVELATION from BECOME as separate constructional categories. The construction "Subject + PROVE + truth-adj" ("The rumor proved false") serves both functions: it marks change-of-state AND emphasizes evidential discovery. The notes explicitly state that "prove" emphasizes evidential discovery, while simple "become" is rare with truth-domain adjectives. This suggests REVELATION is the preferred frame, with BECOME semantics embedded within it.
+
+### 2.2 VERIFICATION → CAUSATION (factual) Merger
+English does not maintain a constructional distinction between VERIFICATION and CAUSATION in the factual domain. Both meanings are expressed through the same lexicalized causative verbs: "authenticate," "validate," "verify," "falsify," "correct." The construction "Agent + causative-V + object" covers both making something true/authentic (causation) and confirming/checking that it is true/authentic (verification). The notes indicate these are "dedicated causative verbs" used in "formal/technical contexts," suggesting a single construction type.
+
+### 2.3 CAUSATION Asymmetry: Factual vs. Character
+A striking asymmetry exists between factual and character causation:
+- **Factual domain**: Lexicalized causative verbs available ("authenticate," "validate," "correct")
+- **Character domain**: No construction attested; notes explicitly mark "*make him honest" as ungrammatical
+
+This suggests English blocks productive causative constructions in the character domain entirely. There is no common way to express "cause someone to become honest/truthful."
+
+### 2.4 BECOME Lexical Restrictions
+The notes indicate that simple "become + truth-adj" is rare, and specific verbs dominate: "prove" (evidential), "get" (informal), "turn out" (discovery), "come true" (fixed expression for predictions). This suggests BECOME is not a productive template but rather a set of lexically specific constructions, each with distinct semantic/register constraints.
+
+### 2.5 DISCONFIRMATION Lexical Restrictions
+DISCONFIRMATION patterns ("prove him wrong," "expose it as fake") are limited to specific verbs. The notes explicitly mark general resultatives as ungrammatical: "*paint it true," "*make it authentic." This indicates the construction is not productively available but restricted to a small set of verbs (prove, expose, reveal).
+
+### 2.6 NEGATION Strategy Variation
+English employs two negation strategies that coexist with subtle functional differences:
+- **Analytic** (not + adj): neutral, freely productive
+- **Synthetic** (un-/in-/dis- + adj): often carries stronger implications, lexically restricted
+
+The notes indicate some bases prefer one strategy: "dishonest" is standard while "*not honest" is marked. This suggests lexical gaps constrain the alternation, with some adjectives requiring synthetic forms.
+
+### 2.7 Agentive Nominalization Gaps
+Agentive nominalization shows irregular patterns:
+- Suppletive forms: "liar" (not *falser)
+- Productive -er: "faker," "counterfeiter"
+- Compounds fill gaps: "truth-teller" (not *truist), "wrongdoer" (not *wronger)
+- Non-standard forms: *truther, *correcter
+
+This indicates agentive formation is not a productive morphological process but rather a lexically specific pattern with systematic gaps.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**CAUSATION (character)**: No construction exists to express "cause someone to become honest/truthful/trustworthy." The analytic causative pattern "make + object + adjective" is blocked for truth-domain character adjectives. Notes explicitly mark "*make him honest" as ungrammatical.
+
+**Productive BECOME template**: While specific verbs exist (prove, get, turn out, come true), there is no productive "become + truth-adj" construction. Simple "become" is marked as rare.
+
+**Productive analytic CAUSATION (factual)**: The pattern "make + object + adjective" is marginal/awkward ("*make the statement true"). Causative meaning must be expressed through lexicalized verbs.
+
+**General resultative construction**: Patterns like "*paint it true," "*make it authentic" are ungrammatical. Resultatives are restricted to specific verbs (prove, expose, reveal).
+
+### 3.2 Lexical Gaps
+
+**Agentive nominals**: Systematic gaps exist:
+- *truist (filled by compound "truth-teller")
+- *truther (non-standard)
+- *correcter (non-standard)
+- *wronger (filled by compound "wrongdoer")
+
+**Synthetic negation forms**: Not all adjectives have synthetic negated forms. The notes indicate "*not honest" is marked, suggesting "dishonest" fills a lexical gap, but the inverse pattern (adjectives lacking synthetic forms) is not explicitly documented.
+
+**Simple BECOME verb**: No single general verb for truth-domain state changes; multiple lexically specific verbs required.
+
+### 3.3 Conceptual Gaps
+
+**Character causation**: The blocking of "*make him honest" suggests English conceptually resists the idea of directly causing character traits in the truth domain. This may reflect a folk theory that honesty/truthfulness are intrinsic or volitional rather than externally causable.
+
+**Gradation of absolute terms**: The notes mark "*very true," "*more false" as marginal/marked, though "completely true," "entirely false" are acceptable. This suggests absolute truth-domain terms resist scalar modification, reflecting a conceptual commitment to binary truth values.
+
+### 3.4 Asymmetric Gaps
+
+**Positive vs. negative agentives**: "Liar" (negative) is a core, suppletive form, while "truth-teller" (positive) is a marginal compound. This asymmetry suggests greater lexical elaboration for negative character types.
+
+**Factual vs. character causation**: Lexicalized causative verbs exist for factual domain (authenticate, validate, correct) but not for character domain (no equivalent to "make honest"). This represents a systematic domain-based asymmetry.
+
+**BECOME verb selection**: "Come true" is fixed for positive realization of predictions, with no equivalent "*come false" for negative outcomes. This suggests asymmetric lexicalization of positive vs. negative state changes.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Subject + BE + truth-adj (unmarked, productive)
+- **ADNOM**: Truth-adj + N (productive, prenominal only)
+- **NEGATION**: Both analytic (not + adj) and synthetic (un-/in-/dis- + adj) strategies available
+- **NOMINALIZATION**: Multiple irregular patterns (-th, -y/-ty, -ness, -ity) with semantic differentiation
+
+### Available with Substitution
+- **REVELATION**: Expressed through BECOME construction with evidential verbs (prove, turn out); no distinct construction
+- **VERIFICATION**: Expressed through CAUSATION construction with lexicalized verbs (authenticate, validate, verify); no distinct construction
+- **BECOME**: Available only through lexically specific verbs (prove, get, turn out, come true); no productive template with simple "become"
+- **DISCONFIRMATION**: Available through resultative construction with restricted verbs (prove, expose, reveal); not productively available
+
+### Partially Available
+- **CAUSATION (factual)**: Available only through lexicalized causative verbs (authenticate, validate, correct); productive analytic causative blocked
+- **Agentive NOMINALIZATION**: Available through multiple strategies (suppletive forms, -er derivation, compounds) but with systematic lexical gaps
+
+### Missing Entirely
+- **CAUSATION (character)**: No construction exists; analytic causative blocked ("*make him honest")
+- **Productive resultative**: General pattern unavailable; only verb-specific constructions exist
+- **Productive BECOME**: Simple "become + truth-adj" rare/marginal; only lexically specific verbs available
+
+---
+
+## Summary Statement
+
+English truth-domain constructions show a pattern of **functional merger** (REVELATION with BECOME, VERIFICATION with CAUSATION) and **lexical restriction** (BECOME, CAUSATION, DISCONFIRMATION limited to specific verbs rather than productive templates). The most striking gap is **CAUSATION (character)**, which appears to be conceptually blocked. The language relies heavily on **lexicalized verbs** rather than productive syntactic templates for change-of-state and causative meanings, and shows **systematic asymmetries** between factual and character domains, and between positive and negative forms.

@@ -1,0 +1,189 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Zero copula (present 3rd person); *olmak* copula (other contexts); *değil* negative copula | *Bu doğru* "This is true"; *Doğru değil* "Not true" | Direct equivalence | None |
+| **ADNOM** | Direct adjective + noun | *doğru bilgi* "true information"; *yanlış anlama* "misunderstanding" | Direct equivalence | None |
+| **BECOME** | *çıkmak* light verb construction | *doğru çıkmak* "turn out to be true"; *sahte çıkmak* "turn out to be fake" | **SUBSTITUTED BY REVELATION** (see below) | Functional substitution |
+| **REVELATION** | *çıkmak* light verb construction | *doğru çıkmak* "turn out to be true"; *yanlış çıkmak* "turn out wrong" | Primary inchoative pattern for truth-domain | None |
+| **CAUSATION (factual)** | Light verb constructions: *göstermek*, *ortaya çıkarmak*, *kanıtlamak* | *doğru göstermek* "show to be true"; *gerçeği ortaya çıkarmak* "reveal the truth" | Multiple light verb strategies; no single dedicated construction | None (distributed) |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION** | Circumlocution required: *birini dürüst yapmak* "make someone honest" (awkward) | **NO COMMON EXPRESSION - circumlocution required** | Structural gap |
+| **VERIFICATION** | Verbal derivation: *doğrulamak* (doğru + *-la-* verbalizer + *-ma* verbal noun) | *doğrulama* "verification"; *doğrulamak* "to verify" | Morphological derivation | None |
+| **DISCONFIRMATION** | Negated verification: *doğrulamamak*; separate lexeme *yalanlamak* "refute" | *doğrulamadı* "didn't verify"; *yalanlamak* "to refute, to deny" | Negation of VERIFICATION + separate lexeme for active refutation | Asymmetric (see below) |
+| **NEGATION** | Analytic: negative copula *değil*; verbal negation *-ma/-me* | *doğru değil* "not true"; *gerçek olamaz* "cannot be real" | Analytic (copula) + morphological (verbal) | None |
+| **NOMINALIZATION** | Abstract: *-lık/-lik*; Verbal: *-ma/-me*; Agentive: periphrastic (except *yalancı*) | *doğruluk* "truth"; *doğrulama* "verification"; *doğru söyleyen* "truth-teller" | Multiple strategies by semantic type | Partial gap (agentive) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+Turkish systematically uses the **REVELATION** construction (*çıkmak* light verb) where other languages might use a simple BECOME construction. The *çıkmak* pattern (*doğru çıkmak* "turn out to be true," *sahte çıkmak* "turn out to be fake") emphasizes the **discovery or revelation** of a truth-value that was previously uncertain or hidden, rather than a simple change of state.
+
+The alternative BECOME construction using *dönüşmek* "transform into" (*gerçeğe dönüştü* "it turned into reality") exists but is marked as **[MARGINAL]** in P4b, described as "more formal/literary" and "less common than *çıkmak* pattern." This indicates that Turkish **prefers revelation semantics** over pure inchoative semantics in the truth domain.
+
+**Pattern**: Turkish truth-domain inchoatives encode **epistemic change** (discovery of truth-value) rather than **ontological change** (becoming true).
+
+### 2.2 VERIFICATION and DISCONFIRMATION asymmetry
+
+Turkish shows an **asymmetric pattern** for verification vs. disconfirmation:
+
+- **VERIFICATION**: Dedicated morphological derivation *doğrulamak* (doğru + verbalizer *-la-* + infinitive) creates a positive verification verb.
+- **DISCONFIRMATION**: Two strategies exist:
+  1. Negation of verification: *doğrulamamak* "not verify, fail to verify"
+  2. Separate lexeme: *yalanlamak* "refute, deny" (from *yalan* "lie")
+
+The asymmetry lies in the fact that **positive verification has dedicated morphology**, while **active disconfirmation** (proving false) requires either a separate lexeme (*yalanlamak*) or circumlocution (*yanlış olduğunu göstermek* "show that it's false"). Simple negation of *doğrulamak* means "fail to verify" rather than "prove false."
+
+### 2.3 CAUSATION (factual) vs. CAUSATION (character)
+
+Turkish shows a clear **structural gap** for CAUSATION (character):
+
+- **CAUSATION (factual)**: Multiple productive light verb constructions exist:
+  - *doğru göstermek* "show to be true"
+  - *gerçeği ortaya çıkarmak* "bring the truth to light"
+  - *doğru kanıtlamak* "prove true"
+  
+- **CAUSATION (character)**: **NO COMMON EXPRESSION** exists. P4b notes this as a gap. Circumlocutions like *birini dürüst yapmak* "make someone honest" are grammatically possible but pragmatically awkward and not idiomatic.
+
+**Pattern**: Turkish readily expresses causing factual truth-values but lacks conventional expressions for causing character traits related to truthfulness.
+
+### 2.4 Agentive nominalization asymmetry
+
+Turkish shows an **asymmetric gap** in agentive nominalization:
+
+- **Negative agent** (*yalancı* "liar"): Productive morphological derivation (yalan + agentive *-cı*)
+- **Positive agent** ("truth-teller"): **NO MORPHOLOGICAL FORM**; requires periphrastic construction (*doğru söyleyen kişi* "person who tells truth")
+
+P4a explicitly notes: "No dedicated morphological form exists for 'truth-teller.'" This represents a **lexical gap** where the negative agent has a simple lexeme but the positive agent requires a multi-word construction.
+
+### 2.5 Light verb distribution
+
+Turkish distributes semantic operators across **multiple light verb constructions** rather than concentrating them in single dedicated forms:
+
+- **Inchoative/Revelation**: *çıkmak* "emerge, turn out"
+- **Causation (factual)**: *göstermek* "show," *etmek* "do/make," *yapmak* "make"
+- **Judgment**: *bulmak* "find," *görmek* "see"
+- **Acknowledgment**: *vermek* "give," *almak* "take"
+- **Speech**: *söylemek* "say/tell"
+
+Each light verb carries specific semantic nuances. For example:
+- *Doğru bulmak* "find correct" = subjective judgment
+- *Doğru göstermek* "show true" = objective demonstration
+- *Hak vermek* "give right" = acknowledge someone else's correctness
+
+This represents a **distributed system** rather than a gap, but it means there is no single unified CAUSATION construction.
+
+### 2.6 Comparative constructions and gradability
+
+Turkish treats truth-value adjectives as **non-gradable** in most contexts:
+
+- Truth-value terms appear in the **standard of comparison** (*gerçekten daha garip* "stranger than reality") but rarely as the **compared element**
+- P4b notes: "*Daha doğru* 'more true' is uncommon; truth-values treated as absolute rather than gradable"
+
+This represents a **conceptual constraint** rather than a structural gap: the language can form comparatives with truth-value terms but pragmatically avoids doing so because truth is conceptualized as binary rather than scalar.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+1. **CAUSATION (character)**: No conventional construction for causing character traits related to truthfulness
+   - Circumlocution possible but not idiomatic
+   - Example gap: "make someone truthful/honest" has no standard expression
+
+2. **Simple BECOME without revelation semantics**: 
+   - *Dönüşmek* construction exists but is marginal/literary
+   - The language strongly prefers REVELATION (*çıkmak*) over pure inchoative
+
+### 3.2 Lexical Gaps
+
+1. **Agentive nominalization for positive truth-teller**:
+   - *Yalancı* "liar" exists as simple lexeme
+   - No morphological equivalent for "truth-teller"
+   - Requires periphrastic *doğru söyleyen (kişi)*
+
+2. **Active disconfirmation verb**:
+   - *Yalanlamak* "refute" exists but is semantically distinct (means "deny, call a lie")
+   - No direct morphological counterpart to *doğrulamak* "verify" for proving false
+   - Gap filled by negation (*doğrulamamak*) or circumlocution
+
+### 3.3 Conceptual Gaps
+
+1. **Gradable truth-values**:
+   - Comparative constructions grammatically possible
+   - Pragmatically avoided because truth conceptualized as absolute
+   - Not a structural gap but a usage constraint
+
+2. **Character causation**:
+   - May reflect conceptual constraint: character traits not viewed as causable in the same way factual truth-values are
+
+### 3.4 Asymmetric Gaps
+
+1. **Agentive nominalization**: Negative (*yalancı*) has morphology; positive requires periphrasis
+
+2. **Verification vs. disconfirmation**: Positive verification has dedicated morphology (*doğrulamak*); active disconfirmation requires separate lexeme (*yalanlamak*) or circumlocution
+
+3. **Accusative marking in light verb constructions**:
+   - *Doğruyu söylemek* "tell the truth" (with accusative *-yu*)
+   - *Yalan söylemek* "tell a lie" (no accusative)
+   - P4b notes this as "lexicalized difference"
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+| Operator | Construction Type | Notes |
+|----------|------------------|-------|
+| **ATTR** | Zero copula / *olmak* / *değil* | Complete paradigm for positive, negative, all tenses |
+| **ADNOM** | Direct adjective + noun | Fully productive, no restrictions |
+| **REVELATION** | *çıkmak* light verb | Primary inchoative pattern for truth-domain |
+| **VERIFICATION** | Morphological derivation *doğrulamak* | Productive verbal derivation |
+| **NEGATION** | Analytic *değil* + morphological *-ma/-me* | Complete system |
+| **NOMINALIZATION (abstract)** | *-lık/-lik* suffix | Highly productive |
+| **NOMINALIZATION (verbal)** | *-ma/-me* suffix | Highly productive |
+
+### 4.2 Available with Substitution
+
+| Operator | Primary Strategy | Substitution Pattern |
+|----------|-----------------|---------------------|
+| **BECOME** | *çıkmak* light verb | REVELATION substitutes for simple inchoative; *dönüşmek* exists but marginal |
+| **CAUSATION (factual)** | Multiple light verbs | Distributed across *göstermek*, *etmek*, *ortaya çıkarmak*, *kanıtlamak* |
+| **DISCONFIRMATION** | Separate lexeme *yalanlamak* + negation | No direct morphological counterpart to *doğrulamak*; uses separate strategies |
+
+### 4.3 Partially Available
+
+| Operator | Available Form | Gap |
+|----------|---------------|-----|
+| **NOMINALIZATION (agentive)** | Periphrastic *doğru söyleyen* | No morphological form for "truth-teller"; only *yalancı* "liar" has morphology |
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Type | Notes |
+|----------|----------|-------|
+| **CAUSATION (character)** | Structural gap | No conventional expression for causing character traits; circumlocution awkward and non-idiomatic |
+
+---
+
+## 5. Summary of Key Findings
+
+1. **Turkish systematically prefers REVELATION over BECOME** in the truth domain, encoding epistemic change (discovery) rather than ontological change.
+
+2. **CAUSATION is distributed** across multiple light verb constructions rather than concentrated in a single operator.
+
+3. **Agentive nominalization shows asymmetry**: negative agent (*yalancı*) has morphology; positive agent requires periphrasis.
+
+4. **CAUSATION (character) represents a true structural gap**: no conventional way to express causing truthfulness as a character trait.
+
+5. **Truth-values are treated as non-gradable** despite grammatical possibility of comparison.
+
+6. **Light verb constructions are highly productive** and serve as the primary strategy for extending truth-domain vocabulary, especially with loan words.

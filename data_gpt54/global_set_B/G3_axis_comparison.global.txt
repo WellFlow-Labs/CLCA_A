@@ -1,0 +1,385 @@
+Below is a data-based synthesis of the main recurring semantic distinctions that recur across the language-internal groupings.
+
+---
+
+## Emergent cross-language semantic dimensions
+
+### 1. Statement truth vs falsehood
+This dimension covers whether a statement, report, allegation, or proposition is presented as true or false. It is one of the most stable distinctions in the dataset and is usually expressed by basic lexical items or highly entrenched constructions.
+
+**Representative terms**
+- **zh**: 真, 假, 真话, 假话, 真实, 虚假
+- **he**: אמת, לא נכון, שקר, כוזב, שקרי
+- **sa**: सत्य, असत्य, मिथ्या, मृषा, अनृत
+- **el**: αλήθεια, αληθής, ψευδής, ψέμα
+- **en**: truth, true, false, untrue
+- **tl**: totoo, katotohanan, peke (in some uses), huwad
+- **sw**: kweli, ukweli, uongo, si kweli
+- **qu**: chiqaq, llulla
+
+**Status**
+- **Clearly lexicalized** across nearly all languages
+- Often also supported by **morphological negation/derivation** in some languages
+
+---
+
+### 2. Correctness / right answer / proper result
+This dimension concerns whether an answer, judgment, interpretation, or action is right rather than mistaken. It is distinct from bare truth in many languages because it often applies to procedures, decisions, and practical handling, not only to propositions.
+
+**Representative terms**
+- **zh**: 正确, 错误
+- **he**: נכון, לא נכון, צודק
+- **sa**: सम्यक्, युक्त, उचित
+- **el**: σωστός, ορθός
+- **en**: correct, right
+- **tl**: tama, wasto
+- **sw**: sahihi
+- **qu**: allin, mana allin, pantasqa
+
+**Status**
+- **Strongly lexicalized**
+- In some languages partly **merged with moral/practical propriety** (e.g. right/proper/good)
+
+---
+
+### 3. Precision / exactness / fine-grained accuracy
+This dimension concerns exact match in wording, measurement, description, timing, or detail. It is repeatedly separated from broader correctness: something may be broadly right but not exact enough.
+
+**Representative terms**
+- **zh**: 准确, 准确性, 失真
+- **he**: מדויק, דיוק, לא מדויק
+- **sa**: यथार्थ, यथार्थता, तथ्य
+- **el**: ακρίβεια, ακριβής
+- **en**: accurate, exact, precise, accuracy, precision
+- **tl**: tumpak, eksakto
+- **sw**: sahihi, usahihi
+- **qu**: qampa (uncertain), some uses of pantasqa/allin nearby but less clearly separated
+
+**Status**
+- **Strongly supported** in many languages
+- Sometimes **merged with correctness** where no separate lexical split is strong
+- **Weak/unclear** in Quechua
+
+---
+
+### 4. Credibility / trustworthiness / dependability
+This dimension concerns whether a source, witness, report, institution, or person deserves belief or can be relied on. It is distinct from verified truth because the item may be believable or dependable without being fully established as true.
+
+**Representative terms**
+- **zh**: 可信, 可靠
+- **he**: מהימן, אמין, מהימנות, אמינות
+- **sa**: प्रमाणिक, प्रामाण्य, iñiy-like trust not exact; also प्रमा/प्रमाण family partly adjacent
+- **el**: έγκυρος, credible-like uses, έγκριτος
+- **en**: reliable, trustworthy, credible
+- **tl**: mapagkakatiwalaan, maaasahan
+- **sw**: kuaminika, aminika, aminifu, uaminifu
+- **qu**: iñiy, iñisqa (weaker and less elaborated)
+
+**Status**
+- **Strongly lexicalized** in zh/he/el/en/tl/sw
+- In **sa** and **qu**, partly **merged with belief/validity/trust**
+- Often has both **character-based** and **source-based** subuses
+
+---
+
+### 5. Honesty / sincerity / truthful character
+This dimension concerns whether a person or speech act is honest, candid, sincere, or morally truthful. It differs from statement-truth because it evaluates the speaker’s character or manner, not only whether one proposition matches facts.
+
+**Representative terms**
+- **zh**: 真话, 如实, 说真的
+- **he**: לומר את האמת, למען האמת, אנשי אמת, איש אמת
+- **sa**: सत्यवादिन्, सत्यभाषिन्, सत्यवचन
+- **el**: ειλικρινής, ειλικρίνεια
+- **en**: truthful, truthfulness, tell the truth
+- **tl**: tapat, matapat, sa totoo lang
+- **sw**: mkweli, aminifu, uaminifu
+- **qu**: mkweli-equivalent not present, but chiqaq simi vs llulla simi and llullaq/llulla runa support the contrast indirectly
+
+**Status**
+- **Strongly supported**, though often partly **merged with trustworthiness** or **statement truth**
+- Frequently expressed by **speech constructions** rather than only adjectives
+
+---
+
+### 6. Genuineness / authenticity / real identity or object
+This dimension concerns whether an object, identity, relationship, experience, or material is genuine rather than fake, staged, or merely apparent. It is distinct from statement-truth and often has its own lexical field.
+
+**Representative terms**
+- **zh**: 真品, 真迹, 名副其实, 货真价实, 原汁原味, 道地
+- **he**: אמיתי, אותנטי, מקורי
+- **sa**: सत्य in some uses, यथार्थ, स्वरूप, but less object-centered authenticity than in modern languages
+- **el**: αυθεντικός, γνήσιος, αληθινός, πραγματικός
+- **en**: genuine, authentic, real, the real thing
+- **tl**: tunay, totoong, totoong pangalan, tunay na ginto
+- **sw**: halisi, ya asili, -kweli in some uses
+- **qu**: chiqaq in some uses, kikin/riqsiy nearby for identity, but authenticity field is less elaborated
+
+**Status**
+- **Strongly lexicalized** in zh/he/el/en/tl/sw
+- **Merged with truth/reality** in some languages
+- **Weaker or less specialized** in qu and partly sa
+
+---
+
+### 7. Fake / counterfeit / forged / deceptive imitation
+This dimension concerns things presented as genuine but judged fake, forged, counterfeit, or deceptively altered. It is especially strong for documents, goods, signatures, money, identities, and media artifacts.
+
+**Representative terms**
+- **zh**: 假货, 冒牌, 伪造, 虚假
+- **he**: זיוף, מזויף
+- **sa**: असत्य/मिथ्या can cover falsity, but dedicated counterfeit-object vocabulary is less central in the supplied set
+- **el**: πλαστός, παραποιημένος, πλαστογραφία
+- **en**: fake, counterfeit, forgery, forged
+- **tl**: peke, pekeng, huwad
+- **sw**: bandia, feki
+- **qu**: no comparably rich dedicated counterfeit subfield in the supplied data
+
+**Status**
+- **Strongly lexicalized** in zh/he/el/en/tl/sw
+- **Weak or unclear** in sa and qu as a separate object-centered domain
+- Often paired directly with the genuineness dimension
+
+---
+
+### 8. Verification / checked truth / officially confirmed status
+This dimension concerns truth or authenticity as something established through checking, investigation, or procedural confirmation. It differs from simple truth assertion because the emphasis is on confirmation status.
+
+**Representative terms**
+- **zh**: 属实, 经查属实, 查证属实
+- **he**: מבחן האמת, בדיקת אמינות, להוציא את האמת לאור
+- **sa**: प्रमाणेन सिद्धम्, प्रमाणसिद्ध, प्रमाणीकरणम्
+- **el**: αποδεικνύεται ψευδής, αποδείχθηκε πλαστή
+- **en**: prove true, authenticate, validate
+- **tl**: beripikado, beripikahin
+- **sw**: less specialized, but credibility/evidence constructions partly overlap
+- **qu**: weakly attested; no clear dedicated verification cluster
+
+**Status**
+- **Strongly supported** in several languages, but not universal
+- Often expressed by **constructional or procedural forms**, not just lexical adjectives
+- **Weak/unclear** in sw and qu
+
+---
+
+### 9. Basis / support / evidential grounding
+This dimension concerns whether a claim, accusation, suspicion, or report has grounds or lacks them. It is not identical to truth: a claim may be discussed as supported or unsupported before final truth is settled.
+
+**Representative terms**
+- **zh**: 属实-related verification, 不实, 失实; also 可靠依据
+- **he**: מהימנות, להטיל ספק במהימנות, תואם את העובדות
+- **sa**: प्रमाण, प्रामाण्य, प्रमाणं नास्ति, प्रमाणेन सिद्धम्
+- **el**: εγκυρότητα, validity-related expressions
+- **en**: valid, sound, valid argument, sound basis
+- **tl**: saligan, may saligan, walang saligan, salig sa ebidensiya
+- **sw**: ushahidi unaoaminika, dhahiri, though less sharply lexicalized as “basis/no basis”
+- **qu**: iñisqa and pantachiy are adjacent, but no equally clear support-vs-no-support lexical field
+
+**Status**
+- **Strongly supported** in sa/en/tl and partly zh/he/el
+- Often **merged with validity or credibility**
+- **Weaker** in sw and qu
+
+---
+
+### 10. Validity / formal standing / admissibility
+This dimension concerns whether something counts as valid, null, acceptable, or standing under legal, logical, procedural, or institutional standards. It differs from truth because the issue is recognized force or standing, not only fact-matching.
+
+**Representative terms**
+- **zh**: 正当, 正当性; also some formal correctness items nearby
+- **he**: מוצדק, הצדקה, טענה מוצדקת; also formal correctness/rightness
+- **sa**: प्रमाण, प्रामाण्य, अप्रामाण्य, प्रमाणिक
+- **el**: έγκυρος, εγκυρότητα
+- **en**: valid, validity, invalid, sound
+- **sw**: batili, halali
+- **tl**: beripikado partly procedural, but less clear as a broad validity field
+- **qu**: no strong separate validity field in the supplied data
+
+**Status**
+- **Strongly lexicalized** in sa/el/en/sw
+- Often **merged with correctness, legitimacy, or proof**
+- **Weak/unclear** in tl and qu
+
+---
+
+### 11. Lawfulness / legitimacy / rightful standing
+This dimension concerns whether an action, authority, possession, claim, or status is lawful, legitimate, or properly grounded under social, legal, or religious norms. It is distinct from factual truth and often distinct from simple correctness.
+
+**Representative terms**
+- **zh**: 正当, 正当理由, 正当权益
+- **he**: צדק, מוצדק, ראוי (partly overlapping)
+- **sa**: न्याय्य, धर्म्य
+- **el**: legitimacy-related uses of έγκυρος are adjacent, but less central than in English; some ουσιώδης legal uses nearby
+- **en**: legitimate, lawful, rightful
+- **sw**: halali, haramu, haki
+- **tl**: some uses of tama/wasto/akma overlap, but no equally specialized lexical field in the supplied set
+- **qu**: hucha/huchayuq concern fault rather than legitimacy proper
+
+**Status**
+- **Strongly supported** in zh/sa/en/sw and partly he
+- Often **merged with justice, propriety, or validity**
+- **Weaker** in tl/qu
+
+---
+
+### 12. Justice / fairness / moral rightness
+This dimension concerns whether treatment, judgment, punishment, or social order is fair, just, or morally right. It is clearly separate from factual truth in several languages.
+
+**Representative terms**
+- **zh**: 正当 (partly), though justice/fairness is less central than legitimacy in the supplied set
+- **he**: צדק, צדק חברתי, עשיית צדק
+- **sa**: न्याय्य, धर्म्य
+- **el**: less central in the supplied truth set, though some related evaluative areas exist
+- **en**: just, fair, justice, fairness
+- **sw**: haki, -enye haki
+- **tl**: some uses of tama/wasto/akma overlap with moral rightness
+- **qu**: hucha, huchayuq, allin/mana allin in moral uses
+
+**Status**
+- **Strongly supported** in he/en/sw, and present in sa/qu
+- Often **merged with propriety or legitimacy**
+- Less central in some languages’ truth-domain inventories
+
+---
+
+### 13. Reality / actuality / what is really the case
+This dimension concerns actuality as opposed to appearance, fiction, illusion, or mere claim. It often overlaps with truth, but several languages show a distinct lexical area for “real/actual reality.”
+
+**Representative terms**
+- **zh**: 真实, 真相, 本质/实质 nearby
+- **he**: תואם למציאות, מהות nearby
+- **sa**: यथार्थ, तत्त्व, स्वरूप, भूतार्थ
+- **el**: πραγματικός, πραγματικότητα
+- **en**: real, reality
+- **tl**: totoo, katotohanan, totoong buhay, tunay
+- **sw**: halisi, uhalisia
+- **qu**: chiqaq, chiqaq kay
+
+**Status**
+- **Strongly supported**
+- Often **merged with truth** or **authenticity**
+- In some languages also linked to **essence/substance**
+
+---
+
+### 14. Essence / substance / underlying nature
+This dimension concerns what something fundamentally is, as opposed to surface form, wording, or appearance. It is especially visible in philosophical, legal, and reflective discourse.
+
+**Representative terms**
+- **zh**: 本质, 实质
+- **he**: מהות
+- **sa**: स्वरूप, तत्त्व
+- **el**: ουσία, κατ’ ουσίαν, στην ουσία
+- **en**: only diffusely represented in the supplied set; less strongly lexicalized here
+- **tl**: not strongly separate in the supplied set
+- **sw**: asili partly overlaps, but not as sharply
+- **qu**: chiqaq kay partly overlaps with true nature
+
+**Status**
+- **Strongly supported** in zh/he/sa/el
+- **Weak or merged** in en/tl/sw/qu
+- Often overlaps with **reality** and **authenticity**
+
+---
+
+### 15. Resemblance / sameness / correspondence to an original or model
+This dimension concerns whether one thing resembles, matches, corresponds to, or is identical with another. It is relevant to copies, depictions, identity judgments, and representational fit.
+
+**Representative terms**
+- **zh**: 仿真, 逼真, 失真
+- **he**: דומה ל־, זהה, תואם, תואם למציאות
+- **sa**: सदृश, तादृश
+- **el**: πιστός, πιστότητα, απαράλλακτος, κατά γράμμα
+- **en**: faithful, exact copy, true to life, faithful to the original
+- **sw**: -fanana, mfano
+- **qu**: kikin, kuska, rikch’akuy, chiqan
+- **tl**: akma and some descriptive fit expressions are adjacent, but less clearly a dedicated resemblance field
+
+**Status**
+- **Strongly supported** in he/el/en and present in zh/sw/qu/sa
+- Sometimes **merged with accuracy** or **authenticity**
+- Less elaborated in tl
+
+---
+
+### 16. Appearance-of-truth / plausibility / seeming real
+This dimension concerns things that seem true, believable, or lifelike without being directly asserted as true. It often appears in literary, rhetorical, narrative, or intuitive-evaluative contexts.
+
+**Representative terms**
+- **zh**: 仿真, 逼真, 以假乱真
+- **he**: דומה לאמת, דומה למציאות
+- **sa**: less clearly lexicalized as a separate dimension in the supplied set
+- **el**: αληθοφανής, αληθοφάνεια
+- **en**: ring true, have a ring of truth, verisimilitude, semblance
+- **sw**: some overlap with -fanana and uhalisia
+- **qu**: rikch’akuy
+- **tl**: not strongly separated in the supplied set
+
+**Status**
+- **Moderately supported**
+- **Strongly lexicalized** in el/en/zh
+- **Weaker or merged** elsewhere
+
+---
+
+## Summary table
+
+| Dimension Label | Informal Definition (data-based) | Representative Languages & Terms | Distribution / Notes |
+|-----------------|-----------------------------------|----------------------------------|----------------------|
+| Statement truth vs falsehood | Whether a statement, report, or proposition is presented as true or false | zh 真/假; he אמת/שקר; sa सत्य/असत्य; el αλήθεια/ψευδής; en true/false; tl totoo; sw kweli/uongo; qu chiqaq/llulla | Strongly lexicalized cross-linguistically |
+| Correctness / right answer | Whether an answer, judgment, or action is right rather than mistaken | zh 正确/错误; he נכון/לא נכון; el σωστός/ορθός; en correct/right; tl tama/wasto; sw sahihi; qu allin/mana allin | Strongly supported; often broader than truth |
+| Precision / exactness | Whether wording, measurement, or description matches closely and exactly | zh 准确; he מדויק; el ακρίβεια/ακριβής; en accurate/exact/precise; tl tumpak/eksakto; sw usahihi | Strongly supported; often distinct from correctness |
+| Credibility / trustworthiness | Whether a source, witness, report, or person deserves belief or reliance | zh 可信/可靠; he אמין/מהימן; en reliable/trustworthy/credible; tl mapagkakatiwalaan/maaasahan; sw kuaminika/aminika | Strongly supported; often distinct from verified truth |
+| Honesty / sincerity | Whether a person or speech act is candid, truthful, or morally honest | he לומר את האמת; sa सत्यवादिन्; el ειλικρινής; en truthful; tl tapat/matapat; sw mkweli/aminifu | Strongly supported; often overlaps with trustworthiness |
+| Genuineness / authenticity | Whether an object, identity, relation, or experience is genuine rather than fake | zh 真品/名副其实; he אותנטי/מקורי; el αυθεντικός/γνήσιος; en genuine/authentic/real; tl tunay; sw halisi/ya asili | Strongly supported; often distinct from statement-truth |
+| Fake / counterfeit / forged | Whether something is fake, forged, or deceptively non-genuine | zh 假货/冒牌/伪造; he זיוף/מזויף; el πλαστός/παραποιημένος; en fake/counterfeit/forgery; tl peke/huwad; sw bandia/feki | Strongly supported in many languages; weaker in sa/qu |
+| Verification / confirmed status | Whether truth or authenticity is established through checking or investigation | zh 属实/经查属实; sa प्रमाणेन सिद्धम्; el αποδεικνύεται ψευδής; en prove true/authenticate; tl beripikado/beripikahin | Strong in several languages, but not universal |
+| Basis / evidential grounding | Whether a claim has support or lacks grounds | sa प्रमाण/प्रामाण्य; en valid/sound basis; tl may saligan/walang saligan; zh 属实-related formal confirmation | Strong but uneven; often merges with validity or credibility |
+| Validity / formal standing | Whether something counts as valid, null, acceptable, or standing under rules | sa प्रामाण्य/अप्रामाण्य; el έγκυρος/εγκυρότητα; en valid/invalid/sound; sw batili | Strong in some languages; weak in others |
+| Lawfulness / legitimacy | Whether an act, claim, authority, or status is lawful or legitimate | zh 正当; sa न्याय्य/धर्म्य; en legitimate/lawful; sw halali/haramu; he מוצדק partly | Strong but not universal; often merges with justice/propriety |
+| Justice / fairness | Whether treatment, judgment, or order is fair or just | he צדק; en just/fair; sw haki; sa न्याय्य; qu hucha/allin nearby | Strong in some languages, peripheral in others |
+| Reality / actuality | Whether something is actual rather than apparent, fictional, or merely claimed | el πραγματικός/πραγματικότητα; en real/reality; sa यथार्थ/तत्त्व; sw halisi/uhalisia; qu chiqaq kay | Strongly supported; often overlaps with truth/authenticity |
+| Essence / substance | What something fundamentally is, beyond form or surface | zh 本质/实质; he מהות; sa स्वरूप/तत्त्व; el ουσία | Strong in zh/he/sa/el; weak elsewhere |
+| Resemblance / correspondence / sameness | Whether one thing matches, resembles, or is identical with another | he דומה/זהה/תואם; el πιστός/απαράλλακτος/κατά γράμμα; en faithful/true to life/exact copy; sw -fanana; qu kikin/rikch’akuy | Moderately strong; often overlaps with accuracy or authenticity |
+| Appearance-of-truth / plausibility | Whether something seems true, believable, or lifelike without full truth commitment | el αληθοφανής/αληθοφάνεια; en ring true/verisimilitude/semblance; zh 逼真/仿真; he דומה לאמת | Moderately supported; weak or merged in several languages |
+
+---
+
+## Final assessment
+
+### Strongly supported cross-linguistically
+These dimensions recur clearly across multiple languages and are well grounded in the tables:
+
+- **Statement truth vs falsehood**
+- **Correctness / right answer**
+- **Precision / exactness**
+- **Credibility / trustworthiness**
+- **Genuineness / authenticity**
+- **Fake / counterfeit / forged**
+- **Reality / actuality**
+
+Also fairly strong, though somewhat less universal:
+- **Honesty / sincerity**
+- **Resemblance / correspondence**
+- **Basis / evidential grounding**
+- **Validity / formal standing**
+
+### Tentative or weakly attested
+These appear in some languages but are not equally robust across the whole sample:
+
+- **Appearance-of-truth / plausibility**
+- **Essence / substance** as a distinct truth-related dimension outside a few languages
+- **Justice / fairness** as part of the same broader domain rather than a neighboring evaluative field
+- **Lawfulness / legitimacy** in languages where it is not clearly separated from correctness or justice
+- **Counterfeit-object vocabulary** as a separate domain in **sa** and **qu**
+- **Dedicated verification status** in **sw** and **qu**
+
+### Dimensions that split, merge, or vary by language
+- **Truth vs authenticity**: clearly split in zh/he/el/en/tl/sw, more merged in qu and partly sa.
+- **Correctness vs precision**: clearly split in zh/he/el/en/tl; less clearly separated in qu and partly sw.
+- **Credibility vs truth**: strongly split in zh/he/en/tl/sw; less elaborated in qu; partly absorbed into validity/proof in sa.
+- **Validity vs legitimacy vs justice**: separated in en and sa; partly overlapping in he and sw; less clearly distinct in tl and qu.
+- **Reality vs essence**: strongly separated in zh/he/sa/el; less clearly distinct in en/tl/sw/qu.
+- **Appearance-of-truth vs actual truth**: strong in el/en/zh, moderate in he, weak elsewhere.
+- **Dynamic verification/change**: concentrated in special constructions rather than general verbs in most languages; especially specialized in zh, sa, el, en, tl.
+
+Overall, the data supports a **multi-dimensional truth-related domain**, not a single binary true/false field. The most stable recurring distinctions are between **truth**, **correctness**, **precision**, **credibility**, **authenticity**, and **fakery**, with additional language-specific elaboration around **verification**, **essence**, **justice**, and **appearance-of-truth**.

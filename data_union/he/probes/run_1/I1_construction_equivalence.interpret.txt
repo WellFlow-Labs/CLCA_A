@@ -1,0 +1,92 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a #1 (Attribution): zero-copula NP + predicate adjective/noun; P4a #2 (Negative Attribution): *lo* + predicate | *ze ʾemet*; *ha-ʿed neʾeman*; *ze lo nakhon* | None required; directly attested | None |
+| **ADNOM** | P4a #3 (Adnominal Modification): post-nominal adjective with agreement; construct-state phrases; passive participles as modifiers | *maqor mehiman*; *mismakh mezuyaf* | None required; directly attested | None |
+| **BECOME** | P4a #4 (Become / Inchoative): *hafakh le-* + predicate; *nimtsa* + predicate adjective | *ha-maqor hafakh le-lo ʾamin*; *ha-mismakh nimtsa mezuyaf* | *nimtsa* + predicate partially substitutes for REVELATION (see §2) | None for BECOME itself; see REVELATION below |
+| **REVELATION** | No dedicated REVELATION construction identified in P4a/P4b | — | **SUBSTITUTED BY BECOME** (*nimtsa* + predicate adjective, as in *ha-mismakh nimtsa mezuyaf*, "the document was found/turned out to be forged") | Morphosyntactic gap: no dedicated revelation operator; the *nimtsa* sub-strategy of BECOME carries revelation meaning |
+| **CAUSATION (factual)** | P4a #5 (Causative): Hif'il binyan where attested (*lehatsddiq*, *lehakhshir*) | *lehatsddiq* ("to justify / declare righteous"); *lehakhshir* ("to certify as fit") | Hif'il functions as declarative ("to declare X to be Y") as much as strictly causative; coverage is uneven across roots | Lexical gap: not all roots in the domain have a productive Hif'il; no general periphrastic factual-causation construction is identified as specific to this domain |
+| **CAUSATION (character)** | P4a #7 (Agentive Nominalization): *-an* suffix; active participle used nominally | *shaqran* ("habitual liar"); *dover ʾemet* ("truth-teller"); *mezayyef* ("forger") | Active participle construction substitutes for *-an* agentive across most items | Lexical gap: *-an* agentive restricted to *shaqran* within the domain; no *-an* form for truth-telling attested |
+| **VERIFICATION** | P4a #5 (Causative, declarative use): *lehakhshir* ("to certify as fit"); P4a #6 (Abstract Nominalization): *immut* ("verification, authentication") | *lehakhshir*; *immut* | No single dedicated VERIFICATION construction; the Hif'il declarative and the Pi'el verbal noun *immut* together cover this function | Lexical gap: coverage depends on root-specific Hif'il or Pi'el availability |
+| **DISCONFIRMATION** | P4a #2 (Negative Attribution): *lo* + predicate; P4a #5 (Causative, where attested) | *ze lo nakhon*; *ha-ʿed lo mehiman* | Negative attribution (*lo* + predicate) is the primary disconfirmation strategy; no dedicated disconfirmation verb is identified | None for analytic negation; see §2 for asymmetry with VERIFICATION |
+| **NEGATION** | P4a #2 (Negative Attribution): invariant particle *lo* preceding predicate; P4a #6: *ʾi-* prefix on *-ut* nominals | *ze lo nakhon*; *ʾi-sevirut*, *ʾi-ḥuqiyyut*, *ʾi-teqinut* | Analytic (*lo* + predicate) is the general strategy; morphological (*ʾi-* prefix) is restricted to formal/legal register and nominal forms only | None for analytic negation; morphological negation is register-restricted and nominal-only |
+| **NOMINALIZATION** | P4a #6 (Abstract Nominalization): *-ut* suffix; Pi'el/Hif'il verbal nouns (*CiCCuC*, *haCCaCa*); P4a #7 (Agentive Nominalization): *-an* suffix; active participle used nominally; P4a #8 (Adverbial): *be-* + abstract noun | *ʾaminut*; *immut*; *shaqran*; *dover ʾemet*; *beʾemet*; *bediyyuq* | None required; multiple nominalization strategies are directly attested | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME (*nimtsa* sub-strategy)
+
+P4a and P4b identify two sub-strategies under the BECOME/Inchoative construction (Pattern 4): (a) *hafakh le-* + predicate, which expresses a change of state, and (b) *nimtsa* + predicate adjective, which P4b explicitly notes is "particularly frequent in legal discourse for recording a change in assessed status." The *nimtsa* sub-strategy (*ha-mismakh nimtsa mezuyaf*, "the document was found/turned out to be forged") carries a meaning closer to REVELATION — the discovery or disclosure of a pre-existing state — than to a genuine change of state. No separate REVELATION construction is identified in P4a or P4b. The *nimtsa* sub-strategy therefore functions as the closest available equivalent to a REVELATION operator, but it does so from within the BECOME construction rather than as a distinct category.
+
+### 2.2 CAUSATION (factual) is root-selective and partially declarative
+
+P4b rates the Causative construction (Pattern 5) as [MARGINAL] due to uneven root coverage. The Hif'il binyan is the primary causative/declarative morphology, but P4b notes that it "most commonly expresses a declarative meaning ('to declare X to be Y') rather than a strictly causative one" for the attested items (*lehatsddiq*, *lehakhshir*). This means that for the roots where a Hif'il is available, the construction covers both CAUSATION (factual) and a declarative/performative function simultaneously. For roots without a productive Hif'il in this domain (e.g., ד-י-ק, ז-י-פ, and the roots of *ʾemet* and *sheqer* directly), no specific causative construction is identified; P4a mentions periphrastic causatives with *legaram* but notes these are not specific to the truth domain.
+
+### 2.3 CAUSATION (character) substituted by active participle construction
+
+The *-an* agentive suffix, which would be the expected morphological strategy for CAUSATION (character) / habitual-agent nominalization, is attested in this domain only for *shaqran* (liar). For all other items — including the truth-telling side of the domain — the active participle used nominally (*dover ʾemet*, *mezayyef*, *medayyeq*, *maʾamin*) substitutes for the *-an* agentive. This creates an asymmetry: the falsity/lying side has a dedicated morphological agentive (*shaqran*), while the truth-telling side relies on a periphrastic participle construction (*dover ʾemet*).
+
+### 2.4 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is expressed through root-specific Hif'il declaratives (*lehakhshir*) and the Pi'el verbal noun *immut*, both of which are restricted in coverage. DISCONFIRMATION is expressed primarily through the analytic negative attribution construction (*lo* + predicate), which is general and unrestricted. The two operators therefore use structurally different constructions: VERIFICATION relies on lexically specific verbal or nominal forms, while DISCONFIRMATION relies on the general negation particle *lo*. They do not share a single construction.
+
+### 2.5 NEGATION is analytic at the clausal level, morphological only in nominals and formal register
+
+The general negation strategy for predicates is analytic: the invariant particle *lo* precedes the predicate with no morphological change to the predicate itself (P4a #2, rated [CORE]). Morphological negation via the *ʾi-* prefix is attested only on *-ut* abstract nominals and is explicitly noted in P4b as restricted to "formal and legal registers." There is no morphological negation strategy for verbal or adjectival predicates in this domain.
+
+### 2.6 Positive/negative asymmetry in adverbial forms
+
+P4a #8 identifies *beʾemet* ("truly, really, honestly") as a grammaticalized sincerity and intensifier marker. No parallel negative adverbial form (e.g., *\*be-sheqer*, "falsely") is identified in P4a or P4b as having the same grammaticalized status. This represents an asymmetry between the truth-positive and truth-negative sides of the adverbial construction.
+
+### 2.7 Concessive/Epistemic Hedge as a distinct discourse-level operator
+
+P4a #9 (Concessive / Epistemic Hedge) is structurally distinct from simple ATTR (Pattern 1) in that it embeds a full clause under *nakhon she-* or *ʾemet she-* and is used specifically in argumentative discourse to acknowledge a truth claim before introducing a counterpoint. P4b notes it is "restricted to argumentative and evaluative discourse contexts." This construction does not map straightforwardly onto any of the ten canonical CLCA operators listed; it is closest to a discourse-level use of ATTR but with a concessive function that is not captured by the ATTR category alone.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **REVELATION**: No dedicated REVELATION construction is identified. The *nimtsa* + predicate sub-strategy of BECOME is the closest functional equivalent but is housed within the BECOME construction, not as a separate operator. This is a **morphosyntactic gap**: the language does not have a distinct syntactic construction for revelation as opposed to change-of-state.
+
+### 3.2 Lexical Gaps
+
+- **CAUSATION (factual)**: The Hif'il causative/declarative is absent or unproductive for several roots in the domain (ד-י-ק, ז-י-פ, and the roots of *ʾemet* and *sheqer* directly). No domain-specific periphrastic causative fills this gap. This is a **lexical gap**: the construction type exists in the language but is not lexically instantiated for all relevant roots.
+- **CAUSATION (character) — truth-positive side**: No *-an* agentive for truth-telling is attested. The participle construction *dover ʾemet* fills the role but is not a morphologically dedicated agentive. This is a **lexical gap** (no dedicated form) rather than a structural gap (the participle strategy is available).
+- **VERIFICATION**: No single dedicated VERIFICATION construction covers the full domain. Coverage depends on root-specific Hif'il or Pi'el availability. This is a **lexical gap**.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a/P4b data. All ten canonical operators can be expressed in Hebrew, though some require substitution or are root-restricted.
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing)
+
+- **Agentive Nominalization**: The *-an* morphological agentive is present on the falsity/lying side (*shaqran*) but absent on the truth-telling side. The truth-telling side uses the periphrastic *dover ʾemet*. This is an **asymmetric lexical gap**: the morphological form exists for one polarity but not the other.
+- **Adverbial Construction**: *beʾemet* is grammaticalized as a sincerity/intensifier marker; no parallel grammaticalized negative adverbial (e.g., "falsely" as a manner adverb with equivalent status) is identified in P4a/P4b. This is a **potential asymmetric lexical gap**, though the data do not confirm or deny the existence of such a form beyond what is reported.
+- **Morphological Negation on Nominals**: The *ʾi-* prefix negation is attested only in formal/legal register and only on *-ut* nominals. No parallel morphological negation is available for verbal or adjectival predicates. This is an **asymmetric morphosyntactic restriction**: morphological negation is available for one word class (abstract nominals) but not others.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | Zero-copula attribution (affirmative and negative) is [CORE], unrestricted across registers (P4a #1, #2) |
+| **ADNOM** | **Fully available** | Post-nominal adjective agreement and passive participle modification are [CORE] and unrestricted (P4a #3) |
+| **BECOME** | **Fully available** | *hafakh le-* and *nimtsa* + predicate are both [CORE] strategies (P4a #4) |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME** (*nimtsa* + predicate sub-strategy); no dedicated construction |
+| **CAUSATION (factual)** | **Partially available** | Hif'il declarative/causative is [MARGINAL] due to uneven root coverage; absent for several domain-relevant roots (P4a #5) |
+| **CAUSATION (character)** | **Partially available** | *-an* agentive restricted to *shaqran*; active participle substitutes for other items; truth-positive side has no morphological agentive (P4a #7) |
+| **VERIFICATION** | **Partially available** | Covered by root-specific Hif'il (*lehakhshir*) and Pi'el nominal (*immut*); no general construction covers the full domain (P4a #5, #6) |
+| **DISCONFIRMATION** | **Fully available** | Analytic *lo* + predicate is [CORE] and unrestricted; functions as the primary disconfirmation strategy (P4a #2) |
+| **NEGATION** | **Fully available (analytic); partially available (morphological)** | Analytic *lo* is [CORE] and unrestricted; morphological *ʾi-* prefix is restricted to *-ut* nominals in formal/legal register (P4a #2, #6) |
+| **NOMINALIZATION** | **Fully available** | Multiple strategies (*-ut* suffix, Pi'el/Hif'il verbal nouns, *-an* agentive, active participle, *be-* + noun adverbial) are attested; *-ut* suffix is [CORE] and consistently productive across the domain (P4a #6, #7, #8) |

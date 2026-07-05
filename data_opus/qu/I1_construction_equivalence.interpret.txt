@@ -1,0 +1,76 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | #1 Attribution: bare quality root + evidential enclitic (*-mi*); copula *kay* overt mainly in abstractions | chiqaqmi, allinmi | Direct mapping | None |
+| ADNOM | #3 Adnominal Modification: quality word + head noun, no linker, fixed order | chiqaq simi, llulla simi | Direct mapping | None |
+| BECOME | #4: none attested | (none attested) | SUBSTITUTED BY CAUSATION (*-cha-*), which covers change-of-state transitively only | **NO COMMON EXPRESSION – circumlocution required** (no intransitive form; morphosyntactic gap) |
+| REVELATION | Not attested in P4a/P4b | (none) | No revelation construction documented | **MISSING (structural gap)** |
+| CAUSATION (factual) | #5 Causative: quality root + *-cha-* (+ *-y*) | allinchay, chiqachay, sut'inchay | Direct mapping; *-cha-* dominant/productive | None |
+| CAUSATION (character) | #5 Causative: *-chi-* marking external causation of a third party | llullachiy | Direct mapping but [MARGINAL], narrower | Partial (marginal productivity) |
+| VERIFICATION | #9 Interrogative Truth-Confirmation: truth root + *-chu* | chiqaqchu, chiqaptachu | Direct mapping but [MARGINAL] | Partial (borderline word/phrase) |
+| DISCONFIRMATION | Not separately attested | (none) | No dedicated disconfirmation construction; #9 *-chu* is confirmation-seeking only | **MISSING (structural gap)** |
+| NEGATION | #2 Negative Attribution: preposed *mana* + quality word (+ optional *-q*) | mana allin, mana llullaq | Analytic (multi-word *mana* + base) | None |
+| NOMINALIZATION | #6 Abstract Nominalization ([X + kay]); #7 Agentive Nominalization (*-q*, *-sapa*) | chiqap kay, llulla kay; llullakuq, llullasapa | Direct mapping | None |
+
+(Constructions #8 Adverbial and #10 Comparison/Resemblance have no canonical CLCA operator slot in the provided list and are noted here without forced mapping.)
+
+## 2. Substitution Patterns (Narrative)
+
+**Become replaced by causation (transitive only).** No dedicated intransitive "become X" construction is documented (#4). The data state that change-of-state is covered transitively via the causative *-cha-* (#5). Thus the inchoative function is not expressed by its own operator; only the transitive "make X" reading is available. This is a substitution that does not fully cover the intransitive meaning.
+
+**Revelation has no documented construction.** Nothing in P4a/P4b describes a "come to light / be revealed" pattern. There is no evidence that REVELATION substitutes for BECOME, nor that any operator stands in for it.
+
+**Discovery / Verification vs. Causation.** There is no DISCOVERY construction attested, and no indication that discovery substitutes for causation. Verification (#9) is its own enclitic-based device (*-chu*) and does not replace causation.
+
+**Negation is analytic.** Negation uses the preposed free word *mana* plus the quality word (optionally plus agentive *-q*). It is not a bound morphological negator on these roots. Polarity behavior is asymmetric: *mana* + ADJ yields negative polarity (*mana allin* "bad"), while *mana* + AGENTIVE yields positive polarity (*mana llullaq* "honest").
+
+**Verification and Disconfirmation do not share a construction.** Only an affirmative truth-confirmation device exists (*-chu* on the truth root: *chiqaqchu*). No dedicated disconfirmation construction is documented; the two functions therefore do not share one form because only one of them is attested.
+
+**Asymmetry: truth-teller expressed negatively.** Agentive nominalization (#7) shows an explicit asymmetry: a liar has a dedicated positive agentive (*llullakuq*), but a truth-teller is expressed only negatively as *mana llullaq* ("one who does not lie"), with no dedicated positive agentive.
+
+**Light/copular carrier.** In ATTR, the carrier of assertion is the evidential enclitic *-mi*, not a verb; the copula *kay* surfaces overtly chiefly in NOMINALIZATION ([X + kay]), where it functions as a copular noun ("being") carrying the abstraction.
+
+## 3. Missingness Summary
+
+**Structural Gaps (missing constructions):**
+- BECOME / Inchoative — no intransitive "become X" construction (only transitive causative coverage).
+- REVELATION — no documented construction.
+- DISCONFIRMATION — no dedicated construction (only affirmative confirmation via *-chu*).
+
+**Lexical Gaps (missing words):**
+- No dedicated positive agentive for "truth-teller" (the slot is filled analytically by *mana llullaq*). This is an asymmetric lexical/derivational gap.
+
+**Conceptual Gaps (blocked operations):**
+- None can be asserted from the data as conceptually blocked; the absences above are described in P4a/P4b as undocumented or covered by other operators, not as blocked operations.
+
+**Asymmetric Gaps (only negative or only positive forms missing):**
+- Agentive: positive "true-teller" missing as a dedicated form; expressed via negation (*mana llullaq*). Negative "liar" fully lexicalized (*llullakuq*, intensive *llullasapa*).
+- Polarity inversion in negation: *mana* + ADJ → negative; *mana* + AGENTIVE → positive.
+- Truth-confirmation present (*chiqaqchu*); disconfirmation counterpart absent.
+
+## 4. Canonicalized Operator Inventory
+
+**Fully available:**
+- ATTR (#1)
+- ADNOM (#3)
+- CAUSATION (factual) (#5, *-cha-*)
+- NEGATION (#2, analytic *mana*)
+- NOMINALIZATION (#6 abstract, #7 agentive)
+
+**Available with substitution:**
+- BECOME — SUBSTITUTED BY transitive CAUSATION (*-cha-*); intransitive sense not covered.
+
+**Partially available:**
+- CAUSATION (character) (#5, *-chi-*; marginal, narrow).
+- VERIFICATION (#9, *-chu*; marginal, borderline word/phrase).
+
+**Missing entirely:**
+- REVELATION — **MISSING (structural gap)**
+- DISCONFIRMATION — **MISSING (structural gap)**
+
+Normalization notes on multi-word expressions:
+- *mana allin* / *mana llullaq* (#2) behave as conventionalized adjective-like predicative units.
+- *chiqap kay* / *llulla kay* (#6) behave as nominal (abstraction) units with copular noun *kay* as semantic carrier.
+- *X-man rikch'akuy* (#10) behaves verbally (resemblance verb); *kikin hina* behaves as a particle-based equivalence phrase.
+- *chiqaqchu* / *chiqaptachu* (#9) behave as fixed interrogative formulas, borderline inflected-word vs. phrase.

@@ -1,0 +1,90 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Basque (eu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicative: ADJECTIVE/NOUN + *da* (§1); Negative: ADJECTIVE/NOUN + *ez da* (§2 syntactic); Lexical negative: *ez-* + ADJECTIVE + *da* (§2 lexical) | *Egia da*; *Zilegi da*; *Ez da egia*; *Ez-fidagarria da* | No substitution required. Both positive and negative forms are directly attested. The *ez-* lexical form is restricted to a near-closed set; the *ez da* syntactic form is fully productive. | None |
+| **ADNOM** | Indefinite attributive form (*-zko*, *-ko*, *-tako*, *-ezko*) preceding head noun (§3) | *Egiazko informazioa*; *Gezurrezko lekukotasuna* | No substitution required. The construction is obligatory and morphologically regular. The definite form (*egiazkoa*) is restricted to predicative/standalone positions and is not an alternate adnominal strategy. | None |
+| **BECOME** | Root + *-tu* intransitive (§4); Resultant state: ADJECTIVE + *egon* (§4) | *Gauzak okertu dira*; *Oker nago* | No substitution required. Two distinct sub-constructions are attested: the *-tu* verb encodes the change of state; *egon* encodes the resultant state. These are not interchangeable. | None |
+| **REVELATION** | **Not attested in P4a or P4b** | — | **MISSING (structural gap).** No dedicated construction for "X turns out to be true / X is revealed to be the case" is documented. The BECOME construction (*-tu* + *egon*) encodes change of state and resultant state but not evidential revelation. No light-verb construction with *esan* or *egin* fills this role. | **MISSING (structural gap)** |
+| **CAUSATION (factual)** | Root + *-tu* transitive with explicit object (§5) | *Akatsak zuzendu*; *Epaia baliogabetu* | No substitution required. The same *-tu* morphology used for BECOME yields causative/factual causation when a direct object is present. The distinction is syntactic (argument structure), not morphological. | None |
+| **CAUSATION (character)** | Agentive nominalization: Root + *-ti* + *-a* (habitual/characterological) (§7); Root + *-gile* + *-a* (maker/doer) (§7); Root + *-tzaile* + *-a* (role/professional) (§7) | *Gezurtia*; *Iruzurgilea* | **SUBSTITUTED BY NOMINALIZATION.** Basque does not attest a verbal construction meaning "X makes Y a liar / X causes Y to be deceptive." Character causation is expressed not through a verbal causative construction but through characterological agentive nominals (*-ti*, *-gile*). These nominals name the result of a character attribution rather than encoding the causal process. The *-ti* form is the primary pattern for moral character evaluation. | **SUBSTITUTED BY AGENTIVE NOMINALIZATION (§7)** |
+| **VERIFICATION** | Abstract nominalization: verbal stem + *-pen* (§6); Process nominalization: verbal stem + *-tze* (§8); Light-verb construction: truth-domain nominal + *egin* (§11) | *Egiaztapen*; *Egiaztatze-prozesua*; *Iruzurra egin* | **Partially attested.** Nominal constructions for the result of verification (*egiaztapen*) and the process of verification (*egiaztatze*) are fully attested. A dedicated verbal construction meaning "to verify [a proposition]" is not explicitly documented as a single-word verb in P4a/P4b, though the nominalized forms imply an underlying verbal stem (*egiazta-*). No light-verb construction with *egin* is attested specifically for verification (the *egin* examples are for fraud/action, not verification). | **Partially available — nominal forms attested; dedicated verbal construction not explicitly documented** |
+| **DISCONFIRMATION** | Syntactic negation: ADJECTIVE/NOUN + *ez da* (§2); Pejorative abstract nominalization: Root + *-keria* (§9); Negative attribution: *Ez da egia* (§2) | *Ez da egia*; *Ustelkeria*; *Itxurakeria* | **Partially attested.** Negation of a truth predicate (*ez da egia*) is fully attested and productive. Pejorative nominals (*-keria*) encode a pattern of blameworthy conduct implying disconfirmation of positive character. However, no dedicated construction meaning "X disconfirms / X refutes [a proposition]" is documented as a distinct verbal or nominal construction separate from general negation. DISCONFIRMATION and NEGATION share the *ez da* construction; no formal distinction between them is attested. | **SUBSTITUTED BY NEGATION (§2); no dedicated disconfirmation construction attested** |
+| **NEGATION** | Syntactic: ADJECTIVE/NOUN + *ez da* (§2, fully productive); Lexical: *ez-* + ADJECTIVE (§2, restricted) | *Ez da egia*; *Ez-fidagarria da* | No substitution required. Two strategies are attested: analytic (*ez da*, productive across all predicates) and morphological (*ez-* prefix, restricted to a near-closed set). Both are documented. | None |
+| **NOMINALIZATION** | Abstract property: Root + *-tasun* + *-a* (§6); Result/document: verbal stem + *-pen* (§6); Action/result: *-keta* (§6, referenced); Process: verbal stem + *-tze* (§8); Pejorative: Root + *-keria* (§9); Agentive (*-tzaile*, *-gile*, *-ti*) (§7) | *Egiatasuna*; *Egiaztapen*; *Egiaztatze-prozesua*; *Ustelkeria*; *Gezurtia*; *Iruzurgilea* | No substitution required. Nominalization is richly attested across multiple distinct suffixal patterns, each with a distinct semantic function. The system distinguishes property nominals (*-tasun*), result nominals (*-pen*), process nominals (*-tze*), action/result nominals (*-keta*), pejorative nominals (*-keria*), and three agentive nominal types (*-tzaile*, *-gile*, *-ti*). These are not interchangeable. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 CAUSATION (character) substituted by Agentive Nominalization
+
+P4a and P4b document no verbal construction in Basque that encodes the meaning "X causes Y to become a liar" or "X makes Y deceptive" — that is, no construction that treats character causation as a dynamic verbal process with an agent and a causee. Instead, the language addresses character causation through the agentive nominalization system (§7): the *-ti* suffix (*gezurtia*, "habitual liar"), the *-gile* suffix (*iruzurgilea*, "fraudster"), and the *-tzaile* suffix (*zuzentzailea*, "corrector") each name a person by their characteristic or role-based relationship to a truth-domain concept. The *-ti* type specifically encodes stable character traits rather than acts or roles, and is identified in P4b as the primary pattern for moral character evaluation. The result is that character causation is expressed through the nominal endpoint (the characterological label) rather than through a verbal construction encoding the causal process. This is a substitution pattern: CAUSATION (character) → AGENTIVE NOMINALIZATION.
+
+### 2.2 DISCONFIRMATION shares construction with NEGATION
+
+P4a and P4b document no construction dedicated to disconfirmation as distinct from negation. The *ez da* construction (§2) is the attested form for both "it is not true" (negation of a truth predicate) and the closest available expression for "this refutes / disproves X." The pejorative *-keria* nominals (§9) encode a pattern of blameworthy conduct that implies the disconfirmation of positive character claims, but they do so nominally rather than through a dedicated verbal disconfirmation construction. No asymmetry between truth-side and falsity-side is documented for this substitution: both *ez da egia* and *ustelkeria* are attested, but neither constitutes a dedicated disconfirmation operator. DISCONFIRMATION is therefore expressed through the NEGATION construction, with no formal distinction between the two operators.
+
+### 2.3 REVELATION is absent; no substitution is documented
+
+P4a and P4b document no construction that encodes the evidential or epistemic meaning "X turns out to be true / X is revealed to be the case." The BECOME construction (*-tu* intransitive; ADJECTIVE + *egon*) encodes change of state and resultant state, but these are not evidential: they describe a change in the world, not a change in the speaker's epistemic access to a fact. The epistemic hedge adverbials (§10: *itxuraz*, *ustez*) mark reduced speaker commitment to a proposition but do not encode revelation. The light-verb constructions (§11) are restricted to speech-act expressions (*esan*) and action expressions (*egin*) and do not fill the revelation role. No substitution pattern is attested: REVELATION is simply absent from the documented construction inventory.
+
+### 2.4 VERIFICATION is nominally attested but verbally underdocumented
+
+The nominal forms *egiaztapen* (result nominal, §6) and *egiaztatze-prozesua* (process nominal, §8) clearly presuppose an underlying verbal stem (*egiazta-*), and the existence of this stem is implied by the morphological analysis in P4a. However, P4a and P4b do not explicitly document a verbal construction of the form "to verify [proposition P]" as a simple predicate. The light-verb construction with *egin* (§11) is attested for action expressions (*iruzurra egin*, "to commit fraud") but not specifically for verification. VERIFICATION is therefore partially available: the nominal domain is well-attested, but the verbal construction is not explicitly documented in the source data.
+
+### 2.5 Asymmetry between analytic and morphological NEGATION
+
+P4b rates syntactic negation (*ez da*) as [CORE] and lexical negation (*ez-* prefix) as [MARGINAL]. The *ez-* prefix forms (*ez-fidagarria*, *ez-sinesgarria*, *ez-zilegia*) are described as restricted to a near-closed set. This creates an asymmetry within the NEGATION operator: the analytic strategy is fully productive and applies to any predicate, while the morphological strategy is available only for a restricted set of adjectives. No parallel restriction is documented for positive attribution. The asymmetry is within NEGATION itself, not between NEGATION and another operator.
+
+### 2.6 BECOME and CAUSATION (factual) share morphology; distinction is syntactic
+
+The *-tu* suffix (§4, §5) is the same morphological form for both BECOME (inchoative, intransitive) and CAUSATION (factual, transitive). P4a and P4b are explicit that no dedicated causative morpheme exists in this domain and that the distinction is determined entirely by argument structure: the presence of an explicit direct object yields the causative reading; its absence yields the inchoative reading. This is not a substitution pattern but a single polyfunctional morphological form covering two CLCA operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **REVELATION**: No construction is attested for the meaning "X turns out to be true / X is revealed to be the case." Neither the BECOME construction, the epistemic hedge adverbials, nor the light-verb constructions fill this role. This is a structural gap: the meaning is not expressed by any documented construction, and no substitution is attested.
+
+### 3.2 Lexical Gaps
+
+- **VERIFICATION (verbal)**: The nominal forms (*egiaztapen*, *egiaztatze*) are attested and imply an underlying verbal stem, but no dedicated verbal construction meaning "to verify [a proposition]" is explicitly documented in P4a or P4b. This is a lexical gap in the verbal domain specifically; the nominal domain is not gapped.
+
+- **CAUSATION (character) — verbal**: No verb meaning "to make X a liar" or "to cause X to be deceptive" is documented. The gap is in the verbal/causative construction; the characterological meaning is available through agentive nominals.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from P4a and P4b alone. All documented constructions have consistent and interpretable semantic content. The absence of REVELATION does not indicate that the concept is blocked; it indicates only that no dedicated construction for it is documented.
+
+### 3.4 Asymmetric Gaps
+
+- **NEGATION — morphological vs. analytic asymmetry**: Lexical *ez-* prefix negation is restricted to a near-closed set of adjectives (rated [MARGINAL]); syntactic *ez da* negation is fully productive (rated [CORE]). The morphological negation strategy is available only on the negative side and only for a restricted set of forms. No parallel morphological positive-attribution prefix is documented.
+
+- **DISCONFIRMATION vs. NEGATION**: DISCONFIRMATION has no dedicated construction and is expressed through the NEGATION construction (*ez da*). The positive counterpart (VERIFICATION) has at least nominal constructions attested. This creates an asymmetry: VERIFICATION is partially available nominally; DISCONFIRMATION has no dedicated form at all and relies entirely on NEGATION.
+
+- **CAUSATION (factual) vs. CAUSATION (character)**: CAUSATION (factual) is directly attested as a verbal construction (*-tu* transitive). CAUSATION (character) is not attested as a verbal construction and is substituted by agentive nominalization. The gap is specific to the character-causation subtype.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Positive (*da*) and negative (*ez da*; *ez-* prefix) both attested. Syntactic negation is fully productive; lexical negation is restricted but attested. |
+| **ADNOM** | **Fully available** | Obligatory indefinite attributive form (*-zko*, *-ko*, *-tako*, *-ezko*) is the only prenominal strategy; it is morphologically regular and productive across the domain. |
+| **BECOME** | **Fully available** | Two sub-constructions: *-tu* intransitive (change of state) and ADJECTIVE + *egon* (resultant state). Both are [CORE] and systematically distinct. |
+| **REVELATION** | **Missing entirely** | No dedicated construction attested. No substitution documented. Structural gap. |
+| **CAUSATION (factual)** | **Fully available** | *-tu* transitive with explicit object; [CORE] in legal, editorial, and administrative registers. Shares morphology with BECOME; distinction is syntactic. |
+| **CAUSATION (character)** | **Available with substitution** | Substituted by agentive nominalization (*-ti*, *-gile*, *-tzaile*). No verbal causative construction for character causation is attested. The *-ti* form is the primary pattern for moral character evaluation. |
+| **VERIFICATION** | **Partially available** | Nominal forms (*egiaztapen*, *egiaztatze*) are [CORE] and well-attested. Dedicated verbal construction not explicitly documented in P4a/P4b. |
+| **DISCONFIRMATION** | **Available with substitution** | Substituted by NEGATION (*ez da*). No dedicated disconfirmation construction is attested. Pejorative *-keria* nominals imply disconfirmation of positive character but do not constitute a dedicated disconfirmation operator. |
+| **NEGATION** | **Fully available** | Two strategies: analytic (*ez da*, fully productive, [CORE]) and morphological (*ez-* prefix, restricted to near-closed set, [MARGINAL]). Both attested. |
+| **NOMINALIZATION** | **Fully available** | Richly attested across multiple distinct suffixal patterns: *-tasun* (property), *-pen* (result/document), *-tze* (process), *-keta* (action/result), *-keria* (pejorative), *-tzaile*/*-gile*/*-ti* (agentive). Each pattern has a distinct semantic function; none are interchangeable. |

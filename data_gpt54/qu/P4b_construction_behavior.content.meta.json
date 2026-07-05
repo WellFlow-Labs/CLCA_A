@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-23T21:39:36.139333+00:00",
+  "prompt": "# CLCA Protocol v3.4 \u2014 P4b Construction Usage & Constraints\n\n# CONTEXT: P4a output\n\n\n### STEP P4a_CONSTRUCTIONS \u2014 OUTPUT\n## 1. ATTRIBUTION\n### Pattern\n**X (is) ADJ / N + enclitic** for predicative evaluation: e.g. **chiqaq** \u2018true/real\u2019, **allin(mi)** \u2018right/correct\u2019, **pantasqa** \u2018mistaken\u2019, **huchayuq** \u2018guilty\u2019.\n\n### Examples\n- **allinmi** \u2192 *allinmi* \u2192 \u2018it is right / correct\u2019\n- **pantasqa** \u2192 *pantasqa* \u2192 \u2018it is mistaken / wrong\u2019\n\n### Notes\nQuechua commonly uses adjectival or participial forms predicatively without a separate copula in simple evaluative statements. The assertive/evidential enclitic **-mi** can strengthen the predication, as in **allinmi**.\n\n## 2. NEGATIVE ATTRIBUTION\n### Pattern\n**mana + ADJ** for negative predicative evaluation.\n\n### Examples\n- **mana allin** \u2192 *mana allin* \u2192 \u2018not right; wrong; improper\u2019\n- **mana chiqaq** \u2192 *mana chiqaq* \u2192 \u2018not true; not real\u2019 *(pattern-level extension from core adjective)*\n\n### Notes\nThe basic negative attributive pattern is formed with preverbal/preadjectival **mana**. In the provided data, **mana allin** is the clearly established common expression; extension to other evaluative adjectives is structurally natural but less directly supported.\n\n## 3. ADNOMINAL MODIFICATION\n### Pattern\n**ADJ/N + N**: truth/falsity or character term modifies a following noun.\n\n### Examples\n- **llulla runa** \u2192 *llulla runa* \u2192 \u2018liar; deceitful person\u2019\n- **llulla simi** \u2192 *llulla simi* \u2192 \u2018false speech; lie\u2019\n\n### Notes\nA truth-domain modifier commonly precedes the noun it qualifies. This pattern is used both for propositional content (**\u2026 simi**) and person characterization (**\u2026 runa**).\n\n## 4. BECOME / INCHOATIVE\n### Pattern\n(no common expression identified)\n\n### Examples\n- (no common expression identified)\n- (no common expression identified)\n\n### Notes\nThe supplied materials do not provide a clear, common inchoative construction meaning \u2018become true\u2019, \u2018become mistaken\u2019, or \u2018become a liar\u2019. No compact construction should be posited here from the current evidence.\n\n## 5. CAUSATIVE\n### Pattern\n**Root + causative derivation** or **N-man + churay** \u2018put into X\u2019 for causing error.\n\n### Examples\n- **pantachiy** \u2192 *pantachiy* \u2192 \u2018to mislead; cause to err\u2019\n- **pantayman churay** \u2192 *pantayman churay* \u2192 \u2018to lead into error; misdirect\u2019\n\n### Notes\nCausation is clearly attested in the error domain, especially from **pantay** \u2018error\u2019. Both a derived causative verb and a periphrastic directional construction are represented.\n\n## 6. ABSTRACT NOMINALIZATION\n### Pattern\n**ADJ + kay** for abstract \u2018truth/reality\u2019 type nominalization.\n\n### Examples\n- **chiqaq kay** \u2192 *chiqaq kay* \u2192 \u2018truth; reality; true nature\u2019\n- **hucha** \u2192 *hucha* \u2192 \u2018fault; guilt; sin\u2019 *(lexical abstract noun rather than productive nominalization)*\n\n### Notes\nThe clearest abstract construction in the dataset is **chiqaq kay**, literally \u2018true being\u2019. Other abstract meanings such as **hucha** are lexical nouns, not transparently derived by the same productive pattern in the provided material.\n\n## 7. AGENTIVE NOMINALIZATION (LIAR, TRUTH-TELLER)\n### Pattern\n**Root + -q** or **modifier + runa** for person characterized by lying/deception.\n\n### Examples\n- **llullaq** \u2192 *llullaq* \u2192 \u2018liar; one who lies\u2019\n- **llulla runa** \u2192 *llulla runa* \u2192 \u2018liar; deceitful person\u2019\n\n### Notes\nAgentive/person-characterizing formation is well supported for the falsehood domain. No equally secure truth-teller counterpart is provided in the source material, so only the lying/deception side is included.\n\n## 8. ADVERBIAL TRUTH-ASSERTION\n### Pattern\n**Adverbial form of truth adjective** used to reinforce assertion.\n\n### Examples\n- **chiqap** \u2192 *chiqap* \u2192 \u2018truly; really; in truth\u2019\n- **chiqaqta** \u2192 *chiqaqta* \u2192 \u2018truly; really\u2019\n\n### Notes\nQuechua uses adverbialized truth forms to modify the whole proposition rather than a noun. In the supplied material, **chiqap** is core and **chiqaqta** is a less certain but structurally similar variant.\n\n## 9. SPEECH-SPECIFIC TRUTH/FALSEHOOD NOUN PHRASES\n### Pattern\n**truth/falsity modifier + simi** \u2018word, speech\u2019.\n\n### Examples\n- **chiqaq simi** \u2192 *chiqaq simi* \u2192 \u2018true word; truthful speech\u2019\n- **llulla simi** \u2192 *llulla simi* \u2192 \u2018false speech; lie\u2019\n\n### Notes\nThis construction specializes truth-domain evaluation to speech content. It is especially suited to moral, rhetorical, or elevated discourse about truthful versus deceptive utterance.\n\n# END\n\n\n# TASK\n\nFor each construction identified in P4a:\n\n1. Provide a NATURALNESS rating:\n   - [CORE] common and idiomatic\n   - [MARGINAL] less common or restricted\n   - [UNCERTAIN] unclear or doubtful\n\n2. Provide a brief usage note (1\u20132 sentences):\n   - typical contexts of use\n   - any observable restrictions\n   - variation in usage if evident\n\n3. List any attested alternate constructions (if present)\n\n---\n\n## RULES\n\n- Do NOT infer theoretical structure\n- Do NOT assume symmetry across constructions\n- Do NOT generate constructions not already attested\n- Preserve examples exactly as given in P4a\n\n---\n\n## FORMAT\n\n| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |\n",
+  "model": "gpt-5.4",
+  "backend": "openai",
+  "temperature": 0.2,
+  "usage": {
+    "completion_tokens": 1284,
+    "prompt_tokens": 1383,
+    "total_tokens": 2667,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "raw_metadata": {
+    "backend": "openai",
+    "model": "gpt-5.4",
+    "temperature": 0.2,
+    "phase": "P",
+    "usage": {
+      "completion_tokens": 1284,
+      "prompt_tokens": 1383,
+      "total_tokens": 2667,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}

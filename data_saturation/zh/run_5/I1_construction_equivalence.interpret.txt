@@ -1,0 +1,96 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+# Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (1a) Subject + 是 + [truth-domain ADJ] + 的; (1b) Subject + [truth-domain ADJ] (bare predicative) | 这个消息是真实的。/ 他的陈述完全正确。 | No substitution required; two fully productive frames available | None |
+| **ADNOM** | (3a) [truth-domain ADJ] + 的 + N; (3b) Fixed attributive compound (no 的) | 真实的情况 / 虚假广告 | No substitution required | None |
+| **BECOME** | (4a) Lexicalized inchoative expressions (真相大白, 弄假成真, 坐实); (4b) Periphrastic 变得 + ADJ / 成为 + N | 真相大白。/ 弄假成真。 | REVELATION substitutes for BECOME in the positive-truth direction (see §2); periphrastic frame available but marginal | No structural gap; periphrastic frame marginal |
+| **REVELATION** | (5b) Verb-internal causative verbs (揭露, 揭示, 戳穿, 坐实) + truth-domain noun; (8) Verb-object collocations: 揭露真相 | 揭露真相 | Functions as the primary expression of truth-coming-to-light; overlaps with BECOME and CAUSATION (factual) | None |
+| **CAUSATION (factual)** | (5a) 让/使 + NP + [truth-domain predicate]; (5b) Verb-internal causative (揭露, 戳穿, 坐实) | 这一调查使真相大白。/ 揭露真相 | Verb-internal causatives frequently substitute for periphrastic 让/使 frame | None |
+| **CAUSATION (character)** | (5a) 让 + NP + fixed expression; (7) Agentive nominalization (欺骗者, 伪造者) | 让他原形毕露。/ 欺骗者 | Character-causation expressed via fixed expressions (原形毕露) and agentive nominalizations for negative-domain agents; no parallel positive-domain form | **Asymmetric gap**: agentive nominalization available only for negative-domain agents (deceivers, forgers); no single-word form for truth-tellers |
+| **VERIFICATION** | (8) Verb-object collocations: 核实, 查实, 查明 + truth-domain noun; (9b) NOUN + 上 + 是 frame | 核实事实 *(implied from P4a collocation network)* / 实质上是欺骗。 | No single dedicated construction; expressed through verb-object collocations and the adverbial frame | **Lexical gap**: no single dedicated construction; expressed through collocation network |
+| **DISCONFIRMATION** | (2a) Subject + 不 + [truth-domain ADJ]; (2b) Subject + 是 + 假的/虚假的/错误的; (8) Verb-object collocations: 歪曲事实, 戳穿谎言 | 这种说法不正确。/ 这是假的。/ 歪曲事实 | NEGATION and verb-object collocations jointly cover this function; no single dedicated DISCONFIRMATION construction | **SUBSTITUTED BY NEGATION + verb-object collocations** |
+| **NEGATION** | (2a) 不 + [truth-domain ADJ] (analytic, prefixal); (2b) 是 + 假的/虚假的/错误的 (copular negative) | 这种说法不正确。/ 这是假的。 | Fully analytic; no morphological negation; 不 is the productive negation morpheme | None; negation is analytic throughout |
+| **NOMINALIZATION** | (6) [truth-domain ADJ/V] + 性 (abstract property nominalization); (7) [verbal base] + 者 (agentive nominalization); (7) Periphrastic 说真话的人 | 真实性 / 欺骗者 / 说真话的人 | 性 covers abstract property nominalization; 者 covers agentive nominalization for negative-domain agents only; periphrastic form required for positive-domain agent | **Asymmetric gap**: 者 agentive nominalization available only for negative-domain agents |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME (positive-truth direction)
+
+In Chinese, the inchoative meaning "truth comes to be known / becomes apparent" is not primarily expressed through a general BECOME construction (变得 + ADJ). Instead, it is expressed through lexicalized inchoative expressions (真相大白, 坐实) and through verb-internal causative-resultative verbs (揭露, 揭示). These forms encode the transition from hidden to revealed as a single lexical or fixed-expression unit. The periphrastic BECOME frame (变得 + ADJ) is reported as grammatically available but marginal in this domain. The practical result is that REVELATION — the event of truth becoming known — systematically substitutes for a compositional BECOME construction in the positive-truth direction. This substitution is not available in the negative direction (there is no parallel lexicalized expression for "falsehood coming to light as falsehood").
+
+### 2.2 Verb-internal causatives substitute for periphrastic CAUSATION
+
+The periphrastic causative frames (让/使 + NP + predicate) are available and attested, but the primary expression of causation in this domain is through verb-internal causative verbs: 揭露, 揭示, 戳穿, 坐实. These verbs encode both the causer-agent and the caused-result within a single lexical item, taking a truth-domain noun as direct object. The periphrastic frame is used when the caused result is itself a fixed expression (使真相大白), effectively combining the periphrastic causative with a lexicalized inchoative complement. There is no case in P4a where a bare truth-domain adjective appears as the complement of a periphrastic causative.
+
+### 2.3 DISCONFIRMATION is substituted by NEGATION and verb-object collocations
+
+No dedicated DISCONFIRMATION construction is attested. The function of asserting that a claim is false or that a prior assertion is wrong is distributed across two patterns: (a) the NEGATION construction (不 + ADJ, or 是 + 假的/错误的), which predicates falsity or incorrectness of a proposition; and (b) verb-object collocations such as 戳穿谎言 ("to puncture/expose a lie") and 歪曲事实 ("to distort the facts"), which encode the act of disconfirming or challenging a claim. These two patterns together cover the functional space of DISCONFIRMATION without a single dedicated construction.
+
+### 2.4 VERIFICATION lacks a dedicated construction
+
+The function of verifying or confirming a claim is expressed through the verb-object collocation network (核实, 查实, 查明 + truth-domain noun) and through the adverbial frame NOUN + 上 + 是 (实质上是, 本质上是), which asserts what something fundamentally amounts to. Neither of these constitutes a dedicated VERIFICATION construction; both are general-purpose patterns applied to verification contexts. This is a lexical gap rather than a structural one: the constructions exist, but none is specialized for VERIFICATION.
+
+### 2.5 Asymmetry between positive and negative domains
+
+Two asymmetries are reported in P4a and P4b:
+
+**Agentive nominalization**: The suffix 者 productively derives agentive nouns for negative-domain agents (欺骗者, 伪造者, 伪装者, 伪善者). No parallel single-word agentive nominalization exists for positive-domain agents (truth-tellers). The concept is expressed periphrastically as 说真话的人 ("a person who tells the truth"). This is described in P4a as a structural feature of the domain.
+
+**Abstract nominalization frequency**: The 性 suffix attaches to both positive-domain (真实性, 准确性, 可靠性) and negative-domain (欺骗性, 虚假性) bases, but positive-domain nominalizations are higher-frequency and less register-restricted. Negative-domain 性 nominalizations (虚假性) and some positive-domain ones (诚实性, 真诚性) are lower-frequency and restricted to formal or analytical registers.
+
+### 2.6 Negation is uniformly analytic
+
+Negation in this domain is fully analytic. The morpheme 不 prefixes to truth-domain adjectives without exception (不真实, 不正确, 不准确, 不可靠, 不诚实). No suppletive negative forms exist. The copular negative frame (是 + 假的/虚假的/错误的) is available for nominal or emphatic predications and is slightly more emphatic than bare 不 negation, but it is not a distinct morphological pattern — it uses the same copular frame as positive attribution with a negative-polarity complement.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**None identified.** All CLCA operator categories have at least one attested construction or a documented substitution pattern. No operator is entirely without a grammatical means of expression.
+
+### 3.2 Lexical Gaps
+
+**VERIFICATION**: No single dedicated lexical item or construction specialized for the verification function. The function is covered by the general verb-object collocation network (核实, 查实, 查明) and the adverbial frame NOUN + 上 + 是. These are general-purpose patterns, not VERIFICATION-specific constructions.
+
+**DISCONFIRMATION**: No single dedicated construction. The function is distributed across NEGATION constructions and verb-object collocations. **SUBSTITUTED BY NEGATION + verb-object collocations.**
+
+**Agentive nominalization for truth-tellers**: No single-word form exists. **NO COMMON EXPRESSION — circumlocution required** (说真话的人).
+
+### 3.3 Conceptual Gaps
+
+**None identified from P4a and P4b data.** All operators appear to be conceptually accessible in Chinese; the gaps identified are lexical or distributional, not conceptual.
+
+### 3.4 Asymmetric Gaps
+
+**Agentive nominalization (CAUSATION (character) / NOMINALIZATION)**: The 者 suffix is available for negative-domain agents (欺骗者, 伪造者) but not for positive-domain agents (truth-tellers). The positive-domain form requires periphrasis (说真话的人). This is an asymmetric lexical gap: the negative side is lexically filled; the positive side is not.
+
+**Abstract nominalization frequency (NOMINALIZATION)**: Lower-frequency 性 nominalizations (诚实性, 真诚性, 虚假性) are marginal and register-restricted. This is an asymmetric frequency gap rather than a structural one: the forms are grammatically well-formed but not in common use.
+
+**BECOME / REVELATION directionality**: Lexicalized inchoative expressions (真相大白, 弄假成真, 坐实) are available for the positive-truth direction (truth coming to light, fake becoming real). No parallel lexicalized inchoative expression is attested for the negative direction (truth being obscured or lost). This is an asymmetric lexical gap in the BECOME domain.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two productive frames: copular (是 + ADJ + 的) and bare predicative; no register restriction |
+| **ADNOM** | **Fully available** | Uniform pre-nominal 的 frame; fixed compounds without 的 also attested |
+| **BECOME** | **Available with substitution** | Lexicalized inchoative expressions (真相大白, 弄假成真) are the primary forms; periphrastic 变得 + ADJ is marginal; REVELATION substitutes in the positive-truth direction |
+| **REVELATION** | **Fully available** | Expressed through verb-internal causative verbs (揭露, 揭示, 戳穿, 坐实) and verb-object collocations; overlaps functionally with BECOME and CAUSATION (factual) |
+| **CAUSATION (factual)** | **Fully available** | Periphrastic 让/使 frame and verb-internal causatives both attested; verb-internal forms are primary |
+| **CAUSATION (character)** | **Partially available** | Available for negative-domain agents via fixed expressions (原形毕露) and agentive nominalizations (欺骗者); no parallel single-word form for positive-domain agents |
+| **VERIFICATION** | **Available with substitution** | No dedicated construction; expressed through verb-object collocation network (核实, 查实) and adverbial frame (NOUN + 上 + 是); **SUBSTITUTED BY verb-object collocations + adverbial frame** |
+| **DISCONFIRMATION** | **Available with substitution** | No dedicated construction; **SUBSTITUTED BY NEGATION + verb-object collocations** (戳穿谎言, 歪曲事实) |
+| **NEGATION** | **Fully available** | Fully analytic; 不 + ADJ is productive across all truth-domain adjectives; no suppletive forms; copular negative frame also available for emphatic predications |
+| **NOMINALIZATION** | **Partially available** | 性 suffix fully productive for abstract property nominalization; 者 suffix available for agentive nominalization of negative-domain agents only; positive-domain agentive nominalization requires periphrasis (说真话的人) |

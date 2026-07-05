@@ -1,0 +1,884 @@
+# CLCA Protocol v3.4 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Korean (ko)
+
+---
+
+## 1. BECOMING TRUE / BECOMING TRUTH
+
+### Pattern
+**NP + 이/가 + 진실/사실 + 이 되다**
+Subject becomes truth/fact using copula + 되다 "become"
+
+### Examples
+- 소문이 사실이 되다 (somuni sasiri doeda) "rumor becomes fact"
+- 예언이 진실이 되다 (yeoni jinsiri doeda) "prophecy becomes truth"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but semantically awkward. Korean speakers rarely conceptualize propositions as "becoming true." More natural alternatives exist (see below).
+
+### Preferred Alternatives
+- **진실로 드러나다** (jinsilro deureonada) "to be revealed as truth"
+  - Example: 그의 말이 진실로 드러났다 (geuui mari jinsilro deureonatda) "His words were revealed to be true"
+  - [CORE] — Natural and common
+
+- **사실로 밝혀지다** (sasilro balkhyeojida) "to be revealed/proven to be fact"
+  - Example: 그 주장이 사실로 밝혀졌다 (geu jujangi sasilro balkhyeojyeotda) "That claim was proven to be fact"
+  - [CORE] — Very common in news and investigative contexts
+
+- **사실임이 확인되다** (sasirimi hwagindoeda) "to be confirmed to be fact"
+  - Example: 증언이 사실임이 확인되었다 (jeungeoni sasirimi hwagindoeeotda) "The testimony was confirmed to be factual"
+  - [CORE] — Formal, common in official contexts
+
+### Notes
+Korean strongly prefers evidential/epistemic constructions (revelation, confirmation, proof) over simple state-change constructions for propositional truth. The 되다 "become" pattern suggests ontological change rather than epistemic discovery, which is pragmatically odd for truth-values.
+
+---
+
+## 2. BECOMING FALSE / BECOMING A LIE
+
+### Pattern
+**NP + 이/가 + 거짓 + 이 되다**
+Subject becomes falsehood using copula + 되다
+
+### Examples
+- 진실이 거짓이 되다 (jinsiri geojisi doeda) "truth becomes falsehood"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but pragmatically very restricted. Only natural in contexts of deliberate distortion or Orwellian manipulation where truth is actively transformed into falsehood.
+
+### Preferred Alternatives
+- **거짓으로 판명되다** (geojiseuro panmyeongdoeda) "to be determined to be false"
+  - Example: 그의 증언이 거짓으로 판명되었다 (geuui jeungeoni geojiseuro panmyeongdoeeotda) "His testimony was determined to be false"
+  - [CORE] — Common in legal contexts
+
+- **거짓말로 밝혀지다** (geojinmallo balkhyeojida) "to be revealed to be a lie"
+  - Example: 그 이야기가 거짓말로 밝혀졌다 (geu iyagiga geojinmallo balkhyeojyeotda) "That story was revealed to be a lie"
+  - [CORE] — Natural and common
+
+- **허위로 드러나다** (heowiro deureonada) "to be revealed to be false"
+  - Example: 보고서가 허위로 드러났다 (bogoseoga heowiro deureonatda) "The report was revealed to be false"
+  - [CORE] — Formal register
+
+### Notes
+Like truth, falsity is conceptualized through discovery/revelation rather than state change. The 되다 pattern is pragmatically marked and suggests active transformation rather than epistemic discovery.
+
+---
+
+## 3. BECOMING ACCURATE / BECOMING CORRECT
+
+### Pattern
+**NP + 이/가 + 정확해지다 / 맞게 되다**
+Subject becomes accurate using -아/어지다 inchoative suffix or 되다 construction
+
+### Examples
+- 정보가 정확해지다 (jeongboga jeonghwakaejida) "information becomes accurate"
+- 답이 맞게 되다 (dabi matge doeda) "answer becomes correct"
+
+### Naturalness Assessment
+[CORE] for 정확해지다 — Natural and common for gradual improvement in accuracy
+[MARGINAL] for 맞게 되다 — Grammatically possible but pragmatically restricted
+
+### Usage Context
+정확해지다 is used when:
+- Information is refined or corrected over time
+- Measurements become more precise
+- Descriptions become more accurate through revision
+
+Example: 시간이 지나면서 정보가 점점 더 정확해졌다 (sigani jinamyeonseo jeongboga jeomjeom deo jeonghwakaejyeotda) "As time passed, the information became increasingly accurate"
+
+### Preferred Alternatives for Correctness
+- **맞추다** (matchuda) "to correct, to make correct" (causative)
+  - Example: 답을 맞추다 (dabeul matchuda) "to correct the answer"
+  - [CORE] — Very common
+
+- **고치다** (gochida) "to fix, to correct"
+  - Example: 틀린 부분을 고치다 (teullin bubuneul gochida) "to fix the wrong parts"
+  - [CORE] — General correction verb
+
+### Notes
+The -아/어지다 inchoative suffix is productive with adjectival stems (정확하다 → 정확해지다). For discrete correctness (맞다/틀리다), Korean prefers causative constructions (맞추다 "to make correct") over inchoative ones.
+
+---
+
+## 4. BECOMING INACCURATE / BECOMING WRONG
+
+### Pattern
+**NP + 이/가 + 부정확해지다 / 틀리게 되다**
+Subject becomes inaccurate using inchoative suffix or 되다 construction
+
+### Examples
+- 정보가 부정확해지다 (jeongboga bujeonghwakaejida) "information becomes inaccurate"
+- 답이 틀리게 되다 (dabi teullige doeda) "answer becomes wrong"
+
+### Naturalness Assessment
+[MARGINAL] for 부정확해지다 — Grammatically possible but less common than positive counterpart
+[MARGINAL] for 틀리게 되다 — Pragmatically restricted
+
+### Preferred Alternatives
+- **틀리다** (teullida) "to be wrong" (stative, not inchoative)
+  - Example: 답이 틀렸다 (dabi teullyeotda) "the answer is/was wrong"
+  - [CORE] — Standard usage treats wrongness as discovered state, not change
+
+- **잘못되다** (jalmotdoeda) "to go wrong, to become incorrect"
+  - Example: 계산이 잘못되었다 (gyesani jalmotdoeeotda) "the calculation went wrong"
+  - [CORE] — Natural for processes going wrong
+
+### Notes
+Korean conceptualizes wrongness more as a discovered state than as a process of becoming wrong. The verb 잘못되다 is the natural inchoative for things going wrong, but it's not specific to the truth domain.
+
+---
+
+## 5. BECOMING GENUINE / BECOMING AUTHENTIC
+
+### Pattern
+**NP + 이/가 + 진짜가 되다**
+Subject becomes genuine using copula + 되다
+
+### Examples
+- 가짜가 진짜가 되다 (gajjaga jinjjaga doeda) "fake becomes genuine"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but pragmatically very restricted. Only natural in contexts of:
+- Transformation narratives (e.g., Pinocchio becoming a real boy)
+- Philosophical paradoxes
+- Metaphorical usage
+
+### Preferred Alternatives
+- **진품으로 판명되다** (jinpumeuro panmyeongdoeda) "to be determined to be genuine"
+  - Example: 그림이 진품으로 판명되었다 (geurimi jinpumeuro panmyeongdoeeotda) "The painting was determined to be genuine"
+  - [CORE] — Standard for authentication
+
+- **진본임이 밝혀지다** (jinbonimi balkhyeojida) "to be revealed to be authentic"
+  - Example: 문서가 진본임이 밝혀졌다 (munseoga jinbonimi balkhyeojyeotda) "The document was revealed to be authentic"
+  - [CORE] — Common in authentication contexts
+
+### Notes
+Like truth/falsity, authenticity is conceptualized through discovery rather than transformation. Physical objects don't "become" genuine—they are discovered to be genuine or fake.
+
+---
+
+## 6. BECOMING FAKE / BECOMING COUNTERFEIT
+
+### Pattern
+**NP + 이/가 + 가짜가 되다**
+Subject becomes fake using copula + 되다
+
+### Examples
+- 진짜가 가짜가 되다 (jinjjaga gajjaga doeda) "genuine becomes fake"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but pragmatically very restricted. Only natural in contexts of:
+- Deliberate counterfeiting processes
+- Degradation narratives
+- Metaphorical usage
+
+### Preferred Alternatives
+- **가짜로 판명되다** (gajjaro panmyeongdoeda) "to be determined to be fake"
+  - Example: 제품이 가짜로 판명되었다 (jepumi gajjaro panmyeongdoeeotda) "The product was determined to be fake"
+  - [CORE] — Standard usage
+
+- **모조품으로 밝혀지다** (mojopumeuro balkhyeojida) "to be revealed to be counterfeit"
+  - Example: 시계가 모조품으로 밝혀졌다 (sigyega mojopumeuro balkhyeojyeotda) "The watch was revealed to be counterfeit"
+  - [CORE] — Common in commercial contexts
+
+### Notes
+Parallel to genuineness—discovery rather than transformation is the natural conceptualization.
+
+---
+
+## 7. BECOMING HONEST / BECOMING DISHONEST (CHARACTER)
+
+### Pattern
+**NP + 이/가 + 정직해지다 / 부정직해지다**
+Subject becomes honest/dishonest using -아/어지다 inchoative suffix
+
+### Examples
+- 그 사람이 정직해졌다 (geu sarami jeongjikhaejyeotda) "That person became honest"
+- 그가 부정직해졌다 (geuga bujeongjikhaejyeotda) "He became dishonest"
+
+### Naturalness Assessment
+[CORE] — Natural and common for character development or change. Used in:
+- Moral narratives
+- Character evaluation over time
+- Personal transformation stories
+
+### Usage Context
+Example: 나이가 들면서 그는 점점 더 정직해졌다 (naiga deulmyeonseo geuneun jeomjeom deo jeongjikhaejyeotda) "As he aged, he became increasingly honest"
+
+### Notes
+Unlike truth-values or authenticity, character traits naturally undergo change over time, making inchoative constructions fully natural and common.
+
+---
+
+## 8. BECOMING FRANK / BECOMING CANDID
+
+### Pattern
+**NP + 이/가 + 솔직해지다**
+Subject becomes frank using -아/어지다 inchoative suffix
+
+### Examples
+- 그녀가 솔직해졌다 (geunyeoga soljikhaejyeotda) "She became frank/candid"
+
+### Naturalness Assessment
+[CORE] — Natural and common, especially in contexts of:
+- Relationship development
+- Emotional opening up
+- Communication style changes
+
+### Usage Context
+Example: 시간이 지나면서 우리는 서로에게 더 솔직해졌다 (sigani jinamyeonseo urineun seoroege deo soljikhaejyeotda) "As time passed, we became more frank with each other"
+
+### Notes
+솔직해지다 is particularly common in interpersonal contexts where communication style evolves toward greater openness.
+
+---
+
+## 9. BECOMING CERTAIN / BECOMING UNCERTAIN
+
+### Pattern
+**NP + 이/가 + 확실해지다 / 불확실해지다**
+Subject becomes certain/uncertain using -아/어지다 inchoative suffix
+
+### Examples
+- 사실이 확실해지다 (sasiri hwaksilhaejida) "facts become certain"
+- 상황이 불확실해지다 (sanghwangi bulhwaksilhaejida) "situation becomes uncertain"
+
+### Naturalness Assessment
+[CORE] — Natural and common for epistemic state changes. Used when:
+- Evidence accumulates or diminishes
+- Situations clarify or become ambiguous
+- Knowledge states change
+
+### Usage Context
+Example: 조사가 진행되면서 진실이 점점 더 확실해졌다 (josaga jinhaengdoemyeonseo jinsiri jeomjeom deo hwaksilhaejyeotda) "As the investigation proceeded, the truth became increasingly certain"
+
+### Notes
+Epistemic modality naturally undergoes gradual change, making inchoative constructions fully productive and common.
+
+---
+
+## 10. BECOMING OBVIOUS / BECOMING CLEAR
+
+### Pattern
+**NP + 이/가 + 명백해지다**
+Subject becomes obvious using -아/어지다 inchoative suffix
+
+### Examples
+- 진실이 명백해지다 (jinsiri myeongbaekhaejida) "truth becomes obvious"
+- 사실이 명백해졌다 (sasiri myeongbaekhaejyeotda) "the fact became clear"
+
+### Naturalness Assessment
+[CORE] — Natural and common for evidential clarity increasing over time.
+
+### Usage Context
+Example: 증거가 쌓이면서 그의 결백이 명백해졌다 (jeunggeo ssaimyeonseo geuui gyeolbaegi myeongbaekhaejyeotda) "As evidence accumulated, his innocence became obvious"
+
+### Preferred Alternatives
+- **드러나다** (deureonada) "to be revealed, to come to light"
+  - Example: 진실이 드러났다 (jinsiri deureonatda) "the truth came to light"
+  - [CORE] — More common than 명백해지다
+
+### Notes
+While 명백해지다 is natural, Korean speakers often prefer the more dynamic 드러나다 which emphasizes revelation rather than gradual clarification.
+
+---
+
+## 11. BECOMING PLAUSIBLE / BECOMING CREDIBLE
+
+### Pattern
+**NP + 이/가 + 그럴듯해지다**
+Subject becomes plausible using -아/어지다 inchoative suffix
+
+### Examples
+- 이야기가 그럴듯해지다 (iyagiga geureoldeuthaejida) "story becomes plausible"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but uncommon. Korean speakers rarely conceptualize plausibility as a gradual process.
+
+### Preferred Alternatives
+- **그럴듯하게 들리다** (geureoldeuthage deullida) "to sound plausible"
+  - Example: 그의 설명이 그럴듯하게 들렸다 (geuui seolmyeongi geureoldeuthage deullyeotda) "His explanation sounded plausible"
+  - [CORE] — Natural stative construction
+
+### Notes
+Plausibility is typically treated as a perceptual judgment rather than a changing property, hence stative constructions are preferred.
+
+---
+
+## 12. CREDIBILITY INCREASING / DECREASING
+
+### Pattern
+**신빙성 + 이/가 + 높아지다 / 떨어지다**
+Credibility increases/decreases using degree-change verbs
+
+### Examples
+- 신빙성이 높아지다 (sinbingseongi nopajida) "credibility increases"
+- 신빙성이 떨어지다 (sinbingseongi tteoreojida) "credibility falls/decreases"
+
+### Naturalness Assessment
+[CORE] — Natural and common. Credibility is conceptualized as a scalar property that can increase or decrease.
+
+### Usage Context
+Example: 새로운 증거가 나오면서 그의 증언의 신빙성이 높아졌다 (saeroun jeunggeo naomyeonseo geuui jeungeonui sinbingseongi nopajyeotda) "As new evidence emerged, the credibility of his testimony increased"
+
+### Additional Patterns
+- **신빙성을 높이다** (sinbingseongeul nopida) "to increase credibility" (causative)
+- **신빙성을 떨어뜨리다** (sinbingseongeul tteoreotteurida) "to decrease credibility" (causative)
+
+### Notes
+Credibility uniquely shows rich scalar dynamics in Korean, with both inchoative and causative patterns being highly productive.
+
+---
+
+## 13. TRUTH BEING REVEALED / COMING TO LIGHT
+
+### Pattern
+**진실/사실 + 이/가 + 드러나다 / 밝혀지다**
+Truth is revealed using intransitive revelation verbs
+
+### Examples
+- 진실이 드러나다 (jinsiri deureonada) "truth comes to light"
+- 사실이 밝혀지다 (sasiri balkhyeojida) "fact is revealed/brought to light"
+
+### Naturalness Assessment
+[CORE] — Extremely common and natural. This is the primary way Korean conceptualizes truth emergence.
+
+### Usage Context
+- 드러나다 emphasizes natural emergence or exposure
+- 밝혀지다 emphasizes investigative revelation or proof
+
+Example: 오랜 조사 끝에 진실이 드러났다 (oraen josa kkeute jinsiri deureonatda) "After a long investigation, the truth came to light"
+
+### Related Patterns
+- **진실이 알려지다** (jinsiri allyeojida) "truth becomes known"
+- **사실이 확인되다** (sasiri hwagindoeda) "fact is confirmed"
+
+### Notes
+These intransitive constructions are far more common than 되다 "become" patterns for truth emergence, reflecting Korean's preference for evidential/epistemic framing.
+
+---
+
+## 14. LIES BEING EXPOSED / DISCOVERED
+
+### Pattern
+**거짓말 + 이/가 + 들통나다 / 탄로나다 / 밝혀지다**
+Lies are exposed using exposure/discovery verbs
+
+### Examples
+- 거짓말이 들통나다 (geojinmari deultongada) "lie is exposed/found out"
+- 거짓말이 탄로나다 (geojinmari tallonada) "lie is exposed/discovered"
+- 거짓말이 밝혀지다 (geojinmari balkhyeojida) "lie is revealed"
+
+### Naturalness Assessment
+[CORE] — All three patterns are natural and common, with subtle differences:
+- 들통나다: colloquial, emphasizes being caught
+- 탄로나다: slightly more formal, emphasizes exposure
+- 밝혀지다: formal, emphasizes revelation through investigation
+
+### Usage Context
+Example: 결국 그의 거짓말이 들통났다 (gyeolguk geuui geojinmari deultongnatda) "Eventually his lie was exposed"
+
+### Notes
+Korean has rich vocabulary for lie exposure, reflecting cultural attention to deception discovery. All patterns are intransitive, focusing on the lie's exposure rather than the liar's action.
+
+---
+
+## 15. CAUSING SOMETHING TO BE TRUE (MAKING TRUE)
+
+### Pattern
+**(no common expression identified)**
+
+### Examples
+N/A
+
+### Naturalness Assessment
+[UNCERTAIN] — No productive morphological or constructional pattern identified for "making something true" in the sense of causing a proposition to become true.
+
+### Attempted Constructions
+- *진실로 만들다 (jinsilro mandeulda) — Grammatically possible but pragmatically very odd
+- *사실이 되게 하다 (sasiri doege hada) — Grammatically possible but unnatural
+
+### Preferred Alternatives
+Korean expresses causation of truth through:
+
+1. **Realization/Actualization:**
+   - 실현하다 (silhyeonhada) "to realize, to actualize"
+   - Example: 약속을 실현하다 (yaksogeul silhyeonhada) "to make a promise come true"
+   - [CORE] — But this is about making events happen, not making propositions true
+
+2. **Verification/Proof:**
+   - 증명하다 (jeungmyeonghada) "to prove"
+   - Example: 가설을 증명하다 (gaseoreul jeungmyeonghada) "to prove a hypothesis"
+   - [CORE] — But this is about demonstrating truth, not causing it
+
+3. **Fulfillment:**
+   - 이루다 (iruda) "to achieve, to fulfill"
+   - Example: 예언을 이루다 (yeoneul iruda) "to fulfill a prophecy"
+   - [CORE] — But this is about making events happen
+
+### Notes
+Korean lacks a simple causative construction for "making true" because truth is conceptualized as discovered or demonstrated rather than caused. When events make propositions true, Korean uses verbs of realization, fulfillment, or achievement rather than truth-causation.
+
+---
+
+## 16. CAUSING SOMETHING TO BE FALSE (FALSIFYING)
+
+### Pattern
+**(no common expression identified for propositional falsification)**
+
+### Examples
+N/A
+
+### Naturalness Assessment
+[UNCERTAIN] — No productive pattern for causing propositions to become false.
+
+### Attempted Constructions
+- *거짓으로 만들다 (geojiseuro mandeulda) — Pragmatically very odd
+
+### Preferred Alternatives
+Korean expresses related concepts through:
+
+1. **Fabrication:**
+   - 조작하다 (jojakada) "to fabricate, to manipulate"
+   - Example: 증거를 조작하다 (jeunggeoreul jojakada) "to fabricate evidence"
+   - [CORE] — But this is about creating false evidence, not making propositions false
+
+2. **Counterfeiting:**
+   - 위조하다 (wijohada) "to counterfeit, to forge"
+   - Example: 문서를 위조하다 (munseoreul wijohada) "to forge documents"
+   - [CORE] — For physical objects only
+
+3. **Distortion:**
+   - 왜곡하다 (waegokada) "to distort"
+   - Example: 사실을 왜곡하다 (sasireul waegokada) "to distort facts"
+   - [CORE] — But this is about misrepresenting, not making false
+
+### Notes
+Korean distinguishes between creating false representations (조작하다, 위조하다) and making propositions false. The latter concept lacks a simple lexical expression.
+
+---
+
+## 17. REVEALING THE TRUTH (CAUSING TRUTH TO BE KNOWN)
+
+### Pattern
+**진실/사실 + 을/를 + 밝히다 / 드러내다**
+Reveal truth using transitive revelation verbs
+
+### Examples
+- 진실을 밝히다 (jinsireul balkhida) "to reveal the truth, to bring truth to light"
+- 사실을 드러내다 (sasireul deureonaeda) "to expose the facts"
+
+### Naturalness Assessment
+[CORE] — Extremely common and natural. Primary way to express causing truth to become known.
+
+### Usage Context
+- 밝히다: emphasizes illumination, bringing to light (literally "to brighten")
+- 드러내다: emphasizes exposure, making visible
+
+Example: 기자가 진실을 밝혔다 (gijaga jinsireul balkhyeotda) "The journalist revealed the truth"
+
+### Related Patterns
+- **진실을 알리다** (jinsireul allida) "to make truth known, to inform of truth"
+- **사실을 공개하다** (sasireul gonggaehada) "to disclose facts"
+- **진상을 밝히다** (jinsangeul balkhida) "to reveal the true situation"
+
+### Notes
+These transitive verbs are the natural causative counterparts to the intransitive 드러나다/밝혀지다 patterns. Korean strongly prefers these specific verbs over general causative constructions.
+
+---
+
+## 18. HIDING THE TRUTH (CAUSING TRUTH TO BE CONCEALED)
+
+### Pattern
+**진실/사실 + 을/를 + 숨기다 / 감추다 / 은폐하다**
+Hide truth using transitive concealment verbs
+
+### Examples
+- 진실을 숨기다 (jinsireul sumgida) "to hide the truth"
+- 사실을 감추다 (sasireul gamchuda) "to conceal the facts"
+- 진실을 은폐하다 (jinsireul eunpyehada) "to cover up the truth"
+
+### Naturalness Assessment
+[CORE] — All three patterns are natural and common, with register differences:
+- 숨기다: neutral, most common
+- 감추다: slightly more emphatic
+- 은폐하다: formal, legal/official contexts
+
+### Usage Context
+Example: 그는 진실을 숨기려고 했다 (geuneun jinsireul sumgiryeogo haetda) "He tried to hide the truth"
+
+### Notes
+Unlike truth revelation, truth concealment lacks intransitive counterparts (*진실이 숨겨지다 is grammatically possible but pragmatically odd). Concealment is conceptualized as an active process requiring an agent.
+
+---
+
+## 19. VERIFYING / CONFIRMING FACTS (CAUSING CERTAINTY)
+
+### Pattern
+**사실/진실 + 을/를 + 확인하다 / 검증하다**
+Verify facts using verification verbs
+
+### Examples
+- 사실을 확인하다 (sasireul hwaginhada) "to verify facts, to confirm facts"
+- 진실을 검증하다 (jinsireul geomjeunghada) "to verify truth"
+
+### Naturalness Assessment
+[CORE] — Natural and common across all registers.
+
+### Usage Context
+- 확인하다: general verification, checking
+- 검증하다: formal verification, testing (more rigorous)
+
+Example: 기자는 모든 사실을 확인했다 (gijaneun modeun sasireul hwaginhaetda) "The journalist verified all the facts"
+
+### Related Patterns
+- **사실 여부를 확인하다** (sasil yeobureul hwaginhada) "to verify whether it's fact or not"
+- **진위를 가리다** (jinwireul garida) "to determine truth from falsehood"
+
+### Notes
+These verbs cause epistemic state change (from uncertain to certain) rather than ontological change (from false to true).
+
+---
+
+## 20. MAKING SOMEONE TELL THE TRUTH
+
+### Pattern
+**NP + 에게 + 진실을 말하게 하다**
+Cause someone to tell truth using -게 하다 causative construction
+
+### Examples
+- 그에게 진실을 말하게 하다 (geuege jinsireul malhage hada) "to make him tell the truth"
+
+### Naturalness Assessment
+[CORE] — Natural and common causative construction.
+
+### Preferred Alternatives
+- **진실을 털어놓게 하다** (jinsireul teoreonoke hada) "to make someone confess the truth"
+  - More emphatic, suggests reluctance
+  - [CORE]
+
+- **자백하게 하다** (jabaekhage hada) "to make someone confess"
+  - Legal/investigative contexts
+  - [CORE]
+
+### Usage Context
+Example: 경찰은 용의자에게 진실을 말하게 했다 (gyeongchareun yonguijae-ge jinsireul malhage haetda) "The police made the suspect tell the truth"
+
+### Notes
+The -게 하다 causative is productive with all truth-telling verbs. Korean also has specialized verbs for eliciting truth (캐내다 "to extract," 알아내다 "to find out").
+
+---
+
+## 21. MAKING SOMEONE LIE
+
+### Pattern
+**NP + 에게 + 거짓말을 하게 하다**
+Cause someone to lie using -게 하다 causative construction
+
+### Examples
+- 그에게 거짓말을 하게 하다 (geuege geojinmareul hage hada) "to make him lie"
+
+### Naturalness Assessment
+[CORE] — Natural and common causative construction.
+
+### Related Patterns
+- **거짓말을 시키다** (geojinmareul sikida) "to order/make someone lie"
+  - Uses 시키다 causative (more direct/forceful)
+  - [CORE]
+
+### Usage Context
+Example: 그들은 증인에게 거짓말을 하게 했다 (geudeureun jeunginege geojinmareul hage haetda) "They made the witness lie"
+
+### Notes
+Both -게 하다 and 시키다 causatives are natural. 시키다 implies more direct command or coercion.
+
+---
+
+## 22. CORRECTING / MAKING CORRECT
+
+### Pattern
+**NP + 을/를 + 맞추다 / 고치다**
+Make correct using correction verbs
+
+### Examples
+- 답을 맞추다 (dabeul matchuda) "to correct the answer, to get the answer right"
+- 틀린 부분을 고치다 (teullin bubuneul gochida) "to correct the wrong parts"
+
+### Naturalness Assessment
+[CORE] — Both patterns are natural and common.
+
+### Usage Context
+- 맞추다: emphasizes achieving correctness (can mean both "to correct" and "to get right")
+- 고치다: emphasizes fixing errors
+
+Example: 선생님이 학생의 답을 고쳤다 (seonsaengnimmi haksaengui dabeul gochyeotda) "The teacher corrected the student's answer"
+
+### Notes
+맞추다 is ambiguous between causative ("make correct") and achievement ("get correct"). Context disambiguates.
+
+---
+
+## 23. MAKING ACCURATE / IMPROVING ACCURACY
+
+### Pattern
+**NP + 을/를 + 정확하게 하다 / 정확히 하다**
+Make accurate using adverb + 하다 construction
+
+### Examples
+- 정보를 정확하게 하다 (jeongboreul jeonghwakhage hada) "to make information accurate"
+- 측정을 정확히 하다 (cheukjeongeul jeonghwakhi hada) "to make measurement accurate"
+
+### Naturalness Assessment
+[CORE] — Natural and common across all registers.
+
+### Related Patterns
+- **정확성을 높이다** (jeonghwakseongeul nopida) "to increase accuracy"
+  - [CORE] — Common in technical contexts
+
+### Usage Context
+Example: 데이터를 정확하게 해야 한다 (deitareul jeonghwakhage haeya handa) "We must make the data accurate"
+
+### Notes
+The adverb + 하다 pattern is productive for causing quality changes. Abstract noun + 높이다 "increase" is an alternative for scalar qualities.
+
+---
+
+## 24. MAKING HONEST / CAUSING HONESTY
+
+### Pattern
+**NP + 을/를 + 정직하게 만들다 / 정직하게 하다**
+Make honest using causative constructions
+
+### Examples
+- 사람을 정직하게 만들다 (sarameul jeongjikage mandeulda) "to make a person honest"
+- 아이를 정직하게 하다 (aireul jeongjikage hada) "to make a child honest"
+
+### Naturalness Assessment
+[MARGINAL] — Grammatically possible but pragmatically restricted. Honesty is typically conceptualized as developed through education/experience rather than directly caused.
+
+### Preferred Alternatives
+- **정직하게 키우다** (jeongjikage kiuda) "to raise (someone) to be honest"
+  - [CORE] — Natural for child-rearing contexts
+
+- **정직함을 가르치다** (jeongjikameul gareuchida) "to teach honesty"
+  - [CORE] — Natural for moral education
+
+### Usage Context
+Example: 부모는 아이를 정직하게 키워야 한다 (bumoneun aireul jeongjikage kiwoya handa) "Parents should raise their children to be honest"
+
+### Notes
+Character causation is typically expressed through verbs of education, raising, or influence rather than direct causation.
+
+---
+
+## 25. MAKING FRANK / CAUSING FRANKNESS
+
+### Pattern
+**NP + 을/를 + 솔직하게 만들다 / 솔직하게 하다**
+Make frank using causative constructions
+
+### Examples
+- 사람을 솔직하게 만들다 (sarameul soljikage mandeulda) "to make a person frank"
+
+### Naturalness Assessment
+[MARGINAL] — Similar to honesty, frankness is not typically conceptualized as directly caused.
+
+### Preferred Alternatives
+- **솔직하게 말하게 하다** (soljikage malhage hada) "to make someone speak frankly"
+  - [CORE] — Natural for causing frank speech (not character change)
+
+- **마음을 열게 하다** (maeumeul yeolge hada) "to make someone open their heart"
+  - [CORE] — Idiomatic for causing openness
+
+### Usage Context
+Example: 편안한 분위기가 사람들을 솔직하게 말하게 했다 (pyeonanhan bunwigiga saramdeureul soljikage malhage haetda) "The comfortable atmosphere made people speak frankly"
+
+### Notes
+Korean distinguishes between causing frank behavior (natural) and causing frank character (less natural).
+
+---
+
+## 26. MAINTAINING TRUTH / KEEPING TRUE
+
+### Pattern
+**진실/사실 + 을/를 + 유지하다 / 지키다**
+Maintain truth using maintenance verbs
+
+### Examples
+- 진실을 유지하다 (jinsireul yujihada) "to maintain truth"
+- 진실을 지키다 (jinsireul jikida) "to keep/protect truth"
+
+### Naturalness Assessment
+[MARGINAL] for 유지하다 — Pragmatically odd; truth is not typically conceptualized as requiring maintenance
+[CORE] for 지키다 — Natural in moral/ethical contexts
+
+### Usage Context for 지키다
+Example: 어떤 상황에서도 진실을 지켜야 한다 (eotteon sanghwangeseodo jinsireul jikyeoya handa) "One must protect/uphold truth in any situation"
+
+### Notes
+지키다 "protect, keep, uphold" is natural when truth is conceptualized as a value to be defended. 유지하다 "maintain" is odd because truth is not seen as something that degrades without maintenance.
+
+---
+
+## 27. PRESERVING AUTHENTICITY
+
+### Pattern
+**진품/진본 + 을/를 + 보존하다 / 보관하다**
+Preserve authentic items using preservation verbs
+
+### Examples
+- 진품을 보존하다 (jinpumeul bojonhada) "to preserve authentic items"
+- 진본을 보관하다 (jinboneul bogwanhada) "to store/keep authentic originals"
+
+### Naturalness Assessment
+[CORE] — Natural and common for physical preservation of authentic objects.
+
+### Usage Context
+Example: 박물관은 진품을 보존하는 역할을 한다 (bangmulgwaneun jinpumeul bojonhaneun yeokareul handa) "Museums play a role in preserving authentic items"
+
+### Notes
+Unlike abstract truth, physical authenticity naturally requires preservation. These verbs are standard in museum, archival, and conservation contexts.
+
+---
+
+## 28. STABILITY OF TRUTH (UNCHANGING TRUTH)
+
+### Pattern
+**진실/사실 + 은/는 + 변하지 않다 / 바뀌지 않다**
+Truth does not change using negated change verbs
+
+### Examples
+- 진실은 변하지 않는다 (jinsireun byeonhaji anneunda) "truth does not change"
+- 사실은 바뀌지 않는다 (sasireun bakkwiji anneunda) "facts do not change"
+
+### Naturalness Assessment
+[CORE] — Natural and common in philosophical, moral, and argumentative discourse.
+
+### Usage Context
+Example: 시간이 지나도 진실은 변하지 않는다 (sigani jinado jinsireun byeonhaji anneunda) "Even as time passes, truth does not change"
+
+### Related Expressions
+- **영원한 진실** (yeongwonhan jinsil) "eternal truth"
+- **불변의 진리** (bulbyeonui jilli) "unchanging truth"
+
+### Notes
+Korean frequently expresses truth's stability through negated change verbs or adjectival modifiers (영원한 "eternal," 불변의 "unchanging"). This reflects philosophical conceptualization of truth as stable/permanent.
+
+---
+
+## 29. DISTORTING TRUTH
+
+### Pattern
+**진실/사실 + 을/를 + 왜곡하다 / 비틀다**
+Distort truth using distortion verbs
+
+### Examples
+- 진실을 왜곡하다 (jinsireul waegokada) "to distort truth"
+- 사실을 비틀다 (sasireul biteulda) "to twist facts"
+
+### Naturalness Assessment
+[CORE] — Natural and common in critical discourse about misrepresentation.
+
+### Usage Context
+- 왜곡하다: formal, emphasizes systematic distortion
+- 비틀다: colloquial, emphasizes twisting or bending
+
+Example: 언론이 사실을 왜곡했다 (eoloni sasireul waegokhaetda) "The media distorted the facts"
+
+### Notes
+These verbs describe misrepresentation rather than making false. They imply the truth exists but is being presented incorrectly.
+
+---
+
+## 30. FABRICATING / CREATING FALSEHOODS
+
+### Pattern
+**거짓/허위 + 을/를 + 조작하다 / 꾸미다 / 날조하다**
+Fabricate falsehoods using creation/fabrication verbs
+
+### Examples
+- 증거를 조작하다 (jeunggeoreul jojakada) "to fabricate evidence"
+- 거짓말을 꾸미다 (geojinmareul kkumida) "to concoct a lie"
+- 사실을 날조하다 (sasireul naljohada) "to fabricate facts"
+
+### Naturalness Assessment
+[CORE] — All three patterns are natural and common, with register differences:
+- 조작하다: formal, systematic fabrication
+- 꾸미다: colloquial, devising/concocting
+- 날조하다: formal, complete fabrication
+
+### Usage Context
+Example: 그는 증거를 조작했다 (geuneun jeunggeoreul jojakaetda) "He fabricated the evidence"
+
+### Notes
+These verbs describe creating false representations rather than making true things false. They emphasize the creative/constructive aspect of deception.
+
+---
+
+## SUMMARY OBSERVATIONS
+
+### Natural Inchoative Patterns (Becoming):
+**CORE patterns:**
+- Character traits: 정직해지다, 솔직해지다 (becoming honest, frank)
+- Epistemic states: 확실해지다, 불확실해지다, 명백해지다 (becoming certain, uncertain, obvious)
+- Quality improvements: 정확해지다 (becoming accurate)
+- Credibility changes: 신빙성이 높아지다/떨어지다 (credibility increasing/decreasing)
+
+**MARGINAL patterns:**
+- Truth-value changes: 진실이 되다, 거짓이 되다 (becoming true/false)
+- Authenticity changes: 진짜가 되다, 가짜가 되다 (becoming genuine/fake)
+- Plausibility changes: 그럴듯해지다 (becoming plausible)
+
+### Preferred Alternatives to 되다 "Become":
+Korean strongly prefers **evidential/revelation verbs** over simple state-change for truth-values:
+- 드러나다 "to be revealed, come to light"
+- 밝혀지다 "to be brought to light, proven"
+- 판명되다 "to be determined"
+- 확인되다 "to be confirmed"
+
+### Causative Patterns:
+**Productive causatives:**
+- Revelation: 밝히다, 드러내다 (reveal truth)
+- Concealment: 숨기다, 감추다, 은폐하다 (hide truth)
+- Verification: 확인하다, 검증하다 (verify facts)
+- Correction: 맞추다, 고치다 (correct errors)
+- Quality improvement: 정확하게 하다 (make accurate)
+- Speech causation: -게 하다 constructions (make someone tell truth/lie)
+
+**Non-productive or absent causatives:**
+- No simple causative for "making true/false" (propositions)
+- Character causation (making honest/frank) requires education/raising verbs
+- No morphological causatives in truth domain (unlike some other semantic fields)
+
+### Stability and Change:
+**Stable concepts** (resist change):
+- Truth itself: 진실은 변하지 않는다 "truth does not change"
+- Facts: 사실은 바뀌지 않는다 "facts do not change"
+- Authenticity of objects: once genuine, always genuine (discovery, not change)
+
+**Dynamic concepts** (naturally undergo change):
+- Epistemic states: certainty, clarity, obviousness
+- Credibility: can increase or decrease
+- Character traits: honesty, frankness (develop over time)
+- Accuracy: can improve or degrade
+
+### Conceptual Asymmetries:
+1. **Truth emergence vs. concealment**: Truth naturally emerges (intransitive 드러나다), but concealment requires agency (transitive 숨기다)
+
+2. **Positive vs. negative agents**: Rich vocabulary for liars (거짓말쟁이) but no parallel for truth-tellers
+
+3. **Discovery vs. causation**: Truth is discovered/revealed, not caused to be true
+
+4. **Character vs. behavior**: Causing frank behavior is natural (솔직하게 말하게 하다), but causing frank character is not
+
+### Register Patterns:
+- **Formal/legal**: 판명되다, 은폐하다, 날조하다, 검증하다
+- **Neutral**: 밝히다, 숨기다, 확인하다, 고치다
+- **Colloquial**: 들통나다, 꾸미다, 비틀다
+
+### Cultural Conceptualizations:
+Korean truth-domain dynamics reflect:
+1. **Evidential epistemology**: Truth is revealed/discovered, not made
+2. **Moral stability**: Truth and facts are conceptualized as unchanging
+3. **Social attention to deception**: Rich vocabulary for lie exposure and fabrication
+4. **Character development**: Honesty develops through education, not direct causation

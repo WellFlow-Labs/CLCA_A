@@ -1,0 +1,89 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | Bare copula-less predication: **X + உண்மை / நிஜம் / சரி / தவறு**; quoted-clause + **உண்மை / சரி** | **இது உண்மை.**; **அது சரி.** | Direct match to attribution | None |
+| ADNOM | Adnominal adjectival form in **-ஆன**: **உண்மையான N, பொய்யான N, சரியான N, தவறான N, நிஜமான N** | **உண்மையான தகவல்**; **பொய்யான குற்றச்சாட்டு** | Direct match to adnominal modification | None |
+| BECOME | Predicate + **ஆகு / ஆகி போ** | **எல்லாம் சரி ஆகும்.**; **அந்தக் கூற்று பொய்யாகி போனது.** | Direct match to inchoative/become; lexically uneven across bases | None |
+| REVELATION | No dedicated revelation construction listed in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| CAUSATION (factual) | Truth/correctness base + light verb: **சரிசெய், உறுதிப்படுத்து** | **பிழையை சரிசெய்.**; **தகவலை உறுதிப்படுத்து.** | Expressed through lexical/light-verb constructions rather than a single productive causative pattern | Available with substitution |
+| CAUSATION (character) | Abstract quality nouns in **-மை / -தன்மை** are attested, but no causative construction for “make truthful/reliable/correct in character” is listed | **உண்மைத்தன்மை முக்கியம்.**; **நம்பகத்தன்மை குறைந்தது.** | **NO COMMON EXPRESSION - circumlocution required** | Morphosyntactic gap |
+| VERIFICATION | Correctness/certainty base + checking verb: **சரிபார், உறுதி செய், உறுதிப்படுத்து** | **ஆவணத்தை சரிபார்.**; **செய்தியை உறுதி செய்.** | Direct match to verification | None |
+| DISCONFIRMATION | No dedicated disconfirmation construction listed; negative truth attribution is attested instead | — | **SUBSTITUTED BY NEGATION** | Morphosyntactic gap for dedicated operator |
+| NEGATION | Analytic negation with **இல்லை / அல்ல** after predicate; fused forms also attested: **உண்மையில்லை, சரியில்லை, மெய்யல்ல** | **இது உண்மையில்லை.**; **அது சரியல்ல.** | Direct match to negation; primarily analytic predicate negation | None |
+| NOMINALIZATION | Abstract nominalization in **-மை / -தன்மை**; agentive person-denoting periphrasis also attested | **உண்மைத்தன்மை முக்கியம்.**; **நம்பகத்தன்மை குறைந்தது.**; **பொய் சொல்பவன்**; **உண்மை பேசுபவர்** | Direct match for abstract nominalization; agentive nominalization available periphrastically, not by a single salient dedicated suffix | Partial lexical gap in dedicated agentive morphology |
+
+## 2. Substitution Patterns (Narrative)
+
+Tamil shows direct constructions for **ATTR**, **ADNOM**, **BECOME**, **VERIFICATION**, **NEGATION**, and **abstract NOMINALIZATION**.
+
+For **REVELATION**, no construction is provided in P4a/P4b. On the basis of the supplied material, this category is therefore **missing as a listed construction**. There is also no evidence here that REVELATION systematically substitutes for **BECOME**. The attested change-of-state meaning is expressed by **ஆகு / ஆகி போ**, as in **எல்லாம் சரி ஆகும்.** and **அந்தக் கூற்று பொய்யாகி போனது.**
+
+For **CAUSATION (factual)**, Tamil does not show a single productive morphological causative meaning “make true/correct” across the domain. Instead, the language uses **lexical/light-verb constructions** such as **சரிசெய்** and **உறுதிப்படுத்து**. In these, the light verb carries the operator-like verbal function:
+- **சரி + செய்** behaves as a verbal complex meaning ‘correct / make right’.
+- **உறுதி + படுத்து** behaves as a verbal complex meaning ‘confirm / make certain’.
+
+So factual causation is **available**, but through lexicalized or light-verb expressions rather than one uniform derivational pattern.
+
+For **CAUSATION (character)**, the data provide abstract quality nouns such as **உண்மைத்தன்மை** and **நம்பகத்தன்மை**, but no construction meaning “make X truthful / reliable / veracious” is listed. Based on the provided material, this is **NO COMMON EXPRESSION - circumlocution required**.
+
+For **DISCONFIRMATION**, no dedicated construction is listed. The available negative operator is **NEGATION**, e.g. **இது உண்மையில்லை.**, **அது சரியல்ல.** Thus disconfirmation is not independently represented in the supplied data and is best described here as **SUBSTITUTED BY NEGATION**.
+
+**NEGATION** is described in P4a/P4b as mainly **analytic**, using **இல்லை** or **அல்ல** after the predicate. Some forms appear orthographically fused, such as **உண்மையில்லை**, but the constructional description remains predicate + negative element. So the negation pattern is best treated as **analytic predicate negation**, not as a dedicated truth-domain morphological opposite.
+
+**VERIFICATION** and **DISCONFIRMATION** do **not** share the same construction in the supplied material. Verification uses checking/confirmation verbs such as **சரிபார்**, **உறுதி செய்**, **உறுதிப்படுத்து**. Disconfirmation is not separately attested and is instead expressed through **NEGATION**.
+
+There are also asymmetries:
+- Positive and negative attribution are both well supported.
+- **BECOME** is attested, but with lexical unevenness: P4a notes it is natural with **சரி** and **பொய்**, and “less so with some other items.”
+- Agentive nominalization is semantically available, but not through a single salient dedicated suffix; Tamil prefers **relative participial/person-denoting circumlocutions** such as **பொய் சொல்பவன்** and **உண்மை பேசுபவர்**.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION**: **MISSING (structural gap)**
+- **DISCONFIRMATION** as a dedicated operator: **SUBSTITUTED BY NEGATION**
+- **CAUSATION (character)**: **NO COMMON EXPRESSION - circumlocution required**
+
+### Lexical Gaps
+- No single highly salient dedicated **agentive suffix/form** for “liar” / “truth-teller” is identified in the provided data; instead:
+  - **பொய் சொல்பவன்**
+  - **உண்மை பேசுபவர்**
+- For factual causation, there is no single general lexical item meaning “make true” across the domain; instead different lexical/light-verb expressions are used:
+  - **சரிசெய்**
+  - **உறுதிப்படுத்து**
+
+### Conceptual Gaps
+- No conceptual gap is directly evidenced in P4a/P4b. The missingness described is constructional or lexical, not stated as impossibility of expressing the meanings.
+
+### Asymmetric Gaps
+- **BECOME** is available, but P4a notes lexical asymmetry: natural with **சரி** and **பொய்**, less natural with some other truth-domain items.
+- **VERIFICATION** is directly attested, but **DISCONFIRMATION** is not independently attested and is instead handled by **NEGATION**.
+- Abstract nominalization is productive, but agentive nominalization is only periphrastic.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **VERIFICATION**
+- **NEGATION**
+- **NOMINALIZATION** (abstract nominalization)
+
+### Available with substitution
+- **CAUSATION (factual)** — available through lexical/light-verb constructions such as **சரிசெய்** and **உறுதிப்படுத்து**, rather than a single productive causative pattern
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION**
+
+### Partially available
+- **NOMINALIZATION** in the agentive sense — available through circumlocutory person-denoting expressions (**பொய் சொல்பவன்**, **உண்மை பேசுபவர்**), but without a single salient dedicated agentive suffix
+- **BECOME** — structurally available, but lexically uneven according to P4a notes
+
+### Missing entirely
+- **REVELATION** — **MISSING (structural gap)**
+
+### Additional normalization notes
+- **உண்மையான / பொய்யான / சரியான / தவறான / நிஜமான** function syntactically as **adjectival modifiers** in adnominal position.
+- **உண்மையில்** functions as a **discourse-marking adverbial**; **சரியாக** as a **manner adverb**.
+- **சரிசெய்**, **உறுதி செய்**, **உறுதிப்படுத்து**, **சரிபார்** function as **verbal predicates**, with **செய்**, **படுத்து**, and similar elements serving as **light-verb carriers** of the operator.
+- **உண்மையைச் சொல்**, **உண்மை பேசு**, **பொய் சொல்**, **பொய் பேசு** are **noun + speech verb** verbal expressions rather than simplex lexical verbs.

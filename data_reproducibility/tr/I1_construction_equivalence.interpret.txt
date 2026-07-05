@@ -1,0 +1,160 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | [NP] [ADJ-TRUTH] / [NP] [ADJ-TRUTH] olmak | *Bu doğru* "This is true" / *Hikâye gerçek değil* "The story is not real" | Direct mapping. Zero copula (present 3rd person) or *olmak* (other tenses/persons). | None |
+| **ADNOM** | [ADJ-TRUTH] [NOUN] | *doğru bilgi* "correct information" / *sahte para* "counterfeit money" | Direct mapping. Prenominal adjective modification without agreement. | None |
+| **BECOME** | [ADJ-ROOT] + -leş/-laş | *gerçekleşmek* "to come true, to be realized" / *kesinleşmek* "to become definite" | Direct mapping. Productive inchoative derivation. | None |
+| **REVELATION** | [ADJ-TRUTH] + çıkmak | *doğru çıkmak* "to turn out to be true" / *yalan çıkmak* "to turn out to be a lie" | Functional equivalent using resultative construction. Implies prior uncertainty resolved. | **SUBSTITUTED BY resultative construction (Construction 12)** |
+| **CAUSATION (factual)** | [INCHOATIVE-ROOT] + -tır/-tir/-tur/-tür | *gerçekleştirmek* "to realize, to make real" / *kesinleştirmek* "to finalize" | Direct mapping. Causative suffix on inchoative base creates "make X become Y" meaning. | None |
+| **CAUSATION (character)** | — | — | No dedicated construction. | **MISSING (structural gap)** - Would require circumlocution with light verbs or complex clauses |
+| **VERIFICATION** | [NOUN/ADJ-ROOT] + -la/-le (denominative) | *doğrulamak* "to verify, to confirm" | Direct mapping via denominative verbalization. Creates transitive verification verbs. | None |
+| **DISCONFIRMATION** | [NOUN/ADJ-ROOT] + -la/-le (denominative) | *yalanlamak* "to deny, to refute" | Same construction as VERIFICATION. No structural distinction between verification and disconfirmation. | None |
+| **NEGATION (predicative)** | [NP] [ADJ-TRUTH] değil | *Bu yanlış değil* "This is not wrong" | Direct mapping. Analytic negation with particle *değil*. | None |
+| **NEGATION (morphological)** | [ROOT] + -sız/-siz/-suz/-süz (privative) / [ROOT] + -mez/-maz (negative potential) | *şüphesiz* "doubtless" / *güvenilmez* "unreliable" | Direct mapping. Morphological negation via privative suffix or negative potential. | None |
+| **NOMINALIZATION (abstract)** | [ADJ-ROOT] + -lık/-lik/-luk/-lük | *doğruluk* "truth, correctness" / *güvenilirlik* "reliability" | Direct mapping. Primary abstract nominalization strategy. | None |
+| **NOMINALIZATION (agentive)** | [NOUN/ADJ-ROOT] + -cı/-ci / [VERB-ROOT] + -ıcı/-ici | *yalancı* "liar" / *yanıltıcı* "misleading" | Direct mapping. Agentive/adherent nominalization. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+Turkish does not have a dedicated REVELATION construction parallel to BECOME. Instead, the language uses **Construction 12 (Resultative/Outcome)** with the verb *çıkmak* "to emerge, come out":
+- *doğru çıkmak* "to turn out to be true"
+- *yalan çıkmak* "to turn out to be a lie"
+
+This construction systematically expresses revelation semantics—the outcome of verification or the resolution of prior uncertainty. Unlike BECOME (*gerçekleşmek* "to come true"), which focuses on the process of change, the *çıkmak* construction emphasizes the epistemic outcome: something is revealed to have a particular truth status.
+
+**Pattern**: The language avoids a dedicated inchoative for revelation and instead uses a resultative construction that implies prior uncertainty or claim that is now resolved.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share identical construction
+Turkish uses **Construction 13 (Denominative Verbalization)** with the suffix *-la/-le* for both verification and disconfirmation:
+- *doğrulamak* "to verify, to confirm" (from *doğru* "true/correct")
+- *yalanlamak* "to deny, to refute" (from *yalan* "lie")
+
+There is no structural distinction between these operations. Both are transitive denominative verbs formed from truth-domain nominals. The semantic difference (verification vs. disconfirmation) is lexically encoded in the base, not in the construction itself.
+
+### 2.3 CAUSATION shows asymmetry
+**CAUSATION (factual)** is fully productive via the causative suffix *-tır/-tir* on inchoative bases:
+- *gerçekleştirmek* "to realize, to make real"
+- *kesinleştirmek* "to finalize, to make definite"
+
+However, **CAUSATION (character)** lacks a dedicated construction. To express "make someone truthful/honest" or "make someone a liar," Turkish requires circumlocution:
+- Light verb constructions: *birini dürüst yapmak* "to make someone honest" (lit. "to make someone honest")
+- Complex clauses: *birinin yalancı olmasına neden olmak* "to cause someone to become a liar"
+
+These are not grammaticalized constructions but compositional phrases. The language shows a structural gap for character causation.
+
+### 2.4 NEGATION shows dual strategy
+Turkish employs both **analytic** and **morphological** negation:
+
+**Analytic** (Construction 2): Particle *değil* for predicative negation
+- *Bu yanlış değil* "This is not wrong"
+
+**Morphological** (Construction 11): Privative suffix *-sız/-siz* and negative potential *-mez/-maz*
+- *şüphesiz* "doubtless, without doubt"
+- *güvenilmez* "unreliable"
+
+The privative suffix creates lexicalized negative adjectives that function independently, while *değil* negates predicates syntactically. Some bases productively take privative derivation (*hatasız* "flawless"), while others use only analytic negation or have lexicalized negative forms (*güvenilmez* from *güvenilir* "reliable").
+
+### 2.5 Light verb constructions as semantic carriers
+**Construction 8 (Verbal Phrase Constructions)** uses light verbs extensively:
+- *yalan söylemek* "to tell a lie" (lit. "lie say-INF")
+- *haksızlık etmek* "to commit injustice" (lit. "injustice do-INF")
+
+These function as single semantic units where the light verb (*söylemek* "say," *etmek* "do," *yapmak* "make") carries tense/aspect/agreement while the truth-domain nominal carries lexical meaning. This pattern is highly productive and preferred over simple denominative verbs in many contexts (e.g., *yalan söylemek* is more common than *yalanlamak* for "to lie" in the sense of telling falsehoods).
+
+### 2.6 Manner adverbials show multiple strategies
+**Construction 9 (Manner Adverbials)** exhibits three distinct morphological strategies:
+- Suffix *-ca/-ce*: *dürüstçe* "honestly"
+- Ablative case *-dan/-den* (lexicalized): *gerçekten* "really, truly"
+- Instrumental case *-la/-le* (lexicalized): *kesinlikle* "certainly," *yanlışlıkla* "by mistake"
+
+All three are productive to varying degrees, with ablative and instrumental forms showing more lexicalization. The language does not prefer one strategy uniformly; instead, different bases select different suffixes, sometimes with semantic distinctions.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+**CAUSATION (character)**: No grammaticalized construction for expressing "make X become truthful/honest/a liar." The language requires circumlocution with light verbs (*yapmak* "make," *etmek* "do") or complex causal clauses. This is a genuine structural gap—the productive causative suffix *-tır/-tir* applies to inchoative verbs (factual causation) but does not extend to character causation in the truth domain.
+
+**REVELATION (dedicated construction)**: No inchoative or dedicated construction for revelation parallel to BECOME. The language substitutes with the resultative construction (*çıkmak* "to emerge"), which is productive but structurally distinct from inchoative derivation.
+
+### 3.2 Lexical Gaps
+No systematic lexical gaps were identified. Turkish shows high productivity in deriving truth-domain vocabulary through:
+- Inchoative *-leş/-laş*
+- Causative *-tır/-tir*
+- Abstract nominalization *-lık/-lik*
+- Privative *-sız/-siz*
+- Denominative *-la/-le*
+
+Individual lexical items may lack certain derived forms (e.g., not all adjectives productively take privative suffixes), but these are item-specific rather than systematic gaps.
+
+### 3.3 Conceptual Gaps
+**Character causation** appears to be a conceptual gap. The language does not grammaticalize the notion of causing someone to acquire or lose truth-related character traits (honesty, dishonesty, trustworthiness). This may reflect a cultural or conceptual distinction between:
+- Factual causation (making propositions/states become true/false) — grammaticalized
+- Character causation (making persons become truthful/deceptive) — not grammaticalized
+
+### 3.4 Asymmetric Gaps
+**Positive vs. Negative forms**: No systematic asymmetry. Turkish productively derives both positive and negative forms:
+- Positive: *doğru* "true," *güvenilir* "reliable"
+- Negative: *yanlış* "wrong," *güvenilmez* "unreliable"
+
+**Truth vs. Falsity**: No asymmetry. Both truth and falsity domains show equal productivity:
+- Truth: *doğrulamak* "to verify," *doğruluk* "truth"
+- Falsity: *yalanlamak* "to deny," *yalan* "lie"
+
+**VERIFICATION vs. DISCONFIRMATION**: No asymmetry. Both use identical denominative construction (*-la/-le*).
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+1. **ATTR**: [NP] [ADJ-TRUTH] (zero copula) / [NP] [ADJ-TRUTH] olmak
+2. **ADNOM**: [ADJ-TRUTH] [NOUN]
+3. **BECOME**: [ADJ-ROOT] + -leş/-laş (inchoative)
+4. **CAUSATION (factual)**: [INCHOATIVE-ROOT] + -tır/-tir (causative)
+5. **VERIFICATION**: [NOUN/ADJ-ROOT] + -la/-le (denominative)
+6. **DISCONFIRMATION**: [NOUN/ADJ-ROOT] + -la/-le (denominative)
+7. **NEGATION (analytic)**: [NP] [ADJ-TRUTH] değil
+8. **NEGATION (morphological)**: [ROOT] + -sız/-siz (privative) / [ROOT] + -mez/-maz (negative potential)
+9. **NOMINALIZATION (abstract)**: [ADJ-ROOT] + -lık/-lik
+10. **NOMINALIZATION (agentive)**: [NOUN/ADJ-ROOT] + -cı/-ci / [VERB-ROOT] + -ıcı/-ici
+
+### Available with Substitution
+11. **REVELATION**: Substituted by resultative construction [ADJ-TRUTH] + çıkmak "to turn out to be X"
+    - Functions as revelation operator but structurally distinct from inchoative BECOME
+    - Implies prior uncertainty resolved; emphasizes epistemic outcome rather than change process
+
+### Partially Available
+*None identified*
+
+### Missing Entirely
+12. **CAUSATION (character)**: No grammaticalized construction for "make X become truthful/honest/a liar"
+    - Requires circumlocution with light verbs or complex clauses
+    - Structural gap: causative suffix does not extend to character causation in truth domain
+    - Conceptual gap: language does not grammaticalize causing character traits related to truth/deception
+
+---
+
+## Summary
+
+Turkish exhibits a highly productive morphological system for truth-domain constructions, with 10 of 12 canonical CLCA operators fully available through dedicated grammatical constructions. The language shows:
+
+1. **Complete coverage** of attribution, adnominal modification, becoming, factual causation, verification, disconfirmation, negation (both analytic and morphological), and nominalization (both abstract and agentive).
+
+2. **Functional substitution** for REVELATION via resultative construction (*çıkmak*), which serves the semantic function but is structurally distinct from inchoative BECOME.
+
+3. **Structural gap** for CAUSATION (character), which lacks grammaticalization and requires circumlocution.
+
+4. **No asymmetries** between positive/negative forms, truth/falsity domains, or verification/disconfirmation operations.
+
+5. **High productivity** across all attested constructions, with minimal lexical restrictions and full integration across registers.

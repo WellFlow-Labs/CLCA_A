@@ -1,0 +1,72 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | P4a #1 Attribution: 是…的 frame + bare/complement adjectival predication | 这是真的吗？ / 你说得对。 / 消息可靠 | Direct mapping; two coexisting strategies (nominal 是…的 vs. bare predication) | None ([CORE]) |
+| ADNOM | P4a #3 Adnominal Modification: Adj + 的 + N, plus fixed N-N | 真实的情况 / 正宗川菜 | Direct mapping; collocationally restricted by noun class | None ([CORE]) |
+| BECOME | P4a #4 Inchoative: lexicalized …成/成真 idioms only | 弄假成真 / 真相大白 | Partly **SUBSTITUTED BY REVELATION** (真相大白 = truth coming to light); no productive [Adj+become] | Morphosyntactic gap (productive frame absent); [MARGINAL] |
+| REVELATION | P4a #5 (揭露/查明) + P4a #9 (真相→揭露/查明) + idiom 真相大白 | 揭露真相 / 真相大白 | Functions as its own operator AND substitutes for BECOME | None as lexical operator; expressed by transitive verbs |
+| CAUSATION (factual) | None for "make X true/correct" | (no *使真化, no productive 使+Adj) | **SUBSTITUTED BY VERIFICATION / correction verbs** (核实, 证实, 纠正) | Morphosyntactic gap (no causative frame); [MARGINAL] |
+| CAUSATION (character) | None on truth/character adjectives | (no derived causative of 诚实/虚伪) | **MISSING (structural gap)** — no causative attested in data | Morphosyntactic gap |
+| VERIFICATION | P4a #5 + P4a #9 verification verbs | 核实情况 / 证实 / 查明 / 鉴定 | Independent transitive verbs; carries factual-causation space | None as lexical operator |
+| DISCONFIRMATION | P4a #9 discrimination verbs (辨别真伪/真假) + P4a #2 antonyms (假, 错误) | 辨别真伪 / 这是假的 | Partly shares discrimination verbs with VERIFICATION (辨别/鉴定 cover both genuine and fake) | None; overlaps with VERIFICATION |
+| NEGATION | P4a #2: analytic 不/没 + lexical antonyms (假, 错, 错误, 虚伪) | 这是假的。 / 不可靠 / 没错 | Analytic (不/没) + lexical-antonym strategy combined | None ([CORE]); analytic, not morphological |
+| NOMINALIZATION | P4a #6: -性 / -度; P4a #7 agentive [Adj(+的)+人] | 真实性 / 可信度 / 老实人 | Abstract nominalization productive on bisyllabic terms; agentive -者 absent, replaced by [Adj+人] | Partial; lexical gaps (monosyllabic & moral roots); agentive structural gap |
+
+## 2. Substitution Patterns (Narrative)
+
+**Revelation replaces becoming.** The data show no productive [Adj + become] template (no *变真实, *变正确). Change-of-state in the truth domain is carried either by fixed idioms (弄假成真) or, crucially, by the revelation idiom 真相大白 ("the truth comes fully to light"). Where a language might say "the truth became known," Chinese uses a revelation-type lexicalization. Thus REVELATION systematically occupies part of the BECOME space.
+
+**Verification replaces (factual) causation.** P4a #5 explicitly notes no productive causative ("make X true/correct"). The functional space is filled by independent transitive verbs of verification and revelation: 揭露, 查明, 核实, 证实, 纠正. The language does not causativize the adjective; it predicates a separate verb on a truth-noun object. So CAUSATION(factual) is realized as VERIFICATION/correction predicates rather than as a derived causative.
+
+**Verification and Disconfirmation partly share constructions.** Discrimination verbs 辨别/鉴定 take 真伪/真假 objects (P4a #9), covering BOTH the confirmation of genuineness and the detection of falsity within one collocational set. The disconfirmation of specific claims, however, also draws on the negation strategy (P4a #2: 假, 错误, 不真实). So the two operators overlap in the discrimination-verb construction but diverge where DISCONFIRMATION uses lexical antonyms.
+
+**Positive vs. negative asymmetry in attribution.** ATTR uses a 是…的 frame (是真的) whose negative pole is partly lexicalized: falsity is expressed BOTH by negating the positive (不真实, 不正确) and by dedicated antonyms (假, 错, 错误, 虚伪). The form 没错 is a fixed negated affirmation (affirming correctness), not a denial — an asymmetry where a negative-marked form carries positive meaning.
+
+**Nominalization asymmetry by syllable count and semantic class.** -性/-度 attach productively to bisyllabic evaluatives (真实性, 可信度) but are blocked on monosyllabic roots (真/假/对/错), which fall back on binomial compounds (真假, 真伪). Moral-character terms (真诚, 诚实) show a genuine derivational gap.
+
+## 3. Missingness Summary
+
+**Structural Gaps (missing constructions/morphosyntax):**
+- Productive inchoative [Adj + become] frame — absent (no *变真实, *变正确).
+- Productive causative on truth adjectives — absent (no *使真化, no productive 使+Adj).
+- CAUSATION (character) — no attested causative construction.
+- Agentive -者 nominalization on this vocabulary — empty slot (no *诚实者, *可靠者).
+
+**Lexical Gaps (missing words):**
+- -性 nominalizers for monosyllabic 真/假/对/错 (no *真性, *假性 in this sense).
+- Standard nominalizers for moral terms 真诚/诚实 (genuine gap).
+- No derived agent noun for "liar/truth-teller" from these adjectives (expressed by separate lexemes).
+
+**Conceptual Gaps (blocked operations):**
+- None explicitly identified in the data as conceptually blocked; the absent operations (causative, inchoative) are filled by alternative operators (verification verbs, revelation idioms) rather than reported as unexpressable.
+
+**Asymmetric Gaps (only one polarity / restricted distribution):**
+- 没错: negative-marked form encodes affirmation, not denial (polarity asymmetry).
+- Nominalization available for bisyllabic but not monosyllabic roots.
+- Adnominal collocations sharply restricted by noun class (真挚→emotion, 正宗/地道→food/culture, 可靠→source/info), so the slot is productive but distributionally asymmetric.
+
+## 4. Canonicalized Operator Inventory
+
+**Fully available:**
+- ATTR (是…的 / bare adjectival predication)
+- ADNOM (Adj + 的 + N)
+- NEGATION (analytic 不/没 + lexical antonyms)
+- REVELATION (transitive verbs 揭露/查明 + idiom 真相大白)
+- VERIFICATION (transitive verbs 核实/证实/查明/鉴定)
+- DISCONFIRMATION (discrimination verbs 辨别真伪 + lexical antonyms)
+
+**Available with substitution:**
+- BECOME → **SUBSTITUTED BY** lexicalized idioms and REVELATION (真相大白)
+- CAUSATION (factual) → **SUBSTITUTED BY** VERIFICATION/correction verbs (核实, 证实, 纠正)
+
+**Partially available:**
+- NOMINALIZATION (abstract -性/-度 productive on bisyllabic terms only; agentive expressed phrasally via [Adj(+的)+人])
+
+**Missing entirely:**
+- CAUSATION (character) — **MISSING (structural gap)**
+- Productive morphological causative on truth adjectives — **MISSING (structural gap)**
+- Productive inchoative [Adj + become] frame — **MISSING (structural gap)**
+- Agentive -者 derivation on this vocabulary — **MISSING (structural gap)**, function covered by [Adj+人]
+
+*Note on normalization of multi-word expressions:* The verification/revelation operators (揭露真相, 核实情况, 辨别真伪) behave as **verb + object** units where the verb is the semantic operator carrier (transitive lexical verbs, not light verbs). The stance frames 事实上 / 准确地说 (P4a #8) behave **adverbially** (connective/hedge), not predicatively. 真相大白 behaves as a **clausal idiom** (subject + stative-resultative). 像…一样 / 与…相似 (P4a #10) behave as **comparative adverbial/predicative** frames. No genuine light-verb carrier (e.g., 使/做) is attested in this domain; the operators are carried by full lexical verbs.

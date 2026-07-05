@@ -1,0 +1,107 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (1) 是…的 copular frame; (2) bare adjectival predicate; (3) 属实 fixed predicate | 这条消息是真实的。/ 他的陈述属实。 | Direct mapping; no substitution required | None |
+| **ADNOM** | (3) [adjective/compound] + 的 + noun; 成语 + 的 + noun; monosyllabic 真/假 in fixed compounds without 的 | 真实的情况 / 名副其实的专家 / 真品 | Direct mapping; no substitution required | None |
+| **BECOME** | (4) 变得 + adjective + 了 (syntactic, marginal); 弄假成真 (lexicalized, fixed) | 报道变得失实了。/ 弄假成真 | Partially available; 变得 frame is syntactically well-formed but low-frequency; 弄假成真 is fixed and non-productive | Partial availability: inchoative framing is not a high-frequency pattern; productive BECOME is marginal |
+| **REVELATION** | (8) [investigative verb] + 真相 (揭露/揭示/查明/还原 + 真相); (11) positive counterpart 经过核实 / 经专家鉴定 | 揭露真相 / 经过核实 | REVELATION is expressed via VERB-OBJECT collocations with investigative verbs; it does not substitute for BECOME — the two are functionally distinct in the data | None for REVELATION as its own category; see BECOME for substitution question |
+| **CAUSATION (factual)** | (5) 使/让 + NP + predicate; result-complement verb constructions | 这使报道失真。 | Direct mapping via periphrastic causative; no morphological causative exists | Morphosyntactic gap: no morphological causative; periphrasis required |
+| **CAUSATION (character)** | No dedicated construction attested in P4a or P4b for character-based causation (e.g., "X's honesty caused Y") | — | **MISSING (structural gap)** — P4a and P4b attest causative constructions only with distortion/concealment predicates (失真, 失实, 掩盖真相); no construction expressing character-based causation of truth is attested | Structural gap: no attested construction for this sub-type |
+| **VERIFICATION** | (10) 与…相符 / 前后相符; (11) 无法核实 / 无从判断真伪; positive frame 经过核实 / 经专家鉴定; (9) 如实 / 据实 + verb of reporting | 与事实相符 / 经过核实 / 如实陈述 | Direct mapping across multiple constructions; VERIFICATION is well-supported | None |
+| **DISCONFIRMATION** | (2) 严重失实; 不是真的，是假的; 不相符 / 不一致; (11) 无法核实 (marks inability to confirm, not active disconfirmation) | 这篇报道严重失实。/ 与事实不相符 | DISCONFIRMATION shares the CORRESPONDENCE PREDICATE construction (negated: 不相符) with VERIFICATION; NEGATIVE ATTRIBUTION (失实, 不是真的) also serves this function | VERIFICATION and DISCONFIRMATION share the 相符/不相符 construction; they are formally parallel |
+| **NEGATION** | (2) Syntactic: 不 + adjective (不正确, 不准确, 不可靠, 不真实); 不是…真的 / 是假的; Lexicalized: 失实, 失真, 不正确, 不可靠 | 这份文件不是真的，是假的。/ 这篇报道严重失实。 | Negation is analytic (syntactic 不 + adjective) for property negation; lexicalized for outcome-based negation (失实, 失真); no morphological negation exists | Morphosyntactic gap: no morphological negation; analytic and lexicalized forms only |
+| **NOMINALIZATION** | (6) Abstract: [adjective/compound] + 性 (真实性, 可靠性, 正确性, 准确性); experiential: [compound] + 感 (真实感); (7) Agentive: [verbal compound] + 者 (欺骗者, 伪装者) | 真实性 / 可靠性 / 真实感 / 欺骗者 | Direct mapping; two distinct nominalizing strategies (-性 for abstract properties, -者 for agents) are attested and productive on their respective bases | Lexical gap: -性 does not attach to monosyllabic roots (真, 假) or verbal items; -者 does not attach to adjectival items |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+The data in P4a and P4b do not show REVELATION substituting for BECOME. The two operators are functionally distinct in Chinese as attested. BECOME (inchoative change of state) is expressed by 变得 + adjective + 了 or the fixed expression 弄假成真. REVELATION (the making-known of a pre-existing truth) is expressed by verb-object collocations with investigative verbs (揭露真相, 查明真相, 还原真相) and by the completed-verification frame (经过核实, 经专家鉴定). These constructions describe different events — change of state versus disclosure — and no evidence in P4a or P4b indicates that one is used in place of the other.
+
+What is notable is that BECOME is marginal in frequency and productivity. The 变得 frame is described in P4b as "syntactically well-formed but less common than direct predication," and the only conventionalized inchoative form (弄假成真) is a fixed 成语 with a specific and non-generalizable meaning (false → genuine). REVELATION, by contrast, is highly productive and common. This creates an asymmetry in availability: REVELATION is robustly supported; BECOME is weakly supported. However, this asymmetry reflects a difference in frequency and productivity, not a substitution relationship.
+
+### 2.2 VERIFICATION and DISCONFIRMATION
+
+VERIFICATION and DISCONFIRMATION share the CORRESPONDENCE PREDICATE construction. The positive form 与事实相符 expresses verification (the item matches the standard); the negative form 与事实不相符 expresses disconfirmation (the item does not match the standard). The same predicate (相符) and the same coverb frame (与…) are used in both cases, with negation (不) as the only formal difference. The same parallel holds for the near-synonym 一致/不一致.
+
+DISCONFIRMATION is additionally expressed by NEGATIVE ATTRIBUTION constructions (失实, 不是真的, 是假的) that have no direct positive counterpart within the same lexical item. 失实 is a lexicalized negative compound; there is no corresponding positive compound *得实 or *符实 in the data. This creates a lexical asymmetry: the negative outcome (inaccuracy, falsity) has dedicated lexicalized forms (失实, 失真) that the positive outcome lacks.
+
+### 2.3 Positive/Negative Asymmetries
+
+Several asymmetries between positive and negative forms are attested:
+
+**Adverbial frame:** The adverbial truth frame (如实, 据实) has no negative parallel. P4a explicitly notes that *如假陈述 is unattested; the negative is expressed by 虚假陈述 or 不如实陈述, which are structurally different (adnominal modification and negated adverbial, respectively). This is an asymmetric gap on the negative side of the adverbial frame.
+
+**Lexicalized negatives without positive counterparts:** 失实 and 失真 are lexicalized negative compounds. No corresponding lexicalized positive compounds (expressing "became accurate" or "became genuine") are attested in the data. The positive inchoative meaning requires the syntactic 变得 frame, which is marginal.
+
+**Causative directionality:** The causative construction (使/让 + NP + predicate) is attested in P4a and P4b primarily with negative-outcome predicates (使失真, 使失实) and concealment verbs (掩盖真相). No examples of causative constructions with truth-positive predicates (e.g., *使报道真实) are attested. This is an asymmetry in the attested range of the causative frame: it is documented for distortion and concealment, not for truth-production.
+
+### 2.4 NEGATION: Analytic vs. Morphological
+
+Negation in the truth domain is entirely analytic or lexicalized; no morphological negation exists. Two strategies are attested: (a) syntactic negation via 不 + adjective (不正确, 不准确, 不可靠, 不真实), which is productive and applies to adjectival compounds; and (b) lexicalized negative compounds (失实, 失真, 不正确 as a fixed form, 不可靠 as a fixed form), where the negative meaning is conventionalized in the lexical item itself. The boundary between syntactic and lexicalized negation is not always sharp — 不正确 and 不可靠 are listed in P4a as both syntactic negations and lexicalized forms — but the structural mechanism is consistently analytic (a negative morpheme preceding the adjective) rather than morphological (a bound suffix or internal change).
+
+### 2.5 CAUSATION (character) Absence
+
+No construction expressing character-based causation (e.g., a person's honesty or deceptiveness as a causal property that produces truth or falsity in the world) is attested in P4a or P4b. The causative constructions that are attested are event-based: a specific action or event (这, "this") causes a specific outcome (失真, 失实). The agentive nominalization construction (-者: 欺骗者, 伪装者) identifies agents of deceptive actions but does not express character-based causation. This is a structural gap in the attested data.
+
+### 2.6 Light Verbs and Semantic Operators
+
+In the CAUSATIVE construction, 使 and 让 function as light verbs carrying the causative operator. The semantic content is distributed between the light verb (causation) and the following predicate (the resulting state). In the VERB-OBJECT collocations (Construction 8), verbs such as 揭露, 掩盖, 核实, and 辨别 carry the full semantic operator (revelation, concealment, verification, authentication) without a separate light verb. In the ADVERBIAL TRUTH FRAME, 如实 and 据实 function syntactically as adverbs modifying the following verb; they are fixed forms and not syntactically decomposable in current usage, as noted in P4b.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character):** No construction is attested for expressing character-based causation of truth or falsity. The causative frame (使/让 + NP + predicate) is attested only for event-based causation with negative-outcome predicates. **MISSING (structural gap).**
+- **Morphological causative:** No morphological causative exists. Causative meaning requires periphrasis (使/让 + NP + predicate) or result-complement constructions. This is a morphosyntactic gap, not a lexical one; the meaning is expressible but requires a multi-word construction.
+- **Morphological negation:** No morphological negation exists. Negation is expressed analytically (不 + adjective) or through lexicalized compounds. This is a morphosyntactic gap.
+- **Morphological inchoative:** No morphological inchoative exists. The BECOME operator requires the syntactic 变得 frame or the fixed expression 弄假成真.
+
+### 3.2 Lexical Gaps
+
+- **-性 on monosyllabic roots:** 真性 and 假性 as abstract property nouns in the truth domain are not attested in P4a or P4b. The -性 suffix does not productively attach to monosyllabic 真 or 假. This is a lexical gap within the nominalization paradigm.
+- **-性 on verbal items:** 欺骗性 and 伪造性 are not attested as productive forms in P4a or P4b. The -性 suffix does not attach to verbal compounds in this domain.
+- **-者 on adjectival items:** 真实者, 可靠者, and similar forms are not attested. The -者 suffix does not attach to adjectival compounds.
+- **Lexicalized positive inchoative:** No lexicalized positive inchoative compound parallel to 弄假成真 is attested for the trajectory false → genuine in the productive direction (i.e., a form meaning "caused to become true/accurate"). 弄假成真 is the only conventionalized inchoative form and it is fixed.
+- **Negative adverbial frame:** No adverbial form parallel to 如实 or 据实 exists for the negative (falsely, contrary to the facts). *如假 is unattested. This is a lexical gap in the adverbial paradigm.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a and P4b data alone. All major truth-domain concepts (attribution, modification, change, causation, verification, disconfirmation, negation, nominalization) are expressible in Chinese, though some require periphrasis or are restricted to specific registers. The absence of CAUSATION (character) is treated here as a structural gap in the attested data rather than a conceptual gap, since the concept is not blocked in principle but simply has no attested construction in the source data.
+
+### 3.4 Asymmetric Gaps
+
+| Domain | Positive Form | Negative Form | Gap Location |
+|---|---|---|---|
+| Adverbial truth frame | 如实, 据实 (attested, CORE) | *如假 (unattested) | Negative side missing |
+| Lexicalized inchoative | No positive lexicalized form attested | 失实, 失真 (lexicalized negative outcomes) | Positive side missing |
+| Causative frame (attested range) | No truth-positive causative attested (e.g., *使报道真实) | 使失真, 使失实 (attested) | Positive side missing in attested data |
+| Correspondence predicate | 与事实相符 (CORE) | 与事实不相符 (CORE) | No gap; formally parallel |
+| Abstract nominalization | 真实性, 可靠性, 正确性 (CORE) | 虚假性 (listed in P4a) | No gap; both sides attested |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Multiple constructions attested across registers: 是…的 frame, bare predicate, 属实 fixed predicate. |
+| **ADNOM** | **Fully available** | Productive 的-modification attested for adjectival compounds, 成语, and monosyllabic roots in fixed compounds. |
+| **BECOME** | **Partially available** | Syntactic 变得 frame is well-formed but marginal in frequency; only one conventionalized form (弄假成真) is CORE-rated, and it is fixed and non-productive. |
+| **REVELATION** | **Fully available** | Robustly attested via verb-object collocations (揭露/揭示/查明/还原 + 真相) and completed-verification frames (经过核实, 经专家鉴定). |
+| **CAUSATION (factual)** | **Available with substitution** | Periphrastic causative (使/让 + NP + predicate) is attested and CORE-rated; no morphological causative exists. Morphosyntactic substitution required. |
+| **CAUSATION (character)** | **Missing entirely** | No construction attested in P4a or P4b for character-based causation of truth or falsity. |
+| **VERIFICATION** | **Fully available** | Multiple constructions attested: correspondence predicate (与…相符), completed-verification frame (经过核实), adverbial truth frame (如实/据实 + verb), impossibility-of-verification frame (无法核实). |
+| **DISCONFIRMATION** | **Fully available** | Attested via negative correspondence predicate (不相符), negative attribution (失实, 不是真的, 是假的), and impossibility-of-verification frame. Shares construction with VERIFICATION via negation. |
+| **NEGATION** | **Available with substitution** | Fully expressible but only through analytic (不 + adjective) or lexicalized (失实, 失真) means. No morphological negation. Morphosyntactic substitution required. Asymmetric: negative adverbial form is missing. |
+| **NOMINALIZATION** | **Fully available** | Two productive strategies attested: -性 for abstract property nouns (restricted to adjectival compound bases), -者 for agent nouns (restricted to verbal compound bases). Lexical gaps exist within each paradigm but the operator itself is fully supported. |

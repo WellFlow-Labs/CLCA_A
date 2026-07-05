@@ -1,0 +1,152 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Basque (eu)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Predicate-nominal or predicate-adjectival construction: **[Noun/Proposition] + [truth-term] + da**
+The truth-term occupies predicate position; the copula *da* (3sg present of *izan*) follows. Word order is flexible but predicate-before-copula is canonical.
+
+### Examples
+- *Egia da hori.* → Egia da hori. → "That is true."
+- *Egiazkoa da agiri hori.* → Egiazkoa da agiri hori. → "That document is genuine."
+
+### Notes
+The copula *da* is obligatory; the truth-term does not inflect for the subject. Both nominal (*egia*) and adjectival (*egiazkoa*, *benetakoa*, *baliozkoa*, *sinesgarria*, *zuzena*) bases participate in this pattern without structural difference.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negation particle **ez** precedes the copula: **[Noun/Proposition] + ez + da + [truth-term]**
+Alternatively, the negative particle may precede the entire predicate complex.
+
+### Examples
+- *Ez da egia hori.* → Ez da egia hori. → "That is not true."
+- *Ez da sinesgarria.* → Ez da sinesgarria. → "It is not credible."
+
+### Notes
+*Ez* immediately precedes the finite verb (*da*); the truth-term remains in predicate position. This is the standard negation pattern for all copular attributions in Basque and applies uniformly across the truth-domain vocabulary.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Attributive modifier precedes the noun in its **indefinite form** (article *-a* dropped): **[truth-term-zko / truth-term-ko] + [Noun]**
+The suffixes *-zko* and *-ko* derive relational adjectives from nominals; the resulting form is invariant before the head noun.
+
+### Examples
+- *Egiazko lekukotasuna* → Egiazko lekukotasuna → "True/genuine testimony"
+- *Benetako arazoa* → Benetako arazoa → "The real problem"
+
+### Notes
+Basque attributive modifiers are pre-nominal and appear without the definite article *-a*. The forms *egiazko*, *benetako*, *gezurrezko*, *baliozko*, *jatorrizko*, and *itxurazko* all follow this pattern. The head noun carries the definiteness and case marking.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Verb **bihurtu** ("to become, to turn into") or **bihurtu da** with a truth-domain nominal or adjectival as complement: **[Subject] + [truth-term] + bihurtu da**
+Alternatively, some roots form inchoatives via **-tu** suffixation directly (*okertu*, *zilegitu*).
+
+### Examples
+- *Egia bihurtu da.* → Egia bihurtu da. → "It has become true / It turned out to be true."
+- *Okertu egin da gauza hori.* → Okertu egin da gauza hori. → "That thing has gone wrong."
+
+### Notes
+The periphrastic *bihurtu* construction is the general inchoative strategy and applies broadly. The suffixed *-tu* inchoative is lexically restricted: *okertu* (to go wrong, become crooked) is well-attested; *zilegitu* (to become legitimate) is marginal. No *-tu* inchoative from *egia* or *gezurra* is attested.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+The suffix **-arazi** attaches to the verbal stem to form a causative: **[Verb-stem] + -arazi**
+For truth-domain verbs: *egiaztarazi* (to cause to verify), *frogararazi* (to cause to prove). Alternatively, periphrastic causatives use **eragin** or **behartu** with an infinitival complement.
+
+### Examples
+- *Egiaztarazi zion.* → Egiaztarazi zion. → "He/she made him/her verify it / caused it to be verified."
+- *Egia esan eragin zion.* → Egia esan eragin zion. → "He/she made him/her tell the truth."
+
+### Notes
+Morphological *-arazi* causatives are grammatically productive in Basque but are relatively low-frequency for truth-domain verbs in the data; periphrastic causatives with *eragin* or *behartu* + infinitive are more commonly attested in this domain. No causative from nominal bases (*egia*, *gezurra*) via *-arazi* is documented in the data.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Suffix **-tasun** attaches to an adjectival base to form an abstract nominal denoting the property: **[Adjective] + -tasun + -a** (definite)
+This is the primary and fully productive abstract nominalization pattern across the truth-domain vocabulary.
+
+### Examples
+- *Zintzotasuna* → Zintzotasuna → "Honesty, sincerity, integrity"
+- *Fidagarritasuna* → Fidagarritasuna → "Reliability, trustworthiness"
+
+### Notes
+The *-tasun* suffix applies uniformly to all adjectival bases in the data: *egiazkotasuna*, *benetakotasuna*, *faltsutasuna*, *zuzentasuna*, *zehaztasuna*, *sinesgarritasuna*, *jatortasuna*, *antzekotasuna*, *baliogabetasuna*. A secondary pattern, the *-pen* suffix, derives result-oriented nominals from verbal stems (*egiaztapen*, *frogapen*, *zehaztapen*).
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Suffix **-ti** attaches to a nominal root to form a person noun denoting habitual or characteristic engagement: **[Root] + -ti + -a** (definite)
+This pattern is attested for the falsehood domain. For the truth-telling domain, no parallel *-ti* form is documented; the function is expressed periphrastically.
+
+### Examples
+- *Gezurtia* → Gezurtia → "The liar" (habitual liar; from *gezur-* + *-ti* + *-a*)
+- *Egia esaten duena* → Egia esaten duena → "The one who tells the truth" (periphrastic; no single-word form attested)
+
+### Notes
+The *-ti* agentive is asymmetric in this domain: *gezurti* (liar) is a fully lexicalized common word, but no corresponding *egiazkoti* or *egiati* (truth-teller) is attested. The truth-telling agent is expressed periphrastically via relative clauses (*egia esaten duena*) or by character adjectives (*zintzoa*, *jatorra*) rather than by a dedicated agentive nominal.
+
+---
+
+## 8. VERBAL NOMINALIZATION (action / process)
+
+### Pattern
+Suffix **-tze** + definite **-a** attaches to the verbal stem to form a verbal noun denoting the action or process: **[Verb-stem] + -tze + -a**
+
+### Examples
+- *Egiaztatzea* → Egiaztatzea → "The verifying, verification (as process)"
+- *Frogatzea* → Frogatzea → "The proving, demonstration (as process)"
+
+### Notes
+This pattern is distinct from the *-pen* result nominal (§6 secondary pattern) in that *-tze* nominals denote the ongoing process or act, while *-pen* nominals (*egiaztapen*, *frogapen*) denote the result or outcome. Both are productive across the verification sub-domain. Verbal nouns in *-tze* function as syntactic subjects and objects freely (*frogatzea zaila da*, "proving it is difficult"; *frogatzeko zama*, "burden of proof").
+
+---
+
+## 9. PRIVATIVE / NEGATED-PROPERTY CONSTRUCTION
+
+### Pattern
+Two competing strategies are attested:
+**(a)** Suffix **-gabe** attaches to a nominal root: **[Root] + -gabe + -a** → property-lacking nominal
+**(b)** **ezin** (impossibility marker) precedes the verbal stem: **[Verb-stem] + ezin + -a** → "impossible to [verb]"
+
+### Examples
+- *Baliogabea* → Baliogabea → "Invalid, null, without value" (*balio* + *-gabe* + *-a*)
+- *Frogaezina* → Frogaezina → "Unprovable, impossible to prove" (*froga* + *ezin* + *-a*)
+
+### Notes
+The *-gabe* privative is productive for nominal roots (*baliogabea*, *egigabea*) and for verbal stems (*zehaztugabea*, *egiaztatu gabe*). The *ezin* construction is specific to verbal roots and expresses impossibility rather than mere absence (*egiaztaezina*, *frogaezina*). The antonym of *-garri* adjectivals (§10 below) is preferentially formed with *-gaitz* rather than *-gabe* (*fidagaitza*, *sineskaitza*).
+
+---
+
+## 10. POTENTIAL / WORTHY-OF ADJECTIVAL
+
+### Pattern
+Suffix **-garri** attaches to a verbal stem to form an adjectival meaning "worthy of" or "capable of being [verbed]": **[Verb-stem] + -garri + -a**
+The negative counterpart uses **-gaitz** (difficult, resistant): **[Verb-stem] + -gaitz + -a**
+
+### Examples
+- *Frogagarria* → Frogagarria → "Provable, demonstrable"
+- *Fidagaitza* → Fidagaitza → "Unreliable, hard to trust"
+
+### Notes
+The *-garri* / *-gaitz* pair is productive across the epistemic sub-domain: *egiaztagarria* (verifiable) / *egiaztaezina* (unverifiable, via *ezin*); *frogagarria* / *frogaezina*; *fidagarria* / *fidagaitza*; *sinesgarria* / *sineskaitza*. The negative of *-garri* forms uses *-gaitz* (or *-kaitz*) rather than *-gabe*, a pattern consistent across all attested examples in the data.

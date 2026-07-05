@@ -1,0 +1,151 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Basque (eu)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+NP + **da** (copula, 3sg of *izan*)
+Predicate adjective or nominal precedes copula; no agreement inflection on the adjective.
+
+### Examples
+- *Egia da* → N/A → "It is true."
+- *Gezurra da* → N/A → "It is a lie / It is false."
+
+### Notes
+Basque uses a bare nominal or adjectival predicate with the copula *da*. The "subject" NP (the proposition being evaluated) is typically implicit or expressed as a clause. *Egia da* and *gezurra da* function as the primary binary poles of propositional truth attribution in everyday speech.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**Ez** + copula/stative + predicate adjective or nominal
+Negation particle *ez* precedes the finite verb.
+
+### Examples
+- *Ez da egia* → N/A → "It is not true."
+- *Ziurra ez da* → N/A → "It is not certain." (also: *ziurra ez* as reduced form)
+
+### Notes
+Negation is preverbal: *ez* immediately precedes the finite auxiliary. The predicate nominal or adjective remains in place. The construction *oker ez banago* ("if I am not mistaken") shows the same pattern in a conditional frame, functioning as an epistemic hedge.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**Adjective/relational form + Noun** (modifier precedes head)
+Relational adjectives formed with *-zko* / *-rezko* / *-ko* precede the noun they modify.
+
+### Examples
+- *Egiazko lekukotasuna* → N/A → "True / genuine testimony."
+- *Gezurrezko agiria* → N/A → "A false / forged document."
+
+### Notes
+Basque is consistently head-final in nominal modification: the modifier precedes the noun. Relational adjectives (*egiazko*, *gezurrezko*, *benetako*, *itxurazko*) are the primary adnominal modifiers in the truth domain. The definite article *-a* attaches to the head noun, not to the modifier.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**Base adjective + *-tu*** (verbalizing/perfective suffix), used intransitively or with *egin* / *bihurtu*
+The suffix *-tu* on an adjectival base yields a verb that can be read as inchoative ("to become X") or causative ("to make X") depending on argument structure.
+
+### Examples
+- *Zintzotu* → N/A → "To become honest; to reform."
+- *Okertu* → N/A → "To go wrong; to become distorted; to err."
+
+### Notes
+Basque does not have a dedicated inchoative morpheme distinct from the causative; the same *-tu* suffix serves both. Intransitive use (*zintzotu da*, "he/she has become honest") yields the inchoative reading; transitive use (*zintzotu du*, "he/she has made [someone] honest") yields the causative. Context and argument structure disambiguate.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**Base adjective + *-tu*** (transitive use), or periphrastic causative with *-arazi*
+The *-tu* verb used transitively expresses "to make X"; the *-arazi* suffix on a verbal stem yields a productive causative.
+
+### Examples
+- *Gezurra sinetsarazi* → N/A → "To make someone believe a lie; to get someone to believe a falsehood."
+- *Egiaztatu* → N/A → "To cause to be verified; to have [something] confirmed." (transitive, institutionally causative in use)
+
+### Notes
+The productive causative morpheme is *-arazi* (e.g., *sinets-arazi*, "to cause to believe"). The *-tu* verbs (*egiaztatu*, *ziurtatu*, *zuzendu*) are transitive and carry an implicit causative meaning ("to make true/certain/correct") but are not formed with *-arazi*. Both patterns are attested in the truth domain.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**Adjective/verb stem + *-tasun*** (abstract nominal suffix)
+Yields nouns denoting the quality or state expressed by the base.
+
+### Examples
+- *Ziurtasun* → N/A → "Certainty; sureness; assurance."
+- *Zintzotasun* → N/A → "Honesty; uprightness; sincerity."
+
+### Notes
+The suffix *-tasun* is the primary and highly productive abstract nominalizer in Basque. It attaches to adjectives (*ziur*, *zintzo*, *garden*, *zuzen*, *fidagarri*, *sinesgarri*) to yield abstract nouns. These nominals are terminal in derivational chains: no further suffixal derivation from *-tasun* forms has been identified. A secondary pattern uses *-pen* on verbal stems to yield result nominals (*egiaztapen*, *ziurtapen*), and *-tze* for process nominals (*egiaztatze*, *ziurtatze*).
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**Verbal stem + *-tzaile*** (agentive suffix) or **stem + *-ti*** (characterizing/habitual suffix)
+*-tzaile* yields an agent who performs an action; *-ti* yields a person characterized by a habitual tendency.
+
+### Examples
+- *Zuzentzaile* → N/A → "Corrector; editor; proofreader." (*zuzendu* + *-tzaile*)
+- *Gezurti* → N/A → "Liar; lying person." (*gezur* + *-ti*)
+
+### Notes
+Two distinct agentive patterns are attested in this domain. *-tzaile* is the productive agentive suffix for actors (*zuzentzaile*, "one who corrects"). *-ti* is a characterizing suffix marking habitual tendency, used specifically for moral character evaluation (*gezurti*, "one given to lying"). No *-tzaile* form meaning "truth-teller" (*egiazale* or similar) has been identified as broadly attested; the concept is expressed periphrastically (*egia esaten duena*, "one who tells the truth"). *Zuzendari* (director) uses the variant agentive *-dari* but has shifted to an organizational rather than correctional meaning.
+
+---
+
+## 8. TRANSLATIVE CONSTRUCTION (additional pattern)
+
+### Pattern
+**Participial/adjectival form + *-tzat*** + evaluative verb (*jo*, *hartu*, *onartu*)
+The suffix *-tzat* marks the translative case ("as X, for X"); combined with verbs of considering or accepting, it expresses treating something as having a given status.
+
+### Examples
+- *Egiazkotzat jo* → N/A → "To consider as true; to take as genuine."
+- *Baliozkotzat jo* → N/A → "To consider as valid; to regard as legitimate."
+
+### Notes
+This construction is productive across the truth domain and is particularly common in legal and administrative registers where formal attribution of a status (true, valid, false) is required without necessarily asserting it as fact. It is structurally distinct from simple predication (*egia da*) in that it marks the attribution as a judgment or institutional act rather than a direct assertion.
+
+---
+
+## 9. EPISTEMIC HEDGE CONSTRUCTION (additional pattern)
+
+### Pattern
+**Parenthetical adverb or nominal phrase** functioning as a sentence-level epistemic modifier
+Includes *ziurrenik*, *antza denez*, *antza du*, and discourse-initial frames.
+
+### Examples
+- *Ziurrenik etorriko da* → N/A → "He/she will probably come; most likely he/she will come."
+- *Antza denez, egia da* → N/A → "Apparently it is true; it would seem to be true."
+
+### Notes
+Basque expresses epistemic hedging through adverbs (*ziurrenik*, "probably/certainly") and parenthetical nominal constructions (*antza denez*, "as it appears"; *antza du*, "it seems"). These are not inflectional mood distinctions but lexical devices. *Ziurrenik* is notable for being derived from *ziur* ("certain") yet functioning in practice as a probability marker rather than a certainty marker.
+
+---
+
+## 10. PEJORATIVE PRACTICE NOMINALIZATION (additional pattern)
+
+### Pattern
+**Noun or adjective stem + *-keria*** (nominal suffix marking reprehensible habitual practice)
+
+### Examples
+- *Gezurkeria* → N/A → "Lying; deceitfulness; dishonesty as a habitual practice."
+- *Itxurakeria* → N/A → "Pretense; affectation; hypocrisy; keeping up appearances."
+
+### Notes
+The suffix *-keria* consistently marks a habitual or systematic moral failing across the truth domain: *gezurkeria* (habitual lying), *faltsukeria* (habitual insincerity), *okerkeria* (habitual wrongdoing), *itxurakeria* (habitual pretense). This suffix is distinct from *-tasun* (abstract quality) in that it carries an inherently pejorative and behavioral connotation. It is a structurally coherent pattern specific to moral evaluation in this domain.

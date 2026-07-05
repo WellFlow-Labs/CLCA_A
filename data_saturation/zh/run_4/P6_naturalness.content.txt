@@ -1,0 +1,632 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Chinese encodes dynamic meanings — becoming, causing, maintaining, and losing truth-related states — using vocabulary established in P1 through P5. The analysis proceeds term by term where behavior differs, and groups terms together only where the data supports uniform treatment. Aspect markers (了, 过, 着), directional complements (起来, 下去), resultative complements (清楚, 明白), and general-purpose causative verbs (使, 让, 导致) are added as needed; they are not truth-domain-specific and are not counted as new vocabulary.
+
+Where no common expression exists for a given dynamic meaning with a given term, this is explicitly stated.
+
+The primary finding previewed here and supported throughout: Chinese truth-domain vocabulary encodes dynamic meanings primarily through (a) the -化 suffix for institutionalized change-of-state processes, (b) general-purpose change-of-state and causative verbs combined with truth-domain predicates, (c) resultative and directional complements on verification and revelation verbs, and (d) a small set of fixed expressions that lexicalize specific dynamic events (真相大白, 属实, 失真). The distribution is uneven across terms.
+
+---
+
+## SECTION 1 — 合法 (héfǎ) and 合法化 (héfǎhuà)
+
+### 1.1 X becomes legal / is legalized
+
+**Pattern:** [Activity/Status NP] + 合法化
+**Example:** 大麻合法化。
+**Transliteration:** Dàmá héfǎhuà.
+**English Translation:** Cannabis is legalized. / Cannabis becomes legal.
+**Notes:** The -化 suffix (documented in P2a D-17 and P4a Construction 4) is the primary and most natural encoding of the change-of-state meaning for 合法. The derived form 合法化 simultaneously names the process and its result. This is the most institutionalized dynamic expression in the corpus: a dedicated morphological form exists for this change.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 使 + [Activity/Status NP] + 合法化
+**Example:** 新法律使这种行为合法化。
+**Transliteration:** Xīn fǎlǜ shǐ zhè zhǒng xíngwéi héfǎhuà.
+**English Translation:** The new law legalizes this conduct. / The new law causes this conduct to become legal.
+**Notes:** The general-purpose causative 使 ("cause, make") combined with 合法化 encodes the causative meaning. This is the standard causative construction for legalization; 使 is more formal than 让 in this context.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 将 + [Activity/Status NP] + 合法化
+**Example:** 将非正式安排合法化
+**Transliteration:** jiāng fēi zhèngshì ānpái héfǎhuà
+**English Translation:** to legitimize informal arrangements / to make informal arrangements legal
+**Notes:** The disposal coverb 将 introduces the object before the verb-complement; this construction is documented in P2a (D-17) and is common in formal written registers.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.2 X becomes illegal / loses legal status
+
+**Pattern:** [Activity/Status NP] + 被取缔 / 被宣布为非法
+**Example:** 该组织被宣布为非法。
+**Transliteration:** Gāi zǔzhī bèi xuānbù wéi fēifǎ.
+**English Translation:** The organization was declared illegal.
+**Notes:** There is no *非法化 form in common usage (P2a does not document it). The change from legal to illegal status is expressed periphrastically: 被宣布为非法 ("declared illegal"), 被取缔 ("banned/outlawed"), or 丧失合法性 ("lose legitimacy"). The asymmetry between 合法化 (attested) and *非法化 (not attested) is a structural gap in the data.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.3 Stability: X remains legal
+
+**Pattern:** 保持合法 / 维持合法地位
+**Example:** 该机构保持合法地位。
+**Transliteration:** Gāi jīgòu bǎochí héfǎ dìwèi.
+**English Translation:** The institution maintains its legal status.
+**Notes:** The verb 保持 ("maintain, keep") combined with 合法地位 ("legal status") is the standard expression for stability of legal standing. Also attested: 维护合法权益 (P2b Construction 24.2), which expresses the active maintenance of lawful rights.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 2 — 客观 (kèguān) and 客观化 (kèguānhuà)
+
+### 2.1 X becomes objective / is rendered objective
+
+**Pattern:** 将 + [NP] + 客观化
+**Example:** 将主观感受客观化
+**Transliteration:** jiāng zhǔguān gǎnshòu kèguānhuà
+**English Translation:** to objectify subjective experience / to render subjective experience objective
+**Notes:** Documented in P2a (D-10) as attested in academic and methodological discourse. Rated [MARGINAL] in P2a and P4b; the form exists but is restricted in everyday usage.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### 2.2 X becomes subjective / loses objectivity
+
+**Pattern:** 变得主观 / 失去客观性
+**Example:** 报道变得越来越主观。
+**Transliteration:** Bàodào biàn de yuè lái yuè zhǔguān.
+**English Translation:** The reporting is becoming increasingly subjective.
+**Notes:** No *主观化 form is documented in the data. The change away from objectivity is expressed periphrastically: 变得主观 ("become subjective"), 失去客观性 ("lose objectivity"). The directional complement 越来越 ("increasingly") encodes gradual change.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.3 Y causes X to be objective
+
+**Pattern:** 使 + [NP] + 保持客观
+**Example:** 严格的编辑程序使报道保持客观。
+**Transliteration:** Yángé de biānjí chéngxù shǐ bàodào bǎochí kèguān.
+**English Translation:** Rigorous editorial procedures keep the reporting objective.
+**Notes:** The causative 使 combined with 保持客观 is the natural expression. No dedicated causative construction specific to 客观 is attested; the general-purpose causative frame applies.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.4 Stability: maintaining objectivity
+
+**Pattern:** 保持客观
+**Example:** 保持客观
+**Transliteration:** bǎochí kèguān
+**English Translation:** to maintain objectivity / to remain objective
+**Notes:** Documented in P2b (Construction 22.2) as a recurrent pattern in journalistic and scholarly discourse. 保持 ("maintain, keep") is the standard stability verb for 客观.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 3 — 真相 (zhēnxiàng): revelation and concealment as dynamic events
+
+### 3.1 The truth comes to light (spontaneous change of epistemic state)
+
+**Pattern:** 真相大白
+**Example:** 真相大白了。
+**Transliteration:** Zhēnxiàng dàbái le.
+**English Translation:** The truth has come to light. / The true facts are now fully revealed.
+**Notes:** Documented in P2b (Construction 8.4) and P5 (Opposition 20) as a fixed resultative construction. 大白 ("fully white/clear") is a resultative complement encoding the completion of the revelation process. The aspect marker 了 marks the change of state as achieved. This is the primary lexicalized expression for the spontaneous or achieved revelation of truth.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 真相逐渐浮出水面
+**Example:** 真相逐渐浮出水面。
+**Transliteration:** Zhēnxiàng zhújiàn fúchū shuǐmiàn.
+**English Translation:** The truth is gradually coming to the surface.
+**Notes:** The metaphorical construction 浮出水面 ("float to the surface") combined with 逐渐 ("gradually") encodes incremental revelation. Common in journalistic narrative. Not a fixed expression but a recurrent metaphorical pattern.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.2 Y causes the truth to be revealed
+
+**Pattern:** [Agent NP] + 揭露/查明/还原 + 真相
+**Example:** 记者揭露了真相。
+**Transliteration:** Jìzhě jiēlù le zhēnxiàng.
+**English Translation:** The journalist exposed the truth.
+**Notes:** Documented in P2b (Constructions 8.1, 8.2) and P4a (Construction 12). The reveal-verbs (揭露, 查明, 还原) are agentive causatives: the agent brings about the state of the truth being known. The perfective 了 marks the event as completed.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.3 Y causes the truth to be concealed
+
+**Pattern:** [Agent NP] + 掩盖/隐瞒 + 真相
+**Example:** 当局掩盖了真相。
+**Transliteration:** Dāngjú yǎngài le zhēnxiàng.
+**English Translation:** The authorities covered up the truth.
+**Notes:** Documented in P2b (Construction 8.3) and P4a (Construction 12). The conceal-verbs (掩盖, 隐瞒) are agentive causatives that bring about or maintain the state of the truth being unknown. The perfective 了 marks the concealment as an achieved event.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.4 Stability: the truth remains concealed
+
+**Pattern:** 真相被长期掩盖
+**Example:** 真相被长期掩盖。
+**Transliteration:** Zhēnxiàng bèi chángqī yǎngài.
+**English Translation:** The truth has been concealed for a long time.
+**Notes:** The passive construction 被 + 掩盖 combined with the duration adverbial 长期 ("for a long time") encodes the persistence of a concealed state. No dedicated stability expression for 真相 is attested; the general passive + duration pattern applies.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 4 — 真实 (zhēnshí): becoming and ceasing to be truthful
+
+### 4.1 X becomes truthful / more accurate
+
+**Pattern:** 内容变得更真实
+**Example:** 经过修改，报道内容变得更真实了。
+**Transliteration:** Jīngguò xiūgǎi, bàodào nèiróng biàn de gèng zhēnshí le.
+**English Translation:** After revision, the content of the report became more truthful.
+**Notes:** The change-of-state verb 变得 ("become") combined with the degree adverb 更 ("more") and 真实 encodes gradual improvement in accuracy. The aspect marker 了 marks the change as achieved. No dedicated morphological form (*真实化) is attested for this meaning.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.2 X becomes untruthful / distorted
+
+**Pattern:** 报道逐渐失真 / 内容变得不真实
+**Example:** 经过多次转述，报道逐渐失真。
+**Transliteration:** Jīngguò duō cì zhuǎnshù, bàodào zhújiàn shīzhēn.
+**English Translation:** After being retold multiple times, the report gradually became distorted.
+**Notes:** 失真 (P1 #21, P2b Construction 21.1) is the primary lexicalized expression for the process of losing fidelity or becoming distorted. The adverb 逐渐 ("gradually") encodes incremental change. 失真 itself encodes a change-of-state meaning through its morphological structure (失 "lose" + 真 "fidelity"), making it the closest thing in this corpus to a dedicated inchoative form for loss of truthfulness.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.3 Y causes X to be truthful
+
+**Pattern:** 保证 + [NP] + 真实
+**Example:** 编辑核查保证了内容真实。
+**Transliteration:** Biānjí héchá bǎozhèng le nèiróng zhēnshí.
+**English Translation:** Editorial fact-checking ensured the content was truthful.
+**Notes:** Documented in P2b (Construction 3.4) as a recurrent construction in legal and administrative contexts. 保证 ("guarantee, ensure") functions as a causative verb bringing about the state of truthfulness.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 使 + [NP] + 更加真实
+**Example:** 亲历者的证词使报道更加真实。
+**Transliteration:** Qīnlìzhě de zhèngcí shǐ bàodào gèng jiā zhēnshí.
+**English Translation:** The eyewitness testimony made the report more truthful.
+**Notes:** The general-purpose causative 使 combined with 更加真实 ("more truthful") encodes a causative increase in accuracy. No dedicated causative construction specific to 真实 is attested beyond this general pattern.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.4 Y causes X to become distorted
+
+**Pattern:** 导致 + [NP] + 失真
+**Example:** 反复转载导致信息失真。
+**Transliteration:** Fǎnfù zhuǎnzǎi dǎozhì xìnxī shīzhēn.
+**English Translation:** Repeated republication caused the information to become distorted.
+**Notes:** The causative verb 导致 ("lead to, cause") combined with 失真 is a recurrent construction in media criticism and information management discourse. 导致 is used for unintended or negative causation, which fits the typical framing of distortion as an undesirable outcome.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.5 Stability: maintaining truthfulness
+
+**Pattern:** 保持真实 / 确保内容真实
+**Example:** 确保报道内容真实
+**Transliteration:** quèbǎo bàodào nèiróng zhēnshí
+**English Translation:** to ensure the content of the report remains truthful
+**Notes:** The verbs 保持 ("maintain") and 确保 ("ensure") combined with 真实 encode the maintenance of a truthful state. Common in journalistic and regulatory discourse about standards of accuracy.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 5 — 失实 (shīshí): becoming inaccurate
+
+### 5.1 X is found to be inaccurate (result of verification)
+
+**Pattern:** 经查，[NP] + 失实
+**Example:** 经查，该报道内容失实。
+**Transliteration:** Jīng chá, gāi bàodào nèiróng shīshí.
+**English Translation:** Upon investigation, the content of the report was found to be inaccurate.
+**Notes:** Documented in P2b (Construction 30.3) and P4a (Construction 11) as a formulaic administrative outcome phrase. 失实 here encodes a state rather than a process; the dynamic element is the verification event (经查) that establishes the state.
+**Epistemic Status:** [CORE]
+
+---
+
+### 5.2 X becomes inaccurate over time
+
+**Pattern:** [NP] + 逐渐失实 / 部分失实
+**Example:** 随着情况变化，原有记录逐渐失实。
+**Transliteration:** Suízhe qíngkuàng biànhuà, yuányǒu jìlù zhújiàn shīshí.
+**English Translation:** As circumstances changed, the original records gradually became inaccurate.
+**Notes:** The adverb 逐渐 ("gradually") combined with 失实 encodes incremental loss of accuracy. Less common than the verification-result construction (5.1) but attested in administrative and historical evaluation contexts.
+**Epistemic Status:** [CORE]
+
+---
+
+### 5.3 Y causes X to be inaccurate
+
+**Pattern:** 导致 + [NP] + 失实
+**Example:** 信息来源不可靠导致报道失实。
+**Transliteration:** Xìnxī láiyuán bù kěkào dǎozhì bàodào shīshí.
+**English Translation:** Unreliable information sources caused the report to be inaccurate.
+**Notes:** The causative 导致 combined with 失实 is attested in media criticism and regulatory contexts. Parallel to the 导致 + 失真 construction in Section 4.4.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 6 — 正确 (zhèngquè) and 错误 (cuòwù): becoming correct or erroneous
+
+### 6.1 X is corrected (change from erroneous to correct)
+
+**Pattern:** 纠正 + 错误
+**Example:** 及时纠正了错误。
+**Transliteration:** Jíshí jiūzhèng le cuòwù.
+**English Translation:** The error was corrected in time.
+**Notes:** Documented in P2b (Construction 6.2) as one of the most common collocations of 错误. 纠正 ("correct, rectify") is an agentive causative verb that brings about the change from erroneous to correct state. The perfective 了 marks the correction as achieved.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** [NP] + 从错误走向正确
+**Example:** 纠正错误，走向正确
+**Transliteration:** jiūzhèng cuòwù, zǒuxiàng zhèngquè
+**English Translation:** to correct errors and move toward what is correct
+**Notes:** Documented in P2b (Construction 5.4) as a recurrent contrastive construction in self-criticism and political discourse. 走向 ("move toward") encodes directional change of state.
+**Epistemic Status:** [CORE]
+
+---
+
+### 6.2 X becomes erroneous / goes wrong
+
+**Pattern:** [NP] + 走上了错误的道路
+**Example:** 走上了错误的道路
+**Transliteration:** zǒushàng le cuòwù de dàolù
+**English Translation:** to have taken the wrong path / to have gone down an erroneous course
+**Notes:** The metaphorical construction 走上错误的道路 ("get onto the wrong path") encodes a change of state into an erroneous direction. Common in political and moral discourse. The perfective 了 marks the change as achieved.
+**Epistemic Status:** [CORE]
+
+---
+
+### 6.3 Y causes X to be correct
+
+**Pattern:** 使 + [NP] + 正确
+**Example:** 正确的方法使结论正确。
+**Transliteration:** Zhèngquè de fāngfǎ shǐ jiélùn zhèngquè.
+**English Translation:** The correct method makes the conclusion correct.
+**Notes:** The general-purpose causative 使 combined with 正确 as predicate is the standard causative construction. No dedicated causative form specific to 正确 is attested.
+**Epistemic Status:** [CORE]
+
+---
+
+### 6.4 Y causes X to be erroneous
+
+**Pattern:** 导致 + [NP] + 错误
+**Example:** 错误的前提导致错误的结论。
+**Transliteration:** Cuòwù de qiántí dǎozhì cuòwù de jiélùn.
+**English Translation:** Erroneous premises lead to erroneous conclusions.
+**Notes:** The causative 导致 combined with 错误 is a recurrent construction in logical and analytical discourse. 导致 is used for negative or unintended causation, consistent with the framing of error as an undesirable outcome.
+**Epistemic Status:** [CORE]
+
+---
+
+### 6.5 Stability: maintaining correctness
+
+**Pattern:** 坚持正确的方向
+**Example:** 坚持正确的方向
+**Transliteration:** jiānchí zhèngquè de fāngxiàng
+**English Translation:** to persist in the correct direction / to maintain the right course
+**Notes:** The verb 坚持 ("persist in, adhere to") combined with 正确的方向 is a recurrent construction in political and administrative discourse encoding the maintenance of a correct orientation against pressure to deviate.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 7 — 可靠 (kěkào) and 可信 (kěxìn): becoming reliable or credible
+
+### 7.1 X becomes more reliable
+
+**Pattern:** [NP] + 变得更可靠 / 可靠性提高
+**Example:** 随着技术改进，系统变得更可靠了。
+**Transliteration:** Suízhe jìshù gǎijìn, xìtǒng biàn de gèng kěkào le.
+**English Translation:** As the technology improved, the system became more reliable.
+**Notes:** The change-of-state verb 变得 combined with 更可靠 encodes improvement in reliability. The scalar nominalization 可靠性提高 ("reliability improves") is an alternative encoding treating reliability as a measurable property that increases.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 可靠性 + 提高/增强
+**Example:** 数据的可靠性得到了提高。
+**Transliteration:** Shùjù de kěkàoxìng dédào le tígāo.
+**English Translation:** The reliability of the data has been improved.
+**Notes:** The nominalization 可靠性 (P2a D-11) combined with the change-of-state verb 提高 ("improve, increase") or 增强 ("strengthen") encodes improvement in reliability as a scalar change. Common in technical and administrative evaluation.
+**Epistemic Status:** [CORE]
+
+---
+
+### 7.2 X becomes less reliable / loses credibility
+
+**Pattern:** 可信度 + 下降/降低
+**Example:** 政府的可信度不断下降。
+**Transliteration:** Zhèngfǔ de kěxìndù bùduàn xiàjiàng.
+**English Translation:** The government's credibility is continuously declining.
+**Notes:** The scalar nominalization 可信度 (P2a D-14) combined with the change-of-state verb 下降 ("decline, fall") or 降低 ("decrease") encodes loss of credibility as a scalar change. The adverb 不断 ("continuously") encodes ongoing change. This construction is particularly common in political and media discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 失去可信度 / 丧失可靠性
+**Example:** 该媒体逐渐失去了可信度。
+**Transliteration:** Gāi méitǐ zhújiàn shīqù le kěxìndù.
+**English Translation:** The media outlet gradually lost its credibility.
+**Notes:** The verb 失去 ("lose") combined with 可信度 or 可靠性 encodes the loss of these properties. 逐渐 encodes gradual change; 了 marks the change as achieved.
+**Epistemic Status:** [CORE]
+
+---
+
+### 7.3 Y causes X to be reliable / credible
+
+**Pattern:** 使 + [NP] + 更可靠/可信
+**Example:** 多方核实使报道更可信。
+**Transliteration:** Duō fāng héshí shǐ bàodào gèng kěxìn.
+**English Translation:** Multi-source verification made the report more credible.
+**Notes:** The general-purpose causative 使 combined with 更可信 or 更可靠 is the standard causative construction. No dedicated causative form specific to these terms is attested.
+**Epistemic Status:** [CORE]
+
+---
+
+**Pattern:** 提高 + 可信度/可靠性
+**Example:** 提高政府的可信度
+**Transliteration:** tígāo zhèngfǔ de kěxìndù
+**English Translation:** to improve the government's credibility
+**Notes:** Documented in P2a (D-14) as an attested construction. The verb 提高 ("improve, raise") functions as a causative that increases the scalar value of credibility. Common in political and institutional discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### 7.4 Stability: maintaining reliability
+
+**Pattern:** 保持可靠性 / 维持可信度
+**Example:** 长期保持较高的可信度
+**Transliteration:** chángqī bǎochí jiào gāo de kěxìndù
+**English Translation:** to maintain a relatively high level of credibility over the long term
+**Notes:** The verb 保持 combined with 可信度 or 可靠性 encodes the maintenance of these properties at a stable level. The duration adverbial 长期 encodes persistence over time.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 8 — 真诚 (zhēnchéng) and 虚伪 (xūwěi): becoming sincere or hypocritical
+
+### 8.1 X becomes sincere
+
+**Pattern:** 变得真诚 / 越来越真诚
+**Example:** 他的态度变得越来越真诚。
+**Transliteration:** Tā de tàidù biàn de yuè lái yuè zhēnchéng.
+**English Translation:** His attitude became increasingly sincere.
+**Notes:** The change-of-state verb 变得 combined with 越来越真诚 encodes gradual increase in sincerity. No dedicated morphological form for this change is attested.
+**Epistemic Status:** [CORE]
+
+---
+
+### 8.2 X is exposed as hypocritical (change of perceived state)
+
+**Pattern:** 撕下虚伪的面具
+**Example:** 撕下了他虚伪的面具
+**Transliteration:** sīxià le tā xūwěi de miànjù
+**English Translation:** tore off his hypocritical mask / exposed his hypocrisy
+**Notes:** Documented in P2b (Construction 13.2) as a recurrent metaphorical construction. The verb 撕下 ("tear off") combined with 虚伪的面具 ("hypocritical mask") encodes the dynamic event of exposing hypocrisy. The perfective 了 marks the event as achieved. This is the primary lexicalized dynamic expression for 虚伪.
+**Epistemic Status:** [CORE]
+
+---
+
+### 8.3 Y causes X to appear sincere (without necessarily being so)
+
+**Pattern:** 装出真诚的样子
+**Example:** 他装出一副真诚的样子。
+**Transliteration:** Tā zhuāng chū yī fù zhēnchéng de yàngzi.
+**English Translation:** He put on an appearance of sincerity.
+**Notes:** The verb 装 ("feign, pretend") combined with 真诚的样子 ("the appearance of sincerity") encodes the causation of a false appearance of sincerity. This construction is closely related to 装假 (P2b Construction 2.2) and 虚伪 in that it describes the performance of a truth-related state rather than its genuine instantiation.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 9 — 伪造 (wěizào) and 真伪 (zhēnwěi): fabrication as a dynamic event
+
+### 9.1 Y fabricates X (causative creation of a false artifact)
+
+**Pattern:** [Agent NP] + 伪造 + [Object NP]
+**Example:** 他伪造了文件。
+**Transliteration:** Tā wěizào le wénjiàn.
+**English Translation:** He forged the documents.
+**Notes:** Documented in P2b (Construction 16.1). 伪造 is itself a causative-creation verb: the agent brings into existence a false artifact. The perfective 了 marks the fabrication as completed.
+**Epistemic Status:** [CORE]
+
+---
+
+### 9.2 X is determined to be a forgery (change of epistemic state about X)
+
+**Pattern:** 经鉴定系伪造
+**Example:** 经鉴定，该文件系伪造。
+**Transliteration:** Jīng jiàndìng, gāi wénjiàn xì wěizào.
+**English Translation:** Upon authentication, the document was determined to be a forgery.
+**Notes:** Documented in P2b (Construction 16.3) and P4a (Construction 11). The verification frame 经鉴定 encodes the process; 系伪造 encodes the result. This is a change in the epistemic state of the evaluator, not a change in the object itself.
+**Epistemic Status:** [CORE]
+
+---
+
+### 9.3 X is authenticated as genuine (change of epistemic state about X)
+
+**Pattern:** 经鉴定为真品 / 鉴定真伪后确认为真
+**Example:** 经专家鉴定，该画作为真品。
+**Transliteration:** Jīng zhuānjiā jiàndìng, gāi huàzuò wéi zhēnpǐn.
+**English Translation:** Upon expert authentication, the painting was confirmed as genuine.
+**Notes:** The parallel positive outcome of the authentication process. 真品 ("genuine article") is the result predicate. This construction is the positive counterpart to 经鉴定系伪造 within the Verification Result Construction (P4a Construction 11).
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 10 — 名副其实 (míng fù qí shí): becoming worthy of a name
+
+### 10.1 X becomes genuinely worthy of its name
+
+**Pattern:** 逐渐成为名副其实的 + [N]
+**Example:** 该机构逐渐成为名副其实的研究中心。
+**Transliteration:** Gāi jīgòu zhújiàn chéngwéi míng fù qí shí de yánjiū zhōngxīn.
+**English Translation:** The institution gradually became a research center genuinely worthy of the name.
+**Notes:** The change-of-state verb 成为 ("become") combined with 名副其实的 + N encodes the process of coming to genuinely merit a title or designation. The adverb 逐渐 encodes gradual change.
+**Epistemic Status:** [CORE]
+
+---
+
+### 10.2 X ceases to be worthy of its name
+
+**Pattern:** 沦为名不副实的 + [N]
+**Example:** 该奖项沦为名不副实的荣誉。
+**Transliteration:** Gāi jiǎngxiàng lún wéi míng bù fù shí de róngyù.
+**English Translation:** The award has degenerated into an honor that no longer lives up to its name.
+**Notes:** The change-of-state verb 沦为 ("degenerate into, sink to the level of") combined with 名不副实的 + N encodes the process of losing genuine correspondence between name and reality. 沦为 carries a negative evaluative connotation of decline or degradation.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 11 — 实事求是 (shí shì qiú shì) and 求真务实 (qiú zhēn wù shí): adopting or abandoning a fact-based approach
+
+### 11.1 X adopts a fact-based approach
+
+**Pattern:** 坚持实事求是 / 做到求真务实
+**Example:** 坚持实事求是的工作作风
+**Transliteration:** jiānchí shí shì qiú shì de gōngzuò zuòfēng
+**English Translation:** to persist in a fact-based work style / to adhere to the principle of seeking truth from facts
+**Notes:** The verb 坚持 ("persist in, adhere to") combined with 实事求是 encodes the maintenance of a fact-based approach. 做到求真务实 ("achieve the state of being pragmatic and truth-seeking") encodes the achievement of this approach. Both are common in political and administrative discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### 11.2 X abandons a fact-based approach
+
+**Pattern:** 背离实事求是 / 脱离实际
+**Example:** 背离了实事求是的原则
+**Transliteration:** bèilí le shí shì qiú shì de yuánzé
+**English Translation:** to have deviated from the principle of seeking truth from facts
+**Notes:** The verb 背离 ("deviate from, depart from") combined with 实事求是 encodes the change away from a fact-based approach. 脱离实际 ("detach from reality") is a related expression encoding the same change in more colloquial terms.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 12 — 属实 (shǔshí) and 核实 (héshí): verification as a dynamic process
+
+### 12.1 X is verified as true (change of epistemic state)
+
+**Pattern:** 经查属实
+**Example:** 经查，情况属实。
+**Transliteration:** Jīng chá, qíngkuàng shǔshí.
+**English Translation:** Upon investigation, the situation was confirmed as accurate.
+**Notes:** Documented in P2b (Construction 15.1) and P4a (Construction 11). 属实 encodes the result state; 经查 encodes the process that brought about the epistemic change. This is a change in the evaluator's epistemic state, not a change in the facts themselves.
+**Epistemic Status:** [CORE]
+
+---
+
+### 12.2 Y verifies X (causative epistemic process)
+
+**Pattern:** [Agent NP] + 核实 + [NP]
+**Example:** 记者核实了这一信息。
+**Transliteration:** Jìzhě héshí le zhè yī xìnxī.
+**English Translation:** The journalist verified this information.
+**Notes:** Documented in P2b (Construction B-17). 核实 is an agentive process verb: the agent undertakes the verification process. The perfective 了 marks the process as completed. The result of successful 核实 is the state expressed by 属实.
+**Epistemic Status:** [CORE]
+
+---
+
+### 12.3 Verification fails / cannot be completed
+
+**Pattern:** 无法核实
+**Example:** 该信息目前无法核实。
+**Transliteration:** Gāi xìnxī mùqián wúfǎ héshí.
+**English Translation:** This information cannot currently be verified.
+**Notes:** Documented in P1b (B-17) as an attested construction. 无法 ("unable to, impossible to") combined with 核实 encodes the failure or impossibility of the verification process. This is a common formulation in journalistic and administrative contexts where verification is attempted but not achieved.
+**Epistemic Status:** [CORE]
+
+---
+
+## SECTION 13 — Summary of Dynamic Encoding Patterns
+
+The following observations are supported by the data documented in Sections 1–12.
+
+---
+
+**13.1 Dedicated morphological encoding of change of state**
+
+The suffix -化 provides dedicated morphological encoding of change-of-state meaning for 合法 (合法化, [CORE]) and marginally for 客观 (客观化, [MARGINAL]). No other truth-domain term in the corpus has a dedicated -化 form in common usage. The asymmetry is structural: -化 attaches productively to terms that name institutionally recognized states (legal status, objectivity as a methodological standard) but not to terms that name properties of individual claims or artifacts (真实, 准确, 可靠).
+
+---
+
+**13.2 Lexicalized change-of-state expressions**
+
+Several fixed expressions lexicalize specific dynamic events:
+- 真相大白 — the achieved revelation of truth (spontaneous or caused)
+- 失真 — the process/state of losing fidelity (morphologically encodes change via 失 "lose")
+- 撕下虚伪的面具 — the event of exposing hypocrisy
+- 经查属实 / 经鉴定系伪造 — the result of a verification or authentication process
+
+These are not productive patterns but fixed constructions that encode specific dynamic events in the truth domain.
+
+---
+
+**13.3 General-purpose change-of-state verbs**
+
+For terms without dedicated morphological or lexicalized dynamic forms, change of state is expressed through general-purpose verbs:
+- 变得 ("become") + [truth-domain adjective]: used for 真实, 真诚, 可靠, 客观
+- 成为 ("become") + [truth-domain NP]: used for 名副其实的 + N
+- 沦为 ("degenerate into") + [truth-domain NP]: used for 名不副实的 + N (negative change)
+- 失去 ("lose") + [truth-domain nominalization]: used for 可信度, 可靠性
+- 提高 / 下降 ("improve / decline") + [scalar nominalization]: used for 可信度, 可靠性, 准确性
+
+---
+
+**13.4 General-purpose causative verbs**
+
+Causative meanings are expressed through general-purpose causative verbs:
+- 使 ("cause, make") + [NP] + [truth-domain predicate]: used across the corpus for 合法化, 真实, 正确, 可靠, 可信, 客观
+- 导致 ("lead to, cause") + [NP] + [truth-domain predicate]: used specifically for negative causation — 失真, 失实, 错误; not attested with positive truth-domain predicates
+- 保证 / 确保 ("guarantee / ensure") + [NP] + [truth-domain predicate]: used for 真实, 准确; encodes causation of a stable positive state
+
+The distribution of 导致 (negative causation only) vs. 使/保证/确保 (positive or neutral causation) is supported by the data and reflects a consistent asymmetry in how Chinese encodes the causation of truth-related states.
+
+---
+
+**13.5 Stability expressions**
+
+Stability of truth-related states is expressed through:
+- 保持 ("maintain") + [truth-domain adjective or nominalization]: used for 客观, 可信度, 可靠性, 真实
+- 坚持 ("persist in, adhere to") + [truth-domain expression]: used for 正确的方向, 实事求是
+- 维护 ("protect, uphold") + [truth-domain NP]: used for 合法权益, 公正
+
+No dedicated stability morphology exists; stability is encoded lexically through these verbs.
+
+---
+
+**13.6 Asymmetries**
+
+Three asymmetries in dynamic encoding are supported by the data:
+
+(a) **合法化 exists; *非法化 does not.** The change into legal status has a dedicated morphological form; the change into illegal status does not and is expressed periphrastically.
+
+(b) **导致 encodes negative causation only.** In the attested data, 导致 combines with 失真, 失实, and 错误 but not with 真实, 准确, or 正确. Positive causation uses 使, 保证, or 确保.
+
+(c) **Agentive -者 forms exist for deception roles but not for truth-telling roles** (documented in P4b and P5 Opposition 22). This asymmetry extends to dynamic encoding: the agent who brings about a false state (伪造者) is lexicalized; the agent who brings about or maintains a true state is not lexicalized in parallel form.
+
+---
+
+*End of P6 Change, Causation, and Stability*

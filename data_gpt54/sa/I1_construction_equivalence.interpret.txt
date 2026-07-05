@@ -1,0 +1,141 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | Predicative neuter adjective/noun, with overt or understood copula: **X (nom.) + satyam / yathārtham / yuktam / ucitam / pramāṇam bhavati / asti** | **सत्यम् एतत्**; **युक्तं भवति** | Direct match to attribution | None |
+| ADNOM | Agreeing adjective + noun: **truth/correctness adjective + noun** | **तथ्यं वचनम्**; **प्रमाणिकः ग्रन्थः** | Direct match to adnominal modification | None |
+| BECOME | Inchoative/resultative with light verbs: **abstract truth noun + gacchati**; **X + bhavati / jāyate** with validity/cognition nouns | **सत्यतां गच्छति**; **प्रमा जायते** | Direct match, but not with a single dedicated operator; light verbs carry the inchoative meaning | Partial morphosyntactic specialization only |
+| REVELATION | No construction listed in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| CAUSATION (factual) | No common productive basic construction; only lexicalized/technical formations in **pramāṇa** family | **प्रमाणीकृतम्**; **प्रमाणीकरणम्** | **NO COMMON EXPRESSION - circumlocution required**; technical validation forms partly overlap with verification/validation meanings | Morphosyntactic gap; lexicalized substitutes exist |
+| CAUSATION (character) | No construction listed in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| VERIFICATION | Evidential/instrumental grounding; also lexicalized validation forms | **प्रमाणेन सिद्धम्**; **प्रमाणीकृतम्**; **प्रमाणीकरणम्** | Expressed through proof/validation rather than a dedicated “verify” construction | Partial availability via evidential and lexicalized forms |
+| DISCONFIRMATION | No dedicated construction listed; negative evaluation available instead | — | **SUBSTITUTED BY NEGATION** | Morphosyntactic gap |
+| NEGATION | Analytic negation with **na / nāsti**; also lexical negative stems **a- / an-** used predicatively | **प्रमाणं नास्ति**; **न युक्तम्** | Direct match; both analytic and morphological negation are attested | None |
+| NOMINALIZATION | Abstract nominalization with **-tā / -tva / family forms**; agentive nominalization with **-vādin / -vādī / -bhāṣin**; evaluative genitive + abstract noun | **सत्यता**; **यथार्थता**; **सत्यवादिन्**; **असत्यवादिन्**; **वाक्यस्य सत्यता**; **ज्ञानस्य प्रामाण्यम्** | Direct match to nominalization domain | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Sanskrit shows clear direct constructions for attribution, adnominal modification, negation, and nominalization. These are the most stable parts of the truth-domain inventory in the supplied material.
+
+For **BECOME**, the language does not use one dedicated inchoative marker. Instead, the operator is distributed across light verbs and semantically compatible predicates:
+- **सत्यतां गच्छति**
+- **प्रमा जायते**
+- also noted in P4a: **bhavati / jāyate / gacchati**
+
+So the “become” meaning is available, but it is carried by general verbs such as **gacchati**, **bhavati**, and **jāyate**, not by a single specialized truth-domain construction.
+
+For **REVELATION**, no construction is provided in P4a or P4b. On the supplied evidence, there is no attested revelation operator here, and there is no basis for saying that revelation replaces becoming. Therefore:
+- REVELATION: **MISSING (structural gap)**
+- REVELATION does **not** demonstrably substitute for BECOME in the provided data.
+
+For **CAUSATION (factual)**, P4a explicitly states that “no single common productive causative pattern meaning ‘make true’ or ‘make valid’ emerges.” Instead, Sanskrit uses lexicalized or technical forms in the **pramāṇa** family:
+- **प्रमाणीकृतम्**
+- **प्रमाणीकरणम्**
+
+These behave more like technical “validated/authenticated” expressions than a broad productive causative operator. So factual causation is not absent lexically, but it lacks a common general construction.
+
+For **CAUSATION (character)**, nothing in P4a/P4b gives a construction meaning “make someone truthful / make someone a liar” or similar. Agentive nouns exist:
+- **सत्यवादिन्**
+- **असत्यवादिन्**
+but these are nominal character labels, not causative constructions. So this category is structurally missing in the supplied material.
+
+For **VERIFICATION**, Sanskrit uses evidential and validation-oriented expressions rather than a dedicated verification operator:
+- **प्रमाणेन सिद्धम्** “established by valid proof”
+- technical/lexicalized **प्रमाणीकृतम्**, **प्रमाणीकरणम्**
+
+Thus verification is functionally present, but mainly through proof/grounds and technical validation vocabulary.
+
+For **DISCONFIRMATION**, no dedicated construction is listed. The available negative patterns are:
+- **प्रमाणं नास्ति**
+- **न युक्तम्**
+and lexical negatives such as **asatya, ayathārtha, apramāṇika**
+
+These negate truth, proof, or propriety, but they do not constitute a separately identified disconfirmation construction in the supplied data. So disconfirmation is expressed by negative attribution or absence of proof rather than by a distinct operator.
+
+On **NEGATION**, the language uses both:
+- **analytic negation**: **na / nāsti**
+- **morphological negation**: **a- / an-** stems
+
+The notes explicitly say analytic negation is usual, while lexical negatives are also common. So negation is not a gap; it is available in two formats, with analytic negation primary in the examples.
+
+On whether **VERIFICATION and DISCONFIRMATION share the same construction**: the data do not show a shared dedicated construction. Verification is expressed through proof/validation forms such as **प्रमाणेन सिद्धम्**, while disconfirmation is not separately attested and is instead replaced by negation or absence-of-proof expressions.
+
+There is also a positive/negative asymmetry:
+- positive truth, validity, and attribution are richly represented;
+- negative attribution is also well represented;
+- but dedicated disconfirmation and causative operators are not.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION** — **MISSING (structural gap)**
+- **CAUSATION (character)** — **MISSING (structural gap)**
+- **DISCONFIRMATION** — no dedicated construction attested; **SUBSTITUTED BY NEGATION**
+- **CAUSATION (factual)** — no common productive construction; **NO COMMON EXPRESSION - circumlocution required**
+
+### Lexical Gaps
+- No lexical gap for basic truth attribution:
+  - **सत्यम् एतत्**
+  - **युक्तं भवति**
+- No lexical gap for negative attribution:
+  - **प्रमाणं नास्ति**
+  - **न युक्तम्**
+- No lexical gap for abstract truth/validity nouns:
+  - **सत्यता**
+  - **यथार्थता**
+  - **प्रामाण्यम्**
+- No lexical gap for truth/falsity character labels:
+  - **सत्यवादिन्**
+  - **असत्यवादिन्**
+
+The main issue is not missing words, but missing or weakly developed construction types for some operators.
+
+### Conceptual Gaps
+No conceptual gap is explicitly evidenced in P4a/P4b. The data show that truth, validity, proof, propriety, and falsehood are all expressible. The gaps are constructional rather than conceptual.
+
+### Asymmetric Gaps
+- **Positive vs. negative asymmetry**:
+  - Positive attribution and negative attribution are both available.
+  - Verification has partial expression through proof/validation.
+  - Disconfirmation lacks a dedicated construction and is replaced by negation.
+- **Truth vs. character causation asymmetry**:
+  - Character labels exist (**सत्यवादिन्**, **असत्यवादिन्**).
+  - Character-changing causation is not attested.
+- **BECOME vs. REVELATION asymmetry**:
+  - BECOME is available through light-verb constructions.
+  - REVELATION is unattested.
+
+### Normalization of multi-word expressions
+- **सत्यम् एतत्**: predicative adjective/noun construction; neuter predicate functioning attributively.
+- **युक्तं भवति**: predicate adjective + light/copular verb **bhavati**.
+- **सत्यतां गच्छति**: abstract noun + light verb **gacchati**; the light verb carries inchoative/resultative force.
+- **प्रमा जायते**: noun + light verb **jāyate**; the verb carries arising/becoming force.
+- **प्रमाणेन सिद्धम्**: instrumental noun marking means/grounds + result predicate; functions as verification/evidential support.
+- **वाक्यस्य सत्यता**, **ज्ञानस्य प्रामाण्यम्**: genitive + abstract noun; nominal evaluative construction.
+- **मिथ्या वदति**: adverbial falsity form + speech verb.
+- **सत्यं वद**: object-like neuter complement + speech verb.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **VERIFICATION** — available through evidential/grounds constructions and lexicalized validation forms:
+  - **प्रमाणेन सिद्धम्**
+  - **प्रमाणीकृतम्**
+  - **प्रमाणीकरणम्**
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION**
+
+### Partially available
+- **BECOME** — available through light-verb constructions, but without a single dedicated truth-domain inchoative pattern:
+  - **सत्यतां गच्छति**
+  - **प्रमा जायते**
+- **CAUSATION (factual)** — only lexicalized/technical expressions; **NO COMMON EXPRESSION - circumlocution required**
+
+### Missing entirely
+- **REVELATION**
+- **CAUSATION (character)**

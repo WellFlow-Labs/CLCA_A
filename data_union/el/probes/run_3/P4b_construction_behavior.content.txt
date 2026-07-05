@@ -1,0 +1,48 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Greek (el)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** — copular predication with truth-domain adjective | Αυτή η δήλωση είναι αληθής. | *Aftí i dílosi íne alithís.* | "This statement is true." | [CORE] | Standard copular pattern, universal across registers; αληθής and ψευδής are formal/written variants; colloquial speech favors σωστός and ψεύτικος in the same slot. |
+| **1. ATTRIBUTION** — copular predication with truth-domain adjective | Η κατάθεσή του ήταν ψευδής. | *I katáthesí tu ítan psevdís.* | "His testimony was false." | [CORE] | Formal and legal register; ψευδής in this collocation (ψευδής κατάθεση) is a fixed legal term. |
+| **2. NEGATIVE ATTRIBUTION** — sentential negation | Αυτό δεν είναι αληθινό. | *Aftó den íne alithinó.* | "This is not real/true." | [CORE] | Register-neutral; δεν είναι is the universal negation strategy applicable across all registers and adjective types. |
+| **2. NEGATIVE ATTRIBUTION** — privative-prefixed adjective | Η πηγή αποδείχθηκε αναξιόπιστη. | *I pigí apodíchthike anaksiópistos.* | "The source proved unreliable." | [CORE] | Formal register tendency; privative prefix (αν-/α-) is productive across most core items; not always interchangeable with sentential negation (e.g., άκυρος is the standard legal term, not δεν είναι έγκυρος). |
+| **3. ADNOMINAL MODIFICATION** — prenominal attributive | αληθινή ιστορία | *alithiní istoría* | "a true story" | [CORE] | Default attributive position; adjective precedes head noun and agrees in gender, number, and case; many collocations are conventionalized (γνήσιο αντίγραφο, ψευδής κατάθεση, έγκυρη ψήφος). |
+| **3. ADNOMINAL MODIFICATION** — prenominal attributive | πλαστό διαβατήριο | *plastó diavatírio* | "a forged passport" | [CORE] | Fixed collocation with specific legal meaning; more frequent as a conventionalized phrase than as free attributive modification. |
+| **3. ADNOMINAL MODIFICATION** — postnominal attributive | *(marked variant, no additional example attested beyond P4a note)* | — | — | [MARGINAL] | Post-nominal position is grammatical but marked for emphasis or literary register; not attested with a distinct example in the corpus. |
+| **4. BECOME / INCHOATIVE** — αποδεικνύεται | Ο ισχυρισμός αποδείχθηκε ψευδής. | *O ischirismós apodíchthike psevdís.* | "The claim proved to be false." | [CORE] | Most semantically specific inchoative in this domain; implies evidence has established the new truth-value; frequent in legal, journalistic, and scientific contexts. |
+| **4. BECOME / INCHOATIVE** — αποκαλύπτεται | Η υπογραφή αποκαλύφθηκε ως πλαστή. | *I ipogrfí apokalífthike os plastí.* | "The signature was revealed to be forged." | [CORE] | Adds a disclosure component absent from αποδεικνύεται; implies an agent or process of revelation; formal and journalistic registers. |
+| **5. CAUSATIVE** — επαληθεύω | Η έρευνα επαλήθευσε τους ισχυρισμούς. | *I érevna epalíthefse tus ischirismús.* | "The investigation verified the claims." | [CORE] | Dedicated lexical causative; causes something to be established as true; formal, investigative, and scientific contexts. No productive morphological causative exists in this domain. |
+| **5. CAUSATIVE** — διαψεύδω | Η κυβέρνηση διέψευσε τις φήμες. | *I kivérnisi diépsfefse tis fímes.* | "The government refuted the rumors." | [CORE] | Dedicated lexical causative; causes something to be established as false; journalistic and official register; distinct from επαληθεύω in directionality. |
+| **6. ABSTRACT NOMINALIZATION** — -ότητα suffix | Αμφισβητήθηκε η εγκυρότητα της σύμβασης. | *Amfisviтíthike i engirotita tis símvasis.* | "The validity of the contract was disputed." | [CORE] | Most productive suffix for quality nouns from adjectives in this domain; formal and legal registers; well-attested across the corpus. |
+| **6. ABSTRACT NOMINALIZATION** — -ση suffix (verbal noun) | Η επαλήθευση των στοιχείων διήρκεσε μέρες. | *I epalíthefsi ton stoichíon diírkese méres.* | "The verification of the data took days." | [CORE] | Denotes act or process rather than abstract quality; formal and procedural contexts; distinct in meaning from -ότητα nominalizations. |
+| **7. AGENTIVE NOMINALIZATION** — ψεύτης | Ο ψεύτης αρνήθηκε τα πάντα. | *O psévtis arníthike ta pánda.* | "The liar denied everything." | [CORE] | Primary agentive nominalization in the truth domain; standard everyday word for "liar"; register-neutral. No parallel agentive noun for "truth-teller" is attested; that concept is expressed periphrastically. |
+| **7. AGENTIVE NOMINALIZATION** — πλαστογράφος | Ο πλαστογράφος συνελήφθη. | *O plastográfos sinelífthи.* | "The forger was arrested." | [CORE] | Standard legal term for document forger; formal and legal register; compound form (-γράφος) restricted to the forgery subdomain. |
+| **8. EPISTEMIC HEDGE** — δήθεν/τάχα particle | Ο δήθεν ειδικός δεν είχε καμία σχετική εκπαίδευση. | *O díthеn eidikós den íche kamía schetikí ekpédefsi.* | "The so-called expert had no relevant training." | [CORE] | Speaker signals ironic or skeptical distance; implies the attributed status is believed to be false; productive across registers; scopes over following NP or clause. |
+| **8. EPISTEMIC HEDGE** — φερόμενος ως participial | Ο φερόμενος ως ιδιοκτήτης αρνήθηκε να δώσει στοιχεία. | *O ferómenos os idioktítis arníthike na dósi stoichía.* | "The purported owner refused to provide information." | [CORE] | Neutral hedging function (unconfirmed, not necessarily false); formal legal and journalistic registers; pragmatically distinct from δήθεν/τάχα, which carry ironic force. |
+| **9. DISCOURSE-FRAMING** — η αλήθεια είναι ότι | Η αλήθεια είναι ότι δεν ήταν έτοιμοι. | *I alíthia íne óti den ítan étimi.* | "The truth is that they were not ready." | [CORE] | Fixed discourse frame; introduces a frank or corrective proposition; extremely frequent in everyday speech; functions as pragmatic framing device, not a truth predication. |
+| **9. DISCOURSE-FRAMING** — για να λέμε την αλήθεια | Για να λέμε την αλήθεια, η κατάσταση είναι σοβαρή. | *Ya na léme tin alíthia, i katástasi íne sovará.* | "To tell the truth, the situation is serious." | [CORE] | Signals candor; frequently precedes unwelcome or qualifying statements; fixed in form; sentence-initial position; extremely frequent in everyday speech. |
+
+---
+
+## Alternate Constructions (Attested)
+
+| Construction Type | Alternate Form | Notes |
+|---|---|---|
+| **1. ATTRIBUTION** | Colloquial: [Subject NP] + είναι + σωστός / ψεύτικος | Attested in P4a notes as the colloquial equivalent of αληθής/ψευδής in predicative position; register-restricted (everyday speech). |
+| **2. NEGATIVE ATTRIBUTION** | δεν είναι έγκυρος as grammatical alternate to άκυρος | Attested in P4a notes as grammatical but non-standard; άκυρος is the preferred legal term. |
+| **4. BECOME / INCHOATIVE** | γίνεται as general inchoative | Attested in P4a as a less domain-specific alternate to αποδεικνύεται and αποκαλύπτεται; no distinct corpus example provided. |
+| **7. AGENTIVE NOMINALIZATION** | Periphrastic: αυτός που λέει την αλήθεια | Attested in P4a notes as the only available expression for "truth-teller"; no lexicalized agentive noun is attested for this concept. |
+| **8. EPISTEMIC HEDGE** | τάχα as alternate to δήθεν | Attested in P4a as a co-listed particle with the same pragmatic function; no distinct corpus example provided beyond the pattern description. |
+
+---
+
+## Summary Observations
+
+- All nine construction types identified in P4a receive a **[CORE]** naturalness rating based on the attested data. No construction in the P4a output is rated [MARGINAL] or [UNCERTAIN] at the construction-type level, though the **postnominal attributive** variant within Construction 3 is rated [MARGINAL] as a sub-pattern, consistent with the P4a note that it is marked and restricted.
+- The absence of a lexicalized agentive noun for "truth-teller" (Construction 7) is a notable asymmetry in the domain, attested explicitly in P4a and preserved here without inference.
+- The pragmatic distinction between δήθεν/τάχα (speaker believes claim is false) and φερόμενος ως (claim is unconfirmed) within Construction 8 is the only case where two sub-patterns within a single construction type carry observably different epistemic force.

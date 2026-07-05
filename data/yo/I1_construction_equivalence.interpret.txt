@@ -1,0 +1,158 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Yoruba (yo)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | **X jẹ́ Y** (copular)<br>**Y ni X** (focus copular) | **Ọ̀rọ̀ yìí jẹ́ òtítọ́** 'This statement is true'<br>**Òtítọ́ ni ọ̀rọ̀ rẹ̀** 'His/her word is truth' | Two distinct constructions: neutral (**jẹ́**) vs. emphatic (**ni**) | — |
+| **ADNOM** | **N + ADJ**<br>**N + tí + CLAUSE** | **Ọ̀rọ̀ tọ́** 'True statement'<br>**Ẹni tí ó ń pa irọ́** 'One who tells lies' | Standard adnominal modification | — |
+| **BECOME** | **di Y** | **Ó di òtítọ́** 'It became true / It turned out to be true' | Functions for both change-of-state and epistemic realization | — |
+| **REVELATION** | **sọ...jáde** (serial verb)<br>**jẹ́ kí...hàn** (causative + 'show') | **Ó sọ òtítọ́ jáde** 'He/She revealed the truth'<br>**Jẹ́ kí òtítọ́ hàn** 'Let the truth be revealed' | Serial verb construction and causative-permissive with 'show' | — |
+| **CAUSATION (factual)** | **mú X V** | **Ó mú mi gbàgbọ́** 'He/She made me believe' | Direct causative with **mú** 'make/cause' | — |
+| **CAUSATION (character)** | **MISSING** | — | **MISSING (structural gap)** - No dedicated construction for 'make X truthful/honest' | Structural gap |
+| **VERIFICATION** | **Polar questions**<br>**ṣé + CLAUSE?**<br>**...bí?** | **Ṣé ó tọ́?** 'Is it correct/true?'<br>**Ó gbàgbọ́ bí?** 'Does he/she believe?' | Interrogative constructions serve verification function | — |
+| **DISCONFIRMATION** | **kì í ṣe Y** (negative copula)<br>**X kọ́** (negative focus) | **Ọ̀rọ̀ yìí kì í ṣe òtítọ́** 'This statement is not true'<br>**Irọ́ kọ́** 'It's not a lie' | Negative attribution constructions | — |
+| **NEGATION** | **kì í ṣe** (copular)<br>**kò** (verbal)<br>**kọ́** (focus)<br>**má** (prohibitive) | **Kò tọ́** 'It is not correct'<br>**Kò yẹ kí o purọ́** 'You should not lie'<br>**Má purọ́!** 'Don't lie!' | Multiple analytic negation strategies by construction type | — |
+| **NOMINALIZATION** | **ì- + VERB** (abstract)<br>**VERB-VERB** (gerundive)<br>**oní- + N** (agentive)<br>**a- + VERB** (agentive) | **Ìgbàgbọ́** 'belief'<br>**Pípa irọ́** 'lying'<br>**Olótítọ́** 'truthful person'<br>**Apurọ́** 'liar' | Multiple nominalization strategies: abstract state, gerundive process, and agentive | — |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### BECOME vs. REVELATION
+The verb **di** 'become' serves dual functions:
+1. **Change-of-state**: A proposition becomes true (ontological change)
+2. **Epistemic realization**: Something turns out to be true (discovery/verification)
+
+The language does NOT substitute REVELATION for BECOME. Instead, REVELATION is expressed through:
+- Serial verb construction **sọ...jáde** 'tell...come.out' (literally 'speak-exit')
+- Causative-permissive **jẹ́ kí...hàn** 'let...show'
+
+These are distinct from **di**, which focuses on the state change itself rather than the act of making something known.
+
+### VERIFICATION Patterns
+VERIFICATION is not expressed through a dedicated construction but through:
+- **Polar questions** (§10): **Ṣé ó tọ́?** 'Is it true?'
+- **Content questions** (§11): **Kí ni òtítọ́?** 'What is truth?'
+- **Conditional constructions** (§22): **Bí ó bá tọ́...** 'If it is true...'
+
+The language treats verification as an interrogative or conditional operation rather than as a distinct semantic operator.
+
+### DISCONFIRMATION = NEGATIVE ATTRIBUTION
+DISCONFIRMATION is fully expressed through negative attribution constructions:
+- **Kì í ṣe** (emphatic negative copula)
+- **Kọ́** (negative focus marker)
+- **Kò** (standard verbal negation)
+
+There is NO separate construction for disconfirmation; it uses the same structures as general negation applied to truth predicates.
+
+### CAUSATION Asymmetry
+**CAUSATION (factual)** is robustly expressed through **mú X V** 'make X VERB':
+- **Ó mú mi gbàgbọ́** 'He/She made me believe'
+- **Ó mú mi mọ̀** 'He/She made me know'
+
+**CAUSATION (character)** has NO dedicated construction. To express 'make someone truthful/honest', the language requires circumlocution:
+- **NO COMMON EXPRESSION** - Would require periphrastic constructions like **mú X di olótítọ́** 'make X become truthful.person' or **kọ́ X ní ìwà òtítọ́** 'teach X in character truthful'
+
+This represents a **structural gap**: the language readily causativizes epistemic states (belief, knowledge) but not character traits.
+
+### NEGATION: Analytic Strategies
+Yoruba employs **analytic negation** with distinct markers by construction type:
+- **Kò** for verbal predicates: **Kò tọ́** 'It is not correct'
+- **Kì í ṣe** for emphatic copular negation: **Kì í ṣe òtítọ́** 'It is not truth'
+- **Kọ́** for negative focus: **Irọ́ kọ́** 'It's not a lie'
+- **Má** for prohibitives: **Má purọ́** 'Don't lie'
+- **Kò sí** for negative existentials: **Kò sí irọ́** 'There is no lie'
+
+No morphological (bound) negation exists in the truth domain.
+
+### Truth vs. Falsity Asymmetry
+The language shows lexical richness for both truth and falsity:
+- **Truth**: **òtítọ́** (noun), **tọ́** (verb), **olótítọ́** (agent)
+- **Falsity**: **irọ́** (noun), **purọ́** (verb), **apurọ́** (agent)
+
+However, there is an **asymmetry in moral evaluation**:
+- Lying has a dedicated verb: **purọ́** 'to lie'
+- Truth-telling requires a phrase: **sọ òtítọ́** 'tell truth' (no single verb *'to truth')
+
+This suggests that deception is conceptualized as a unitary action, while truth-telling is compositional.
+
+### Focus Construction Preference
+The **ni** focus construction (§21) is heavily preferred for:
+- Emphatic assertions: **Òtítọ́ ni** 'It IS truth'
+- Contrastive denials: **Irọ́ kọ́** 'It's NOT a lie'
+- Character attribution: **Olótítọ́ ni baba mi** 'My father IS a truthful person'
+
+This suggests that truth-domain discourse in Yoruba is inherently **contrastive and emphatic**, favoring focus constructions over neutral predication.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **CAUSATION (character)**: No construction for 'make X truthful/honest'
+   - The language can causativize epistemic states (**mú X gbàgbọ́** 'make X believe') but not character traits
+   - Requires circumlocution with **di** 'become' or teaching/training verbs
+
+### Lexical Gaps
+1. **Single-word verb for 'tell the truth'**: 
+   - Must use phrase **sọ òtítọ́** 'tell truth'
+   - Contrast with **purọ́** 'lie' (single verb)
+
+### Conceptual Gaps
+**NONE IDENTIFIED**. All truth-domain concepts appear expressible, though some require multi-word constructions.
+
+### Asymmetric Gaps
+1. **Truth-telling vs. Lying**:
+   - Lying: **purọ́** (single verb)
+   - Truth-telling: **sọ òtítọ́** (verb + object phrase)
+   
+2. **Causation of states vs. traits**:
+   - Epistemic causation: **mú X gbàgbọ́** 'make X believe' ✓
+   - Character causation: **NO COMMON EXPRESSION** ✗
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Two constructions (**jẹ́** neutral, **ni** emphatic)
+- **ADNOM**: Direct N+ADJ and relative clauses with **tí**
+- **BECOME**: **di** for change-of-state and epistemic realization
+- **REVELATION**: Serial verb **sọ...jáde** and causative **jẹ́ kí...hàn**
+- **CAUSATION (factual)**: **mú X V** for causing epistemic states
+- **NEGATION**: Multiple analytic strategies (**kò**, **kì í ṣe**, **kọ́**, **má**)
+- **NOMINALIZATION**: Multiple productive strategies (abstract **ì-**, gerundive reduplication, agentive **oní-**/**a-**)
+
+### Available with Substitution
+- **VERIFICATION**: Expressed through interrogative constructions (§10, §11)
+  - No dedicated verification operator; uses polar/content questions
+- **DISCONFIRMATION**: Expressed through negative attribution (§2)
+  - No separate construction; uses general negation on truth predicates
+
+### Partially Available
+**NONE**
+
+### Missing Entirely
+- **CAUSATION (character)**: No construction for 'make X truthful/honest'
+  - Structural gap requiring circumlocution
+  - Cannot directly causativize character traits in truth domain
+
+---
+
+## Summary Statement
+
+Yoruba provides robust constructional support for truth-domain operations with the following characteristics:
+
+1. **Dual copular system**: Neutral **jẹ́** vs. emphatic **ni** for attribution
+2. **Analytic negation**: Multiple context-sensitive negation markers
+3. **Productive nominalization**: Four distinct strategies for creating truth-domain nominals
+4. **Verification through interrogation**: No dedicated verification operator; uses questions
+5. **Revelation as serial verb**: Conceptualized as 'speak-exit' or 'let-show'
+6. **Causation asymmetry**: Can causativize epistemic states but not character traits
+7. **Lexical asymmetry**: Single verb for lying (**purọ́**) but phrasal expression for truth-telling (**sọ òtítọ́**)
+
+The primary **structural gap** is the inability to directly causativize character traits (making someone truthful/honest), requiring periphrastic constructions with 'become' or 'teach'.

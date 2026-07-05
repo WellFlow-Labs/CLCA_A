@@ -1,0 +1,82 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Finnish (fi)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + *olla* + truth-domain adjective (predicative nominative) [P4a §1]; *olla* + *oikeassa* / *väärässä* (inessive fixed predication) [P4a §10] | *Se on tosi.* / *Väite on epätosi.* / *Olit oikeassa.* / *Olen väärässä.* | No substitution required. Two distinct sub-patterns: propositional attribution (§1) and personal epistemic attribution (§10). The §10 pattern is lexicalized and does not extend productively to other adjectives. | None |
+| **ADNOM** | Attributive adjective preceding noun, agreeing in case and number [P4a §3] | *virheellinen tieto* / *luotettava lähde* | No substitution required. All P1 adjectives occur productively in this position with obligatory case and number agreement throughout the paradigm. | None |
+| **BECOME** | *osoittautua* + translative of adjective [P4a §4a]; *todentua* (intransitive, restricted) [P4a §4b] | *Väite osoittautui vääräksi.* / *Ennuste todentui.* | *osoittautua* + translative is the primary construction. *todentua* is a restricted alternate (subjects limited to predictions, expectations, hypotheses). No single inchoative copula equivalent to English "become" is attested. | None for the functional category overall; *todentua* is subject-restricted (noted in P4b as [MARGINAL]). |
+| **REVELATION** | *paljastua* + translative or bare [P4a §4, Alternate Constructions in P4b] | Not exemplified with a full sentence in P4a/P4b; listed as alternate to *osoittautua* | **SUBSTITUTED BY BECOME** in part: *paljastua* is attested as an alternate inchoative specifically for revelation of hidden truth, but is not interchangeable with *osoittautua* in all contexts. No dedicated REVELATION construction independent of the BECOME slot is documented. | Partial: REVELATION is not a fully independent operator; it is expressed through the same translative-complement construction as BECOME, with a different matrix verb (*paljastua* vs. *osoittautua*). No full-sentence example is provided in P4a/P4b. |
+| **CAUSATION (factual)** | Morphological causative verbs: *todentaa* ("to verify/authenticate"), *vääristää* ("to distort") [P4a §5a] | *Viranomaiset todensivat henkilöllisyyden.* | No substitution required for the attested verbs. The morphological causatives are described as fully lexicalized rather than productively derived. Periphrastic *saada* + passive participle is noted as existing but not dominant and has no attested example in P4a/P4b. | None for the attested lexical items. The periphrastic causative is **NO COMMON EXPRESSION** in this domain (no example provided). |
+| **CAUSATION (character)** | No construction explicitly categorized under this label in P4a/P4b. | — | The P4a/P4b data do not document a construction specifically encoding causation of a character-level truth property (e.g., causing someone to be honest or reliable). The closest attested items are abstract nominalizations (*rehellisyys*, *luotettavuus*) and attributive uses of character adjectives (*rehellinen*, *luotettava*, *vilpitön*), but no causative construction targeting character properties is documented. | **MISSING (structural gap)** — no construction for causing a character-level truth property is attested in P4a/P4b. |
+| **VERIFICATION** | *todentaa* ("to verify/authenticate") [P4a §5]; translative predication with *todistaa*, *osoittaa*, *todeta*, *katsoa* [P4a §8]; essive predication with *pitää* [P4a §9] | *Viranomaiset todensivat henkilöllisyyden.* / *Asiantuntija todisti maalauksen aidoksi.* / *Tuomari piti todistajaa luotettavana.* | No substitution required. Multiple constructions cover this operator: morphological causative *todentaa* for authentication/verification acts; translative predication for result-state certification; essive predication for stable evaluative judgment. These are structurally distinct and not interchangeable. | None |
+| **DISCONFIRMATION** | Translative predication with *todistaa*, *osoittaa* + negative translative complement (*vääräksi*, *pätemättömäksi*) [P4a §8]; *osoittautua* + negative translative [P4a §4a]; *vääristää* / *väärentää* [P4a §5] | *Tuomioistuin julisti sopimuksen pätemättömäksi.* / *Väite osoittautui vääräksi.* / *Todistaja väärensi asiakirjan.* | DISCONFIRMATION shares the same translative predication construction as VERIFICATION; the distinction is carried by the choice of translative complement adjective (positive vs. negative: *aidoksi* vs. *vääräksi*, *päteväksi* vs. *pätemättömäksi*). No dedicated construction exclusive to DISCONFIRMATION is documented. | None for the functional category. VERIFICATION and DISCONFIRMATION **share the same construction**; differentiation is lexical, not structural. |
+| **NEGATION** | (a) Morphological: *epä-* prefixation on adjective [P4a §2a]; (b) Analytic: negation particle *ei* + *olla* + adjective [P4a §2b] | *Lähde on epäluotettava.* / *Kuvaus ei ole todenmukainen.* | Both strategies are fully grammatical and available for all truth-domain adjectives. *epä-* is preferred in formal/written registers; *ei ole* is more frequent in spoken registers. Neither is restricted to a subset of adjectives. | None. Both analytic and morphological negation are fully attested. |
+| **NOMINALIZATION** | (a) *-uus/-yys* from adjectives (abstract property nouns) [P4a §6]; (b) *-minen* from verbs (process/event nominals) [P4a §6]; (c) *-us/-ys* from verbs (result/act nominals) [P4a §6]; (d) *-ja/-jä* agentive from verbs [P4a §7] | *totuus* / *todistaminen* / *todistus*, *oikeutus*, *todiste* / *todistaja*, *väärentäjä* | No substitution required. Four nominalization patterns are attested with distinct semantic functions. All are described as productive. No agentive nominalization for "truth-teller" derived directly from *tosi/totuus* is documented; the concept of "liar" (*valehtelija*) falls outside P1 vocabulary. | Lexical gap: no agentive nominalization for "truth-teller" from the *tosi/totuus* root is attested. |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### BECOME and REVELATION share a construction type
+P4a and P4b document both *osoittautua* ("to turn out to be") and *paljastua* ("to be revealed as") as inchoative constructions using the translative case complement. The structural pattern is identical: matrix verb + NP + translative of adjective. The semantic distinction between BECOME (a property coming to obtain) and REVELATION (a hidden property being exposed) is carried entirely by the choice of matrix verb, not by any structural difference. *paljastua* is described as specifically restricted to the revelation of hidden truth, while *osoittautua* is the general inchoative. Because both use the same translative complement construction, REVELATION does not constitute a structurally independent operator in Finnish as documented; it is a lexical variant within the BECOME construction slot. No full-sentence example for *paljastua* is provided in P4a/P4b, which limits the confidence of this characterization.
+
+### VERIFICATION and DISCONFIRMATION share the same construction
+The translative predication construction (P4a §8) serves both VERIFICATION and DISCONFIRMATION. The matrix verbs (*todistaa*, *osoittaa*, *julistaa*, *katsoa*, *todeta*) are the same; the direction of the evaluation is determined solely by the translative complement: *aidoksi* (as genuine) for verification, *vääräksi* (as false) or *pätemättömäksi* (as void) for disconfirmation. This is a systematic asymmetry in the sense that Finnish does not grammaticalize the verification/disconfirmation distinction structurally; it is entirely lexical. The same pattern holds for the inchoative construction: *osoittautua aidoksi* (turn out to be genuine) vs. *osoittautua vääräksi* (turn out to be false).
+
+### NEGATION: both morphological and analytic strategies are available
+Finnish provides two fully grammatical negation strategies for truth-domain adjectives. The morphological strategy (*epä-* prefixation) produces lexicalized antonyms (*epäluotettava*, *epätosi*, *epärehellinen*, *epäaito*) and is preferred in formal and written registers. The analytic strategy (*ei ole* + adjective) is available for all adjectives without restriction and is more frequent in spoken registers. There is no documented case where one strategy is obligatory and the other blocked; the choice is register-conditioned rather than grammatically forced. This means Finnish NEGATION is simultaneously morphological and analytic, with register as the conditioning factor.
+
+### Asymmetry in the ATTR operator: propositional vs. personal epistemic attribution
+The ATTR operator in Finnish is realized by two structurally distinct patterns. Propositional truth attribution uses the standard copular pattern (*olla* + predicative nominative adjective: *Se on tosi*, *Väite on epätosi*). Personal epistemic attribution — attributing correctness or incorrectness to a person's belief or claim — uses the lexicalized inessive construction (*olla oikeassa* / *olla väärässä*). The inessive construction does not extend productively to other truth-domain adjectives; it is restricted to *oikea* and *väärä* in this fixed form. This means that for most truth-domain adjectives, only propositional attribution is available in the standard copular pattern, while the personal epistemic reading requires the fixed inessive forms.
+
+### CAUSATION (character) is not attested
+P4a and P4b document morphological causatives for factual truth operations (*todentaa* for verification, *väärentää* for forgery, *vääristää* for distortion). No causative construction targeting a character-level truth property — such as causing someone to become honest, reliable, or sincere — is documented in either step. The character-level adjectives (*rehellinen*, *luotettava*, *vilpitön*, *vilpillinen*) appear in attributive, predicative, and nominalization patterns, but no causative verb derived from them is listed. This is the only CLCA operator for which no construction of any kind is attested in the P4a/P4b data.
+
+### No agentive nominalization for "truth-teller"
+P4a §7 explicitly notes that no dedicated agentive form for "truth-teller" is derived from *tosi* or *totuus*. The concept of "liar" is expressed by *valehtelija*, derived from *valehdella* (to lie), which is outside the documented P1 vocabulary. *Totuudenetsijä* (truth-seeker) is noted as a compound agentive rather than a direct derivation. This represents a lexical gap within the agentive nominalization pattern: the *-ja/-jä* suffix is productive, but the relevant base forms for "truth-teller" are not attested as yielding an agentive in P4a/P4b.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **CAUSATION (character)**: No construction for causing a character-level truth property (e.g., causing someone to be honest, reliable, or sincere) is attested in P4a or P4b. The morphological causative pattern is documented only for factual truth operations (*todentaa*, *väärentää*, *vääristää*). This is a structural gap in the sense that the causative morphology is not applied to character-domain truth adjectives in the documented data.
+
+### Lexical Gaps
+- **Agentive nominalization for "truth-teller"**: No *-ja/-jä* agentive derived directly from *tosi* or *totuus* is attested. The productive suffix exists; the base form does not yield the expected agentive in documented usage.
+- **Agentive nominalization for "liar"**: *valehtelija* is noted as the relevant form but is explicitly placed outside P1 vocabulary. It is therefore a lexical gap relative to the documented truth-domain vocabulary, though not a gap in Finnish as a whole.
+- **Periphrastic causative in the truth domain**: The *saada* + passive participle causative is noted as existing in Finnish but is described as not dominant in the truth domain and has no attested example in P4a/P4b. Its status in this domain is therefore **NO COMMON EXPRESSION — circumlocution required** based on available data.
+
+### Conceptual Gaps
+- None are identifiable from the P4a/P4b data alone. All documented CLCA operators that are attested have constructions that are described as natural and non-marginal (with the exception of *todentua*, which is [MARGINAL] due to subject restrictions, not conceptual unavailability).
+
+### Asymmetric Gaps
+- **BECOME / *todentua***: The inchoative verb *todentua* is subject-restricted (predictions, expectations, hypotheses only) and rated [MARGINAL] in P4b. The general inchoative *osoittautua* + translative is available for both positive and negative truth-domain properties without documented asymmetry. No asymmetry between positive and negative forms is documented for the translative complement construction.
+- **INESSIVE FIXED PREDICATION (§10)**: The construction *olla oikeassa* / *olla väärässä* is documented for both *oikea* (correct) and *väärä* (wrong/incorrect). No asymmetry between the positive and negative forms is documented. However, this construction does not extend to other truth-domain adjectives, which means that personal epistemic attribution for properties such as *luotettava*, *rehellinen*, or *vilpitön* is not available through this pattern — only through the general copular construction (§1).
+- **REVELATION**: No full-sentence example for *paljastua* is provided in P4a/P4b. The construction is attested as existing but is documented only at the level of description, not exemplification. This is an asymmetric documentation gap rather than a confirmed structural gap.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two sub-patterns: propositional (copular nominative) and personal epistemic (lexicalized inessive). Both are [CORE]. |
+| **ADNOM** | **Fully available** | All P1 adjectives occur productively in attributive position with full case and number agreement. [CORE]. |
+| **BECOME** | **Fully available** | Primary construction: *osoittautua* + translative [CORE]. Secondary: *todentua* [MARGINAL, subject-restricted]. |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME** construction (*paljastua* + translative), using the same structural pattern as BECOME with a different matrix verb. Not a structurally independent operator. No full-sentence example in P4a/P4b. |
+| **CAUSATION (factual)** | **Fully available** | Morphological causatives *todentaa*, *väärentää*, *vääristää* are [CORE] and fully lexicalized. Periphrastic *saada* causative is **NO COMMON EXPRESSION** in this domain. |
+| **CAUSATION (character)** | **Missing entirely** | **MISSING (structural gap)**. No causative construction targeting character-level truth properties is attested in P4a/P4b. |
+| **VERIFICATION** | **Fully available** | Multiple constructions: *todentaa* (morphological causative), translative predication (*todistaa*, *osoittaa*, *todeta*, *katsoa* + translative), essive predication (*pitää* + essive). All [CORE]. |
+| **DISCONFIRMATION** | **Fully available** | **Shares the same construction as VERIFICATION** (translative predication); distinction is lexical (choice of translative complement adjective). No dedicated disconfirmation-exclusive construction is documented. |
+| **NEGATION** | **Fully available** | Both morphological (*epä-* prefixation) and analytic (*ei ole* + adjective) strategies are [CORE]. Register-conditioned choice; no grammatical restriction documented. |
+| **NOMINALIZATION** | **Fully available** | Four patterns attested: *-uus/-yys* (abstract property), *-minen* (process/event), *-us/-ys* (result/act), *-ja/-jä* (agentive). All productive. Lexical gap: no agentive for "truth-teller" from *tosi/totuus* root. |
+
+---
+
+*End of I1 output.*

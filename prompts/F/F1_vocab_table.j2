@@ -1,0 +1,37 @@
+# CLCA Protocol v3.2 — F1 Vocab Table
+# Language: {{ lang.name }} ({{ lang.code }})
+
+# CONTEXT (contains P1 output)
+{{ context }}
+
+# F1 — VOCABULARY TABLE FORMATTER
+
+Using ONLY the items listed in CONTEXT, produce a clean, normalized table:
+
+| Form | Transliteration | Literal Meaning | Common Translations | Usage Description | Epistemic Status |
+
+---
+
+### STRICT RULES:
+
+- **Do NOT add new vocabulary.**
+- **Do NOT remove any items.**
+- **Do NOT merge or split entries.**
+- **Each row must correspond 1:1 with an item in CONTEXT.**
+
+- **Do NOT modify meanings, wording, or phrasing.**
+- **Do NOT summarize or reinterpret usage descriptions.**
+- **Preserve usage descriptions verbatim (except for minimal formatting).**
+
+- **Preserve transliteration exactly as given.**
+- **Do NOT normalize, correct, or change transliteration systems.**
+
+- **Preserve epistemic status tags exactly ([CORE], [MARGINAL], [UNCERTAIN]).**
+- **Do NOT infer or change tags.**
+
+- **If the CONTEXT includes uncertain or questionable items, reproduce them faithfully.**
+- **If any field is missing or unclear, leave it blank rather than inventing content.**
+
+---
+
+Output ONLY the table.

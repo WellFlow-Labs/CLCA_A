@@ -1,0 +1,132 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Sanskrit (sa)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Nominal predicate construction: **[Subject NP] + [predicate nominal in nominative]**, with copula *asti* optionally omitted. The truth-domain item functions as predicate nominal, attributing a property to the subject. Sanskrit freely drops the copula in nominal sentences.
+
+### Examples
+- सत्यं ब्रह्म — *satyaṃ brahma* — "Brahman is truth / truth is Brahman"
+- वेदः प्रमाणम् (अस्ति) — *vedaḥ pramāṇam (asti)* — "The Veda is a valid means of knowledge"
+
+### Notes
+The copula *asti* is regularly absent in nominal predication; word order is flexible. The truth-domain item (*satya*, *pramāṇa*, etc.) appears in the nominative as predicate. This is the standard Sanskrit pattern for asserting that something instantiates a truth-domain property.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negated nominal predicate: **na + [predicate nominal in nominative]**, copula again optionally absent. Alternatively, the negative prefix *a-/an-* is incorporated into the predicate nominal itself (see §6), making periphrastic negation and morphological negation near-synonymous options.
+
+### Examples
+- हेत्वाभासो न हेतुः — *hetvābhāso na hetuḥ* — "A fallacious reason is not a (genuine) reason"
+- न तत्र प्रमाणम् अस्ति — *na tatra pramāṇam asti* — "There is no valid means of knowledge for that"
+
+### Notes
+Both constructions are attested as formulaic in philosophical debate. The first denies class membership (*X* is not a genuine *Y*); the second denies existence of a *pramāṇa* for a claim. Sanskrit also routinely handles negative attribution through prefixation (*apramāṇa*, *asatya*), making the periphrastic and morphological strategies functionally parallel.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[Truth-domain adjective] + [head noun]**, with the adjective agreeing in gender, number, and case with the head noun. Sanskrit adjectives precede or follow the noun; prenominal position is common in philosophical prose. The truth-domain item functions as an attributive modifier.
+
+### Examples
+- यथार्थं ज्ञानम् — *yathārthaṃ jñānam* — "accurate cognition / knowledge that is as the object is"
+- मिथ्या ज्ञानम् — *mithyā jñānam* — "false / illusory cognition"
+
+### Notes
+*Yathārtha* agrees with *jñāna* (neuter nominative/accusative). *Mithyā* functions here as an indeclinable adverb-adjective modifying the noun; it does not inflect. Adnominal modification is the primary syntactic role of items like *yathārtha*, *śuddha*, *vāstava*, and *mithyā* in epistemological prose.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**[Subject] + [predicate nominal/adjective in nominative] + *bhavati/jāyate*** ("becomes / arises"). For the arising of a cognitive state, *jāyate* (from root *jan-*, "to be born") is the conventional verb; for transition into a property or status, *bhavati* (from root *bhū-*) is used.
+
+### Examples
+- प्रमा जायते — *pramā jāyate* — "Valid cognition arises / is produced"
+- प्रमाणभूतः (भवति) — *pramāṇabhūtaḥ (bhavati)* — "He becomes / has become an authority"
+
+### Notes
+*Pramā jāyate* is the standard formula in *Nyāya* literature for the production of valid cognition as the result of a *pramāṇa*. The compound *pramāṇa-bhūta* (past participle of *bhū-*) lexicalizes the inchoative result ("one who has become an authority"), showing that Sanskrit often handles the inchoative through compounding rather than periphrasis.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**Causative stem + object in accusative**. Sanskrit has a productive morphological causative formed by adding *-aya-* to the verbal root (with possible root modification). For truth-domain meanings, the causative of *jñā-* ("to know") → *jñāpayati* ("causes to know / informs") and the denominative-causative *satyāpayati* ("causes to be true / verifies") are attested.
+
+### Examples
+- असतो मा सद्गमय — *asato mā sad gamaya* — "Lead me from the unreal to the real" (causative imperative of *gam-*: *gamaya* = "cause to go")
+- सत्यापयति — *satyāpayati* — "He/she verifies / authenticates" (denominative causative from *satya*)
+
+### Notes
+The causative of *gam-* (*gamaya*) in the *Bṛhadāraṇyaka Upaniṣad* prayer is a fixed liturgical formula. *Satyāpayati* is a denominative causative ("to make true / to verify"), productive in legal and administrative contexts. Sanskrit causatives are morphological, not periphrastic; the pattern is fully regular.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Two primary suffixes attach to truth-domain adjectives and nominals to form abstract nouns:
+- **-tā** (feminine): *satyatā*, *pramāṇatā*, *yathārthatā*, *mithyātva* [sic — see note]
+- **-tva** (neuter): *sattva*, *mithyātva*, *sādhutvа*
+
+Both suffixes are fully productive and largely interchangeable for this semantic function.
+
+### Examples
+- सत्यता — *satyatā* — "the property of being true / truthfulness" (from *satya* + *-tā*)
+- मिथ्यात्व — *mithyātva* — "the state of being illusory / illusoriness" (from *mithyā* + *-tva*)
+
+### Notes
+Abstract nominalizations are the primary means by which Sanskrit expresses truth-domain properties as objects of predication and philosophical argument. Both *-tā* and *-tva* are fully productive across the P1 set; nearly every adjectival truth-domain item generates at least one such form. *Mithyātva* is a technical Advaita Vedānta term with a specific ontological meaning (neither real nor unreal) beyond simple nominalization.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION (liar, truth-teller)
+
+### Pattern
+**[Truth-domain nominal] + agentive suffix *-in* or *-vādin* (one who speaks X)**. The suffix *-in* (possessive/agentive) attaches to the nominal stem; *-vādin* (from root *vad-*, "to speak") is a compound agentive specifically for speech-related agents. Both are productive.
+
+### Examples
+- सत्यवादिन् — *satyavādin* — "one who speaks truth / a truth-teller"
+- अनृतभाषिन् — *anṛta-bhāṣin* — "one who speaks falsehood / a liar" (*bhāṣin* from root *bhāṣ-*, "to speak")
+
+### Notes
+*Satyavādin* and *anṛta-bhāṣin* are the standard agentive nominalizations for truth-teller and liar respectively in *Dharmaśāstra* witness-evaluation contexts. The two suffixes (*-vādin*, *-bhāṣin*) are near-synonymous in this function; *-vādin* is more frequent in the *satya*-family, *-bhāṣin* in the *anṛta*-family. A third pattern, *-jña* ("one who knows X": *ṛta-jña*, "knower of cosmic order"), produces agentive nominalizations in the epistemic rather than speech domain.
+
+---
+
+## 8. ADVERBIAL TRUTH-ASSERTION (additional pattern)
+
+### Pattern
+**Ablative/adverbial forms of truth-domain nominals** functioning as sentence adverbs asserting that the proposition holds "in reality" or "according to the true nature." Formed with suffix *-taḥ* (ablative-adverbial) attached to *vastu*, *tattva*, etc.
+
+### Examples
+- वस्तुतः — *vastutaḥ* — "in reality / as a matter of fact" (modifying the entire proposition)
+- तत्त्वतः — *tattvataḥ* — "in truth / according to the real nature"
+
+### Notes
+These adverbial forms function as propositional operators, asserting that the accompanying claim corresponds to the actual state of affairs rather than to appearance or convention. They are widely used in Sanskrit commentarial prose as a conventional formula for asserting factual or essential grounding. No parallel periphrastic construction ("it is true that…") is commonly used for this function; the adverbial form is the standard device.
+
+---
+
+## 9. NORMATIVE INJUNCTION (additional pattern)
+
+### Pattern
+**[Truth-domain accusative] + optative or gerundive of speech/action verb**, expressing obligation to speak truly or prohibition against speaking falsely. Two sub-patterns: (a) optative (*brūyāt*, *vadet*) for normative prescription/prohibition; (b) gerundive (*-tavya*, *-anīya*) for stronger obligation.
+
+### Examples
+- सत्यं ब्रूयात् — *satyaṃ brūyāt* — "One should speak the truth" (optative of *brū-*)
+- सत्यात् न प्रमदितव्यम् — *satyāt na pramaditavyam* — "One must not deviate from truth" (gerundive with negation)
+
+### Notes
+This pattern is characteristic of *Dharmaśāstra* and *Upaniṣadic* ethical instruction. The optative expresses normative expectation; the gerundive expresses stronger obligation. Both are formulaic in the attested literature (*Taittirīya Upaniṣad* 1.11.1, *Manusmṛti* 4.138). The pattern is specific to the truth-domain in that the accusative of *satya* / *anṛta* with verbs of speaking (*vad-*, *brū-*, *bhāṣ-*) constitutes a recognized formulaic type across multiple text genres.

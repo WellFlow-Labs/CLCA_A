@@ -1,0 +1,223 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Greek (el)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | [NP] + [COP] + [TRUTH-ADJ/NOUN] | Αυτό είναι αλήθεια (This is truth/true)<br>Είναι ψέμα (It is a lie/false) | Direct equivalence | None |
+| **ADNOM** | [TRUTH-ADJ] + [NOUN] | αληθινή ιστορία (true story)<br>ψευδής μαρτυρία (false testimony) | Direct equivalence | None |
+| **BECOME** | [NP] + γίνομαι + [TRUTH-ADJ] | Η αλήθεια γίνεται γνωστή (The truth becomes known) | **SUBSTITUTED BY REVELATION** (preferred pattern) | Functional substitution |
+| **REVELATION** | [TRUTH-NOUN] + βγαίνω/φέρνω + [LOCATIVE]<br>[AGENT] + αποκαλύπτω + [TRUTH-ACC] | βγαίνει η αλήθεια στη φόρα (the truth comes out)<br>αποκαλύπτω την αλήθεια (reveal the truth) | Direct equivalence; **PREFERRED OVER BECOME** | None |
+| **CAUSATION (factual)** | [AGENT] + κάνω + [NP-ACC] + [ADJ-ACC]<br>[AGENT] + βεβαιώνω/διορθώνω + [NP-ACC] | Αυτό με κάνει βέβαιο (This makes me certain)<br>Βεβαιώνω την πληροφορία (I confirm the information) | Direct equivalence | None |
+| **CAUSATION (character)** | [AGENT] + κάνω + [NP-ACC] + [ADJ-ACC] | Αυτό με κάνει βέβαιο (This makes me certain) | Same construction as factual causation; no morphosyntactic distinction | No structural gap |
+| **VERIFICATION** | [AGENT] + βεβαιώνω/επιβεβαιώνω + [NP-ACC]<br>Validation construction | βεβαιώνω την πληροφορία (I confirm the information)<br>βεβαίωση γνησιότητας (certificate of authenticity) | Direct equivalence via specialized verbs | None |
+| **DISCONFIRMATION** | [AGENT] + ακυρώνω/διαψεύδω + [NP-ACC]<br>[AGENT] + ξεσκεπάζω + [LIE-ACC] | ακυρώνω το έγγραφο (I invalidate the document)<br>ξεσκεπάζω το ψέμα (expose the lie) | Direct equivalence via specialized verbs | None |
+| **NEGATION** | [NEG] + [COP] + [TRUTH-ADJ/NOUN] | Δεν είναι αλήθεια (It is not true)<br>Δεν είναι σωστό (It is not correct) | Analytic negation with preverbal particle δεν | None (analytic only) |
+| **NOMINALIZATION (abstract)** | [ADJ-STEM] + -ότητα/-εια/-ία/-ση | αληθινότητα (truthfulness)<br>ειλικρίνεια (sincerity)<br>βεβαιότητα (certainty) | Direct equivalence | None |
+| **NOMINALIZATION (agentive)** | [VERB/ROOT-STEM] + -της/-τρια/-ας | ψεύτης/ψεύτρα (liar m./f.)<br>απατεώνας (swindler) | Direct equivalence for negative agents; **ASYMMETRIC GAP** for positive agents | Asymmetric gap |
+| **DETECTION** | [AGENT] + πιάνω + [OBJECT] + στο ψέμα<br>[AGENT] + ξεσκεπάζω + [LIE-ACC] | πιάνω κάποιον στο ψέμα (catch someone in a lie)<br>ξεσκεπάζω το ψέμα (expose the lie) | Specialized construction; overlaps with DISCONFIRMATION | None |
+| **CORRECTION** | [AGENT] + διορθώνω/σωστεύω + [ERROR-ACC] | διορθώνω το λάθος (I correct the mistake)<br>σωστεύω την απάντηση (I correct the answer) | Specialized construction; overlaps with CAUSATION | None |
+| **ADMISSION** | [AGENT] + παραδέχομαι/ομολογώ + [TRUTH/ERROR-ACC] | παραδέχομαι το λάθος μου (I admit my mistake)<br>ομολογώ την αλήθεια (I confess the truth) | Specialized construction; no direct CLCA equivalent | Not in canonical set |
+| **LIGHT VERB (truth/lie)** | λέω + [TRUTH/LIE-ACC] | λέω την αλήθεια (tell the truth)<br>λέω ψέματα (tell lies) | Specialized construction; no direct CLCA equivalent | Not in canonical set |
+| **LIGHT VERB (error)** | κάνω + λάθος | κάνω λάθος (make a mistake) | Specialized construction; no direct CLCA equivalent | Not in canonical set |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION substitutes for BECOME
+
+Greek shows a clear preference for REVELATION constructions over BECOME constructions when expressing truth-domain inchoative meanings. While the BECOME pattern exists (γίνομαι + adjective), it is marked as **[MARGINAL]** in P4b for truth-domain vocabulary. Instead, Greek systematically uses:
+
+1. **Metaphorical revelation constructions**: βγαίνει η αλήθεια στη φόρα (literally "the truth comes out to the surface")
+2. **Explicit revelation verbs**: αποκαλύπτω/αποκαλύπτεται "reveal/is revealed"
+3. **Light metaphors**: φέρνω/έρχεται στο φως "bring/comes to light"
+
+This substitution reflects a conceptual preference: truth is not conceived as something that "becomes" true, but rather as something hidden that emerges or is brought to visibility. The BECOME construction is available but dispreferred; speakers choose REVELATION patterns instead.
+
+### DETECTION substitutes for simple DISCONFIRMATION
+
+For lies specifically, Greek employs specialized DETECTION constructions (πιάνω κάποιον στο ψέμα "catch someone in a lie") alongside general DISCONFIRMATION verbs (ξεσκεπάζω "expose," διαψεύδω "refute"). The DETECTION pattern emphasizes the catching/trapping aspect of discovering lies, using the metaphor of lies as coverings or traps. This is more specific than simple disconfirmation and carries additional pragmatic force.
+
+### VERIFICATION and DISCONFIRMATION use parallel but distinct constructions
+
+Greek maintains separate verb sets for these operations:
+- **VERIFICATION**: βεβαιώνω "confirm," επιβεβαιώνω "verify," πιστοποιώ "certify"
+- **DISCONFIRMATION**: ακυρώνω "invalidate," διαψεύδω "refute," ξεσκεπάζω "expose"
+
+These are not the same construction with different polarity; they are distinct lexical verbs with specialized administrative/legal uses. Both can take nominal complements (βεβαίωση "confirmation" vs. ακύρωση "cancellation").
+
+### CAUSATION shows no factual/character distinction
+
+Greek uses the same construction ([AGENT] + κάνω + [NP-ACC] + [ADJ-ACC]) for both factual causation ("This makes me certain") and character causation ("This makes me truthful"). There is no morphosyntactic distinction between causing someone to be in a truth-state versus causing someone to have a truth-related character trait. The construction is semantically underspecified for this distinction.
+
+### NEGATION is purely analytic
+
+Greek has no morphological negation for truth-domain predicates. All negation uses the preverbal particle δεν:
+- Δεν είναι αλήθεια (not: *ψέμα as morphological negative of αλήθεια)
+- Δεν είναι σωστό (not: *λάθος as morphological negative of σωστό)
+
+While antonyms exist (αλήθεια/ψέμα, σωστό/λάθος), they are separate lexical items, not morphological negations. The language requires syntactic negation with δεν.
+
+### Asymmetry in agentive nominalization
+
+Greek shows productive agentive nominalization for **negative** truth-domain behaviors:
+- ψεύτης/ψεύτρα "liar"
+- υποκριτής "hypocrite"
+- απατεώνας "swindler"
+
+But lacks productive agentive nominalization for **positive** truth-domain behaviors:
+- **NO COMMON EXPRESSION** for "truth-teller" (*αληθευτής not standard)
+- Circumlocution required: αυτός που λέει την αλήθεια "the one who tells the truth"
+
+This asymmetry reflects cultural/linguistic marking: deviation from truth-telling norms receives lexical encoding, while truth-telling itself is unmarked and requires periphrasis.
+
+### Compound formation asymmetry
+
+The ψευδ- prefix is highly productive for creating critical terms marking false claims:
+- ψευδοεπιστήμη "pseudoscience"
+- ψευδοδημοκρατία "pseudo-democracy"
+- ψευδοπληροφορία "misinformation"
+
+No equivalent productive prefix exists for marking genuine/authentic claims. The ορθ- prefix exists but serves a different function (correctness/straightness) and is less productive in contemporary Greek. This creates an asymmetry: easy lexical creation for falsity-marking, but no parallel mechanism for authenticity-marking.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+
+**None identified.** All canonical CLCA operators have corresponding constructions in Greek, though some show substitution patterns (REVELATION for BECOME) or lack morphosyntactic distinctions (factual vs. character CAUSATION).
+
+### Lexical Gaps
+
+1. **Agentive nominalization for truth-tellers**: No single-word equivalent for "truth-teller" exists. The pattern is productive for negative agents (ψεύτης "liar") but blocked for positive agents.
+   - **Status**: **NO COMMON EXPRESSION - circumlocution required**
+   - **Circumlocution**: αυτός που λέει την αλήθεια "the one who tells the truth"
+
+2. **Productive prefix for authenticity-marking**: No productive prefix equivalent to ψευδ- exists for marking genuine/authentic claims.
+   - **Status**: Lexical gap in derivational morphology
+   - **Available alternative**: ορθ- serves partially but with different semantics (correctness rather than authenticity)
+
+### Conceptual Gaps
+
+**None identified.** All truth-domain conceptual operations appear expressible in Greek, though some require specific constructions or circumlocutions.
+
+### Asymmetric Gaps
+
+1. **Agentive nominalization**: Productive for negative behaviors only
+   - Present: ψεύτης "liar," απατεώνας "swindler," υποκριτής "hypocrite"
+   - Absent: *αληθευτής "truth-teller" (not standard)
+
+2. **Compound formation**: Productive for falsity-marking only
+   - Present: ψευδ- prefix (ψευδοεπιστήμη, ψευδοδημοκρατία)
+   - Limited: ορθ- prefix exists but serves different function and less productive
+
+3. **Number marking in light verb constructions**:
+   - λέω ψέματα "tell lies" — obligatorily plural
+   - λέω την αλήθεια "tell the truth" — obligatorily singular
+   - Asymmetry in number requirements between truth and lie constructions
+
+### Morphosyntactic Gaps
+
+**None identified.** Greek does not show missing construction types; all operators are expressible through available morphosyntactic patterns.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+
+1. **ATTR** — Predicative attribution with copula είμαι
+   - Pattern: [NP] + είμαι + [TRUTH-ADJ/NOUN]
+   - Status: Core construction, extremely high-frequency
+
+2. **ADNOM** — Attributive modification
+   - Pattern: [TRUTH-ADJ] + [NOUN]
+   - Status: Core construction with full agreement morphology
+
+3. **NEGATION** — Analytic negation
+   - Pattern: δεν + [COP/VERB]
+   - Status: Core construction, purely syntactic (no morphological negation)
+
+4. **NOMINALIZATION (abstract)** — Productive suffixation
+   - Patterns: -ότητα, -εια, -ία, -ση
+   - Status: Highly productive across multiple suffix types
+
+5. **CAUSATION (factual)** — Analytic and morphological causatives
+   - Patterns: κάνω + [NP-ACC] + [ADJ-ACC]; -ώνω suffix verbs
+   - Status: Core construction with multiple realizations
+
+6. **VERIFICATION** — Specialized verification verbs
+   - Verbs: βεβαιώνω, επιβεβαιώνω, πιστοποιώ
+   - Status: Core construction in administrative/legal registers
+
+7. **DISCONFIRMATION** — Specialized disconfirmation verbs
+   - Verbs: ακυρώνω, διαψεύδω, ξεσκεπάζω
+   - Status: Core construction in administrative/legal registers
+
+8. **REVELATION** — Metaphorical emergence constructions
+   - Patterns: βγαίνω στη φόρα, φέρνω στο φως, αποκαλύπτω
+   - Status: Core construction, culturally salient
+
+### Available with Substitution
+
+9. **BECOME** — Inchoative with γίνομαι
+   - Pattern: [NP] + γίνομαι + [ADJ]
+   - Status: **SUBSTITUTED BY REVELATION** (preferred pattern)
+   - Note: Construction exists but marked as [MARGINAL] for truth-domain; speakers prefer REVELATION constructions
+
+10. **CAUSATION (character)** — Same as factual causation
+    - Pattern: κάνω + [NP-ACC] + [ADJ-ACC]
+    - Status: No morphosyntactic distinction from factual causation
+    - Note: Construction available but semantically underspecified for factual/character distinction
+
+### Partially Available
+
+11. **NOMINALIZATION (agentive)** — Productive for negative agents only
+    - Pattern: -της/-τρια/-ας suffixes
+    - Status: **ASYMMETRIC** — productive for ψεύτης "liar," απατεώνας "swindler," but blocked for positive agents
+    - Gap: **NO COMMON EXPRESSION** for "truth-teller"
+
+### Missing Entirely
+
+**None.** All canonical CLCA operators have some form of expression in Greek, though asymmetries and substitution patterns exist.
+
+---
+
+## Additional Specialized Constructions (Not in Canonical Set)
+
+Greek shows several highly productive constructions not represented in the canonical CLCA operator set:
+
+1. **LIGHT VERB (truth/lie)** — λέω + [TRUTH/LIE-ACC]
+   - Extremely high-frequency construction for speech acts
+   - Obligatory number asymmetry (singular αλήθεια vs. plural ψέματα)
+
+2. **LIGHT VERB (error)** — κάνω + λάθος
+   - Unmarked construction for error-making
+   - Extremely high-frequency across all registers
+
+3. **DETECTION** — πιάνω + [OBJECT] + στο ψέμα
+   - Specialized construction for catching lies
+   - Overlaps functionally with DISCONFIRMATION but adds catching/trapping semantics
+
+4. **CORRECTION** — διορθώνω/σωστεύω + [ERROR-ACC]
+   - Specialized construction for error correction
+   - Overlaps functionally with CAUSATION but lexically specialized
+
+5. **ADMISSION** — παραδέχομαι/ομολογώ + [TRUTH/ERROR-ACC]
+   - Specialized construction for acknowledging truth or error
+   - Common in apology and conflict resolution contexts
+
+6. **COMPOUND FORMATION** — ψευδ- and ορθ- prefixes
+   - Highly productive derivational patterns
+   - ψευδ- asymmetrically productive for falsity-marking
+
+7. **DISCOURSE MARKERS** — Grammaticalized truth-domain expressions
+   - αλήθεια; "really?", πραγματικά "really", ακριβώς "exactly"
+   - Extremely high-frequency in spoken Greek
+
+These constructions represent language-specific elaborations of the truth-domain beyond the canonical operator set, reflecting Greek's particular grammatical and cultural encoding of truth-related meanings.

@@ -1,0 +1,381 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Georgian (ka)
+
+---
+
+## Preliminary note on scope and method
+
+This step analyzes how Georgian encodes dynamic truth-related meanings: inchoative (becoming), causative (causing to be), and stability/persistence expressions. All vocabulary is drawn exclusively from the P1–P5 data. Where the data supports a pattern, it is documented with examples. Where no common expression is attested in the data, this is stated explicitly. Terms are treated separately where their behavior differs.
+
+A structural note on Georgian relevant to this step: Georgian does not have a dedicated "become" copula equivalent to English *become* or German *werden*. Inchoative meaning is expressed periphrastically, primarily through the verbs **აღმოჩნდა** (aɣmočnda, "turned out to be / proved to be") and **გამოვიდა** (gamovida, "came out as"), and through resultative verbal stems built with the preverb **გა-** (ga-). Causative meaning is expressed derivationally through the same **გა-** preverb system rather than through a productive syntactic causative. These patterns were partially documented in P4a (Constructions 4 and 5) and P5 (Oppositions 31, 43, 44); the present step extends that analysis systematically across the full vocabulary.
+
+---
+
+## 1. INCHOATIVE: "X becomes [truth-related state]"
+
+### 1a. Pattern: [NP] + [adjective in nominative] + აღმოჩნდა (aɣmočnda)
+
+**Description:** The verb aɣmočnda (3sg aorist of aɣmočena, "to turn out to be / to be found to be") combines with a truth-domain adjective in the nominative to express the discovery or revelation that something has a truth-domain property. This is the more formal of the two inchoative patterns attested in the data.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ნამდვილი აღმოჩნდა | namdvili aɣmočnda | turned out to be genuine / proved to be authentic | Attested in P2b Item 7 Construction 1; used in legal, archival, and everyday contexts |
+| ყალბი აღმოჩნდა | q̇albi aɣmočnda | turned out to be fake / proved to be false | Attested in P2b Item 6 Construction 1; used in legal, journalistic, and everyday contexts |
+| სარწმუნო აღმოჩნდა | sarc̣muno aɣmočnda | turned out to be reliable / proved to be credible | Supported by the pattern; sarc̣muno is a predicative adjective documented in P1 and P2b |
+| საეჭვო აღმოჩნდა | saečvo aɣmočnda | turned out to be suspicious / proved to be dubious | Supported by the pattern; saečvo is documented in P1 and P2b as a predicative adjective |
+
+**Epistemic status of pattern:** [CORE]
+
+**Register note:** Slightly more formal than the gamovida variant (see 1b). Attested in written and spoken registers.
+
+---
+
+### 1b. Pattern: [NP] + [adjective in adverbial -ad form] + გამოვიდა (gamovida)
+
+**Description:** The verb gamovida (3sg aorist of gamosvla, "to come out") combines with the adverbial (-ad) form of a truth-domain adjective to express the colloquial equivalent of the aɣmočnda pattern. Attested in P2b and P4a.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ყალბად გამოვიდა | q̇albad gamovida | turned out to be false / came out as fake | Attested in P2b Item 6 Construction 2 and P4a Construction 4; colloquial register |
+| მართლად გამოვიდა | martlad gamovida | turned out to be right / came out as correct | Supported by the pattern; martla/martlad is documented in P1b Root 1 as a high-frequency adverbial form |
+
+**Epistemic status of pattern:** [CORE]
+
+**Register note:** More colloquial than the aɣmočnda variant. Common in spoken Georgian and informal writing.
+
+**Constraint noted in data:** The adverbial (-ad) form is required for this construction, not the nominative adjective form. This contrasts with the aɣmočnda pattern, which uses the nominative. The P4b data explicitly notes this distinction.
+
+---
+
+### 1c. Pattern: [NP] + გამოაშკარავდა (gamoaškaravda) — "came to light / was exposed"
+
+**Description:** The verb gamoaškaravda (3sg aorist of gamoaškaraveba, "to be exposed / to come to light") is documented in P2b for both sicrue and siq̇albe. It encodes the inchoative transition from concealment to revelation for negative truth-domain states.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიცრუე გამოაშკარავდა | sicrue gamoaškaravda | the lie was exposed / the falsehood came to light | Attested in P2b Item 9 Construction 3 |
+| სიყალბე გამოაშკარავდა | siq̇albe gamoaškaravda | the falseness/fraud was exposed / the deception came to light | Attested in P2b Item 5 Construction 1 |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** This pattern is restricted in the data to negative truth-domain states (sicrue, siq̇albe). No parallel construction with a positive truth-domain noun (e.g., *č̣ešmariteba gamoaškaravda*) is attested in the data. The verb gamoaškaravda encodes exposure of something previously hidden, which is semantically compatible with falsehood (hidden deception coming to light) but not with truth in the same way.
+
+---
+
+### 1d. Pattern: სიმართლე მოვიდა გარეთ (simartle movida garet) — "the truth came out"
+
+**Description:** Documented in P2b Item 3 Construction 4 as an idiomatic construction. The spatial metaphor (truth coming outside) encodes the inchoative transition from concealment to revelation for the positive truth-domain noun simartle.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიმართლე მოვიდა გარეთ | simartle movida garet | the truth came out | Attested in P2b Item 3 Construction 4; idiomatic, non-compositional |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** This construction is specific to simartle and is not attested with č̣ešmariteba or other truth nouns in the data. The idiom uses a spatial metaphor (coming outside) rather than the exposure verb gamoaškaravda used for negative states.
+
+---
+
+### 1e. Pattern: [NP] + გამართლდა (gamartlda) — "was vindicated / proved to be right"
+
+**Description:** Documented in P1b Root 1 item 9 and P5 Opposition 44. The intransitive/passive form gamartlda encodes the inchoative transition to a state of being vindicated or proved correct.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| გამართლდა | gamartlda | was vindicated / proved to be right / turned out to be correct | Attested in P1b Root 1 item 9; used in journalistic and everyday narrative contexts to report that a prediction, person, or claim was subsequently shown to be correct |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** gamartlda is specific to the mart- root and encodes vindication or the confirmation of correctness. It is not interchangeable with namdvili aɣmočnda (authenticity confirmed) or q̇albi aɣmočnda (falseness revealed); it specifically encodes the confirmation of a person's or claim's rightness.
+
+---
+
+### 1f. Pattern: ნამდვილობა დადასტურდა (namdviloba dadasturda) — "the authenticity was confirmed"
+
+**Description:** Documented in P2b Item 8 Construction 1. The passive verb dadasturda (3sg aorist passive of dadastурeba, "to be confirmed") encodes the transition to a confirmed state of authenticity.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ნამდვილობა დადასტურდა | namdviloba dadasturda | the authenticity was confirmed / genuineness was verified | Attested in P2b Item 8 Construction 1; used in legal, archival, and administrative contexts |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** This pattern differs from the aɣmočnda pattern in that dadasturda encodes active confirmation by an agent (a court, an expert, an institution), whereas aɣmočnda encodes discovery or revelation. The distinction is between institutional verification and incidental discovery.
+
+---
+
+### 1g. No common inchoative expression attested for the following items
+
+The following truth-domain items from P1–P5 do not have attested inchoative constructions in the data:
+
+- **ჭეშმარიტება (č̣ešmariteba):** No construction of the form "X becomes truth" or "truth comes into being" is attested. The data documents č̣ešmariteba in static predicative and genitive constructions but not in inchoative frames.
+- **მცდარი (mcdari):** No construction of the form "X becomes erroneous" is attested. The item functions primarily as an attributive and predicative adjective in the data.
+- **გულწრფელი (gulc̣rpeli):** No inchoative construction is attested. The item functions in attributive, predicative, and adverbial constructions but not in becoming-frames in the data.
+- **მოჩვენებითი (močvenebiti):** No inchoative construction is attested. The item marks a static gap between appearance and reality rather than a transition.
+- **ლეგიტიმური (legitimuri):** No simple inchoative construction is attested, though ლეგიტიმაცია (legitimacia, "legitimation") encodes the process by which something acquires legitimacy (see Section 3 below).
+
+---
+
+## 2. CAUSATIVE: "Y causes X to be [truth-related state]"
+
+### 2a. Pattern: გა- + [truth-domain root] + -ება verbal stem — derivational causative
+
+**Description:** As documented in P4a Construction 5 and P5 Opposition 31, Georgian encodes causative truth-domain meaning derivationally through the preverb გა- (ga-) combined with the root and the verbal noun suffix -ება (-eba). This is not a productive syntactic causative but a derivational pattern. The resulting verbal noun or inflected verb expresses the act of bringing about a truth-domain state.
+
+| Verbal noun | Transliteration | English translation | Root | Notes |
+|---|---|---|---|---|
+| გაყალბება | gaq̇albeba | forgery, falsification, the act of making false | q̇alb- | Attested in P1 item 23, P1b Root 2, P2a item 6, P4a Construction 5; widely used in legal contexts |
+| გასწორება | gasc̣oreba | correction, rectification, the act of making correct | sc̣or- | Attested in P2a item 11 Derived Form 3, P4a Construction 5; used in editorial, educational, and everyday contexts |
+| გაზუსტება | gazusteba | clarification, specification, the act of making precise | zust- | Attested in P2a item 16 Derived Form 3; used in scientific, editorial, and administrative contexts |
+| გამართლება | gamartleba | justification, acquittal, vindication, the act of proving right | mart- | Attested in P1b Root 1 item 7, P2a item 4 Derived Form 6; used in legal and moral contexts |
+
+**Epistemic status of pattern:** [CORE]
+
+**Structural note:** The ga- preverb in these forms carries completive/resultative force: it encodes the bringing-about of a completed state. The agent who performs the action is expressed as the grammatical subject of the inflected verb. For example:
+
+| Example | Transliteration | English translation |
+|---|---|---|
+| დოკუმენტი გაყალბა | dokument̕i gaq̇alba | (someone) forged the document |
+| შეცდომა გაასწორა | šecdoma gaassc̣ora | (someone) corrected the mistake |
+| ბრალდებული გაამართლეს | braldebuli gaamartles | they acquitted the accused / they vindicated the accused |
+
+**Constraint noted in data:** The ga- causative pattern is productive for q̇alb-, sc̣or-, zust-, and mart- roots. No parallel ga- causative form is attested in the data for č̣ešmarit-, namdvil-, or sicrue-. This asymmetry is reported without explanation; it may reflect the semantic properties of these roots (č̣ešmariteba as a deep or essential quality not easily "made" by an agent) or gaps in the data.
+
+---
+
+### 2b. Pattern: [NP] + გაყალბებაში დაადანაშაულეს (gaq̇albebаši dadanašaules) — "was accused of causing falsification"
+
+**Description:** Documented in P2b Item 23 Construction 1. This construction encodes the attribution of a causative falsification act to an agent in a legal frame.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| გაყალბებაში დაადანაშაულეს | gaq̇albebаši dadanašaules | was accused of forgery / was charged with falsification | Attested in P2b Item 23 Construction 1; standard legal construction for charging someone with the crime of forgery |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 2c. Pattern: [NP] + [truth-domain adverbial] + წარმოადგინა / წარმოდგენა — "presented X as [false/true]"
+
+**Description:** Documented in P1b Root 2 item 23 as ყალბად წარმოდგენა (q̇albad c̣armogdgena, "false representation, misrepresentation"). This construction encodes the causative act of presenting something as having a false truth-domain property.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ყალბად წარმოდგენა | q̇albad c̣armogdgena | false representation, misrepresentation | Attested in P1b Root 2 item 23; used in fraud and misrepresentation cases |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** This construction encodes a causative act directed at an audience: the agent causes the audience to form a false belief by presenting something falsely. It is distinct from gaq̇albeba (which encodes the physical act of falsifying a document) in that it focuses on the representational act rather than the material alteration.
+
+---
+
+### 2d. Pattern: [NP] + -ს + დაუჯერა / დაუჯერებელი გახადა — causing belief or disbelief
+
+**Description:** The jer- root (to believe) underlies both damajerebeli (convincing, causing to believe) and daujerebeli (unbelievable). The causative dimension of damajerebeli is encoded in its morphology (the ma- prefix marks a causative/factitive meaning: "causing to believe"). No periphrastic "cause to believe" construction beyond the adjectival damajerebeli is attested in the data.
+
+| Form | Transliteration | English translation | Notes |
+|---|---|---|---|
+| დამაჯერებელი | damajerebeli | convincing, persuasive (= causing to believe) | Attested in P1 item 25; the ma- prefix encodes causative force morphologically |
+| დამაჯერებლად ჟღერს | damajereblad žɣers | sounds convincing | Attested in P2b Item 25 Construction 1; the causative force is in the adjective, not the verb |
+
+**Epistemic status of pattern:** [CORE]
+
+**Constraint noted in data:** No periphrastic construction of the form "Y caused X to believe" using a separate causative verb is attested in the data. The causative meaning is encoded within the morphology of damajerebeli itself.
+
+---
+
+### 2e. Pattern: [NP] + -ს + გამოაშკარავა (gamoaškarava) — "exposed / caused to come to light"
+
+**Description:** The verb gamoaškaraveba (to expose, to reveal) encodes a causative act: an agent causes a hidden truth-domain state to become visible. The passive form gamoaškaravda (was exposed) is documented in P2b; the active form gamoaškarava (exposed, 3sg aorist active) is the causative counterpart.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიცრუე გამოაშკარავა | sicrue gamoaškarava | exposed the lie / brought the falsehood to light | Active causative form; the agent causes the lie to be revealed |
+| სიყალბე გამოაშკარავა | siq̇albe gamoaškarava | exposed the fraud / brought the falseness to light | Active causative form; parallel to the passive construction in P2b |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** The active/passive alternation of gamoaškaraveba encodes the causative/inchoative distinction: the active form (gamoaškarava) encodes an agent causing exposure; the passive form (gamoaškaravda) encodes the state of having been exposed. Both are supported by the P2b data.
+
+---
+
+### 2f. Pattern: [NP] + -ს + დაუმალა სიმართლე / ჭეშმარიტება — "concealed the truth from X"
+
+**Description:** The verbal noun damalva (concealment) is documented in P1b and P2a for both simartle and č̣ešmariteba. The inflected verb form encodes the causative act of concealing truth from an audience.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიმართლე დაუმალა | simartle daumalа | concealed the truth from (someone) | Supported by simartlis damalva (P2a Item 3 Derived Form 2) and the verbal paradigm of damalva |
+| ჭეშმარიტება დაუმალა | č̣ešmariteba daumalа | concealed the truth from (someone) | Supported by č̣ešmaritebis damalva (P1b Root 3 item 14) |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 2g. No common causative expression attested for the following items
+
+- **ჭეშმარიტი (č̣ešmariti) / ჭეშმარიტება (č̣ešmariteba):** No construction of the form "Y makes X true" or "Y causes X to be true" is attested in the data. The P3 data notes that č̣ešmariteba is used in philosophical and theological registers where truth is treated as a deep or essential quality; this may be why no agentive causative is attested.
+- **მართალი (martali):** No construction of the form "Y makes X right/correct" (as a simple predicative causative) is attested beyond the derivational gamartleba pattern (Section 2a).
+- **გულწრფელი (gulc̣rpeli):** No causative construction is attested. Sincerity is not encoded as something that can be caused by an external agent in the data.
+- **მოჩვენებითი (močvenebiti):** No causative construction is attested. The item marks a static appearance/reality gap rather than a caused state in the data.
+
+---
+
+## 3. PROCESS EXPRESSIONS: "X undergoes [truth-related process]"
+
+### 3a. Pattern: [NP] + გამართლდა (gamartlda) — "was vindicated / proved right"
+
+**Description:** Documented in P1b Root 1 item 9. The intransitive/passive form gamartlda encodes the process by which a person or claim comes to be recognized as correct or vindicated. The agent of vindication is backgrounded or absent.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| პროგნოზი გამართლდა | prognozi gamartlda | the prediction proved correct / the forecast was vindicated | Attested in P1b Root 1 item 9 as the typical use case |
+| ბრალდებული გამართლდა | braldebuli gamartlda | the accused was acquitted / the defendant was vindicated | Legal use; the process of acquittal |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 3b. Pattern: [NP] + გაზუსტდა (gazustda) — "was specified / was made precise"
+
+**Description:** The intransitive/passive counterpart of gazusteba (making precise). Supported by the resultative participle gazustebuli (specified, made precise) documented in P2a item 16 Derived Form 4.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ინფორმაცია გაზუსტდა | inpormacia gazustda | the information was specified / the data was made precise | Supported by the gazusteba/gazustebuli paradigm in P2a |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 3c. Pattern: ლეგიტიმაცია (legitimacia) — the process of becoming legitimate
+
+**Description:** Documented in P2a item 21 Derived Form 3. legitimacia encodes the process by which authority or a claim acquires legitimate status. It is a nominal encoding of a process rather than a verbal construction.
+
+| Form | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ლეგიტიმაცია | legitimacia | legitimation, legitimization | Attested in P2a item 21 Derived Form 3; used in political and sociological discourse |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** legitimacia is the only process noun in the data that encodes the acquisition of a truth-domain property (legitimacy) as a named process. No parallel process noun for acquiring authenticity (namdviloba) or truth (č̣ešmariteba) is attested in the data.
+
+---
+
+### 3d. Pattern: [NP] + -ში + გაიჭირა / დაიჭირეს — "was caught in [a lie / falsification]"
+
+**Description:** Documented in P2b for both sicrue (Item 9 Construction 2) and siq̇albe (Item 5 Construction 2). The locative construction encodes the process of being apprehended in the act of deception or falsification.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიცრუეში გაიჭირა | sicruеši gaič̣ira | was caught in a lie | Attested in P2b Item 9 Construction 2 |
+| სიყალბეში დაიჭირეს | siq̇albеši daič̣ires | was caught in the act of falsification | Attested in P2b Item 5 Construction 2 |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+## 4. STABILITY AND PERSISTENCE EXPRESSIONS
+
+### 4a. Pattern: [NP] + [truth-domain adverbial] + ითვლება (itvleba) — "is considered / is regarded as [truth-domain state]"
+
+**Description:** The verb itvleba (is considered, 3sg present passive of tvla) combined with a truth-domain adverbial encodes the stable attribution of a truth-domain property to a subject by a community or institution. Documented in P2b for sarc̣muno, avtent̕uri, and legitimuri.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სარწმუნოდ ითვლება | sarc̣munod itvleba | is considered reliable / is regarded as credible | Attested in P2b Item 13 Construction 3 |
+| ავთენტურად ითვლება | avtent̕urad itvleba | is considered authentic / is regarded as genuine | Attested in P2b Item 20 Construction 2 |
+| ლეგიტიმურად ითვლება | legitimurad itvleba | is considered legitimate / is regarded as lawful | Attested in P2b Item 21 Construction 2 |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** The itvleba construction encodes a stable social or institutional attribution rather than a momentary state. It implies that the truth-domain property is recognized and maintained over time by a relevant community. This distinguishes it from the aɣmočnda construction (which encodes discovery) and the dadasturda construction (which encodes a specific act of verification).
+
+---
+
+### 4b. Pattern: ჭეშმარიტება გამარჯვებს (č̣ešmariteba gamarjvebs) — "truth prevails"
+
+**Description:** Documented in P1b Root 3 item 11 and P2b Item 2 Construction (proverbial). The present tense gamarjvebs (wins/prevails, 3sg present of gamarjveba) encodes truth's persistence and ultimate triumph as a stable or recurring state.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| ჭეშმარიტება გამარჯვებს | č̣ešmariteba gamarjvebs | truth prevails / truth wins out | Attested in P1b Root 3 item 11; proverbial/rhetorical; present tense encodes habitual or universal truth |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 4c. Pattern: სიცრუეს ვერ დამალავ (sicrues ver damalav) — "a lie cannot be concealed"
+
+**Description:** Documented in P2b Item 9 Construction 4. The modal ver (cannot) with the future form damalav (you will hide) encodes the impossibility of maintaining a lie in a stable concealed state — the instability of falsehood as a persistent condition.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიცრუეს ვერ დამალავ | sicrues ver damalav | you cannot hide a lie / a lie cannot be concealed | Attested in P2b Item 9 Construction 4; proverbial; encodes the inherent instability of falsehood |
+
+**Epistemic status of pattern:** [CORE]
+
+**Semantic note:** This construction encodes the negative stability of falsehood: it cannot persist in a concealed state. It is the dynamic counterpart of the proverbial ჭეშმარიტება გამარჯვებს (truth prevails), which encodes the positive persistence of truth. Together they form a complementary pair documented in P5 Opposition 37.
+
+---
+
+### 4d. Pattern: სიცრუეს ფეხი მოკლე აქვს (sicrues pexi mokle aqvs) — "a lie has short legs"
+
+**Description:** Documented in P2b Item 9 Construction 5. The proverbial construction encodes the inherent instability and limited persistence of falsehood through a spatial/physical metaphor.
+
+| Example | Transliteration | English translation | Notes |
+|---|---|---|---|
+| სიცრუეს ფეხი მოკლე აქვს | sicrues pexi mokle aqvs | a lie has short legs (i.e., lies are soon found out) | Attested in P2b Item 9 Construction 5; fixed proverb; encodes the limited reach and persistence of falsehood |
+
+**Epistemic status of pattern:** [CORE]
+
+---
+
+### 4e. Pattern: [NP] + [truth-domain adjectival] + რჩება (rčeba) — "remains [truth-domain state]"
+
+**Description:** The verb rčeba (remains, 3sg present of darčena) is not directly attested in the P1–P5 data in combination with truth-domain adjectives. However, the data documents the stable predicative constructions (e.g., martalia, namdvilia, sarc̣munoa) which encode present-state attribution. No explicit "remains true / remains genuine" construction is attested in the data.
+
+**Explicit statement:** No common expression of the form "X remains true/genuine/correct" using a dedicated persistence verb is attested in the P1–P5 data. Stability is encoded through the present-tense predicative constructions and the itvleba pattern (Section 4a) rather than through a dedicated persistence construction.
+
+---
+
+## 5. SUMMARY TABLE
+
+| Dynamic type | Primary pattern | Key verb/morpheme | Attested items | Register |
+|---|---|---|---|---|
+| Inchoative (discovery) | [adj nominative] + aɣmočnda | aɣmočnda | namdvili, q̇albi, sarc̣muno, saečvo | Formal and spoken |
+| Inchoative (colloquial) | [adj adverbial -ad] + gamovida | gamovida | q̇albad, martlad | Colloquial |
+| Inchoative (exposure of falsehood) | [noun] + gamoaškaravda | gamoaškaravda | sicrue, siq̇albe | Neutral |
+| Inchoative (revelation of truth) | simartle movida garet | movida garet | simartle only | Colloquial/idiomatic |
+| Inchoative (vindication) | gamartlda | ga- + mart- + -d- | mart- root | Journalistic/everyday |
+| Inchoative (institutional verification) | namdviloba dadasturda | dadasturda | namdviloba | Legal/administrative |
+| Causative (derivational) | ga- + root + -eba | ga- preverb | q̇alb-, sc̣or-, zust-, mart- | Legal/editorial/everyday |
+| Causative (representational) | q̇albad c̣armogdgena | c̣armogdgena | q̇alb- | Legal |
+| Causative (exposure) | [noun] + gamoaškarava | gamoaškarava (active) | sicrue, siq̇albe | Neutral |
+| Causative (concealment) | [noun] + daumalа | damalva | simartle, č̣ešmariteba | Moral/legal |
+| Process (legitimation) | legitimacia | -acia suffix | legitimuri | Political/sociological |
+| Process (apprehension) | -ši gaič̣ira / daič̣ires | -ši locative + catch verb | sicrue, siq̇albe | Legal/journalistic |
+| Stability (institutional) | [adverbial] + itvleba | itvleba | sarc̣muno, avtent̕uri, legitimuri | Formal/institutional |
+| Stability (proverbial/truth) | č̣ešmariteba gamarjvebs | gamarjvebs | č̣ešmariteba | Rhetorical/proverbial |
+| Instability (proverbial/falsehood) | sicrues ver damalav | ver + damalav | sicrue | Proverbial |
+| Instability (proverbial/falsehood) | sicrues pexi mokle aqvs | aqvs | sicrue | Proverbial |
+
+---
+
+## 6. ASYMMETRIES NOTED IN THE DATA
+
+The following asymmetries in the dynamic encoding of truth-domain meanings are directly supported by the P1–P5 data and are reported without interpretation:
+
+**6a. Causative asymmetry:** The derivational ga- causative pattern (Section 2a) is attested for q̇alb- (making false), sc̣or- (making correct), zust- (making precise), and mart- (vindicating/justifying). No parallel ga- causative form for č̣ešmarit- (making true in the philosophical sense) or namdvil- (making genuine) is attested in the data.
+
+**6b. Exposure asymmetry:** The verb gamoaškaravda (was exposed) is attested in the data only for negative truth-domain states (sicrue, siq̇albe). The positive truth-domain noun simartle uses a different construction (movida garet, "came out") for the same inchoative meaning. č̣ešmariteba does not have an attested inchoative exposure construction in the data.
+
+**6c. Agentive asymmetry:** The agentive nominalization pattern (-ebeli) documented in P4a Construction 7 is attested only for falsification actors (gamq̇albebeli, "forger"). No parallel agentive noun for a truth-establishing actor (e.g., a "truth-teller" or "authenticator") is attested in the data. This asymmetry was noted in P4b and is confirmed here.
+
+**6d. Proverbial stability asymmetry:** Proverbial constructions encoding stability and persistence are attested only for sicrue (instability of falsehood: sicrues ver damalav, sicrues pexi mokle aqvs) and č̣ešmariteba (persistence of truth: č̣ešmariteba gamarjvebs). No parallel proverbial constructions are attested for namdvili, q̇albi, martali, or other truth-domain items in the data.
+
+**6e. Legitimation process:** legitimacia (the process of becoming legitimate) is the only nominalized process expression for the acquisition of a truth-domain property attested in the data. No parallel process nouns for acquiring authenticity, credibility, or correctness are attested.
+
+---
+
+*End of P6 CHANGE, CAUSATION, AND STABILITY output.*

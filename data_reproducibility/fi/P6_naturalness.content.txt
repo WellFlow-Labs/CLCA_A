@@ -1,0 +1,930 @@
+# CLCA Protocol v3.4 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Finnish (fi)
+
+## Methodology Note
+
+This analysis documents **attested dynamic expressions** involving truth-domain vocabulary from P1-P5. Finnish exhibits rich morphological resources for encoding change and causation through derivational suffixes. I examine only patterns actually used in the language, noting gaps where expected patterns do not occur.
+
+---
+
+## 1. BECOMING TRUE / REAL
+
+### 1.1 todellistua — "become real, be realized"
+
+**Pattern:** [SUBJECT] + todellistua
+**Morphology:** tode-llistu-a (true-ADJ-BECOME-INF)
+**Derivation:** Inchoative from causative *todellistaa*
+
+**Examples:**
+- **Unelma todellistui.** / unelma todellistui / "The dream came true."
+- **Pelko todellistui.** / pelko todellistui / "The fear was realized."
+- **Suunnitelma ei todellistunut.** / suunnitelma ei todellistunut / "The plan did not materialize."
+
+**Usage notes:** Common with abstract subjects (dreams, fears, plans, predictions). Emphasizes transition from potential/imagined to actual. Neutral register. Implies complete realization.
+
+**Aspectual properties:** Telic (implies completion). Perfective aspect typical (*todellistui* "came true" more common than progressive *on todellistumassa* "is coming true").
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 toteutua — "come true, be realized, be implemented"
+
+**Pattern:** [SUBJECT] + toteutua
+**Morphology:** tote-utu-a (true-BECOME-INF)
+**Derivation:** Inchoative from causative *toteuttaa*
+
+**Examples:**
+- **Suunnitelma toteutui.** / suunnitelma toteutui / "The plan was realized."
+- **Ennustus toteutui.** / ennustus toteutui / "The prediction came true."
+- **Hanke toteutuu ensi vuonna.** / hanke toteutuu ensi vuonna / "The project will be implemented next year."
+
+**Usage notes:** Very common with plans, projects, predictions. More concrete/practical than *todellistua*. Used in project management, planning contexts. Can take temporal modifiers.
+
+**Aspectual properties:** Telic. Both perfective (*toteutui*) and progressive (*toteutuu*, *on toteutumassa*) common. Progressive emphasizes ongoing implementation.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 todentua — "be verified, be confirmed"
+
+**Pattern:** [SUBJECT] + todentua
+**Morphology:** tode-ntu-a (true-BECOME-INF)
+**Derivation:** Inchoative from causative *todentaa*
+
+**Examples:**
+- **Epäilyt todentuivat.** / epäilyt todentuivat / "The suspicions were confirmed."
+- **Väite todentui.** / väite todentui / "The claim was verified."
+- **Tiedot eivät todentuneet.** / tiedot eivät todentuneet / "The information was not confirmed."
+
+**Usage notes:** More formal than *toteutua*. Emphasizes verification/confirmation rather than simple realization. Common in investigative, journalistic contexts. Subjects typically claims, suspicions, information.
+
+**Aspectual properties:** Telic. Perfective aspect typical. Progressive rare.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 paljastua — "be revealed, come to light" (with totuus)
+
+**Pattern:** totuus + paljastuu
+**Morphology:** paljast-u-a (reveal-REFL-INF)
+**Note:** *Paljastua* not derived from P1 vocabulary but commonly used with truth-terms
+
+**Examples:**
+- **Totuus paljastuu lopulta.** / totuus paljastuu lopulta / "The truth will be revealed eventually."
+- **Totuus paljastui.** / totuus paljastui / "The truth came to light."
+- **Tosiasiat paljastuivat.** / tosiasiat paljastuivat / "The facts were revealed."
+
+**Usage notes:** Very common collocation with *totuus* and *tosiasiat*. Implies hidden truth becoming known. Narrative and investigative contexts. Emphasizes discovery/uncovering.
+
+**Aspectual properties:** Telic. Both perfective and progressive common. Progressive (*paljastuu*) emphasizes gradual revelation.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 käydä todeksi — "come true" (idiomatic)
+
+**Pattern:** [SUBJECT] + käy todeksi
+**Morphology:** käy-dä tode-ksi (go-INF true-TRANSLATIVE)
+**Note:** Fixed expression using translative case
+
+**Examples:**
+- **Unelma kävi todeksi.** / unelma kävi todeksi / "The dream came true."
+- **Ennustus kävi todeksi.** / ennustus kävi todeksi / "The prediction came true."
+
+**Usage notes:** Somewhat literary/emphatic. Less common than *todellistua* or *toteutua* but established idiom. Emphasizes transformation to truth/reality. Often with dreams, wishes, predictions.
+
+**Aspectual properties:** Telic. Perfective typical.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1.6 pitää paikkansa (stative, not change)
+
+**Pattern:** [SUBJECT] + pitää paikkansa
+**Note:** This is stative ("is true"), not change expression
+
+**Examples:**
+- **Väite pitää paikkansa.** / väite pitää paikkansa / "The claim is true."
+
+**Usage notes:** Does not encode becoming true, only being true. No inchoative form (*\*alkaa pitää paikkansa* "start to be true" not idiomatic). Included for contrast with change expressions.
+
+**Epistemic status:** [CORE] (but not change expression)
+
+---
+
+## 2. BECOMING FALSE / WRONG
+
+### 2.1 vääristyä — "become distorted"
+
+**Pattern:** [SUBJECT] + vääristyä
+**Morphology:** vääriste-ä (distort-REFL-INF)
+**Derivation:** Inchoative from causative *vääristää*
+
+**Examples:**
+- **Totuus vääristyy.** / totuus vääristyy / "The truth becomes distorted."
+- **Kuva vääristyi.** / kuva vääristyi / "The image became distorted."
+- **Merkitys vääristyy helposti.** / merkitys vääristyy helposti / "The meaning easily becomes distorted."
+
+**Usage notes:** Common with *totuus*, *kuva* "image," *merkitys* "meaning." Emphasizes gradual corruption or transformation. Implies deviation from original true/correct state.
+
+**Aspectual properties:** Atelic (process-oriented). Progressive common (*vääristyy*, *on vääristymässä*). Can be gradual or sudden.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2.2 mennä pieleen — "go wrong" (idiomatic)
+
+**Pattern:** [SUBJECT] + menee pieleen
+**Morphology:** men-nä pieleen (go-INF astray)
+**Note:** *Pieleen* not in P1 but common idiom for "going wrong"
+
+**Examples:**
+- **Suunnitelma meni pieleen.** / suunnitelma meni pieleen / "The plan went wrong."
+- **Kaikki meni pieleen.** / kaikki meni pieleen / "Everything went wrong."
+
+**Usage notes:** Very common idiom. Not specifically truth-domain but used for plans, procedures failing. Informal register. Implies failure or error.
+
+**Epistemic status:** [MARGINAL] (not core truth-domain)
+
+---
+
+### 2.3 osoittautua vääräksi — "turn out to be false"
+
+**Pattern:** [SUBJECT] + osoittautuu vääräksi
+**Morphology:** osoittautu-a väärä-ksi (show.REFL-INF wrong-TRANSLATIVE)
+**Note:** *Osoittautua* not in P1 but standard construction
+
+**Examples:**
+- **Väite osoittautui vääräksi.** / väite osoittautui vääräksi / "The claim turned out to be false."
+- **Teoria osoittautui vääräksi.** / teoria osoittautui vääräksi / "The theory turned out to be wrong."
+
+**Usage notes:** Common construction for claims/theories proven false. Formal/neutral register. Emphasizes discovery of falsity through evidence or events.
+
+**Aspectual properties:** Telic. Perfective typical (*osoittautui*). Implies completed discovery.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 paljastua valheeksi — "be revealed as a lie"
+
+**Pattern:** [SUBJECT] + paljastuu valheeksi
+**Morphology:** paljast-u-a valhe-eksi (reveal-REFL-INF lie-TRANSLATIVE)
+
+**Examples:**
+- **Väite paljastui valheeksi.** / väite paljastui valheeksi / "The claim was revealed to be a lie."
+- **Tarina paljastui valheeksi.** / tarina paljastui valheeksi / "The story was revealed to be a lie."
+
+**Usage notes:** Common construction emphasizing discovery of deliberate falsehood. Stronger than *osoittautua vääräksi* — implies intentional deception. Narrative and investigative contexts.
+
+**Aspectual properties:** Telic. Perfective typical.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2.5 (no common expression for "become untrue")
+
+**Pattern:** (no common expression identified)
+**Note:** Finnish lacks simple inchoative from *epätosi* or *väärä* meaning "become false/untrue"
+
+**Explanation:** While *vääristyä* exists for "become distorted," there is no simple *\*väärtyä* "become false" or *\*epätoistua* "become untrue." The concept is expressed through constructions like *osoittautua vääräksi* "turn out to be false" or *paljastua valheeksi* "be revealed as a lie."
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 3. CAUSING TO BE TRUE / REAL
+
+### 3.1 todellistaa — "realize, actualize, make real"
+
+**Pattern:** [AGENT] + todellistaa + [OBJECT]
+**Morphology:** tode-llista-a (true-ADJ-CAUS-INF)
+**Derivation:** Causative from adjective *todellinen*
+
+**Examples:**
+- **Hän todellistaa unelmansa.** / hän todellistaa unelmansa / "He/she realizes his/her dreams."
+- **Yritys todellistaa suunnitelman.** / yritys todellistaa suunnitelman / "The company realizes the plan."
+- **Todellistaa tavoitteet** / todellistaa tavoitteet / "realize the goals"
+
+**Usage notes:** Common with abstract objects (dreams, goals, plans). Emphasizes making potential/imagined things actual. Neutral register. Implies active agency.
+
+**Aspectual properties:** Telic. Can be progressive (*todellistaa*, *on todellistamassa*) or perfective (*totellisti*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.2 toteuttaa — "realize, implement, carry out"
+
+**Pattern:** [AGENT] + toteuttaa + [OBJECT]
+**Morphology:** tote-utta-a (true-CAUS-INF)
+**Derivation:** Causative from inchoative *toteutua*
+
+**Examples:**
+- **Toteuttaa suunnitelma** / toteuttaa suunnitelma / "implement the plan"
+- **Toteuttaa päätös** / toteuttaa päätös / "carry out the decision"
+- **Hallitus toteuttaa uudistuksen.** / hallitus toteuttaa uudistuksen / "The government implements the reform."
+
+**Usage notes:** Very common in planning, project management, administrative contexts. More concrete/practical than *todellistaa*. Emphasizes execution and implementation. Neutral/formal register.
+
+**Aspectual properties:** Telic. Both progressive and perfective common. Progressive emphasizes ongoing implementation.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 todistaa — "prove, demonstrate"
+
+**Pattern:** [AGENT] + todistaa + [OBJECT/CLAUSE]
+**Morphology:** todista-a (prove-INF)
+**Derivation:** Causative from *tosi* root (irregular formation)
+
+**Examples:**
+- **Todistaa väite oikeaksi** / todistaa väite oikeaksi / "prove the claim correct"
+- **Todistaa syyttömyytensä** / todistaa syyttömyytensä / "prove one's innocence"
+- **Hän todisti, että oli oikeassa.** / hän todisti että oli oikeassa / "He/she proved that he/she was right."
+
+**Usage notes:** Very common in argumentative, legal, scientific contexts. Emphasizes establishing truth through evidence or demonstration. Can take object + translative or complement clause.
+
+**Aspectual properties:** Telic. Perfective typical (*todisti*) but progressive possible (*todistaa*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.4 todentaa — "verify, authenticate, confirm"
+
+**Pattern:** [AGENT] + todentaa + [OBJECT]
+**Morphology:** tode-nta-a (true-CAUS-INF)
+**Derivation:** Causative from *tosi* root
+
+**Examples:**
+- **Todentaa henkilöllisyys** / todentaa henkilöllisyys / "verify identity"
+- **Todentaa tiedot** / todentaa tiedot / "verify the information"
+- **Viranomainen todentaa asiakirjat.** / viranomainen todentaa asiakirjat / "The authority authenticates the documents."
+
+**Usage notes:** Formal/technical term. Common in administrative, legal, technical contexts. Emphasizes verification and authentication. More formal than *todistaa*.
+
+**Aspectual properties:** Telic. Perfective typical.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.5 oikeuttaa — "justify, warrant"
+
+**Pattern:** [SUBJECT] + oikeuttaa + [OBJECT]
+**Morphology:** oikeut-ta-a (right-CAUS-INF)
+**Derivation:** Causative from *oikeus* "right, justice"
+
+**Examples:**
+- **Oikeuttaa toimensa** / oikeuttaa toimensa / "justify one's actions"
+- **Tilanne oikeuttaa toimenpiteet.** / tilanne oikeuttaa toimenpiteet / "The situation warrants the measures."
+- **Mikään ei oikeuta väkivaltaa.** / mikään ei oikeuta väkivaltaa / "Nothing justifies violence."
+
+**Usage notes:** Common in moral, legal, political discourse. Emphasizes providing justification or legitimate grounds. Can have abstract or concrete subjects. Neutral/formal register.
+
+**Aspectual properties:** Stative-like. Present tense common (*oikeuttaa*). Less clearly telic than other causatives.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.6 paljastaa — "reveal, expose" (with totuus, valhe)
+
+**Pattern:** [AGENT] + paljastaa + [OBJECT]
+**Morphology:** paljasta-a (reveal-INF)
+**Note:** *Paljastaa* not derived from P1 vocabulary but common with truth-terms
+
+**Examples:**
+- **Paljastaa totuus** / paljastaa totuus / "reveal the truth"
+- **Paljastaa valhe** / paljastaa valhe / "expose the lie"
+- **Toimittaja paljasti valheen.** / toimittaja paljasti valheen / "The journalist exposed the lie."
+
+**Usage notes:** Very common collocation with *totuus* and *valhe*. Emphasizes making hidden truth/falsehood known. Investigative and journalistic contexts. Implies uncovering.
+
+**Aspectual properties:** Telic. Perfective typical (*paljasti*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3.7 (no common causative from aito)
+
+**Pattern:** (no common expression identified)
+**Note:** *Aito* "genuine" lacks causative *\*aitouttaa* "make genuine"
+
+**Explanation:** While many truth-domain adjectives generate causatives (*todellinen* → *todellistaa*, *väärä* → *vääristää*), *aito* does not. The concept "make genuine/authentic" is not expressed through simple causative derivation. Alternative constructions would use *tehdä aidoksi* "make into genuine" (translative) or descriptive phrases.
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 4. CAUSING TO BE FALSE / WRONG
+
+### 4.1 vääristää — "distort, falsify"
+
+**Pattern:** [AGENT] + vääristää + [OBJECT]
+**Morphology:** vääriste-ä (distort-CAUS-INF)
+**Derivation:** Causative from *väärä*
+
+**Examples:**
+- **Vääristää totuutta** / vääristää totuutta / "distort the truth"
+- **Vääristää tosiasioita** / vääristää tosiasioita / "distort the facts"
+- **Media vääristää tietoja.** / media vääristää tietoja / "The media distorts information."
+
+**Usage notes:** Very common in critical discourse (media criticism, political debate). Emphasizes transformation/corruption of truth. Can be intentional or unintentional. Negative connotation.
+
+**Aspectual properties:** Atelic (can be ongoing process) or telic (completed distortion). Both progressive and perfective common.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 4.2 väärentää — "forge, counterfeit, falsify"
+
+**Pattern:** [AGENT] + väärentää + [OBJECT]
+**Morphology:** väären-tä-a (false-CAUS-INF)
+**Derivation:** Causative from *väärä* (different stem vowel from *vääristää*)
+
+**Examples:**
+- **Väärentää allekirjoitus** / väärentää allekirjoitus / "forge a signature"
+- **Väärentää asiakirja** / väärentää asiakirja / "falsify a document"
+- **Hän väärenti todistuksen.** / hän väärenti todistuksen / "He/she forged the certificate."
+
+**Usage notes:** Legal/criminal term. Emphasizes deliberate creation of false copies or falsification. Always intentional. Formal/legal register. Distinct from *vääristää* (distort).
+
+**Aspectual properties:** Telic. Perfective typical (*väärenti*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 4.3 tehdä vääräksi — "make false/wrong" (translative construction)
+
+**Pattern:** [AGENT] + tekee + [OBJECT] + vääräksi
+**Morphology:** teh-dä väärä-ksi (make-INF wrong-TRANSLATIVE)
+**Note:** Productive construction but less common than specific verbs
+
+**Examples:**
+- **Se tekee väitteen vääräksi.** / se tekee väitteen vääräksi / "That makes the claim false."
+- (less common than *todistaa vääräksi* "prove false")
+
+**Usage notes:** Grammatically possible but less idiomatic than specific verbs (*vääristää*, *väärentää*) or *todistaa vääräksi* "prove false." Productive pattern but not preferred for truth-domain.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 4.4 kumota — "refute, overturn" (not in P1 but common)
+
+**Pattern:** [AGENT] + kumoaa + [OBJECT]
+**Morphology:** kumoa-a (overturn-INF)
+**Note:** *Kumota* not in P1 but standard for refutation
+
+**Examples:**
+- **Kumota väite** / kumota väite / "refute the claim"
+- **Kumota teoria** / kumota teoria / "overturn the theory"
+
+**Usage notes:** Common in argumentative and scientific contexts. Emphasizes proving false or overturning established claims. Formal/neutral register.
+
+**Epistemic status:** [MARGINAL] (not P1 vocabulary)
+
+---
+
+### 4.5 (no simple causative "make untrue")
+
+**Pattern:** (no common expression identified)
+**Note:** No simple causative from *epätosi* or general "make false" verb
+
+**Explanation:** Finnish uses specific verbs (*vääristää* "distort," *väärentää* "forge") rather than general causative "make false/untrue." The concept is expressed through these specialized verbs or constructions like *todistaa vääräksi* "prove false."
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 5. MAINTAINING TRUTH / STABILITY
+
+### 5.1 pitää paikkansa — "be true, hold" (stative)
+
+**Pattern:** [SUBJECT] + pitää paikkansa
+**Morphology:** pitä-ä paikka-nsa (hold-INF place-3POSS)
+**Note:** Stative expression, not change
+
+**Examples:**
+- **Väite pitää paikkansa.** / väite pitää paikkansa / "The claim is true."
+- **Tiedot pitävät paikkansa.** / tiedot pitävät paikkansa / "The information is accurate."
+
+**Usage notes:** Expresses stable truth state. No inchoative (*\*alkaa pitää paikkansa* not idiomatic). Negation *ei pidä paikkaansa* common. Formal/neutral register.
+
+**Aspectual properties:** Stative. Present tense typical. Not change expression.
+
+**Epistemic status:** [CORE] (but stative, not dynamic)
+
+---
+
+### 5.2 pysyä totena — "remain true" (rare)
+
+**Pattern:** [SUBJECT] + pysyy totena
+**Morphology:** pysy-ä tote-na (remain-INF true-ESSIVE)
+**Note:** Grammatically possible but rare
+
+**Examples:**
+- **Väite pysyy totena.** / väite pysyy totena / "The claim remains true."
+- (uncommon; more natural: *pitää edelleen paikkansa* "still holds")
+
+**Usage notes:** Grammatically correct but not idiomatic. Finnish prefers *pitää paikkansa* for stable truth or *pitää edelleen paikkansa* "still holds" for continued truth.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 5.3 säilyttää totuus — "preserve the truth" (rare)
+
+**Pattern:** [AGENT] + säilyttää + totuuden
+**Morphology:** säilyttä-ä totuude-n (preserve-INF truth-GEN)
+**Note:** Grammatically possible but uncommon
+
+**Examples:**
+- **Säilyttää totuus** / säilyttää totuus / "preserve the truth"
+- (rare; more common: *puhua totuutta* "speak the truth")
+
+**Usage notes:** Grammatically correct but not common collocation. *Säilyttää* "preserve" more common with concrete objects. Truth-preservation more often expressed through *puhua totuutta* "speak truth" or *pysyä totuudessa* "stay in truth."
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 5.4 (no common expression for "keep true")
+
+**Pattern:** (no common expression identified)
+**Note:** Finnish lacks idiomatic "keep X true" construction
+
+**Explanation:** While *pitää* "keep, hold" is common verb, *pitää totena* "keep true" is not idiomatic. Truth-maintenance expressed through stative *pitää paikkansa* "be true" or *pysyä voimassa* "remain valid" (legal contexts).
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 6. PREVENTING FALSIFICATION
+
+### 6.1 suojella totuutta — "protect the truth" (rare)
+
+**Pattern:** [AGENT] + suojelee + totuutta
+**Morphology:** suojel-la totuut-ta (protect-INF truth-PART)
+**Note:** Grammatically possible but uncommon
+
+**Examples:**
+- **Suojella totuutta** / suojella totuutta / "protect the truth"
+- (rare; more abstract/literary than common usage)
+
+**Usage notes:** Grammatically correct but not common collocation. More likely in abstract/philosophical discourse than everyday usage. *Suojella* "protect" more common with concrete objects or people.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 6.2 estää vääristyminen — "prevent distortion"
+
+**Pattern:** [AGENT] + estää + vääristymisen
+**Morphology:** estä-ä vääristy-mise-n (prevent-INF distort-GERUND-GEN)
+
+**Examples:**
+- **Estää tiedon vääristyminen** / estää tiedon vääristyminen / "prevent the distortion of information"
+- **Estää totuuden vääristyminen** / estää totuuden vääristyminen / "prevent the distortion of truth"
+
+**Usage notes:** Productive construction. *Estää* "prevent" + gerund common pattern. Formal/technical register. Emphasizes active prevention of corruption.
+
+**Aspectual properties:** Atelic (ongoing prevention) or telic (successful prevention).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 6.3 (no common expression for "keep from becoming false")
+
+**Pattern:** (no common expression identified)
+**Note:** Concept expressed through prevention of distortion rather than direct "keep from falsification"
+
+**Explanation:** Finnish lacks simple construction for "keep X from becoming false." The concept expressed through *estää vääristyminen* "prevent distortion" or *varmistaa paikkansapitävyys* "ensure accuracy."
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 7. GRADUAL CHANGE
+
+### 7.1 vääristyä vähitellen — "become distorted gradually"
+
+**Pattern:** [SUBJECT] + vääristyy + vähitellen
+**Morphology:** vääriste-ä vähitellen (distort-REFL-INF gradually)
+
+**Examples:**
+- **Totuus vääristyy vähitellen.** / totuus vääristyy vähitellen / "The truth becomes distorted gradually."
+- **Merkitys vääristyy ajan myötä.** / merkitys vääristyy ajan myötä / "The meaning becomes distorted over time."
+
+**Usage notes:** Common construction. *Vääristyä* naturally compatible with gradual change adverbs (*vähitellen* "gradually," *ajan myötä* "over time"). Emphasizes process rather than sudden change.
+
+**Aspectual properties:** Atelic. Progressive aspect natural. Emphasizes ongoing process.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 7.2 paljastua vähitellen — "be revealed gradually"
+
+**Pattern:** [SUBJECT] + paljastuu + vähitellen
+**Morphology:** paljast-u-a vähitellen (reveal-REFL-INF gradually)
+
+**Examples:**
+- **Totuus paljastuu vähitellen.** / totuus paljastuu vähitellen / "The truth is revealed gradually."
+- **Tosiasiat paljastuvat ajan myötä.** / tosiasiat paljastuvat ajan myötä / "The facts are revealed over time."
+
+**Usage notes:** Common construction. Emphasizes gradual discovery or uncovering. Narrative and investigative contexts. Compatible with temporal modifiers.
+
+**Aspectual properties:** Atelic. Progressive aspect natural.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 7.3 (no common expression for "become gradually true")
+
+**Pattern:** (no common expression identified)
+**Note:** *Todellistua* and *toteutua* typically telic, not gradual
+
+**Explanation:** While *todellistua* "come true" and *toteutua* "be realized" can take progressive aspect (*on todellistumassa*), they are inherently telic and don't naturally combine with gradual change adverbs. Truth-becoming is typically conceptualized as discrete event rather than gradual process in Finnish.
+
+**Epistemic status:** [UNCERTAIN] (conceptual constraint)
+
+---
+
+## 8. SUDDEN CHANGE
+
+### 8.1 paljastua yhtäkkiä — "be revealed suddenly"
+
+**Pattern:** [SUBJECT] + paljastuu + yhtäkkiä
+**Morphology:** paljast-u-a yhtäkkiä (reveal-REFL-INF suddenly)
+
+**Examples:**
+- **Totuus paljastui yhtäkkiä.** / totuus paljastui yhtäkkiä / "The truth was revealed suddenly."
+- **Valhe paljastui yllättäen.** / valhe paljastui yllättäen / "The lie was revealed unexpectedly."
+
+**Usage notes:** Common construction. Emphasizes sudden discovery. Compatible with suddenness adverbs (*yhtäkkiä* "suddenly," *yllättäen* "unexpectedly"). Narrative contexts.
+
+**Aspectual properties:** Telic. Perfective aspect typical (*paljastui*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 8.2 toteutua nopeasti — "be realized quickly"
+
+**Pattern:** [SUBJECT] + toteutuu + nopeasti
+**Morphology:** tote-utu-a nopeasti (true-BECOME-INF quickly)
+
+**Examples:**
+- **Suunnitelma toteutui nopeasti.** / suunnitelma toteutui nopeasti / "The plan was realized quickly."
+- **Ennustus toteutui yllättävän nopeasti.** / ennustus toteutui yllättävän nopeasti / "The prediction came true surprisingly quickly."
+
+**Usage notes:** Common construction. Emphasizes rapid realization. Compatible with speed adverbs. Neutral register.
+
+**Aspectual properties:** Telic. Perfective typical.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 8.3 (no specific "become suddenly false" expression)
+
+**Pattern:** (no common expression identified)
+**Note:** Sudden falsification expressed through *paljastua valheeksi yhtäkkiä* "be revealed as lie suddenly"
+
+**Explanation:** Finnish lacks specific verb for "become suddenly false." The concept expressed through revelation constructions (*paljastua valheeksi* "be revealed as lie") with suddenness adverbs.
+
+**Epistemic status:** [UNCERTAIN] (gap in paradigm)
+
+---
+
+## 9. ASPECTUAL MODIFIERS WITH TRUTH-TERMS
+
+### 9.1 alkaa + infinitive — "begin to..."
+
+**Pattern:** [SUBJECT] + alkaa + [INFINITIVE]
+**Morphology:** alka-a + INF (begin-INF + INF)
+
+**Examples:**
+- **Totuus alkaa paljastua.** / totuus alkaa paljastua / "The truth begins to be revealed."
+- **Suunnitelma alkaa toteutua.** / suunnitelma alkaa toteutua / "The plan begins to be realized."
+- **Tieto alkaa vääristyä.** / tieto alkaa vääristyä / "The information begins to be distorted."
+
+**Usage notes:** Productive construction with inchoative verbs. Emphasizes inception of process. Common across registers.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 9.2 jatkaa + gerund — "continue to..."
+
+**Pattern:** [SUBJECT] + jatkaa + [GERUND-PARTITIVE]
+**Morphology:** jatka-a + GERUND-PART (continue-INF + GERUND-PART)
+
+**Examples:**
+- **Vääristyminen jatkuu.** / vääristyminen jatkuu / "The distortion continues."
+- (Note: *jatkaa* typically intransitive; transitive uses gerund object)
+
+**Usage notes:** Less common with truth-domain verbs. More natural with noun subjects (*vääristyminen jatkuu* "distortion continues") than verbal constructions.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 9.3 lopettaa + gerund — "stop..."
+
+**Pattern:** [AGENT] + lopettaa + [GERUND-PARTITIVE]
+**Morphology:** lopetta-a + GERUND-PART (stop-INF + GERUND-PART)
+
+**Examples:**
+- **Lopettaa vääristäminen** / lopettaa vääristäminen / "stop distorting"
+- **Lopettaa valehteleminen** / lopettaa valehteleminen / "stop lying"
+
+**Usage notes:** Productive construction. Common with agentive verbs (*valehdella* "lie," *vääristää* "distort"). Requires gerund object. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 9.4 olla + -massa (progressive)
+
+**Pattern:** [SUBJECT] + on + [VERB-STEM-massa]
+**Morphology:** ol-la + STEM-massa (be-INF + STEM-INESS)
+
+**Examples:**
+- **Totuus on paljastumassa.** / totuus on paljastumassa / "The truth is being revealed."
+- **Suunnitelma on toteutumassa.** / suunnitelma on toteutumassa / "The plan is being realized."
+- **Tieto on vääristymässä.** / tieto on vääristymässä / "The information is being distorted."
+
+**Usage notes:** Standard progressive construction. Emphasizes ongoing process. Common with inchoative verbs. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 10. CAUSATIVE CHAINS
+
+### 10.1 saada + object + infinitive — "get X to..."
+
+**Pattern:** [AGENT] + saa + [OBJECT-GEN] + [INFINITIVE-ILL]
+**Morphology:** saa-da + OBJ-GEN + INF-ILL (get-INF + OBJ-GEN + INF-ILL)
+
+**Examples:**
+- **Saada totuus paljastumaan** / saada totuus paljastumaan / "get the truth to be revealed"
+- **Saada suunnitelma toteutumaan** / saada suunnitelma toteutumaan / "get the plan to be realized"
+
+**Usage notes:** Productive causative construction. Emphasizes causing/enabling change. Requires illative infinitive. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 10.2 pakottaa + object + infinitive — "force X to..."
+
+**Pattern:** [AGENT] + pakottaa + [OBJECT-GEN] + [INFINITIVE-ILL]
+**Morphology:** pakotta-a + OBJ-GEN + INF-ILL (force-INF + OBJ-GEN + INF-ILL)
+
+**Examples:**
+- (rare with truth-domain verbs; more common with agentive subjects)
+- **Pakottaa tunnustamaan totuus** / pakottaa tunnustamaan totuus / "force to admit the truth"
+
+**Usage notes:** Less common with truth-domain inchoatives. More natural with agentive verbs. Emphasizes coercion.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 10.3 antaa + object + infinitive — "let X..."
+
+**Pattern:** [AGENT] + antaa + [OBJECT-GEN] + [INFINITIVE-ILL]
+**Morphology:** anta-a + OBJ-GEN + INF-ILL (give/let-INF + OBJ-GEN + INF-ILL)
+
+**Examples:**
+- **Antaa totuuden paljastua** / antaa totuuden paljastua / "let the truth be revealed"
+- **Antaa suunnitelman toteutua** / antaa suunnitelman toteutua / "let the plan be realized"
+
+**Usage notes:** Productive permissive construction. Emphasizes allowing/enabling change. Common with inchoative verbs. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 11. NEGATION OF CHANGE
+
+### 11.1 ei + verb — simple negation
+
+**Pattern:** [SUBJECT] + ei + [VERB-STEM]
+**Morphology:** ei + VERB-STEM (NEG + VERB-STEM)
+
+**Examples:**
+- **Totuus ei paljastunut.** / totuus ei paljastunut / "The truth was not revealed."
+- **Suunnitelma ei toteutunut.** / suunnitelma ei toteutunut / "The plan was not realized."
+- **Tieto ei vääristynyt.** / tieto ei vääristynyt / "The information was not distorted."
+
+**Usage notes:** Standard negation pattern. Extremely common. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 11.2 estää + gerund — "prevent..."
+
+**Pattern:** [AGENT] + estää + [GERUND-GEN]
+**Morphology:** estä-ä + GERUND-GEN (prevent-INF + GERUND-GEN)
+
+**Examples:**
+- **Estää vääristymisen** / estää vääristymisen / "prevent the distortion"
+- **Estää totuuden paljastumisen** / estää totuuden paljastumisen / "prevent the revelation of truth"
+
+**Usage notes:** Productive construction. Emphasizes active prevention. Formal/neutral register. Requires gerund in genitive.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 11.3 ei anna + infinitive — "doesn't let..."
+
+**Pattern:** [SUBJECT] + ei anna + [OBJECT-GEN] + [INFINITIVE-ILL]
+**Morphology:** ei anna + OBJ-GEN + INF-ILL (NEG let + OBJ-GEN + INF-ILL)
+
+**Examples:**
+- **Ei anna totuuden paljastua** / ei anna totuuden paljastua / "doesn't let the truth be revealed"
+- **Ei anna suunnitelman toteutua** / ei anna suunnitelman toteutua / "doesn't let the plan be realized"
+
+**Usage notes:** Productive negative permissive. Emphasizes preventing/blocking change. Neutral register.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 12. SUMMARY OF PATTERNS
+
+### 12.1 Productive inchoative patterns
+
+**Highly productive:**
+- *todellistua* "become real" — common with dreams, plans, fears
+- *toteutua* "be realized" — common with plans, projects, predictions
+- *paljastua* "be revealed" — common with *totuus*, *valhe*, *tosiasiat*
+- *vääristyä* "become distorted" — common with *totuus*, *tieto*, *merkitys*
+
+**Less productive:**
+- *todentua* "be verified" — formal, restricted contexts
+- *käydä todeksi* "come true" — literary/emphatic
+
+**Gaps:**
+- No simple inchoative from *väärä* "false" (*\*väärtyä* does not exist)
+- No simple inchoative from *epätosi* "untrue"
+- No simple inchoative from *aito* "genuine"
+
+### 12.2 Productive causative patterns
+
+**Highly productive:**
+- *todellistaa* "realize" — common with abstract objects
+- *toteuttaa* "implement" — common with plans, decisions
+- *todistaa* "prove" — common with claims, theories
+- *vääristää* "distort" — common with *totuus*, *tosiasiat*
+- *väärentää* "forge" — common with documents, signatures
+
+**Moderately productive:**
+- *todentaa* "verify" — formal/technical
+- *oikeuttaa* "justify" — moral/legal discourse
+- *paljastaa* "reveal" — common with *totuus*, *valhe*
+
+**Gaps:**
+- No causative from *aito* "genuine" (*\*aitouttaa* does not exist)
+- No general causative "make false" (uses specific verbs)
+
+### 12.3 Aspectual compatibility
+
+**Compatible with progressive aspect:**
+- *paljastua* "be revealed" — *on paljastumassa*
+- *toteutua* "be realized" — *on toteutumassa*
+- *vääristyä* "become distorted" — *on vääristymässä*
+
+**Compatible with gradual change:**
+- *vääristyä* "become distorted" — *vääristyy vähitellen*
+- *paljastua* "be revealed" — *paljastuu vähitellen*
+
+**Typically telic (sudden/complete):**
+- *todellistua* "come true"
+- *todentua* "be verified"
+- *käydä todeksi* "come true"
+
+### 12.4 Stative vs. dynamic
+
+**Stative (no change):**
+- *pitää paikkansa* "be true" — no inchoative form
+- *olla totta* "be true" — stative only
+
+**Dynamic (change):**
+- All inchoative verbs (*-stua*, *-tua*, *-ua* patterns)
+- All causative verbs (*-staa*, *-taa*, *-aa* patterns)
+
+### 12.5 Constructional patterns
+
+**Translative constructions (result state):**
+- *todistaa vääräksi* "prove false"
+- *todistaa oikeaksi* "prove correct"
+- *paljastua valheeksi* "be revealed as lie"
+- *osoittautua vääräksi* "turn out to be false"
+- *käydä todeksi* "come true"
+
+**Aspectual constructions:**
+- *alkaa* + infinitive — inception
+- *olla* + *-massa* — progressive
+- *lopettaa* + gerund — cessation
+
+**Causative chains:**
+- *saada* + object + infinitive — enabling
+- *antaa* + object + infinitive — permissive
+- *estää* + gerund — preventive
+
+**Negation:**
+- *ei* + verb — simple negation
+- *ei anna* + infinitive — negative permissive
+- *estää* + gerund — active prevention
+
+---
+
+## 13. CROSS-LINGUISTIC OBSERVATIONS
+
+### 13.1 Asymmetries in Finnish truth-domain dynamics
+
+**1. Becoming true vs. becoming false:**
+- Rich vocabulary for "becoming true/real": *todellistua*, *toteutua*, *todentua*, *käydä todeksi*
+- Limited vocabulary for "becoming false": *vääristyä* (distort), constructions with *paljastua valheeksi* (be revealed as lie)
+- No simple inchoative *\*väärtyä* "become false"
+
+**2. Making true vs. making false:**
+- Multiple causatives for "making true/real": *todellistaa*, *toteuttaa*, *todistaa*, *todentaa*
+- Specific causatives for "making false": *vääristää* (distort), *väärentää* (forge)
+- No general causative "make false" — uses specialized verbs
+
+**3. Revelation vs. concealment:**
+- Common verbs for revelation: *paljastua* "be revealed," *paljastaa* "reveal"
+- Less elaborated vocabulary for concealment (outside P1 scope)
+
+**4. Gradual vs. sudden change:**
+- *Vääristyä* "become distorted" naturally gradual
+- *Todellistua*, *toteutua* typically telic/sudden
+- Aspectual modifiers can adjust but natural tendencies exist
+
+### 13.2 Morphological productivity
+
+**Highly productive patterns:**
+- Inchoative *-stua/-tua/-ua* from causatives
+- Causative *-staa/-taa/-aa* from adjectives/nouns
+- Progressive *olla* + *-massa*
+- Gerund formation for all verbs
+
+**Selective productivity:**
+- Not all adjectives generate causatives (*aito* lacks *\*aitouttaa*)
+- Not all causatives generate inchoatives (though most do)
+- Some gaps filled by constructions (translative, *tehdä* + translative)
+
+### 13.3 Lexical vs. constructional expression
+
+**Lexicalized:**
+- *Valehdella* "to lie" (frequentative from *valhe*)
+- *Pitää paikkansa* "be true" (fixed expression)
+- *Olla oikeassa/väärässä* "be right/wrong" (fixed inessive)
+
+**Constructional:**
+- *Todistaa vääräksi* "prove false" (verb + translative)
+- *Paljastua valheeksi* "be revealed as lie" (verb + translative)
+- *Estää vääristyminen* "prevent distortion" (verb + gerund)
+
+**Hybrid:**
+- Some concepts expressed both ways: *vääristää* (lexical) vs. *tehdä vääräksi* (constructional)
+- Lexical forms typically preferred when available
+
+---
+
+## FINAL NOTES
+
+This analysis documents **attested dynamic expressions** in Finnish truth-domain vocabulary. Key findings:
+
+1. **Rich inchoative morphology**: Productive *-stua/-tua/-ua* patterns create "become X" verbs
+2. **Rich causative morphology**: Productive *-staa/-taa/-aa* patterns create "make X" verbs
+3. **Systematic gaps**: Not all roots generate full paradigms (*aito*, *väärä* lack some expected forms)
+4. **Aspectual flexibility**: Progressive, inception, cessation constructions productive
+5. **Translative constructions**: Common for result states (*todistaa vääräksi*, *paljastua valheeksi*)
+6. **Asymmetries**: More elaborated vocabulary for "becoming/making true" than "becoming/making false"
+7. **Stative vs. dynamic**: Some expressions inherently stative (*pitää paikkansa*), others inherently dynamic (*todellistua*)
+
+The system shows both productive morphological patterns and lexicalized expressions, with some concepts requiring constructional rather than lexical expression.

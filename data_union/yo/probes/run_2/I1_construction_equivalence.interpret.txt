@@ -1,0 +1,92 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Yoruba (yo)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (1a) Stative predicate: Subject + *tọ́* (no copula); (1b) Nominal predicate: Subject + *jẹ́* + nominal | *ó tọ́*; *ìjẹ́rìísí rẹ̀ jẹ́ òdodo* | Direct mapping; two sub-patterns conditioned by predicate type (stative vs. nominal), not interchangeable | None |
+| **ADNOM** | (3) Head noun + postnominal modifier (noun or adjectival predicate; head-initial, no overt linker) | *ẹ̀rí ojú*; *ìdáhùn tọ́* | Direct mapping | None |
+| **BECOME** | (4b) Serial verb *yí padà* (change of state) | *ìgbàgbọ́ rẹ̀ yí padà* | Direct mapping for change-of-state; no dedicated inchoative morpheme — expressed lexically via serial verb | Lexical gap: no dedicated inchoative morpheme; construction itself is available |
+| **REVELATION** | (4a) *ó farahàn pé* + propositional complement | *ó farahàn pé òtítọ́ ni* | REVELATION is expressed by a distinct lexical item (*farahàn*) separate from BECOME (*yí padà*); the two are not conflated | None — REVELATION is structurally distinct from BECOME in this language |
+| **CAUSATION (factual)** | (5a) Serial verb *fi* + object + result verb (*hàn*, *gbà*) | *ó fi ẹ̀rí hàn lójú ìgbìmọ̀*; *ó fi irọ́ gbà owó* | Direct mapping; no dedicated causative morpheme — expressed through serial verb construction | Lexical gap: no dedicated causative morpheme; construction is available |
+| **CAUSATION (character)** | No construction attested in P4a or P4b for causation attributed to character as a causal force in the truth domain | — | **SUBSTITUTED BY** CLEFT/FOCUS construction in proverbial register: *ìwà ló ń ṣe ènìyàn* asserts character as the operative force, but this is an identificational/focus construction, not a causative construction proper | **NO COMMON EXPRESSION — circumlocution required** via cleft/focus; no dedicated CAUSATION (character) construction attested |
+| **VERIFICATION** | No construction explicitly labeled VERIFICATION in P4a or P4b | — | Closest attested form: propositional complement construction (8) with testimony/speech verb: *ó jẹ́rìí pé ó wà níbẹ̀* (he/she testified that he/she was there); also the causative *fi ẹ̀rí hàn* (present evidence) approaches verification functionally | **SUBSTITUTED BY** PROPOSITIONAL COMPLEMENT (8) with speech/testimony verb, and by CAUSATIVE (5a) in evidential contexts; no dedicated VERIFICATION construction attested |
+| **DISCONFIRMATION** | (2a) *kò* + stative predicate; (2b) *kì í ṣe* + nominal predicate; (10) *kò sí* + NP | *kò tọ́*; *kì í ṣe nǹkan gidi*; *kò sí òtítọ́ nínú ọ̀rọ̀ rẹ̀* | DISCONFIRMATION is expressed through NEGATIVE ATTRIBUTION (2) and NEGATIVE EXISTENTIAL (10); no single dedicated DISCONFIRMATION construction — the function is distributed across these forms depending on predicate type and whether absence or falsity is asserted | **SUBSTITUTED BY** NEGATION (2) and NEGATIVE EXISTENTIAL (10); no unified DISCONFIRMATION construction |
+| **NEGATION** | (2a) *kò* + stative/verbal predicate (analytic); (2b) *kì í ṣe* + nominal predicate (analytic negative copula); (6, 7) *àì-* prefixation on abstract and agentive nominals (morphological) | *kò tọ́*; *kì í ṣe nǹkan gidi*; *àìgbàgbọ́*; *aláìmọ̀* | Negation is both analytic (sentential: *kò*, *kì í ṣe*) and morphological (nominal: *àì-*, *aláì-*); the two systems operate in distinct syntactic environments and are not interchangeable | None — both analytic and morphological negation are attested and productive |
+| **NOMINALIZATION** | (6) Abstract nominalization: *ì-*, *ò-*, *ẹ̀-*, *à-* prefixes on verbal/adjectival roots; negated: *àì-* + root; (7) Agentive nominalization: *olù-* + verbal root; possessive relative contraction (*ẹlẹ́rìí*); *oní-*/*olú-* + nominal base; negated agentive: *aláì-* + root | *ìgbàgbọ́*, *òtítọ́*, *ẹ̀tọ́*; *àìmọ̀*; *olùgbàgbọ́*, *ẹlẹ́rìí*, *olóirọ́*; *aláìgbàgbọ́* | Direct mapping; multiple distinct nominalization strategies attested, each with conditioned distribution (prefix choice, base type, semantic range) | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME in epistemic contexts
+
+In the P4a and P4b data, the BECOME category is split into two functionally distinct sub-patterns. Change of physical or dispositional state is expressed by the serial verb *yí padà* (*ìgbàgbọ́ rẹ̀ yí padà* — his/her belief changed). Epistemic change-of-state — the emergence of clarity about a proposition — is expressed by a separate lexical item, *farahàn* (*ó farahàn pé òtítọ́ ni* — it became clear that it is the truth). These two items are not interchangeable according to the P4b notes: *farahàn* is restricted to epistemic revelation, and *yí padà* to change in state or orientation. The language therefore does not conflate REVELATION and BECOME into a single construction; it uses distinct lexical items for each function. REVELATION is not a substitute for BECOME — it is a separate operator with its own dedicated form.
+
+### 2.2 CLEFT/FOCUS substitutes for CAUSATION (character) in proverbial register
+
+No construction in the attested data expresses CAUSATION (character) — that is, a construction in which a character trait or disposition is syntactically encoded as the cause of a truth-relevant outcome — as a productive, general pattern. The closest attested form is the cleft/focus construction *ìwà ló ń ṣe ènìyàn* (it is character that makes a person), in which the focused constituent (*ìwà*, character) is identified as the operative force. However, this is an identificational focus construction, not a causative construction: the syntax encodes focus/identification, not a cause-effect relation with a dedicated causative operator. The P4b notes describe this example as a proverbial statement asserting the primacy of a concept. CAUSATION (character) is therefore expressed only through circumlocution in this register, with the CLEFT/FOCUS construction serving as the closest functional approximation.
+
+### 2.3 PROPOSITIONAL COMPLEMENT and CAUSATIVE (factual) substitute for VERIFICATION
+
+No construction in the data is explicitly labeled or described as a VERIFICATION construction — that is, a dedicated syntactic frame for confirming or establishing the truth of a proposition through a checking or testing procedure. Two constructions approach this function from different directions. The propositional complement construction (8) with a testimony verb (*ó jẹ́rìí pé ó wà níbẹ̀* — he/she testified that he/she was there) encodes the speech act of attesting to a proposition's truth. The causative serial verb construction (5a) with *fi ẹ̀rí hàn* (present evidence before a court) encodes the act of making evidence visible to an authority. Neither is described in P4a or P4b as a VERIFICATION construction per se; both are described in terms of their own constructional categories. VERIFICATION as a distinct operator is therefore not attested; its functional range is distributed across these two constructions.
+
+### 2.4 DISCONFIRMATION is distributed across NEGATION and NEGATIVE EXISTENTIAL
+
+The function of DISCONFIRMATION — denying the truth or validity of a proposition or claim — is not expressed by a single dedicated construction. It is distributed across three attested forms depending on the type of predicate and the nature of the denial. Stative predicate negation (*kò tọ́* — it is not correct) denies a property. Nominal predicate negation (*kì í ṣe nǹkan gidi* — it is not the real thing) denies a nominal identification. Negative existential (*kò sí òtítọ́ nínú ọ̀rọ̀ rẹ̀* — there is no truth in his/her words) denies the presence or existence of a truth-relevant entity. The P4b notes treat these as distinct constructions with non-overlapping distributions. DISCONFIRMATION is therefore expressed through the NEGATION and NEGATIVE EXISTENTIAL operators, not through a unified DISCONFIRMATION construction.
+
+### 2.5 Asymmetry between positive and negative forms in ATTRIBUTION and NOMINALIZATION
+
+The data shows a consistent asymmetry in which negative forms are morphologically derived from positive bases rather than being independently listed. In ATTRIBUTION, the positive stative (*ó tọ́*) and nominal (*jẹ́ + nominal*) patterns have distinct negative counterparts (*kò tọ́*; *kì í ṣe + nominal*) that are analytic (particle + predicate). In NOMINALIZATION, both abstract (*àì-* + root: *àìgbàgbọ́*, *àìmọ̀*) and agentive (*aláì-* + root: *aláìgbàgbọ́*, *aláìmọ̀*) negative forms are morphologically derived. The negative nominalization forms are described as productive and attested, so this is not a gap; it is a systematic asymmetry in the morphosyntactic strategy used (analytic for sentential negation, morphological for nominal negation).
+
+### 2.6 NEGATION is both analytic and morphological, with conditioned distribution
+
+Sentential negation uses analytic particles (*kò* for stative/verbal predicates; *kì í ṣe* for nominal predicates; *kò sí* for existential predicates). Nominal negation uses morphological prefixes (*àì-* for abstract nominals; *aláì-* for agentive nominals). The two systems do not overlap: analytic negation operates at the clause level, morphological negation operates at the word-formation level. The P4b notes explicitly state that *kò* and *kì í ṣe* are not interchangeable, and that each is restricted to its own predicate type.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No structural gaps are identified. All CLCA operators that are attested have available syntactic constructions, even where those constructions are multi-word or serial verb structures rather than morphologically simple forms. The absence of a dedicated causative morpheme and a dedicated inchoative morpheme does not constitute a structural gap, because the constructions that express these functions (serial verb constructions, lexical items) are productive and described as the standard means of expression.
+
+### 3.2 Lexical Gaps
+
+- **No dedicated inchoative morpheme**: BECOME is expressed through the serial verb *yí padà* and the lexical item *farahàn*; no single morpheme marks change-of-state as a grammatical category.
+- **No dedicated causative morpheme**: CAUSATION (factual) is expressed through serial verb constructions (*fi* + object + result verb); no morphological causative is attested.
+- **No dedicated VERIFICATION lexeme or construction**: The function is distributed across testimony verbs in the propositional complement frame and the evidential causative construction; no single lexeme or construction is described as encoding verification as a distinct act.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified from the data. All CLCA operators have some form of expression in the language, even if through substitution or circumlocution. There is no evidence in P4a or P4b that any of the target concepts is blocked or inexpressible.
+
+### 3.4 Asymmetric Gaps
+
+- **CAUSATION (character)**: Only a circumlocutory/focus-based expression is attested (*ìwà ló ń ṣe ènìyàn*); no productive CAUSATION (character) construction is attested. The positive direction (asserting that character causes an outcome) has a proverbial expression via cleft/focus; no negative counterpart (asserting that character does not cause an outcome) is attested in the data. This is an asymmetric gap: the positive direction has a restricted (proverbial/focus) expression; the negative direction has no attested expression.
+- **DISCONFIRMATION vs. VERIFICATION**: DISCONFIRMATION has multiple attested constructions (negative attribution, negative existential); VERIFICATION has no dedicated construction. This is an asymmetry between the negative and positive poles of the truth-assessment function: the language provides richer constructional resources for denying truth/evidence than for confirming it through a dedicated verification frame.
+- **Negative nominalization is morphological; sentential negation is analytic**: Both are attested and productive, so this is not a gap, but it is an asymmetry in the morphosyntactic strategy across levels (word vs. clause).
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | Fully available | Two sub-patterns (stative: *ó tọ́*; nominal: *jẹ́* + nominal), both [CORE], conditioned by predicate type |
+| **ADNOM** | Fully available | Head-initial postnominal modification, [CORE], productive across nominal and adjectival modifiers |
+| **BECOME** | Fully available | Serial verb *yí padà* for change-of-state; no dedicated morpheme but construction is productive and [CORE] |
+| **REVELATION** | Fully available | Distinct from BECOME; expressed by *farahàn* + *pé* + complement clause; [CORE]; not a substitute for BECOME but a separate operator |
+| **CAUSATION (factual)** | Fully available | Serial verb *fi* + object + result verb; [CORE]; no dedicated morpheme but construction is productive |
+| **CAUSATION (character)** | Available with substitution — **NO COMMON EXPRESSION; circumlocution required** | Only attested via CLEFT/FOCUS in proverbial register (*ìwà ló ń ṣe ènìyàn*); no dedicated causative construction for character-as-cause |
+| **VERIFICATION** | Available with substitution | **SUBSTITUTED BY** PROPOSITIONAL COMPLEMENT with testimony verb (8) and CAUSATIVE (factual) in evidential contexts (5a); no dedicated VERIFICATION construction |
+| **DISCONFIRMATION** | Available with substitution | **SUBSTITUTED BY** NEGATIVE ATTRIBUTION (2a, 2b) and NEGATIVE EXISTENTIAL (10); function is distributed, not unified |
+| **NEGATION** | Fully available | Both analytic (sentential: *kò*, *kì í ṣe*, *kò sí*) and morphological (nominal: *àì-*, *aláì-*) forms attested and productive; conditioned distribution |
+| **NOMINALIZATION** | Fully available | Multiple productive strategies: abstract (*ì-*, *ò-*, *ẹ̀-*, *à-*, *àì-*) and agentive (*olù-*, possessive relative contraction, *oní-*/*olú-*, *aláì-*); all [CORE] |
+
+---
+
+*All examples are drawn directly from P4a and P4b. No constructions, examples, or theoretical categories have been added beyond those attested in the source data.*

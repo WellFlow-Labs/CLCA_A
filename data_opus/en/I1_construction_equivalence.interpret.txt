@@ -1,0 +1,78 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | P4a #1 Attribution (copular *be* + truth ADJ; nominal attribution); perception-copula substitutes | *that is true*; *her story rings true* | Direct; perception-copulas (*ring true*, *seem true*, *sound right*) mark apparent vs. asserted truth | None [CORE] |
+| ADNOM | P4a #3 Adnominal Modification (prenominal ADJ + N) | *a true friend*; *a false claim*; *a reliable witness* | Direct; postnominal restricted to delimiting *proper* | None [CORE] |
+| BECOME | P4a #4 Become/Inchoative (*come/become/get* + ADJ) | *a dream come true*; *get real* | Largely idiomatic; general *become true/false* compositional but uncommon | Partial — morphosyntactic (no dedicated inchoative morphology) [MARGINAL] |
+| REVELATION | Not separately attested in P4a | — | Not attested as a distinct construction; closest is realization sense fixed in *come true* (P4a #4) | **MISSING (structural gap)** as an independent operator |
+| CAUSATION (factual) | P4a #5 Causative (suffixal *-ify/-ate/-ize*; periphrastic *make/render* + ADJ; particle *true up*) | *to falsify the records*; *to validate*; *to make true* | Suffixal layer productive; native core uses periphrasis/particle | None for suffixal [CORE]; native-core requires circumlocution [MARGINAL] |
+| CAUSATION (character) | Not separately attested in P4a | — | No construction distinguishing character-causation from factual causation | **MISSING (structural gap)** as a distinct operator |
+| VERIFICATION | P4a #5 suffixal causatives with truth-confirming bases (*verify, validate, authenticate*); P4a #8 Evidential predication (belief-worthiness) | *to validate*; *his explanation is plausible*; *a credible witness* | Verification-of-truth expressed via same *-ify/-ate* suffixal layer as causation | None [CORE] for suffixal; belief-worthiness [CORE] |
+| DISCONFIRMATION | P4a #5 *falsify*; P4a #2 Negative Attribution | *to falsify the records*; *that is untrue / that is false* | Shares the suffixal causative construction with VERIFICATION (*falsify* vs *verify*); also via negative predication | None [CORE] |
+| NEGATION | P4a #2 Negative Attribution: (a) prefixed ADJ; (b) sentential *not* + ADJ; suppletive antonyms | *that is untrue*; *that is not correct*; *that is false* | Both morphological (prefix) and analytic (*not*) available; suppletion (*false/fake*) competes | None [CORE] |
+| NOMINALIZATION | P4a #6 Abstract Nominalization (*-th/-ity/-cy/-ness/-hood*); P4a #7 Agentive Nominalization (compound *-teller*; suffixal *-er/-or*; suppletive *liar*) | *truth*; *validity*; *truth-teller*; *forger* | Abstract highly productive; agentive marginal/periphrastic | Abstract: none [CORE]; Agentive: partial [MARGINAL] |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+**Revelation replacing becoming:** No independent REVELATION construction is attested in P4a/P4b. The only realization/actualization sense appears embedded in the fixed inchoative idiom *come true* (P4a #4), classed under BECOME. Thus revelation does not substitute for becoming; rather, a peripheral realization meaning is lexicalized within the BECOME slot itself. There is no productive revelation operator distinct from becoming.
+
+**Verification / Disconfirmation sharing one construction:** VERIFICATION and DISCONFIRMATION are expressed by the **same** morphosyntactic device — the productive suffixal causative layer in P4a #5. *verify, validate, authenticate* (confirm truth) and *falsify* (disconfirm) are formed identically by *-ify/-ate* suffixation on truth-domain bases. The construction is shared; only the lexical base differs in polarity. DISCONFIRMATION additionally has the negative-predication route (P4a #2: *that is untrue / that is false*).
+
+**Verification vs. causation:** VERIFICATION does not replace CAUSATION; they occupy the same suffixal construction (P4a #5). *falsify* is simultaneously a factual-causation verb ("make the records false") and a disconfirmation verb. The language does not formally distinguish "making something false" from "showing something to be false" within this layer — both are carried by the same *-ify* morphology.
+
+**Avoidance of native-core causation:** A systematic asymmetry appears in CAUSATION: Latinate/suffixal bases form simple causative verbs freely (*falsify, validate, rectify*), but native core adjectives (*true, real, right*) lack a simple causative verb and are forced into periphrasis (*make true*) or particle constructions (*true up*) (P4a/P4b #5).
+
+**Negation — analytic and morphological coexist:** NEGATION (P4a #2) is realized by **both** a morphological strategy (prefixed *un-/in-/im-/il-/dis-*, lexically unpredictable) and an analytic strategy (*not* + positive ADJ). Suppletive antonyms (*false* for *true*, *fake* for *genuine/real*) compete with and are often preferred over prefixed forms in predication.
+
+**Positive vs. negative asymmetries:**
+- AUTHENTICATION FRAME (P4a #10): fixed positive NPs cluster on *real/genuine* (*the genuine article*, *the real McCoy*), but **no negative-pole equivalent** exists (no fixed "*the fake article*").
+- AGENTIVE NOMINALIZATION (P4a #7): positive agentives are compounds (*truth-teller*); the negative agent is the suppletive *liar*; deception agentives are suffixal (*faker, forger, counterfeiter*). Most evaluative adjectives have no direct agentive and need periphrasis.
+- NEGATIVE ATTRIBUTION favors suppletion (*false/fake*) over prefixation (*untrue/*unreal*).
+
+---
+
+## 3. Missingness Summary
+
+**Structural Gaps (missing constructions):**
+- **REVELATION** — no independent construction; realization sense survives only inside the fixed BECOME idiom *come true*.
+- **CAUSATION (character)** — no construction distinguishing character-causation from factual causation.
+- BECOME — no dedicated inchoative morphology; construction is restricted/idiomatic (morphosyntactic gap, partial availability).
+
+**Lexical Gaps (missing words):**
+- Native core adjectives (*true, real, right*) lack a simple causative verb → periphrasis required (*make true*) (P4a #5).
+- Most evaluative adjectives (*true, honest, valid*) lack a direct agentive noun → periphrasis ("an honest person") (P4a #7).
+
+**Conceptual Gaps (blocked operations):**
+- None explicitly indicated as blocked in P4a/P4b. All attested meanings are expressible via at least one construction or circumlocution.
+
+**Asymmetric Gaps (only one polarity available):**
+- AUTHENTICATION NOMINAL FRAME: positive pole only (*the genuine article*); negative pole missing (no fixed "*the fake article*").
+- AGENTIVE NOMINALIZATION: positive uses compound *truth-teller*; negative uses suppletive *liar* — formed by different strategies (asymmetric formation).
+- NEGATIVE ATTRIBUTION: prefixed forms exist but are dispreferred relative to suppletive antonyms.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+**Fully available (direct construction, [CORE]):**
+- ATTR — copular *be* + truth ADJ
+- ADNOM — prenominal ADJ + N
+- NEGATION — morphological (prefix) and analytic (*not*), plus suppletion
+- NOMINALIZATION (abstract) — productive suffixal (*-th/-ity/-cy/-ness/-hood*)
+- VERIFICATION — suffixal causative (*verify, validate, authenticate*)
+- DISCONFIRMATION — suffixal *falsify* + negative predication (shares construction with VERIFICATION)
+
+**Available with substitution:**
+- CAUSATION (factual) — fully available for Latinate/suffixal bases; **SUBSTITUTED BY periphrasis/particle** (*make true*, *true up*) for native core
+- REVELATION — **SUBSTITUTED BY [BECOME idiom]** (realization sense lexicalized only in *come true*)
+
+**Partially available:**
+- BECOME — restricted, idiomatic only (*come true*, *get real*); general use uncommon
+- NOMINALIZATION (agentive) — compounds and suppletion only; **NO COMMON EXPRESSION – circumlocution required** for most evaluative adjectives
+
+**Missing entirely:**
+- CAUSATION (character) — **MISSING (structural gap)**; no distinct construction
+- REVELATION as an independent operator — **MISSING (structural gap)** (only the BECOME-embedded substitution above exists)

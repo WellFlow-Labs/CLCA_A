@@ -1,0 +1,669 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Korean (ko)
+
+---
+
+**Transliteration standard:** Revised Romanization of Korean (국립국어원 표준 로마자 표기법), applied consistently throughout.
+
+---
+
+## Preliminary Note on Method
+
+This step analyzes dynamic expressions — encoding change of state, causation of state, and stability of state — involving the truth-related vocabulary documented in P1–P5. All forms and constructions are drawn exclusively from the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Terms are treated separately where their behavior differs. Auxiliary verbs, aspect markers, and function words are added as needed to form natural expressions; these additions are flagged.
+
+The primary structural resources for encoding dynamics in Korean that are attested in the CONTEXT are:
+
+- **Inchoative/change-of-state:** Noun + (으)로 밝혀지다 / 드러나다 / 판명되다 (documented in P4a Construction 4); 이/가 되다 (become); 아/어지다 (stativizing suffix on adjectives)
+- **Causative:** Noun + 하다 (transitive, documented in P4a Construction 5); 게 하다 / 게 만들다 (periphrastic causative)
+- **Stability:** 유지하다 (to maintain), 일관하다 (to be consistent throughout), 바탕으로 하다 (to be grounded in)
+
+---
+
+## Section 1: X Becomes a Truth-Related State
+
+### 1.1 Inchoative via 밝혀지다 / 드러나다 / 판명되다
+
+These three verbs are the primary inchoative verbs in the truth domain, documented in P4a (Construction 4) and P4b. They encode the spontaneous or passive coming-to-light of a truth-domain status.
+
+---
+
+**1.1.1**
+**Base term:** 사실 (sasil)
+**Expression:** 사실로 밝혀지다
+**Transliteration:** sasillo balkyeojida
+**English:** to turn out to be true / to be revealed as fact
+**Source:** P2b item 2.6
+**Notes:** The most common inchoative construction for 사실. The particle (으)로 marks the resultant state. 밝혀지다 is the passive/spontaneous form of 밝히다 (to illuminate/reveal). Common in journalistic and everyday contexts.
+**Epistemic status:** [CORE]
+
+---
+
+**1.1.2**
+**Base term:** 허위 (heowi)
+**Expression:** 허위로 밝혀지다
+**Transliteration:** heowiro balkyeojida
+**English:** to be revealed as false / to turn out to be untrue
+**Source:** P2b item 19.3
+**Notes:** Direct parallel to 사실로 밝혀지다 at the opposite pole. Common in journalistic and legal reporting. The resultant state is the negative truth-domain category.
+**Epistemic status:** [CORE]
+
+---
+
+**1.1.3**
+**Base term:** 가짜 (gajja)
+**Expression:** 가짜로 판명되다
+**Transliteration:** gajjaro panmyeongdoeda
+**English:** to be determined to be fake
+**Source:** P2b item 6.1
+**Notes:** 판명되다 (to be determined/established) is slightly more formal than 밝혀지다 and is characteristic of legal and investigative contexts. The (으)로 particle marks the resultant state.
+**Epistemic status:** [CORE]
+
+---
+
+**1.1.4**
+**Base term:** 위조 (wijo)
+**Expression:** 위조로 판명되다
+**Transliteration:** wijoro panmyeongdoeda
+**English:** to be determined to be forged / to be found to be counterfeit
+**Source:** P2b item 18.1
+**Notes:** Same construction as 가짜로 판명되다; restricted to legal and forensic contexts. 판명되다 is the standard verb in formal authentication determinations.
+**Epistemic status:** [CORE]
+
+---
+
+**1.1.5**
+**Base term:** 거짓 (geojit)
+**Expression:** 거짓이 드러나다
+**Transliteration:** geojisi deureonada
+**English:** the falsehood is exposed / the lie comes to light
+**Source:** P2b item 3.3
+**Notes:** 드러나다 (to be revealed/exposed) is the third inchoative verb documented in P4a. Unlike 밝혀지다 and 판명되다, 드러나다 does not require the (으)로 resultant-state particle; instead, the subject itself is the truth-domain noun. This construction encodes the spontaneous emergence of falsehood into visibility.
+**Epistemic status:** [CORE]
+
+---
+
+**1.1.6**
+**Base term:** 진실 (jinsil)
+**Expression:** 진실이 밝혀지다
+**Transliteration:** jinsili balkyeojida
+**English:** the truth comes to light / the truth is revealed
+**Source:** P2b item 1.7
+**Notes:** Parallel to 거짓이 드러나다 in structure: the truth-domain noun is the subject rather than the resultant-state complement. P2b notes this is "the passive/spontaneous counterpart to 진실을 밝히다" and is used when no agent is specified.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 Inchoative via 되다 (to become)
+
+되다 is the standard Korean inchoative copula. Its combination with truth-domain nominals is attested in the CONTEXT in the following forms.
+
+---
+
+**1.2.1**
+**Base term:** 사실 (sasil)
+**Expression:** 사실이 되다
+**Transliteration:** sasiri doeda
+**English:** to become a fact / to become true
+**Source:** Constructed from 사실 (P1 item 2) + 이/가 되다 (standard inchoative copula); 되다 is attested as a derivational element in P2a (진실되다, 거짓되다)
+**Notes:** 이/가 되다 is the standard Korean construction for "to become [noun]." This construction is natural and common in everyday speech for describing a claim or situation that transitions into factual status (e.g., 꿈이 사실이 되다, "a dream becomes reality"). Not attested as a fixed collocation in P1–P5 but formed from attested elements.
+**Epistemic status:** [CORE]
+
+---
+
+**1.2.2**
+**Base term:** 진실 (jinsil)
+**Expression:** 진실이 되다
+**Transliteration:** jinsili doeda
+**English:** to become the truth / to become true
+**Source:** Constructed from 진실 (P1 item 1) + 이/가 되다
+**Notes:** Less common than 사실이 되다 in everyday speech; 진실 tends to be treated as a fixed state rather than a transition in most attested constructions. The construction is grammatically natural but less conventionalized as a fixed expression than 사실이 되다.
+**Epistemic status:** [CORE]
+
+---
+
+**1.2.3**
+**Base term:** 진짜 (jinjja)
+**Expression:** 진짜가 되다
+**Transliteration:** jinjjaga doeda
+**English:** to become real / to become genuine
+**Source:** Constructed from 진짜 (P1 item 5) + 이/가 되다
+**Notes:** Attested in everyday speech in contexts such as 가짜가 진짜가 되다 ("a fake becomes real") or in metaphorical uses (e.g., 연습이 진짜가 되다, "practice becomes the real thing"). Natural and common.
+**Epistemic status:** [CORE]
+
+---
+
+**1.2.4**
+**Base term:** 거짓말쟁이 (geojitmaljaengi)
+**Expression:** 거짓말쟁이가 되다
+**Transliteration:** geojitmaljaengiga doeda
+**English:** to become a liar
+**Source:** Constructed from 거짓말쟁이 (P2a item 4.2) + 이/가 되다
+**Notes:** Common in moral and interpersonal discourse to describe the transition into the social identity of a liar, often as a warning or consequence statement (e.g., 거짓말을 계속하면 거짓말쟁이가 된다, "if you keep lying, you become a liar"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Inchoative via 아/어지다 (stativizing suffix on adjectives)
+
+아/어지다 attaches to adjective stems to yield an inchoative meaning ("to become [adjective]"). This is the standard Korean construction for adjectival change of state.
+
+---
+
+**1.3.1**
+**Base term:** 정확하다 (jeonghwak-hada)
+**Expression:** 정확해지다
+**Transliteration:** jeonghwakhaejida
+**English:** to become accurate / to become more precise
+**Source:** Constructed from 정확하다 (P2a item 9.1) + 아/어지다 (standard inchoative suffix)
+**Notes:** Common in scientific, journalistic, and everyday contexts to describe improvement in accuracy (e.g., 예측이 점점 정확해지다, "predictions become increasingly accurate"). The 아/어지다 suffix is the standard inchoative for 하다-adjectives.
+**Epistemic status:** [CORE]
+
+---
+
+**1.3.2**
+**Base term:** 정직하다 (jeongjik-hada)
+**Expression:** 정직해지다
+**Transliteration:** jeongjikhaejida
+**English:** to become honest / to become more straightforward
+**Source:** Constructed from 정직하다 (P2a item 14.1) + 아/어지다
+**Notes:** Common in moral and interpersonal discourse to describe a change in a person's character toward honesty (e.g., 나이가 들면서 정직해지다, "to become more honest as one ages"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+**1.3.3**
+**Base term:** 공정하다 (gongjeon-hada)
+**Expression:** 공정해지다
+**Transliteration:** gongjeonhaejida
+**English:** to become fair / to become more impartial
+**Source:** Constructed from 공정하다 (P2a item 25.1) + 아/어지다
+**Notes:** Common in institutional and policy discourse to describe improvement in procedural fairness (e.g., 제도가 공정해지다, "the system becomes fairer"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+**1.3.4**
+**Base term:** 타당하다 (tadang-hada)
+**Expression:** 타당해지다
+**Transliteration:** tadanghaejida
+**English:** to become valid / to become more reasonable
+**Source:** Constructed from 타당하다 (P2a item 23.1) + 아/어지다
+**Notes:** Used in academic and deliberative contexts to describe a claim or argument that gains validity through additional evidence or reasoning (e.g., 근거가 추가되면서 주장이 타당해지다, "as evidence is added, the argument becomes more valid"). Natural but less frequent than the other 아/어지다 forms in this domain.
+**Epistemic status:** [CORE]
+
+---
+
+**1.3.5**
+**Base term:** 올바르다 (olbareuda)
+**Expression:** 올바르게 되다
+**Transliteration:** olbareuge doeda
+**English:** to come to be right / to become proper
+**Source:** Constructed from 올바르게 (P2a item 10.2) + 되다
+**Notes:** 올바르다 is a native Korean adjective that does not take 아/어지다 productively in the same way as 하다-adjectives. The periphrastic construction 올바르게 되다 (adverb + 되다) is the natural alternative. Attested in moral and educational discourse (e.g., 생각이 올바르게 되다, "one's thinking comes to be correct"). The 아/어지다 form *올발라지다 is grammatically possible but less common than the periphrastic form.
+**Epistemic status:** [CORE]
+
+---
+
+**1.3.6**
+**Base term:** 부정확하다 (bujeonghwak-hada)
+**Expression:** 부정확해지다
+**Transliteration:** bujeonghwakhaejida
+**English:** to become inaccurate / to become less precise
+**Source:** Constructed from 부정확하다 (P2a item 9.7) + 아/어지다
+**Notes:** Used in scientific and journalistic contexts to describe deterioration in accuracy (e.g., 시간이 지나면서 데이터가 부정확해지다, "data becomes inaccurate over time"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 Inchoative via 무너지다 / 쌓이다 (domain-specific change-of-state verbs)
+
+These verbs are attested in P2b as characteristic verb pairings with specific truth-domain nouns and encode change of state without the general inchoative morphology.
+
+---
+
+**1.4.1**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰가 무너지다
+**Transliteration:** sinloega muneoijida
+**English:** trust collapses / trust breaks down
+**Source:** P2b item 15.6
+**Notes:** 무너지다 (to collapse/crumble) encodes a sudden or progressive breakdown of trust. P2b notes this "carries a sense of structural failure." This is a domain-specific inchoative construction not reducible to the general 아/어지다 pattern.
+**Epistemic status:** [CORE]
+
+---
+
+**1.4.2**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰가 쌓이다
+**Transliteration:** sinloega ssaida
+**English:** trust accumulates / trust builds up
+**Source:** Constructed from 신뢰 (P1 item 15) + 쌓이다 (passive/inchoative of 쌓다, "to pile up/build," attested in P2b item 15.1 as 신뢰를 쌓다)
+**Notes:** 쌓이다 is the passive/spontaneous counterpart to the transitive 쌓다 (to build/pile up). Where 신뢰를 쌓다 encodes an agent building trust, 신뢰가 쌓이다 encodes trust accumulating without specifying an agent. Natural in interpersonal and institutional contexts.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 2: X Becomes a Non-Truth / Opposed State
+
+### 2.1 Inchoative into the negative pole
+
+---
+
+**2.1.1**
+**Base term:** 진실 (jinsil) → 거짓 (geojit)
+**Expression:** 진실이 거짓이 되다
+**Transliteration:** jinsili geojisi doeda
+**English:** truth becomes falsehood / the truth is turned into a lie
+**Source:** Constructed from 진실 (P1 item 1), 거짓 (P1 item 3), 이/가 되다; the opposition 진실과 거짓 is attested in P2b item 1.6 and P5 Opposition 1
+**Notes:** This construction describes the transformation of a true state into a false one, often in contexts of distortion or manipulation. Less common as a simple inchoative than as a causative (see Section 3). Natural in rhetorical and analytical contexts.
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.2**
+**Base term:** 정직하다 (jeongjik-hada) → 부정직하다 (bujeongjik-hada)
+**Expression:** 부정직해지다
+**Transliteration:** bujeongjikhaejida
+**English:** to become dishonest / to become less honest
+**Source:** Constructed from 부정직하다 (P2a item 14.6) + 아/어지다
+**Notes:** Describes deterioration of honesty as a character trait. Natural in moral discourse (e.g., 압박을 받으면서 부정직해지다, "to become dishonest under pressure"). Parallel to 정직해지다 (Section 1.3.2) at the opposite pole.
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.3**
+**Base term:** 공정하다 (gongjeon-hada) → 불공정하다 (bulgongjeon-hada)
+**Expression:** 불공정해지다
+**Transliteration:** bulgongjeonhaejida
+**English:** to become unfair / to become less impartial
+**Source:** Constructed from 불공정 (P2a item 25.5, referenced in P3 Group 8) + 하다 + 아/어지다
+**Notes:** Describes deterioration of procedural fairness. Natural in institutional and political discourse (e.g., 경쟁이 불공정해지다, "competition becomes unfair"). Parallel to 공정해지다 (Section 1.3.3).
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.4**
+**Base term:** 신뢰 (sinloe) → 불신 (bulsin)
+**Expression:** 불신이 쌓이다
+**Transliteration:** bulsin-i ssaida
+**English:** distrust accumulates / mistrust builds up
+**Source:** Constructed from 불신 (P2a item 15.5) + 쌓이다 (attested in P2b item 15.1 as 신뢰를 쌓다, with 쌓이다 as its spontaneous counterpart)
+**Notes:** The accumulation of distrust is the inverse of 신뢰가 쌓이다. Natural in institutional and political discourse. The verb 쌓이다 applies symmetrically to both trust and distrust.
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.5**
+**Base term:** 진정성 (jinjeongseong)
+**Expression:** 진정성을 잃다
+**Transliteration:** jinjeongseong-eul ilta
+**English:** to lose sincerity / to lose authenticity
+**Source:** Constructed from 진정성 (P1 item 8) + 잃다 (to lose); 잃다 is attested in P2b items 15.2 (신뢰를 잃다) and 14.4 (정직함을 잃다) as the standard verb for loss of a valued quality
+**Notes:** Describes the transition from authentic to inauthentic expression or conduct. Natural in public and interpersonal discourse. The pattern Noun + 을/를 잃다 is productive across truth-domain quality nouns (see also 신뢰를 잃다, 정직함을 잃다).
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.6**
+**Base term:** 정직함 (jeongjikam)
+**Expression:** 정직함을 잃다
+**Transliteration:** jeongjikameul ilta
+**English:** to lose one's honesty / to lose integrity
+**Source:** P2b item 14.4
+**Notes:** Directly attested in P2b. Describes the loss of honesty as a character trait. 잃다 (to lose) is the standard verb for this type of quality loss across the truth domain.
+**Epistemic status:** [CORE]
+
+---
+
+**2.1.7**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰를 잃다
+**Transliteration:** sinloereul ilta
+**English:** to lose trust / to lose credibility
+**Source:** P2b item 15.2
+**Notes:** Directly attested in P2b. The standard construction for the loss of trust. P5 Opposition 23 documents this as the contrasting pole to 신뢰를 쌓다.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 3: Y Causes X to Be a Truth-Related State
+
+### 3.1 Causative via 하다 (transitive act-denoting)
+
+Documented in P4a (Construction 5) as the primary causative-like construction in the truth domain, restricted to nominal bases denoting deliberate acts.
+
+---
+
+**3.1.1**
+**Base term:** 거짓말 (geojitmal)
+**Expression:** 거짓말하다
+**Transliteration:** geojitmal-hada
+**English:** to lie / to cause a false statement to be made
+**Source:** P2a item 4.1; P4a Construction 5
+**Notes:** The most basic causative construction in the truth domain. The agent deliberately produces a false speech act. Fully lexicalized; common across all registers.
+**Epistemic status:** [CORE]
+
+---
+
+**3.1.2**
+**Base term:** 위조 (wijo)
+**Expression:** 위조하다
+**Transliteration:** wijo-hada
+**English:** to forge / to counterfeit / to cause a forgery to exist
+**Source:** P2a item 18.1; P4a Construction 5
+**Notes:** The agent deliberately produces a forged object or document. Restricted to legal and formal contexts. Directly attested in P2a.
+**Epistemic status:** [CORE]
+
+---
+
+**3.1.3**
+**Base term:** 왜곡 (waegok)
+**Expression:** 왜곡하다
+**Transliteration:** waegok-hada
+**English:** to distort / to misrepresent / to cause a distortion
+**Source:** P1 item 30; P2b items 1.10, 2.5
+**Notes:** The agent deliberately alters a representation away from accuracy. Common in journalistic, political, and historical contexts. Attested in P1 and P2b.
+**Epistemic status:** [CORE]
+
+---
+
+**3.1.4**
+**Base term:** 표절 (pyojeol)
+**Expression:** 표절하다
+**Transliteration:** pyojeol-hada
+**English:** to plagiarize / to cause plagiarism
+**Source:** P1 item 29
+**Notes:** The agent deliberately appropriates another's work without attribution. Common in academic and literary contexts. Attested in P1.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.2 Causative via 밝히다 (to reveal/illuminate — agentive counterpart to 밝혀지다)
+
+밝히다 is the transitive agentive verb whose spontaneous/passive counterpart 밝혀지다 is documented in P4a (Construction 4). It encodes an agent causing a truth-domain state to become known.
+
+---
+
+**3.2.1**
+**Base term:** 진실 (jinsil)
+**Expression:** 진실을 밝히다
+**Transliteration:** jinshireul balkida
+**English:** to reveal the truth / to bring the truth to light
+**Source:** P2b item 1.2
+**Notes:** The agent causes the truth to become known. The most common agentive truth-revelation construction in Korean. Common in investigative, journalistic, and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+**3.2.2**
+**Base term:** 진상 (jinsang)
+**Expression:** 진상을 밝히다
+**Transliteration:** jinsangeul balkida
+**English:** to reveal the true facts / to bring the real situation to light
+**Source:** P1b Root 1 item 18; P3 Group 5
+**Notes:** Parallel to 진실을 밝히다 but with emphasis on the specific factual circumstances of an event. Common in formal investigative contexts.
+**Epistemic status:** [CORE]
+
+---
+
+**3.2.3**
+**Base term:** 실체 (silche)
+**Expression:** 실체를 밝히다
+**Transliteration:** silchereul balkida
+**English:** to reveal the true nature of something
+**Source:** P2a item 22.3; P3 Group 5
+**Notes:** The agent causes the underlying reality of something to become known. Common in investigative and journalistic contexts. Attested in P2a.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 Causative via 게 하다 / 게 만들다 (periphrastic causative)
+
+게 하다 and 게 만들다 are the standard Korean periphrastic causative constructions. They apply to adjectives and verbs where morphological causatives are not available. P4a (Construction 5) notes that for stative adjectives in the truth domain, periphrastic causation is the available strategy.
+
+---
+
+**3.3.1**
+**Base term:** 정확하다 (jeonghwak-hada)
+**Expression:** 정확하게 하다 / 정확하게 만들다
+**Transliteration:** jeonghwakage hada / jeonghwakage mandeulda
+**English:** to make accurate / to cause to be precise
+**Source:** Constructed from 정확하게 (P2a item 9.3; P4a Construction 10) + 하다/만들다; P4a Construction 5 explicitly notes "정확하게 만들다 ('to make accurate')" as the available periphrastic strategy
+**Notes:** 정확하게 만들다 is slightly more emphatic than 정확하게 하다 in asserting deliberate transformation. Both are natural in scientific, journalistic, and administrative contexts (e.g., 데이터를 정확하게 만들다, "to make the data accurate").
+**Epistemic status:** [CORE]
+
+---
+
+**3.3.2**
+**Base term:** 정직하다 (jeongjik-hada)
+**Expression:** 정직하게 하다 / 정직하게 만들다
+**Transliteration:** jeongjik-hage hada / jeongjik-hage mandeulda
+**English:** to make honest / to cause to be straightforward
+**Source:** Constructed from 정직하게 (P2a item 14.3) + 하다/만들다
+**Notes:** Used in moral and educational contexts to describe the act of causing a person or process to be honest (e.g., 아이를 정직하게 만들다, "to make a child honest"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+**3.3.3**
+**Base term:** 공정하다 (gongjeon-hada)
+**Expression:** 공정하게 하다 / 공정하게 만들다
+**Transliteration:** gongjeon-hage hada / gongjeon-hage mandeulda
+**English:** to make fair / to cause to be impartial
+**Source:** Constructed from 공정하게 (P2a item 25.3) + 하다/만들다
+**Notes:** Used in institutional and policy contexts to describe the act of ensuring procedural fairness (e.g., 선발 과정을 공정하게 만들다, "to make the selection process fair"). Natural.
+**Epistemic status:** [CORE]
+
+---
+
+**3.3.4**
+**Base term:** 올바르다 (olbareuda)
+**Expression:** 올바르게 하다 / 올바르게 만들다
+**Transliteration:** olbareuge hada / olbareuge mandeulda
+**English:** to make right / to cause to be proper
+**Source:** Constructed from 올바르게 (P2a item 10.2) + 하다/만들다
+**Notes:** Used in moral and educational contexts (e.g., 잘못된 것을 올바르게 만들다, "to make what is wrong right"). Natural. 올바르게 하다 is slightly more common in everyday speech; 올바르게 만들다 is more emphatic.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.4 Causative via 속이다 (to deceive — causing a false belief)
+
+속이다 (to deceive) is attested in P2b as a verb encoding the causation of a false belief in another person.
+
+---
+
+**3.4.1**
+**Base term:** 가짜 (gajja)
+**Expression:** 가짜를 진짜로 속이다
+**Transliteration:** gajjareul jinjjaro sogida
+**English:** to deceive someone into thinking a fake is real / to pass off a fake as genuine
+**Source:** P2b item 6.2
+**Notes:** Directly attested in P2b. The agent causes another person to hold a false belief about the authenticity of an object. P2b notes this is "highly conventionalized in fraud and counterfeiting discourse."
+**Epistemic status:** [CORE]
+
+---
+
+**3.4.2**
+**Base term:** 거짓말 (geojitmal)
+**Expression:** 거짓말로 속이다
+**Transliteration:** geojitmallo sogida
+**English:** to deceive with a lie / to mislead through false speech
+**Source:** Constructed from 거짓말 (P1 item 4) + (으)로 속이다; 속이다 is attested in P2b item 6.2
+**Notes:** The agent uses a lie as the instrument of deception. The (으)로 particle marks the means. Natural in moral and legal discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.5 Causative via 유포하다 (to spread — causing false information to circulate)
+
+---
+
+**3.5.1**
+**Base term:** 허위사실 (heowi sasil)
+**Expression:** 허위사실을 유포하다
+**Transliteration:** heowi sasireul yupohada
+**English:** to spread false information / to disseminate false facts
+**Source:** P2a item 19.4; P2b item 19.2
+**Notes:** The agent causes false claims to circulate as if they were facts. Directly attested in P2a and P2b. A specific legal offense under Korean law. Common in legal and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**3.5.2**
+**Base term:** 가짜뉴스 (gajja nyuseu)
+**Expression:** 가짜 뉴스를 퍼뜨리다
+**Transliteration:** gajja nyuseureul peotteurida
+**English:** to spread fake news
+**Source:** P2b item 6.4
+**Notes:** 퍼뜨리다 (to spread/disseminate) is attested in P2b as the standard verb for the dissemination of fake news. Parallel in function to 유포하다 but more colloquial in register.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 4: Stability of Truth-Related States
+
+### 4.1 Maintaining a truth-related state
+
+---
+
+**4.1.1**
+**Base term:** 객관성 (gaekgwanseong)
+**Expression:** 객관성을 유지하다
+**Transliteration:** gaekgwanseong-eul yujihada
+**English:** to maintain objectivity
+**Source:** P2b item 26.4
+**Notes:** Directly attested in P2b. 유지하다 (to maintain/preserve) is the standard verb for the preservation of a valued quality. P2b notes this is used "in journalistic, academic, and institutional contexts to describe the effort to preserve impartiality."
+**Epistemic Status:** [CORE]
+
+---
+
+**4.1.2**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰를 바탕으로 하다
+**Transliteration:** sinloereul batang-euro hada
+**English:** to be based on trust / to be grounded in trust
+**Source:** P2b item 15.5
+**Notes:** Directly attested in P2b. This construction encodes trust as a stable foundation rather than a dynamic state. P2b notes it is used "to characterize a relationship, system, or agreement as having trust as its foundation."
+**Epistemic Status:** [CORE]
+
+---
+
+**4.1.3**
+**Base term:** 거짓말 (geojitmal)
+**Expression:** 거짓말로 일관하다
+**Transliteration:** geojitmallo ilgwan-hada
+**English:** to maintain a consistent lie throughout / to stick to one's false story
+**Source:** P2b item 4.5
+**Notes:** Directly attested in P2b. 일관하다 (to be consistent/to maintain throughout) encodes the stability of a deceptive state across time and questioning. P2b notes this is used "in legal and journalistic contexts to describe a person who persists in a false account despite evidence or questioning." This is the primary stability construction for a negative truth-domain state in the data.
+**Epistemic Status:** [CORE]
+
+---
+
+**4.1.4**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰를 회복하다
+**Transliteration:** sinloereul hoebokada
+**English:** to restore trust / to recover credibility
+**Source:** P2b item 15.3
+**Notes:** Directly attested in P2b. 회복하다 (to restore/recover) encodes the return to a prior stable state of trust after it has been damaged. P5 Opposition 25 documents this as the contrasting pole to 신뢰를 잃다. This construction encodes restoration of stability rather than initial achievement.
+**Epistemic Status:** [CORE]
+
+---
+
+**4.1.5**
+**Base term:** 타당성 (tadangseong)
+**Expression:** 타당성을 확보하다
+**Transliteration:** tadangseong-eul hwakbo-hada
+**English:** to secure validity / to establish soundness
+**Source:** P2b item 24.1
+**Notes:** Directly attested in P2b. 확보하다 (to secure/ensure) encodes the establishment and maintenance of validity as a stable property of an argument or procedure. Common in academic and policy discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.2 Disrupting a truth-related state
+
+---
+
+**4.2.1**
+**Base term:** 신뢰 (sinloe)
+**Expression:** 신뢰를 저버리다
+**Transliteration:** sinloereul jeobeorida
+**English:** to betray trust / to break faith
+**Source:** P2b item 15.4
+**Notes:** Directly attested in P2b. 저버리다 (to abandon/betray) encodes the deliberate violation of a stable trust relationship. P2b notes it "carries a stronger moral charge than 잃다," distinguishing active betrayal from passive loss. P5 Opposition 24 documents this as contrasting with 신뢰를 쌓다.
+**Epistemic Status:** [CORE]
+
+---
+
+**4.2.2**
+**Base term:** 본질 (bonjil)
+**Expression:** 본질을 흐리다
+**Transliteration:** bonjireul heurida
+**English:** to obscure the essence / to muddy the fundamental issue
+**Source:** P2b item 21.2
+**Notes:** Directly attested in P2b. 흐리다 (to blur/obscure) encodes the deliberate or inadvertent disruption of clarity about what is fundamentally at issue. P2b notes this is used "in analytical and political contexts to describe the act of distracting from or obscuring what is fundamentally at issue."
+**Epistemic Status:** [CORE]
+
+---
+
+**4.2.3**
+**Base term:** 진실 (jinsil)
+**Expression:** 진실을 왜곡하다
+**Transliteration:** jinshireul waegok-hada
+**English:** to distort the truth
+**Source:** P2b item 1.10
+**Notes:** Directly attested in P2b. 왜곡하다 encodes the deliberate alteration of a true state of affairs. P2b notes the pairing of 진실 with 왜곡하다 is "highly conventionalized." This construction encodes disruption of a truth-state through distortion.
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 5: Summary of Structural Patterns
+
+The following patterns are attested across the truth-domain vocabulary in P1–P5 and are documented here as generalizations supported by the data above.
+
+---
+
+**5.1 The (으)로 밝혀지다 / 판명되다 pattern**
+
+The construction Noun + (으)로 + {밝혀지다 / 판명되다} is the primary inchoative construction for truth-domain nouns in Korean. It applies to both positive poles (사실로 밝혀지다) and negative poles (허위로 밝혀지다, 가짜로 판명되다, 위조로 판명되다). The (으)로 particle marks the resultant state; the verb encodes the coming-to-light of that state. The agentive counterpart is Noun + 을/를 + 밝히다 (Section 3.2).
+
+---
+
+**5.2 The 아/어지다 pattern**
+
+The suffix 아/어지다 applies productively to 하다-adjectives in the truth domain to yield inchoative forms: 정확해지다, 정직해지다, 공정해지다, 타당해지다, 부정확해지다, 불공정해지다. It does not apply as productively to native Korean adjectives (올바르다, 옳다), for which the periphrastic 게 되다 is the natural alternative.
+
+---
+
+**5.3 The 을/를 잃다 pattern**
+
+잃다 (to lose) is the standard verb for encoding the loss of a positively valued truth-domain quality. It applies productively across the domain: 신뢰를 잃다, 정직함을 잃다, 진정성을 잃다. No parallel construction with 잃다 is attested for negatively valued states (one does not lose dishonesty or inaccuracy in the same constructional frame).
+
+---
+
+**5.4 The 게 하다 / 게 만들다 pattern**
+
+For stative adjectives in the truth domain, the periphrastic causative 게 하다 / 게 만들다 is the available strategy. It applies to 정확하게, 정직하게, 공정하게, 올바르게. No morphological causative suffix is attested for truth-domain adjectives in the data.
+
+---
+
+**5.5 Asymmetry in agentive constructions**
+
+The data supports an asymmetry between constructions encoding deliberate production of falsehood (거짓말하다, 위조하다, 왜곡하다, 속이다, 유포하다 — all transitive 하다-verbs or dedicated verbs) and constructions encoding deliberate production of truth (진실을 밝히다, 진실을 말하다 — object-verb constructions rather than lexicalized 하다-verbs). There is no lexicalized 하다-verb meaning "to truth" or "to be-honest-at-someone" parallel to 거짓말하다. This asymmetry is preserved as found and not interpreted.
+
+---
+
+**5.6 Items for which no dynamic expression is attested**
+
+The following P1 items do not participate in any of the dynamic constructions documented above, based on the CONTEXT data:
+
+- **진리 (jilli):** No inchoative, causative, or stability construction is attested. 진리 appears in the data as an object of pursuit (진리를 추구하다) but not as a state that is entered, caused, or maintained in the constructions documented here.
+- **진위 (jinwi):** No inchoative or causative construction is attested beyond the determination constructions (진위를 가리다, 진위 여부를 확인하다), which are investigative rather than state-change constructions.
+- **신빙성 (sinbyeongseong):** No inchoative or causative construction is attested. The existential predications (신빙성이 있다/없다) and scalar predications (신빙성이 높다/낮다) are attested but encode static evaluation rather than change of state.
+- **본질주의 / 사실주의 / 실증주의 / 실존주의 / 실용주의:** These -주의 (ism) compounds do not participate in dynamic constructions in the data.
+
+---
+
+*End of P6 CHANGE, CAUSATION, AND STABILITY output.*

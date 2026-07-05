@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-23T21:28:04.984417+00:00",
+  "prompt": "# CLCA Protocol v3.4 \u2014 P4b Construction Usage & Constraints\n\n# CONTEXT: P4a output\n\n\n### STEP P4a_CONSTRUCTIONS \u2014 OUTPUT\n## 1. ATTRIBUTION\n### Pattern\n**NP + be + true / correct / right / accurate / valid / genuine / authentic / real / reliable / credible**\n### Examples\n- *The statement is true.* \u2192 N/A \u2192 \u201cThe statement is true.\u201d\n- *That explanation is credible.* \u2192 N/A \u2192 \u201cThat explanation is credible.\u201d\n### Notes\nEnglish commonly uses a copular predicate with evaluative adjectives for truth, correctness, validity, authenticity, and credibility. The adjective chosen depends on domain: *true* for propositions, *accurate* for descriptions, *valid* for arguments/documents, *genuine/authentic/real* for genuineness.\n\n## 2. NEGATIVE ATTRIBUTION\n### Pattern\n**NP + be + not true / untrue / false / incorrect / inaccurate / invalid / fake / counterfeit / inauthentic / unreliable / untrustworthy**\n### Examples\n- *The claim is untrue.* \u2192 N/A \u2192 \u201cThe claim is untrue.\u201d\n- *The document is fake.* \u2192 N/A \u2192 \u201cThe document is fake.\u201d\n### Notes\nNegative attribution is formed either analytically with *not* or lexically with negative adjectives such as *untrue, incorrect, invalid, fake*. Different negatives align with different semantic subdomains: propositional falsity, procedural error, invalidity, or non-genuineness.\n\n## 3. ADNOMINAL MODIFICATION\n### Pattern\n**truth-domain adjective + noun**\n(e.g. **true/correct/accurate/valid/genuine/authentic/real/reliable/credible/faithful/exact/precise + N**)\n### Examples\n- *a true story* \u2192 N/A \u2192 \u201ca true story\u201d\n- *an authentic document* \u2192 N/A \u2192 \u201can authentic document\u201d\n### Notes\nEnglish freely places these adjectives before nouns to classify statements, objects, documents, accounts, or representations. This is highly productive, though some pairings are conventionalized (*valid argument, reliable source, exact copy*).\n\n## 4. BECOME / INCHOATIVE\n### Pattern\n**NP + become / prove / turn out + true / real / valid**; also **come true**\n### Examples\n- *The rumor proved true.* \u2192 N/A \u2192 \u201cThe rumor proved true.\u201d\n- *Her prediction came true.* \u2192 N/A \u2192 \u201cHer prediction came true.\u201d\n### Notes\nEnglish has several inchoative/resultative patterns for later confirmation or realization. *Come true* is especially fixed for wishes, fears, and predictions; *prove/turn out true* is common for claims and suspicions.\n\n## 5. CAUSATIVE (OR ABSENCE)\n### Pattern\n**V + NP + true/right/valid**; also lexical causatives such as **authenticate, validate, verify, correct**\n### Examples\n- *The new evidence proved the claim true.* \u2192 N/A \u2192 \u201cThe new evidence proved the claim true.\u201d\n- *Experts authenticated the painting.* \u2192 N/A \u2192 \u201cExperts authenticated the painting.\u201d\n### Notes\nEnglish has limited adjective-based causatives (*prove X true*, *set/put X right*) and also uses dedicated verbs for making or establishing truth-related status. There is no single productive causative verb meaning \u201cmake true/genuine/correct\u201d across all subdomains.\n\n## 6. ABSTRACT NOMINALIZATION\n### Pattern\n**Adjective/root + nominal suffix**: **truth, accuracy, correctness, validity, authenticity, reliability, credibility, faithfulness, exactness, precision**\n### Examples\n- *the accuracy of the report* \u2192 N/A \u2192 \u201cthe accuracy of the report\u201d\n- *the authenticity of the signature* \u2192 N/A \u2192 \u201cthe authenticity of the signature\u201d\n### Notes\nEnglish commonly forms abstract nouns with suffixes such as *-ness, -ity, -cy, -ion*. These nouns denote qualities or standards and often occur in *the X of NP* constructions.\n\n## 7. AGENTIVE NOMINALIZATION (LIAR, TRUTH-TELLER)\n### Pattern\n**agent noun / compound for speaker or source**: **truth-teller, liar, forger**; less commonly **truthful person, reliable source, credible witness**\n### Examples\n- *She is a truth-teller.* \u2192 N/A \u2192 \u201cShe is a truth-teller.\u201d\n- *He is a liar.* \u2192 N/A \u2192 \u201cHe is a liar.\u201d\n### Notes\nEnglish has some lexical agent nouns in this domain, but they are unevenly distributed. *Liar* and *forger* are common; positive truth-agent forms are often periphrastic (*truthful person, trustworthy source*) rather than fully productive nominalizations.\n\n## 8. TRUTH-TELLING PREDICATE\n### Pattern\n**tell / speak + the truth**; also **truth be told**\n### Examples\n- *Please tell the truth.* \u2192 N/A \u2192 \u201cPlease tell the truth.\u201d\n- *Truth be told, I was unsure.* \u2192 N/A \u2192 \u201cTruth be told, I was unsure.\u201d\n### Notes\nEnglish strongly favors verbal constructions with the noun *truth* for honesty in speech. These are central for interpersonal and legal contexts and are more idiomatic than a simple verb \u201ctruth.\u201d\n\n## 9. APPEARANCE-OF-TRUTH / PLAUSIBILITY\n### Pattern\n**NP + ring true / have a ring of truth / seem credible / seem genuine**\n### Examples\n- *His story rings true.* \u2192 N/A \u2192 \u201cHis story rings true.\u201d\n- *The excuse seems credible.* \u2192 N/A \u2192 \u201cThe excuse seems credible.\u201d\n### Notes\nThese constructions mark intuitive plausibility or felt authenticity rather than established truth. They are common when speakers evaluate accounts indirectly, without full verification.\n\n## 10. FIDELITY-TO-SOURCE CONSTRUCTION\n### Pattern\n**be faithful to / true to + source/original/reality**\n### Examples\n- *The translation is faithful to the original.* \u2192 N/A \u2192 \u201cThe translation is faithful to the original.\u201d\n- *The portrait is true to life.* \u2192 N/A \u2192 \u201cThe portrait is true to life.\u201d\n### Notes\nEnglish has a distinct construction for representational fidelity rather than simple factual truth. It is especially common with translations, depictions, adaptations, and portraits.\n\n\n# TASK\n\nFor each construction identified in P4a:\n\n1. Provide a NATURALNESS rating:\n   - [CORE] common and idiomatic\n   - [MARGINAL] less common or restricted\n   - [UNCERTAIN] unclear or doubtful\n\n2. Provide a brief usage note (1\u20132 sentences):\n   - typical contexts of use\n   - any observable restrictions\n   - variation in usage if evident\n\n3. List any attested alternate constructions (if present)\n\n---\n\n## RULES\n\n- Do NOT infer theoretical structure\n- Do NOT assume symmetry across constructions\n- Do NOT generate constructions not already attested\n- Preserve examples exactly as given in P4a\n\n---\n\n## FORMAT\n\n| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |\n",
+  "model": "gpt-5.4",
+  "backend": "openai",
+  "temperature": 0.2,
+  "usage": {
+    "completion_tokens": 1968,
+    "prompt_tokens": 1527,
+    "total_tokens": 3495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "raw_metadata": {
+    "backend": "openai",
+    "model": "gpt-5.4",
+    "temperature": 0.2,
+    "phase": "P",
+    "usage": {
+      "completion_tokens": 1968,
+      "prompt_tokens": 1527,
+      "total_tokens": 3495,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}

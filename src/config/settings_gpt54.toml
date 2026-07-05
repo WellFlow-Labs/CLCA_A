@@ -1,0 +1,36 @@
+# CLCA Revision -- GPT-5.4 pipeline configuration (Chat Completions API)
+# Use with: --config src/config/settings_gpt54.toml
+# Requires: OPENAI_API_KEY env var
+
+backend = "openai"
+model_name = "gpt-5.4"
+api_mode = "chat"
+temperature = 0.2
+max_tokens = 16000
+retry_attempts = 5
+request_timeout = 300.0
+tpm_limit = 0
+request_delay = 0.0
+
+[phase.P]
+temperature = 0.2
+max_tokens = 16000
+request_timeout = 300
+api_key_env = "OPENAI_API_KEY"
+
+[phase.F]
+temperature = 0.1
+max_tokens = 16000
+request_timeout = 300
+api_key_env = "OPENAI_API_KEY"
+
+[phase.G]
+temperature = 0.2
+max_tokens = 64000
+request_timeout = 600
+api_key_env = "OPENAI_API_KEY"
+
+[step_overrides]
+# Per-step tuning. Uncomment and adjust as needed:
+# P1_vocab.temperature = 0.3
+# F1_vocab_table.max_tokens = 8000

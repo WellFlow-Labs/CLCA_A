@@ -1,0 +1,165 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Swahili (sw)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Copular: NP ni PRED | *Ni kweli* "It's true" | Direct match | None |
+| **ADNOM** | Associative: N -a TRUTH-NOUN<br>Direct modification: N ADJ | *Rafiki wa kweli* "true friend"<br>*Jibu sahihi* "correct answer" | Direct match (two strategies) | None |
+| **BECOME** | Stative verb kuwa + PRED | *Kuwa kweli* "to become true" | Direct match | None |
+| **REVELATION** | **MISSING (structural gap)** | — | **SUBSTITUTED BY BECOME** | Structural gap |
+| **CAUSATION (factual)** | Causative suffix -ish-/-iz- | *Thibitisha* "to confirm/verify/validate" | **SUBSTITUTED BY VERIFICATION** | Functional substitution |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION - circumlocution required** | Periphrastic: *kufanya mtu awe mdanganyifu* "to make someone be a liar" (not attested in data) | — | Lexical/structural gap |
+| **VERIFICATION** | Causative derivations | *Hakikisha* "to verify/ensure"<br>*Thibitisha* "to confirm/verify/validate" | Direct match | None |
+| **DISCONFIRMATION** | Causative with negation/invalidation roots | *Batilisha* "to invalidate" (mentioned in P4a notes) | Shares causative morphology with VERIFICATION | None |
+| **NEGATION** | Negative copula si | *Si kweli* "not true"<br>*Si sahihi* "not correct" | Analytic (copula replacement) | None |
+| **NOMINALIZATION** | u- prefix (class 11/14) | *Ukweli* "truth"<br>*Usahihi* "correctness/accuracy" | Direct match | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION → BECOME Substitution
+The language shows **no dedicated REVELATION construction** (e.g., "it turned out to be true," "it was revealed to be false"). Instead, the general inchoative verb *kuwa* + predicate serves this function:
+- *Kuwa kweli* can mean both "to become true" and "to turn out to be true"
+- No morphological or lexical distinction exists between change-of-state and epistemic revelation
+
+This represents a **systematic substitution** where BECOME absorbs REVELATION functions.
+
+### 2.2 CAUSATION (factual) → VERIFICATION Substitution
+The causative suffix *-ish-/-iz-* productively derives verification verbs rather than pure factual causatives:
+- *Hakikisha* (< *hakika* "certain") = "to verify/ensure" (not "to make true")
+- *Thibitisha* (< *thabiti* "firm/stable") = "to confirm/verify/validate" (not "to make true")
+
+The language **lacks a productive pattern** for "make X true" or "make X false" as direct causation of truth-value. Instead, causative morphology is recruited for **verification and validation actions** (epistemic causation rather than factual causation).
+
+### 2.3 VERIFICATION ≈ DISCONFIRMATION (Shared Morphology)
+Both verification and disconfirmation use the **same causative suffix**:
+- Verification: *hakikisha*, *thibitisha* (cause certainty/confirmation)
+- Disconfirmation: *batilisha* (cause invalidity/nullification)
+
+The morphological pattern is identical; only the root semantics differ (positive vs. negative validation).
+
+### 2.4 NEGATION: Analytic Strategy
+Negation is **analytic** (copula replacement) rather than morphological:
+- Affirmative: *ni* → Negative: *si*
+- No verbal negation morphology applied to truth predicates themselves
+- Pattern: *NP si PRED* (not *NP ni si-PRED* or similar)
+
+### 2.5 CAUSATION (character): Circumlocution Required
+No productive construction exists for "make someone truthful/honest" or "make someone a liar":
+- Agentive nominalization exists: *mdanganyifu* "liar/deceiver"
+- But **no causative derivation** from this form
+- Would require periphrastic expression: *kufanya mtu awe mdanganyifu* "to make someone be a liar" (not attested in data)
+
+This represents a **conceptual gap** in the causative system: character causation is not grammaticalized.
+
+### 2.6 Asymmetries
+**No systematic asymmetries** between positive and negative forms:
+- Both *kweli* (true) and *uongo* (false) participate equally in all constructions
+- Both *sahihi* (correct) and negated forms are equally productive
+- Causative derivations exist for both validation (*thibitisha*) and invalidation (*batilisha*)
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+1. **REVELATION**: No dedicated construction for epistemic revelation distinct from general becoming
+   - Function absorbed by *kuwa* + predicate
+   - No morphological marking distinguishing "become true" from "turn out to be true"
+
+2. **CAUSATION (character)**: No productive morphosyntactic pattern for causing someone to become truthful/deceptive
+   - Agentive nouns exist (*mdanganyifu* "liar")
+   - But no causative derivation from these forms
+   - Would require full periphrastic clause
+
+### 3.2 Lexical Gaps
+1. **Factual causatives**: No simple verbs meaning "make true" or "make false"
+   - Causative morphology redirected to verification domain
+   - *Hakikisha* means "verify/ensure" not "make certain/true"
+
+### 3.3 Conceptual Gaps
+1. **Character causation**: The semantic domain of "causing someone to acquire truth-related character traits" is not grammaticalized
+   - Cannot derive *mdanganyifu-ish-a* "to make someone a liar"
+   - Blocked derivational pattern
+
+### 3.4 Asymmetric Gaps
+**None identified**. The language shows remarkable symmetry:
+- Positive and negative predicates behave identically
+- Truth and falsity domains equally productive
+- Verification and disconfirmation share morphological patterns
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+1. **ATTR**: Copular construction *ni/si PRED* - [CORE]
+2. **ADNOM**: Associative and direct modification - [CORE]
+3. **BECOME**: Stative verb *kuwa* + predicate - [CORE]
+4. **VERIFICATION**: Causative derivations *-ish-/-iz-* - [CORE]
+5. **DISCONFIRMATION**: Causative with invalidation roots - [CORE]
+6. **NEGATION**: Analytic copula replacement - [CORE]
+7. **NOMINALIZATION**: u- prefix derivation - [CORE]
+
+### Available with Substitution
+8. **REVELATION**: Expressed through BECOME (*kuwa kweli*)
+   - No dedicated construction
+   - Functional overlap with inchoative
+   - [SUBSTITUTED BY BECOME]
+
+9. **CAUSATION (factual)**: Expressed through VERIFICATION (*hakikisha*, *thibitisha*)
+   - Causative morphology redirected to epistemic domain
+   - No simple "make true/false" construction
+   - [SUBSTITUTED BY VERIFICATION]
+
+### Partially Available
+*None*
+
+### Missing Entirely
+10. **CAUSATION (character)**: No productive construction
+    - Requires full periphrastic expression
+    - Not grammaticalized in causative system
+    - [MISSING - conceptual gap]
+
+---
+
+## 5. Additional Observations
+
+### 5.1 Multi-word Expression Analysis
+Several constructions involve multi-word expressions that function as unified operators:
+
+1. **Adverbial modification** (*kwa kweli*, *kwa hakika*): 
+   - Syntactically: prepositional phrases
+   - Functionally: manner adverbs
+   - Behavior: modify entire clauses, not just verbs
+
+2. **Complementizer constructions** (*ni kweli kwamba*):
+   - Syntactically: copula + predicate + complementizer + clause
+   - Functionally: propositional attitude operator
+   - Behavior: takes clausal complement
+
+3. **Verbal object constructions** (*kusema kweli*):
+   - Syntactically: verb + direct object
+   - Functionally: lexicalized verbal expressions
+   - Behavior: *kweli* functions as incorporated object, not free noun
+
+### 5.2 Light Verb Patterns
+The verb *kuwa* "to be/become" serves as a **light verb carrier** for:
+- Inchoative semantics: *kuwa kweli* "become true"
+- Revelation semantics: *kuwa kweli* "turn out to be true"
+- Stative semantics: *kuwa na hakika* "be certain"
+
+This represents a **single morphosyntactic frame** serving multiple semantic operators.
+
+### 5.3 Causative Polysemy
+The causative suffix *-ish-/-iz-* shows **systematic polysemy**:
+- Primary function: verification/validation (*hakikisha*, *thibitisha*)
+- Secondary function: completion (*kamilisha* "complete/perfect")
+- Blocked function: factual causation (*make true/false*)
+
+This suggests the causative has been **semantically specialized** in the truth domain toward epistemic rather than factual operations.

@@ -1,0 +1,142 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Swahili (sw)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Copula *ni* + truth-domain predicate adjective/noun. Subject (noun or demonstrative) + *ni* + {*kweli* / *sahihi* / *halisi* / *haki* / *hakika* / *uongo* / *bandia* / *ghushi*}.
+
+### Examples
+- *Hii ni kweli.* → Hii ni kweli. → "This is true."
+- *Habari hii ni sahihi.* → Habari hii ni sahihi. → "This news is accurate."
+
+### Notes
+Swahili uses the invariant copula *ni* for equative and predicative attribution; there is no agreement morphology on *ni* itself. The negative counterpart uses *si* (see §2). Both *kweli* and *sahihi* function as predicate nominals/adjectives in this slot without inflection.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negative copula *si* + truth-domain predicate. Subject + *si* + {*kweli* / *sahihi* / *halisi* / *haki* / *bandia* / *ghushi*}.
+
+### Examples
+- *Si kweli.* → Si kweli. → "It is not true. / That is false."
+- *Si sahihi kabisa.* → Si sahihi kabisa. → "It is not correct at all. / This is completely inaccurate."
+
+### Notes
+*Si* is the suppletive negative of *ni* and is likewise invariant. The intensifier *kabisa* ("completely, absolutely") can be added postposed to strengthen the negation. This construction is the primary means of propositional denial in Swahili.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Head noun + postposed truth-domain adjective (no agreement morphology on the adjective for most borrowed forms). {*sahihi* / *halisi* / *bandia*} follows the noun it modifies.
+
+### Examples
+- *jibu sahihi* → jibu sahihi → "correct answer"
+- *bidhaa bandia* → bidhaa bandia → "fake goods / counterfeit products"
+
+### Notes
+Arabic-derived adjectives such as *sahihi*, *halisi*, and *bandia* are invariant in Swahili; they do not take noun-class agreement prefixes. This contrasts with Bantu-root adjectives, which do agree. The pattern Head + Adjective is the standard Swahili order.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Stative-intransitive verbal suffix *-ika* attached to a causative stem, or the verb *kuwa* ("to become/be") + truth-domain nominal. The *-ika* form expresses a state coming about without an expressed agent.
+
+### Examples
+- *Ukweli ulidhihirika.* → Ukweli ulidhihirika. → "The truth became evident. / The truth came to light."
+- *Imani yake ilianza kuwa na uhakika.* → Imani yake ilianza kuwa na uhakika. → "His/her belief began to have certainty. / He/she became certain."
+
+### Notes
+The *-ika* suffix (e.g., *kudhihirika* from *kudhihirisha*) is the primary inchoative device for this domain; it derives an intransitive "become evident/apparent" reading from the causative base. A periphrastic *kuwa na* + nominal construction covers cases where no *-ika* form is lexicalized.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Causative suffix *-sha* / *-isha* attached to a truth-domain base, yielding a transitive verb meaning "to cause X to be true/correct/certain/evident/legitimate."
+
+### Examples
+- *Tafadhali thibitisha taarifa hii.* → Tafadhali thibitisha taarifa hii. → "Please confirm / verify this report."
+- *Hakikisha mlango umefungwa.* → Hakikisha mlango umefungwa. → "Make sure the door is closed. / Ensure the door is closed."
+
+### Notes
+The causative is highly productive in this domain: *kuthibitisha* (to confirm/prove), *kuhakikisha* (to make certain/verify), *kusahihisha* (to correct/rectify), *kudhihirisha* (to make evident/demonstrate), *kuhalalisha* (to legitimize), *kuharamisha* (to prohibit/criminalize). All attach *-sha* to an Arabic-derived base. *kuhakikisha* extends into purely procedural contexts unrelated to truth evaluation.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Class 11/14 prefix *u-* + truth-domain base, yielding an abstract noun denoting the property or quality. Alternatively, *-o* suffix on a causative stem yields a process/result nominal.
+
+### Examples
+- *ukweli* → ukweli → "truth, truthfulness" (*u-* + *kweli*)
+- *uthibitisho* → uthibitisho → "confirmation, verification, proof" (*u-* + *thibitish-* + *-o*)
+
+### Notes
+The *u-* prefix is the most consistent derivational pattern across this domain, attested on *kweli*, *halisi*, *sahihi*, *hakika*, *aminifu*, *halali*, *sawa*, and *haki*. The *-o* nominalizer on causative stems (*uthibitisho*, *uhakikisho*, *udhihirisho*, *usahihishaji*) yields result/process nominals and is a secondary but productive pattern.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Class 1 prefix *m-* (singular) / Class 2 *wa-* (plural) + stem, optionally with *-aji* suffix, yielding a person-denoting nominal.
+
+### Examples
+- *mdanganyifu / wadanganyifu* → mdanganyifu / wadanganyifu → "deceiver / deceivers, liar / liars"
+- *msahihishaji / wasahihishaji* → msahihishaji / wasahihishaji → "examiner-marker / examiner-markers, corrector / correctors"
+
+### Notes
+Two sub-patterns are attested: (a) *m-/wa-* + adjectival stem (*mdanganyifu*, *mwaminifu*), and (b) *m-/wa-* + causative stem + *-aji* (*msahihishaji*, and by parallel *mghushi/waghushi* without *-aji*). No agentive nominal for "truth-teller" built directly on *kweli* or *ukweli* is identified; the concept is expressed periphrastically (*mtu anayesema ukweli*, "a person who tells the truth").
+
+---
+
+## 8. ADVERBIAL FRAMING (additional pattern)
+
+### Pattern
+Prepositional particle *kwa* + truth-domain nominal, forming a sentence-level adverbial that frames the epistemic or sincerity status of the following assertion.
+
+### Examples
+- *Kwa kweli nakuambia.* → Kwa kweli nakuambia. → "I tell you truly. / Truly, I tell you."
+- *Kwa uhakika, hii ilitokea.* → Kwa uhakika, hii ilitokea. → "With certainty, this happened. / This definitely happened."
+
+### Notes
+*Kwa* + {*kweli*, *kweli kweli*, *hakika*, *uhakika*, *usahihi*, *uaminifu*} is a productive adverbial pattern. These phrases function as sentence-initial or pre-verbal epistemic/sincerity frames and are not morphologically derived forms. *Bila* + {*shaka*, *uhakika*} forms a parallel negative-framing pattern (*bila shaka*, "without doubt").
+
+---
+
+## 9. PERIPHRASTIC VERBAL CONSTRUCTION WITH LIGHT VERB (additional pattern)
+
+### Pattern
+Light verb *piga* ("to strike/do") + truth-domain nominal object, expressing an act. Primarily attested for *uongo*.
+
+### Examples
+- *Anapiga uongo.* → Anapiga uongo. → "He/she is lying. / He/she tells lies."
+- *Usipige uongo.* → Usipige uongo. → "Don't lie. / Don't tell lies."
+
+### Notes
+*Piga uongo* is the most colloquial and frequent construction for the act of lying in spoken Swahili, more common in informal registers than the morphologically derived *kudanganya*. No parallel *piga kweli* construction is attested; the "tell the truth" directive uses *sema ukweli* (imperative of *kusema*, "to speak/say") instead.
+
+---
+
+## 10. POSSESSIVE EPISTEMIC CONSTRUCTION (additional pattern)
+
+### Pattern
+Subject prefix + *-na-* ("have") + truth-domain nominal, expressing the speaker's epistemic state as possession of certainty or doubt.
+
+### Examples
+- *Sina uhakika.* → Sina uhakika. → "I am not sure. / I have no certainty."
+- *Nina uhakika.* → Nina uhakika. → "I am sure. / I have certainty."
+
+### Notes
+Swahili expresses epistemic states such as certainty and doubt through a "have/not-have" construction rather than through stative adjectives or modal verbs. *Nina/Sina uhakika* is the primary everyday formula for asserting or denying personal certainty. No parallel *nina kweli* construction is attested for propositional truth.

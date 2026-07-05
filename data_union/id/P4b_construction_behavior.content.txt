@@ -1,0 +1,191 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Indonesian (id)
+# Layer: P4b_construction_behavior
+
+---
+
+## Construction Usage Table
+
+### 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **Zero-copula attribution** | *Kabar itu benar.* | N/A | "That news is true." | [CORE] | Extremely common across all registers; the copula-less predicate adjective pattern is the unmarked form in Indonesian. No register restriction observed. |
+| **Zero-copula attribution** | *Pernikahan mereka sah.* | N/A | "Their marriage is valid." | [CORE] | Frequent in legal, administrative, and everyday contexts; *sah* in particular is high-frequency in both formal and informal speech. |
+| **Zero-copula attribution** | *Informasi itu benar.* | Informasi itu benar. | "That information is correct." | [CORE] | Neutral declarative register; no contextual restriction. Standard across spoken and written Indonesian. |
+| **Zero-copula attribution** | *Dokumen ini palsu.* | Dokumen ini palsu. | "This document is fake." | [CORE] | Equally unrestricted; attested in legal, journalistic, and everyday registers. |
+| **Zero-copula attribution** | *Laporan itu tidak benar.* | Laporan itu tidak benar. | "That report is not true/incorrect." | [CORE] | Standard formula in official denials and journalistic corrections; *tidak benar* is a high-frequency fixed phrase. |
+| ***Adalah* attribution** | *Pernyataan ini adalah kebohongan.* | Pernyataan ini adalah kebohongan. | "This statement is a lie." | [CORE] | Formal and written registers; used with nominal predicates; more common in official, journalistic, and academic prose. |
+| ***Merupakan* attribution** | — | — | — | [CORE] | Slightly more formal than *adalah*; attested in P4a notes but no standalone example provided; same distributional context as *adalah*. |
+
+**Attested alternate constructions:**
+- Interrogative inversion with enclitic *-kah*: *Benarkah kabar itu?* — Common in formal questions and rhetorical contexts.
+- Zero-copula and *adalah*/*merupakan* forms are in free variation by register; no truth-domain-specific restriction attested.
+
+---
+
+### 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **Subject + *tidak* + adjective** | *Informasi itu tidak akurat.* | N/A | "That information is inaccurate." | [CORE] | Standard negation pattern; *tidak* + adjective is the default form across all registers. No restrictions observed for truth-domain adjectives. |
+| **Subject + *tidak* + adjective** | *Tindakan itu tidak sah menurut hukum yang berlaku.* | N/A | "That action is not valid under applicable law." | [CORE] | Frequent in legal and journalistic registers; the appended *menurut* phrase is a common extension in formal contexts. |
+| **Subject + *tidak* + adjective** | *Berita itu tidak akurat.* | Berita itu tidak akurat. | "That news is not accurate." | [CORE] | Standard negation of adjectival predicates; unrestricted across registers. |
+| **Subject + *bukan* + NP** | *Ini bukan produk asli.* | N/A | "This is not a genuine product." | [CORE] | *Bukan* negation for noun predicates; not interchangeable with *tidak*; applies when the predicate is nominal rather than adjectival. |
+| **Subject + *bukan* + NP** | *Ini bukan asli.* | Ini bukan asli. | "This is not genuine." | [CORE] | Used for categorical denial of identity or category membership; common in legal and everyday contexts. |
+| **Subject + *bukan* + NP** | *Ini bukan dokumen asli.* | Ini bukan dokumen asli. | "This is not a genuine document." | [CORE] | Obligatory for nominal predicate negation; mixing *tidak* and *bukan* is ungrammatical in standard usage; no register restriction attested. |
+| **Softened negation: *kurang* + adjective** | — | *kurang tepat* / *kurang benar* | "not quite right" / "not entirely correct" | [CORE] | Pragmatically softened; frequent in polite, face-saving, and editorial contexts. Implies partial rather than total negation. |
+
+**Attested alternate constructions:**
+- *kurang tepat*, *kurang benar* as softened variants of *tidak tepat*, *tidak benar*.
+- The *tidak*/*bukan* split is grammatically determined by predicate category; the two forms are not interchangeable.
+
+---
+
+### 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **Noun + *yang* + adjective** | *Data yang akurat sangat diperlukan untuk pengambilan keputusan.* | N/A | "Accurate data is essential for decision-making." | [CORE] | The *yang*-relativizer construction is the fully productive and unmarked adnominal pattern; found across all registers and all truth-domain adjectives. |
+| **Noun + *yang* + adjective** | *Alasan yang sah harus disertakan dalam permohonan.* | N/A | "A valid reason must be included in the application." | [CORE] | Common in administrative and legal writing; *yang sah* is a high-frequency collocation in formal documents and regulations. |
+| **Noun + *yang* + adjective** | *Informasi yang benar dan akurat.* | Informasi yang benar dan akurat. | "Information that is correct and accurate." | [CORE] | Productive default for postnominal modification; unrestricted across registers and item types. |
+| **Noun + *yang* + adjective** | *sumber yang terpercaya* | sumber yang terpercaya | "a trusted/reliable source" | [CORE] | Preferred when modifier is participial or the construction is more explicitly predicative; also common across registers. |
+| **Adjective + noun (direct juxtaposition, no *yang*)** | *berita palsu* | berita palsu | "fake news" | [MARGINAL] | Restricted to fixed collocations and technical terms; not the productive default. Not freely generalized to new combinations. |
+| **Adjective + noun (direct juxtaposition, no *yang*)** | *uang palsu* | uang palsu | "counterfeit money" | [MARGINAL] | Restricted to fixed collocations and technical terms; not the productive default. Not freely generalized to new combinations. |
+| **Adjective + noun (direct juxtaposition, no *yang*)** | *hadis sahih* | hadis sahih | "a sound hadith" | [MARGINAL] | Restricted to fixed collocations and technical terms (*hadis sahih*, *emas murni*, *uang palsu*); not the productive default. Not freely generalized to new combinations. |
+| **Post-nominal adjective without *yang*** | *dokumen palsu* | dokumen palsu | "a forged/fake document" | [CORE] | Productive default for noun-modifier compounds; common across registers; preferred for single-adjective modification. |
+
+**Attested alternate constructions:**
+- *yang* construction is the productive default; direct juxtaposition is lexically restricted.
+- The *yang* form is preferred for participial modifiers and longer phrases; the bare post-nominal form is preferred for compact noun-modifier compounds. No truth-domain-specific restriction attested beyond this general distributional pattern.
+- Prenominal order without *yang* (*berita palsu*, *uang palsu*, *hadis sahih*) attested in P4a notes as lexicalized collocations only, not a productive pattern.
+
+---
+
+### 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***menjadi* + NP/adjective** | *Dusta yang diulang-ulang bisa menjadi kebenaran yang diterima.* | N/A | "A lie repeated many times can become an accepted truth." | [MARGINAL] | The *menjadi* + truth-domain adjective/noun pattern is grammatically available but less frequent than resultative passives; more typical of rhetorical, journalistic, or philosophical prose than everyday speech. |
+| ***menjadi* + NP/adjective** | *Kebohongan itu akhirnya menjadi kenyataan yang diketahui publik.* | Kebohongan itu akhirnya menjadi kenyataan yang diketahui publik. | "That lie eventually became a reality known to the public." | [CORE] | General inchoative; unrestricted. *Menjadi kenyataan* is a fixed collocation within this pattern. |
+| ***menjadi* + NP/adjective** | *Hal itu akhirnya menjadi kenyataan.* | Hal itu akhirnya menjadi kenyataan. | "That eventually became reality." | [CORE] | *Menjadi kenyataan* is a fixed collocation; *menjadi* + truth-domain noun/adjective is productive generally but this specific collocation is the most frequent in this domain. |
+| **Resultative passive: *dinyatakan*** | *Kontrak itu dinyatakan sah oleh pengadilan.* | N/A | "The contract was declared valid by the court." | [CORE] | Resultative passives (*dinyatakan*, *terbukti*) are the dominant inchoative strategy in legal and institutional registers; *dinyatakan sah* is a near-formulaic legal expression. |
+| ***terungkap* as inchoative** | *Kebenaran akan terungkap pada akhirnya.* | Kebenaran akan terungkap pada akhirnya. | "The truth will come to light in the end." | [CORE] | Conventionalized for truth-coming-to-light contexts; frequent in journalistic and narrative registers. Subject is typically *kebenaran* or a concealed fact. |
+| ***terbukti* as inchoative** | — | — | "to be proven" | [CORE] | Closely related to *terungkap*; used when proof or evidence is foregrounded rather than mere revelation. Frequent in legal and journalistic registers. |
+| ***terbukti* + truth-domain adjective** | *Klaim tersebut terbukti palsu.* | Klaim tersebut terbukti palsu. | "That claim was proven false." | [CORE] | High-frequency in legal and journalistic discourse; expresses that a truth-domain evaluation has been established through evidence or official process; no overt agent required. |
+
+**Attested alternate constructions:**
+- *menjadi kenyataan* (fixed collocation); *terungkap* and *terbukti* are distinct conventionalized forms within the same semantic space.
+- *terbukti* + adjective attested in P4a notes alongside *dinyatakan*. Frequent in legal and journalistic registers.
+- *Terbukti* constructions overlap partially with the *ter-* stative passive (§8) but are documented separately on the basis of their resultative-evidential function.
+
+---
+
+### 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **Active causative: *meN-* + base + *-kan*** | *Pihak berwenang membenarkan laporan itu.* | N/A | "The authorities confirmed that report." | [CORE] | *meN-...-kan* causatives are fully productive and common in formal, journalistic, and legal registers; *membenarkan* in the sense of "to confirm" is a standard journalistic verb. |
+| **Active causative: *meN-* + base + *-kan*** | *Ia memalsukan tanda tangan pada dokumen itu.* | N/A | "He forged the signature on that document." | [CORE] | *Memalsukan* is the standard verb for forgery/falsification; frequent in legal, journalistic, and everyday registers. The passive *dipalsukan* is equally common in formal writing. |
+| **Active causative: *meN-* + base + *-kan*** | *Pernyataan itu mengelirukan publik.* | Pernyataan itu mengelirukan publik. | "That statement misled the public." | [CORE] | Productive across the truth-domain inventory; unrestricted in register. Attested forms include: *membenarkan*, *mengelirukan*, *memalsukan*, *mengesahkan*, *memurnikan*, *mengikhlaskan*, *menyesatkan*, *menyatakan*. |
+| **Active causative: *meN-* + base + *-kan*: confirm/justify** | *Tidak ada yang bisa membenarkan tindakan itu.* | Tidak ada yang bisa membenarkan tindakan itu. | "Nothing can justify/sanction that action." | [CORE] | *Membenarkan* carries both 'to confirm' and 'to justify/sanction' readings; context-dependent disambiguation; common in formal and legal registers. |
+| **Passive causative: *di-* + base + *-kan*** | *Dokumen itu telah dipalsukan.* | Dokumen itu telah dipalsukan. | "That document has been forged." | [CORE] | Equally productive; particularly frequent in formal, legal, and journalistic registers where the agent is backgrounded or unknown. |
+
+**Restrictions noted:** *Akurat*, *sahih*, *sejati*, and *kredibel* lack attested causative forms in standard usage; the pattern is productive but not universal across truth-domain bases.
+
+**Attested alternate constructions:**
+- Active and passive forms are both fully productive and co-attested; choice is governed by discourse-pragmatic factors (agent prominence, register).
+- No periphrastic alternatives documented in P4a data for the causative function beyond *me-...-kan*.
+
+---
+
+### 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***ke-* + base + *-an*** | *Mencari kebenaran adalah tugas jurnalis.* | N/A | "Seeking the truth is the journalist's task." | [CORE] | *Ke-...-an* nominalizations are fully productive and extremely frequent; *kebenaran* is one of the highest-frequency nominalizations in the domain, appearing across all registers. |
+| ***ke-* + base + *-an*** | *Keabsahan kontrak itu masih dipertanyakan.* | N/A | "The validity of that contract is still being questioned." | [CORE] | *Keabsahan* is standard in legal and administrative registers; the construction *masih dipertanyakan* ("still being questioned") is a frequent collocate in journalistic prose. |
+| ***ke-* + base + *-an*** | *Kejujuran adalah nilai yang dijunjung tinggi.* | Kejujuran adalah nilai yang dijunjung tinggi. | "Honesty is a highly valued principle." | [CORE] | Primary abstract nominalizer; productive across the inventory. Attested forms: *kebenaran*, *kesalahan*, *keaslian*, *kejujuran*, *kebohongan*, *keabsahan*, *kemurnian*, *ketulusan*, *keikhlasan*, *kenyataan*, *ketepatan*, *keakuratan*. |
+| ***ke-* + base + *-an*** | *Keabsahan pemilu itu dipertanyakan.* | Keabsahan pemilu itu dipertanyakan. | "The legitimacy of that election was called into question." | [CORE] | Frequent in legal, political, and journalistic registers; no restriction on subject type. |
+| ***ke-* + base + *-an*: validity/legitimacy** | *Keabsahan dokumen itu dipertanyakan.* | Keabsahan dokumen itu dipertanyakan. | "The validity/legitimacy of that document was questioned." | [CORE] | Frequent in legal and administrative discourse; *keabsahan* and *kesahihan* are near-synonyms with partially overlapping distribution in this domain. |
+| ***ke-* + base + *-an*: honesty** | *Kejujuran adalah nilai yang paling penting.* | Kejujuran adalah nilai yang paling penting. | "Honesty is the most important value." | [CORE] | Highly productive; all major truth-domain adjectives form *ke-...-an* nominalizations; common across registers including formal, written, and spoken. |
+| **Loanword substitution: *validitas*** | — | *validitas* | "validity" | [MARGINAL] | Used in technical/academic registers in place of *\*kevalidan*; reflects incomplete morphological integration of Dutch/Latin loanwords. *\*Keotentikan* is noted as marginal. |
+| ***-Itas* nominalization (loanword bases)** | — | — | — | [CORE] | Attested in P4a notes (*validitas*, *kredibilitas*, *otentisitas*) but no standalone example provided; restricted to loanword bases; more common in academic and technical registers. |
+
+**Attested alternate constructions:**
+- *pembenaran*, *pemalsuan*, *pembuktian*, *pengesahan*, *pernyataan* — *peN-...-an* process/result nominalizations attested in P4a §6 notes as a second nominalization pattern distinct from *ke-...-an* abstract nominalizations.
+- *validitas* (technical register) as a non-integrated loanword alternative where *ke-...-an* derivation is blocked or marginal.
+- *-Itas* suffix applies only to loanword bases and does not compete with *ke-...-an* on native bases. Both strategies are attested; distribution is determined by base origin.
+- Distinct from *ke-...-an* abstracts (Construction 8): the two circumfixes are not interchangeable — *pemalsuan* (act of forging) vs. *\*kemalsuan* (unattested); *kebenaran* (truth as quality) vs. *pembenaran* (act of justifying/confirming).
+
+---
+
+### 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***pe(N)-* + base (negative-role agent)** | *Ia dikenal sebagai pembohong ulung.* | N/A | "He is known as a skilled liar." | [CORE] | *Pembohong* is the everyday agentive form for "liar" and is unrestricted by register; the collocation *pembohong ulung* ("skilled/accomplished liar") is a fixed evaluative phrase. |
+| ***pe(N)-* + base (negative-role agent)** | *Pemalsu uang itu akhirnya ditangkap polisi.* | N/A | "The currency counterfeiter was finally arrested by police." | [CORE] | *Pemalsu* is the standard agentive for forger/counterfeiter; frequent in legal and journalistic registers. The compound *pemalsu uang* is a lexicalized collocation. |
+| ***pe(N)-* + base (negative-role agent)** | *Dia dikenal sebagai pembohong ulung.* | Dia dikenal sebagai pembohong ulung. | "He is known as a skilled liar." | [CORE] | Well established for negative agentive roles (*pembohong*, *pendusta*, *pemalsu*, *peniru*); unrestricted in register. |
+| ***pe(N)-* + base (negative-role agent)** | *Pemalsu dokumen itu akhirnya ditangkap.* | Pemalsu dokumen itu akhirnya ditangkap. | "The document forger was finally arrested." | [CORE] | Frequent in legal and journalistic registers; *pemalsu* is fully lexicalized. |
+| ***pe(N)-* agentive from truth-domain base** | *Dia adalah pembohong yang tidak bisa dipercaya.* | Dia adalah pembohong yang tidak bisa dipercaya. | "He is a liar who cannot be trusted." | [CORE] | Productive for bases denoting deception and forgery; *pembohong*, *pendusta*, *pemalsu*, *peniru*, *penyesat* all attested; common across registers. |
+| ***pe(N)-* agentive: forger/counterfeiter** | *Pemalsu uang itu akhirnya ditangkap polisi.* | Pemalsu uang itu akhirnya ditangkap polisi. | "The currency counterfeiter was finally arrested by police." | [CORE] | Frequent in legal and journalistic discourse; *pemalsu* is the standard term for forger/counterfeiter in these registers. |
+| **Periphrastic positive-role agent: *orang yang* + adjective** | — | *orang yang jujur* | "an honest person" | [CORE] | Used where *pe(N)-* derivation is absent or marginal for positive roles; *\*penjujur* is unattested. Asymmetry is noted: agentive nominals are established for negative roles but not positive ones in this domain. |
+| **Periphrastic truth-teller expression** | — | *orang yang berkata benar* | — | [CORE] | No single derived agentive form for 'truth-teller' is attested; concept expressed periphrastically as *orang yang jujur* or *orang yang berkata benar*; asymmetry with deception-domain agentives is consistent across the data. |
+
+**Restrictions noted:** The asymmetry between productive agentive forms for liars and forgers versus the absence of a lexicalized truth-teller agentive is documented in P4a and is consistent with the attested data. No alternate single-word form for 'truth-teller' is attested.
+
+**Attested alternate constructions:**
+- *pendusta* — more formal/literary and Islamic-register variant of *pembohong*; attested in P4a notes. Register-restricted; not interchangeable with *pembohong* in everyday speech.
+- *orang yang jujur*, *saksi yang terpercaya* — periphrastic alternatives for the truth-telling side of the domain where agentive *peN-* forms are not established; attested in P4a notes.
+- *manipulator* — loanword formation attested in P4a; does not follow the *pe(N)-* pattern and is restricted to the specific meaning of manipulation.
+
+---
+
+### 8. PROCESS NOMINALIZATION / PASSIVE / RESULTATIVE STATE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***pe(N)-* + base + *-an*** | *Beban pembuktian ada pada pihak penuntut.* | N/A | "The burden of proof lies with the prosecuting party." | [CORE] | *Pembuktian* is a core legal term; *beban pembuktian* is a lexicalized legal formula. Restricted to formal, legal, and academic registers; not typical of casual speech. |
+| ***pe(N)-* + base + *-an*** | *Pengesahan undang-undang itu memakan waktu berbulan-bulan.* | N/A | "The ratification of that law took many months." | [CORE] | *Pengesahan* is standard in legal, legislative, and journalistic registers; the *peN-...-an* process nominalization pattern is productive and frequent in formal Indonesian. |
+| ***pe(N)-* + base + *-an*** | *Pemalsuan dokumen adalah tindak pidana.* | Pemalsuan dokumen adalah tindak pidana. | "Document forgery is a criminal act." | [CORE] | Productive process/event nominalizer; frequent in legal and journalistic registers. Attested forms: *pemalsuan*, *pengesahan*, *pembenaran*, *pemurnian*, *peniruan*, *penyimpangan*. |
+| ***pe(N)-* + base + *-an*** | *Pengesahan undang-undang itu berlangsung kemarin.* | Pengesahan undang-undang itu berlangsung kemarin. | "The ratification of that law took place yesterday." | [CORE] | Particularly frequent in formal, legal, and administrative registers; refers to the act or event rather than the abstract quality. |
+| ***di-...-kan* passive** | *Dokumen itu diduga dipalsukan oleh tersangka.* | Dokumen itu diduga dipalsukan oleh tersangka. | "That document is suspected of having been forged by the suspect." | [CORE] | Primary construction in legal and journalistic discourse for acts of forgery, validation, manipulation, and declaration; agent may be expressed with *oleh* or omitted. |
+| ***di-...-kan* passive: ratification** | *Undang-undang itu telah disahkan oleh DPR.* | Undang-undang itu telah disahkan oleh DPR. | "That law has been ratified by the parliament." | [CORE] | Standard formula in official and legislative discourse; *disahkan* is the fixed term for formal ratification; agent (*oleh* phrase) is typically retained in this register. |
+| ***ter-* stative passive** | — | — | — | [CORE] | Attested in P4a notes (*terbukti*, *tersesat*, *terpercaya*); expresses resultant state without necessarily implying a specific agent; distinct from *di-* passive in that no agentive *oleh* phrase is typical. |
+
+**Attested alternate constructions:**
+- *pembuktian terbalik* — lexicalized legal compound ("reversal of burden of proof"); attested in P4a notes. Restricted to legal register.
+- *di-* passive and *ter-* stative passive are documented as distinct patterns in P4a. The *ter-* stative overlaps with the inchoative/resultative construction in §4 (*terbukti*) but is treated as a separate pattern on distributional grounds.
+- Distinct from *ke-...-an* abstracts (Construction 6): *pemalsuan* (act of forging) vs. *\*kemalsuan* (unattested); *kebenaran* (truth as quality) vs. *pembenaran* (act of justifying/confirming).
+
+---
+
+### 9. EPISTEMIC HEDGE / DISCOURSE-MARKER CONSTRUCTIONS
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***Kalau saya tidak salah* + clause** | *Kalau saya tidak salah, pertemuan itu dijadwalkan hari Kamis.* | N/A | "If I am not mistaken, the meeting is scheduled for Thursday." | [CORE] | Extremely frequent in spoken Indonesian and informal written registers; *kalau saya tidak salah* is the most colloquial variant. |
+| ***Sejauh yang saya tahu* + clause** | *Sejauh yang saya tahu, hal itu benar adanya.* | N/A | "As far as I know, that is indeed the case." | [CORE] | Common across spoken and written registers; *benar adanya* is a fixed emphatic phrase ("is indeed the case") that frequently co-occurs with epistemic hedges. |
+| ***Sebenarnya* frame** | *Sebenarnya, saya tidak setuju dengan keputusan itu.* | Sebenarnya, saya tidak setuju dengan keputusan itu. | "Actually, I don't agree with that decision." | [CORE] | High-frequency in everyday spoken and written Indonesian; sentence-initial pragmatic operator for correction and disclosure. No register restriction. |
+| ***Sebenarnya* frame** | *Sebenarnya, saya tidak setuju dengan pendapat itu.* | Sebenarnya, saya tidak setuju dengan pendapat itu. | "Actually/In truth, I disagree with that opinion." | [CORE] | High-frequency across all registers; functions as correction of false appearance or introduction of a contrasting claim; the most frequent of the attested framing adverbials. |
+| ***Pada hakikatnya* frame** | *Pada hakikatnya, masalah ini jauh lebih kompleks.* | Pada hakikatnya, masalah ini jauh lebih kompleks. | "In essence, this problem is far more complex." | [MARGINAL] | Restricted to formal, philosophical, and academic registers; introduces statements about essential rather than surface reality. Less frequent than *sebenarnya* in everyday use. |
+| ***Pada hakikatnya* frame (no example)** | — | — | — | [CORE] | Attested in P4a notes; used for essential characterization; more common in formal and written registers than *sebenarnya*. |
+| ***Pada esensinya* frame** | — | — | — | [MARGINAL] | Attested in P4a notes; near-synonym of *pada hakikatnya*; appears to be less frequent and more restricted to formal written registers; no standalone example provided in P4a data. |
+| ***Pada kenyataannya* frame** | *Pada kenyataannya, hal itu tidak pernah terjadi.* | Pada kenyataannya, hal itu tidak pernah terjadi. | "In reality, that never happened." | [CORE] | Used to correct a false appearance or prior claim; sentence-initial or parenthetical; common across spoken and written registers. |
+| ***Sebenar-benarnya* (emphatic variant)** | — | *sebenar-benarnya* | "truly, in the fullest sense" | [MARGINAL] | Restricted to formal declarations and sworn testimony; not used in casual speech. Emphatic and register-marked. |
+| ***Jujur saja* frame** | — | — | — | [CORE] | Attested in P4a notes; introduces candid admission; common in spoken and informal written registers; distinct rhetorical function from correction-of-appearance frames. |
+
+**Attested alternate constructions:**
+- *jika saya tidak keliru* — more formal variant of *kalau saya tidak salah*; attested in P4a notes. Restricted to formal speech and writing.
+- *jujur saja* / *untuk jujur* — honesty-framing hedges; attested in P4a notes. Frequent in spoken Indonesian and registers approximating spoken discourse.
+- *Sebenarnya* and *pada kenyataannya* function primarily as correction frames; *pada hakikatnya* and *pada esensinya* function as essential-characterization frames; *jujur saja* functions as a candid-admission frame. They are not interchangeable.
+
+---
+
+### 10. CONCESSIVE CONSTRUCTIONS / PARTIAL CONCESSION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| ***Memang benar bahwa* + clause** | *Memang benar bahwa angka kemiskinan menurun, tetapi ketimpangan masih tinggi.* | N/A | "It is indeed true that poverty rates have declined, but inequality remains high." | [CORE] | *Memang benar bahwa* is a high-frequency concessive opener in journalistic and argumentative writing; the *memang* particle adds an emphatic or concessive force not present in bare *benar bahwa*. |
+| ***Ada benarnya* (+ *juga*)** | *Ada benarnya pendapat itu, meski tidak sepenuhnya tepat.* | N/A | "There is something to that view, though it is not entirely accurate." | [CORE] | *

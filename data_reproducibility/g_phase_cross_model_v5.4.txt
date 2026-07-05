@@ -1,0 +1,83 @@
+# CLCA G-phase reproducibility comparison
+# baseline: /tmp/clca_v54/data
+# rerun:    /tmp/clca_v54/data_gpt54
+# sets: global_set_A, global_set_B
+
+## global_set_A
+  G7a semantic dimensions:
+    strict match (exact label):   0.0% (0/32)
+    concept match (keyword overlap, ≥0.25 Jaccard):  18.5% (5/27)
+      paired concepts:
+        truth visibility  ≈  of-truth × inchoative  (Jaccard 0.33)
+        source reliability  ≈  reliability / trustworthiness  (Jaccard 0.33)
+        propositional correspondence  ≈  conformity / correspondence / fit  (Jaccard 0.33)
+        procedural correctness  ≈  legal / procedural validity  (Jaccard 0.25)
+        measurement exactness  ≈  accuracy / exactness / precision  (Jaccard 0.25)
+      baseline only: dispositional honesty, epistemic certainty, evidential establishment, expression sincerity, intentional deception, material authenticity, normative legitimacy
+      rerun only:    correctness / right answer / proper procedure, credibility / believability / convincingness, degree / completeness / partial truth, error / wrongness / mistake, essence / underlying nature / core substance, faithfulness to source / original, fake / counterfeit / forged thing, falsehood / lie / untruth, genuine / authentic / real thing, justification / legitimacy / being in the right, of-truth × causative, of-truth × correction, reality / actuality vs appearance, resemblance / similarity, statement truth / factual truth
+  G7a constructional functions:
+    strict match (exact label):  10.0% (2/20)
+    concept match (keyword overlap, ≥0.25 Jaccard):  29.4% (5/17)
+      paired concepts:
+        adnominal modification  ≡  adnominal modification  (Jaccard 1.00)
+        abstract nominalization  ≡  abstract nominalization  (Jaccard 1.00)
+        revelation  ≈  revelation / emergence / disclosure  (Jaccard 0.33)
+        inchoative  ≈  inchoative / change-of-state  (Jaccard 0.33)
+        causative  ≈  causative / making / rendering  (Jaccard 0.33)
+      baseline only: agentive nominalization, basic predication, concealment, dimensional interactions, manner adverbialization, negation
+      rerun only:    agentive person-denoting formation, correction / rectification, negative predicative attribution, predicative attribution, truth/fact as object of speech, inquiry, or stance, verification / checking / confirmation
+  G8 universals (all):
+    strict match (exact label):   0.0% (0/37)
+    concept match (keyword overlap, ≥0.25 Jaccard):   2.8% (1/36)
+      paired concepts:
+        agentive "liar" lexicalization with "truth-teller" gap  ≈  “liar” is much easier to lexicalize than “truth-teller”  (Jaccard 0.38)
+      baseline only: abstract quality nominalization productivity, causative restriction to verification sense, character honesty vs. statement truth distinction, concealment vocabulary universality, core lexical oppositions, dispositional causation blocking, inchoative blocking with abstract propositional truth, light verb speech act constructions, manner adverbialization universality, object authenticity distinction, passive/intransitive preference in revelation, polysemy of straightness/correctness terms, privative "non-falsehood" rarity, privative morphology for oppositions, revelation-inchoative substitution pattern, revelation/discovery construction universality, truth-term + noun compounding productivity, verification vocabulary productivity, zero or minimal copula preference
+      rerun only:    a productive, general “make x true” causative is broadly absent, abstract nominalization of truth-related qualities is highly recurrent, adnominal modification with truth-related vocabulary is broadly available, core truth vs falsehood opposition is recurrently lexicalized, correction verbs are more productive than “make wrong” verbs, degree/completeness of truth is weakly lexicalized cross-linguistically, essence/underlying nature strongly resists change-of-state and causative constructions, genuine/authentic vs fake/counterfeit is also recurrently lexicalized, legal/procedural validity is often lexicalized separately from truth, precision/accuracy is only sometimes split from general correctness, reliability and credibility are often not sharply distinguished, revelation/disclosure constructions are broadly preferred over simple “become true” constructions, truth-related domains are commonly split into at least statement truth, authenticity, and correctness, verification is more productively lexicalized than falsification, verification/checking is a robust cross-language function, “become genuine/authentic” is broadly resisted or absent
+  G8 universals (HIGH conf.):
+    strict match (exact label):   0.0% (0/24)
+    concept match (keyword overlap, ≥0.25 Jaccard):   4.3% (1/23)
+      paired concepts:
+        agentive "liar" lexicalization with "truth-teller" gap  ≈  “liar” is much easier to lexicalize than “truth-teller”  (Jaccard 0.38)
+      baseline only: abstract quality nominalization productivity, character honesty vs. statement truth distinction, concealment vocabulary universality, core lexical oppositions, light verb speech act constructions, manner adverbialization universality, object authenticity distinction, privative morphology for oppositions, revelation-inchoative substitution pattern, revelation/discovery construction universality, truth-term + noun compounding productivity, verification vocabulary productivity, zero or minimal copula preference
+      rerun only:    a productive, general “make x true” causative is broadly absent, abstract nominalization of truth-related qualities is highly recurrent, adnominal modification with truth-related vocabulary is broadly available, core truth vs falsehood opposition is recurrently lexicalized, genuine/authentic vs fake/counterfeit is also recurrently lexicalized, revelation/disclosure constructions are broadly preferred over simple “become true” constructions, truth-related domains are commonly split into at least statement truth, authenticity, and correctness, verification/checking is a robust cross-language function, “become genuine/authentic” is broadly resisted or absent
+
+## global_set_B
+  G7a semantic dimensions:
+    strict match (exact label):   0.0% (0/27)
+    concept match (keyword overlap, ≥0.25 Jaccard):  22.7% (5/22)
+      paired concepts:
+        precision/exactness  ≈  precision / exactness  (Jaccard 1.00)
+        personal character (honesty/sincerity)  ≈  honesty / sincerity / truthfulness of persons or speech  (Jaccard 0.29)
+        procedural correctness  ≈  correctness vs mistake/error  (Jaccard 0.25)
+        material authenticity  ≈  genuineness / authenticity / realness  (Jaccard 0.25)
+        legitimacy/validity  ≈  validity / formal standing  (Jaccard 0.25)
+      baseline only: certainty/confidence, clarity/manifestness, epistemic reliability, evidence/proof, intentional deception, personal character, propositional correspondence, realization/fulfillment, specific modification, specific modification productivity
+      rerun only:    credibility / trustworthiness / dependability, essence / substance / real nature vs surface/form, fake / counterfeit / forged status, legitimacy / lawfulness / justice / rightful standing, resemblance / fidelity / seeming true, statement truth vs falsehood, supported / verified / grounded vs baseless
+  G7a constructional functions:
+    strict match (exact label):   0.0% (0/24)
+    concept match (keyword overlap, ≥0.25 Jaccard):  33.3% (6/18)
+      paired concepts:
+        f3: adnominal modification  ≈  adnominal modification  (Jaccard 1.00)
+        f7: revelation/discovery  ≈  revelation / discovery framing  (Jaccard 0.67)
+        f5: causative (verification)  ≈  verification / disconfirmation  (Jaccard 0.33)
+        f1: basic predication  ≈  negative predication  (Jaccard 0.33)
+        f9: abstract nominalization  ≈  abstract nominal reference  (Jaccard 0.25)
+        f6: causative (correction)  ≈  causative / induced change  (Jaccard 0.25)
+      baseline only: f10: agent nominalization, f11: manner adverbial, f12: intensification, f13: gradation, f14: speech act constructions, f15: evidential marking, f2: negation, f4: inchoative/change-of-state, f8: concealment
+      rerun only:    direct predication / attribution, person-labeling, result / later-confirmed status
+  G8 universals (all):
+    strict match (exact label):   0.0% (0/49)
+    concept match (keyword overlap, ≥0.25 Jaccard):   6.5% (3/46)
+      paired concepts:
+        material authenticity distinguished from propositional truth  ≈  authenticity/genuineness is recurrently distinguished from ordinary statement truth  (Jaccard 0.33)
+        universal productivity of adnominal modification  ≈  adnominal modification is a broadly available strategy across the truth domain  (Jaccard 0.25)
+        strong recurrent lexical patterns  ≈  statement truth vs correctness is a recurrent lexical distinction  (Jaccard 0.25)
+      baseline only: agent nominalization polarity asymmetry, character change productive; truth-value change restricted, completeness/totality marking productive, correction causatives universally productive, demonstrative specification universally available, emphatic reduplication (austronesian, bantu, sino-tibetan), evidential grammaticalization (quechua-specific), factual truth distinguished from procedural correctness, inchoative blocking for propositional truth-values, intentional deception distinguished from unintentional error, ontological "make true" causative universally blocked, positive emergence more natural than negative emergence, probable universals (weaker evidence), recurrent areal/typological patterns (not universal), revelation/discovery constructions preferred over simple inchoatives, richer vocabulary for deception than truth-telling, strong recurrent asymmetries, strong recurrent constraints, universal availability of light verb + truth-nominal constructions, universal constructional functions, universal productivity of abstract nominalization, universal productivity of basic predication, universal productivity of manner adverbials, universal productivity of morphological negation, verification causative; disconfirmation non-causative, verification-disconfirmation asymmetry
+      rerun only:    a single productive general causative meaning ‘make x true/correct/authentic’ is broadly absent or strongly restricted, abstract nominal reference is strongly recurrent in the truth domain, credibility/trustworthiness is recurrently distinguished from verified truth, direct predication is the default way to encode truth-related evaluation, essence/substance meanings strongly favor static predication and abstract nominalization, and weakly favor causative or inchoative constructions, fake/counterfeit/forged status is often lexicalized separately from ordinary falsehood, general inchoative ‘become true/false/correct’ patterns are lexically uneven and often restricted to a few items, languages often prefer lexical replacement predicates over a single generalized ‘become false’ or ‘become invalid’ morphology, liar-type person labels are more robustly lexicalized than truth-teller labels, many languages distinguish deception/lying from mere mistake/error, negative predication is also broadly available, usually through ordinary negation or lexical negative predicates, precision/exactness is often lexicalized separately from broad truth or correctness, resemblance/fidelity/seeming-true often forms a separate evaluative area from actual truth, revelation/discovery framing is more available for truth/reality/essence than for correctness or precision, support/baselessness is a recurrent subdomain, and in some languages it is lexicalized distinctly from simple true/false, the truth-related domain is recurrently split into more than one lexical dimension rather than organized as a single true/false opposition, verification/disconfirmation is broadly available, but often through language-specific lexical or formulaic means rather than one shared construction type
+  G8 universals (HIGH conf.):
+    strict match (exact label):   0.0% (0/31)
+    concept match (keyword overlap, ≥0.25 Jaccard):   3.3% (1/30)
+      paired concepts:
+        universal productivity of adnominal modification  ≈  adnominal modification is a broadly available strategy across the truth domain  (Jaccard 0.25)
+      baseline only: character change productive; truth-value change restricted, correction causatives universally productive, emphatic reduplication (austronesian, bantu, sino-tibetan), evidential grammaticalization (quechua-specific), factual truth distinguished from procedural correctness, inchoative blocking for propositional truth-values, intentional deception distinguished from unintentional error, ontological "make true" causative universally blocked, revelation/discovery constructions preferred over simple inchoatives, universal availability of light verb + truth-nominal constructions, universal productivity of abstract nominalization, universal productivity of basic predication, universal productivity of manner adverbials, universal productivity of morphological negation, verification causative; disconfirmation non-causative, verification-disconfirmation asymmetry
+      rerun only:    a single productive general causative meaning ‘make x true/correct/authentic’ is broadly absent or strongly restricted, abstract nominal reference is strongly recurrent in the truth domain, authenticity/genuineness is recurrently distinguished from ordinary statement truth, credibility/trustworthiness is recurrently distinguished from verified truth, direct predication is the default way to encode truth-related evaluation, fake/counterfeit/forged status is often lexicalized separately from ordinary falsehood, general inchoative ‘become true/false/correct’ patterns are lexically uneven and often restricted to a few items, languages often prefer lexical replacement predicates over a single generalized ‘become false’ or ‘become invalid’ morphology, many languages distinguish deception/lying from mere mistake/error, negative predication is also broadly available, usually through ordinary negation or lexical negative predicates, statement truth vs correctness is a recurrent lexical distinction, the truth-related domain is recurrently split into more than one lexical dimension rather than organized as a single true/false opposition, verification/disconfirmation is broadly available, but often through language-specific lexical or formulaic means rather than one shared construction type

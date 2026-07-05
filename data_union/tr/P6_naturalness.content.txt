@@ -1,0 +1,500 @@
+# CLCA Protocol v3.4 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Turkish (tr)
+# Layer: P6_naturalness
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Turkish encodes dynamic processes — becoming, causing, losing, and maintaining truth-related states — using vocabulary established in P1–P5. The analysis draws exclusively on forms and constructions attested in the prior steps. Where a dynamic expression is not attested in the data, this is stated explicitly. Items are treated separately where their behavior differs; generalizations are stated only where the data supports them.
+
+The relevant morphological and constructional resources identified in P4a–P4b are:
+
+- Inchoative *-laş-* (morphological becoming)
+- Periphrastic *hale gelmek* (to come into the state of — universal becoming strategy)
+- Causative *-laştır-* (morphological causing-to-become)
+- Periphrastic *kılmak* (to render/make — universal causative strategy)
+- Resultative *çıkmak* (to come out/emerge as — outcome of evaluation)
+- Periphrastic *olmak* (to be/become — copular and inchoative)
+- Loss constructions: *kaybetmek* (to lose), *yitirmek* (to lose), *sona ermek* (to come to an end), *-den çıkmak* (to exit a state)
+- Stability constructions: *kalmak* (to remain/stay), *korumak* (to protect/maintain), *sürmek* / *devam etmek* (to continue)
+
+---
+
+## SUBSECTION 1: Becoming a truth-related state
+
+### 1.1 Items with attested morphological inchoative (*-laş-/-leş-*)
+
+---
+
+**Expression 1**
+
+**Base item:** meşru (legitimate)
+**Dynamic form:** meşrulaşmak
+**Transliteration:** meşrulaşmak
+**English translation:** to become legitimate, to gain legitimacy, to acquire recognized standing
+**Example from data:** *Hareket zamanla meşrulaştı.* / "The movement became legitimate over time."
+**Pattern:** [base] + *-laş-* + *-mak*
+**Notes:** Attested in P2a as a [CORE] form. The temporal adverb *zamanla* (over time) is a natural collocate, indicating that legitimation is typically construed as a gradual process; temporal adverbials (*zamanla* — over time; *giderek* — gradually) frequently co-occur, marking the gradual nature of the change. The subject is typically a political movement, institution, authority, or practice rather than a person. Common in political, social, and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 2**
+
+**Base item:** yasal (legal)
+**Dynamic form:** yasalaşmak
+**Transliteration:** yasalaşmak
+**English translation:** to become law, to be enacted (of a bill or proposal)
+**Example from data:** *Tasarı yasalaştı.* / "The bill became law."
+**Pattern:** [base] + *-laş-* + *-mak*
+**Notes:** Attested in P2a as a [CORE] form. The subject is typically a legislative proposal (*tasarı*, bill; *düzenleme*, regulation). The process is punctual rather than gradual: a bill either has or has not become law. Common in political and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 3**
+
+**Base item:** gerçek (real)
+**Dynamic form:** gerçekleşmek
+**Transliteration:** gerçekleşmek
+**English translation:** to come true, to materialize, to be realized, to happen
+**Example from data:** *Hayali gerçekleşti.* / "His dream came true." *Hayalleri gerçekleşti.* / "Their dreams came true / were realized." *Toplantı gerçekleşti.* / "The meeting took place / was realized."
+**Pattern:** [base] + *-leş-* + *-mek*
+**Notes:** Attested in P1b and P2a as a [CORE] form. The subject is typically a plan, dream, prediction, or event. The verb encodes the transition from a non-actual state to an actual one — the subject acquires the property of being real. The meaning has shifted from "to become real" toward "to occur/happen" in general usage; the data notes this as a peripheral extension of the *gerçek-* root. The "occur" reading, where the inchoative sense of "becoming real" is still present but the emphasis is on actualization of a planned event, is also attested. Fully lexicalized; used across all registers.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 4**
+
+**Base item:** özgür (free)
+**Dynamic form:** özgürleşmek
+**Transliteration:** özgürleşmek
+**English translation:** to become free, to be liberated
+**Example from data:** *Toplumun özgürleşmesi zaman aldı.* / "The liberation/emancipation of society took time."
+**Pattern:** [base] + *-leş-* + *-mek*
+**Notes:** Attested in P2a as a [CORE] form. The subject is typically a collective (society, group) or an individual in a social or political context. The nominalized form *özgürleşme* is used in the attested example as subject.
+**Epistemic status:** [CORE]
+
+---
+
+**Notes on morphological inchoative availability:**
+
+The data does not attest *doğrulaşmak* (to become correct/true) as a standard form — P2a notes it as marginal. *Geçerleşmek* (to become valid) is not attested in the data; the periphrastic strategy is used instead. *Güvenilirleşmek* (to become reliable) is not attested. *Yanlışlaşmak* (to become wrong) is not attested. *Sahtelaşmak* is not attested. *Özgünleşmek* is not attested in the data. *Sahicileşmek* is not attested in the data. *Hakikatleşmek* is not attested in the data. *Dürüstleşmek* is not attested in the data. The morphological *-laş-* inchoative is therefore lexically restricted within this domain to *meşrulaşmak*, *yasalaşmak*, *gerçekleşmek*, and *özgürleşmek* as the primary attested forms.
+
+The following truth-domain adjectives from P1 do not have a conventionalized *-leş-* inchoative form in the data: *doğru*, *yanlış*, *sahte*, *sahici*, *özgün*, *orijinal*, *güvenilir*, *güvenilmez*, *inanılır*, *haklı*, *haksız*, *geçerli*, *geçersiz*, *dürüst*. For these items, the periphrastic strategy (*olmak*, *hale gelmek*) is used.
+
+---
+
+### 1.2 Universal periphrastic becoming: *hale gelmek*
+
+The construction *[adjective] + hale gelmek* (to come into the state of) is attested in P4a as universally available for all adjectives. *Hale gelmek* (literally "to come to a state/condition") is a productive periphrastic construction for expressing the transition into a state. It is more explicitly inchoative than bare *olmak* and is used when the process of transition is foregrounded. The noun *hal* (state, condition, from Arabic *ḥāl*) + dative + *gelmek* (to come) produces a resultative meaning.
+
+---
+
+**Expression 5**
+
+**Base item:** geçersiz (invalid)
+**Dynamic form:** geçersiz hale gelmek
+**Transliteration:** geçersiz hale gelmek
+**English translation:** to become invalid, to come to be void
+**Example from data:** Attested in P4a as the primary inchoative construction for *geçersiz*.
+**Pattern:** [adjective] + *hale gelmek*
+**Notes:** The data notes this as the default strategy where *-laş-* is unavailable or marginal. *Geçersizleşmek* is described as rare compared to this periphrastic alternative.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 6**
+
+**Base item:** geçerli (valid)
+**Dynamic form:** geçerli hale gelmek
+**Transliteration:** geçerli hale gelmek
+**English translation:** to become valid, to come into force
+**Example from data:** *Belge geçerli hale geldi.* / "The document became valid / came into a valid state." *Kaynak zamanla güvenilir hale geldi.* / "The source became reliable over time."
+**Pattern:** [adjective] + *hale gelmek*
+**Notes:** The periphrastic strategy is the standard form for this item. *Hale gelmek* is the most explicitly inchoative construction available for truth-domain adjectives that lack a morphological *-leş-* form.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 7**
+
+**Base item:** güvenilir (reliable)
+**Dynamic form:** güvenilir hale gelmek
+**Transliteration:** güvenilir hale gelmek
+**English translation:** to become reliable, to come to be trustworthy
+**Example from data:** *Kaynak zamanla güvenilir hale geldi.* / "The source became reliable over time."
+**Pattern:** [adjective] + *hale gelmek*
+**Notes:** More natural than bare *güvenilir olmak* for the inchoative reading. The data attests *güvenilir olduğunu kanıtlamak* (to prove that one is reliable) as a related construction, which implies a prior state of not being established as reliable.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 8**
+
+**Base item:** doğru (correct, true)
+**Dynamic form:** doğru hale gelmek / doğruya dönüşmek
+**Transliteration:** doğru hale gelmek / doğruya dönüşmek
+**English translation:** to become correct / to turn into truth
+**Notes:** *Doğru hale gelmek* is compositionally available via the universal periphrastic strategy but is not explicitly attested as a common expression in the data. The data does attest *doğru çıkmak* (to turn out to be correct) as a [CORE] resultative construction (see Subsection 3), which is the more natural way to express the outcome of a claim being correct. **No common expression for a claim actively becoming correct is attested in the data.**
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 9**
+
+**Base item:** yanlış (wrong, incorrect)
+**Dynamic form:** yanlış hale gelmek
+**Transliteration:** yanlış hale gelmek
+**English translation:** to become wrong, to come to be incorrect
+**Notes:** Compositionally available but not explicitly attested as a common expression in the data. The data does not document a standard construction for a claim actively becoming wrong. **No common expression is attested.**
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 10**
+
+**Base item:** haklı (justified, right)
+**Dynamic form:** haklı hale gelmek
+**Transliteration:** haklı hale gelmek
+**English translation:** to come to be in the right
+**Notes:** Compositionally available but not attested as a common expression. The resultative *çıkmak* construction is the natural form for this item (see Subsection 3).
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 11**
+
+**Base item:** kanıtlanmış (proven)
+**Dynamic form:** kanıtlanmış hale gelmek
+**Transliteration:** kanıtlanmış hale gelmek
+**English translation:** to come to be in a proven state, to become established
+**Example from data:** *İddia kanıtlanmış hale geldi.* / "The claim came to be in a proven state / became established."
+**Pattern:** [past participle] + *hale gelmek*
+**Notes:** The past participle *kanıtlanmış* (proven) can fill the pre-*hale* slot; this construction emphasizes the transition into the resultant state.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Becoming via *olmak* (copular becoming)
+
+The verb *olmak* (to be/become) functions both as a copula and as an inchoative auxiliary. *Olmak* in Turkish serves both as a copula (to be) and as a change-of-state verb (to become). In the change-of-state reading, temporal adverbials, process contexts, or the *-e/-a* dative of direction support the inchoative reading.
+
+---
+
+**Expression 12**
+
+**Base item:** geçerli (valid)
+**Dynamic form:** geçerli olmak
+**Transliteration:** geçerli olmak
+**English translation:** to be valid / to become valid (context-dependent)
+**Example from data:** *Bu kural hâlâ geçerli.* / "This rule is still valid." (stative); *Pasaport geçerli oldu.* / "The passport became valid." (inchoative); *Yeni yasa 1 Ocak'tan itibaren geçerli oldu.* / "The new law became valid / came into force from January 1st." *Yeni kural yarından itibaren geçerli olacak.* / "The new rule will come into force from tomorrow."
+**Notes:** *Olmak* is ambiguous between stative (to be) and inchoative (to become) readings depending on tense and context. The inchoative reading is available and natural. The temporal frame (*1 Ocak'tan itibaren*, from January 1st; *yarından itibaren*, from tomorrow) triggers the inchoative reading. Typical subjects are laws, documents, rules, and agreements.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 13**
+
+**Base item:** meşru (legitimate)
+**Dynamic form:** meşru olmak
+**Transliteration:** meşru olmak
+**English translation:** to be legitimate / to become legitimate
+**Example from data:** *Meşru olup olmadığı tartışmalı.* / "Whether it is legitimate is debatable." (stative); inchoative reading available in past tense.
+**Notes:** Attested in P2b. The *olmak* construction is available alongside *meşrulaşmak* for the inchoative reading; *meşrulaşmak* is more explicitly dynamic.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 14**
+
+**Base item:** haklı (justified, right)
+**Dynamic form:** haklı olmak
+**Transliteration:** haklı olmak
+**English translation:** to be right / to become right (in a given situation)
+**Example from data:** *Sonunda haklı oldu.* / "In the end, he/she turned out to be right."
+**Notes:** The temporal adverbial *sonunda* (in the end, finally) supports the inchoative/resultative reading. Closely related to *haklı çıkmak* (see Subsection 3); *haklı olmak* is slightly more stative, while *haklı çıkmak* emphasizes the process of being vindicated.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 15**
+
+**Base item:** güvenilir (reliable)
+**Dynamic form:** güvenilir olmak
+**Transliteration:** güvenilir olmak
+**English translation:** to become reliable / to be reliable
+**Notes:** Bare *güvenilir olmak* is more stative; *güvenilir hale gelmek* is the more natural inchoative expression for *güvenilir*.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 16**
+
+**Base item:** doğru (correct, true)
+**Dynamic form:** doğru olmak
+**Transliteration:** doğru olmak
+**English translation:** to be correct / to turn out to be correct
+**Example from data:** *Tahmin doğru oldu.* / "The prediction turned out to be correct."
+**Notes:** The past tense of *olmak* (*oldu*) with a temporal or resultative context produces the inchoative reading. The subject is typically a claim, prediction, or statement.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 17**
+
+**Base item:** gerçek (real)
+**Dynamic form:** gerçek olmak
+**Transliteration:** gerçek olmak
+**English translation:** to be real / to become real
+**Example from data:** *Bu gerçek olamaz.* / "This cannot be real."
+**Notes:** Attested in P1b. The potential negative *olamaz* (cannot be) is a common construction for expressing disbelief about ontological status. The inchoative reading (*to become real*) is less common than the stative reading (*to be real*) for *gerçek olmak*.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 Becoming via passive verification constructions
+
+---
+
+**Expression 18**
+
+**Base item:** doğru (correct)
+**Dynamic form:** doğrulanmak
+**Transliteration:** doğrulanmak
+**English translation:** to be verified, to be confirmed, to come to be established as true
+**Example from data:** *İddia sonunda doğrulandı.* / "The claim was finally confirmed."
+**Pattern:** *doğru* + *-la-* + *-n-* (passive/reflexive) + *-mak*
+**Notes:** The passive of *doğrulamak* encodes the change in status of a claim or piece of information from unverified to verified. The subject (the claim) undergoes a change of epistemic status through the verification process. Common in journalistic and legal registers. The temporal adverbial *sonunda* (finally) frequently co-occurs.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 19**
+
+**Base item:** teyit (confirmation)
+**Dynamic form:** teyit edilmek
+**Transliteration:** teyit edilmek
+**English translation:** to be confirmed, to come to be corroborated
+**Example from data:** *Haber teyit edildi.* / "The news was confirmed."
+**Pattern:** *teyit* + *edilmek* (passive of *etmek*)
+**Notes:** Parallel to *doğrulanmak* in encoding the change of status of information from unconfirmed to confirmed, but more specifically journalistic and informational in register. The subject is typically a piece of news, a claim, or a piece of information rather than a document.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 Vindication construction: *haklı çıkmak*
+
+---
+
+**Expression 20**
+
+**Base item:** haklı (justified, right)
+**Dynamic form:** haklı çıkmak
+**Transliteration:** haklı çıkmak
+**English translation:** to be proven right, to turn out to be correct (of a person or position)
+**Example from data:** *Sonunda haklı çıktı.* / "In the end, he/she was proven right."
+**Notes:** Attested in P1b and P2a as a [CORE] collocation. The temporal adverb *sonunda* (in the end, finally) is a natural collocate, indicating that vindication often follows a period of dispute. Encodes the retrospective confirmation that a person's claim or judgment was warranted. The construction implies that events or evidence have confirmed the person's position. Distinct from the stative *haklı olmak* in foregrounding the process of vindication.
+**Epistemic status:** [CORE]
+
+---
+
+## SUBSECTION 2: Becoming a non-truth / opposed state
+
+### 2.1 Predicate outcome constructions (*çıkmak*)
+
+---
+
+**Expression 21**
+
+**Base item:** yalan (lie/false)
+**Dynamic form:** yalan çıkmak
+**Transliteration:** yalan çıkmak
+**English translation:** to turn out to be a lie, to prove false
+**Example from data:** *Söylediği her şey yalan çıktı.* / "Everything he/she said turned out to be a lie."
+**Notes:** The Predicate Outcome Construction (P4a §9) in its negative-truth reading. Encodes the retrospective discovery that something previously accepted or uncertain was in fact false. Contrasts directly with *doğru çıkmak* (Opposition 18 in P5).
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 22**
+
+**Base item:** haksız (unjustified, in the wrong)
+**Dynamic form:** haksız çıkmak
+**Transliteration:** haksız çıkmak
+**English translation:** to be proven wrong, to turn out to have been unjustified
+**Example from data:** *Sonunda haksız çıktı.* / "In the end, he/she was proven wrong / turned out to be unjustified." *Tartışmanın sonunda haksız çıktı.* / "At the end of the argument, he/she was proven wrong."
+**Notes:** Documented in P5 Opposition 30 as the negative counterpart to *haklı çıkmak*. The same *çıkmak* construction encodes the revelation of the opposed state. The temporal frame *tartışmanın sonunda* (at the end of the argument) is a characteristic co-occurrence.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 23**
+
+**Base item:** sahte (fake)
+**Dynamic form:** sahte çıkmak
+**Transliteration:** sahte çıkmak
+**English translation:** to turn out to be fake, to prove counterfeit
+**Example from data:** *Tablo sahte çıktı.* / "The painting turned out to be a fake." *İmzanın sahte çıkması herkesi şaşırttı.* / "The signature turning out to be fake surprised everyone."
+**Notes:** Documented in P2b as a [CORE] construction. Encodes the retrospective discovery that something presented as genuine is in fact fabricated. Contrasts with *doğru çıkmak* (Opposition 19 in P5). Common in journalistic and legal contexts. The subject is typically an object, document, or identity.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 24**
+
+**Base item:** asılsız (unfounded)
+**Dynamic form:** asılsız çıkmak
+**Transliteration:** asılsız çıkmak
+**English translation:** to turn out to be unfounded
+**Example from data:** *İddia asılsız çıktı.* / "The claim turned out to be unfounded."
+**Notes:** Parallel to *sahte çıkmak*; *çıkmak* encodes the revelation of the state. Typical subjects are claims, accusations, and rumors.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.2 Loss constructions
+
+---
+
+**Expression 25**
+
+**Base item:** geçerlilik (validity)
+**Loss form:** geçerliliğini yitirmek / geçerliliğini kaybetmek
+**Transliteration:** geçerliliğini yitirmek / geçerliliğini kaybetmek
+**English translation:** to lose its validity, to become invalid, to expire
+**Example from data:** *Pasaport geçerliliğini yitirdi.* / "The passport lost its validity." *Karar geçerliliğini yitirdi.* / "The decision lost its validity."
+**Pattern:** [nominalized property in possessive accusative] + *yitirmek* / *kaybetmek*
+**Notes:** Attested in P2a as a [CORE] construction. *Yitirmek* and *kaybetmek* are near-synonyms (both meaning "to lose"); *yitirmek* is slightly more formal. The subject is typically a document, contract, decision, or rule.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 26**
+
+**Base item:** geçerlilik (validity)
+**Loss form:** geçerliliği sona ermek
+**Transliteration:** geçerliliği sona ermek
+**English translation:** for validity to expire, to come to an end (of a document or rule)
+**Example from data:** *Kuralın geçerliliği sona erdi.* / "The rule's validity came to an end."
+**Pattern:** *geçerlilik* + *-i* (possessed nominative) + *sona* (to an end — dative of *son*) + *ermek* (to reach, to come)
+**Notes:** Parallel to *geçerliliğini yitirmek* in meaning; *sona ermek* (to come to an end) is the standard verb for the expiration of time-limited states in Turkish. The subject of *sona ermek* is the validity itself (*geçerliliği*) rather than the document, which distinguishes this construction syntactically from *geçerliliğini yitirmek* where the document is the subject.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 27**
+
+**Base item:** meşruiyet (legitimacy)
+**Loss form:** meşruiyetini yitirmek / meşruiyetini kaybetmek
+**Transliteration:** meşruiyetini yitirmek / meşruiyetini kaybetmek
+**English translation:** to lose legitimacy, to forfeit one's legitimacy, to become illegitimate
+**Example from data:** *Hükümet meşruiyetini yitirdi.* / "The government lost its legitimacy."
+**Pattern:** [nominalized property in possessive accusative] + *yitirmek* / *kaybetmek*
+**Notes:** Documented in P2b and P5 (Opposition 34). The possessed accusative *meşruiyetini* marks the legitimacy as belonging to the subject; *yitirmek* (to lose) encodes the change from a state of having legitimacy to one of lacking it. Common in political and journalistic discourse. The contrast with *meşrulaşmak* (to gain legitimacy) and *meşrulaştırmak* (to legitimize) constitutes a full dynamic triad for the legitimacy domain.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 28**
+
+**Base item:** meşruiyet (legitimacy)
+**Loss form:** meşruiyet zemini kaybetmek
+**Transliteration:** meşruiyet zemini kaybetmek
+**English translation:** to lose the basis of legitimacy
+**Example from data:** *Meşruiyet zeminini kaybetmek.* / "To lose the basis of legitimacy."
+**Notes:** Attested in P2a as a [CORE] construction. The subject is typically a government, authority, or movement. The data documents this as the negative dynamic counterpart of *meşruiyet zemini oluşturmak* (to establish a basis of legitimacy).
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 29**
+
+**Base item:** güvenilirlik (reliability)
+**Loss form:** güvenilirliğini yitirmek / güvenilirliğini kaybetmek
+**Transliteration:** güvenilirliğini yitirmek / güvenilirliğini kaybetmek
+**English translation:** to lose its reliability, to lose credibility, to become unreliable
+**Example from data:** *Kaynak güvenilirliğini yitirdi.* / "The source lost its credibility."
+**Pattern:** [nominalized property in possessive accusative] + *yitirmek* / *kaybetmek*
+**Notes:** Parallel to *geçerliliğini yitirmek*; *yitirmek* and *kaybetmek* (to lose) are both used in this construction. The possessed accusative *güvenilirliğini* (its reliability/credibility) is the direct object.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 30**
+
+**Base item:** güven (trust)
+**Loss form:** güven kaybetmek / güven yitirmek
+**Transliteration:** güven kaybetmek / güven yitirmek
+**English translation:** to lose trust, to lose credibility
+**Notes:** *Güven bunalımı yaşamak* (to experience a crisis of trust) is attested in P2a as a [CORE] collocation, and *güven kaybetmek* is the natural expression for the process that produces such a crisis. The *güven-* derivational family is documented extensively in P2a.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 31**
+
+**Base item:** doğruluk (truthfulness, accuracy)
+**Loss form:** doğruluğunu yitirmek / doğruluğunu kaybetmek
+**Transliteration:** doğruluğunu yitirmek / doğruluğunu kaybetmek
+**English translation:** to lose its accuracy, to lose its truthfulness
+**Notes:** Compositionally available via the same pattern as *geçerliliğini yitirmek*, which is explicitly attested. **No common fixed expression is attested; the construction is compositionally available.**
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 Deviation constructions
+
+---
+
+**Expression 32**
+
+**Base item:** doğruluk (truth/correctness)
+**Dynamic form:** doğruluktan sapmak
+**Transliteration:** doğruluktan sapmak
+**English translation:** to deviate from truth/correctness
+**Example from data:** *Haber zamanla doğruluktan saptı.* / "The report gradually deviated from accuracy."
+**Notes:** *Sapmak* (to deviate, to stray) with the ablative of the truth-domain noun (*doğruluktan*, from truth/correctness) expresses the transition away from a truth-related state. The ablative marks the point of departure.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 33**
+
+**Base item:** doğru yol (right path)
+**Dynamic form:** doğru yoldan sapmak
+**Transliteration:** doğru yoldan sapmak
+**English translation:** to deviate from the right path, to go astray
+**Example from data:** *Doğru yoldan saptı.* / "He/she deviated from the right path / went astray."
+**Notes:** Documented in P1b and P2b. The ablative *doğru yoldan* (from the right path) marks the state being departed from; *sapmak* encodes the transition away from it.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 Distortion and concealment constructions
+
+---
+
+**Expression 34**
+
+**Base item:** gerçek (truth, reality)
+**Dynamic form:** gerçeği çarpıtmak
+**Transliteration:** gerçeği çarpıtmak
+**English translation:** to distort the truth
+**Example from data:** *Gerçeği çarpıttı.* / "He/she distorted the truth."
+**Notes:** Documented in P1b and P2b. *Çarpıtmak* (to distort, to twist) encodes the act of misrepresenting what is real; the truth itself is not changed but its representation is.
+**Epistemic status:** [CORE]
+
+---
+
+**Expression 35**
+
+**Base item:** gerçek (truth, reality)
+**Dynamic form:** gerçeği gizlemek
+**Transliteration:** gerçeği gizlemek
+**English translation:** to conceal the truth
+**Example from data:** *Gerçeği gizledi.* / "He/she concealed the truth."
+**Notes:** Documented in P1b and P2b. *Gizlemek* (to hide, to conceal) encodes the suppression of truth rather than a change in its ontological status.
+**

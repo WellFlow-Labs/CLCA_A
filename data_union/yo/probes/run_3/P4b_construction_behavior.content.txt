@@ -1,0 +1,124 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Yoruba (yo)
+
+---
+
+**Preliminary note:** Ratings and usage notes are based strictly on patterns documented in P4a. No additional constructions are introduced. Where P4a itself signals uncertainty or restricted attestation, that is reflected in the epistemic status below.
+
+---
+
+## 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Post-nominal attributive: [NOUN] + [EVALUATIVE NOUN/ADJ] | ènìyàn òtítọ́ | ènìyàn òtítọ́ | "a truthful person / a person of truth" | [CORE] | Productive across the truth-domain vocabulary in everyday, moral, and legal discourse. No observable restriction on the class of evaluative modifier; the pattern applies freely to *gidi*, *burúkú*, *tọ́*, and related items. |
+| Post-nominal attributive: [NOUN] + [EVALUATIVE NOUN/ADJ] | ohun ojúlówó | ohun ojúlówó | "a genuine thing / the real article" | [CORE] | Same structural pattern as above; *ojúlówó* is domain-specific to authenticity and genuineness. No copula or linker intervenes in attributive position. |
+
+**Attested alternates:** *ọ̀rẹ́ gidi* ("a true friend"), *ìdájọ́ tọ́* ("a correct judgment") — same pattern, different modifiers.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Nominal predicate negation: [NOUN] + *kò jẹ́* + [EVALUATIVE NOUN] | Kò jẹ́ ohun ojúlówó. | Kò jẹ́ ohun ojúlówó. | "It is not a genuine thing. / It is not authentic." | [CORE] | Used when the predicate is nominal; the copula *jẹ́* is obligatory in this sub-pattern. Omission of *jẹ́* with a nominal predicate is not attested in P4a. |
+| Stative verbal predicate negation: [NOUN] + *kò* + [STATIVE VERB] | Ìdájọ́ náà kò tọ́. | Ìdájọ́ náà kò tọ́. | "The judgment is not correct / just." | [CORE] | Used when the predicate is a stative verb (*tọ́*, *dára*, etc.); *kò* precedes the verb directly with no copula. P4a explicitly marks these two sub-patterns as structurally distinct; they are not interchangeable. |
+
+**Attested alternates:** None introduced beyond the two sub-patterns documented in P4a. The structural distinction between nominal and stative-verbal negation is treated as obligatory, not optional.
+
+---
+
+## 3. ADNOMINAL MODIFICATION (Genitive / Relational)
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Juxtaposition: [HEAD NOUN] + [MODIFIER NOUN] | ẹ̀rí ojú | ẹ̀rí ojú | "eyewitness evidence" (lit. "evidence of the eye") | [CORE] | The primary means of forming domain-specific nominal compounds in Yoruba; no genitive particle required for close compounds. Productive across legal, moral, and epistemic vocabulary. |
+| Juxtaposition: [HEAD NOUN] + [MODIFIER NOUN] | ìwádìí òtítọ́ | ìwádìí òtítọ́ | "investigation of the truth / fact-finding" | [CORE] | Same pattern; the first noun names the category, the second specifies the domain. P4a notes this as right-headed in the sense that the second noun specifies. |
+
+**Attested alternates:** *ẹ̀tọ́ ènìyàn* ("human rights"), *ẹ̀rí àkọsílẹ̀* ("documentary evidence"), *ìjẹ́rìísí ìbí* ("birth certificate") — all same juxtaposition pattern. P4a notes that the associative linker *tí* appears in relative-clause modification, but this is documented as a distinct sub-type, not an alternate for the juxtaposition compound.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Inchoative: *di* + [NOUN/ADJ] | Ó di ènìyàn òtítọ́. | Ó di ènìyàn òtítọ́. | "He/she became a truthful person." | [CORE] | *di* is the standard change-of-state verb in Yoruba; not restricted to the truth domain. Combines freely with nominal and adjectival predicates. |
+| Inchoative: *di* + [NOUN/ADJ] | Ìgbàgbọ́ rẹ̀ di lágbára. | Ìgbàgbọ́ rẹ̀ di lágbára. | "His/her belief became strong." | [CORE] | Same construction applied to an abstract nominal subject (*ìgbàgbọ́*, "belief"); no restriction on subject type is noted in P4a. The construction is fully periphrastic with no dedicated inchoative morphology. |
+
+**Attested alternates:** None documented in P4a beyond the *di* construction.
+
+---
+
+## 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Instrumental causative: *fi* + [INSTRUMENT NOUN] + [VERB PHRASE] | Wọ́n fi ìtànjẹ́ gbà owó rẹ̀. | Wọ́n fi ìtànjẹ́ gbà owó rẹ̀. | "They used deception to take his/her money." | [CORE] | The most productive causative-adjacent pattern in the truth domain per P4a; expresses the means by which an outcome is brought about. The instrument noun (*ìtànjẹ́*, "deception") occupies the slot between *fi* and the verb phrase. |
+| Focus + instrumental causative | Ìdánwò ló fi ìwà ẹni hàn. | Ìdánwò ló fi ìwà ẹni hàn. | "It is testing that causes a person's character to be revealed." | [CORE] | Combines the focus construction (Pattern 10) with the instrumental *fi* construction; both layers are independently attested. P4a presents this as a compound of two productive patterns rather than a distinct third type. |
+
+**Attested alternates:** P4a documents *mú...wá* ("bring about") and *jẹ́ kí* + [CLAUSE] as additional causative-adjacent constructions, but provides no truth-domain examples for these two; they are listed in the pattern description only. They are therefore noted here as documented but not exemplified within the truth domain.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| *ì-* prefixal nominalization | ìmọ̀ | ìmọ̀ | "knowledge" (from *mọ̀* "to know") | [CORE] | The most productive nominalizing prefix across the truth-domain vocabulary per P4a; attested for *ìgbàgbọ́*, *ìgbẹ́kẹ̀lé*, *ìjẹ́rìísí*, *ìtànjẹ́*, *ìdánwò*, *ìdájọ́*, *ìfọwọ́sí*, *ìfarahàn*, and others. |
+| *ò-* prefixal nominalization | òtítọ́ | òtítọ́ | "truth, truthfulness" | [CORE] | Attested for *òtítọ́*; P4a notes the internal structure (*ò-* + *tí* + *tọ́*) but does not claim this prefix is as productive as *ì-* across the domain. |
+| *ẹ̀-* prefixal nominalization | ẹ̀rí | ẹ̀rí | "evidence" | [CORE] | Attested for *ẹ̀rí* ("evidence") and *ẹ̀tọ́* ("right/correctness"). P4a does not claim broad productivity for this prefix beyond these attested forms. |
+| *à-* prefixal nominalization | àṣìṣe | àṣìṣe | "error/wrongdoing" | [MARGINAL] | Attested for *àṣìṣe* with a resultant-state or negative-outcome reading per P4a. P4a does not document additional truth-domain forms with this prefix; productivity within the domain is not established beyond this example. |
+| Negative nominalization: *àì-* + [VERBAL BASE] | àìmọ̀ | àìmọ̀ | "ignorance" | [CORE] | Productive negation of nominalized forms; attested for *àìmọ̀* ("ignorance"), *àìgbàgbọ́* ("unbelief"), *àìgbẹ́kẹ̀lé* ("unreliability"). Functions as a sub-pattern of abstract nominalization rather than a separate construction type. |
+
+**Attested alternates:** No alternate nominalization strategies are documented in P4a; the prefixal patterns are presented as the primary derivational process.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Contracted agentive: *ẹlẹ́-* + [NOUN] | ẹlẹ́rìí | ẹlẹ́rìí | "witness" (lit. "person of evidence") | [MARGINAL] | P4a explicitly states this contraction is lexicalized rather than fully productive; it is specifically attested for *ẹ̀rí* → *ẹlẹ́rìí* and the extension *ẹlẹ́rìí ojú* ("eyewitness"). Extension to other truth-domain nouns is not documented. |
+| Periphrastic agentive: *ènìyàn* + [EVALUATIVE NOUN] | ènìyàn irọ́ | ènìyàn irọ́ | "a lying person / a liar" | [CORE] | The standard pattern for truth-domain agents where the contracted form is not available; attested for *ènìyàn òtítọ́* ("truthful person"), *ènìyàn irọ́* ("liar"), *ènìyàn ìtànjẹ́* ("a deceptive/fraudulent person"). P4a notes no single productive agentive suffix exists across the domain. |
+
+**Attested alternates:** None beyond the two sub-patterns documented. P4a is explicit that no single productive agentive suffix covers the domain.
+
+---
+
+## 8. PROPOSITIONAL BELIEF / EPISTEMIC COMPLEMENT CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| *ní ìgbàgbọ́ pé* + [CLAUSE] | Ó ní ìgbàgbọ́ pé òtítọ́ ni. | Ó ní ìgbàgbọ́ pé òtítọ́ ni. | "He/she has the conviction that it is the truth." | [CORE] | Used for expressing held belief or conviction; *pé* is obligatory as the complementizer. The nominal *ìgbàgbọ́* is retained as the head of the matrix predicate in this sub-pattern. |
+| *mọ̀ pé* + [CLAUSE] (with optional epistemic intensifier) | Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀. | Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀. | "I know for certain that it happened." | [CORE] | Standard construction for propositional knowledge claims; *pé* is obligatory. The intensifier *dájúdájú* ("certainly, definitely") inserts between the matrix verb and *pé*; its position is fixed per P4a. |
+| *gbàgbọ́ pé* + [CLAUSE] | (pattern documented; no separate full example given in P4a beyond the negative) | — | "believe that..." | [CORE] | Documented as a standard sub-pattern in P4a alongside *mọ̀ pé*; negation attested as *kò gbàgbọ́ pé...* ("does not believe that..."). No affirmative standalone example is provided in P4a beyond the pattern description. |
+
+**Attested alternates:** Negation sub-pattern *kò gbàgbọ́ pé...* is the only alternate form documented in P4a for this construction type.
+
+---
+
+## 9. EXISTENTIAL AFFIRMATION / DENIAL OF TRUTH-DOMAIN ENTITIES
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Existential affirmation: *wà* + [LOCATIVE/CONTEXT] | Ẹ̀rí wà tó fi hàn pé... | Ẹ̀rí wà tó fi hàn pé... | "There is evidence that shows that..." | [CORE] | Standard means of asserting existence of evidence, truth, testimony, or entitlement in legal, moral, and everyday discourse per P4a. |
+| Negative existential: *kò sí* + [NOUN PHRASE] | Kò sí ẹ̀rí tó tó. | Kò sí ẹ̀rí tó tó. | "There is no sufficient evidence." | [CORE] | Standard denial of existence; applies to *ẹ̀rí*, *òtítọ́*, *ìjọra*, *ìjẹ́rìísí*, *ẹ̀tọ́* per P4a. The emphatic particle *kankan* ("at all, whatsoever") is attested as a reinforcing element in total negation contexts. |
+
+**Attested alternates:** *kò sí ìjọra kankan* ("there is no resemblance at all") — same *kò sí* pattern with *kankan* reinforcement, documented in P4a notes.
+
+---
+
+## 10. FOCUS CONSTRUCTION FOR TRUTH-DOMAIN ASSERTIONS
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| Focus: [FOCUSED ELEMENT] + *ló* + [PREDICATE] | Òtítọ́ ló ń gbani lọ́wọ́. | Òtítọ́ ló ń gbani lọ́wọ́. | "It is truth that saves one." | [CORE] | Pervasive in proverbial and moral discourse per P4a; used to assert the primacy or causal role of truth, knowledge, good character, or testing. Not restricted to the truth domain but highly frequent within it. |
+| Focus: [FOCUSED ELEMENT] + *ló* + [PREDICATE] | Ìwà rere ló ń gbani lọ́wọ́. | Ìwà rere ló ń gbani lọ́wọ́. | "It is good character that saves one." | [CORE] | Same construction with a different focused element (*ìwà rere*, "good character"); confirms the pattern is not lexically restricted to *òtítọ́* alone. P4a notes *ló* is a fusion of copula *ni* and subject pronoun *ó*. |
+
+**Attested alternates:** P4a documents the focus construction as also applying to *ìmọ̀* ("knowledge") and *ìdánwò* ("testing") in moral and epistemic contexts, though no separate full examples are provided for those items beyond the pattern description. The combination of focus + instrumental causative (documented under Pattern 5) is the only attested structural combination involving this construction.
+
+---
+
+*End of P4b output. No constructions have been added beyond those documented in P4a. Epistemic status ratings reflect the degree of productivity and breadth of attestation as reported in P4a, not independent verification.*

@@ -1,0 +1,200 @@
+# G1 — Cross-Language Summary of Observed Semantic Organization
+
+---
+
+## 1. Language Inventory
+
+- **zh** (Chinese, Mandarin) — A large, morphologically isolating language with extensive compounding and a productive *-性* nominalization suffix; the data covers a wide range of truth, accuracy, authenticity, and deception vocabulary across everyday, legal, journalistic, and philosophical registers.
+- **he** (Hebrew, Modern) — A Semitic language with root-and-pattern morphology; the data shows extensive derivation from a small number of roots (especially א-מ-נ and א-מ-ת), a productive *-ut* abstract nominalization suffix, and a distinctive *ʾi-* negation prefix on nominalizations.
+- **sa** (Sanskrit) — A classical Indo-European language with highly productive compounding and suffixation; the data covers Vedic, epic, philosophical (Nyāya, Mīmāṃsā, Advaita Vedānta, Sāṃkhya), legal (Dharmaśāstra), and grammatical registers, with a strong emphasis on epistemological and ontological distinctions.
+- **el** (Greek, Modern) — An Indo-European language with productive prefixal negation (ἀν-/α-), *-ότητα* abstract nominalization, and a distinctive etymological connection between the word for truth (*αλήθεια*) and unconcealment; the data covers everyday, legal, journalistic, philosophical, and religious registers.
+- **en** (English) — A Germanic language with mixed Latinate and native vocabulary; the data shows productive prefixal negation (*un-*, *in-*, *dis-*), *-ity/-ness/-hood* abstract nominalization, and a large set of fixed verbal idioms (*ring true*, *come true*, *hold true*).
+- **tl** (Tagalog) — An Austronesian language with a complex affix system (circumfixes, focus-marking prefixes, aspect infixes); the data shows the *ka-…-an* circumfix as the primary abstract nominalizer, particle-marked epistemic stance constructions, and a distinctive set of discourse particles (*ba*, *na*, *pala*, *nga*, *naman*).
+- **sw** (Swahili) — A Bantu language with noun-class agreement morphology; the data shows the *u-* prefix as the primary abstract nominalizer, productive *-sha/-isha* causative derivation, and a large set of Arabic loanwords in the truth-evaluation domain.
+- **qu** (Quechua, Southern) — An Andean language with agglutinative morphology and a grammaticalized evidentiality system (*-m/-mi*, *-s/-si*, *-chá*); the data shows the *-ncha-* causative verbalizer, *-ka-* intransitive verbalizer, and *-q* agentive nominalizer as productive derivational strategies.
+
+---
+
+## 2. Per-Language Semantic Sketch
+
+### 2.1 Chinese (zh)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes at least five overlapping but distinct evaluative dimensions: (1) factual truth of statements (*真实*, *失实*, *属实*); (2) genuineness of objects and documents (*真伪*, *假冒*, *伪造*); (3) correspondence between name/label and actual nature (*名副其实*, *本质*, *实质*); (4) correctness relative to a standard (*正确*, *错误*, *准确*); and (5) reliability of sources and persons (*可靠*, *诚实*). The root 真 (*zhēn*) is highly productive and participates in all five dimensions, while 假 (*jiǎ*) and 伪 (*wěi*) are more restricted to inauthenticity and deliberate falsification respectively. The 实 (*shí*) family (实际, 事实, 真实, 失实) forms a distinct cluster oriented toward factual reality and practical grounding.
+
+**Derivational and morphological asymmetries:**
+The *-性* suffix is highly productive for abstract nominalization (*真实性*, *可靠性*, *正确性*) but is not available for monosyllabic roots or verbal items. The *-化* suffix is productive for causative/process nominalizations (*合法化*, *道德化*) but is marginal for most truth-domain adjectives. The *-者* agentive suffix is attested primarily for negative-pole agents (*伪造者*, *欺骗者*) with no parallel positive-pole agentive (*truth-teller*) via this suffix. The *-感* suffix (*真实感*) is distinct from *-性* in denoting experiential/aesthetic properties.
+
+**Constructional patterns (F4):**
+The *是…的* copular frame is the default predication construction. Discourse-initial frames (*实际上*, *本质上*, *事实上*) are highly grammaticalized as sentence-level adverbials. The *如实* + verb pattern is a productive adverbial construction for truthful reporting. Regulatory prohibitive constructions (*严禁弄虚作假*, *不得造假*) are restricted to the deliberate-falsification sub-domain.
+
+**Oppositional structures (F5):**
+The 真/假 binary is the foundational lexical opposition. The 正确/错误 pair is the primary correctness opposition. The 客观/主观 pair is the primary objectivity opposition. Several constructional oppositions are attested: 揭露真相 vs. 掩盖真相; 尊重事实 vs. 歪曲事实. The *名副其实* / *名不副实* pair is formed by internal negation of a fixed four-character expression.
+
+---
+
+### 2.2 Hebrew (he)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data shows a dense root family centered on א-מ-נ (*ʾ-m-n*: trust, faithfulness, reliability) and א-מ-ת (*ʾ-m-t*: truth, genuineness). These two roots are semantically adjacent but distinct: א-מ-ת is oriented toward factual truth and authenticity of statements and objects, while א-מ-נ covers trustworthiness, reliability, faithfulness, and belief. The data distinguishes: (1) propositional truth (*ʾemet*, *nakhon*); (2) precision (*meduyaq*, *diyyuq*); (3) reliability of persons and sources (*ʾamin*, *mehiman*, *neʾeman*); (4) legal validity (*taqef*, *batel*, *kasher*, *pasul*); (5) legitimacy (*legitimi*, *ḥuqi*); and (6) sincerity (*kanut*, *yashar*). The *kasher/pasul* pair is distinctive in combining ritual fitness with legal admissibility.
+
+**Derivational and morphological asymmetries:**
+The *-ut* suffix is the primary abstract nominalizer (*ʾaminut*, *neʾemanut*, *mehimanut*). The *ʾi-* prefix is productive for negating *-ut* nominalizations in formal registers (*ʾi-diyyuq*, *ʾi-sevirut*, *ʾi-ḥuqiyyut*). The *bilti* negator is used for formal adjectival negation of loanwords (*bilti savir*, *bilti legitimi*). The *-an* agentive suffix is attested for *shaqran* (liar) and *dayqan* (precise person) but not for a positive truth-telling agent. The *ʾi-* prefix on nominalizations has acquired particular institutional salience in Israeli administrative law (*ʾi-sevirut qitsunit*).
+
+**Constructional patterns (F4):**
+The zero-copula nominal predicate is the unmarked present-tense attribution pattern. The *nakhon she-* concessive frame is a highly frequent discourse pattern in argumentation. The *ha-ʾemet hi she-* frame is a standard corrective/clarifying construction. The *lehitgalaʾh ke-* construction is the primary inchoative for discovery that something is true or false. The *be-* + abstract noun adverbial pattern (*beʾemet*, *bediyyuq*) is highly productive, with *bediyyuq* having grammaticalized as a precision adverb beyond the truth domain.
+
+**Oppositional structures (F5):**
+The *ʾemet/sheqer* pair is the foundational lexical opposition. The *kasher/pasul* pair is a distinctive lexical opposition in the legal-religious domain. The *nimtsa mehiman/nimtsa lo mehiman* constructional pair is institutionally fixed in legal judgments. The *ʾi-* prefix on nominalizations produces a productive set of negated abstract nouns (*ʾi-sevirut*, *ʾi-diyyuq*, *ʾi-ḥuqiyyut*) that have no direct parallel in the adjectival negation system.
+
+---
+
+### 2.3 Sanskrit (sa)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data shows the most elaborate set of semantic distinctions among all languages in the corpus. Key distinctions include: (1) propositional truth of statements (*satya*, *tathya*, *yathārtha*); (2) cosmic/moral order (*ṛta*, *dharma*); (3) ontological status of being (*sat*, *asat*, *mithyā*); (4) valid cognition and its sources (*pramā*, *pramāṇa*, *prāmāṇya*); (5) error and illusion (*bhrama*, *bhrānti*, *viparyaya*); (6) grammatical correctness (*sādhu*, *apaśabda*); (7) contextual appropriateness (*yukta*, *ucita*, *aucitya*); and (8) levels of reality (*paramārtha*, *vyāvahārika*). The *sat/asat* opposition is both ontological and evaluative. The *mithyā* category in Advaita Vedānta introduces a third ontological value (neither real nor unreal) that disrupts the binary.
+
+**Derivational and morphological asymmetries:**
+The *-tā* and *-tva* suffixes are both productive abstract nominalizers with no consistent semantic distinction between them. The *-vādin* compound suffix is the dominant agentive pattern (*satyavādin*, *asatyavādin*) and is more productive than *-bhāṣin* or *-jña* in this domain. The *ābhāsa* suffix/compound element systematically marks pseudo-instances (*pramāṇābhāsa*, *hetvābhāsa*). The *svataḥ/parataḥ* opposition within the compound frame *prāmāṇya* encodes a specific intra-school epistemological debate.
+
+**Constructional patterns (F4):**
+The zero-copula nominal sentence is the unmarked predication pattern. The *-taḥ* adverbial (*vastutaḥ*, *tattvataḥ*, *paramārthataḥ*) is a distinctive discourse-marking construction for asserting the level of analysis at which a claim is made. The prescriptive optative (*satyaṃ brūyāt*) and gerundive (*satyāt na pramaditavyam*) are the standard forms for ethical injunctions. The ablative deviation construction (*satyāt na pracalati*) is a productive pattern for expressing steadfast adherence to a normative standard. The *jāyate/utpadyate* constructions for cognitive arising and *nivartate* for cognitive cessation are domain-specific inchoative patterns.
+
+**Oppositional structures (F5):**
+The *satya/asatya*, *sat/asat*, *pramā/apramā*, *pramāṇa/apramāṇa*, *dharma/adharma*, *sādhu/asādhu* pairs are all formed by prefixal negation (*a-/an-*). The *satkāryavāda/asatkāryavāda* pair encodes opposing philosophical positions. The *mukhya/gauṇa* and *mukhya/aupacārika* pairs encode the literal/figurative distinction in Mīmāṃsā. The *svataḥprāmāṇya/parataḥprāmāṇya* pair is unique in encoding an intra-school debate within a single compound frame.
+
+---
+
+### 2.4 Greek, Modern (el)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes: (1) propositional truth (*αληθής*, *αλήθεια*, *αληθινός*); (2) accuracy and precision (*ακριβής*, *ακρίβεια*); (3) genuineness of objects and documents (*γνήσιος*, *αυθεντικός*, *πρωτότυπο* vs. *πλαστός*, *νόθος*); (4) legal validity (*έγκυρος*, *άκυρος*); (5) credibility of sources and witnesses (*αξιόπιστος*, *αναξιόπιστος*); (6) verisimilitude (*αληθοφανής*, *αληθοφάνεια*); and (7) surface appearance vs. reality (*φαινομενικός*, *δήθεν*, *τάχα*). The *αληθ-* root is highly productive and participates in all registers from everyday speech to philosophy and liturgy. The *γνήσιος/νόθος* pair encodes legitimate vs. illegitimate origin, while *αυθεντικός/πλαστός* encodes genuine vs. forged.
+
+**Derivational and morphological asymmetries:**
+The *-ότητα* suffix is the primary abstract nominalizer (*γνησιότητα*, *αυθεντικότητα*, *εγκυρότητα*). The *αν-/α-* privative prefix is productive for adjectival negation (*αναξιόπιστος*, *αναληθής*, *ανακριβής*). The *ψευδο-* prefix is a productive pseudo-compound element (*ψευδοεπιστήμη*, *ψευδοδίλημμα*). The agentive *ψεύτης* (liar) is well-established, but no parallel agentive for "truth-teller" is lexicalized; the concept requires periphrasis. The *γνησιοποίηση* (certification of genuineness) is a distinctive administrative nominalization.
+
+**Constructional patterns (F4):**
+The *αποδείχτηκε* + adjective construction is the primary inchoative for truth-value transitions. The *η αλήθεια είναι ότι* frame is a highly frequent corrective/clarifying construction. The *ψευδο-* compound pattern is freely productive. The *δήθεν* and *φερόμενος ως* constructions are distinctive epistemic hedge markers. The *γίνομαι* + adjective construction is noted as less natural than *αποδείχτηκε* for truth-value transitions specifically.
+
+**Oppositional structures (F5):**
+The *αληθής/ψευδής* and *αλήθεια/ψεύδος* pairs are the foundational lexical oppositions. The *έγκυρος/άκυρος* pair is formed from a shared root with different prefixes rather than by simple privative negation. The *αληθοφανής/αληθής* opposition is distinctive in contrasting appearance of truth with actual truth. The *ψήφος εμπιστοσύνης/ψήφος δυσπιστίας* constructional pair is institutionally fixed in parliamentary discourse.
+
+---
+
+### 2.5 English (en)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes: (1) propositional truth (*true*, *false*, *accurate*, *correct*); (2) genuineness of objects and persons (*genuine*, *authentic*, *bona fide* vs. *fake*, *counterfeit*, *spurious*); (3) legal and procedural validity (*valid*, *legitimate*, *rightful*); (4) reliability and credibility (*reliable*, *credible*, *trustworthy*); (5) sincerity (*sincere*, *honest*, *truthful*); (6) verisimilitude (*plausible*, *verisimilitude*, *apocryphal*); and (7) deliberate falsification (*fraudulent*, *fabricated*, *counterfeit*). The *true/false* binary is the most general. *Accurate* and *correct* are distinguished by degree-of-correspondence vs. conformity-to-norm. *Sincere* and *truthful* are distinguished by inner-state correspondence vs. statement-to-fact correspondence.
+
+**Derivational and morphological asymmetries:**
+The *-ity/-cy* suffixes are preferred for Latinate bases (*authenticity*, *validity*, *credibility*) while *-ness* is preferred for Germanic bases (*truthfulness*, *soundness*). The *un-* prefix is productive for Germanic bases (*untrue*, *untruthful*, *untrustworthy*) while *in-/im-/il-* is productive for Latinate bases (*inaccurate*, *invalid*, *illegitimate*). The agentive *-er* suffix is productive for negative-pole agents (*faker*, *counterfeiter*, *fabricator*) but the positive-pole "truth-teller" requires a compound form rather than simple suffixation. The *post-truth* compound is a recent formation with no parallel in other languages in the corpus.
+
+**Constructional patterns (F4):**
+The *prove* + adjective construction is the primary inchoative for truth-value transitions. The *it is true that … but* concessive frame is a highly frequent discourse pattern. The *to be honest* and *truth be told* parenthetical frames are grammaticalized sincerity markers. The *ring true/false*, *hold true*, *come true* verbal idioms are distinctive fixed constructions concentrated around the base form *true*. The *economical with the truth* idiom is a distinctive British English construction for misleading through omission.
+
+**Oppositional structures (F5):**
+The *true/false* pair is the foundational lexical opposition. The *valid/sound* distinction in formal logic is a distinctive constructional contrast. The *accurate* (tolerates margin) vs. *exact* (no deviation) distinction is a lexical contrast within the fact-correspondence cluster. The *truthful* (habitual disposition of persons) vs. *true* (property of propositions) distributional contrast is explicitly documented.
+
+---
+
+### 2.6 Tagalog (tl)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes: (1) factual truth of statements and situations (*totoo*, *katotohanan*); (2) genuineness and authenticity of objects and persons (*tunay*, *orihinal*, *awtentiko* vs. *huwad*, *peke*); (3) correctness (*tama*, *wasto*, *tumpak*); (4) honesty and sincerity of persons (*tapat*, *katapatan*); (5) loyalty and faithfulness (*katapatan*, *tiwala*); (6) credibility of sources and witnesses (*mapagkakatiwalaan*, *kredible*); and (7) deception (*sinungaling*, *kasinungalingan*, *linlang*). The *totoo/kasinungalingan* pair is the foundational truth/falsehood opposition. The root *tapat* covers both honesty of speech and loyalty/faithfulness to persons, a semantic range broader than any single English equivalent. The *huwad/peke* near-synonymy is distinguished primarily by register (formal/literary vs. colloquial).
+
+**Derivational and morphological asymmetries:**
+The *ka-…-an* circumfix is the primary abstract nominalizer (*katotohanan*, *katapatan*, *katunayan*, *kasinungalingan*). The *pa-* + *tunay* + *-an* verbal paradigm (*patunayan*, *napatunayan*, *pinatunayan*) is the most grammaticalized causative in the truth domain. The *maka-* prefix (*makatotohanan*) derives adjectives meaning "in accordance with" a quality. The discourse particles (*ba*, *na*, *pala*, *nga*, *naman*) encode epistemic stance distinctions that are grammaticalized in Tagalog but expressed lexically or constructionally in other languages.
+
+**Constructional patterns (F4):**
+The predicate-initial verbless clause is the unmarked attribution pattern. The *sa totoo lang* and *ang totoo* discourse frames are highly grammaticalized sincerity and corrective markers. The *may/wala* + nominal existential construction (*may katotohanan*, *walang katotohanan*) is a distinctive pattern for asserting or denying the presence of truth in a claim. The *totoo na* construction (with change-of-state particle *na*) is a distinctive inchoative for marking that something previously doubted has been confirmed.
+
+**Oppositional structures (F5):**
+The *totoo/kasinungalingan* and *tunay/huwad* pairs are the primary lexical oppositions. The *may katotohanan/walang katotohanan* constructional pair is distinctive in using the existential frame rather than a copular negation. The *tama/mali* pair is the primary correctness opposition. The *tapat* root covers both the honesty/dishonesty and loyalty/disloyalty dimensions, creating a semantic overlap not present in most other languages.
+
+---
+
+### 2.7 Swahili (sw)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes: (1) propositional truth (*kweli*, *ukweli*); (2) accuracy and correctness (*sahihi*, *usahihi*); (3) genuineness of objects (*halisi*, *uhalisi* vs. *bandia*, *ghushi*); (4) legal legitimacy (*halali*, *uhalali* vs. *haramu*); (5) reliability and trustworthiness (*uaminifu*, *amini*, *mwaminifu*); (6) certainty and doubt (*uhakika*, *hakika* vs. *shaka*); and (7) deception (*uongo*, *udanganyifu*, *kudanganya*). The Arabic loanword stratum is pervasive: *sahihi*, *halisi*, *halali*, *haramu*, *hakika*, *amini*, *shahidi*, *ushahidi* are all Arabic-derived. The *halali/haramu* pair carries both Islamic legal and broader secular evaluative meanings.
+
+**Derivational and morphological asymmetries:**
+The *u-* prefix is the primary abstract nominalizer (*ukweli*, *uhalisi*, *uaminifu*, *udanganyifu*). The *-sha/-isha* causative suffix is productive (*kuthibitisha*, *kuhakikisha*, *kusahihisha*, *kuhalalisha*). The *-ika/-eka* stative/inchoative suffix is productive and semantically distinct from the *-wa* passive (*kudanganyika* vs. *kudanganywa*). The *m-/wa-* agentive prefix is productive for negative-pole agents (*mwongo*, *mdanganyifu*) but the positive-pole "truth-teller" requires periphrasis (*mtu wa kweli*). The *piga uongo* (light verb + *uongo*) construction for lying has no parallel *piga kweli* construction for truth-telling.
+
+**Constructional patterns (F4):**
+The *ni/si* copular pair is the primary attribution/negation pattern. The *kwa kweli* adverbial frame is a grammaticalized sincerity marker. The *ukweli ni kwamba* frame is a standard corrective/clarifying construction. The *-ika* inchoative is the primary construction for agentless truth-revelation (*ulidhihirika*). The *nina/sina uhakika* possessive epistemic construction is the standard formula for expressing certainty and uncertainty.
+
+**Oppositional structures (F5):**
+The *kweli/uongo* and *halisi/bandia* pairs are the primary lexical oppositions. The *halali/haramu* pair is a distinctive lexical opposition in the legal-religious domain. The *kudanganywa/kudanganyika* morphological pair is semantically significant in distinguishing agentive passive from inchoative. The *ni kweli/si kweli* constructional pair is the primary attribution/negation pair.
+
+---
+
+### 2.8 Quechua, Southern (qu)
+
+**Main lexical distinctions and overlaps (F1–F3):**
+The data distinguishes: (1) truth and genuineness (*cheqa*, *cheqaq*); (2) correctness and straightness (*chiqan*, *allin*); (3) clarity and explicitness (*sut'i*); (4) error and mistake (*pantay*, *pantasqa*); (5) deception and lying (*llulla*, *llullakuy*, *llullaq*); (6) identity and sameness (*kikin*); (7) resemblance (*hina*); and (8) belief and trust (*iñiy*, *iñinapaq*). The *cheqa* root is the most productive and covers both propositional truth and genuineness of persons and objects. The *allin* root covers both moral goodness and practical correctness. The evidentiality system (*-m/-mi*, *-s/-si*, *-chá*) grammaticalizes distinctions between direct knowledge, reported information, and conjecture that are expressed lexically or constructionally in other languages.
+
+**Derivational and morphological asymmetries:**
+The *-ncha-* causative verbalizer is the primary transitive derivational pathway for adjectival roots (*cheqanchay*, *allinchay*, *sut'inchay*), while *-chi-* is used for verbal roots (*pantachiy*, *llullachiy*). The *-ka-* intransitive verbalizer is the primary inchoative pathway (*cheqakay*, *allinkay*). The *-q* agentive nominalizer is productive for negative-pole agents (*llullaq*, *pantaq*) but the positive-pole *cheqaq* functions primarily as an adjective rather than a person-characterization. The *-puni* emphatic suffix and *-lla* limitative suffix are productive across truth-domain items. No BECOME form is attested for *llulla*, creating an asymmetry with *cheqa* and *allin*.
+
+**Constructional patterns (F4):**
+The predicate-initial verbless clause with obligatory evidential enclitic is the unmarked attribution pattern. The *mana … -chu* frame is the standard negation pattern. The *[X kasqanta] yachay* nominalized subordinate clause is the standard construction for propositional knowledge. The *cheqanta rimanayki tiyan* deontic periphrasis is the standard construction for expressing obligation. The *ama llulla, ama suwa, ama qella* prohibitive triad is a culturally fixed formula.
+
+**Oppositional structures (F5):**
+The *cheqa/llulla* pair is the foundational lexical opposition. The *cheqam/mana cheqachu* constructional pair is the primary attribution/negation pair. The three-way evidential opposition (*-m/-mi* vs. *-s/-si* vs. *-chá*) is a grammaticalized system with no direct parallel in other languages in the corpus. The *cheqanchay/cheqakay* morphological pair encodes the transitive/intransitive distinction within the same root family.
+
+---
+
+## 3. Cross-Language Summary
+
+### 3.1 Recurring Convergences (patterns observed across many languages)
+
+- **A primary binary opposition between truth and falsehood is present in all eight languages**, expressed through a lexical pair: zh 真/假, he *ʾemet/sheqer*, sa *satya/asatya*, el *αληθής/ψευδής*, en *true/false*, tl *totoo/kasinungalingan*, sw *kweli/uongo*, qu *cheqa/llulla*. In all languages, this pair is the foundational evaluative axis of the domain, and both poles participate in the same construction types (predication, modification, nominalization).
+
+- **All eight languages distinguish at least two sub-domains within the truth-evaluation field**: (a) the truth or falsity of *statements and propositions*, and (b) the genuineness or inauthenticity of *objects, persons, or documents*. These two sub-domains are covered by overlapping but distinct vocabulary in every language (e.g., zh 真实 vs. 真伪; he *ʾemet* vs. *mezuyaf*; sa *satya* vs. *mithyā*; el *αληθής* vs. *πλαστός*; en *true* vs. *fake*; tl *totoo* vs. *huwad/peke*; sw *kweli* vs. *bandia*; qu *cheqa* vs. *llulla*).
+
+- **Abstract nominalization of truth-domain adjectives is productive in all eight languages**, using language-specific suffixes: zh *-性* (*真实性*, *可靠性*); he *-ut* (*ʾaminut*, *neʾemanut*); sa *-tā/-tva* (*satyatā*, *mithyātva*); el *-ότητα* (*αυθεντικότητα*, *εγκυρότητα*); en *-ity/-ness* (*authenticity*, *truthfulness*); tl *ka-…-an* (*katotohanan*, *katapatan*); sw *u-* (*ukweli*, *uaminifu*); qu *-kay/-nchay* (*cheqakay*, *cheqanchay*). In all languages, these nominalizations are used in formal, legal, and philosophical registers.
+
+- **Agentive nominalization shows a consistent asymmetry across languages**: negative-pole agents (liars, deceivers, forgers) are more consistently lexicalized as single words than positive-pole agents (truth-tellers). This pattern is explicitly documented in zh (*伪造者*, *欺骗者* but no *-者* form for truth-teller), he (*shaqran* "liar" but no *-an* agentive for truth-teller), el (*ψεύτης* "liar" but no lexicalized "truth-teller"), en (*faker*, *counterfeiter* but *truth-teller* requires a compound), tl (*sinungaling* "liar" but no parallel agentive for honest person), sw (*mwongo*, *mdanganyifu* but *mtu wa kweli* requires periphrasis), and qu (*llullaq* "liar" but *cheqaq* functions primarily as adjective).
+
+- **Discourse-framing constructions for introducing frank or corrective statements are attested in all eight languages**, though their forms vary: zh *实际上*, *事实上*; he *ha-ʾemet hi she-*; sa *vastutaḥ*, *tattvataḥ*; el *η αλήθεια είναι ότι*; en *to tell the truth*, *truth be told*; tl *sa totoo lang*, *ang totoo*; sw *kwa kweli*, *ukweli ni kwamba*; qu *cheqaqta rimay*. In all languages, these constructions signal that the speaker is about to state what is actually the case, often in contrast to a prior claim or expectation.
+
+- **Causative constructions for the act of verifying, confirming, or correcting are attested in all eight languages**: zh *核实*, *鉴定*; he *leʾammet*, *letaqqef*; sa *satyāpana*, *pramāṇīkaraṇa*; el *επαληθεύω*, *αποδεικνύω*; en *verify*, *authenticate*, *validate*; tl *patunayan*, *cheqanchay*; sw *kuthibitisha*, *kuhakikisha*; qu *cheqanchay*, *cheqachiy*. In all languages, these causative forms are more common in formal, legal, and administrative registers than in everyday speech.
+
+- **Proverbial or semi-fixed expressions asserting that truth is painful, that truth endures, or that truth will eventually be revealed are attested in at least six of the eight languages**: zh *真金不怕火炼*; he *ʾemet marah* (bitter truth); el *η αλήθεια πονάει*, *η αλήθεια βγαίνει πάντα στο φως*; en *the truth hurts*, *the truth will out*; tl *ang katotohanan ay masakit*; sw *ukweli unauma*, *kweli haiozi*; qu (no direct parallel documented). This pattern is absent or not documented for sa and qu.
+
+---
+
+### 3.2 Major Divergences (strong differences between languages)
+
+- **Grammaticalized evidentiality is present only in Quechua (qu)** among the eight languages. The three-way distinction between direct knowledge (*-m/-mi*), reported information (*-s/-si*), and conjecture (*-chá*) is obligatorily marked on predicates and is a grammatical feature of the language rather than a lexical or constructional choice. In all other languages, the source of knowledge is expressed lexically (e.g., en *reportedly*, *allegedly*; tl *daw*; sw *-s/-si* is not grammaticalized in the same way) or through specific constructions, but not as an obligatory grammatical category.
+
+- **The ontological dimension of truth (what genuinely exists vs. what is unreal) is most elaborately developed in Sanskrit (sa)**, where the *sat/asat* opposition, the *mithyā* category, and the *paramārtha/vyāvahārika* distinction constitute a distinct semantic group not paralleled in the other languages. While other languages have terms for "real" vs. "unreal" (zh 真实/虚假; el *αληθινός/φαινομενικός*; en *real/illusory*), only sa develops a multi-level ontological framework with named intermediate categories (*mithyā* as neither real nor unreal) and named levels of analysis (*paramārtha*, *vyāvahārika*, *pratibhāsa*).
+
+- **The legal-religious legitimacy dimension (*halal/haram*) is most prominently developed in Swahili (sw) and Hebrew (he)**, reflecting the influence of Arabic and Islamic legal vocabulary. The *halali/haramu* pair in sw and the *kasher/pasul* pair in he combine ritual fitness with legal admissibility in ways that have no direct parallel in the other six languages. In other languages, legal validity is expressed through separate vocabulary (zh 合法/违法; el *έγκυρος/άκυρος*; en *valid/invalid*) without the religious-legal fusion characteristic of these two languages.
+
+- **The *loob* (inner self) constructions in Tagalog (tl)** — *tapat na loob*, *katapatan ng loob*, *tapat ang kanyang loob* — locate moral evaluation in a culturally specific concept of the inner self that has no direct parallel in the other seven languages. While other languages have terms for sincerity and inner honesty (zh 真诚, 真心; he *kanut*; en *sincere*; qu *cheqa sonqo*), the *loob* constructions in tl are distinctive in their cultural specificity and their role in the moral-psychological framework of Tagalog discourse.
+
+- **The *ṛta* (cosmic order) dimension in Sanskrit (sa)** — covering the ordered functioning of the cosmos and the moral-ritual rightness aligned with it — has no parallel in the other seven languages. While other languages have terms for moral rightness (zh 道德; he *tsedeq*; en *right*; tl *tama*; sw *haki*; qu *allin*), only sa develops a cosmological framework in which truth and cosmic order are aspects of the same concept (*ṛta*), with the *ṛta/anṛta* opposition predating and partially overlapping with the *satya/asatya* opposition.
+
+- **The *post-truth* compound (en *post-truth*, el *μετα-αλήθεια*, zh 后真相 [implied but not explicitly documented])** is documented as a recent formation in English and Greek, reflecting a contemporary epistemic discourse that is not documented in the other six languages in the corpus. This is a single-language or two-language feature in the data as presented.
+
+- **The distinction between *accurate* (tolerates a specified margin) and *exact* (no deviation)** is explicitly documented as a lexical contrast in English (en) and is paralleled in Hebrew (*meduyaq* vs. *meshuʿar*) and Chinese (*准确* vs. *精确* [implied]), but is not explicitly documented as a distinct lexical contrast in Tagalog, Swahili, or Quechua in the available data.
+
+---
+
+### 3.3 Asymmetries, Gaps, and Irregularities
+
+- **The *-ncha-* causative verbalizer in Quechua (qu) applies to adjectival roots (*cheqa*, *allin*, *sut'i*) but not to the negative root *llulla***, which instead uses *-chi-* directly. This asymmetry — different causative pathways for positive and negative evaluative roots — is documented in the data and has no direct parallel in the other languages, where causative formation is typically uniform across evaluative polarity.
+
+- **The *ʾi-* negation prefix in Hebrew (he) applies productively to *-ut* nominalizations** (*ʾi-diyyuq*, *ʾi-sevirut*, *ʾi-ḥuqiyyut*) but not to the corresponding adjectives, which use *lo* or *bilti* instead. This creates an asymmetry between the adjectival and nominalized negation systems that is not paralleled in the other languages, where negation strategies tend to be more uniform across word classes.
+
+- **The *piga uongo* (light verb + *uongo*) construction for lying in Swahili (sw) has no parallel *piga kweli* construction for truth-telling**, which instead uses *sema ukweli* (a different light verb). This asymmetry — different light verbs for the positive and negative poles of the same domain — is explicitly documented in the data and is not paralleled in the other languages.
+
+- **The *kasher/pasul* pair in Hebrew (he) is a lexical opposition formed from two unrelated roots** (not a morphological negation), while most other language pairs in this domain are formed by prefixal negation of a single root. This makes *kasher/pasul* structurally parallel to zh 合法/违法 and sw *halali/haramu* (lexical oppositions) rather than to he *ʾamin/lo ʾamin* or en *valid/invalid* (morphological negations).
+
+- **The *mithyā* category in Sanskrit (sa) disrupts the binary *sat/asat* opposition** by introducing a third ontological value (neither real nor unreal) specific to Advaita Vedānta. No other language in the corpus documents a comparable third value within the truth/reality domain that is not simply a scalar intermediate but a categorically distinct ontological status.
+
+- **The *totoo na* construction in Tagalog (tl)** — using the change-of-state particle *na* to mark that something previously doubted has been confirmed — encodes an inchoative meaning through a grammatical particle rather than through a derivational suffix or a periphrastic construction. This is structurally distinct from the inchoative strategies documented in the other languages (zh *变成真的*; he *hafakh le-*; el *αποδείχτηκε*; en *proved true*; sw *ulidhihirika*; qu *cheqakay*), all of which use either a dedicated verb or a derivational suffix.
+
+- **The *aucitya* (contextual fittingness) dimension in Sanskrit (sa)** — evaluating whether something is appropriate to its context, purpose, or role — is documented as a distinct semantic group in the data with no close parallel in the other seven languages. While other languages have terms for appropriateness (zh 合适; tl *angkop*, *akma*; en *appropriate*), only sa develops this into a named aesthetic and ethical category (*aucitya*) with its own derivational family and a dedicated treatise (*Aucityavicāracarcā*).

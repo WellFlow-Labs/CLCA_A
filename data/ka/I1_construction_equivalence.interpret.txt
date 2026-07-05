@@ -1,0 +1,123 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Predicative with copula არის or suffix -ა | ეს ჭეშმარიტია (es č'ešmarit'ia) "this is true"<br>ეს სიმართლეა (es simart'lea) "this is the truth" | Direct equivalent | None |
+| **ADNOM** | Attributive adjective before noun | ჭეშმარიტი სიტყვა (č'ešmarit'i sit'q'va) "true word"<br>ნამდვილი მეგობარი (namdvili megobari) "true friend" | Direct equivalent | None |
+| **BECOME** | Specialized revelation verb გამოვლინდა | სიმართლე გამოვლინდა (simart'le gamovlinda) "the truth was revealed" | **SUBSTITUTED BY REVELATION** | Functional gap - generic "become" marginal |
+| **REVELATION** | Intransitive გამოვლინდა / Transitive გამოაჩინა | სიმართლე გამოვლინდა (simart'le gamovlinda) "the truth was revealed"<br>სიმართლე გამოაჩინა (simart'le gamoač'ina) "revealed the truth" | Direct equivalent | None |
+| **CAUSATION (factual)** | Light verb constructions with truth-seeking verbs | სიმართლე გაარკვია (simart'le gaark'via) "to find out the truth"<br>სიმართლე იძიოს (simart'le iʒios) "to search for the truth" | **SUBSTITUTED BY DISCOVERY/SEEKING** | Functional gap - no dedicated causative |
+| **CAUSATION (character)** | No dedicated construction | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| **VERIFICATION** | Light verb with დაადასტურა / დაამოწმა | სიმართლე დაადასტურა (simart'le daadast'ura) "confirmed the truth"<br>დაამოწმა (daamoc'ma) "verified, attested" | Direct equivalent | None |
+| **DISCONFIRMATION** | No dedicated construction attested | — | **NO COMMON EXPRESSION** - likely uses negation + verification | Lexical/constructional gap |
+| **NEGATION** | Syntactic: არ + copula<br>Morphological: უ- prefix | ეს არ არის სიმართლე (es ar aris simart'le) "this is not the truth"<br>ეს უსამართლოა (es usamart'loa) "this is unjust" | Both strategies available | None |
+| **NOMINALIZATION** | Suffix -ობა/-ება<br>Prefix სი- | ნამდვილობა (namdviloba) "reality/genuineness"<br>სიმართლე (simart'le) "truth" | Direct equivalent | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### BECOME → REVELATION Substitution
+The language shows a clear preference for specialized revelation constructions over generic "become" constructions in the truth domain. While გახდა (gaxda) "became" + instrumental case exists as a general inchoative strategy, P4b rates it as **[MARGINAL]** for truth-domain predicates. Instead, the specialized verb გამოვლინდა (gamovlinda) "was revealed" serves as the functional equivalent of BECOME for truth predicates. This represents a **semantic specialization** where the metaphor of truth emerging from concealment replaces the generic change-of-state operator.
+
+### CAUSATION → DISCOVERY/SEEKING Substitution
+Georgian lacks a productive morphological causative for truth-domain predicates (P4a Construction 5 notes "no common dedicated causative construction identified"). Instead, the language employs light verb constructions with verbs of discovery and seeking:
+- გაარკვია (gaark'via) "find out" (completive aspect)
+- იძიოს (iʒios) "search for" (processual aspect)
+
+These constructions express the **process of arriving at truth** rather than causing someone to believe or know truth. This represents a **functional substitution** where epistemic discovery replaces causative semantics.
+
+### VERIFICATION vs. DISCONFIRMATION Asymmetry
+The language has robust, dedicated constructions for VERIFICATION (დაადასტურა "confirmed," დაამოწმა "verified"), rated **[CORE]** in P4b. However, no parallel construction for DISCONFIRMATION appears in the data. This suggests an **asymmetric gap** where positive verification is lexicalized but negative disconfirmation requires circumlocution (likely negation + verification verb, though this is not attested in the data).
+
+### Dual NEGATION Strategies
+Georgian employs two distinct negation strategies that are **not freely interchangeable**:
+1. **Syntactic negation**: არ (ar) + copula for predicative negation
+2. **Morphological negation**: უ- (u-) prefix creating stable antonyms
+
+P4b notes these create "distinct lexical items, not compositional negation." The უ- prefix forms (უსამართლო "unjust," უმართებულო "incorrect") have specialized meanings beyond simple negation of their positive counterparts.
+
+### REVELATION Voice Alternation
+The REVELATION construction shows a productive **transitive/intransitive alternation**:
+- Intransitive: სიმართლე გამოვლინდა "the truth was revealed" (truth as subject)
+- Transitive: სიმართლე გამოაჩინა "revealed the truth" (truth as object)
+
+Both are rated **[CORE]** with equal frequency, suggesting this is a systematic voice alternation rather than separate constructions.
+
+### Truth-Telling vs. Truth-Seeking Asymmetry
+Light verb constructions show different patterns:
+- **Truth-telling**: Uses simple verb თქვა (t'qva) "say" (სიმართლე თქვა "tell the truth")
+- **Truth-seeking**: Uses multiple specialized verbs with aspectual distinctions (გაარკვია completive, იძიოს processual)
+
+This suggests **greater elaboration** in the seeking/discovery domain than in the telling domain.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **CAUSATION (character)**: No morphological or dedicated syntactic construction for causing someone to become truthful/honest or deceptive. P4a Construction 5 explicitly notes "Georgian lacks a productive morphological causative for truth-domain predicates."
+
+2. **Generic BECOME for truth predicates**: While the construction exists (გახდა + instrumental), it is **[MARGINAL]** in the truth domain, functionally replaced by specialized REVELATION constructions.
+
+### Lexical Gaps
+1. **DISCONFIRMATION**: No dedicated verb or light verb construction attested for disconfirming or refuting truth claims. The verification verbs (დაადასტურა, დაამოწმა) have no negative counterparts in the data.
+
+2. **Positive agentive nominalizations**: P4a Construction 7 notes "Positive agents less commonly lexicalized (no single word for 'truth-teller,' expressed periphrastically)." The pattern exists for negative agents (მატყუარა "liar") but not positive ones.
+
+### Conceptual Gaps
+None clearly identified. All semantic domains appear expressible through some construction, even if requiring circumlocution.
+
+### Asymmetric Gaps
+1. **Verification/Disconfirmation asymmetry**: Positive verification fully lexicalized; negative disconfirmation absent.
+
+2. **Agentive nominalization asymmetry**: Negative agents (liars, deceivers) have dedicated lexical forms; positive agents (truth-tellers) require periphrasis.
+
+3. **BECOME asymmetry**: Generic "become" construction marginal for truth predicates; specialized "reveal" construction preferred.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Predicative constructions with copula (Construction 1)
+- **ADNOM**: Attributive adjective modification (Construction 3)
+- **REVELATION**: Dedicated intransitive/transitive verb pair (Construction 16)
+- **VERIFICATION**: Light verb constructions with specialized verbs (Construction 12)
+- **NEGATION**: Both syntactic (არ + copula) and morphological (უ- prefix) strategies (Constructions 2, 21)
+- **NOMINALIZATION**: Multiple productive patterns (-ობა/-ება suffixes, სი- prefix) (Construction 6)
+
+### Available with Substitution
+- **BECOME**: Functionally replaced by REVELATION constructions
+  - Generic გახდა exists but rated **[MARGINAL]**
+  - Specialized გამოვლინდა serves as functional equivalent
+  
+- **CAUSATION (factual)**: Functionally replaced by DISCOVERY/SEEKING constructions
+  - No morphological causative
+  - Light verbs გაარკვია "find out" and იძიოს "search for" express related semantics
+
+### Partially Available
+- **DISCONFIRMATION**: No dedicated construction attested
+  - Likely expressible through negation + verification verbs
+  - Requires circumlocution; no common fixed expression
+
+### Missing Entirely
+- **CAUSATION (character)**: No construction for causing someone to become truthful/deceptive
+  - Not expressible through dedicated morphosyntactic means
+  - Would require periphrastic expression with generic causative verbs (e.g., გააკეთა "made") + adjective, but P4a notes this is "not fixed construction specific to truth domain"
+
+---
+
+## Summary Statistics
+
+- **Direct equivalents**: 6/10 operators (ATTR, ADNOM, REVELATION, VERIFICATION, NEGATION, NOMINALIZATION)
+- **Functional substitutions**: 2/10 operators (BECOME, CAUSATION-factual)
+- **Partial availability**: 1/10 operators (DISCONFIRMATION)
+- **Structural gaps**: 1/10 operators (CAUSATION-character)
+
+The language shows **robust coverage** of core truth-domain operations with some systematic gaps in causative semantics and asymmetries favoring positive verification over negative disconfirmation.

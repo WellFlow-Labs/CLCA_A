@@ -1,0 +1,76 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a #1 Attribution (Subject + adj + copula) | მართალი ხარ (martali xar); სწორი ხარ (sc̣ori xar) | Direct; restricted to propositional-correctness items (მართალი, სწორი) | Partially available (item-restricted) |
+| **ADNOM** | P4a #3 Adnominal Modification (Adj + N) | ნამდვილი მეგობარი (namdvili megobari); ყალბი ფული (q̇albi puli); avtenṭuri doḳumenṭi | Direct; most productive frame in field | Fully available |
+| **BECOME** | P4a #4 Become/Inchoative (single lexical perfective frame) | ტყუილი გამოვიდა (ṭq̇uili gamovida) | No productive Adj→inchoative; only the *gamovida* "turned out" frame | **NO COMMON EXPRESSION – circumlocution required** (morphosyntactic gap) |
+| **REVELATION** | Not separately attested; *gamovida* "turned out" frame (P4a #4) is the closest | ტყუილი გამოვიდა (ṭq̇uili gamovida) | The "turned out" frame carries a revelatory sense within the single lexical BECOME frame | **NO COMMON EXPRESSION – circumlocution required** |
+| **CAUSATION (factual)** | P4a #5 Causative (prefix + root + -eba), falsehood pole only | გაყალბება (gaq̇albeba); მოტყუება (moṭq̇ueba) | Available only at falsehood/fakeness pole; no "cause-to-be-true" verb | Asymmetric / partially available |
+| **CAUSATION (character)** | P4a #7 Agentive (falsehood pole) loosely related; no causative-of-character construction attested | მატყუარა (maṭq̇uara) [agentive, not causative] | No "make-honest"/"make-genuine" causative | **MISSING (structural gap)** for positive; asymmetric |
+| **VERIFICATION** | No dedicated construction attested | — | — | **MISSING (structural gap)** |
+| **DISCONFIRMATION** | No dedicated construction; closest is *gamovida* "turned out (a lie)" (P4a #4) | ტყუილი გამოვიდა (ṭq̇uili gamovida) | The "turned out a lie" frame is the only disconfirmation-adjacent item | **NO COMMON EXPRESSION – circumlocution required** |
+| **NEGATION** | P4a #2 Negative Attribution (morphological **ara-**) + sentential negation (analytic) | არასანდო წყარო (arasando c̣q̇aro); არაპატიოსანი ადამიანი (arap̣aṭiosani adamiani); არ ხარ მართალი (ar xar martali) | Morphological for subset (reliability/honesty); analytic elsewhere | Partially available (item-restricted) |
+| **NOMINALIZATION** | P4a #6 Abstract (si-…-e, -eba/-oba); P4a #7 Agentive (ma-…-ara, compounding); P4a #8 Speech-Act (gen + verbal-noun); P4a #9 Essence (gen + arsi/buneba) | სიმართლე (simartle); სანდოობა (sandooba); მატყუარა (maṭq̇uara); სიმართლის თქმა (simartlis tkma); საქმის არსი (sakmis arsi) | Abstract nominalization broadly available; agentive asymmetric (negative pole only) | Fully available (abstract); asymmetric (agentive) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+**Revelation / Becoming.** No productive inchoative or revelation construction exists. The only attested frame is the lexical perfective *gamovida* ("turned out"), as in ტყუილი გამოვიდა (ṭq̇uili gamovida, "it turned out to be a lie"). This single frame simultaneously serves the BECOME, REVELATION, and DISCONFIRMATION functions, but only as one lexical item, not a regular pattern. Per P4a #4, it is "lexical rather than a productive inchoative derivation." There is no Adj-based "become true/genuine/honest" construction.
+
+**Verification vs. Disconfirmation.** No dedicated VERIFICATION construction is attested in the source data. The only confirmation-adjacent material is the propositional Attribution frame (მართალი ხარ / სწორი ხარ), which affirms correctness of a person/statement but is not described as a verification operation. For disconfirmation, only the *gamovida* "turned out (a lie)" frame appears. Thus VERIFICATION and DISCONFIRMATION do **not** share a single construction; verification has no attested form, and disconfirmation surfaces only through the borderline *gamovida* frame.
+
+**Causation asymmetry (truth vs. falsity).** Causative derivation is robust only at the negative pole: გაყალბება (gaq̇albeba, "to falsify/forge") and მოტყუება (moṭq̇ueba, "to deceive") via prefix + root + -eba. P4a #5 explicitly notes there is no symmetric "make true/genuine" causative. Factual causation is therefore available only for falsehood-creation; character-causation toward a positive trait is absent.
+
+**Agentive asymmetry.** Agentive nominalization is likewise pole-restricted to falsehood: მატყუარა (maṭq̇uara, "liar"), ცრუმოწმე (crumoc̣me, "false witness"), q̇albismkneli ("forger"). There is no lexicalized "truth-teller"; that meaning is expressed phrasally as სიმართლის თქმა (simartlis tkma, "telling the truth"), i.e., the Speech-Act nominalization substitutes for a missing positive agentive.
+
+**Negation.** Negation is split: morphological **ara-** (არასანდო arasando, არაპატიოსანი arap̣aṭiosani) is available only for the reliability/honesty subset, while the truth/lie and genuineness items fall back on analytic sentential negation (არ ხარ მართალი, ar xar martali). The language thus uses both a morphological and an analytic strategy, distributed by item.
+
+**Attribution restriction.** The copular Attribution frame (მართალი ხარ, სწორი ხარ) clusters on propositional-correctness items only and does not generalize to genuineness or reliability adjectives, which rely instead on the Adnominal frame.
+
+---
+
+## 3. Missingness Summary
+
+**Structural (morphosyntactic) Gaps**
+- BECOME: no productive Adj→inchoative construction (only the single lexical *gamovida* frame).
+- VERIFICATION: no attested construction.
+- CAUSATION (character): no "make-honest/genuine" causative construction.
+
+**Lexical Gaps**
+- No single-word agentive for "truth-teller" (positive counterpart to მატყუარა).
+- No "cause-to-be-true" verb counterpart to გაყალბება / მოტყუება.
+
+**Conceptual Gaps**
+- None explicitly stated in P4a/P4b as a blocked operation. The source notes absences as unattested patterns and asymmetries, not as conceptually impossible. (No conceptual gap can be asserted beyond the data.)
+
+**Asymmetric Gaps (only one pole present)**
+- Causation: present at falsehood pole (gaq̇albeba, moṭq̇ueba); absent at truth/genuineness pole.
+- Agentive Nominalization: present at falsehood pole (maṭq̇uara, crumoc̣me, q̇albismkneli); absent for "truth-teller" (phrasal substitute only).
+- Negative Attribution (ara-): present for reliability/honesty subset (arasando, arasaimedo, arap̣aṭiosani); absent for truth/lie and genuineness items (sentential negation substitutes).
+- Attribution (copular): present for propositional-correctness items only; absent for genuineness/reliability.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+**Fully available**
+- ADNOM — most productive frame, spans genuineness, reliability, accuracy, honesty.
+- NOMINALIZATION (abstract) — si-…-e and -eba/-oba recur broadly.
+
+**Available with substitution**
+- NEGATION — morphological **ara-** for a subset; analytic sentential negation substitutes elsewhere.
+- DISCONFIRMATION — substituted by the lexical *gamovida* ("turned out a lie") frame.
+- REVELATION — substituted by the same *gamovida* ("turned out") frame.
+- Positive agentive notion — substituted by Speech-Act nominalization (simartlis tkma) in place of a "truth-teller" word.
+
+**Partially available**
+- ATTR — restricted to propositional-correctness items (მართალი, სწორი).
+- CAUSATION (factual) — present only at falsehood pole.
+- NOMINALIZATION (agentive) — present only at falsehood pole.
+
+**Missing entirely**
+- BECOME — no productive inchoative construction (structural gap; only single lexical frame).
+- VERIFICATION — no attested construction.
+- CAUSATION (character) — no positive character-causative construction.

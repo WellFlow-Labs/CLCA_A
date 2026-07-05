@@ -1,0 +1,405 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Greek (el)
+
+---
+
+**Transliteration standard:** ISO 843, consistent with P1–P5.
+
+**Scope note:** This step documents how Greek encodes dynamic truth-related meanings — inchoative change, causation, and stability — using only vocabulary attested in P1–P5. Each subsection treats a distinct expression type. Where no common expression exists, this is stated explicitly. Where behavior differs across vocabulary items, items are treated separately.
+
+---
+
+## 1. "X BECOMES [TRUTH-RELATED STATE]"
+
+### Overview
+
+Greek has no single inchoative copula equivalent to English "becomes" that applies uniformly across truth-domain adjectives. The inchoative meaning is distributed across several verbs, each with distinct semantic and register properties. These were partially documented in P4a (Construction 4); this section extends that treatment to the full range of attested vocabulary.
+
+---
+
+### 1a. αποδεικνύεται + [truth-domain adjective]
+
+**Pattern:** [Subject NP] + αποδεικνύεται/αποδείχθηκε + [truth-domain adjective]
+
+**Meaning:** "proves to be [X]"; "turns out to be [X]" — with the implication that evidence or argument has established the new state
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Ο ισχυρισμός αποδείχθηκε ψευδής. | *O ischirismós apodíchthike psevdís.* | "The claim proved to be false." |
+| Ο ισχυρισμός αποδείχθηκε αληθής. | *O ischirismós apodíchthike alithís.* | "The claim proved to be true." |
+| Η πηγή αποδείχθηκε αναξιόπιστη. | *I pigí apodíchthike anaksiópistos.* | "The source proved unreliable." |
+| Ο ισχυρισμός αποδεικνύεται λανθασμένος. | *O ischirismós apodikníete lanthazmenos.* | "The claim turns out to be mistaken." |
+
+**Compatibility with P1–P5 vocabulary:**
+
+| Adjective | Compatible with αποδεικνύεται? | Notes |
+|---|---|---|
+| αληθής | Yes | Attested by structural parallel; formal register |
+| ψευδής | Yes | Attested in P4a and P5 |
+| αληθινός | Yes | Colloquial register variant |
+| σωστός | Yes | Colloquial register |
+| λανθασμένος | Yes | Attested in P2b |
+| ακριβής / ανακριβής | Yes | Technical and formal registers |
+| αξιόπιστος / αναξιόπιστος | Yes | Attested in P4b |
+| έγκυρος / άκυρος | Yes | Legal register; άκυρος more common in this slot |
+| γνήσιος | Yes | Legal and cultural contexts |
+| πλαστός | Yes | Legal contexts |
+| αυθεντικός | Yes | Art market, legal contexts |
+| αμφίβολος | Less common | The adjective describes a state of doubt rather than a newly established state; αποδεικνύεται αμφίβολος is grammatical but less natural than the others |
+
+**Register:** Formal, journalistic, legal, scientific. The verb αποδεικνύεται is the primary inchoative in this domain for contexts where evidence drives the change.
+
+---
+
+### 1b. αποκαλύπτεται + [truth-domain adjective or NP]
+
+**Pattern:** [Subject NP] + αποκαλύπτεται/αποκαλύφθηκε + ως + [truth-domain adjective or NP]
+
+**Meaning:** "is revealed to be [X]" — with the implication that a concealed state is brought to light by an agent or process
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η υπογραφή αποκαλύφθηκε ως πλαστή. | *I ipogrfí apokalífthike os plastí.* | "The signature was revealed to be forged." |
+| Η αλήθεια αποκαλύπτεται. | *I alíthia apokalíptetai.* | "The truth is revealed." |
+
+**Distinction from αποδεικνύεται:** αποκαλύπτεται adds a disclosure component — something previously hidden comes to light. αποδεικνύεται implies that evidence establishes a new status; αποκαλύπτεται implies that a pre-existing but concealed status is uncovered. The data in P4a explicitly notes this distinction.
+
+**Compatibility:** Most naturally used with πλαστός, ψευδής, and αληθής in contexts of investigation or disclosure. Less natural with purely procedural terms such as έγκυρος.
+
+---
+
+### 1c. γίνεται + [truth-domain adjective or NP]
+
+**Pattern:** [Subject NP] + γίνεται + [truth-domain adjective or NP]
+
+**Meaning:** "becomes [X]" — general inchoative, without the evidential or disclosure components of αποδεικνύεται and αποκαλύπτεται
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η κατάσταση γίνεται αμφίβολη. | *I katástasi gínetai amfívoli.* | "The situation becomes doubtful." |
+| Η σύμβαση γίνεται άκυρη. | *I símvasi gínetai ákiri.* | "The contract becomes invalid." |
+
+**Notes:** γίνεται is the most general inchoative in Greek and is not specific to the truth domain. It is compatible with all truth-domain adjectives but carries no evidential or disclosure implication. In legal contexts, ακυρώνεται ("is invalidated") is more precise than γίνεται άκυρη for the specific legal act of annulment; γίνεται άκυρη describes the resulting state without specifying the cause.
+
+---
+
+### 1d. Inchoative expressions specific to individual vocabulary items
+
+Several P1–P5 items have inchoative expressions that are idiomatic to that item rather than following the general patterns above.
+
+**η αλήθεια βγαίνει στο φως** — "the truth comes to light"
+
+Documented in P2b as a fixed idiomatic construction. The verb βγαίνω ("to come out") combined with the noun φως ("light") expresses the inchoative emergence of truth from concealment. This construction is specific to αλήθεια and does not extend to other truth-domain items.
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η αλήθεια βγαίνει στο φως. | *I alíthia vgéni sto fos.* | "The truth comes to light." |
+
+**η αλήθεια αποκαλύπτεται** — "the truth is revealed"
+
+A variant of the αποκαλύπτεται pattern applied specifically to αλήθεια as subject. Documented in P2b (Construction 5: αποκαλύπτω την αλήθεια, "to reveal the truth").
+
+**ακυρώνεται** — "is invalidated, is cancelled"
+
+For the validity domain, the passive of ακυρώνω ("to invalidate") functions as the primary inchoative for the transition from έγκυρος to άκυρος. This is more specific than γίνεται άκυρη because it implies an agent performing the invalidation.
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η σύμβαση ακυρώθηκε. | *I símvasi akiróthike.* | "The contract was invalidated/cancelled." |
+
+---
+
+### 1e. "X becomes [non-truth / opposed state]"
+
+The same inchoative constructions documented above apply to the negative poles of the domain. The data supports the following patterns:
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Ο ισχυρισμός αποδείχθηκε ψευδής. | *O ischirismós apodíchthike psevdís.* | "The claim proved to be false." |
+| Η πηγή αποδείχθηκε αναξιόπιστη. | *I pigí apodíchthike anaksiópistos.* | "The source proved unreliable." |
+| Η σύμβαση ακυρώθηκε. | *I símvasi akiróthike.* | "The contract was invalidated." |
+| Η υπογραφή αποκαλύφθηκε ως πλαστή. | *I ipogrfí apokalífthike os plastí.* | "The signature was revealed to be forged." |
+
+No asymmetry is observed between the positive and negative poles in the inchoative constructions: the same verbs (αποδεικνύεται, αποκαλύπτεται, γίνεται) apply to both.
+
+---
+
+## 2. "Y CAUSES X TO BE [TRUTH-RELATED STATE]"
+
+### Overview
+
+As documented in P4a (Construction 5), Greek expresses causative truth-domain meanings exclusively through dedicated lexical verbs. There is no productive morphological causative applicable across the domain. Each verb encodes a specific causal relationship. The verbs documented in P1–P5 are treated individually below.
+
+---
+
+### 2a. επαληθεύω — "to verify, to confirm as true"
+
+**Pattern:** [Agent NP] + επαλήθευσε + [Theme NP]
+
+**Meaning:** The agent causes the theme to be established as true or confirmed.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η έρευνα επαλήθευσε τους ισχυρισμούς. | *I érevna epalíthefse tus ischirismús.* | "The investigation verified the claims." |
+| Τα αποτελέσματα επαλήθευσαν την υπόθεση. | *Ta apotelesmata epalíthefsan tin ipóthesi.* | "The results confirmed the hypothesis." |
+
+**Directionality:** Causes something to be established as true. Documented in P5 (Opposition 17) as the positive-pole causative, contrasting with διαψεύδω.
+
+**Passive form:** επαληθεύεται / επαληθεύτηκε — "is verified / was verified"
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η υπόθεση επαληθεύτηκε. | *I ipóthesi epalithéftike.* | "The hypothesis was verified." |
+
+---
+
+### 2b. διαψεύδω — "to refute, to deny, to show to be false"
+
+**Pattern:** [Agent NP] + διέψευσε + [Theme NP]
+
+**Meaning:** The agent causes the theme to be established as false or officially denied.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Η κυβέρνηση διέψευσε τις φήμες. | *I kivérnisi diépsfefse tis fímes.* | "The government refuted the rumors." |
+| Τα στοιχεία διέψευσαν τον ισχυρισμό. | *Ta stoichía diépsfefsan ton ischirismó.* | "The evidence disproved the claim." |
+
+**Directionality:** Causes something to be established as false. Documented in P5 (Opposition 17) as the negative-pole causative, contrasting with επαληθεύω.
+
+**Passive form:** διαψεύδεται / διαψεύστηκε — "is refuted / was refuted"
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Ο ισχυρισμός διαψεύστηκε. | *O ischirismós diapséftike.* | "The claim was refuted." |
+
+---
+
+### 2c. ακυρώνω — "to invalidate, to cancel, to annul"
+
+**Pattern:** [Agent NP] + ακύρωσε + [Theme NP]
+
+**Meaning:** The agent causes the theme to become invalid or null.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Το δικαστήριο ακύρωσε την απόφαση. | *To dikastírio akírose tin apófasi.* | "The court annulled the decision." |
+| Ακύρωσα το εισιτήριο. | *Akírosa to eisitírio.* | "I cancelled the ticket." |
+
+**Directionality:** Causes something to transition from έγκυρος to άκυρος. Documented in P2a under the κῦρος derivational family.
+
+**Passive form:** ακυρώνεται / ακυρώθηκε — "is invalidated / was invalidated"
+
+---
+
+### 2d. νοθεύω — "to adulterate, to falsify, to corrupt"
+
+**Pattern:** [Agent NP] + νόθευσε + [Theme NP]
+
+**Meaning:** The agent causes the theme to become adulterated, falsified, or corrupted — transitioning from genuine to νόθος.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Νόθευσαν τα τρόφιμα. | *Nóthefsan ta trófima.* | "They adulterated the food." |
+| Νόθευσαν το κείμενο. | *Nóthefsan to kímeno.* | "They corrupted/falsified the text." |
+
+**Directionality:** Causes something to become νόθος (adulterated, spurious). Documented in P2a and P3 (Group 4).
+
+---
+
+### 2e. πλαστογραφώ — "to forge, to falsify a document"
+
+**Pattern:** [Agent NP] + πλαστογράφησε + [Theme NP]
+
+**Meaning:** The agent causes the theme to become πλαστός (forged, fabricated).
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Πλαστογράφησε την υπογραφή. | *Plastográfise tin ipogrfí.* | "He/she forged the signature." |
+| Πλαστογράφησε το διαβατήριο. | *Plastográfise to diavatírio.* | "He/she forged the passport." |
+
+**Directionality:** Causes a document or signature to become πλαστός. Documented in P2a and P3 (Group 4).
+
+---
+
+### 2f. παραμορφώνω / στρεβλώνω την αλήθεια — "to distort the truth"
+
+**Pattern:** [Agent NP] + παραμόρφωσε/στρέβλωσε + την αλήθεια
+
+**Meaning:** The agent causes truth to become distorted or warped — not fully false, but no longer accurately representing reality.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Παραμόρφωσε την αλήθεια. | *Paramórfose tin alíthia.* | "He/she distorted the truth." |
+| Στρέβλωσε την αλήθεια. | *Strévlose tin alíthia.* | "He/she warped the truth." |
+
+**Notes:** These constructions are documented in P2b (Constructions 6 and 7 under αλήθεια). They describe a partial or gradual causative change — the truth is not made entirely false but is rendered misleading. The data notes that στρεβλώνω carries a slightly stronger connotation of deliberate warping than παραμορφώνω.
+
+---
+
+### 2g. κρύβω την αλήθεια — "to hide the truth"
+
+**Pattern:** [Agent NP] + έκρυψε + την αλήθεια
+
+**Meaning:** The agent causes truth to become inaccessible — not changing its truth-value but preventing its disclosure.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Έκρυψε την αλήθεια. | *Ékripse tin alíthia.* | "He/she hid the truth." |
+
+**Notes:** Documented in P2b (Construction 4 under αλήθεια). This is a causative of concealment rather than a causative of falsification: the truth remains true but is made unavailable. It contrasts with αποκαλύπτω την αλήθεια ("to reveal the truth"), which is the reverse causative.
+
+---
+
+### 2h. αποκαλύπτω την αλήθεια — "to reveal the truth"
+
+**Pattern:** [Agent NP] + αποκάλυψε + την αλήθεια
+
+**Meaning:** The agent causes truth to become accessible — bringing a concealed truth to light.
+
+**Attested examples from corpus:**
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Αποκάλυψε την αλήθεια. | *Apokalípse tin alíthia.* | "He/she revealed the truth." |
+
+**Notes:** Documented in P2b (Construction 5 under αλήθεια). The reverse of κρύβω την αλήθεια. Both constructions treat αλήθεια as an object that can be hidden or disclosed, rather than as a property that can be created or destroyed.
+
+---
+
+### 2i. Summary table of causative verbs
+
+| Verb | Transliteration | Directionality | Domain | Register |
+|---|---|---|---|---|
+| επαληθεύω | *epalithévo* | Causes X to be established as true | Propositional truth | Formal, scientific, journalistic |
+| διαψεύδω | *diapsévdo* | Causes X to be established as false | Propositional truth | Formal, journalistic, official |
+| ακυρώνω | *akiróno* | Causes X to become invalid/null | Legal validity | Legal, administrative |
+| νοθεύω | *nothévo* | Causes X to become adulterated/spurious | Physical/textual genuineness | Legal, regulatory, philological |
+| πλαστογραφώ | *plastografó* | Causes X to become forged | Documentary forgery | Legal, criminal |
+| παραμορφώνω (την αλήθεια) | *paramorfonó* | Causes truth to become distorted | Propositional truth | Journalistic, political |
+| στρεβλώνω (την αλήθεια) | *strevlóno* | Causes truth to become warped | Propositional truth | Formal, journalistic |
+| κρύβω (την αλήθεια) | *krívo* | Causes truth to become inaccessible | Propositional truth | All registers |
+| αποκαλύπτω (την αλήθεια) | *apokalípto* | Causes truth to become accessible | Propositional truth | All registers |
+
+---
+
+## 3. STABILITY EXPRESSIONS
+
+### Overview
+
+The data documents several constructions that assert the stability or persistence of a truth-related state — that something remains true, valid, or genuine over time, or that a state of doubt or falsity is resistant to change. These are not inchoative or causative but stative or continuative.
+
+---
+
+### 3a. παραμένει + [truth-domain adjective]
+
+**Pattern:** [Subject NP] + παραμένει + [truth-domain adjective]
+
+**Meaning:** "remains [X]" — the subject continues to be in the truth-related state
+
+**Attested basis:** The verb παραμένει ("remains, continues to be") is a general continuative copula in Greek. It is not specific to the truth domain but is compatible with all truth-domain adjectives documented in P1–P5.
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Ο ισχυρισμός παραμένει αναπόδεικτος. | *O ischirismós paraméni anapódiktos.* | "The claim remains unproven." |
+| Η σύμβαση παραμένει έγκυρη. | *I símvasi paraméni éngiri.* | "The contract remains valid." |
+| Η αμφιβολία παραμένει. | *I amfivolía paraméni.* | "The doubt remains." |
+
+**Notes:** παραμένει is the standard continuative copula and applies across the domain without restriction. It is the direct counterpart to the inchoative γίνεται in expressing the persistence rather than the onset of a state.
+
+---
+
+### 3b. εξακολουθεί να + [verbal expression]
+
+**Pattern:** [Subject NP] + εξακολουθεί να + [verb in subjunctive]
+
+**Meaning:** "continues to [do/be X]" — persistence of an action or state
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Εξακολουθεί να λέει ψέματα. | *Eksakoluthí na léi psémata.* | "He/she continues to tell lies." |
+| Εξακολουθεί να αμφισβητείται. | *Eksakoluthí na amfisviтítai.* | "It continues to be disputed." |
+
+**Notes:** εξακολουθεί να is a periphrastic continuative aspect marker applicable to verbal constructions. It is not specific to the truth domain but is compatible with truth-domain verbal expressions documented in P1–P5.
+
+---
+
+### 3c. Fixed expressions asserting stability of truth
+
+The data documents several fixed expressions that assert the stability or inevitability of truth coming to light, functioning as proverbial or semi-proverbial statements about the persistence of truth.
+
+| Greek | Transliteration | English | Source |
+|---|---|---|---|
+| Η αλήθεια βγαίνει στο φως. | *I alíthia vgéni sto fos.* | "The truth comes to light." | P2b |
+| Η αλήθεια πονάει. | *I alíthia ponái.* | "The truth hurts." | P2b |
+| Η αλήθεια είναι σκληρή. | *I alíthia íne sklirí.* | "The truth is hard/harsh." | P1b |
+| Η αλήθεια είναι στη μέση. | *I alíthia íne sti mési.* | "The truth lies in the middle." | P2b |
+
+**Notes:** These constructions treat αλήθεια as a stable, persistent entity with inherent properties (it hurts, it is harsh, it eventually emerges). They do not describe change but assert the enduring nature of truth as a value or force. They are documented in P1b and P2b and are not extended to other truth-domain items.
+
+---
+
+### 3d. χωρίς αμφιβολία — asserting stability of certainty
+
+**Pattern:** χωρίς αμφιβολία + [proposition]
+
+**Meaning:** "without doubt" — asserts that a state of certainty is stable and not subject to challenge
+
+Documented in P2b and P5 (Opposition 33) as a fixed prepositional construction used to assert certainty. It functions as a stability marker for epistemic states: the speaker asserts that no doubt attaches to the proposition.
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Χωρίς αμφιβολία, η απόφαση ήταν σωστή. | *Chorís amfivolía, i apófasi ítan sostí.* | "Without doubt, the decision was correct." |
+
+---
+
+### 3e. αναμφισβήτητα — asserting stability against contestation
+
+**Pattern:** αναμφισβήτητα + [proposition]
+
+**Meaning:** "indisputably" — asserts that a state is stable and cannot be challenged
+
+Documented in P2a and P5 (Opposition 15) as the adverbial form of αναμφισβήτητος. It functions as a stability marker asserting that a claim or status is beyond dispute.
+
+| Greek | Transliteration | English |
+|---|---|---|
+| Αναμφισβήτητα, πρόκειται για πλαστό έγγραφο. | *Anamfisviтita, prókitai ya plastó éngrafo.* | "Indisputably, this is a forged document." |
+
+---
+
+## 4. ASYMMETRIES AND GAPS
+
+### 4a. No common expression for "X becomes true" without evidential implication
+
+The data does not support a simple inchoative construction meaning "X becomes true" in the sense of a proposition acquiring truth-value without any evidential or disclosure component. The available inchoatives (αποδεικνύεται, αποκαλύπτεται) both carry additional implications — evidence establishing a state, or concealment being lifted. The general inchoative γίνεται αληθής is grammatical but is not attested as a common expression in the data.
+
+### 4b. Asymmetry between causatives for truth and falsity
+
+The data documents a near-symmetric pair for the propositional domain (επαληθεύω / διαψεύδω), but the causatives for the genuineness and validity domains are asymmetric: there are dedicated verbs for causing something to become invalid (ακυρώνω), adulterated (νοθεύω), or forged (πλαστογραφώ), but no dedicated single verb meaning "to make something genuine" or "to authenticate" in the same morphological pattern. The concept of authentication is expressed periphrastically (πιστοποιώ την αυθεντικότητα, "I certify the authenticity") rather than through a single dedicated causative verb parallel to νοθεύω or πλαστογραφώ.
+
+### 4c. Stability expressions are concentrated around αλήθεια
+
+The fixed proverbial and semi-proverbial stability expressions documented in the data (η αλήθεια βγαίνει στο φως, η αλήθεια πονάει, η αλήθεια είναι σκληρή) are all built around αλήθεια as subject. No parallel fixed stability expressions are attested for ψεύδος, γνησιότητα, εγκυρότητα, or other truth-domain nouns. This concentration is preserved from the data without inference about its cause.
+
+### 4d. No inchoative for the ψευδο- compounds
+
+The ψευδο- compound items (ψευδοεπιστήμη, ψευδοδημοκρατία, ψευδοδιανοούμενος, etc.) documented in P1b and P3 (Group 10) do not participate in inchoative or causative constructions in the data. They function as stable classificatory labels rather than as states that things enter or exit. No expression of the form "X becomes pseudoscience" or "Y causes X to be pseudo-intellectual" is attested in the corpus.

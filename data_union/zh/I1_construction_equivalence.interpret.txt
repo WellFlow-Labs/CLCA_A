@@ -1,0 +1,114 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + 是 + truth/authenticity adjective + 的; bare predicate (formal) | 这是真的。/ 他的陈述属实。/ 报道失实 | Direct; no substitution required | None |
+| **ADNOM** | Truth/authenticity adjective + 的 + Noun; 成语 + 的 + Noun | 可靠的证据 / 名副其实的专家 | Direct; no substitution required | None |
+| **BECOME** | 变得 + adjective (+ 了); 化-suffix; lexicalized 弄假成真 / 假戏真做 | 报道变得失实了。/ 合法化 / 弄假成真 | Partially available; productive form (变得) is semantically restricted; lexicalized forms cover only the false→genuine trajectory | Partial: 变得 is odd with categorical 真/假; no productive morphological inchoative |
+| **REVELATION** | Verb + 真相/事实/真伪 (revealing set): 揭露, 揭示, 查明, 还原 | 揭露真相 | Direct; no substitution required | None |
+| **CAUSATION (factual)** | 使/让 + NP + predicate; transitive verbs (证实, 核实, 掩盖); lexicalized 以假乱真 | 这种做法使报道失真。/ 掩盖真相 / 以假乱真 | Direct periphrastic; no dedicated morphological causative | Morphosyntactic: no dedicated causative morphology; periphrastic only |
+| **CAUSATION (character)** | 者-suffixed agentive nominalizations (negative pole only): 伪善者, 造假者, 欺骗者; colloquial 骗子 | 造假者 / 骗子 | Agentive nominalization serves as the closest structural equivalent; positive-pole character causation is absent via this construction | Asymmetric gap: negative-pole agentives are lexicalized; positive-pole ("truth-teller") is not lexicalized via 者-suffixation; circumlocution required for positive pole |
+| **VERIFICATION** | 经 + verification verb + result; 无法/无从 + verification verb | 经查属实 / 经调查证实 / 无法核实 / 无从判断真伪 | Direct; positive and negative verification share the same construction slot (经… vs. 无法/无从…) | None |
+| **DISCONFIRMATION** | Subject + 不是 + adjective + 的; Subject + 不 + adjective; 并非; lexicalized 失实/失真 | 这不是真的。/ 他的判断不准确。/ 该陈述并非属实。/ 这篇报道严重失实。 | Direct; multiple competing patterns (analytic negation, formal 并非, lexicalized compounds) | None |
+| **NEGATION** | 不是…的 (copular negation); 不 + adjective (direct); 并非 (formal); lexicalized negative compounds (失实, 失真) | 这不是真的。/ 他的判断不准确。/ 这篇报道严重失实。 | Analytic (syntactic) negation is the primary pattern; morphological negation is restricted to lexicalized compounds | Morphosyntactic note: no productive morphological negation; lexicalized negative compounds (失实, 失真) are not decomposable as productive negation |
+| **NOMINALIZATION** | Base + 性 (property); Base + 上 (adverbial); Base + 度 (degree, restricted); Base + 感 (experiential); Base + 主义 (ideological); Base + 者 (agentive) | 真实性 / 事实上 / 失真度 / 真实感 / 写实主义 / 造假者 | Direct; multiple suffix types cover distinct nominalization subtypes | Partial: 性 does not attach to monosyllabic roots (真, 假) or verbal items productively; 度 is restricted to 失真度 only |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION does not substitute for BECOME
+
+In Chinese as documented in P4a and P4b, REVELATION (揭露真相, 查明真相) and BECOME (变得失实, 弄假成真) are structurally and semantically distinct construction types. REVELATION encodes an epistemic transition — a state of affairs that was hidden becomes known to an agent — while BECOME encodes an ontological transition — a property changes. No evidence in P4a or P4b supports the claim that REVELATION systematically substitutes for BECOME in this language. They co-occur in the same domain without overlap in function.
+
+### 2.2 BECOME is partially available and asymmetrically distributed
+
+The productive periphrastic inchoative (变得 + adjective + 了) applies to gradable truth-domain adjectives (准确, 可靠, 客观, 失实) but is documented as semantically odd with categorical 真/假. The lexicalized four-character expressions 弄假成真 and 假戏真做 cover only one specific inchoative trajectory: false/pretend → genuine/real. No lexicalized expression for the reverse trajectory (genuine → false) is attested in P4a or P4b. This constitutes an asymmetric gap within the BECOME operator: the false-to-genuine direction is lexicalized; the genuine-to-false direction is not.
+
+### 2.3 VERIFICATION and DISCONFIRMATION share the same construction slot
+
+The 经 + verification verb + result frame (经查属实, 经调查证实) and the 无法/无从 + verification verb frame (无法核实, 无从判断真伪) are structurally parallel and occupy the same construction type. Positive verification (completed, confirmed) uses 经…; negative verification (impossible, incomplete) uses 无法/无从…. These are not separate construction types but positive and negative poles of a single VERIFICATION construction. DISCONFIRMATION in the sense of "found to be false" is expressed through the NEGATION constructions (不是真的, 失实, 并非属实) rather than through the VERIFICATION frame, which is neutral with respect to the truth value of the outcome and only asserts whether verification was completed.
+
+### 2.4 NEGATION is analytic, not morphological
+
+Negation in the truth domain is expressed syntactically: 不是…的 (copular negation), 不 + adjective (direct pre-adjectival negation), and 并非 (formal written negation). No productive morphological negation prefix or suffix is attested. The lexicalized compounds 失实 and 失真 incorporate a negative outcome semantically but are not decomposable as instances of a productive negation morpheme in current usage; they function as unanalyzed predicates. The choice among the three analytic negation patterns reflects register (并非 is formal/written) and pragmatic emphasis (不是…的 is contrastive; 不 + adjective is neutral) rather than grammatical distinction.
+
+### 2.5 CAUSATION (character) is asymmetric: negative pole only
+
+The agentive nominalization construction (base + 者) is attested exclusively for negative-pole agents in this domain: 伪善者, 造假者, 作假者, 欺骗者, 伪造者, 假冒者, 伪装者. No positive-pole agentive ("truth-teller," "honest reporter") is lexicalized via 者-suffixation. The colloquial agentive 骗子 (suffix 子) is also restricted to the negative pole. Positive-pole character agents are expressed only through periphrastic constructions (说真话的人, 如实陈述的人) or through the compound 诚实的人, neither of which uses the 者 or 子 agentive suffix. This is a consistent asymmetric gap across both formal and colloquial registers.
+
+### 2.6 CAUSATION (factual) avoids the positive pole
+
+The periphrastic causative 使/让 + NP + predicate is documented as most commonly attested with distortion and negative-outcome predicates (使报道失真, 使数据失真) rather than with truth-positive predicates. No example of 使报道真实 or 使判断正确 is attested in P4a or P4b. This is a collocational asymmetry within an otherwise productive construction: the construction is structurally available for both poles but is preferentially used for the negative (distortion) pole in the truth domain.
+
+### 2.7 PROHIBITIVE construction is domain-restricted
+
+The prohibitive/normative construction (严禁/不得 + verb phrase) is restricted to the deliberate-falsification sub-domain (弄虚作假, 造假, 欺骗, 伪造). It does not extend to truth-evaluation adjectives (正确, 真实) or authenticity nouns (真相, 事实). No positive-obligation counterpart in the same construction type is attested; positive obligations to be truthful are expressed through different constructions (如实陈述, 诚实守信). This is a one-sided distribution within the normative construction type.
+
+### 2.8 ADVERBIAL TRUTH-FRAMING as a distinct operator
+
+The adverbial truth-framing construction (如实 + verb, 据实 + verb, 实事求是地 + verb) and the discourse-marker construction (事实上, 本质上, 实质上) are documented as distinct construction types in P4a and P4b. Both involve truth-domain elements modifying or framing propositions, but they differ in syntactic function (manner adverbial vs. sentence-level frame-setter) and in the verbs they combine with. Neither maps cleanly onto the ten canonical CLCA operators listed in the task; they are noted here as constructions present in the data that fall outside the canonical operator inventory.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps (morphosyntactic constructions absent)
+
+- **No dedicated causative morphology.** Chinese has no morphological causative marker. CAUSATION (factual) is expressed exclusively through the periphrastic 使/让 + NP + predicate frame or through the semantics of transitive verbs (证实, 核实, 掩盖). This is a morphosyntactic gap relative to languages with dedicated causative morphology, but it is not a functional gap: the periphrastic construction is fully productive.
+
+- **No productive morphological inchoative.** BECOME is expressed periphrastically (变得 + adjective) or through the 化-suffix on disyllabic stative bases. No morphological inchoative marker applies uniformly across the truth domain. The 化-suffix does not attach to monosyllabic roots (真, 假); 变得 is semantically restricted with categorical 真/假.
+
+- **No productive morphological negation.** NEGATION is expressed analytically (不是…的, 不 + adjective, 并非). Lexicalized negative compounds (失实, 失真) are not instances of a productive negation morpheme.
+
+### 3.2 Lexical Gaps (missing words)
+
+- **No lexicalized positive-pole agentive.** A single-word or 者-suffixed form meaning "truth-teller" or "honest reporter" is not attested. The nearest equivalents are periphrastic (说真话的人, 如实陈述的人).
+
+- **No lexicalized inchoative for genuine→false trajectory.** 弄假成真 and 假戏真做 cover the false→genuine direction only. No parallel fixed expression for the reverse direction (genuine→false) is attested in P4a or P4b.
+
+- **No adverbial form for the negative pole of 如实.** The adverbial 如实 ("in accordance with the facts") has no attested negative parallel (*如假陈述 is documented as unattested). The negative is expressed periphrastically (虚假陈述, 不如实陈述).
+
+- **No 性-nominalization on monosyllabic roots.** 真性 and 假性 are documented as restricted to medical classifier use rather than functioning as free abstract nouns equivalent to 真实性 or 虚假性.
+
+### 3.3 Conceptual Gaps (operations blocked or unattested)
+
+- **CAUSATION (character), positive pole: NO COMMON EXPRESSION — circumlocution required.** The concept of a person characterized by truth-telling is not expressed through the agentive nominalization construction. It requires circumlocution (说真话的人, 诚实的人). This is not merely a lexical gap but a gap in the constructional pattern itself: the 者-suffix construction is not applied to positive-pole truth-domain bases.
+
+- **BECOME with categorical 真/假: NO COMMON EXPRESSION — circumlocution required.** The inchoative construction 变得 + adjective is documented as semantically odd when applied to categorical 真/假. Expressing "this became true" in the sense of a categorical shift requires either the lexicalized 弄假成真 (restricted to the false→genuine direction) or circumlocution.
+
+### 3.4 Asymmetric Gaps (only one pole attested)
+
+| Domain | Positive Pole | Negative Pole | Gap |
+|---|---|---|---|
+| Agentive nominalization (者) | Not lexicalized (circumlocution required) | Fully lexicalized: 造假者, 伪善者, 欺骗者, 骗子 | Positive pole missing |
+| Inchoative (lexicalized) | 弄假成真, 假戏真做 (false→genuine) | No lexicalized form (genuine→false) | Negative direction missing |
+| Causative collocations | Rare / not attested in data | Dominant: 使报道失真, 使数据失真 | Positive pole underattested |
+| Prohibitive construction | Not attested (positive obligation uses different constructions) | Fully attested: 严禁弄虚作假, 不得造假 | Positive pole missing from this construction type |
+| Adverbial truth-framing | 如实, 据实 (fully attested) | No parallel negative adverbial (*如假 unattested) | Negative pole missing |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Multiple constructions: 是…的 frame (default), bare predicate (formal), 属实 (fixed legal predicate). Productive across the full truth-domain vocabulary. |
+| **ADNOM** | Fully available | Adjective + 的 + Noun is the standard attributive construction; productive across all truth-domain adjectives. Monosyllabic roots require 的 as free modifiers; tight compounds omit it. |
+| **BECOME** | Partially available | 变得 + adjective is productive for gradable adjectives but restricted with categorical 真/假. Lexicalized forms (弄假成真, 假戏真做) cover only the false→genuine direction. 化-suffix is productive on disyllabic stative bases only. |
+| **REVELATION** | Fully available | Verb + 真相/事实/真伪 collocations are the most productive construction type in the domain; two semantic sets (revealing vs. concealing) are both fully attested. |
+| **CAUSATION (factual)** | Available with substitution | No dedicated causative morphology; expressed periphrastically via 使/让 + NP + predicate. Productive but morphosyntactically periphrastic. Collocational asymmetry: negative-outcome predicates are dominant in attested examples. |
+| **CAUSATION (character)** | Partially available | Negative-pole agentive nominalization (者-suffix) is fully productive. Positive-pole character causation is not lexicalized via this construction; circumlocution required for positive pole. |
+| **VERIFICATION** | Fully available | 经 + verification verb + result (positive); 无法/无从 + verification verb (negative). Both poles are attested and conventionalized in formal registers. |
+| **DISCONFIRMATION** | Fully available | Multiple constructions: 不是…的, 不 + adjective, 并非, lexicalized 失实/失真. Register variation is attested (formal vs. neutral vs. colloquial). |
+| **NEGATION** | Fully available | Analytic negation is the primary pattern; three competing constructions (不是…的, 不 + adjective, 并非) reflect register and pragmatic emphasis. No productive morphological negation. Lexicalized negative compounds (失实, 失真) are not instances of productive negation morphology. |
+| **NOMINALIZATION** | Partially available | 性-suffix is the dominant property nominalizer; productive on disyllabic adjectival compounds but not on monosyllabic roots or verbal items. 上-forms are adverbial, not nominal. 度 is restricted to 失真度. 感 and 主义 cover distinct semantic subtypes. 者-suffix covers agentive nominalization for the negative pole only. |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — Chinese (zh)*

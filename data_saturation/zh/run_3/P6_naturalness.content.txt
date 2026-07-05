@@ -1,0 +1,355 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Chinese encodes dynamic meanings — becoming, causing, losing, and maintaining truth-related states — using vocabulary attested in the CONTEXT. Chinese does not have a single dedicated morpheme for "become" or "cause to be"; dynamic meanings are expressed through a range of constructions including resultative complements, the suffix 化, the verb 成, aspect markers, and periphrastic causative frames. Each truth-domain item is treated separately where its behavior differs. Where no common expression is attested in the CONTEXT, this is stated explicitly.
+
+All vocabulary is drawn from P1, P1b, P2a, P2b, P3, P4, and P5. No new items are introduced.
+
+---
+
+## SECTION 1: "X becomes [truth-related state]"
+
+### 1.1 Becoming genuine / real (真, 真实, 真正)
+
+**Pattern:** 弄假成真 (nòng jiǎ chéng zhēn)
+**Transliteration:** nòng jiǎ chéng zhēn
+**English:** What started as a pretense becomes reality; fiction becomes fact
+**Structure:** Verb + Object + Resultative complement 成 + 真
+**Notes:** This is the primary attested construction in the CONTEXT for the transition into a state of being genuine (P1b Root 1 item 12; P5 Opposition 4 notes). The resultative complement 成 ("become, turn into") encodes the change-of-state. The construction is a fixed four-character expression (成语) and is not freely generalized: *弄实成真 or *变假成真 are not attested. The direction of change is from false/pretend toward genuine, and the change is typically unintended or ironic.
+
+**Pattern:** 变成真的 (biànchéng zhēn de)
+**Transliteration:** biànchéng zhēn de
+**English:** To become real; to turn into something genuine
+**Structure:** 变成 (to become/turn into) + 真的
+**Notes:** 变成 is a general-purpose inchoative verb in Chinese. The CONTEXT does not attest this specific form as a fixed expression, but 变成 combines productively with 真的 as the general periphrastic frame for "become real/genuine." This is the open productive pattern where 弄假成真 is the fixed idiomatic one.
+
+**Pattern:** 真实化 (zhēnshíhuà)
+**Transliteration:** zhēnshíhuà
+**English:** To make realistic; to render authentic; to bring closer to reality
+**Structure:** 真实 + 化 (suffix)
+**Notes:** Documented in P2a (item 2) as [MARGINAL]. The 化 suffix encodes a process of becoming or making more 真实. Restricted to aesthetic and media contexts ("角色真实化" — making characters more realistic). Not a general inchoative for "becoming true."
+
+---
+
+### 1.2 Becoming correct (正确)
+
+**Pattern:** (no common expression identified)
+**Notes:** The CONTEXT does not attest a fixed or common construction for "X becomes correct." The concept is typically expressed through correction constructions (纠正错误 — to correct an error, P2b construction 21) rather than through an inchoative frame applied to 正确 itself. The form *正确化 is not attested in the CONTEXT.
+
+---
+
+### 1.3 Becoming lawful / legitimate (合法化)
+
+**Pattern:** 合法化 (héfǎhuà)
+**Transliteration:** héfǎhuà
+**English:** To legalize; to become lawful; legalization
+**Structure:** 合法 + 化 (suffix)
+**Notes:** Documented in P2a (item 10) as [CORE] and in P4a (Construction 4) as the primary attested inchoative in this domain. The 化 suffix encodes both "to become lawful" (intransitive) and "to make lawful" (transitive/causative); the two readings are not morphologically distinguished. Common in political, legal, and social discourse ("大麻合法化" — legalization of cannabis). This is the most fully lexicalized inchoative in the truth-domain vocabulary of the CONTEXT.
+
+---
+
+### 1.4 Becoming pragmatic / realistic (务实化, 现实化)
+
+**Pattern:** 现实化 (xiànshíhuà)
+**Transliteration:** xiànshíhuà
+**English:** To realize; to make real; to actualize; to become realistic
+**Structure:** 现实 + 化 (suffix)
+**Notes:** Documented in P2a (item 18) as [MARGINAL]. Used to describe the process of bringing something from possibility into actual existence ("将目标现实化" — to actualize a goal). Less common than 实现 (shíxiàn), which is the standard term for "to realize/achieve." The CONTEXT notes that 现实化 is attested in formal and analytical contexts.
+
+**Pattern:** (务实化 — no common expression identified)
+**Notes:** The CONTEXT does not attest 务实化 as a productive form. The concept of "becoming pragmatic" is expressed through evaluative constructions (务实的态度 — a pragmatic attitude) rather than through an inchoative frame.
+
+---
+
+### 1.5 Becoming moralized (道德化)
+
+**Pattern:** 道德化 (dàodéhuà)
+**Transliteration:** dàodéhuà
+**English:** To moralize; to make moral; moralization
+**Structure:** 道德 + 化 (suffix)
+**Notes:** Documented in P2a (item 12) as [CORE]. Describes the process of framing something in moral terms or imposing moral standards on a domain ("将问题道德化" — to moralize an issue). The CONTEXT notes that 道德化 carries a somewhat critical connotation in contemporary usage, suggesting inappropriate or excessive application of moral judgment. This is therefore an inchoative with an evaluative valence rather than a neutral process description.
+
+---
+
+### 1.6 Summary of attested "become" patterns
+
+| Base | Inchoative form | Status | Notes |
+|---|---|---|---|
+| 真 (genuine) | 弄假成真 (fixed idiom) | [MARGINAL] as open pattern | Fixed expression only; not productive |
+| 真实 (truthful/realistic) | 真实化 | [MARGINAL] | Aesthetic/media contexts only |
+| 合法 (lawful) | 合法化 | [CORE] | Most productive inchoative in this domain |
+| 现实 (real/realistic) | 现实化 | [MARGINAL] | Formal/analytical contexts |
+| 道德 (moral) | 道德化 | [CORE] | Carries critical connotation |
+| 正确 (correct) | (none attested) | — | Expressed through correction constructions |
+| 准确 (accurate) | (none attested) | — | No 化 form attested |
+| 可靠 (reliable) | (none attested) | — | No 化 form attested |
+| 诚实 (honest) | (none attested) | — | No 化 form attested |
+
+---
+
+## SECTION 2: "X becomes [non-truth / opposed state]"
+
+### 2.1 Losing fidelity / becoming distorted (失真, 失实)
+
+**Pattern:** 信号失真 / 图像失真 (xìnhào shīzhēn / túxiàng shīzhēn)
+**Transliteration:** xìnhào shīzhēn / túxiàng shīzhēn
+**English:** The signal becomes distorted; the image loses fidelity
+**Structure:** Subject + 失真 (stative verb / resultative)
+**Notes:** Documented in P2b (constructions 60 and 61) as [CORE]. 失真 encodes a change-of-state in which a representation departs from its original or from reality. The morpheme 失 (to lose/depart from) is itself a change-of-state marker: 失真 means "has lost 真 (fidelity)." The construction is used in both technical (audio, imaging) and evaluative contexts.
+
+**Pattern:** 报道失实 (bàodào shīshí)
+**Transliteration:** bàodào shīshí
+**English:** The report becomes / is inaccurate; the reporting departs from the facts
+**Structure:** Subject + 失实 (stative verb / resultative)
+**Notes:** Documented in P2b (construction 37) as [CORE]. Parallel to 失真: the morpheme 失 encodes departure from 实 (factual reality). Used in journalistic and legal contexts. The CONTEXT notes that 失实 does not necessarily imply deliberate deception, distinguishing it from 虚假.
+
+**Notes on 失 as a change-of-state marker:** Both 失真 and 失实 share the morpheme 失 (to lose, to depart from), which encodes the transition from a state of fidelity or accuracy into a state of distortion or inaccuracy. This is the primary lexicalized pattern in the CONTEXT for "becoming non-true/non-accurate." The morpheme 失 functions as a built-in inchoative marker within these compounds.
+
+---
+
+### 2.2 Becoming illegal / unlawful
+
+**Pattern:** (no common expression identified)
+**Notes:** The CONTEXT does not attest a form *违法化 or a common construction for "X becomes illegal." The concept is typically expressed through the legal evaluation frame (违法行为 — illegal conduct; 认定违法性 — to determine illegality) rather than through an inchoative construction. The asymmetry with 合法化 (Section 1.3) is noted in P5 (Opposition 9): the process of becoming lawful is lexicalized, but the process of becoming unlawful is not expressed by a parallel 化-form in the attested data.
+
+---
+
+### 2.3 Becoming divorced from reality
+
+**Pattern:** 脱离实际 / 脱离现实 (tuōlí shíjì / tuōlí xiànshí)
+**Transliteration:** tuōlí shíjì / tuōlí xiànshí
+**English:** To become divorced from reality; to lose touch with actual conditions
+**Structure:** 脱离 (to depart from / become separated from) + 实际 / 现实
+**Notes:** Documented in P2b (constructions 75 and 77) as [CORE]. The verb 脱离 (to break away from, to become separated from) encodes a change-of-state in which contact with actual conditions is lost. This is the primary attested construction for "becoming out of touch with reality" in the CONTEXT. The CONTEXT notes that 脱离实际 is more common in administrative and political discourse, while 脱离现实 is more common in everyday speech (P5 Opposition 21).
+
+---
+
+### 2.4 Becoming false through pretense (弄假成真 — reverse reading)
+
+**Pattern:** (no common expression identified for the reverse direction)
+**Notes:** The CONTEXT attests 弄假成真 (pretense becomes reality) but does not attest a parallel expression for the reverse transition (something genuine becoming fake or false). The concept of deliberate falsification is expressed through action verbs (伪造, 作假, 弄虚作假) rather than through an inchoative frame applied to 假 or 虚假.
+
+---
+
+## SECTION 3: "Y causes X to be [truth-related state]"
+
+### 3.1 Causing something to be confirmed / verified
+
+**Pattern:** 证实 (zhèngshí)
+**Transliteration:** zhèngshí
+**English:** To confirm; to verify; to prove to be true
+**Structure:** Transitive verb: Agent + 证实 + Object (claim/information)
+**Notes:** Documented in P1b Root 2 (item 10) and P2b (constructions 82–83) as [CORE]. 证实 is a transitive verb in which an agent (investigation, evidence, a person) causes a claim to be established as true. The causative reading is inherent in the verb's transitivity: "经调查证实" (confirmed by investigation) — the investigation causes the claim to be in a state of being confirmed.
+
+**Pattern:** 核实 (héshí)
+**Transliteration:** héshí
+**English:** To verify; to confirm; to check the facts
+**Structure:** Transitive verb: Agent + 核实 + Object (information/claim)
+**Notes:** Documented in P1b Root 2 (item 9) and P2b (constructions 80–81) as [CORE]. Parallel to 证实 in causative structure; the agent performs a checking process that causes the information to be in a verified state. The negative form 无法核实 (cannot be verified) encodes the failure of this causative process.
+
+**Pattern:** 查实 (cháshí)
+**Transliteration:** cháshí
+**English:** To investigate and confirm; to verify through inquiry
+**Structure:** Transitive verb: Agent + 查实 + Object
+**Notes:** Documented in P1b Root 2 (item 11) as [CORE]. More formal and procedural than 核实; the causative structure is the same.
+
+**Pattern:** 坐实 (zuòshí)
+**Transliteration:** zuòshí
+**English:** To nail down a fact; to establish as confirmed; to confirm definitively
+**Structure:** Transitive verb: Agent/process + 坐实 + Object (rumor/allegation)
+**Notes:** Documented in P1b Root 2 (item 12) as [CORE] (colloquial). The causative reading: something (evidence, events) causes a rumor or allegation to be in a state of being definitively confirmed. "坐实了传言" — the rumor has been confirmed (lit. settled-real the rumor).
+
+---
+
+### 3.2 Causing something to be false / distorted
+
+**Pattern:** 歪曲事实 (wāiqū shìshí)
+**Transliteration:** wāiqū shìshí
+**English:** To distort the facts; to cause the facts to be misrepresented
+**Structure:** Transitive verb: Agent + 歪曲 + 事实
+**Notes:** Documented in P2b (construction 71) as [CORE]. The agent deliberately causes the facts to be in a distorted state. The causative meaning is inherent in the transitivity of 歪曲 (to twist/distort).
+
+**Pattern:** 捏造事实 (niēzào shìshí)
+**Transliteration:** niēzào shìshí
+**English:** To fabricate facts; to cause false facts to exist
+**Structure:** Transitive verb: Agent + 捏造 + 事实
+**Notes:** Documented in P2b (construction 72) as [CORE]. The agent causes false factual claims to come into existence. The CONTEXT notes this is legally significant in Chinese defamation law.
+
+**Pattern:** 伪造文件 / 伪造证据 (wěizào wénjiàn / wěizào zhèngjù)
+**Transliteration:** wěizào wénjiàn / wěizào zhèngjù
+**English:** To forge documents; to fabricate evidence
+**Structure:** Transitive verb: Agent + 伪造 + Object
+**Notes:** Documented in P2b (constructions 32–33) as [CORE]. The agent causes a document or piece of evidence to be in a false/counterfeit state. The causative meaning is inherent in the transitivity of 伪造.
+
+**Pattern:** 以假乱真 (yǐ jiǎ luàn zhēn)
+**Transliteration:** yǐ jiǎ luàn zhēn
+**English:** To use counterfeits to confuse the genuine; to cause genuine items to be indistinguishable from fakes
+**Structure:** 以 (using) + 假 + 乱 (confuse/disorder) + 真
+**Notes:** Documented in P1b Root 1 (item 11) as [CORE]. The agent uses fake items to cause a state of confusion in which genuine items can no longer be reliably identified. The causative element is 乱 (to cause disorder/confusion in).
+
+---
+
+### 3.3 Causing someone to be deceived
+
+**Pattern:** 欺骗消费者 (qīpiàn xiāofèizhě)
+**Transliteration:** qīpiàn xiāofèizhě
+**English:** To deceive consumers; to cause consumers to hold false beliefs
+**Structure:** Transitive verb: Agent + 欺骗 + Object (person)
+**Notes:** Documented in P2b (construction 64) as [CORE]. The agent causes the object (consumers, persons) to be in a state of being deceived. The causative meaning is inherent in the transitivity of 欺骗.
+
+**Pattern:** 受到欺骗 (shòudào qīpiàn)
+**Transliteration:** shòudào qīpiàn
+**English:** To be deceived; to be caused to be in a state of deception
+**Structure:** Subject + 受到 + 欺骗 (passive-like: "receive/undergo deception")
+**Notes:** Documented in P2b (construction 65) as [CORE]. This is the patient-perspective construction: the subject undergoes the causative act of deception. 受到 + verbal noun is the standard Chinese construction for expressing that a subject is subjected to something.
+
+---
+
+### 3.4 Causing something to be legalized (合法化 — causative reading)
+
+**Pattern:** 将…合法化 (jiāng … héfǎhuà)
+**Transliteration:** jiāng … héfǎhuà
+**English:** To legalize X; to cause X to become lawful
+**Structure:** 将 (disposal marker, marks object) + Object + 合法化
+**Notes:** The 化 suffix in 合法化 is ambiguous between an intransitive inchoative reading ("X becomes lawful") and a transitive causative reading ("Y causes X to become lawful"). The CONTEXT attests the causative reading explicitly: "将非正式行为合法化" — to legalize informal practices (P2a item 10). The 将 + Object + 化-verb frame is the standard Chinese construction for the causative reading of 化-verbs.
+
+---
+
+### 3.5 Causing something to be moralized (道德化 — causative reading)
+
+**Pattern:** 将问题道德化 (jiāng wèntí dàodéhuà)
+**Transliteration:** jiāng wèntí dàodéhuà
+**English:** To moralize an issue; to cause an issue to be framed in moral terms
+**Structure:** 将 + Object + 道德化
+**Notes:** Documented in P2a (item 12) as [CORE]. The same 将 + Object + 化-verb causative frame as 合法化. The CONTEXT notes that this construction carries a critical connotation of inappropriate moralization.
+
+---
+
+## SECTION 4: Stability — Maintaining a truth-related state
+
+### 4.1 Maintaining correctness / the correct direction
+
+**Pattern:** 保持正确方向 (bǎochí zhèngquè fāngxiàng)
+**Transliteration:** bǎochí zhèngquè fāngxiàng
+**English:** To maintain the correct direction; to stay on the right course
+**Structure:** 保持 (to maintain/keep) + 正确方向
+**Notes:** Documented in P2b (construction 18) as [CORE]. 保持 (to maintain, to keep in a state) is the primary verb for encoding stability of a state in Chinese. The construction asserts that a correct orientation is being preserved over time. Common in political and administrative discourse.
+
+---
+
+### 4.2 Upholding the principle of seeking truth from facts
+
+**Pattern:** 坚持实事求是 (jiānchí shíshì qiúshì)
+**Transliteration:** jiānchí shíshì qiúshì
+**English:** To uphold the principle of seeking truth from facts; to adhere to an empirical approach
+**Structure:** 坚持 (to uphold/adhere to/persist in) + 实事求是
+**Notes:** Documented in P2b (construction 87) as [CORE]. 坚持 (to persist in, to hold firm to) encodes the maintenance of a normative orientation over time and against potential deviation. This is the canonical stability construction for 实事求是 in Chinese political discourse.
+
+---
+
+### 4.3 Maintaining honesty and trustworthiness
+
+**Pattern:** 诚实守信 (chéngshí shǒuxìn)
+**Transliteration:** chéngshí shǒuxìn
+**English:** Honest and trustworthy; to be honest and keep one's word
+**Structure:** 诚实 (honest) + 守信 (to keep one's word / maintain trustworthiness)
+**Notes:** Documented in P2b (construction 62) as [CORE]. 守 (to guard, to maintain, to keep) in 守信 encodes the ongoing maintenance of a commitment to trustworthiness. The construction pairs a character attribute (诚实) with a behavioral commitment to maintaining it (守信). Used as a moral principle in educational and civic contexts.
+
+---
+
+### 4.4 Maintaining contact with reality
+
+**Pattern:** 从实际出发 (cóng shíjì chūfā)
+**Transliteration:** cóng shíjì chūfā
+**English:** To proceed from actual conditions; to take reality as the starting point
+**Structure:** 从 (from) + 实际 + 出发 (to set out / to proceed)
+**Notes:** Documented in P2b (construction 76) as [CORE]. While primarily a directional/methodological construction, it encodes the ongoing maintenance of grounding in actual conditions as a normative starting point. Its contrast with 脱离实际 (Section 2.3) makes the stability dimension explicit: 从实际出发 describes the correct stable orientation; 脱离实际 describes its loss.
+
+---
+
+### 4.5 Maintaining solid foundations (扎实, 踏实)
+
+**Pattern:** 基础扎实 (jīchǔ zhāshí)
+**Transliteration:** jīchǔ zhāshí
+**English:** The foundations are solid; to have well-grounded foundations
+**Structure:** Subject + 扎实 (predicate adjective)
+**Notes:** Documented in P1b Root 2 (item 15) as [CORE]. 扎实 describes a stable state of being thoroughly grounded; it does not encode change but rather the absence of change — the persistence of a solid foundation. Used in educational and professional contexts.
+
+**Pattern:** 心里踏实 (xīnlǐ tāshí)
+**Transliteration:** xīnlǐ tāshí
+**English:** Feeling settled in one's heart; at ease; psychologically grounded
+**Structure:** Subject + 踏实 (predicate adjective)
+**Notes:** Documented in P1b Root 2 (item 14) as [CORE]. 踏实 describes a stable psychological state of being settled and grounded. Like 扎实, it encodes the persistence of a stable state rather than a change.
+
+---
+
+## SECTION 5: Resistance to change — Constructions asserting that a truth-related state cannot be altered
+
+### 5.1 Evidence that cannot be refuted
+
+**Pattern:** 证据确凿 (zhèngjù quèzáo)
+**Transliteration:** zhèngjù quèzáo
+**English:** The evidence is conclusive; the evidence cannot be overturned
+**Structure:** Subject + 确凿 (predicate adjective)
+**Notes:** Documented in P2b (construction 67) as [CORE]. 确凿 (conclusive, irrefutable) encodes not merely that evidence is currently true but that it is resistant to challenge or refutation — a stability claim about the epistemic status of evidence. The CONTEXT notes that 确凿 is used "almost exclusively to modify 证据 (evidence) or similar nouns, asserting that evidence is firm and beyond doubt" (P1 item 30).
+
+**Pattern:** 千真万确 (qiān zhēn wàn què)
+**Transliteration:** qiān zhēn wàn què
+**English:** Absolutely true, beyond all doubt, one hundred percent certain
+**Structure:** Fixed four-character expression used as predicate or adverbial
+**Notes:** Documented in P1b Root 1 (item 9) as [CORE]. The hyperbolic quantifiers 千 (thousand) and 万 (ten thousand) encode the claim that the truth of a proposition is so thoroughly established that it cannot be doubted or overturned. This is a stability claim expressed through emphatic assertion.
+
+---
+
+### 5.2 Truth that cannot be verified (epistemic limitation)
+
+**Pattern:** 无法核实 (wúfǎ héshí)
+**Transliteration:** wúfǎ héshí
+**English:** Cannot be verified; impossible to confirm
+**Structure:** 无法 (unable to / impossible to) + 核实
+**Notes:** Documented in P2b (construction 81) as [CORE]. This construction encodes a different kind of stability: not that a truth-state is maintained, but that the process of establishing a truth-state cannot be completed. The CONTEXT identifies this as "a standard epistemic hedge in responsible journalism" (P2b). It is the negative counterpart of the verification/confirmation constructions in Section 3.1.
+
+---
+
+## SECTION 6: Summary of dynamic patterns
+
+| Dynamic type | Primary construction(s) | Status | Domain |
+|---|---|---|---|
+| Becoming genuine (from fake) | 弄假成真 | [MARGINAL] as open pattern | Fixed idiom only |
+| Becoming lawful | 合法化; 将…合法化 | [CORE] | Legal/political |
+| Becoming realistic | 真实化; 现实化 | [MARGINAL] | Aesthetic/analytical |
+| Becoming moralized | 道德化; 将…道德化 | [CORE] | Social/critical |
+| Losing fidelity | 失真; 失实 | [CORE] | Technical/journalistic |
+| Becoming divorced from reality | 脱离实际; 脱离现实 | [CORE] | Political/everyday |
+| Becoming unlawful | (none attested) | — | Asymmetric gap |
+| Causing to be confirmed | 证实; 核实; 查实; 坐实 | [CORE] | Journalistic/legal/admin |
+| Causing to be distorted/false | 歪曲事实; 捏造事实; 伪造; 以假乱真 | [CORE] | Legal/journalistic |
+| Causing to be deceived | 欺骗; 受到欺骗 | [CORE] | Legal/moral/everyday |
+| Maintaining correctness | 保持正确方向 | [CORE] | Political/admin |
+| Maintaining empirical grounding | 坚持实事求是; 从实际出发 | [CORE] | Political/admin |
+| Maintaining honesty | 诚实守信 | [CORE] | Moral/civic |
+| Resisting change (evidence) | 证据确凿; 千真万确 | [CORE] | Legal/everyday |
+| Epistemic limitation | 无法核实 | [CORE] | Journalistic |
+
+---
+
+## Structural Observations
+
+**1. The 失 morpheme as a built-in change-of-state marker.**
+The CONTEXT attests two compounds — 失真 and 失实 — in which the morpheme 失 (to lose, to depart from) encodes the transition from a truth-related state into its absence. This is the most grammaticalized change-of-state pattern in the truth domain: the inchoative meaning is built into the compound rather than expressed by a separate construction.
+
+**2. The 化 suffix encodes both inchoative and causative readings without morphological distinction.**
+As documented in P2a and confirmed here, 合法化 and 道德化 are ambiguous between "X becomes Y" and "someone makes X become Y." The 将 + Object + 化-verb frame disambiguates toward the causative reading, but the suffix itself does not mark the distinction. This is a structural feature of Chinese 化-derivations generally.
+
+**3. Causative meanings are expressed through transitive verb semantics, not through a dedicated causative morpheme.**
+The verbs 证实, 核实, 伪造, 歪曲, 欺骗, and 捏造 all encode causative meanings through their transitivity: an agent causes a state of affairs to obtain. There is no dedicated causative morpheme in this domain. The 将 + Object frame marks the object of a causative action but is not itself a causative marker.
+
+**4. Stability is encoded through 保持, 坚持, and 守.**
+The CONTEXT attests three verbs that encode the maintenance of a truth-related state over time: 保持 (to maintain/keep), 坚持 (to uphold/persist in), and 守 (to guard/keep, as in 守信). These are not specific to the truth domain but combine productively with truth-domain nouns and adjectives to express stability.
+
+**5. A notable asymmetry: becoming lawful is lexicalized; becoming unlawful is not.**
+As documented in P5 (Opposition 9) and confirmed here, 合法化 is a [CORE] inchoative in the CONTEXT, but no parallel *违法化 form is attested. The process of becoming unlawful is not expressed by a 化-derivation. This asymmetry is preserved without interpretation.

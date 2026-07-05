@@ -1,0 +1,118 @@
+# CLCA G-phase reproducibility comparison
+# baseline: data_baseline_4_6
+# rerun:    data_reproducibility
+# sets: global_set_A, global_set_B
+
+## global_set_A
+  G7a semantic dimensions:
+    strict match (exact label):   0.0% (0/29)
+    concept match (keyword overlap, ≥0.25 Jaccard):  38.1% (8/21)
+      paired concepts:
+        epistemic certainty / doubt  ≈  epistemic certainty and doubt  (Jaccard 1.00)
+        moral honesty / integrity of character  ≈  honesty and moral character  (Jaccard 0.75)
+        verification / authentication processes  ≈  verification and proof processes  (Jaccard 0.50)
+        reliability / trustworthiness of sources  ≈  reliability and credibility of sources  (Jaccard 0.50)
+        moral righteousness / justice  ≈  moral rightness and justice  (Jaccard 0.50)
+        material authenticity / genuineness of objects  ≈  authenticity of objects  (Jaccard 0.50)
+        propositional correspondence (statement matches facts)  ≈  propositional correspondence  (Jaccard 0.40)
+        legal / formal validity  ≈  validity and legitimacy  (Jaccard 0.25)
+      baseline only: actual vs. nominal / formal status, consistency / coherence, factual correctness / error in statements or actions, ontological reality / actuality, plausibility / surface appearance of truth, precision / exactness, revelation / concealment of truth, sincerity / authenticity of expression
+      rerun only:    appearance vs. underlying reality, deliberate deception, practical reality vs. theory, similarity and correspondence, unintentional error
+  G7a constructional functions:
+    strict match (exact label):   0.0% (0/47)
+    concept match (keyword overlap, ≥0.25 Jaccard):  30.6% (11/36)
+      paired concepts:
+        light verb: verification and confirmation  ≈  verification/confirmation construction  (Jaccard 0.50)
+        agentive nominalization: positive (person who is truthful habitually)  ≈  agentive nominalization (positive agent)  (Jaccard 0.43)
+        predicative negation (denying truth-value)  ≈  predicative negation  (Jaccard 0.40)
+        agentive nominalization: negative (person who lies/deceives habitually)  ≈  agentive nominalization (negative agent)  (Jaccard 0.38)
+        degree modification (very true, not quite correct)  ≈  degree/scalar modification  (Jaccard 0.33)
+        concessive constructions acknowledging truth  ≈  concessive construction  (Jaccard 0.33)
+        adnominal modification (truth-domain adjective modifying noun)  ≈  adnominal modification  (Jaccard 0.33)
+        predicative attribution (asserting truth-value of proposition or entity)  ≈  predicative attribution  (Jaccard 0.29)
+        evidential and reportative constructions  ≈  evidential/epistemic marking  (Jaccard 0.25)
+        discourse marker function (introducing frank or corrective statements)  ≈  discourse marker grammaticalization  (Jaccard 0.25)
+        abstract nominalization (quality or state of being true/honest/correct)  ≈  abstract nominalization  (Jaccard 0.25)
+      baseline only: action/process nominalization (act of verifying, lying, deceiving), adverbial manner modification (doing something truthfully, honestly), causative (agent making something true, verified, or real), change-of-state / inchoative (something becoming true, real, certain), comparative and scalar constructions, concealment constructions (truth being hidden), conditional constructions based on truth-value, correspondence / matching constructions, disjunctive / binary choice constructions (true or false), emphatic affirmation and intensification, interrogative constructions for truth-checking, light verb: speech acts (telling truth, telling lies), light verb: truth-seeking and discovery, performative / oath constructions, reflexive / self-directed constructions (self-deception), revelation constructions (truth coming to light)
+      rerun only:    appearance/seeming construction, causative (causing falsity/deception), causative (causing truth/correctness), compound formation ([false/fake] + domain noun), contrastive/corrective frame, doubt/questioning construction, inchoative (negative direction), inchoative (positive direction), metalinguistic truth predicate
+  G8 universals (all):
+    strict match (exact label):   0.0% (0/33)
+    concept match (keyword overlap, ≥0.25 Jaccard):  17.9% (5/28)
+      paired concepts:
+        abstract nominalization from truth-domain adjectives or verbs is universally productive  ≈  abstract nominalization from truth-domain bases is universally productive  (Jaccard 0.62)
+        reliability / trustworthiness of sources is universally lexicalized as a distinct semantic area from propositional truth  ≈  reliability and credibility form a distinct semantic cluster, consistently separated from propositional truth  (Jaccard 0.36)
+        discourse markers grammaticalized from truth roots are universally present, and this grammaticalization is asymmetric (truth roots grammaticalize; falsehood roots do not)  ≈  discourse marker grammaticalization from truth-domain roots  (Jaccard 0.33)
+        agentive nominalization for habitual liars is more lexicalized than for habitual truth-tellers across all attested languages  ≈  agentive nominalization asymmetry: "liar" lexicalized; "truth-teller" absent or periphrastic  (Jaccard 0.31)
+        causing a proposition to acquire truth value is universally unavailable as a productive construction  ≈  causing deception is more morphologically productive than causing propositional truth  (Jaccard 0.27)
+      baseline only: authenticity/genuineness of objects is universally lexicalized as a distinct semantic area, binary opposition between truth and falsehood is universally lexicalized, concealment constructions are universally productive and consistently paired with revelation constructions, conditional constructions based on truth-value are universally productive, core truth terms resist gradable comparison across all attested languages, light verb constructions are the primary realization of truth-telling and lying as speech acts, moral righteousness / justice is universally lexicalized as a distinct semantic area from moral honesty, predicative attribution of truth-value is universally available, privative constructions marking "without lies/falsehood" are more productive than constructions marking "without truth", revelation constructions are universally productive for truth emergence, saturation/totality expressions for falsehood are more productive than for truth, the factual/moral honesty distinction is universally present but variably lexicalized, verification and authentication processes are universally lexicalized as a distinct semantic area
+      rerun only:    compound formation [deception modifier + domain noun] is universally productive, epistemic certainty and doubt form a distinct cluster in all languages, consistently gradable, lexical separation of deliberate deception from unintentional error, metalinguistic truth-telling constructions show asymmetric verb selection across languages, moral rightness and justice vocabulary is present in all languages but shows variable integration with propositional truth vocabulary, positive inchoative constructions for propositional truth are more productive than negative inchoative constructions, proverbial or idiomatic expressions asserting truth's ultimate triumph or difficulty, reliability and credibility terms are freely gradable; core propositional truth predicates show resistance to degree modification in a majority of languages, separation of authenticity/genuineness from propositional truth, verification verbs substitute for direct causatives of propositional truth across languages
+  G8 universals (HIGH conf.):
+    strict match (exact label):   0.0% (0/28)
+    concept match (keyword overlap, ≥0.25 Jaccard):  21.7% (5/23)
+      paired concepts:
+        abstract nominalization from truth-domain adjectives or verbs is universally productive  ≈  abstract nominalization from truth-domain bases is universally productive  (Jaccard 0.62)
+        reliability / trustworthiness of sources is universally lexicalized as a distinct semantic area from propositional truth  ≈  reliability and credibility form a distinct semantic cluster, consistently separated from propositional truth  (Jaccard 0.36)
+        discourse markers grammaticalized from truth roots are universally present, and this grammaticalization is asymmetric (truth roots grammaticalize; falsehood roots do not)  ≈  discourse marker grammaticalization from truth-domain roots  (Jaccard 0.33)
+        agentive nominalization for habitual liars is more lexicalized than for habitual truth-tellers across all attested languages  ≈  agentive nominalization asymmetry: "liar" lexicalized; "truth-teller" absent or periphrastic  (Jaccard 0.31)
+        causing a proposition to acquire truth value is universally unavailable as a productive construction  ≈  causing deception is more morphologically productive than causing propositional truth  (Jaccard 0.27)
+      baseline only: authenticity/genuineness of objects is universally lexicalized as a distinct semantic area, binary opposition between truth and falsehood is universally lexicalized, concealment constructions are universally productive and consistently paired with revelation constructions, conditional constructions based on truth-value are universally productive, core truth terms resist gradable comparison across all attested languages, light verb constructions are the primary realization of truth-telling and lying as speech acts, moral righteousness / justice is universally lexicalized as a distinct semantic area from moral honesty, predicative attribution of truth-value is universally available, revelation constructions are universally productive for truth emergence, the factual/moral honesty distinction is universally present but variably lexicalized, verification and authentication processes are universally lexicalized as a distinct semantic area
+      rerun only:    compound formation [deception modifier + domain noun] is universally productive, epistemic certainty and doubt form a distinct cluster in all languages, consistently gradable, lexical separation of deliberate deception from unintentional error, moral rightness and justice vocabulary is present in all languages but shows variable integration with propositional truth vocabulary, positive inchoative constructions for propositional truth are more productive than negative inchoative constructions, separation of authenticity/genuineness from propositional truth, verification verbs substitute for direct causatives of propositional truth across languages
+
+## global_set_B
+  G7a semantic dimensions:
+    strict match (exact label):   0.0% (0/30)
+    concept match (keyword overlap, ≥0.25 Jaccard):  42.9% (9/21)
+      paired concepts:
+        reliability and trustworthiness  ≈  reliability/trustworthiness of sources  (Jaccard 0.67)
+        moral rightness  ≈  moral rightness/justice  (Jaccard 0.67)
+        epistemic certainty  ≈  epistemic certainty/doubt  (Jaccard 0.67)
+        personal honesty and sincerity  ≈  sincerity/honesty of persons  (Jaccard 0.50)
+        completeness and substantiality  ≈  completeness/sufficiency  (Jaccard 0.33)
+        propositional correspondence  ≈  correspondence to fact/reality  (Jaccard 0.25)
+        procedural correctness  ≈  correctness of judgment/action  (Jaccard 0.25)
+        precision and exactness  ≈  precision/accuracy of measurement  (Jaccard 0.25)
+        material authenticity  ≈  authenticity/genuineness of entities  (Jaccard 0.25)
+      baseline only: appearance vs. reality, belief and epistemic acceptance, deception and intentional falsification, validity and logical soundness
+      rerun only:    deliberate deception/lying, epistemic source/evidence type, objectivity vs. subjectivity, resemblance/similarity (with epistemic hedging function), rights/entitlements, substance vs. appearance/essence vs. surface, unintentional error/mistake, validity/legitimacy (formal/institutional)
+  G7a constructional functions:
+    strict match (exact label):   0.0% (0/35)
+    concept match (keyword overlap, ≥0.25 Jaccard):  34.6% (9/26)
+      paired concepts:
+        agentive nominalization (negative)  ≈  agentive nominalization — negative (liar, deceiver)  (Jaccard 0.60)
+        discourse marker use  ≈  discourse marker (to be honest, the truth is that…)  (Jaccard 0.50)
+        agentive nominalization (positive)  ≈  agentive nominalization — positive (truth-teller, honest person)  (Jaccard 0.43)
+        adnominal modification  ≈  adnominal modification (truth-domain adjective + noun)  (Jaccard 0.40)
+        degree modification / intensification  ≈  intensification/degree (absolutely true, very correct)  (Jaccard 0.33)
+        causative verification  ≈  causative — verification (make true/verify/authenticate)  (Jaccard 0.33)
+        causative falsification  ≈  causative — falsification (make false/falsify/invalidate)  (Jaccard 0.33)
+        abstract nominalization  ≈  abstract nominalization (quality noun: truthfulness, correctness)  (Jaccard 0.33)
+        epistemic source marking  ≈  evidential marking (source of claim: direct/hearsay/inference)  (Jaccard 0.29)
+      baseline only: comparative construction, copular attribution, deontic / obligation construction, disjunctive / binary question, inchoative / becoming, inchoative / departing, light verb + truth/falsity object, negated attribution, revelation / concealment construction
+      rerun only:    attribution (copula + truth-domain predicate), causative — correction (correct an error/fix), comparison (more true/accurate than), inchoative — negative (become false/wrong/invalid), inchoative — positive (become true/correct/genuine), manner adverbial (truthfully, honestly, correctly), negative attribution (negation of truth-domain predicate), propositional complement (it is true that…)
+  G8 universals (all):
+    strict match (exact label):   0.0% (0/31)
+    concept match (keyword overlap, ≥0.25 Jaccard):  34.8% (8/23)
+      paired concepts:
+        a distinction between deliberate deception (intentional falsification) and unintentional error is recurrently lexicalized across all attested languages  ≈  the distinction between deliberate deception and unintentional error is recurrently lexicalized  (Jaccard 0.70)
+        copular attribution, negated attribution, and adnominal modification are broadly available for all lexicalized truth-domain dimensions across all attested languages  ≈  attribution, negative attribution, adnominal modification, and abstract nominalization are broadly available across all truth-domain dimensions  (Jaccard 0.50)
+        degree modification and intensification of truth-domain predicates are broadly available across all attested languages  ≈  intensification of truth-domain properties is broadly available  (Jaccard 0.44)
+        a distinction between factual correspondence of statements (propositional truth) and material authenticity of objects (genuineness) is recurrently lexicalized across unrelated language families, though the degree of lexical separation varies  ≈  the distinction between propositional truth and material authenticity is recurrently lexicalized  (Jaccard 0.37)
+        abstract nominalization of truth-domain roots is broadly available across all attested languages  ≈  manner adverbials from truth-domain terms are broadly available  (Jaccard 0.33)
+        a distinction between correctness of answers/procedures and propositional truth of statements is recurrently lexicalized across most attested languages, though the degree of lexical separation varies  ≈  the correctness/error distinction is recurrently lexicalized separately from propositional truth  (Jaccard 0.33)
+        causative constructions for verification, authentication, and correction are broadly available across all attested languages, while direct causative constructions meaning "make x false" or "make x untrue" (applied to the falsity adjective itself) are consistently more restricted or absent  ≈  causative constructions for verification and authentication are broadly available  (Jaccard 0.25)
+        a distinction between personal honesty/sincerity (a character disposition) and propositional truth (a property of statements) is recurrently lexicalized across all attested languages  ≈  sincerity/honesty of persons is recurrently lexicalized as a distinct dimension  (Jaccard 0.25)
+      baseline only: a light-verb construction combining a verb of speaking or communicating with a truth-domain term as object is broadly available and highly natural across all attested languages, a primary binary lexical opposition between truth and falsehood, applied to propositional content, is present in all attested languages, an agentive nominalization for "liar" or "deceiver" is lexicalized as a single derived or simplex word in all attested languages, while an equivalent positive agentive for "truth-teller" is absent or requires compounds or periphrasis in most attested languages, deontic constructions expressing obligation to tell the truth or prohibition against lying are broadly available across all attested languages, discourse marker grammaticalization from truth-domain terms is a broadly recurrent pattern across unrelated language families, morphological negation is the dominant strategy for forming antonyms of truth-domain terms across all attested languages, positive inchoative constructions (becoming true, becoming correct, becoming complete) are more broadly natural and more consistently lexicalized than negative inchoative constructions (becoming false, becoming wrong, becoming empty) across attested languages, the spatial/container metaphor for truth — treating truth as a hidden object that can be revealed or concealed — is recurrently attested across multiple unrelated language families
+      rerun only:    causative constructions for falsification are broadly absent or marginal for propositional truth, discourse markers grammaticalized from truth vocabulary are broadly attested, epistemic certainty and doubt are recurrently lexicalized as a distinct cluster, inchoative constructions for positive truth-domain states are more broadly available than for negative truth-domain states, negative agentive nominalizations are more elaborated than positive agentive nominalizations, propositional complement constructions are broadly available with truth-domain predicates, revelation verbs substitute for inchoative constructions when expressing truth coming to light
+  G8 universals (HIGH conf.):
+    strict match (exact label):   0.0% (0/24)
+    concept match (keyword overlap, ≥0.25 Jaccard):  41.2% (7/17)
+      paired concepts:
+        a distinction between deliberate deception (intentional falsification) and unintentional error is recurrently lexicalized across all attested languages  ≈  the distinction between deliberate deception and unintentional error is recurrently lexicalized  (Jaccard 0.70)
+        copular attribution, negated attribution, and adnominal modification are broadly available for all lexicalized truth-domain dimensions across all attested languages  ≈  attribution, negative attribution, adnominal modification, and abstract nominalization are broadly available across all truth-domain dimensions  (Jaccard 0.50)
+        degree modification and intensification of truth-domain predicates are broadly available across all attested languages  ≈  intensification of truth-domain properties is broadly available  (Jaccard 0.44)
+        a distinction between factual correspondence of statements (propositional truth) and material authenticity of objects (genuineness) is recurrently lexicalized across unrelated language families, though the degree of lexical separation varies  ≈  the distinction between propositional truth and material authenticity is recurrently lexicalized  (Jaccard 0.37)
+        abstract nominalization of truth-domain roots is broadly available across all attested languages  ≈  manner adverbials from truth-domain terms are broadly available  (Jaccard 0.33)
+        a distinction between personal honesty/sincerity (a character disposition) and propositional truth (a property of statements) is recurrently lexicalized across all attested languages  ≈  the correctness/error distinction is recurrently lexicalized separately from propositional truth  (Jaccard 0.31)
+        causative constructions for verification, authentication, and correction are broadly available across all attested languages, while direct causative constructions meaning "make x false" or "make x untrue" (applied to the falsity adjective itself) are consistently more restricted or absent  ≈  causative constructions for verification and authentication are broadly available  (Jaccard 0.25)
+      baseline only: a light-verb construction combining a verb of speaking or communicating with a truth-domain term as object is broadly available and highly natural across all attested languages, a primary binary lexical opposition between truth and falsehood, applied to propositional content, is present in all attested languages, an agentive nominalization for "liar" or "deceiver" is lexicalized as a single derived or simplex word in all attested languages, while an equivalent positive agentive for "truth-teller" is absent or requires compounds or periphrasis in most attested languages, deontic constructions expressing obligation to tell the truth or prohibition against lying are broadly available across all attested languages, discourse marker grammaticalization from truth-domain terms is a broadly recurrent pattern across unrelated language families, morphological negation is the dominant strategy for forming antonyms of truth-domain terms across all attested languages, positive inchoative constructions (becoming true, becoming correct, becoming complete) are more broadly natural and more consistently lexicalized than negative inchoative constructions (becoming false, becoming wrong, becoming empty) across attested languages
+      rerun only:    causative constructions for falsification are broadly absent or marginal for propositional truth, negative agentive nominalizations are more elaborated than positive agentive nominalizations, propositional complement constructions are broadly available with truth-domain predicates

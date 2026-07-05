@@ -1,0 +1,309 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Turkish (tr)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[Subject] + [truth-domain adjective] + copula (∅ or *-dır/-dir*); or [truth-domain adjective] + [noun] (attributive, prenominal).
+
+### Examples
+- Bu iddia doğru. / *Bu iddia doğru.* / "This claim is correct."
+- Belge sahte. / *Belge sahte.* / "The document is fake."
+- Bu haber doğru. / *Bu haber doğru.* / "This news is correct/true."
+- İddia asılsız. / *İddia asılsız.* / "The claim is unfounded/baseless."
+- **doğru haber** / doğru haber / "correct news, accurate report"
+- **sahte belge** / sahte belge / "forged document, fake document"
+
+### Notes
+Turkish uses a zero copula in 3rd-person present affirmative; *değil* is inserted for negation. The adjective precedes the zero copula position. Tense/evidential distinctions are marked on the copular suffix: *doğruydu* (was correct), *doğruymuş* (reportedly correct).
+
+The copula is zero in informal/neutral present tense; *-dır* appears in formal or assertive registers (*Bu haber doğrudur*). The adjective does not inflect for agreement. Both *doğru* and *gerçek* can fill this slot, but *doğru* more typically predicates propositional correctness, *gerçek* ontological realness.
+
+Turkish attributive adjectives are invariant; they precede the noun without case or number agreement. The pattern is fully productive: *doğru*, *yanlış*, *sahte*, *gerçek*, *hakiki*, *özgün*, *geçerli*, *asıl*, *haklı* all occur freely in this slot.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+[Subject] + [truth-domain adjective] + *değil* (negation particle); or privative suffix *-sız/-siz* attached to noun base.
+
+### Examples
+- Bu bilgi doğru değil. / *Bu bilgi doğru değil.* / "This information is not correct."
+- İddia asılsız değil. / *İddia asılsız değil.* / "The allegation is not unfounded."
+- Bu belge gerçek değil. / *Bu belge gerçek değil.* / "This document is not real/genuine."
+- İddia doğru değil. / *İddia doğru değil.* / "The claim is not correct/true."
+- Bu haber doğru değil. / *Bu haber doğru değil.* / "This news is not correct."
+- **asılsız iddialar** / asılsız iddialar / "unfounded/baseless claims"
+
+### Notes
+*Değil* is the invariant negation particle for nominal/adjectival predicates; it does not inflect for the predicate but takes tense/person suffixes itself (*değildi*, *değilim*). Negation of verbal predicates uses a different strategy (suffix *-me/-ma*).
+
+*Değil* is the sole strategy for negating adjectival predicates; privative suffixes (*-sız*, *-siz*) produce new lexical items (*asılsız*, *kanıtsız*, *geçersiz*) rather than serving as a productive negation construction in the predicate slot. Tense/evidential suffixes attach to *değil*: *doğru değildi* (was not correct), *doğru değilmiş* (reportedly not correct).
+
+Two distinct strategies: (1) predicative negation with invariant *değil* following the adjective; (2) derivational negation via privative *-sız/-siz* on a nominal base (*asıl* → *asılsız*, *hak* → *haksız*, *geçer-* → *geçersiz*). The suffix strategy produces a new lexical item; *değil* negation is syntactic and applies to any predicate.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[truth-domain adjective] + [noun] (prenominal, no agreement morphology); or [Noun] + *-lı/-li* (possessive-adjectival suffix); or [Noun] + *-sal/-sel* (relational adjectival suffix).
+
+### Examples
+- Güvenilir kaynak / *güvenilir kaynak* / "reliable source"
+- Asılsız iddia / *asılsız iddia* / "unfounded allegation"
+- **Sahte belgeyle yakalandı.** / sahte belgeyle yakalandı / "He/she was caught with a forged document." (*sahte* modifies *belge*, instrumental case on head noun)
+- **Güvenilir bir kaynaktan aldım.** / güvenilir bir kaynaktan aldım / "I got it from a reliable source." (*güvenilir* modifies *kaynak*, ablative on head noun)
+- **geçerli** (< *geçer-* + *-li*) / geçerli / "valid, having currency/acceptance" — *geçerli pasaport* "valid passport"
+- **doğrusal denklem** / doğrusal denklem / "linear equation" (< *doğru* + *-sal*)
+
+### Notes
+Turkish adjectives are invariant prenominal modifiers; they carry no case, number, or gender agreement with the head noun. The head noun takes all case suffixes. This is the dominant adnominal pattern across all P1 items.
+
+The modifier is invariant; all inflection falls on the head noun. The indefinite article *bir* (one/a) may intervene between modifier and noun (*güvenilir bir kaynak*) without disrupting the construction. This pattern is fully productive across all truth-domain adjectives in P1: *doğru bilgi*, *yanlış haber*, *hakiki deri*, *özgün eser*, *geçerli pasaport*, etc.
+
+The *-lı/-li* suffix derives adjectives meaning "having/bearing [base property]" (*hak* → *haklı*, *teyit* → *teyitli*, *tasdik* → *tasdikli*); *-sal/-sel* derives adjectives meaning "pertaining to [base]" (*doğru* → *doğrusal*, *öz* → *özsel*). Both are productive within the truth-domain vocabulary.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[base] + *-laş-/-leş-* (inchoative verbalizer) + *-mak/-mek*; or [adjective] + *ol-* / *olmak* (periphrastic); or [adjective] + *hale gelmek* (periphrastic).
+
+### Examples
+- Meşrulaşmak / *meşrulaşmak* / "to become legitimate"
+- Geçersiz hale gelmek / *geçersiz hale gelmek* / "to become invalid / to come to be void"
+- **Hareket zamanla meşrulaştı.** / hareket zamanla meşrulaştı / "The movement became legitimate over time." (morphological: *meşru* + *-laş-* + past tense)
+- **Hayalleri gerçekleşti.** / hayalleri gerçekleşti / "Their dreams came true / were realized." (*gerçek* + *-leş-* + past tense)
+- **Hayali gerçekleşti.** / Hayali gerçekleşti. / "His/her dream came true / materialized." (*gerçek* + *-leş-* + *-ti*)
+
+### Notes
+Two strategies coexist: morphological (*-laş-* directly on the base, productive for some items: *meşrulaşmak*, *yasalaşmak*) and periphrastic (*[adjective] + hale gelmek*, "to come into the state of," available for all adjectives). Not all P1 bases take *-laş-* productively; *doğrulaşmak* is marginal, *geçersizleşmek* is rare compared to the periphrastic alternative.
+
+The *-leş-* inchoative is productive on adjectives of Arabic and native Turkic origin alike (*meşrulaşmak*, *gerçekleşmek*). For items where *-leş-* is not conventionalized, the periphrastic *[adjective] + olmak* is used (*geçerli olmak*, to become valid; *haklı olmak*, to be/become right). *gerçekleşmek* has shifted toward the meaning "to occur, to take place" in addition to "to become real."
+
+The suffix *-laş-/-leş-* is the primary inchoative/mutative suffix in Turkish, attaching to adjectives and nouns to form intransitive verbs of becoming. Within the truth domain: *meşrulaşmak* (to become legitimate), *gerçekleşmek* (to come true/materialize). The resulting verb is intransitive; the causative counterpart is formed by adding *-tır-/-tir-* (see §5).
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+[base] + *-laştır-/-leştir-* (causative of inchoative) + *-mak/-mek*; or [adjective] + *kılmak* (periphrastic); or [adjective/noun] + *-la-/-le-* + *-mak/-mek* (factitive verbalizer).
+
+### Examples
+- Meşrulaştırmak / *meşrulaştırmak* / "to legitimize, to render legitimate"
+- Geçersiz kılmak / *geçersiz kılmak* / "to invalidate, to render void"
+- **Şiddeti meşrulaştırmak mümkün değil.** / şiddeti meşrulaştırmak mümkün değil / "It is not possible to legitimize violence." (*meşru* + *-laş-* + *-tır-* + infinitive)
+- **Bu durum müdahaleyi haklı kılar.** / bu durum müdahaleyi haklı kılar / "This situation justifies the intervention." (*haklı* + *kılmak*, periphrastic)
+- **Şiddeti meşrulaştırmak.** / Şiddeti meşrulaştırmak. / "To legitimize violence." (*meşru* + *-laş-* + *-tır-* + *-mak*)
+- **Haberi doğrulamak gerekiyor.** / Haberi doğrulamak gerekiyor. / "The news needs to be verified." (*doğru* + *-la-* + *-mak*)
+
+### Notes
+Two parallel strategies: morphological (*-laştır-* = inchoative *-laş-* + causative *-tır-*, e.g., *meşrulaştırmak*, *yasalaştırmak*) and periphrastic (*[adjective] + kılmak*, "to make/render," e.g., *geçersiz kılmak*, *geçerli kılmak*). The periphrastic strategy is available for all adjectives; the morphological strategy is lexically restricted.
+
+The morphological causative *-leş-tir-* is available where *-leş-* is already conventionalized (*meşrulaştırmak*, *gerçekleştirmek*). Where it is not, *kılmak* provides the formal causative (*geçersiz kılmak*, to invalidate; *haklı kılmak*, to justify). The factitive *-la-* verbalizer on nouns (*doğrulamak*, to verify; *kanıtlamak*, to prove; *ispatlamak*, to prove formally) constitutes a related but distinct pattern — it creates a verb meaning "to perform the action associated with X" rather than strictly "to cause X to become true."
+
+Two causative/factitive strategies are attested: (1) *-laş-tır-* on adjective/noun bases, producing "to cause to become [base]" (*meşrulaştırmak*, *gerçekleştirmek*); (2) *-la-* directly on an adjective base, producing "to make/treat as [base]" (*doğrulamak* — to verify; *yalanlamak* — to deny/refute). Both are productive. Passive counterparts are formed by inserting *-n-* or *-il-* before the infinitive suffix.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[adjective/verb base] + *-lık/-lik/-luk/-lük* (nominal suffix); or [verb stem] + *-ma/-me* (verbal noun suffix).
+
+### Examples
+- Doğruluk / *doğruluk* / "truthfulness, correctness, accuracy"
+- Güvenilirlik / *güvenilirlik* / "reliability, trustworthiness"
+- **Dürüstlük her zaman ödüllendirilmez.** / dürüstlük her zaman ödüllendirilmez / "Honesty is not always rewarded." (*dürüst* + *-lük*)
+- **Kimlik doğrulama zorunludur.** / kimlik doğrulama zorunludur / "Identity verification is mandatory." (*doğrula-* + *-ma*, verbal noun)
+- **Dürüstlük en önemli erdemlerden biridir.** / Dürüstlük en önemli erdemlerden biridir. / "Honesty is one of the most important virtues." (*dürüst* + *-lük*)
+- **Pasaportunun geçerliliği sona erdi.** / Pasaportunun geçerliliği sona erdi. / "The validity of his/her passport expired." (*geçerli* + *-lik*)
+
+### Notes
+The suffix *-lık* (with vowel harmony variants) is the primary nominalizer for abstract properties across all P1 items: *yanlışlık*, *gerçeklik*, *sahtecilik*, *meşruiyet* (Arabic-derived alternative), *tarafsızlık*, *nesnellik*, *öznellik*, *haklılık*, *haksızlık*, *geçerlilik*, *geçersizlik*. The Arabic-derived suffix *-iyet* appears in items of Arabic origin (*meşruiyet*, *hakkaniyet*) as an alternative nominalization strategy.
+
+The *-lık* suffix is the primary strategy for property nominalization across the truth domain: *doğruluk* (truth/correctness), *yanlışlık* (error), *güvenilirlik* (reliability), *meşruiyet* (legitimacy — using the Arabic-pattern *-iyet* instead), *geçerlilik* (validity), *sahtecilik* (forgery), *özgünlük* (originality). The *-ma/-me* verbal noun nominalizes the process (*doğrulama*, verification; *yanlışlama*, falsification; *kanıtlama*, proving). Both types are fully productive.
+
+The suffix *-lık/-lik/-luk/-lük* (with vowel harmony) is the primary abstract nominalizer in Turkish and applies productively across the truth-domain vocabulary: *doğruluk* (truthfulness/accuracy), *yanlışlık* (error), *sahtelik* (fakeness), *özgünlük* (originality), *haklılık* (justifiedness), *haksızlık* (injustice), *geçersizlik* (invalidity), *sahicilik* (genuineness), *meşruluk* (legitimacy), *asılsızlık* (groundlessness). Verbal-stem nominalizations use *-ma/-me* (*doğrulama*, *yalanlama*, *yanlışlama*).
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[base] + *-cı/-ci/-cu/-cü* (agentive suffix); or [verb stem] + *-ıcı/-ici/-yıcı/-yici* (participial agentive).
+
+### Examples
+- Yalancı / *yalancı* / "liar" (yalan + *-cı*)
+- Yanıltıcı / *yanıltıcı* / "misleader, misleading agent" (yanılt- + *-ıcı*)
+- **Sahteci mahkemede yargılandı.** / sahteci mahkemede yargılandı / "The forger was tried in court." (*sahte* + *-ci*)
+- **Doğruyu söyleyen biri bulmak zor.** / doğruyu söyleyen biri bulmak zor / "It is difficult to find someone who tells the truth." (participial relative clause, not a lexicalized agentive noun)
+- **Yalancının mumu yatsıya kadar yanar.** / Yalancının mumu yatsıya kadar yanar. / "A liar's candle burns only until evening." (*yalan* + *-cı*)
+- **Sahteci yakalandı.** / Sahteci yakalandı. / "The forger was caught." (*sahte* + *-ci*)
+
+### Notes
+Two agentive strategies: *-cı* attaches to nouns to form habitual/role agents (*yalancı*, liar; *doğrucu*, truth-teller; *sahteci*, forger); *-ıcı* attaches to verb stems to form participial agents that can function as adjectives or nouns (*yanıltıcı*, misleading/misleader; *aldatıcı*, deceptive/deceiver). The *-ıcı* forms are more commonly used adjectivally than as pure agent nouns.
+
+Agentive nouns are lexicalized on the negative/deceptive side of the domain: *sahteci* (forger), *sahtekâr* (fraud/impostor, with Persian *-kâr*), *taklitçi* (imitator/counterfeiter), *yanıltıcı* (misleading agent, adjectival-agentive in *-ıcı*). No single lexicalized noun meaning "truth-teller" or "verifier" as a personal title is in common use; *doğrulayıcı* exists as a technical/adjectival form but not as a standard personal noun. The concept "one who tells the truth" is expressed through participial constructions (*doğruyu söyleyen kişi*) or through character-evaluation adjectives (*dürüst biri*, an honest person).
+
+The suffix *-cı/-ci/-cu/-cü* (with vowel harmony) derives agentive nouns from nominal and verbal bases. Attested truth-domain agentives: *yalancı* (liar), *sahteci* (forger/counterfeiter), *taklitçi* (imitator/counterfeiter), *gerçekçi* (realist), *doğrulayıcı* (verifier — from verbal stem *doğrula-* + *-yıcı*, an alternative agentive suffix for verbal bases). The suffix *-yıcı/-yici* applies to verb stems and is the standard agentive for process-denoting verbs.
+
+---
+
+## 8. PROCESS NOMINALIZATION (VERBAL NOUN)
+
+### Pattern
+[verb stem] + *-ma/-me* (verbal noun suffix)
+
+### Examples
+- Doğrulama / *doğrulama* / "verification, confirmation" (doğrula- + *-ma*)
+- Yalanlama / *yalanlama* / "denial, refutation" (yalanla- + *-ma*)
+
+### Notes
+The *-ma/-me* suffix nominalizes the verbal process itself (as distinct from *-lık* which nominalizes the abstract property). This pattern is productive across the domain: *yanlışlama* (falsification), *aldatma* (deception), *yanılma* (erring), *gerçekleşme* (realization). These forms appear frequently in legal and journalistic registers as action nominals.
+
+---
+
+## 9. ABILITY / POTENTIAL NOMINALIZATION
+
+### Pattern
+[verb stem] + *-(y)abil-* (potential) + *-ir* (aorist) + *-lik* (nominal)
+
+### Examples
+- Doğrulanabilirlik / *doğrulanabilirlik* / "verifiability"
+- Yanlışlanabilirlik / *yanlışlanabilirlik* / "falsifiability"
+
+### Notes
+A layered morphological construction: passive stem + potential suffix + aorist participial + abstract nominalizer. Restricted to philosophical and scientific registers. The parallel pair *doğrulanabilirlik* / *yanlışlanabilirlik* directly encodes the logical positivist / Popperian distinction in Turkish academic discourse.
+
+---
+
+## 10. SINCERITY / CORRECTION DISCOURSE MARKER
+
+### Pattern
+[truth-domain noun in possessive or locative] used sentence-initially as adverbial hedge
+
+### Examples
+- Doğrusu, bilmiyorum. / *Doğrusu, bilmiyorum.* / "Honestly, I don't know."
+- Aslında öyle değil. / *Aslında öyle değil.* / "Actually, it's not like that."
+
+### Notes
+Several truth-domain items grammaticalize as sentence-initial adverbial markers: *doğrusu* (its truth → honestly), *aslında* (in its origin/nature → actually, in fact), *gerçek şu ki* (the truth is that), *hakikaten* (truly). These function as sincerity hedges or corrective frames rather than propositional predicates, and are among the most frequent discourse-structural uses of P1 vocabulary.
+
+---
+
+## 11. APPROXIMATION CONSTRUCTION
+
+### Pattern
+[noun in dative] + *en yakın* / *uzak* + predicate
+
+### Examples
+- Doğruya en yakın cevap / *doğruya en yakın cevap* / "the answer closest to correct"
+- Gerçekten uzak bir senaryo / *gerçekten uzak bir senaryo* / "a scenario far from reality"
+
+### Notes
+Epistemic approximation is expressed periphrastically via spatial metaphor: *yakın* (near) and *uzak* (far/distant) combine with the dative-marked truth noun to express degrees of correspondence to truth or reality. This pattern is productive and compositional rather than lexicalized.
+
+---
+
+## 12. CONTRASTIVE DISTINCTION CONSTRUCTION
+
+### Pattern
+[term A] + *ama* / *olmakla birlikte* + [term B] + *değil*
+
+### Examples
+- Yasal ama meşru değil. / *Yasal ama meşru değil.* / "Legal but not legitimate."
+- Yanıltıcı olmakla birlikte yanlış olmamak. / *Yanıltıcı olmakla birlikte yanlış olmamak.* / "To be misleading without being false."
+
+### Notes
+A productive syntactic pattern used specifically to mark conceptual distinctions within the truth domain: legal vs. legitimate, misleading vs. false, objective vs. subjective. The concessive connectors *ama* (but) and *olmakla birlikte* (while being) signal that the two terms are not co-extensive. This construction recurs wherever the data documents paired near-synonyms with distinct scope.
+
+---
+
+## 13. FACTITIVE VERBALIZATION
+
+### Pattern
+[truth-domain noun] + *-la-/-le-* + *-mak/-mek* — verbalizer suffix producing a verb meaning "to perform the action associated with the noun" or "to treat as X."
+
+### Examples
+- **İddiayı kanıtlamak güçtür.** / iddiayı kanıtlamak güçtür / "It is difficult to prove the claim." (*kanıt* + *-la-* + *-mak*)
+- **Hipotezi yanlışlamak mümkün olmalıdır.** / hipotezi yanlışlamak mümkün olmalıdır / "It must be possible to falsify the hypothesis." (*yanlış* + *-la-* + *-mak*)
+
+### Notes
+This pattern is highly productive across the truth domain and generates the primary verbal vocabulary for epistemic actions: *doğrulamak* (to verify), *kanıtlamak* (to prove), *ispatlamak* (to prove formally), *yanlışlamak* (to falsify), *meşrulaştırmak* (to legitimize — with additional inchoative morphology). The passive *-n-* and potential *-abil-* stack onto this stem productively: *doğrulanabilir* (verifiable), *yanlışlanabilir* (falsifiable), *kanıtlanmış* (proven).
+
+---
+
+## 14. CORRESPONDENCE POSTPOSITIONAL CONSTRUCTION
+
+### Pattern
+[truth-domain noun] + dative (*-e/-a*) + postposition (*aykırı* / *uygun*) — produces an adjectival phrase meaning "contrary to X" or "conforming to X," used attributively or predicatively.
+
+### Examples
+- **Gerçeğe aykırı beyan suç teşkil eder.** / gerçeğe aykırı beyan suç teşkil eder / "A statement contrary to fact constitutes a crime." (*gerçek* + dative + *aykırı*)
+- **Gerçeğe uygun beyanda bulunmak zorundasınız.** / gerçeğe uygun beyanda bulunmak zorundasınız / "You are required to make a statement conforming to fact." (*gerçek* + dative + *uygun*)
+
+### Notes
+This construction is particularly productive in legal and administrative registers. *Gerçeğe aykırı* (contrary to reality/truth) and *gerçeğe uygun* (conforming to reality/truth) are fixed legal phrases. The pattern extends to *hakikate aykırı* in literary registers. The dative marks the standard of correspondence; *aykırı* and *uygun* are the primary postpositions in this slot within the truth domain.
+
+---
+
+## 15. LIGHT-VERB CONSTRUCTION
+
+### Pattern
+[Arabic/Persian-origin noun] + *etmek* / *olmak* — periphrastic verb formation; the noun carries the lexical content, the light verb supplies tense, agreement, and voice morphology.
+
+### Examples
+- **Bilgiyi teyit etmek gerekiyor.** / Bilgiyi teyit etmek gerekiyor. / "The information needs to be confirmed." (*teyit* + *etmek*)
+- **Bunu hak etti.** / Bunu hak etti. / "He/she deserved this." (*hak* + *etmek*)
+
+### Notes
+Light-verb constructions with *etmek* (to do) are the standard verbal strategy for Arabic- and Persian-origin nominal bases in Turkish: *tasdik etmek* (to certify), *teyit etmek* (to confirm), *hak etmek* (to deserve), *taklit etmek* (to imitate). Passive voice is formed with *edilmek* (*teyit edilmek* — to be confirmed). This pattern is highly productive and applies to all Arabic/Persian-origin truth-domain nouns that lack a native Turkish verbal derivation.
+
+---
+
+## 16. PREDICATE OUTCOME CONSTRUCTION
+
+### Pattern
+[truth-domain adjective/noun] + *çıkmak* — "to turn out to be [adjective/noun]"; the subject is evaluated retrospectively as having a particular truth-domain property.
+
+### Examples
+- **Tahmini doğru çıktı.** / Tahmini doğru çıktı. / "His/her prediction turned out to be correct."
+- **Bu yalan çıktı.** / Bu yalan çıktı. / "This turned out to be a lie."
+
+### Notes
+The verb *çıkmak* (to come out, to emerge) functions as a secondary predicate marker in this construction, indicating that the truth-domain evaluation is the result of a process of discovery or confirmation. Attested with *doğru*, *yanlış*, *yalan*, *sahte*, and *haklı* (*haklı çıkmak* — to be proven right). The construction is syntactically regular but semantically specialized to retrospective truth-evaluation.
+
+---
+
+## 17. CONCESSIVE PARTIAL-TRUTH CONSTRUCTION
+
+### Pattern
+**[Locative NP] + bir doğruluk payı var** — existential construction acknowledging partial truth in a claim.
+
+### Examples
+- **Bu iddiada bir doğruluk payı var.** / Bu iddiada bir doğruluk payı var. / "There is a grain of truth in this claim."
+- **Söylediklerinde doğruluk payı yok değil.** / Söylediklerinde doğruluk payı yok değil. / "There is no denying a grain of truth in what he/she said."
+
+### Notes
+The construction uses the existential *var* (there is) with the nominal phrase *doğruluk payı* (share/portion of truth) in a locative frame specifying the claim under evaluation. The double-negative variant (*yok değil* — "it is not absent") is a common hedging form. No parallel construction with *hakikat* or *gerçek* in place of *doğruluk* is attested in this exact frame.
+
+---
+
+## 18. RIGHTS-DEPRIVATION / RIGHTS-FULFILLMENT CONSTRUCTION
+
+### Pattern
+**hakkını** [verb] — possessed accusative *hakkını* (one's due/right) + verb expressing giving, seeking, eating, or protecting.
+
+### Examples
+- **Kimsenin hakkını yemem.** / Kimsenin hakkını yemem. / "I will not deprive anyone of their due." (*hakkını yemek* — lit. "to eat someone's right")
+- **İşinin hakkını verdi.** / İşinin hakkını verdi. / "He/she did justice to his/her work." (*hakkını vermek* — lit. "to give its due")
+
+### Notes
+The possessed accusative *hakkını* (its/his/her right/due) combines with a small set of verbs to form idiomatic constructions expressing the fulfillment or violation of entitlement: *vermek* (to give — fulfill), *aramak* (to seek — pursue), *yemek* (to eat — deprive), *gözetmek* (to protect — uphold). The possessive marking is obligatory in these idioms; bare *hak* + verb produces different or non-idiomatic meanings.

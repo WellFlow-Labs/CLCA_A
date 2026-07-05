@@ -1,0 +1,456 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Tamil (ta)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+**X + COPULA (zero or explicit) + TRUTH-TERM**
+Tamil uses zero copula in present tense for simple predication. The truth-domain term appears in predicate position after the subject.
+
+### Examples
+- **இது உண்மை** (itu uṇmai) → "this is truth/true"
+- **அவன் பொய்யன்** (avaṉ poyaṉ) → "he is a liar"
+
+### Notes
+Zero copula is standard in present tense. Past/future use explicit copula forms (இருந்தது iruntutu, இருக்கும் irukkum). Emphatic particle தான் (tāṉ) frequently added: இது உண்மைதான் (itu uṇmaitāṉ) "this really is true."
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**X + TRUTH-TERM + NEGATIVE COPULA (இல்லை illai / அல்ல alla / அன்று aṉṟu)**
+Negation uses negative copula forms. இல்லை (illai) is colloquial, அல்ல (alla) more formal, அன்று (aṉṟu) literary.
+
+### Examples
+- **இது உண்மையில்லை** (itu uṇmaiillai) → "this is not true"
+- **அது பொய்யல்ல** (atu poyyalla) → "that is not false"
+
+### Notes
+The negative copula directly follows the truth-term without intervening material. Register determines choice among negative copula variants.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**TRUTH-TERM-ஆன (-āṉa) + NOUN**
+Adjectival suffix -ஆன (-āṉa) converts truth-nouns to attributive modifiers preceding the head noun.
+
+### Examples
+- **உண்மையான கதை** (uṇmaiyāṉa katai) → "true story"
+- **பொய்யான சாட்சி** (poyyāṉa cāṭci) → "false testimony"
+
+### Notes
+This is the productive pattern for attributive modification. Alternative: genitive construction (உண்மையின் வலிமை uṇmaiyiṉ valimai "truth's strength") for possessive/partitive relations.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**TRUTH-TERM + ஆகு (āku) "become"**
+The verb ஆகு (āku) "become" combines with truth-terms to express change of state.
+
+### Examples
+- **உண்மை ஆகிவிட்டது** (uṇmai ākiviṭṭatu) → "it became true / turned out to be true"
+- **பொய் ஆகிப்போனது** (poy ākipōṉatu) → "it became false / turned out to be a lie"
+
+### Notes
+Completive auxiliaries விடு (viṭu) or போ (pō) typically follow ஆகு to mark completion. Used when something previously uncertain is revealed or when status changes.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**TRUTH-TERM + படுத்து (paṭuttu) "cause to become"**
+Causative suffix -படுத்து (-paṭuttu) creates verbs meaning "to make X true/false" or "to verify/falsify."
+
+### Examples
+- **உண்மைப்படுத்து** (uṉmaippaṭuttu) → "verify, authenticate, make true"
+- **மெய்ப்படுத்து** (meyppaṭuttu) → "prove, verify"
+
+### Notes
+Primarily used with உண்மை (uṇmai) and மெய் (mey) for verification/authentication. No common causative for பொய் (poy) meaning "to falsify" — instead use பொய்யாக்கு (poyyākku) "make false" with different causative morphology.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**TRUTH-ROOT + -மை (-mai) ABSTRACT SUFFIX**
+The suffix -மை (-mai) forms abstract nouns denoting qualities or states. Many truth-terms already contain this suffix.
+
+### Examples
+- **உண்மைத்தன்மை** (uṇmaittaṉmai) → "truthfulness, the quality of being true"
+- **மெய்ம்மை** (meymai) → "truth, reality, genuineness"
+
+### Notes
+உண்மை (uṇmai) itself already contains -மை. Further abstraction uses தன்மை (taṉmai) "quality, nature" in compound. Pattern not productive with பொய் (poy) — பொய்ம்மை (poymai) exists but rare.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**TRUTH-ROOT + PERSON-SUFFIX (-ஆன் -āṉ / -ஆளி -āḷi / -ஆளர் -āḷar)**
+Multiple suffixes create agent nouns for persons characterized by truth/falsehood.
+
+### Examples
+- **உண்மையாளர்** (uṇmaiyāḷar) → "truthful person" (honorific)
+- **பொய்யன்** (poyaṉ) → "liar" (masculine)
+
+### Notes
+Suffix choice marks gender and register: -அன் (-aṉ) masculine, -ஆளி (-āḷi) gender-neutral colloquial, -ஆளர் (-āḷar) honorific/plural. Negative terms (liar) more elaborated than positive (truth-teller).
+
+---
+
+## 8. VERBAL COLLOCATIONS — SPEAKING/TELLING
+
+### Pattern
+**TRUTH-TERM + SPEECH-VERB (சொல்லு collu / பேசு pēcu / கூறு kūṟu)**
+Truth-terms combine with speech verbs to form extremely common collocations for truth-telling or lying.
+
+### Examples
+- **உண்மை சொல்லு** (uṇmai collu) → "tell the truth"
+- **பொய் பேசு** (poy pēcu) → "speak lies"
+
+### Notes
+சொல்லு (collu) most common colloquial, பேசு (pēcu) slightly more formal, கூறு (kūṟu) literary. These are the primary expressions for truth-telling/lying acts. Object case-marking optional in colloquial speech.
+
+---
+
+## 9. VERBAL COLLOCATIONS — REVELATION/EMERGENCE
+
+### Pattern
+**TRUTH-TERM + வெளிப்படு (veḷippaṭu) "come out, be revealed"**
+Truth-terms combine with emergence verbs to express revelation of hidden truth.
+
+### Examples
+- **உண்மை வெளிப்படு** (uṇmai veḷippaṭu) → "truth comes out, is revealed"
+- **பொய் வெளிப்படு** (poy veḷippaṭu) → "lie is exposed"
+
+### Notes
+வெளிப்படு (veḷippaṭu) "emerge, be revealed" is core verb. Alternative: தெரிய வரு (teriya varu) "come to be known" emphasizes gradual discovery. These constructions imply prior concealment.
+
+---
+
+## 10. VERBAL COLLOCATIONS — CONCEALMENT
+
+### Pattern
+**TRUTH-TERM-ACC + மறை (maṟai) "hide, conceal"**
+Truth-terms take accusative case with concealment verbs.
+
+### Examples
+- **உண்மையை மறை** (uṇmaiyai maṟai) → "hide the truth"
+- **உண்மையை மூடி மறை** (uṇmaiyai mūṭi maṟai) → "cover up and hide the truth"
+
+### Notes
+Accusative marking (-ஐ -ai) obligatory. Emphatic form adds மூடி (mūṭi) "covering" before மறை. Used in contexts of deliberate deception or cover-up.
+
+---
+
+## 11. VERBAL COLLOCATIONS — ACCEPTANCE/ACKNOWLEDGMENT
+
+### Pattern
+**TRUTH-TERM-ACC + ஒப்புக்கொள் (oppukkoḷ) "accept, admit"**
+Truth-terms combine with acceptance verbs, typically with accusative marking.
+
+### Examples
+- **உண்மையை ஒப்புக்கொள்** (uṇmaiyai oppukkoḷ) → "admit the truth"
+- **தப்பை ஒப்புக்கொள்** (tappai oppukkoḷ) → "admit the mistake"
+
+### Notes
+ஒப்புக்கொள் (oppukkoḷ) "accept, admit" most common. Alternative: ஏற்று (ēṟṟu) "accept" for accepting difficult truths. Reflexive -கொள் (-koḷ) marks benefactive (accepting for oneself).
+
+---
+
+## 12. VERBAL COLLOCATIONS — REALIZATION/PERCEPTION
+
+### Pattern
+**TRUTH-TERM-ACC + PERCEPTION-VERB (உணர் uṇar / அறி aṟi)**
+Truth-terms combine with perception/cognition verbs with accusative marking.
+
+### Examples
+- **உண்மையை உணர்** (uṇmaiyai uṇar) → "realize the truth"
+- **மெய்யை அறி** (meyyai aṟi) → "know the truth/reality"
+
+### Notes
+உணர் (uṇar) emphasizes perceptual/intuitive realization, அறி (aṟi) emphasizes cognitive knowledge. மெய்-based forms more common in philosophical/spiritual contexts.
+
+---
+
+## 13. VERBAL COLLOCATIONS — VERIFICATION/PROOF
+
+### Pattern
+**TRUTH-TERM-ACC + DEMONSTRATION-VERB (காட்டு kāṭṭu / நிரூபி nirūpi)**
+Truth-terms combine with demonstration verbs for proving or showing truth.
+
+### Examples
+- **உண்மையை காட்டு** (uṇmaiyai kāṭṭu) → "show the truth"
+- **உண்மையை நிரூபி** (uṇmaiyai nirūpi) → "prove the truth"
+
+### Notes
+காட்டு (kāṭṭu) "show" is general, நிரூபி (nirūpi) "prove" (< Sanskrit) more formal/academic. மெய்ப்பிக்க (meypikka) "to verify" is dedicated verification verb.
+
+---
+
+## 14. VERBAL COLLOCATIONS — CORRECTION/FIXING
+
+### Pattern
+**சரி (cari) "correct" + செய் (cey) "do, make"**
+The term சரி (cari) "correct" combines with செய் (cey) to mean "fix, correct, repair."
+
+### Examples
+- **சரி செய்** (cari cey) → "fix, correct, repair"
+- **தப்பை சரி செய்** (tappai cari cey) → "correct the mistake"
+
+### Notes
+Extremely productive construction. செய் (cey) is light verb. Completive விடு (viṭu) often added: சரி செய்து விடு (cari ceytu viṭu) "get it fixed." Used for both physical repairs and error correction.
+
+---
+
+## 15. PREDICATIVE INTERROGATIVES
+
+### Pattern
+**X + TRUTH-TERM + -ஆ (-ā) QUESTION PARTICLE**
+Question particle -ஆ (-ā) attaches to truth-term in predicate position.
+
+### Examples
+- **இது உண்மையா** (itu uṇmaiyā) → "is this true?"
+- **அது சரியா** (atu cariyā) → "is that correct?"
+
+### Notes
+-ஆ (-ā) is standard yes/no question marker. Alternative: -ஓ (-ō) for rhetorical questions (உண்மையோ uṇmaiyō "is it really true?"). Intonation also marks questions in colloquial speech.
+
+---
+
+## 16. EMPHATIC CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM + தான் (tāṉ) EMPHATIC PARTICLE**
+Emphatic particle தான் (tāṉ) follows truth-term for strong assertion.
+
+### Examples
+- **இது உண்மைதான்** (itu uṇmaitāṉ) → "this really is true"
+- **அது பொய்தான்** (atu poytāṉ) → "that really is false"
+
+### Notes
+தான் (tāṉ) adds emphasis and certainty. Can combine with other particles: உண்மைதானே (uṇmaitāṉē) "it's true, isn't it?" (seeking confirmation). Very frequent in spoken Tamil.
+
+---
+
+## 17. COMPARATIVE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM-ACC + விட (viṭa) COMPARATIVE MARKER**
+Accusative-marked truth-term + விட (viṭa) "than" for comparisons.
+
+### Examples
+- **உண்மையை விட** (uṇmaiyai viṭa) → "more than the truth, beyond the truth"
+- **பொய்யை விட** (poyyai viṭa) → "worse than a lie"
+
+### Notes
+Used for hyperbolic comparisons or moral evaluations. Not highly productive with truth-terms but attested in emphatic discourse.
+
+---
+
+## 18. COMPOUND FORMATIONS — STATE/CONDITION
+
+### Pattern
+**TRUTH-TERM + நிலை (nilai) "state, condition"**
+Truth-terms compound with நிலை (nilai) to denote states of affairs.
+
+### Examples
+- **உண்மை நிலை** (uṇmai nilai) → "true state of affairs, actual situation"
+- **பொய் நிலை** (poy nilai) → "false state, deceptive condition"
+
+### Notes
+நிலை (nilai) "state, condition" is productive compounding element. Alternative: நிலவரம் (nilavaram) "situation" in formal registers (உண்மை நிலவரம் uṇmai nilavaram "actual situation").
+
+---
+
+## 19. COMPOUND FORMATIONS — KNOWLEDGE/AWARENESS
+
+### Pattern
+**TRUTH-TERM + COGNITION-NOUN (அறிவு aṟivu / உணர்வு uṇarvu / ஞானம் ñāṉam)**
+Truth-terms compound with cognition nouns to form epistemological terms.
+
+### Examples
+- **மெய் அறிவு** (mey aṟivu) → "true knowledge"
+- **மெய் ஞானம்** (mey ñāṉam) → "true wisdom, spiritual knowledge"
+
+### Notes
+அறிவு (aṟivu) "knowledge" for cognitive knowledge, உணர்வு (uṇarvu) "awareness" for consciousness, ஞானம் (ñāṉam) "wisdom" for spiritual knowledge. மெய்-based forms more common than உண்மை-based in philosophical register.
+
+---
+
+## 20. COMPOUND FORMATIONS — INFORMATION/NARRATIVE
+
+### Pattern
+**TRUTH-TERM + INFORMATION-NOUN (தகவல் takaval / செய்தி ceyti / கதை katai)**
+Truth-terms compound with information/narrative nouns.
+
+### Examples
+- **உண்மைத் தகவல்** (uṇmait takaval) → "true information"
+- **பொய்க் கதை** (poyk katai) → "false story, lie"
+
+### Notes
+தகவல் (takaval) "information" for factual data, செய்தி (ceyti) "news" for media, கதை (katai) "story" for narratives. Highly productive pattern for distinguishing true/false information.
+
+---
+
+## 21. COMPOUND FORMATIONS — LEGAL/DOCUMENTARY
+
+### Pattern
+**பொய் (poy) "false" + LEGAL/DOCUMENT-NOUN**
+பொய் (poy) productively compounds with legal and documentary terms.
+
+### Examples
+- **பொய் சாட்சி** (poy cāṭci) → "false testimony, perjury"
+- **பொய் சான்று** (poy cāṉṟu) → "false certificate, forged document"
+
+### Notes
+Highly productive pattern for fraud/forgery terminology. Includes: பொய் ஆவணம் (poy āvaṇam) "false document," பொய் கையெழுத்து (poy kaiyeḻuttu) "forged signature," பொய் அடையாளம் (poy aṭaiyāḷam) "false identity." Positive equivalents less elaborated.
+
+---
+
+## 22. COMPOUND FORMATIONS — COMMERCIAL FRAUD
+
+### Pattern
+**பொய் (poy) "false" + COMMODITY-NOUN**
+பொய் (poy) compounds with commodity terms for counterfeit goods.
+
+### Examples
+- **பொய் சாமான்** (poy cāmāṉ) → "fake goods, counterfeit merchandise"
+- **பொய் நாணயம்** (poy nāṇayam) → "counterfeit currency"
+
+### Notes
+Commercial fraud terminology. Includes: பொய் மருந்து (poy maruntu) "fake medicine," பொய் பொருள் (poy poruḷ) "counterfeit items." Contrasts with அசல் (acal) "genuine, original" and நகல் (nakal) "copy, imitation."
+
+---
+
+## 23. IDIOMATIC/PROVERBIAL EXPRESSIONS
+
+### Pattern
+**Fixed multi-word expressions encoding cultural wisdom about truth/lies**
+Semi-fixed expressions with metaphorical or proverbial meaning.
+
+### Examples
+- **பொய்க்கு கால் இல்லை** (poykku kāl illai) → "lies have no legs" (lies don't last)
+- **உண்மை கசக்கும்** (uṇmai kaṟakkum) → "truth is bitter"
+
+### Notes
+Cultural proverbs about truth/lies. Others: பொய் சொன்னால் கொம்பு முளைக்கும் (poy coṉṉāl kompu muḷaikkum) "if you lie, horns will sprout" (warning to children); உண்மை எப்போதும் வெல்லும் (uṇmai eppōtum vellum) "truth always wins."
+
+---
+
+## 24. DISCOURSE MARKERS — TRUTH-FRAMING
+
+### Pattern
+**உண்மையில் (uṇmaiyil) "in truth" + CONDITIONAL/QUOTATIVE**
+Locative form of உண்மை used as discourse marker to frame frank statements.
+
+### Examples
+- **உண்மையில் சொல்லப்போனால்** (uṇmaiyil collapōṉāl) → "to tell the truth, actually"
+- **உண்மையைச் சொல்ல வேண்டும் என்றால்** (uṇmaiyaic colla vēṇṭum eṉṟāl) → "if I must speak truthfully"
+
+### Notes
+Discourse markers introducing candid or corrective statements. உண்மையில் (uṇmaiyil) "actually, in truth" also functions independently as adverb. Very common in conversational Tamil for hedging or correcting.
+
+---
+
+## 25. ADVERBIAL MANNER CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM + -ஆக (-āka) ADVERBIAL SUFFIX**
+Adverbial suffix -ஆக (-āka) converts truth-nouns to manner adverbs.
+
+### Examples
+- **உண்மையாக** (uṇmaiyāka) → "truly, truthfully"
+- **பொய்யாக** (poyyāka) → "falsely, untruthfully"
+
+### Notes
+Productive pattern for manner adverbs. Emphatic form adds -வே (-vē): உண்மையாகவே (uṇmaiyākavē) "truly indeed." மெய்யாக (meyyāka) "truly, genuinely" more literary than உண்மையாக.
+
+---
+
+## 26. QUOTATIVE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM + என (eṉa) QUOTATIVE PARTICLE**
+Quotative particle என (eṉa) "saying that, as" marks truth-terms as quoted or characterized.
+
+### Examples
+- **உண்மையென** (uṇmaiyeṉa) → "as truth, saying it is true"
+- **பொய்யென** (poyyeṉa) → "as false, calling it a lie"
+
+### Notes
+Used to introduce or characterize statements as true/false. More formal than simple predication. மெய்யென (meyyeṉa) "as truth" common in literary register.
+
+---
+
+## 27. POSSESSIVE/GENITIVE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM + -இன் (-iṉ) GENITIVE + ABSTRACT-NOUN**
+Genitive case marks truth-term as possessor of abstract qualities.
+
+### Examples
+- **உண்மையின் வலிமை** (uṇmaiyiṉ valimai) → "the power of truth"
+- **பொய்யின் விளைவு** (poyyiṉ viḷaivu) → "the consequence of lies"
+
+### Notes
+Used for abstract relationships and qualities. Common with: வலிமை (valimai) "strength," முக்கியத்துவம் (mukkiyattuvaṃ) "importance," இயல்பு (iyalpu) "nature," விளைவு (viḷaivu) "consequence."
+
+---
+
+## 28. LIGHT VERB CONSTRUCTIONS — CHECKING/INSPECTION
+
+### Pattern
+**சரி (cari) "correct" + பார் (pār) "see, look"**
+Light verb பார் (pār) "see" combines with சரி (cari) for checking/verification.
+
+### Examples
+- **சரி பார்** (cari pār) → "check, verify, inspect"
+- **சரி பார்த்துக்கொள்** (cari pārttukkoḷ) → "check for oneself"
+
+### Notes
+Extremely common construction for verification activities. Reflexive -கொள் (-koḷ) adds benefactive meaning. Nominal form: சரி பார்ப்பு (cari pārppu) "checking, inspection."
+
+---
+
+## 29. COMPLETIVE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-VERB + விடு (viṭu) / போ (pō) COMPLETIVE AUXILIARY**
+Completive auxiliaries விடு (viṭu) or போ (pō) mark completion of truth-related actions.
+
+### Examples
+- **உண்மை வெளிப்பட்டுவிட்டது** (uṇmai veḷippaṭṭuviṭṭatu) → "the truth has come out (completely)"
+- **தப்பு செய்துவிட்டேன்** (tappu ceytuviṭṭēṉ) → "I made a mistake (and it's done)"
+
+### Notes
+விடு (viṭu) emphasizes completion/finality, போ (pō) emphasizes change of state. Very common in past tense narratives about truth revelation or error commission.
+
+---
+
+## 30. NEGATIVE IMPERATIVE/PROHIBITIVE
+
+### Pattern
+**TRUTH-VERB-STEM + -ஆதே (-ātē) / -ஆதீர்கள் (-ātīrkaḷ) NEGATIVE IMPERATIVE**
+Negative imperative suffix prohibits truth-related actions.
+
+### Examples
+- **பொய் சொல்லாதே** (poy collātē) → "don't tell lies" (singular informal)
+- **உண்மையை மறைக்காதீர்கள்** (uṇmaiyai maṟaikkātīrkaḷ) → "don't hide the truth" (plural/formal)
+
+### Notes
+-ஆதே (-ātē) singular informal, -ஆதீர்கள் (-ātīrkaḷ) plural/formal. Very common in moral instruction, especially to children. Positive imperative uses bare stem or -உ (-u) suffix.
+
+---
+
+**END OF P4a CONSTRUCTIONS DOCUMENTATION**

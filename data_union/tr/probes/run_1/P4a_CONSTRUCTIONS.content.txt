@@ -1,0 +1,170 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Turkish (tr)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[Subject] + [truth-domain adjective] + copula (*olmak* / zero copula in present)
+
+### Examples
+- Bu iddia doğru. / *Bu iddia doğru.* / "This claim is correct."
+- Belge sahte. / *Belge sahte.* / "The document is fake."
+
+### Notes
+Turkish uses a zero copula in 3rd-person present affirmative; *değil* is inserted for negation. The adjective precedes the zero copula position. Tense/evidential distinctions are marked on the copular suffix: *doğruydu* (was correct), *doğruymuş* (reportedly correct).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+[Subject] + [truth-domain adjective] + *değil* (negation particle)
+
+### Examples
+- Bu bilgi doğru değil. / *Bu bilgi doğru değil.* / "This information is not correct."
+- İddia asılsız değil. / *İddia asılsız değil.* / "The allegation is not unfounded."
+
+### Notes
+*Değil* is the invariant negation particle for nominal/adjectival predicates; it does not inflect for the predicate but takes tense/person suffixes itself (*değildi*, *değilim*). Negation of verbal predicates uses a different strategy (suffix *-me/-ma*).
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[truth-domain adjective] + [noun] (prenominal, no agreement morphology)
+
+### Examples
+- Güvenilir kaynak / *güvenilir kaynak* / "reliable source"
+- Asılsız iddia / *asılsız iddia* / "unfounded allegation"
+
+### Notes
+Turkish adjectives are invariant prenominal modifiers; they carry no case, number, or gender agreement with the head noun. The head noun takes all case suffixes. This is the dominant adnominal pattern across all P1 items.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[base] + *-laş-* (inchoative verbalizer) + *-mak*; or [adjective] + *ol-* + inchoative auxiliary
+
+### Examples
+- Meşrulaşmak / *meşrulaşmak* / "to become legitimate"
+- Geçersiz hale gelmek / *geçersiz hale gelmek* / "to become invalid / to come to be void"
+
+### Notes
+Two strategies coexist: morphological (*-laş-* directly on the base, productive for some items: *meşrulaşmak*, *yasalaşmak*) and periphrastic (*[adjective] + hale gelmek*, "to come into the state of," available for all adjectives). Not all P1 bases take *-laş-* productively; *doğrulaşmak* is marginal, *geçersizleşmek* is rare compared to the periphrastic alternative.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+[base] + *-laştır-* (causative of inchoative) + *-mak*; or [adjective] + *kılmak* / *etmek*
+
+### Examples
+- Meşrulaştırmak / *meşrulaştırmak* / "to legitimize, to render legitimate"
+- Geçersiz kılmak / *geçersiz kılmak* / "to invalidate, to render void"
+
+### Notes
+Two parallel strategies: morphological (*-laştır-* = inchoative *-laş-* + causative *-tır-*, e.g., *meşrulaştırmak*, *yasalaştırmak*) and periphrastic (*[adjective] + kılmak*, "to make/render," e.g., *geçersiz kılmak*, *geçerli kılmak*). The periphrastic strategy is available for all adjectives; the morphological strategy is lexically restricted.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[adjective/verb base] + *-lık/-lik/-luk/-lük* (nominal suffix)
+
+### Examples
+- Doğruluk / *doğruluk* / "truthfulness, correctness, accuracy"
+- Güvenilirlik / *güvenilirlik* / "reliability, trustworthiness"
+
+### Notes
+The suffix *-lık* (with vowel harmony variants) is the primary nominalizer for abstract properties across all P1 items: *yanlışlık*, *gerçeklik*, *sahtecilik*, *meşruiyet* (Arabic-derived alternative), *tarafsızlık*, *nesnellik*, *öznellik*, *haklılık*, *haksızlık*, *geçerlilik*, *geçersizlik*. The Arabic-derived suffix *-iyet* appears in items of Arabic origin (*meşruiyet*, *hakkaniyet*) as an alternative nominalization strategy.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[base] + *-cı/-ci/-cu/-cü* (agentive suffix); or [base] + *-ıcı/-ici* (participial agentive)
+
+### Examples
+- Yalancı / *yalancı* / "liar" (yalan + *-cı*)
+- Yanıltıcı / *yanıltıcı* / "misleader, misleading agent" (yanılt- + *-ıcı*)
+
+### Notes
+Two agentive strategies: *-cı* attaches to nouns to form habitual/role agents (*yalancı*, liar; *doğrucu*, truth-teller; *sahteci*, forger); *-ıcı* attaches to verb stems to form participial agents that can function as adjectives or nouns (*yanıltıcı*, misleading/misleader; *aldatıcı*, deceptive/deceiver). The *-ıcı* forms are more commonly used adjectivally than as pure agent nouns.
+
+---
+
+## 8. PROCESS NOMINALIZATION (VERBAL NOUN)
+
+### Pattern
+[verb stem] + *-ma/-me* (verbal noun suffix)
+
+### Examples
+- Doğrulama / *doğrulama* / "verification, confirmation" (doğrula- + *-ma*)
+- Yalanlama / *yalanlama* / "denial, refutation" (yalanla- + *-ma*)
+
+### Notes
+The *-ma/-me* suffix nominalizes the verbal process itself (as distinct from *-lık* which nominalizes the abstract property). This pattern is productive across the domain: *yanlışlama* (falsification), *aldatma* (deception), *yanılma* (erring), *gerçekleşme* (realization). These forms appear frequently in legal and journalistic registers as action nominals.
+
+---
+
+## 9. ABILITY / POTENTIAL NOMINALIZATION
+
+### Pattern
+[verb stem] + *-(y)abil-* (potential) + *-ir* (aorist) + *-lik* (nominal)
+
+### Examples
+- Doğrulanabilirlik / *doğrulanabilirlik* / "verifiability"
+- Yanlışlanabilirlik / *yanlışlanabilirlik* / "falsifiability"
+
+### Notes
+A layered morphological construction: passive stem + potential suffix + aorist participial + abstract nominalizer. Restricted to philosophical and scientific registers. The parallel pair *doğrulanabilirlik* / *yanlışlanabilirlik* directly encodes the logical positivist / Popperian distinction in Turkish academic discourse.
+
+---
+
+## 10. SINCERITY / CORRECTION DISCOURSE MARKER
+
+### Pattern
+[truth-domain noun in possessive or locative] used sentence-initially as adverbial hedge
+
+### Examples
+- Doğrusu, bilmiyorum. / *Doğrusu, bilmiyorum.* / "Honestly, I don't know."
+- Aslında öyle değil. / *Aslında öyle değil.* / "Actually, it's not like that."
+
+### Notes
+Several truth-domain items grammaticalize as sentence-initial adverbial markers: *doğrusu* (its truth → honestly), *aslında* (in its origin/nature → actually, in fact), *gerçek şu ki* (the truth is that), *hakikaten* (truly). These function as sincerity hedges or corrective frames rather than propositional predicates, and are among the most frequent discourse-structural uses of P1 vocabulary.
+
+---
+
+## 11. APPROXIMATION CONSTRUCTION
+
+### Pattern
+[noun in dative] + *en yakın* / *uzak* + predicate
+
+### Examples
+- Doğruya en yakın cevap / *doğruya en yakın cevap* / "the answer closest to correct"
+- Gerçekten uzak bir senaryo / *gerçekten uzak bir senaryo* / "a scenario far from reality"
+
+### Notes
+Epistemic approximation is expressed periphrastically via spatial metaphor: *yakın* (near) and *uzak* (far/distant) combine with the dative-marked truth noun to express degrees of correspondence to truth or reality. This pattern is productive and compositional rather than lexicalized.
+
+---
+
+## 12. CONTRASTIVE DISTINCTION CONSTRUCTION
+
+### Pattern
+[term A] + *ama* / *olmakla birlikte* + [term B] + *değil*
+
+### Examples
+- Yasal ama meşru değil. / *Yasal ama meşru değil.* / "Legal but not legitimate."
+- Yanıltıcı olmakla birlikte yanlış olmamak. / *Yanıltıcı olmakla birlikte yanlış olmamak.* / "To be misleading without being false."
+
+### Notes
+A productive syntactic pattern used specifically to mark conceptual distinctions within the truth domain: legal vs. legitimate, misleading vs. false, objective vs. subjective. The concessive connectors *ama* (but) and *olmakla birlikte* (while being) signal that the two terms are not co-extensive. This construction recurs wherever the data documents paired near-synonyms with distinct scope.

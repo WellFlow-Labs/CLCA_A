@@ -1,0 +1,136 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Quechua (qu)
+
+---
+
+**Scope note:** Southern Quechua (Cusco-Collao / Ayacucho-Chanka). Three-vowel orthography throughout. Examples drawn from attested forms documented in P1–P3; no forms constructed by analogy.
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[Truth/falsity adjective] + [-m/-mi (direct evidential)] + [subject NP] — predicate-initial or predicate-final order; evidential clitic attaches to the focused predicate.
+
+### Examples
+- `Cheqam kay.` → cheqa-m kay → "This is true." (I assert from direct knowledge)
+- `Llullam chay simi.` → llulla-m chay simi → "That statement is a lie." (I assert from direct knowledge)
+
+### Notes
+Quechua predicative attribution requires the direct evidential clitic *-m(i)* on the predicate when the speaker asserts from personal knowledge; bare *cheqa* or *llulla* without an evidential clitic is grammatically incomplete as a standalone assertion. The clitic attaches to the focused constituent, which is typically the predicate in basic assertions.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+mana + [truth/falsity adjective] + [-chu] — negator *mana* precedes the predicate; negative polar suffix *-chu* closes the predicate.
+
+### Examples
+- `Mana cheqachu.` → mana cheqa-chu → "It is not true. / That is not correct."
+- `Mana llullachu.` → mana llulla-chu → "It is not false. / That is not a lie."
+
+### Notes
+Quechua uses a discontinuous negation frame: *mana* … *-chu*. The evidential clitic is absent in the basic negated form; when the speaker wishes to add evidential commitment to a negation, *-m* attaches to *mana* (*manam … -chu*). This is the standard negation pattern across all predicative constructions in the truth-evaluation domain.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[Truth/falsity/clarity adjective] + [head noun] — modifier precedes head noun; no agreement morphology.
+
+### Examples
+- `cheqa simi` → cheqa simi → "true word / true statement / honest testimony"
+- `llulla runa` → llulla runa → "lying person / dishonest person"
+
+### Notes
+Quechua adnominal modification is strictly pre-nominal; the modifier is invariant (no case, number, or gender agreement with the head). The pattern is highly productive: *cheqa* and *llulla* combine freely with nominal heads (*simi* "word/statement," *runa* "person," *sunqu* "heart," *kawsay* "life," *yuyay* "thought," *ñan* "path") to form evaluative compounds. *Sut'i* participates in the same pattern (*sut'i simi* "clear statement").
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[Truth/falsity adjective] + tuku- + [-y (infinitive)] — *tukuy* ("to become / to pretend to be") follows the adjective; the construction is ambiguous between genuine inchoative ("to become true/false") and performative ("to pretend to be true/false").
+
+### Examples
+- `cheqa tukuy` → cheqa tuku-y → "to pretend to be genuine / to act as if true"
+- `llulla tukuy` → llulla tuku-y → "to feign / to play false / to pretend to be false"
+
+### Notes
+The verb *tukuy* in Quechua covers both genuine becoming and pretense; context disambiguates. In the truth-evaluation domain, the combination with *cheqa* or *llulla* most frequently carries the pretense reading (documented in P1b and P3 Group 10), making these constructions primarily relevant to deception rather than to genuine change of state. A pure inchoative reading ("to become true") is possible but less commonly attested in this domain.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+[Root] + *-cha-* (causative/verbalizing suffix) + [-y (infinitive)] — suffix *-cha-* verbalizes the adjectival root and adds causative meaning; alternatively [verbal root] + *-chi-* + [-y].
+
+### Examples
+- `cheqanchay` → cheqa-ncha-y → "to make true / to verify / to correct / to rectify"
+- `pantachiy` → panta-chi-y → "to cause to err / to mislead"
+
+### Notes
+Two causative suffixes appear in this domain: *-ncha-* (used with nominal/adjectival bases: *cheqa* → *cheqanchay*; *sut'i* → *sut'ichay*; *allin* → *allinchay*) and *-chi-* (used with verbal bases: *panta-* → *pantachiy*; *yacha-* → *yachachiy*; *qawa-* → *qawachiy*). Both are productive. The causative is well-attested across the truth-evaluation domain and is not absent.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[Adjective root] + *-n* (third-person possessive/nominalizing suffix) → abstract nominal; or [verbal stem] + *-sqa* → resultative/participial nominal; or [adjective] + *-ta* (adverbial accusative) in fixed adverbial expressions.
+
+### Examples
+- `cheqan` → cheqa-n → "the truth / what is correct / its truth" (abstract nominal)
+- `cheqaqpaq` → cheqaq-paq → "truly / in truth / for real" (adverbial; lit. "for/toward the true")
+
+### Notes
+Quechua does not have a single dedicated abstract nominalizer equivalent to English *-ness* or *-ity*. Abstract reference to truth is achieved primarily through the possessive/nominalizing *-n* on *cheqa* (*cheqan* "the truth"), through the case-marked adverbial *cheqaqpaq*, and through nominalized clauses (*cheqa kasqan* "its being true"). The form *cheqan* is the closest equivalent to an abstract noun "truth" and appears in constructions such as *cheqanta rimay* ("speak the truth").
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[Verbal stem] + *-q* (agentive nominalizer) → "one who [V]s / habitual [V]-er"
+
+### Examples
+- `llullakuq` → llullaku-q → "liar / one who lies / habitual deceiver"
+- `yachaq` → yacha-q → "one who knows / knowledgeable person / wise person"
+
+### Notes
+The suffix *-q* is the standard agentive nominalizer in Quechua and is fully productive across verbal stems. In the truth-evaluation domain it yields *llullakuq* (liar), *yachaq* (knower/wise person), *qawaq* (observer/inspector), and *ruraq* (doer/maker). A truth-teller agentive is not lexicalized as a single form; the concept is expressed periphrastically (*cheqata rimaq*, "one who speaks truly") or through the adjectival compound *cheqa runa* ("honest person").
+
+---
+
+## 8. EVIDENTIAL PREDICATION (additional pattern)
+
+### Pattern
+[Predicate adjective/nominal] + *-m* (direct evidential) / *-s* (reportative evidential) / *-chá* (conjectural evidential) — clitic attaches to the focused predicate, grammatically encoding the speaker's epistemic source.
+
+### Examples
+- `Cheqam.` / `Cheqas.` / `Cheqacha.` → cheqa-m / cheqa-s / cheqa-chá → "It is true (I know directly)" / "It is apparently true (I was told)" / "It is probably true (I conjecture)"
+- `Llullam.` / `Llullas.` → llulla-m / llulla-s → "It is false (I know directly)" / "It is reportedly false"
+
+### Notes
+This pattern is grammatically obligatory in Quechua assertive discourse: the choice among *-mi*, *-si*, and *-chá* is not optional stylistic variation but encodes the speaker's evidential source as a grammatical category. It applies to all predicates in the truth-evaluation domain and is the primary grammatical mechanism by which Quechua speakers calibrate epistemic commitment to truth claims. It is treated here as a separate construction type because it cross-cuts all other patterns (attribution, nominalization, etc.) and has no parallel in the other construction types listed above.
+
+---
+
+## 9. NOMINALIZED COMPLEMENT CONSTRUCTION (additional pattern)
+
+### Pattern
+[Embedded predicate] + *-sqa* (nominalizer) + *-n* (possessive) + *-ta* (accusative) → nominalized proposition as object of epistemic verb (*yachay*, *iñiy*, *riqsiy*).
+
+### Examples
+- `Cheqa kasqanta yachani.` → cheqa kasqa-n-ta yacha-ni → "I know that it is true." (lit. "I know its being-true")
+- `Llulla kasqanta yachani.` → llulla kasqa-n-ta yacha-ni → "I know that it is false." (lit. "I know its being-false")
+
+### Notes
+Quechua lacks a complementizer equivalent to English *that*; propositional complements are formed by nominalizing the embedded clause with *-sqa* + possessive + case suffix. This construction is the standard pattern for expressing propositional knowledge or belief (*yachay*, *iñiy*) about truth or falsity. The contrast between *cheqa kasqanta yachani* (knowledge) and *cheqa kasqanta iñini* (belief) is epistemically significant and explicitly attested in the data (cf. P2b: *Iñinim, mana yachanichu*).
+
+---
+
+*End of P4a Constructions for Quechua (qu)*

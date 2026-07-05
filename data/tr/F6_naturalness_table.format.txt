@@ -1,0 +1,74 @@
+# F6 — NATURALNESS TABLE
+
+| Prompt # | Expression (Native Script) | Transliteration | Naturalness Rating | Notes |
+|----------|---------------------------|-----------------|-------------------|-------|
+| 1.1 | doğru çıkmak | doğru çıkmak | [CORE] | Very common for predictions, claims, or suspicions confirmed by events. Emphasizes revelation or discovery of truth-value that was previously uncertain. |
+| 1.1 alt | doğru olmak (inchoative) | doğru olmak | [MARGINAL] | Less common as pure inchoative; primarily functions as copula. Inchoative reading possible in contexts like *Artık doğru oldu* "Now it has become true," but marginal. |
+| 1.2 | yanlış çıkmak | yanlış çıkmak | [CORE] | Common for claims or beliefs revealed to be incorrect. Parallel to *doğru çıkmak*. |
+| 1.2 alt | yanlış olmak (inchoative) | yanlış olmak | [MARGINAL] | Primarily copular. Inchoative reading marginal. |
+| 2.1 | gerçekleşmek | gerçekleşmek | [CORE] | Very common for events, plans, dreams, or predictions that become actual. Dedicated morphological inchoative for *gerçek*. |
+| 2.1 alt1 | gerçeğe dönüşmek | gerçeğe dönüşmek | [MARGINAL] | More formal/literary than *gerçekleşmek*. Emphasizes transformation process. |
+| 2.1 alt2 | gerçek olmak (inchoative) | gerçek olmak | [MARGINAL] | Primarily copular. Inchoative reading possible but less common than dedicated *gerçekleşmek*. |
+| 2.2 | sahte çıkmak | sahte çıkmak | [CORE] | Common for objects or claims discovered to be fake. Emphasizes revelation rather than change of state. |
+| 3.1 | haklı çıkmak | haklı çıkmak | [CORE] | Very common for positions or predictions vindicated by events. Emphasizes vindication through evidence or outcomes. |
+| 3.1 alt | haklı olmak (inchoative) | haklı olmak | [MARGINAL] | Primarily copular. Inchoative reading marginal. |
+| 3.2 | haksız çıkmak | haksız çıkmak | [CORE] | Common for positions shown to be incorrect or unjustified by events. |
+| 4.1 | kesinleşmek | kesinleşmek | [CORE] | Common for decisions, plans, or information that becomes final or certain. Used in administrative and everyday contexts. |
+| 4.1 alt | kesin olmak (inchoative) | kesin olmak | [MARGINAL] | Can function as inchoative but *kesinleşmek* is preferred for clear change of state. |
+| 4.2 | kesin olmaktan çıkmak | kesin olmaktan çıkmak | [MARGINAL] | Possible but not common. Highly periphrastic. |
+| 5.1 | geçerli olmak (inchoative) | geçerli olmak | [CORE] | Common for laws, rules, documents that come into effect or become valid. |
+| 5.2 | geçersiz olmak (inchoative) | geçersiz olmak | [CORE] | Common for documents, rules, or arguments that lose validity. |
+| 5.2 alt | geçerliliğini yitirmek | geçerliliğini yitirmek | [CORE] | More formal/technical. Common in legal and administrative contexts. |
+| 6.1 | tutarlı olmak (inchoative) | tutarlı olmak | [MARGINAL] | Possible inchoative reading but not strongly lexicalized. More commonly used as copula. |
+| 6.1 alt | tutarlılık kazanmak | tutarlılık kazanmak | [MARGINAL] | More explicit inchoative construction. Used when something develops consistency over time. |
+| 6.2 | tutarsız olmak (inchoative) | tutarsız olmak | [MARGINAL] | Possible inchoative reading but not strongly lexicalized. |
+| 6.2 alt | tutarsızlık göstermek | tutarsızlık göstermek | [MARGINAL] | More common than pure inchoative *olmak*. Emphasizes manifestation of inconsistency. |
+| 7.1 | doğrulamak | doğrulamak | [CORE] | Very common for confirming truth or accuracy of information. Used in technical, legal, and everyday contexts. |
+| 7.1 alt1 | doğru göstermek | doğru göstermek | [CORE] | Common in argumentative and evidential contexts. Emphasizes demonstration rather than simple confirmation. |
+| 7.1 alt2 | doğru kabul etmek | doğru kabul etmek | [CORE] | Common in formal and argumentative contexts. Emphasizes epistemic stance rather than causation of truth. |
+| 7.2 | yanlışlamak | yanlışlamak | [MARGINAL] | Less common than *doğrulamak*. Used in formal/academic contexts for refutation. |
+| 7.2 alt1 | yanlış olduğunu göstermek | yanlış olduğunu göstermek | [CORE] | More common than simple *yanlışlamak*. Periphrastic but natural. |
+| 7.2 alt2 | yalanlamak | yalanlamak | [CORE] | Common for denying or refuting claims. Stronger than *yanlışlamak*, implies the claim is a deliberate lie. |
+| 8.1 | gerçekleştirmek | gerçekleştirmek | [CORE] | Very common for making plans, projects, or goals actual. The primary morphological causative in truth domain. |
+| 8.1 alt | gerçeğe dönüştürmek | gerçeğe dönüştürmek | [MARGINAL] | More formal/literary than *gerçekleştirmek*. Emphasizes transformation. |
+| 8.2 | sahte yapmak | sahte yapmak | [MARGINAL] | Possible but not strongly lexicalized. More specific terms exist for particular types of fakery. |
+| 8.2 alt | sahtelemek | sahtelemek | [MARGINAL] | Exists but not common in provided corpus. Used for deliberate fabrication. |
+| 9.1 | hak vermek | hak vermek | [CORE] | Very common idiom. Not strictly causative but expresses acknowledgment of rightness. |
+| 9.1 alt | haklı göstermek | haklı göstermek | [MARGINAL] | Possible but not strongly lexicalized. More periphrastic. |
+| 9.2 | haksız göstermek | haksız göstermek | [MARGINAL] | Possible but not common. Highly periphrastic. |
+| 9.2 alt | haksızlık etmek | haksızlık etmek | [CORE] | Common expression for committing injustice. Not strictly causative of wrongness but expresses causing unjust state. |
+| 10.1 | kesinleştirmek | kesinleştirmek | [CORE] | Common for finalizing decisions, plans, or arrangements. Morphological causative of *kesinleşmek*. |
+| 10.1 alt | kesin hale getirmek | kesin hale getirmek | [MARGINAL] | Periphrastic alternative to *kesinleştirmek*. More explicit about causation. |
+| 10.2 | belirsiz hale getirmek | belirsiz hale getirmek | [MARGINAL] | Possible but not common. Highly periphrastic. |
+| 11.1 | geçerli kılmak | geçerli kılmak | [MARGINAL] | Formal/legal register. Used for officially validating documents or rules. |
+| 11.1 alt | geçerli hale getirmek | geçerli hale getirmek | [MARGINAL] | Periphrastic. More common than *kılmak* in everyday usage. |
+| 11.2 | geçersiz kılmak | geçersiz kılmak | [CORE] | Formal/legal register. Common for officially invalidating documents, decisions, or rules. |
+| 11.2 alt | geçersiz hale getirmek | geçersiz hale getirmek | [MARGINAL] | Periphrastic alternative. Less formal than *kılmak*. |
+| 12.1 | tutarlı hale getirmek | tutarlı hale getirmek | [MARGINAL] | Possible but not strongly lexicalized. Used when editing or revising for consistency. |
+| 13.1 | gerçek ortaya çıkmak | gerçek ortaya çıkmak | [CORE] | Very common for truth being discovered or revealed. Emphasizes natural emergence rather than deliberate revelation. |
+| 13.1 alt | hakikat ortaya çıkmak | hakikat ortaya çıkmak | [CORE] | More formal/elevated than *gerçek ortaya çıkmak*. Same construction pattern. |
+| 13.2 | gerçeği ortaya çıkarmak | gerçeği ortaya çıkarmak | [CORE] | Common for actively revealing or uncovering truth. Causative of *ortaya çıkmak*. |
+| 13.2 alt | gerçeği göstermek | gerçeği göstermek | [CORE] | Common for demonstrating or revealing truth. Less emphatic than *ortaya çıkarmak*. |
+| 14.1 | gerçeği gizlemek | gerçeği gizlemek | [CORE] | Very common for deliberately hiding or concealing truth. |
+| 14.1 alt1 | gerçeği saklamak | gerçeği saklamak | [CORE] | Similar to *gizlemek* but slightly less common. Emphasizes keeping hidden. |
+| 14.1 alt2 | gerçeği örtmek | gerçeği örtmek | [MARGINAL] | Metaphorical. Used for cover-ups and deliberate concealment. |
+| 15.1 | gerçeği çarpıtmak | gerçeği çarpıtmak | [CORE] | Common for deliberately misrepresenting or distorting truth. Used in political and media criticism. |
+| 15.1 alt | gerçeği saptırmak | gerçeği saptırmak | [MARGINAL] | Less common than *çarpıtmak*. Emphasizes deflection or misdirection. |
+| 16.1 | gerçeği kabul etmek | gerçeği kabul etmek | [CORE] | Very common for accepting or acknowledging truth or reality, especially difficult truths. |
+| 16.1 alt | doğru kabul etmek | doğru kabul etmek | [CORE] | Common in formal and argumentative contexts. Emphasizes epistemic acceptance. |
+| 16.2 | gerçeği inkâr etmek | gerçeği inkâr etmek | [CORE] | Formal expression for denying or refusing to accept truth or reality. |
+| 16.2 alt1 | gerçeği reddetmek | gerçeği reddetmek | [CORE] | Common for rejecting truth. Less formal than *inkâr etmek*. |
+| 16.2 alt2 | yalanlamak | yalanlamak | [CORE] | Common for denying claims or statements. Implies the claim is false. |
+| 17.1 | gerçeği öğrenmek | gerçeği öğrenmek | [CORE] | Very common for discovering or learning what is really true. |
+| 17.1 alt1 | doğruyu öğrenmek | doğruyu öğrenmek | [CORE] | Similar to *gerçeği öğrenmek*. Both are common. |
+| 17.1 alt2 | hakikati öğrenmek | hakikati öğrenmek | [CORE] | More formal/elevated than *gerçeği öğrenmek*. |
+| 18.1 | gerçeğin peşinde olmak | gerçeğin peşinde olmak | [CORE] | Common expression for actively seeking or pursuing truth. |
+| 18.1 alt1 | gerçeğin peşinden koşmak | gerçeğin peşinden koşmak | [CORE] | More emphatic than *peşinde olmak*. Implies dedicated effort. |
+| 18.1 alt2 | hakikati aramak | hakikati aramak | [MARGINAL] | More formal/philosophical than *gerçeğin peşinde olmak*. |
+| 19.1 | doğru kalmak | doğru kalmak | [CORE] | Common for statements or conditions that continue to be true over time. |
+| 19.1 alt | geçerliliğini korumak | geçerliliğini korumak | [CORE] | Common for rules, laws, or arguments that retain validity. |
+| 19.2 | gerçek kalmak | gerçek kalmak | [MARGINAL] | Possible but less common than *doğru kalmak*. Used for authenticity that persists. |
+| 19.3 | geçerliliğini yitirmek | geçerliliğini yitirmek | [CORE] | Very common for documents, rules, or arguments that lose validity. |
+| 19.3 alt | doğruluğunu yitirmek | doğruluğunu yitirmek | [MARGINAL] | Less common than *geçerliliğini yitirmek*. Used when something ceases to be true. |
+| 20.1 | giderek daha kesin olmak | giderek daha kesin olmak | [MARGINAL] | Possible but highly periphrastic. Not lexicalized. |
+| 20.2 | giderek daha belirsiz olmak | giderek daha belirsiz olmak | [MARGINAL] | Possible but highly periphrastic. Not lexicalized. |

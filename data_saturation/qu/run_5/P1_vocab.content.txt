@@ -1,0 +1,314 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Quechua (qu)
+
+---
+
+**Preliminary note on scope:** Quechua is a dialect continuum with significant lexical variation across varieties (Cusco-Collao, Ayacucho, Ecuadorian, etc.). Items below are drawn primarily from Southern Quechua (Cusco-Collao and Ayacucho-Chanka), which has the most extensive documentation. Variety-specific distribution is noted where relevant. No unified orthographic standard exists across all varieties; the Cusco-Collao five-vowel academic orthography is used here as the primary form, with transliteration following standard academic convention (as in the work of Gary Parker, Rodolfo Cerrón-Palomino, and the Academia Mayor de la Lengua Quechua).
+
+---
+
+## Lexical Items
+
+---
+
+**1.**
+- **Form:** cheqa
+- **Transliteration:** cheqa
+- **Morphological breakdown:** Root; adjective/noun base
+- **Typical English translations:** true, truth, real, genuine, correct
+- **Usage:** *Cheqa* is the primary term for truth and correctness across Southern Quechua varieties, used in evaluating statements, facts, and the authenticity of persons or things. It appears in both everyday speech and formal or moral contexts. It participates in productive derivation (e.g., *cheqaq*, *cheqaqa*, *cheqan*).
+- **[CORE]**
+
+---
+
+**2.**
+- **Form:** cheqaq
+- **Transliteration:** cheqaq
+- **Morphological breakdown:** cheqa + *-q* (agentive/nominalizing suffix) → "one who is true / that which is true"
+- **Typical English translations:** true, truthful, genuine, real (predicative or nominal)
+- **Usage:** Used as a predicate adjective or nominal to describe a person or statement as truthful or genuine. Frequently used in moral evaluation of persons as honest or trustworthy. Attested across Southern Quechua varieties.
+- **[CORE]**
+
+---
+
+**3.**
+- **Form:** cheqaqsi
+- **Transliteration:** cheqaqsi
+- **Morphological breakdown:** cheqaq + *-si* (reportative evidential suffix) → "reportedly true"
+- **Typical English translations:** reportedly true, said to be true, allegedly genuine
+- **Usage:** Marks a proposition as true according to reported or hearsay evidence rather than direct knowledge. Illustrates the grammaticalized evidential system in Quechua, where epistemic source is obligatorily encoded. Relevant to evaluation of testimony and second-hand claims.
+- **[CORE]**
+
+---
+
+**4.**
+- **Form:** cheqaqmi
+- **Transliteration:** cheqaqmi
+- **Morphological breakdown:** cheqaq + *-mi* (direct evidential/assertive suffix) → "it is indeed true (I know directly)"
+- **Typical English translations:** it is truly so, it is indeed true, certainly genuine
+- **Usage:** The direct-evidential form of *cheqaq*, asserting truth on the basis of the speaker's direct knowledge or experience. Contrasts systematically with *cheqaqsi* (reportative) and *cheqaqchus* (dubitative). Central to how Quechua speakers mark the epistemic grounding of truth claims.
+- **[CORE]**
+
+---
+
+**5.**
+- **Form:** cheqan
+- **Transliteration:** cheqan
+- **Morphological breakdown:** cheqa + *-n* (third-person possessive/nominalizing suffix) → "its truth / what is right"
+- **Typical English translations:** what is right, what is correct, the truth of the matter, justice
+- **Usage:** Used to refer to what is correct or just in a given situation, often in moral or legal contexts. Appears in expressions evaluating whether a course of action or judgment is proper. Attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**6.**
+- **Form:** cheqaqa
+- **Transliteration:** cheqaqa
+- **Morphological breakdown:** cheqa + *-qa* (topic marker) → "as for the truth / the truth is..."
+- **Typical English translations:** the truth is..., in truth, actually, in reality
+- **Usage:** A topicalized form used to introduce a corrective or clarifying statement, often contrasting an apparent or reported state of affairs with what is actually the case. Functions pragmatically to signal a shift to a more accurate or genuine account.
+- **[CORE]**
+
+---
+
+**7.**
+- **Form:** llulla
+- **Transliteration:** llulla
+- **Morphological breakdown:** Root; adjective/noun base
+- **Typical English translations:** false, lie, liar, deceptive, fake
+- **Usage:** The primary term for falsehood and deception in Southern Quechua, used to evaluate statements as false or persons as dishonest. Directly antonymous to *cheqa* in most contexts. Participates in derivation (e.g., *llullakuy*, *llullaq*).
+- **[CORE]**
+
+---
+
+**8.**
+- **Form:** llullakuy
+- **Transliteration:** llullakuy
+- **Morphological breakdown:** llulla + *-ku* (reflexive/middle voice) + *-y* (infinitive) → "to lie (to oneself / in general)"
+- **Typical English translations:** to lie, to deceive, to tell falsehoods
+- **Usage:** The verbal form derived from *llulla*, used to describe the act of lying or deceiving. Appears in moral condemnation of dishonest conduct. Widely attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**9.**
+- **Form:** llullaq
+- **Transliteration:** llullaq
+- **Morphological breakdown:** llulla + *-q* (agentive suffix) → "one who lies / liar"
+- **Typical English translations:** liar, deceiver, one who is false
+- **Usage:** Nominal/adjectival form used to characterize a person as a habitual liar or as fundamentally dishonest. Used in moral evaluation of persons. Attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**10.**
+- **Form:** rura
+- **Transliteration:** rura
+- **Morphological breakdown:** Root; noun/adjective base
+- **Typical English translations:** real, genuine, actual, true (in the sense of authentic)
+- **Usage:** Used in some Quechua varieties to indicate that something is the genuine or authentic instance of a kind, as opposed to an imitation or substitute. Distribution is more limited than *cheqa* and varies by region; the overlap and distinction with *cheqa* in authenticity contexts requires further documentation.
+- **[UNCERTAIN]**
+
+---
+
+**11.**
+- **Form:** qelqa cheqa
+- **Transliteration:** qelqa cheqa
+- **Morphological breakdown:** qelqa ("writing, document, letter") + cheqa ("true, correct") → "correct writing / authentic document"
+- **Typical English translations:** authentic document, correct text, genuine writing
+- **Usage:** A compositional expression used in contexts evaluating the authenticity or correctness of written documents or texts. Relevant in legal and administrative contexts in Quechua-speaking communities. Attested as a collocation rather than a fully lexicalized unit.
+- **[MARGINAL]**
+
+---
+
+**12.**
+- **Form:** allin
+- **Transliteration:** allin
+- **Morphological breakdown:** Root; adjective/adverb base
+- **Typical English translations:** good, well, right, proper, correct
+- **Usage:** A high-frequency evaluative term covering goodness, correctness, and propriety across moral, practical, and aesthetic domains. Used to evaluate conduct, objects, and states of affairs as right or appropriate. Participates in extensive derivation and compounding.
+- **[CORE]**
+
+---
+
+**13.**
+- **Form:** mana allin
+- **Transliteration:** mana allin
+- **Morphological breakdown:** mana (negation) + allin ("good, right") → "not good, not right"
+- **Typical English translations:** bad, wrong, improper, not right, incorrect
+- **Usage:** The standard negated form of *allin*, used to evaluate conduct, objects, or statements as wrong, bad, or improper. Functions as the primary antonym of *allin* in evaluative contexts. Widely attested across Quechua varieties.
+- **[CORE]**
+
+---
+
+**14.**
+- **Form:** hina
+- **Transliteration:** hina
+- **Morphological breakdown:** Root; postposition/adverb/comparator
+- **Typical English translations:** like, as, similar to, resembling, in the manner of
+- **Usage:** Used to express resemblance or similarity between two entities or states of affairs. Relevant in evaluating whether something resembles or corresponds to something else. Participates in comparative constructions across Quechua varieties.
+- **[CORE]**
+
+---
+
+**15.**
+- **Form:** hinam
+- **Transliteration:** hinam
+- **Morphological breakdown:** hina + *-m* (shortened direct evidential) → "it is indeed so / it is just like that"
+- **Typical English translations:** it is so, that is how it is, indeed, exactly like that
+- **Usage:** Used to affirm that something is indeed as described or as it appears, with direct evidential force. Functions in confirming the accuracy of a description or the correctness of an assessment. Widely attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**16.**
+- **Form:** qelqasqa
+- **Transliteration:** qelqasqa
+- **Morphological breakdown:** qelqa- (write) + *-sqa* (past participle/resultative) → "that which has been written / written (thing)"
+- **Typical English translations:** written, recorded, documented
+- **Usage:** Used to refer to written or documented evidence, relevant in legal and administrative contexts when evaluating the authenticity or authority of a record. The written form is often treated as a standard against which accuracy is measured. Attested in Southern Quechua.
+- **[MARGINAL]**
+
+---
+
+**17.**
+- **Form:** imayna
+- **Transliteration:** imayna
+- **Morphological breakdown:** ima ("what") + *-yna* (manner suffix) → "of what kind / how / what sort"
+- **Typical English translations:** what kind of, what sort of, how (in the sense of "what is the nature of")
+- **Usage:** Used in questions and descriptions probing the nature or character of something, relevant to evaluations of what something fundamentally is. Appears in contexts where the essential quality or identity of a person, object, or action is under scrutiny.
+- **[CORE]**
+
+---
+
+**18.**
+- **Form:** ima kay
+- **Transliteration:** ima kay
+- **Morphological breakdown:** ima ("what") + kay ("to be / being / this") → "what it is / its being"
+- **Typical English translations:** what it is, its nature, its essence, what kind of thing it is
+- **Usage:** Used to probe or assert the fundamental nature or identity of something. Relevant in philosophical and practical contexts where the question is what something really or essentially is. Attested as a compositional expression in Southern Quechua.
+- **[UNCERTAIN]**
+
+---
+
+**19.**
+- **Form:** cheqa kay
+- **Transliteration:** cheqa kay
+- **Morphological breakdown:** cheqa ("true, real") + kay ("being, to be") → "true being / reality / truthfulness"
+- **Typical English translations:** truth, reality, genuineness, what is truly the case
+- **Usage:** A nominalized expression referring to the state or quality of being true or real. Used in more abstract or reflective contexts to refer to truth as a property or to reality as opposed to appearance. Attested in Southern Quechua, though more common in formal or reflective registers.
+- **[MARGINAL]**
+
+---
+
+**20.**
+- **Form:** pantay
+- **Transliteration:** pantay
+- **Morphological breakdown:** panta- (to err, to be wrong) + *-y* (infinitive/nominalization) → "to err / error / being wrong"
+- **Typical English translations:** to be wrong, to err, to make a mistake, error, mistake
+- **Usage:** Used to evaluate a statement, action, or judgment as incorrect or mistaken. Contrasts with *cheqa* in contexts of factual or moral evaluation. Participates in derivation (e.g., *pantasqa*, *pantaq*).
+- **[CORE]**
+
+---
+
+**21.**
+- **Form:** pantasqa
+- **Transliteration:** pantasqa
+- **Morphological breakdown:** panta- + *-sqa* (past participle/resultative) → "that which has erred / mistaken / wrong"
+- **Typical English translations:** mistaken, wrong, erroneous, in error
+- **Usage:** Adjectival/participial form used to characterize a statement, belief, or action as having gone wrong or being in error. Used in evaluative contexts across moral and factual domains. Attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**22.**
+- **Form:** cheqaq simi
+- **Transliteration:** cheqaq simi
+- **Morphological breakdown:** cheqaq ("true, genuine") + simi ("mouth, word, language, speech") → "true word / truthful speech"
+- **Typical English translations:** true word, truthful speech, honest statement, genuine testimony
+- **Usage:** A collocation used to evaluate speech or testimony as truthful and reliable. Appears in contexts of legal testimony, moral exhortation, and evaluation of reported speech. Attested in Southern Quechua.
+- **[MARGINAL]**
+
+---
+
+**23.**
+- **Form:** llulla simi
+- **Transliteration:** llulla simi
+- **Morphological breakdown:** llulla ("false, deceptive") + simi ("mouth, word, speech") → "false word / lying speech"
+- **Typical English translations:** lie, false speech, deceptive words, dishonest testimony
+- **Usage:** The antonym of *cheqaq simi*, used to evaluate speech or testimony as false or deceptive. Appears in moral condemnation of dishonest speech and in legal contexts. Attested in Southern Quechua.
+- **[MARGINAL]**
+
+---
+
+**24.**
+- **Form:** riqsiy
+- **Transliteration:** riqsiy
+- **Morphological breakdown:** riqsi- (to know, to recognize, to be acquainted with) + *-y* (infinitive/nominalization) → "to know / to recognize / recognition"
+- **Typical English translations:** to know, to recognize, to identify, knowledge (of persons or things)
+- **Usage:** Used for knowledge by acquaintance or recognition, relevant in contexts of identifying whether something or someone is genuine or as represented. Distinct from *yachay* (propositional knowledge/skill). Participates in derivation relevant to evaluation of identity and authenticity.
+- **[CORE]**
+
+---
+
+**25.**
+- **Form:** yachay
+- **Transliteration:** yachay
+- **Morphological breakdown:** yacha- (to know, to learn, to be skilled) + *-y* (infinitive/nominalization) → "to know / knowledge / skill"
+- **Typical English translations:** to know, knowledge, to learn, skill, expertise
+- **Usage:** The primary term for propositional knowledge and learned skill. Relevant in evaluative contexts where the question is whether someone has genuine knowledge or expertise as opposed to false claims of competence. Widely attested across Quechua varieties.
+- **[CORE]**
+
+---
+
+**26.**
+- **Form:** kallpachakuy
+- **Transliteration:** kallpachakuy
+- **Morphological breakdown:** kallpa ("strength, force, validity") + *-cha* (causative) + *-ku* (reflexive) + *-y* (infinitive) → "to strengthen oneself / to validate / to confirm"
+- **Typical English translations:** to confirm, to validate, to verify, to strengthen (a claim or position)
+- **Usage:** Used in contexts of confirming or validating a claim, decision, or identity. Relevant in legal and administrative contexts where the validity or force of a statement or document is at issue. Distribution and precise usage require further documentation.
+- **[UNCERTAIN]**
+
+---
+
+**27.**
+- **Form:** cheqanchay
+- **Transliteration:** cheqanchay
+- **Morphological breakdown:** cheqa + *-ncha* (causative/verbalizer) + *-y* (infinitive) → "to make true / to verify / to correct / to confirm"
+- **Typical English translations:** to verify, to confirm, to correct, to make right, to establish as true
+- **Usage:** A derived verbal form meaning to establish something as true, to verify, or to correct an error. Used in contexts of checking accuracy, confirming facts, or rectifying a false or mistaken state of affairs. Attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**28.**
+- **Form:** kikin
+- **Transliteration:** kikin
+- **Morphological breakdown:** Root; pronoun/adjective base
+- **Typical English translations:** same, identical, oneself, the very (one), exact
+- **Usage:** Used to assert identity or sameness, relevant in evaluating whether something is the genuine article or the very thing in question rather than a substitute or imitation. Also used reflexively. Widely attested across Quechua varieties.
+- **[CORE]**
+
+---
+
+**29.**
+- **Form:** mana cheqa
+- **Transliteration:** mana cheqa
+- **Morphological breakdown:** mana (negation) + cheqa ("true, real") → "not true / untrue / unreal"
+- **Typical English translations:** untrue, false, unreal, not genuine, incorrect
+- **Usage:** The negated form of *cheqa*, used to evaluate a statement, object, or person as not genuine, not true, or not real. Functions as a direct negation in evaluative contexts. Widely attested in Southern Quechua.
+- **[CORE]**
+
+---
+
+**30.**
+- **Form:** tiqsi
+- **Transliteration:** tiqsi
+- **Morphological breakdown:** Root; noun base
+- **Typical English translations:** foundation, basis, origin, root, fundamental nature
+- **Usage:** Used to refer to the foundational or fundamental nature of something, relevant in contexts where the question is what something essentially or originally is. Appears in philosophical and cosmological discourse in Quechua. Distribution is more limited and the term is more common in formal or elevated registers.
+- **[MARGINAL]**
+
+---
+
+*End of P1 Core Vocabulary Collection — Quechua (qu)*

@@ -1,0 +1,94 @@
+# F6 — NATURALNESS TABLE
+
+| Prompt # | Expression (Native Script) | Transliteration | Naturalness Rating | Notes |
+|----------|---------------------------|-----------------|-------------------|--------|
+| 1 | menjadi benar | menjadi benar | [CORE] | Very natural and commonly used. Standard inchoative construction. |
+| 1-alt1 | terbukti benar | terbukti benar | [CORE] | Emphasizes evidential basis. |
+| 1-alt2 | ternyata benar | ternyata benar | [CORE] | Evidential discovery, extremely common in narrative. |
+| 2 | menjadi salah | menjadi salah | [MARGINAL] | Grammatically acceptable but less frequently attested than discovery constructions. |
+| 2-alt1 | ternyata salah | ternyata salah | [CORE] | Much more common than menjadi salah. |
+| 2-alt2 | terbukti salah | terbukti salah | [CORE] | Proven wrong, common. |
+| 3 | menjadi asli | menjadi asli | [UNCERTAIN/MARGINAL] | Grammatically possible but pragmatically strange for physical objects. |
+| 3-alt1 | terbukti asli | terbukti asli | [CORE] | Much more natural - proven genuine. |
+| 3-alt2 | ternyata asli | ternyata asli | [CORE] | Turns out to be genuine. |
+| 4 | menjadi palsu | menjadi palsu | [UNCERTAIN/MARGINAL] | Grammatically possible but pragmatically strange. |
+| 4-alt1 | ternyata palsu | ternyata palsu | [CORE] | Natural - turns out to be fake. |
+| 4-alt2 | terbukti palsu | terbukti palsu | [CORE] | Proven fake. |
+| 5 | menjadi jujur | menjadi jujur | [CORE] | Natural for character development or behavioral change. |
+| 5-alt1 | mulai jujur | mulai jujur | [CORE] | Start being honest (inchoative with "mulai"). |
+| 5-alt2 | berubah menjadi jujur | berubah menjadi jujur | [CORE] | Change to become honest (emphatic). |
+| 6 | menjadi pembohong | menjadi pembohong | [CORE] | Natural with agentive nominalization. |
+| 6-alt1 | mulai berbohong | mulai berbohong | [CORE] | Start lying (verbal form). |
+| 6-alt2 | mulai suka bohong | mulai suka bohong | [CORE] | Start to like lying. |
+| 7 | menjadi sah | menjadi sah | [CORE] | Extremely natural in legal/administrative contexts. |
+| 7-alt | disahkan | disahkan | [CORE] | Validated/legalized (passive causative, more common). |
+| 8 | menjadi batal | menjadi batal | [CORE] | Natural in legal/administrative contexts. |
+| 8-alt | dibatalkan | dibatalkan | [CORE] | Cancelled/annulled (passive causative, more common). |
+| 9 | menjadi nyata | menjadi nyata | [CORE] | Extremely natural and frequently used. |
+| 9-alt | menjadi kenyataan | menjadi kenyataan | [CORE] | Become reality (with nominalization). |
+| 9-alt2 | terwujud | terwujud | [CORE] | Realized, materialized (common alternative). |
+| 10 | menjadi mirip | menjadi mirip | [CORE] | Natural for describing developing resemblance. |
+| 10-alt1 | semakin mirip | semakin mirip | [CORE] | Increasingly similar (very common). |
+| 10-alt2 | mulai mirip | mulai mirip | [CORE] | Start to resemble. |
+| 11 | menjadi sama | menjadi sama | [CORE] | Natural for describing convergence. |
+| 11-alt1 | menyamakan | menyamakan | [CORE] | To make the same, to equalize (causative). |
+| 11-alt2 | disamakan | disamakan | [CORE] | Made the same, equalized (passive). |
+| 12 | menjadi cocok | menjadi cocok | [CORE] | Natural for all appropriateness terms. |
+| 12-alt | menjadi wajar | menjadi wajar | [CORE] | Become reasonable. |
+| 13 | menjadi akurat | menjadi akurat | [CORE] | Natural, especially with "lebih" (more) for gradual improvement. |
+| 13-alt | menjadi lebih akurat | menjadi lebih akurat | [CORE] | More common than absolute "menjadi akurat". |
+| 14 | membenarkan | membenarkan | [CORE] | Extremely common and productive causative. |
+| 15 | menyalahkan | menyalahkan | [CORE] | Extremely common causative. |
+| 16 | mengaslikan | mengaslikan | [MARGINAL/UNCERTAIN] | Grammatically possible but rarely attested. |
+| 16-alt1 | memverifikasi keaslian | memverifikasi keaslian | [CORE] | Verify authenticity (much more common). |
+| 16-alt2 | mengautentikasi | mengautentikasi | [CORE] | Authenticate (formal/technical, borrowed). |
+| 17 | memalsu | memalsu | [CORE] | Very common in legal and criminal contexts. |
+| 17-alt | memalsukan | memalsukan | [CORE] | Used interchangeably with memalsu. |
+| 18 | *menjujurkan | N/A | [DOES NOT EXIST] | No common causative form exists. |
+| 18-alt1 | membuat jujur | membuat jujur | [MARGINAL] | Make honest (analytic causative, rare). |
+| 18-alt2 | mendorong untuk jujur | mendorong untuk jujur | [CORE] | Encourage to be honest. |
+| 19 | membohongi | membohongi | [CORE] | Extremely common applicative/causative. |
+| 19-alt1 | membuat bohong | membuat bohong | [MARGINAL] | Make lie (rare, analytic). |
+| 19-alt2 | menyuruh bohong | menyuruh bohong | [MARGINAL] | Order to lie. |
+| 20 | mengesahkan | mengesahkan | [CORE] | Extremely common in legal/administrative contexts. |
+| 20-alt | mengabsahkan | mengabsahkan | [CORE] | Used interchangeably with mengesahkan. |
+| 21 | membatalkan | membatalkan | [CORE] | Extremely common in administrative, commercial, and legal contexts. |
+| 22 | menyatakan | menyatakan | [CORE] | Extremely common (declare, state, express). |
+| 22-alt | mewujudkan | mewujudkan | [CORE] | Extremely common (realize, materialize). |
+| 23 | menyerupai | menyerupai | [CORE] | Common (resemble, be similar to - applicative). |
+| 23-alt | menyamakan | menyamakan | [CORE] | Common (equate, make equal - true causative). |
+| 24 | mencocokkan | mencocokkan | [CORE] | Very common (match, fit). |
+| 24-alt | menyesuaikan | menyesuaikan | [CORE] | Very common (adjust, adapt). |
+| 25 | mengakuratkan | mengakuratkan | [MARGINAL] | Grammatically possible but rarely used. |
+| 25-alt1 | memperbaiki akurasi | memperbaiki akurasi | [CORE] | Improve accuracy. |
+| 25-alt2 | menetapkan | menetapkan | [CORE] | Very common (determine, establish). |
+| 26 | mewajarkan | mewajarkan | [CORE] | Common in social and economic contexts. |
+| 27 | memantaskan | memantaskan | [MARGINAL] | Grammatically acceptable but not highly frequent. |
+| 27-alt1 | menyiapkan | menyiapkan | [CORE] | To prepare (more common). |
+| 27-alt2 | membuat pantas | membuat pantas | [MARGINAL] | Make appropriate (analytic). |
+| 28 | membetulkan | membetulkan | [CORE] | Very common in everyday speech. |
+| 28-alt | membetulan | membetulan | [CORE] | Common variant. |
+| 29 | mengelirukan | mengelirukan | [CORE] | Common in contexts of deception or confusion. |
+| 30 | tetap benar | tetap benar | [CORE] | Very natural for expressing stability. |
+| 30-alt1 | masih benar | masih benar | [CORE] | Still true. |
+| 30-alt2 | terus benar | terus benar | [CORE] | Continue to be true. |
+| 31 | tetap salah | tetap salah | [CORE] | Natural for expressing stability of error. |
+| 31-alt | masih salah | masih salah | [CORE] | Still wrong. |
+| 32 | tetap sah | tetap sah | [CORE] | Very natural in legal/administrative contexts. |
+| 33 | tetap jujur | tetap jujur | [CORE] | Natural for character stability. |
+| 34 | tetap sama | tetap sama | [CORE] | Extremely common across all contexts. |
+| 34-alt1 | tidak berubah | tidak berubah | [CORE] | Not change, unchanged. |
+| 34-alt2 | masih sama | masih sama | [CORE] | Still the same. |
+| 35 | semakin mirip | semakin mirip | [CORE] | Extremely productive with gradable terms. |
+| 35-alt1 | makin akurat | makin akurat | [CORE] | More and more accurate. |
+| 35-alt2 | semakin jelas kebenarannya | semakin jelas kebenarannya | [CORE] | Its truth becomes increasingly clear. |
+| 36 | menjaga kebenaran | menjaga kebenaran | [CORE] | Natural with abstract nominalizations. |
+| 36-alt | mempertahankan kebenaran | mempertahankan kebenaran | [CORE] | Maintain, defend truth. |
+| 37 | masih benar | masih benar | [CORE] | Very natural for expressing continuation. |
+| 37-alt | terus benar | terus benar | [CORE] | Continue to be true. |
+| 38 | tidak lagi benar | tidak lagi benar | [CORE] | Very natural for expressing cessation. |
+| 38-alt | sudah tidak benar | sudah tidak benar | [CORE] | Already not true. |
+| 39 | ternyata benar | ternyata benar | [CORE] | Extremely frequent across all registers. |
+| 39-alt | ternyata dokumen itu palsu | ternyata dokumen itu palsu | [CORE] | It turns out that document was fake. |
+| 40 | terbukti benar | terbukti benar | [CORE] | Very common, especially in formal/legal contexts. |
+| 40-alt | terbukti palsu di pengadilan | terbukti palsu di pengadilan | [CORE] | Proven fake in court. |

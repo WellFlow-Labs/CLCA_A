@@ -1,0 +1,16 @@
+name: clca
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - openai>=1.0
+      - anthropic
+      - jinja2
+      - tqdm
+      - tabulate
+      - pyyaml
+      - numpy
+      - pandas
+      - toml

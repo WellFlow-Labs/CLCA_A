@@ -1,0 +1,40 @@
+# CLCA within-protocol reproducibility comparison
+# baseline: data
+# rerun:    data_reproducibility
+# languages: ka, yo, fi, eu, ta, id, tr, ko, zh, he, sa, el, en, tl, sw, qu
+
+Lang   P1 core Jaccard        P5 core match          P6 content Jaccard    
+----------------------------------------------------------------------------
+ka      44.4% (16/36)           9.8% (6/61)           22.8% (47/206)       
+yo      26.1% (12/46)           7.2% (5/69)           64.7% (11/17)        
+fi      69.7% (23/33)          22.8% (13/57)          50.0% (1/2)          
+eu      48.7% (19/39)          11.8% (6/51)          100.0% (1/1)          
+ta      41.5% (17/41)           0.0% (0/50)           18.1% (49/271)       
+id      51.4% (19/37)          23.6% (13/55)          50.0% (1/2)          
+tr      52.6% (20/38)          15.5% (13/84)          70.0% (7/10)         
+ko      61.8% (21/34)          15.1% (8/53)           21.0% (65/310)       
+zh      66.7% (24/36)          14.0% (8/57)           14.6% (45/309)       
+he      47.2% (17/36)          12.9% (9/70)           18.6% (48/258)       
+sa      35.7% (15/42)           0.0% (0/71)           24.5% (51/208)       
+el      67.7% (21/31)           0.0% (0/72)           26.1% (71/272)       
+en      69.7% (23/33)          41.4% (29/70)           2.6% (1/38)         
+tl      33.3% (14/42)          11.4% (8/70)           50.0% (1/2)          
+sw      39.5% (15/38)           6.7% (3/45)          100.0% (1/1)          
+qu      36.6% (15/41)           8.6% (5/58)          100.0% (2/2)          
+
+=== Summary ===
+P1 core vocab Jaccard:    range 26–70%, mean 50% across 16 languages
+P5 core oppositions:      0/16 perfect match — range 0–41%, mean 13%
+P6 content (script-token) Jaccard: range 3–100%, mean 46%
+
+Protocol-version mismatch on P6 (baseline vs rerun):
+  ka: v3.3 → v3.4
+  yo: v3.4 → v3.3
+  eu: v3.3 → v3.4
+  tr: v3.3 → v3.4
+  ko: v3.2 → v3.4
+  el: v3.2 → v3.3
+  en: v3.3 → v3.4
+  sw: v3.3 → v3.4
+  qu: v3.4 → v3.3
+(P6 comparison uses script-token overlap because the v3.3 → v3.4 prompt change reorganised section headers; the token-level content metric is robust to formatting drift.)

@@ -1,0 +1,79 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | NP + copula (often zero in present) + adjective/noun predicate | זה נכון.; המקור מהימן. | Direct match to ATTR | None |
+| ADNOM | Noun + adjective/participle modifier | סיפור אמיתי; מסמך מזויף | Direct match to ADNOM | None |
+| BECOME | NO COMMON EXPRESSION EXISTS | (no common expression identified) | SUBSTITUTED BY REVELATION in available data | **MISSING (structural gap)** |
+| REVELATION | Verb of revealing + truth noun | להוציא את האמת לאור | Functions as REVELATION directly; also fills space where BECOME is not attested | None |
+| CAUSATION (factual) | Verb of causing/justifying/proving + proposition/truth-domain noun | להצדיק את הטענה; להוכיח; לגלות | Expressed through causative/revelatory verbs; verification-like support overlaps descriptively | None |
+| CAUSATION (character) | No dedicated construction identified in P4a/P4b | (no common expression identified) | NO COMMON EXPRESSION - circumlocution required | **MISSING (structural gap)** |
+| VERIFICATION | Justificatory/proving constructions; correspondence predicates in evaluative use | להצדיק את הטענה; תואם את העובדות | Shares material with CAUSATION (factual) and correspondence evaluation | Partially available via overlapping constructions |
+| DISCONFIRMATION | Negative attribution; mismatch/correspondence negation | זה לא נכון.; התיאור אינו תואם למציאות. | Shares constructional base with NEGATION | Available via NEGATION |
+| NEGATION | NP + לא / אינו + predicate; lexical negative adjectives in some domains | זה לא נכון.; התיאור אינו תואם למציאות. | Direct match to NEGATION; mostly analytic, with lexical negative alternatives | None |
+| NOMINALIZATION | Abstract noun; light-verb/support-verb with truth noun; no productive agentive pattern | אמת; אמינות; לומר את האמת; לעשות צדק | Abstract nominalization direct; agentive nominalization missing | Partial: abstract available, agentive gap |
+
+## 2. Substitution Patterns (Narrative)
+
+Hebrew shows a clear direct match for ATTR, ADNOM, NEGATION, and ABSTRACT NOMINALIZATION.
+
+The main substitution pattern in the available data is that BECOME / INCHOATIVE is not attested as a common construction. P4a explicitly states: **NO COMMON EXPRESSION EXISTS**. In the available material, meanings in this area are instead expressed through REVELATION-type or other periphrastic verbal constructions, especially **להוציא את האמת לאור** and related verbs noted in P4a/P4b such as **להוכיח** and **לגלות**. Descriptively, this means BECOME is not established here and the dataset instead favors REVELATION.
+
+CAUSATION (factual) is represented by verbs such as **להצדיק** and by the broader set of revelatory/supporting verbs mentioned in the notes. These overlap functionally with VERIFICATION in the sense that the same constructions are used to support, justify, prove, or reveal truth-related content. So VERIFICATION does not appear as a sharply separate constructional type in the dataset; it is expressed through the same verbal resources used for factual support and evidential confirmation.
+
+DISCONFIRMATION is not given as a separate dedicated construction type in P4a/P4b. Instead, it is expressed through NEGATION constructions, especially **זה לא נכון.** and **התיאור אינו תואם למציאות.** Thus, descriptively, DISCONFIRMATION is realized through NEGATION and mismatch predicates rather than through a distinct operator.
+
+NEGATION is primarily analytic: **לא** in ordinary speech and **אינו/אינה** in more formal style. P4a also notes lexical negatives such as **כוזב, שקרי, מזויף**, but these are alternatives within specific lexical domains, not the main general negation strategy. So the language uses analytic negation as the default construction, with lexical negative adjectives as additional resources.
+
+There is also an asymmetry within NOMINALIZATION. Abstract nominalization is well attested: **אמת, אמינות, מהימנות, דיוק, צדק, הצדקה, מהות, זיוף**. By contrast, AGENTIVE NOMINALIZATION is explicitly marked in P4a as **NO COMMON EXPRESSION EXISTS**. The dataset instead prefers descriptive phrases such as **איש אמת** or clause-level expressions like **לומר את האמת**. So nominalization is available abstractly but not as a productive agentive pattern in the provided material.
+
+Multi-word expressions normalize as follows:
+- **להוציא את האמת לאור**: verbal idiom; the verb carries the operator, with **האמת** as nominal content.
+- **לומר את האמת**: light-verb/support-verb construction; **לומר** is the carrier verb.
+- **לעשות צדק**: light-verb/support-verb construction; **לעשות** is the carrier verb.
+- **למען האמת**: discourse-marker phrase, adverbial/pragmatic rather than predicative.
+- **ליתר דיוק**: discourse-marker phrase, adverbial/pragmatic rather than predicative.
+- **זהה ל־**, **תואם את**: predicate constructions, adjectival/participial in syntax.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- BECOME: **MISSING (structural gap)**
+- AGENTIVE NOMINALIZATION: **MISSING (structural gap)**
+- CAUSATION (character): **MISSING (structural gap)** on the available evidence, since no dedicated construction is identified in P4a/P4b
+
+### Lexical Gaps
+- No lexical gap for abstract truth-domain nouns: **אמת, אמינות, מהימנות, דיוק, צדק, הצדקה, מהות, זיוף** are attested.
+- Lexical gap for productive agentive truth-domain forms in the dataset: no productive equivalent is established; P4a explicitly says no common expression is identified.
+
+### Conceptual Gaps
+- No conceptual gap for attribution, negation, correspondence, revelation, or abstract nominal reference: these are all represented.
+- BECOME is not conceptually absent, but no common construction is established in the dataset; this is a morphosyntactic gap in the available mapping rather than absence of truth-related meaning altogether.
+
+### Asymmetric Gaps
+- Positive/negative asymmetry: negative evaluation is strongly available both analytically (**זה לא נכון.**) and lexically/formally (**הצהרה כוזבת**, **טענה שקרית**, **מסמך מזויף**), while BECOME is missing entirely.
+- Nominalization asymmetry: abstract nominalization is well supported, but agentive nominalization is missing.
+- DISCONFIRMATION is available through NEGATION, but VERIFICATION is less clearly separated as its own dedicated construction and overlaps with justificatory/revelatory verbs.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- ATTR
+- ADNOM
+- REVELATION
+- NEGATION
+- NOMINALIZATION (abstract nominalization only)
+
+### Available with substitution
+- BECOME — **SUBSTITUTED BY REVELATION**
+- DISCONFIRMATION — **SUBSTITUTED BY NEGATION**
+- VERIFICATION — available through justificatory/proving/correspondence constructions overlapping with CAUSATION (factual)
+
+### Partially available
+- CAUSATION (factual) — attested through **להצדיק את הטענה** and related verbs, with overlap into verification/revelation
+- NOMINALIZATION — partial overall, because abstract nominalization is attested but agentive nominalization is not
+
+### Missing entirely
+- BECOME as a dedicated common construction: **MISSING (structural gap)**
+- AGENTIVE NOMINALIZATION: **MISSING (structural gap)**
+- CAUSATION (character): **NO COMMON EXPRESSION - circumlocution required** / structurally not established in the dataset

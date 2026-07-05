@@ -1,0 +1,375 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Basque (eu)
+
+---
+
+## Preliminary Note on Method
+
+This step examines how Basque encodes dynamic meanings — becoming, causing, and maintaining truth-related states — using only vocabulary documented in the CONTEXT (P1 through P5). Each truth-related term or cluster is treated separately where the data supports distinct behavior. Where no common expression is attested in the CONTEXT, this is stated explicitly rather than filled by inference. Auxiliary verbs, aspect markers, copulas, and function words are added as needed to form grammatical constructions; all content vocabulary is drawn from the CONTEXT.
+
+The primary resources available from the CONTEXT for dynamic encoding are:
+
+- **Inchoative:** *bihurtu* (to become, to turn into; P4a §4), suffixed *-tu* inchoatives where lexically attested (*okertu*, *zilegitu*; P4a §4)
+- **Causative:** periphrastic *eragin* + infinitive (P4a §5, P4b §5), morphological *-arazi* (P4a §5, noted as low-frequency)
+- **Stability / continuation:** *izaten jarraitu* (to continue to be; C13.3), *bizi da* (lives on; C4.10)
+- **Privative / loss:** *galdu* (to lose; C12.4), *baliogabetu* (to invalidate; P2a D12.3), *zuzendu* (to correct; P2a D6.3), *okertu* (to go wrong; P2a D7.4)
+- **Disclosure / concealment:** *argitara atera* (to bring to light; C1.12), *ezkutatu* (to hide; C1.11), *gordea* (hidden; P1b)
+- **Verification process:** *egiaztatu* (to verify; P1-26), *frogatu* (to prove; P2a D28.1), *egiaztatu gabe utzi* (to leave unverified; C26.2)
+
+---
+
+## 1. "X BECOMES [TRUTH-RELATED STATE]"
+
+### 1a. X becomes true / turns out to be true
+
+**Primary construction:** *[X] egia bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Bere aurreikuspena egia bihurtu da.* | Bere aurreikuspena egia bihurtu da. | "His/her prediction has turned out to be true." | [CORE] | *Bihurtu* is the general inchoative strategy documented in P4a §4. *Egia* occupies the complement position. This is the standard construction for the transition from non-truth to truth status. |
+| *Gezurra egia bihurtu da.* | Gezurra egia bihurtu da. | "The lie has become truth." | [CORE] | Attested as a rhetorical construction; both P1 nominals appear, with *bihurtu* marking the transition. |
+
+**No suffixed *-tu* inchoative from *egia* is attested** (P4a §4 explicitly notes this gap). The *bihurtu* periphrastic is the only documented strategy.
+
+---
+
+### 1b. X becomes genuine / authentic
+
+**Primary construction:** *[X] benetakoa bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Itxurazko maitasuna benetakoa bihurtu da.* | Itxurazko maitasuna benetakoa bihurtu da. | "The apparent love has become genuine." | [CORE] | Combines *itxurazko* (ostensible; P2a D18.5) with *benetakoa* (genuine; P1-3) via *bihurtu*. The construction directly encodes the transition from appearance to genuine status. |
+
+---
+
+### 1c. X becomes valid / gains validity
+
+**Primary construction:** *[X] baliozkoa bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Agiri hori baliozkoa bihurtu da.* | Agiri hori baliozkoa bihurtu da. | "That document has become valid." | [CORE] | Standard *bihurtu* inchoative with *baliozkoa* (valid; P1-13) as complement. Used in administrative and legal contexts. |
+
+**No suffixed *-tu* inchoative from *balio* in the validity sense is attested.** *Balioztatu* (P2a D12.5) means to validate (a caused state), not to become valid spontaneously; see §3 below.
+
+---
+
+### 1d. X becomes invalid / loses validity
+
+**Two strategies are attested:**
+
+**(a)** Periphrastic *bihurtu*: *[X] baliogabea bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Kontratu hori baliogabea bihurtu da.* | Kontratu hori baliogabea bihurtu da. | "That contract has become invalid." | [CORE] | *Bihurtu* with *baliogabea* (invalid; P1-14) as complement. |
+
+**(b)** Verbal *baliogabetu* (P2a D12.3): this verb covers both the spontaneous and caused transition to invalidity; see §3c below for the causative use. In intransitive use:
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Agiri hori baliogabetu egin da.* | Agiri hori baliogabetu egin da. | "That document has become null / has been nullified." | [CORE] | *Baliogabetu* with the auxiliary *egin da* marks the change-of-state. The verb covers both spontaneous invalidity and caused invalidity depending on context; the intransitive reading is supported by the *da* auxiliary. |
+
+---
+
+### 1e. X becomes wrong / goes wrong
+
+**Primary construction:** *okertu* (suffixed inchoative; P2a D7.4)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Gauza guztiak okertu egin dira.* | Gauza guztiak okertu egin dira. | "Everything has gone wrong." | [CORE] | *Okertu* is the only suffixed *-tu* inchoative in the truth domain that is well-attested (P4a §4). It covers both the physical sense (to become bent/crooked) and the evaluative sense (to go wrong, to deteriorate). |
+| *Egoera okertu da.* | Egoera okertu da. | "The situation has worsened / gone wrong." | [CORE] | Same verb; the *da* auxiliary marks the intransitive change-of-state. |
+
+---
+
+### 1f. X becomes lawful / legitimate
+
+**Marginal construction:** *zilegitu* (P2a D24.3, noted as marginal)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Jarduera hori zilegitu egin da.* | Jarduera hori zilegitu egin da. | "That activity has become lawful." | [MARGINAL] | P2a explicitly marks *zilegitu* as marginal. The *bihurtu* periphrastic (*zilegi bihurtu da*) is the more productive alternative. |
+
+---
+
+### 1g. X becomes credible / believable
+
+**Primary construction:** *[X] sinesgarria bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Bere kontakizuna sinesgarria bihurtu da.* | Bere kontakizuna sinesgarria bihurtu da. | "His/her account has become credible." | [CORE] | Standard *bihurtu* inchoative. No suffixed *-tu* inchoative from *sines-* in this sense is attested in the CONTEXT. |
+
+---
+
+### 1h. X becomes correct / is corrected
+
+**Two strategies are attested:**
+
+**(a)** Inchoative *bihurtu*: *[X] zuzena bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Erantzuna zuzena bihurtu da.* | Erantzuna zuzena bihurtu da. | "The answer has become correct." | [CORE] | *Bihurtu* with *zuzena* (correct; P1-6). |
+
+**(b)** The verb *zuzendu* (P2a D6.3) covers the caused correction (see §3e); in reflexive/passive use it can encode the spontaneous transition:
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Akatsa zuzendu egin da.* | Akatsa zuzendu egin da. | "The error has been corrected / has corrected itself." | [CORE] | *Zuzendu* with *da* auxiliary; the change-of-state reading is supported by context. |
+
+---
+
+## 2. "X BECOMES [NON-TRUTH / OPPOSED STATE]"
+
+### 2a. X becomes false / turns into a lie
+
+**Primary construction:** *[X] gezurra bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Egia gezurra bihurtu da.* | Egia gezurra bihurtu da. | "The truth has become a lie." | [CORE] | Rhetorical construction; the reverse of *gezurra egia bihurtu da* (§1a). Both orderings are structurally available via *bihurtu*. |
+
+**No suffixed *-tu* inchoative from *gezurra* or *faltsu-* is attested** in the CONTEXT. The *bihurtu* periphrastic is the only documented strategy.
+
+---
+
+### 2b. X loses value / depreciates
+
+**Primary construction:** *balioa galdu* (P1b ROOT 2 item 7; C12.4)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Etxe horrek balioa galdu du.* | Etxe horrek balioa galdu du. | "That house has lost its value." | [CORE] | *Galdu* (to lose) with *balioa* as object. Documented in P1b and C12.4 as a core collocation. This is the primary lexicalized expression for value-loss in the CONTEXT. |
+
+---
+
+### 2c. X becomes hidden / truth is concealed
+
+**Primary construction:** *egia ezkutatu* (C1.11) and *egia gordea* (P1b)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Egia ezkutatu egin dute.* | Egia ezkutatu egin dute. | "They have hidden the truth." | [CORE] | *Ezkutatu* (to hide, to conceal) with *egia* as object; the *egin dute* auxiliary marks the completed action. Documented in C1.11. |
+| *Egia gordea dago.* | Egia gordea dago. | "The truth is hidden / lies concealed." | [CORE] | *Gordea* (hidden, concealed; P1b) with *dago* (stative *egon*) marks the resulting state rather than the transition. |
+
+---
+
+### 2d. X goes wrong / becomes crooked
+
+See §1e above. *Okertu* covers this transition and is the primary attested inchoative for the wrong/incorrect domain.
+
+---
+
+### 2e. X becomes untrustworthy / loses credibility
+
+**Primary construction:** *[X] fidagaitza bihurtu da*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Iturri hori fidagaitza bihurtu da.* | Iturri hori fidagaitza bihurtu da. | "That source has become unreliable." | [CORE] | *Bihurtu* with *fidagaitza* (unreliable; P2a D9.2) as complement. |
+
+**No suffixed *-tu* inchoative from *fida-* in this sense is attested** in the CONTEXT.
+
+---
+
+## 3. "Y CAUSES X TO BE [TRUTH-RELATED STATE]"
+
+### 3a. Y causes X to tell the truth / Y makes X tell the truth
+
+**Primary construction:** *egia esan eragin* (periphrastic causative; P4a §5, P4b §5)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Epaileak egia esan eragin zion.* | Epaileak egia esan eragin zion. | "The judge made him/her tell the truth." | [CORE] | *Eragin* + infinitive is the primary causative strategy documented in P4b §5 for this domain. *Egia esan eragin zion* is the specific example given in P4a §5. |
+
+**Morphological *-arazi* causative:** *egia esanarazi* is structurally available but is noted in P4a §5 as low-frequency for truth-domain expressions.
+
+---
+
+### 3b. Y causes X to verify something / Y makes X verify
+
+**Primary construction:** *egiaztarazi* (morphological causative; P4a §5) or *egiaztatu eragin*
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Egiaztarazi zion.* | Egiaztarazi zion. | "He/she made him/her verify it / caused it to be verified." | [MARGINAL] | The specific example given in P4a §5; noted there as relatively low-frequency. |
+| *Egiaztatu eragin zion.* | Egiaztatu eragin zion. | "He/she caused him/her to verify it." | [CORE] | Periphrastic *eragin* + infinitive; the more commonly attested causative strategy per P4b §5. |
+
+---
+
+### 3c. Y causes X to become invalid / Y invalidates X
+
+**Primary construction:** *baliogabetu* (P2a D12.3) in transitive use
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Epaileak kontratua baliogabetu du.* | Epaileak kontratua baliogabetu du. | "The judge has invalidated the contract." | [CORE] | *Baliogabetu* with a transitive auxiliary (*du*) marks the caused transition to invalidity. Documented in P2a D12.3 as the standard legal verb for this act. |
+
+---
+
+### 3d. Y causes X to be validated / Y validates X
+
+**Primary construction:** *balioztatu* (P2a D12.5) in transitive use
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Unibertsitateak titulazioa balioztatu du.* | Unibertsitateak titulazioa balioztatu du. | "The university has validated the qualification." | [CORE] | *Balioztatu* (to validate, to appraise; P2a D12.5) is the standard verb for formal validation acts. Documented in P1b and P2a. |
+
+---
+
+### 3e. Y causes X to be corrected / Y corrects X
+
+**Primary construction:** *zuzendu* (P2a D6.3) in transitive use
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Irakasleak akatsa zuzendu du.* | Irakasleak akatsa zuzendu du. | "The teacher has corrected the error." | [CORE] | *Zuzendu* (to correct, to rectify; P2a D6.3) is the standard verb for correction acts. Documented as very common across educational and administrative contexts. |
+
+---
+
+### 3f. Y causes X to be proven / Y proves X
+
+**Primary construction:** *frogatu* (P2a D28.1) in transitive use
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Abokatuak bere errugabetasuna frogatu du.* | Abokatuak bere errugabetasuna frogatu du. | "The lawyer has proven his/her innocence." | [CORE] | *Frogatu* (to prove, to demonstrate; P2a D28.1) is the standard transitive verb for the act of proving. Documented as very common in legal and scientific contexts. |
+
+---
+
+### 3g. Y causes X to appear genuine / Y disguises X as genuine
+
+**Primary construction:** *itxuratu* (P2a D18.3) in transitive use
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Gezurra egia balitz bezala itxuratu zuen.* | Gezurra egia balitz bezala itxuratu zuen. | "He/she disguised the lie as if it were truth." | [CORE] | *Itxuratu* (to disguise, to give the appearance of; P2a D18.3) with a comparative clause (*egia balitz bezala*, as if it were truth). Documented in P2a as used in everyday and literary contexts for creating false appearances. |
+
+---
+
+### 3h. Y causes X to lose value / Y devalues X
+
+**Primary construction:** *balioa galdu eragin* (periphrastic causative on the *balioa galdu* collocation)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Krisialdiak etxeek balioa galdu eragin die.* | Krisialdiak etxeek balioa galdu eragin die. | "The crisis has caused houses to lose their value." | [CORE] | *Eragin* + infinitive applied to the *balioa galdu* collocation (C12.4). The causative is periphrastic; no single-word causative verb for value-loss is documented in the CONTEXT. |
+
+---
+
+### 3i. Y causes X to be left unverified / Y leaves X unverified
+
+**Primary construction:** *egiaztatu gabe utzi* (C26.2)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Ikerleak datuak egiaztatu gabe utzi zituen.* | Ikerleak datuak egiaztatu gabe utzi zituen. | "The researcher left the data unverified." | [CORE] | *Egiaztatu gabe utzi* (to leave without verifying; C26.2) is documented as the standard construction for the failure or omission of verification. *Utzi* (to leave, to allow) is the causative-permissive verb; *gabe* marks the privative. |
+
+---
+
+## 4. STABILITY AND CONTINUATION OF TRUTH-RELATED STATES
+
+### 4a. X remains valid / continues to be valid
+
+**Primary construction:** *baliozkoa izaten jarraitu* (C13.3)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Agiri hori baliozkoa izaten jarraitzen du.* | Agiri hori baliozkoa izaten jarraitzen du. | "That document continues to be valid." | [CORE] | *Izaten jarraitu* (to continue to be; C13.3) with *baliozkoa* as predicate. Documented in P2b as the standard construction for ongoing validity. |
+
+---
+
+### 4b. A lie persists / lives on
+
+**Primary construction:** *gezurra bizi da* (C4.10)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Gezurra bizi da oraindik.* | Gezurra bizi da oraindik. | "The lie still lives on." | [MARGINAL] | *Bizi da* (is alive, lives) with *gezurra* as subject; documented in C4.10 as a rhetorical/literary construction. P2b marks it as [MARGINAL]. |
+
+---
+
+### 4c. Truth persists / endures
+
+**No single fixed construction for the persistence of truth is documented in the CONTEXT.** The closest available construction would be *egia izaten jarraitzen du* (truth continues to be), applying the *izaten jarraitu* pattern from §4a, but this specific collocation is not attested in the CONTEXT and is not reported here.
+
+---
+
+### 4d. Legitimacy is maintained / acknowledged
+
+**Primary construction:** *zilegitasuna aitortu* (C24.5)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Nazioarteak gobernuaren zilegitasuna aitortu du.* | Nazioarteak gobernuaren zilegitasuna aitortu du. | "The international community has acknowledged the government's legitimacy." | [CORE] | *Aitortu* (to acknowledge, to recognize; C24.5) with *zilegitasuna* as object. This encodes the recognition of an existing legitimate state rather than a change of state. |
+
+---
+
+### 4e. Legitimacy is challenged / put in doubt
+
+**Primary construction:** *zilegitasuna zalantzan jarri* (C24.4)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *Oposizioak gobernuaren zilegitasuna zalantzan jarri du.* | Oposizioak gobernuaren zilegitasuna zalantzan jarri du. | "The opposition has called the government's legitimacy into question." | [CORE] | *Zalantzan jarri* (to put in doubt; C24.4) with *zilegitasuna* as object. This encodes the destabilization of a legitimate state. Documented in P2b as a core construction in political and legal discourse. |
+
+---
+
+## 5. SUMMARY OF STRUCTURAL PATTERNS
+
+The following patterns emerge from the data above. These are observations about what the CONTEXT supports; no claims are made beyond the documented evidence.
+
+---
+
+**5.1 The *bihurtu* periphrastic is the general inchoative strategy across the truth domain.**
+
+*Bihurtu* (to become, to turn into) applies freely with truth-domain nominals and adjectivals as complement (*egia bihurtu da*, *benetakoa bihurtu da*, *baliozkoa bihurtu da*, *baliogabea bihurtu da*, *sinesgarria bihurtu da*, *fidagaitza bihurtu da*). No restriction on which truth-domain term can appear as complement is documented in the CONTEXT.
+
+---
+
+**5.2 Suffixed *-tu* inchoatives are lexically restricted and asymmetric.**
+
+Only *okertu* (to go wrong; P2a D7.4) is well-attested as a suffixed inchoative in the truth domain. *Zilegitu* (to become lawful; P2a D24.3) is marginal. No *-tu* inchoative from *egia*, *gezurra*, *faltsu-*, *balio-* (in the validity sense), *sines-*, or *fida-* is attested. The *bihurtu* periphrastic fills the gap for all these roots.
+
+---
+
+**5.3 Several roots have dedicated transitive verbs that encode caused state-changes.**
+
+The following caused transitions are encoded by single dedicated verbs documented in the CONTEXT:
+
+| Caused transition | Verb | Source |
+|---|---|---|
+| to invalidate | *baliogabetu* | P2a D12.3 |
+| to validate / appraise | *balioztatu* | P2a D12.5 |
+| to correct / rectify | *zuzendu* | P2a D6.3 |
+| to prove / demonstrate | *frogatu* | P2a D28.1 |
+| to verify / confirm | *egiaztatu* | P1-26 |
+| to disguise / make appear | *itxuratu* | P2a D18.3 |
+| to legitimize | *zilegitu* | P2a D24.3 (marginal) |
+
+For roots without a dedicated causative verb (*egia*, *gezurra*, *benetako-*, *sinesgarri-*, *fidagarri-*), the periphrastic *eragin* + infinitive is the documented causative strategy.
+
+---
+
+**5.4 The *balioa galdu* / *balioa eman* opposition (P5 Opposition 23) encodes value-loss and value-attribution as verbal collocations rather than through dedicated verbs.**
+
+Neither value-loss nor value-attribution in the broader sense is encoded by a single dedicated verb in the CONTEXT. Both are expressed through the collocation *balioa* + opposing verb (*galdu* / *eman*).
+
+---
+
+**5.5 Stability is encoded primarily through *izaten jarraitu* (to continue to be) and through acknowledgment verbs (*aitortu*).**
+
+The *izaten jarraitu* construction (C13.3) is documented specifically for *baliozkoa* (validity). No parallel stability construction is documented for *egia*, *zintzoa*, or *fidagarria* in the CONTEXT. The acknowledgment verb *aitortu* (C24.5, C12.6) encodes the recognition of an existing state (legitimacy, value) rather than a change.
+
+---
+
+**5.6 The concealment / disclosure axis for *egia* is encoded through verbal collocations rather than through dedicated verbs.**
+
+*Egia ezkutatu* (to hide the truth; C1.11) and *egia argitara atera* (to bring the truth to light; C1.12) are both collocations using general-purpose verbs (*ezkutatu*, *atera*) with *egia* as object. No dedicated verb for truth-concealment or truth-disclosure is documented in the CONTEXT.
+
+---
+
+*End of P6 CHANGE, CAUSATION, AND STABILITY output.*

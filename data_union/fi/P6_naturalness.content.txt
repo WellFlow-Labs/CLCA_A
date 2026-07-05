@@ -1,0 +1,400 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Finnish (fi)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Finnish encodes dynamic relations involving truth-related vocabulary from the CONTEXT: becoming a truth-related state, ceasing to be one, causing something to enter or leave such a state, and related expressions of stability or resistance to change. The analysis draws exclusively on vocabulary, constructions, and patterns documented in P1, P1b, P2a, P2b, P3, P4a, P4b, and P5. Where a dynamic expression is absent or rare for a particular item, this is stated explicitly. Items are grouped by the type of dynamic relation encoded rather than by base item, because the CONTEXT reveals that different truth-related terms participate in different dynamic patterns and these patterns do not align uniformly across the vocabulary.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1a. *osoittautua* + translative
+
+**Pattern:** Subject NP + *osoittautua* + translative of truth-domain adjective
+
+**Description:** The verb *osoittautua* ("to turn out to be, to prove to be") is the primary productive construction for encoding the transition of a referent into a recognized truth-related state. It is documented in P4a as the "productive general-purpose inchoative for truth-domain adjectives" and appears in P2b with multiple truth-domain complements. The translative case encodes the state entered. *Osoittautua* encodes discovery or revelation of a pre-existing state rather than a genuine change of state: the subject does not change; rather, its property becomes known. The translative complement is obligatory.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Väite osoittautui epätodeksi.* | "The claim turned out to be false." | P4b |
+| *Ennuste osoittautui oikeaksi.* | "The prediction turned out to be correct." | P2b Item 4, Construction 7 |
+| *Uhka osoittautui todelliseksi.* | "The threat turned out to be real." | P2b Item 6, Construction 5 |
+| *Lähde osoittautui luotettavaksi.* | "The source proved to be reliable." | P2b Item 8, Construction 5 |
+| *Maalaus osoittautui väärennökseksi.* | "The painting turned out to be a forgery." | Inchoative; state of being a forgery established after investigation. |
+| *Asiakirja osoittautui aidoksi.* | "The document turned out to be genuine." | Attested in P2b under *aito* constructions. |
+| *Hän osoittautui luotettavaksi.* | "He/she proved to be reliable." | Attested in P2b under *luotettava* constructions. |
+| *Väite osoittautui vääräksi.* | "The claim turned out to be false." | P5 (Opposition 38). |
+| *Lähde osoittautui epäluotettavaksi.* | "The source proved to be unreliable." | P5 (Opposition 23). |
+| *Maalausteos osoittautui aidoksi.* | "The painting proved to be genuine." | P4a (Construction 4). |
+| *Tieto osoittautui virheelliseksi.* | "The information turned out to be erroneous." | P4a (Construction 4). |
+| *Todistaja osoittautui luotettavaksi.* | "The witness proved to be reliable." | P4a (Construction 4). |
+| *Sopimus osoittautui pätemättömäksi.* | "The contract turned out to be void." | P4a (Construction 4). |
+| *Väite osoittautui oikeaksi.* | "The claim proved to be correct." | P4a (Construction 4). |
+
+**Translative forms attested in context:**
+
+| Base form | Translative | Meaning |
+|---|---|---|
+| *oikea* | *oikeaksi* | as correct / as right |
+| *väärä* | *vääräksi* | as false / as wrong |
+| *aito* | *aidoksi* | as genuine |
+| *väärennös* | *väärennökseksi* | as a forgery |
+| *luotettava* | *luotettavaksi* | as reliable |
+| *epäluotettava* | *epäluotettavaksi* | as unreliable |
+| *virheellinen* | *virheelliseksi* | as erroneous |
+| *pätemätön* | *pätemättömäksi* | as void |
+| *todellinen* | *todelliseksi* | as real |
+| *epätosi* | *epätodeksi* | as false |
+
+**Not attested with *osoittautua* in context:** *tosi*, *totuus*, *rehellinen*, *uskottava*, *tarkka*, *näennäinen*, *perusteeton*. No *osoittautua* + translative construction is documented for these items in the context data. This absence is reported; it is not claimed that such constructions are impossible in Finnish, only that they are not supported by the present data.
+
+**Notes:** This construction is productive across the full range of truth-domain adjectives documented in the CONTEXT. The implicit structure encodes an evaluator (often institutional or journalistic) who arrives at a determination after observation or investigation. The construction does not encode who caused the transition; it encodes the outcome of a process of coming to be recognized as having a property.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1b. *toteutua* (for predictions, plans, and wishes coming true)
+
+**Pattern:** Subject NP (prediction, plan, wish) + *toteutua*
+
+**Description:** The verb *toteutua* ("to be realized, to come true, to materialize") is documented in P1b Root 1 and P4a as specific to subjects with a prospective or intentional character: predictions, plans, wishes, hopes. It is explicitly distinguished in P4b from *osoittautua*: "*toteutua* is restricted to propositions with a prospective or intentional character... Not interchangeable with *osoittautua* for general truth-domain inchoatives."
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Ennuste toteutui.* | "The prediction came true." | P4a, P4b |
+| *Unelma toteutui.* | "The dream was realized / came true." | P1b Root 1, item 30 |
+
+**Notes:** *Toteutua* encodes the transition from a projected or desired state to an actual state. It belongs to the *tosi/tode-* root family (via *toteuttaa* / *toteutua*) and carries the meaning of something becoming real or actual. It does not apply to static truth-evaluation of propositions (*se on tosi*) but specifically to the dynamic realization of something previously anticipated.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1c. *todentua* ("to come true, to be verified, to materialize")
+
+**Pattern:** Subject NP + *todentua* (intransitive)
+
+**Description:** Documented in P1b (Root 1, item 19), P2a (under *tosi*, Derived Form 7), and P4a (Construction 4). This verb is restricted to subjects that are predictions, expectations, fears, or hypotheses — entities that have a prospective truth-relation to events. It is marked [MARGINAL] in P4b for frequency, and is more characteristic of written registers. It is not interchangeable with *osoittautua*: *todentua* requires a subject that was previously a prospective or hypothetical claim, while *osoittautua* applies to any entity whose property is discovered.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ennuste todentui.* | "The prediction came true / was verified." | P1b Root 1, item 19; P4a Construction 4. |
+| *Pelko todentui.* | "The fear materialized / proved true." | P2a under *tosi*, Derived Form 7. |
+| *Hypoteesi todentui kokeessa.* | "The hypothesis was verified in the experiment." | P4a Construction 4. |
+
+**Notes:** No parallel *todentua*-type verb is documented for the falsity direction (a prediction "coming false"); the negative counterpart would use *osoittautua vääräksi*.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 1d. *tulla ilmi* (truth coming to light)
+
+**Pattern:** *Totuus* (or equivalent NP) + *tulla ilmi*
+
+**Description:** The fixed verb-particle construction *tulla ilmi* ("to come to light, to be revealed") is documented in P2b Item 1, Construction 9 as a standard construction with *totuus* as subject. It encodes the transition of truth from a hidden or unknown state to a publicly known or disclosed state. This construction is specific to *totuus* as subject and encodes the emergence of truth from concealment into public knowledge. It is not a change in the truth-value of a proposition but a change in the epistemic accessibility of truth.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Totuus tulee ilmi.* | "The truth comes out / comes to light." | P2b Item 1, Construction 9 |
+| *Ennemmin tai myöhemmin totuus tulee ilmi.* | "Sooner or later the truth will come out." | P2b under *totuus* |
+| *Totuus tuli ilmi oikeudenkäynnissä.* | "The truth came to light in the trial." | P2b under *totuus* |
+
+**Notes:** *Tulla ilmi* is a fixed construction that does not take truth-domain adjectives as complements; it takes a noun subject (*totuus*, or by extension other fact-denoting nouns). It encodes revelation rather than evaluation: the truth transitions from concealed to disclosed. The CONTEXT places this in P3 Group 4 (legal and investigative discourse) as well as in the general truth-assertion cluster. No parallel construction with *epätotuus* or *väärä* as subject is documented.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1e. *paljastua* ("to be revealed as, to be exposed as")
+
+**Pattern:** Subject NP + *paljastua* + translative of truth-domain adjective, or bare
+
+**Description:** Documented in P2b (under *totuus*, Construction 6) and P4a (Construction 4, note). *Paljastua* specifically encodes the revelation of something previously hidden, with a connotation of exposure or unmasking. It is semantically more specific than *osoittautua*: it implies that something was concealed and is now brought to light. It does not take a translative complement as freely as *osoittautua*; the bare intransitive use is common.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Totuus paljastuu.* | "The truth is revealed / comes out." | P2b under *totuus*, Construction 6. |
+| *Väärennös paljastui tutkimuksessa.* | "The forgery was exposed in the investigation." | P4a Construction 4, note. |
+| *Vilppi paljastui.* | "The fraud was exposed." | P4a Construction 4, note. |
+
+**Notes:** *Paljastua* is documented primarily in the context of truth coming to light (*totuus paljastuu*) and of deception being uncovered (*väärennös paljastui*, *vilppi paljastui*).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1f. *vääristyä* ("to become distorted")
+
+**Pattern:** Subject NP + *vääristyä* (intransitive)
+
+**Description:** Documented in P1b (Root 2, item 10) and P2a (under *väärä*). This verb encodes a process by which something becomes distorted or warped, whether physically, acoustically, or figuratively. *Vääristyä* is the reflexive/inchoative counterpart of the causative *vääristää* (to distort). It encodes a genuine change of state — the subject moves from an undistorted to a distorted condition — rather than mere discovery of a pre-existing state. It is not restricted to propositional truth; it applies to images, sounds, competition, and other entities capable of distortion.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Kuva vääristyy.* | "The image becomes distorted." | P1b Root 2, item 10. |
+| *Totuus vääristyy toistettaessa.* | "The truth becomes distorted in the retelling." | P2a under *väärä*. |
+| *Kilpailu vääristyy tuilla.* | "Competition becomes distorted by subsidies." | P2a under *väärä*. |
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1g. Morphological inchoative *-utua* / *-ytya*
+
+**Pattern:** Adjective stem + *-utua* / *-ytya* inchoative suffix
+
+**Description:** P4a documents this as a morphological inchoative strategy, but P4b explicitly marks it as [MARGINAL]: "Attested but marginal; not productively available across the truth-domain adjective class. Lexical coverage is sparse and individual forms should not be assumed to exist without attestation." The only form documented in the CONTEXT is *aitoutua* ("to become authentic").
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *(aitoutua)* | "to become authentic" | P2a Item 3, Derived Form 2; P4a |
+
+**Notes:** *Aitoutua* is described in P2a as "used in philosophical and psychological discourse to describe a process by which something or someone comes to be or becomes authentic." It is marked [MARGINAL] in P2a. No other morphological inchoative of this type is documented for truth-domain adjectives in the CONTEXT. This pattern should not be assumed to extend to other items without independent attestation.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 1h. Secondary constructions: *käydä* + translative / *tulla* + translative
+
+**Description:** The context notes these as attested alternates to *osoittautua* + translative for change-of-state (P4b, Alternate Constructions table). No specific examples with truth-domain vocabulary are provided in the context beyond this general note. They are therefore listed as structurally available but not exemplified here.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE
+
+### 2a. *osoittautua* + translative of negative adjective
+
+**Pattern:** Subject NP + *osoittautua* + translative of negated truth-domain adjective
+
+**Description:** The same *osoittautua* construction documented in Section 1a applies equally to transitions into negative truth-related states. The translative complement takes the *epä-*-prefixed or otherwise negated form of the adjective. No separate construction type is used for becoming a non-truth state; the same *osoittautua* + translative pattern applies with the opposed translative complement.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Väite osoittautui epätodeksi.* | "The claim turned out to be false." | P4a, P4b |
+| *Ennuste osoittautui vääräksi.* | "The forecast turned out to be wrong." | P2b and P5 (Opposition 38). |
+| *Maalaus osoittautui väärennökseksi.* | "The painting turned out to be a forgery." | P2b and P5 (Opposition 9). |
+
+**Notes:** The CONTEXT does not document separate constructions for "becoming false" versus "becoming true"; the same *osoittautua* frame handles both directions by varying the translative complement. This is consistent with the general productivity of the construction noted in P4a and P4b.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2b. *vääristyä* (becoming distorted)
+
+See Section 1f above. *Vääristyä* encodes movement toward a distorted or false state and is the primary documented verb for this direction of genuine change of state.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2c. No dedicated inchoative for "becoming false" or "becoming unreliable"
+
+The CONTEXT does not document a dedicated intransitive verb meaning "to become false" or "to become unreliable" parallel to *todentua* ("to come true"). The change-of-state in the falsity direction is expressed through *osoittautua* + translative (discovery of falsity) or *vääristyä* (process of distortion). This asymmetry between the truth direction (*todentua*) and the falsity direction (no dedicated verb) is a structural feature of the documented vocabulary.
+
+---
+
+### 2d. *vääristää* / *vääristely* (distortion as a process)
+
+**Pattern:** Agent NP + *vääristää* + object NP (facts, data, history)
+
+**Description:** *Vääristää* ("to distort, to falsify, to misrepresent, to skew") is documented in P1b Root 3 and P3 Group 7 as encoding the act of causing something accurate to become distorted or misrepresented. It encodes a dynamic process of falsification applied to representations, facts, or data. The CONTEXT explicitly distinguishes *vääristää* / *vääristely* (deliberate distortion of representations) from *vääristymä* (systematic unintentional deviation).
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *vääristää tosiasioita* | "to distort the facts" | P1b Root 3, item 13 |
+| *vääristää kilpailua* | "to distort competition" | P1b Root 3, peripheral extensions |
+| *historian vääristely* | "distortion of history" | P1b Root 3, item 16; P3 Group 7 |
+| *Toimittaja vääristeli tosiasioita.* | "The journalist distorted the facts." | P1b Root 2, item 8; P3 Group 4 |
+| *Propaganda vääristää totuutta.* | "Propaganda distorts the truth." | P2a under *väärä* |
+| *Linssi vääristää kuvaa.* | "The lens distorts the image." | P2a under *väärä* |
+| *Monopoli vääristää kilpailua.* | "A monopoly distorts competition." | P2a; P3 Group 7 |
+| *Propaganda vääristää todellisuutta.* | "Propaganda distorts reality." | P2a; P3 Group 7 |
+
+**Notes:** *Vääristää* does not produce a counterfeit object and does not necessarily imply intent (P2a, P3, P5 Opposition 32). The frequentative form *vääristely* refers to the practice of distortion as a habitual or ongoing activity. The former encodes an agent causing a transition from accurate to distorted; the latter encodes a state of deviation without implying intent (see Section 5a below).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2e. *väärentää* (falsification of objects and documents)
+
+**Pattern:** Agent NP + *väärentää* + object NP (document, signature, currency, history)
+
+**Description:** *Väärentää* ("to forge, to falsify, to counterfeit") is documented in P1, P1b Root 3, P2a, P2b, and P3 Group 7. It encodes the deliberate act of causing something genuine to be replaced by or represented as a false version. Unlike *vääristää*, which applies to representations and data, *väärentää* applies primarily to physical objects and documents. *Väärentää* is a morphological causative (*väärä* + *-ntää*) and is fully lexicalized.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *väärentää asiakirja* | "to forge a document" | P2b Item 15, Construction 1 |
+| *väärentää allekirjoitus* | "to forge a signature" | P2b Item 15, Construction 3 |
+| *väärentää rahaa* | "to counterfeit money" | P2b Item 15, Construction 4 |
+| *väärentää historiaa* | "to falsify history" | P2b Item 15, Construction 2 |
+| *Hän väärensi passin.* | "He/she forged the passport." | P1 item 9; P2a |
+| *Hän väärensi allekirjoituksen.* | "He/she forged the signature." | P1 item 9; P2b |
+| *Hän väärensi rahaa.* | "He/she counterfeited money." | P1 item 9; P2b |
+| *Tekijä väärensi allekirjoituksen.* | "The perpetrator forged the signature." | P4a Construction 5 |
+| *Rikollinen väärensi passin.* | "The criminal forged the passport." | P4a Construction 5 |
+| *Yhtiö väärensi tilinpäätöstietoja.* | "The company falsified financial statement data." | P4a Construction 5 |
+
+**Notes:** The result of this process is named by *väärennös* (forgery, counterfeit), which is the state-noun corresponding to the completed transition. Unlike *vääristää* (which distorts existing content), *väärentää* typically involves producing a false version of an existing authentic item.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2f. *horjuttaa* + NP (destabilization of a truth-related property)
+
+**Pattern:** Agent NP + *horjuttaa* + truth-related nominal (partitive)
+
+**Description:** Documented in P2b under *uskottavuus*. *Horjuttaa* ("to shake, to destabilize") encodes a process of weakening a truth-related property. The object takes the partitive, indicating an ongoing or incomplete process of undermining.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ristiriitaisuudet horjuttivat todistajan uskottavuutta.* | "The contradictions undermined the witness's credibility." | P2b under *uskottavuus*. |
+
+**Notes:** Attested only for *uskottavuus* in the context. A parallel construction *horjuttaa luotettavuutta* is not explicitly documented.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2g. *heikentää* + NP (weakening of a truth-related property)
+
+**Pattern:** Agent NP + *heikentää* + truth-related nominal (partitive)
+
+**Description:** Documented in P2b under *luotettavuus*. *Heikentää* ("to weaken, to undermine") encodes a process of reducing a truth-related property. Partitive object indicates ongoing or gradual process.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Virheet heikentävät tutkimuksen luotettavuutta.* | "Errors undermine the reliability of the study." | P2b under *luotettavuus*. |
+
+**Notes:** Attested for *luotettavuus*. A parallel *heikentää uskottavuutta* is structurally available but not explicitly documented in the context.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 3. CAUSING SOMETHING TO BE A TRUTH-RELATED STATE
+
+### 3a. *tehdä* + translative (general-purpose causative)
+
+**Pattern:** Causal agent/NP + *tehdä* + object NP + translative of truth-domain adjective
+
+**Description:** P4a documents *tehdä* + translative as the "productive general-purpose causative" for truth-domain adjectives, and P4b confirms it is [CORE] and "fully productive across truth-domain adjectives in the translative." It encodes an agent or factor causing a referent to enter a truth-related state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Todisteet tekivät väitteen uskottavaksi.* | "The evidence made the claim credible." | P4a, P4b |
+
+**Notes:** The CONTEXT provides one explicit example but the construction is described as fully productive. The following are structural extensions of the documented pattern noted in the probes as such rather than as independently attested examples: *tehdä väitteen todeksi* ("to make the claim true"), *tehdä lähteen luotettavaksi* ("to make the source reliable"), *tehdä päätöksen oikeutetuksi* ("to make the decision justified").
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3b. *todistaa* (causing a claim to be established as true or false)
+
+**Pattern:** Agent NP + *todistaa* + object NP (claim, proposition); OR *todistaa* + object NP + translative
+
+**Description:** *Todistaa* ("to prove, to testify, to witness, to certify") is documented throughout the CONTEXT as encoding the act of establishing the truth or falsity of a claim through evidence or argument, and also the act of certifying a document or identity. In its basic use it causes a claim to be recognized as true; with the translative complement it causes a claim or object to be recognized as having a specific truth-domain property. *Todistaa* is used in legal and formal contexts for proving and certifying, and is distinguished from *todentaa* which is more common in technical, administrative, and IT security contexts.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *todistaa väite* | "to prove a claim" | P1 item 21 |
+| *väite voidaan todistaa epätodeksi* | "the claim can be proved false" | P2b Item 14, Construction 2 |
+| *todistetusti väärä* | "demonstrably false" | P1b Root 1, item 23 |
+| *Notaari todistaa kopion oikeaksi.* | "The notary certifies the copy as correct." | P4a, P4b |
+| *Tutkimus todisti teorian vääräksi.* | "The study proved the theory false." | P4a, P4b |
+| *Asiantuntija todisti maalauksen aidoksi.* | "The expert certified the painting as genuine." | P4a, P4b |
+| *Syyttäjä todisti syyllisyyden.* | "The prosecutor proved the guilt." | P2b; P4a Construction 8 |
+| *Notaari todisti asiakirjan oikeaksi.* | "The notary certified the document as correct." | P2b; P4a Construction 8 |
+| *Asiantuntija todisti maalauksen aidoksi.* | "The expert certified the painting as genuine." | P2b; P4a Construction 18 |
+| *Todistaja todisti vääräksi aiemman lausunnon.* | "The witness proved the earlier statement false." | P2b; P4a Construction 18 |
+
+**Translative forms attested in this construction:**
+
+| Translative | Meaning |
+|---|---|
+| *oikeaksi* | as correct |
+| *vääräksi* | as false |
+| *aidoksi* | as genuine |
+
+**Not attested in this construction in context:** *luotettavaksi*, *uskottavaksi*, *tarkaksi*, *rehelliseksi*. No *todistaa* + translative construction is documented for these items. This absence is reported.
+
+**Notes:** *Todistaa* encodes a causative epistemic relation: an agent brings about a state in which a proposition is recognized as true or false by producing evidence or argument. The adverb *todistetusti* ("demonstrably, as has been proven") encodes the resultant state from the perspective of the outcome rather than the process.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3c. *todentaa* (causing something to be verified or authenticated)
+
+**Pattern:** Agent NP + *todentaa* + object NP (identity, data, document, user)
+
+**Description:** *Todentaa* ("to verify, to authenticate, to confirm, to validate") is documented in P1b Root 1, P2a, P2b (under *todistaa*, Construction 8), P3 (Group 5), and P5 (Opposition 41) as a morphological causative (*tode-* + *-ntaa*) encoding the act of confirming that something is real, correct, or authentic. It causes a referent to enter a verified or authenticated state. *Todentaa* is standard in official, legal, administrative, and technical contexts, and is more common than *todistaa* in digital and security authentication contexts.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *todentaa henkilöllisyys* | "to verify identity" | P1b Root 1, item 24 |
+| *todentaa tiedot* | "to verify the data" | P1b Root 1, item 24 |
+| *kaksivaiheinen todennus* | "two-factor authentication" | P2a Item 7 (cross-ref); P1b Root 1, item 25 |
+| *Viranomainen todentaa henkilöllisyyden.* | "The authority verifies the identity." | P2b; P3 Group 5 |
+| *Järjestelmä todentaa käyttäjän.* | "The system authenticates the user." | P2b; P3 Group 5 |
+| *Viranomaiset todensivat henkilöllisyyden.* | "The authorities verified the identity." | P1b Root 1, item 17 |
+| *Asiantuntija todensi tiedot.* | "The expert verified the data." | P2b under *todistaa*, Construction 8 |
+
+**Notes:** *Todentaa* is distinguished from *tarkistaa* (to check) in the CONTEXT: *todentaa* confirms that something is real or authentic, while *tarkistaa* checks whether something is accurate or in order (see P5 Opposition 42).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3d. *tarkistaa* (causing something to be checked or verified)
+
+**Pattern:** Agent NP + *tarkistaa* + object NP (information, passport, document)
+
+**Description:** *Tarkistaa* ("to check, to verify, to inspect, to review") is documented in P1, P2a, P2b, and P3 as encoding the act of examining something to determine whether it is accurate, correct, or in order. It causes a referent to enter a checked or verified state. Unlike *todentaa*, it does not necessarily result in a positive confirmation of authenticity; it initiates a process whose outcome may be positive or negative.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *tarkistaa tiedot* | "to verify the information" | P1 item

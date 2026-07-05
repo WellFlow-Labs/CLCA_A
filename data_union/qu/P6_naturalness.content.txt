@@ -1,0 +1,460 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Quechua (Southern: Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+**Preliminary note on scope and method:** This step analyzes dynamic expressions — encoding change of state, causation of state, and stability of state — involving truth-related vocabulary from the CONTEXT. Analysis is restricted to forms and constructions already documented in P1–P5. No new vocabulary is introduced. Where a dynamic expression type is not attested for a given root, this is stated explicitly. Asymmetries across roots are preserved as found.
+
+The CONTEXT provides the following morphological resources directly relevant to this step:
+- **-ka-** intransitive verbalizer / inceptive: 'to become X' (attested for *cheqa*, *allin*, *sumaq*)
+- **-ya-** inchoative suffix: 'to become X' (attested for *allin*)
+- **-ncha-/-cha-** causative verbalizer: 'to make X / to cause X to be the case' (attested for *cheqa*, *allin*, *sut'i*, *sumaq*)
+- **-chi-** causative on verbal bases: 'to cause someone to do/be X' (attested for *panta-*, *llulla-*, *yacha-*, *riqsi-*, *iñi-*)
+- **-ku-** reflexive/middle extension: self-directed change (attested for *cheqa*, *allin*, *sut'i*, *panta-*, *yacha-*, *riqsi-*, *iñi-*, *llulla-*)
+- **-sqa** participial/resultative: encodes the stable outcome of a change process
+- **tukuy** periphrastic inchoative: 'to become X' (attested for *cheqa*, *cheqaq*, *llulla*, *chiqan*, *pantasqa*)
+- **-puni** emphatic suffix: 'absolutely, certainly, without exception' (attested for *cheqa*, *cheqaq*, *allin*)
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 cheqakay — 'to become true / to be realized / to come true'
+
+**Form:** cheqakay
+**Morpheme breakdown:** cheqa + -ka- (intransitive verbalizer / inceptive) + -y (infinitive)
+**Transliteration:** cheqakay
+**English translation:** to become true, to become real, to be realized, to come true
+
+**Usage:** Encodes a change of state in which something that was not yet true, real, or realized comes to be so. The subject undergoes the change; no external agent is implied. Attested in narrative and religious discourse for fulfilled predictions or hopes, and in everyday speech about expectations that come to pass.
+
+**Example from CONTEXT:** *cheqakay* — "Used to describe a prediction, hope, or claim that comes to be true or is realized in fact." (P1b, P2a)
+
+**Naturalness rating:** [MARGINAL] *(contextually restricted to object position of epistemic verbs in some attested data; base form implied but accusative nominalization cheqakayta is the primary attested surface form)*
+
+**Notes:** The *-ka-* verbalizer yields an intransitive verb; the subject is the thing that becomes true, not an agent who makes it true. Contrasts with the transitive *cheqanchay* / *cheqachiy* (§2). The attested surface form *cheqakayta* (cheqa-ka-y-ta) appears in object position of epistemic verbs (e.g., "to know that something is true"); P4a rates the inchoative function as [MARGINAL] with contextual restriction to that position. The base form *cheqakay* is implied but the accusative nominalization is the attested surface form.
+
+---
+
+### 1.2 allinkay — 'to become good / to get well / to improve / to recover'
+
+**Form:** allinkay
+**Morpheme breakdown:** allin + -ka- (intransitive verbalizer / inceptive) + -y (infinitive)
+**Transliteration:** allinkay
+**English translation:** to become good, to get well, to improve, to recover
+
+**Usage:** Encodes a change of state in which a person, situation, or relationship moves from a bad or deficient state to a good or proper one. Common in everyday speech including health and recovery contexts. No external agent is implied.
+
+**Example from CONTEXT:** *allinkay* — "Used to describe a process of improvement or recovery — of a person's health, a situation, or a relationship." (P1b, P2a, P4a §4)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Parallel in structure to *cheqakay*. The CONTEXT confirms both as instances of the same *-ka-* inchoative pattern. *Allin* covers a broader range of states (goodness, health, proper functioning) than *cheqa*, so *allinkay* appears in a wider range of everyday contexts.
+
+---
+
+### 1.3 allinyay — 'to become correct / to improve / to get right / to become good'
+
+**Form:** allinyay
+**Morpheme breakdown:** allin + -ya- (inchoative suffix) + -y (infinitive)
+**Transliteration:** allin-ya-y
+**English translation:** to become correct, to improve, to get right, to become good
+
+**Usage:** Documented in P2a (Derived Form 16.2) as the inchoative verb derived from *allin* by the productive suffix *-ya*. Described as appearing in moral, practical, and health-related contexts without register restriction. This is the most straightforwardly attested inchoative form in the truth-evaluation domain.
+
+**Naturalness rating:** [CORE]
+
+**Notes:** The *-ya* inchoative is attested on *allin* but not on *llulla*, *sut'i*, or *cheqa* (which uses *-ka-* instead). No inchoative form of *llulla* is attested. This asymmetry is explicitly noted in the source data.
+
+---
+
+### 1.4 sumaqkay — 'to become beautiful / to become fine / to improve in quality'
+
+**Form:** sumaqkay
+**Morpheme breakdown:** sumaq + -ka- (intransitive verbalizer / inceptive) + -y (infinitive)
+**Transliteration:** sumaqkay
+**English translation:** to become beautiful, to become fine, to improve in quality
+
+**Usage:** Encodes a change of state in which something becomes beautiful or excellent. Documented in P2a as part of the same productive *-ka-* pattern as *cheqakay* and *allinkay*.
+
+**Naturalness rating:** [CORE]
+
+**Notes:** *Sumaq* is primarily an aesthetic evaluative root rather than a truth-evaluation root in the strict sense, but it participates in the same derivational system. Included here because the CONTEXT explicitly documents it as part of the *-ka-* inchoative pattern alongside *cheqa* and *allin*.
+
+---
+
+### 1.5 sut'ikay — 'to become clear / to become evident / to clarify (intransitive)'
+
+**Form:** sut'ikay
+**Morpheme breakdown:** sut'i + -ka- (intransitive verbalizer / inceptive) + -y (infinitive)
+**Transliteration:** sut'ikay
+**English translation:** to become clear, to become evident, to clarify (intransitive)
+
+**Usage:** Encodes a change of state in which a situation or statement becomes clear of its own accord, without an external agent making it so. Documented in P2a (Derived Form 29.5).
+
+**Naturalness rating:** [CORE]
+
+**Notes:** The CONTEXT explicitly contrasts *sut'ikay* with the transitive *sut'inchay* / *sut'ichay*: "Used to describe a situation or statement that becomes clear of its own accord, without an external agent making it so." (P2a) This is the clearest case in the dataset of an intransitive change-of-state form contrasting with a transitive causative for the same root.
+
+---
+
+### 1.6 pantay — 'to err / to be mistaken / to be wrong / to make an error'
+
+**Form:** pantay
+**Morpheme breakdown:** panta- (verbal root) + -y (infinitive)
+**Transliteration:** pantay
+**English translation:** to err, to make a mistake, to be wrong, to go astray
+
+**Usage:** Documented in P1 (item 24) as "the standard verb for being in error or making a mistake." The verb itself encodes entry into an error state. *Pantay* is itself a verbal root encoding the state of being in error or the act of falling into error. It does not require an inchoative suffix because the root already encodes a dynamic process (erring, going wrong). No separate inchoative derivation from *pantay* is documented in P1–P5.
+
+**Naturalness rating:** [CORE]
+
+**Notes:** *Pantay* functions as the 'become wrong / fall into error' expression for the error domain, but through a different morphological pathway than the *-ka-* inchoative. Unlike the adjectival roots *cheqa*, *llulla*, *sut'i*, and *allin*, *pantay* is itself a verb encoding a dynamic event (the act of going wrong) and does not require *tukuy* or an additional inchoative suffix to express becoming-in-error.
+
+---
+
+### 1.7 iñikuy — 'to believe for oneself / to put one's trust in / to commit to belief'
+
+**Form:** iñikuy
+**Morpheme breakdown:** iñi- (verbal root) + -ku- (reflexive / middle) + -y (infinitive)
+**Transliteration:** iñi-ku-y
+**English translation:** to believe for oneself, to put one's trust in, to commit to belief
+
+**Usage:** Documented in P2a (Derived Form 13.3) as describing "the act of personally committing to belief or trust," with the reflexive *-ku* marking the belief as self-directed and internally motivated. This form encodes the transition into a state of belief rather than the static state of believing. Appears in religious and interpersonal contexts.
+
+**Naturalness rating:** [CORE]
+
+---
+
+### 1.8 riqsikuy — 'to get to know each other / to become acquainted / to introduce oneself'
+
+**Form:** riqsikuy
+**Morpheme breakdown:** riqsi- (verbal root) + -ku- (reflexive / middle) + -y (infinitive)
+**Transliteration:** riqsikuy
+**English translation:** to get to know each other, to become acquainted, to introduce oneself, to know oneself, to identify oneself
+
+**Usage:** Documented in P2a (Derived Form 21.4; also Derived Form 11.4) as used in contexts of self-identification and self-knowledge. The reflexive *-ku* marks the action as self-directed. This form encodes a transition into a state of being known or recognized (from the perspective of the agent presenting themselves). Appears in social and legal contexts.
+
+**Naturalness rating:** [CORE]
+
+---
+
+### 1.9 "X becomes [non-truth / opposed state]" — llulla
+
+**No inchoative form attested for llulla.**
+
+The CONTEXT explicitly documents the absence of a *-ka-* inchoative for *llulla*: "No *-ka-* inchoative is documented for *llulla*" (P4a §4); "No *llullankay* or *llullancha-* forms are documented" (P2a). P4a also explicitly states that "no inchoative form of *llulla* is attested as a common expression in the sources consulted." The gap is preserved as reported.
+
+**Statement:** No common expression of the form 'X becomes false / X becomes a lie' using the *-ka-* inchoative or *-ya-* inchoative on *llulla* is attested in the CONTEXT.
+
+---
+
+## 2. *tukuy* CONSTRUCTIONS ('to become X')
+
+### Pattern
+[truth-domain adjective/nominal] + *tukuy* ("to become, to turn into"), with tense and person inflection carried by *tukuy*. Documented in P4a §4 as a structurally regular pattern in Southern Quechua; specific attestation for truth-domain items is limited and examples carry [UNCERTAIN] status from prior steps.
+
+---
+
+### 2.1 Cheqaq tukun — 'He/she becomes truthful / It turns out to be genuine'
+
+**Form:** Cheqaq tukun
+**Transliteration:** cheqaq tuku-n
+**English translation:** He/she becomes truthful. / It turns out to be genuine.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** Attested in P4a §4; structurally regular. The subject may be a person (becoming honest) or a claim (turning out to be true). Tense and person inflection on *tukuy*.
+
+---
+
+### 2.2 Cheqa tukun — 'It becomes true / It turns out to be real'
+
+**Form:** Cheqa tukun
+**Transliteration:** cheqa tuku-n
+**English translation:** It becomes true. / It turns out to be real.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** Parallel to the above with the bare root *cheqa*; follows the same structural pattern as *cheqaq tukuy*. The actualization sense encodes a transition from a non-real to a real state. P3 notes that two senses are present in the *cheqa tukuy* form: (1) the actualization of something into reality, and (2) the pretense of being genuine when one is not. The data do not support assigning it to one group over the other.
+
+---
+
+### 2.3 Cheqa tukuy — 'to become real / to be realized (actualization sense)'
+
+**Form:** Cheqa tukuy
+**Transliteration:** cheqa tukuy
+**English translation:** to become real, to be realized (actualization sense)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Documented in P1b (item 25) and P3 (overlapping items) as having two attested senses: (1) the actualization of something into reality, and (2) the pretense of being genuine when one is not. P3 notes that the two senses are present in the same form and the data do not support assigning it to one group over the other.
+
+---
+
+### 2.4 Llulla tukuy — 'to pretend / to feign / to act falsely / to put on a false appearance'
+
+**Form:** Llulla tukuy
+**Transliteration:** llulla tukuy
+**English translation:** to pretend, to feign, to act falsely, to put on a false appearance
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Documented in P1b (item 15 under llulla) and P3 (Group 7) as describing "the act of pretending or feigning — presenting a false appearance of being something one is not." The verb *tukuy* (to become, to pretend to be) encodes a transition into a false state or appearance. P3 notes that this expression also appears in narrative contexts describing theatrical or ritual performance where the pretending is not morally condemned.
+
+---
+
+### 2.5 Llulla tukun — 'He/she becomes a liar / It turns out to be false'
+
+**Form:** Llulla tukun
+**Transliteration:** llulla tuku-n
+**English translation:** He/she becomes a liar. / It turns out to be false.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** The *tukuy* inchoative construction is documented in P4a §4 for truth-domain adjectives generally; no specific attestation of *llulla tukuy* as an inflected form is recorded in prior steps. The construction is structurally available but not confirmed for this root. The absence of a specifically attested example is preserved.
+
+---
+
+### 2.6 Chiqan tukun — 'He/she/it becomes correct / It becomes just'
+
+**Form:** Chiqan tukun
+**Transliteration:** chiqan tuku-n
+**English translation:** He/she/it becomes correct. / It becomes just.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** Documented in P4a §4 with [UNCERTAIN] status; carried forward.
+
+---
+
+### 2.7 Chiqanchasqa tukun — 'It becomes rectified / It turns out to have been set right'
+
+**Form:** Chiqanchasqa tukun
+**Transliteration:** chiqanchasqa tuku-n
+**English translation:** It becomes rectified. / It turns out to have been set right.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** Combines the participial *chiqanchasqa* ("corrected, rectified") with *tukuy*; structurally available but not specifically attested in prior steps.
+
+---
+
+### 2.8 Pantasqa tukun — 'He/she/it becomes mistaken / It turns out to be erroneous'
+
+**Form:** Pantasqa tukun
+**Transliteration:** pantasqa tuku-n
+**English translation:** He/she/it becomes mistaken. / It turns out to be erroneous.
+
+**Naturalness rating:** [UNCERTAIN]
+
+**Notes:** *Pantasqa* is the participial/adjectival form of *pantay* ("to err"); its combination with *tukuy* is structurally available but not specifically attested in prior steps. *Pantay* itself is a verb ("to err, to go astray") and does not require *tukuy* to express the inchoative meaning; the verbal form already encodes the event of becoming wrong. The *tukuy* construction with *pantasqa* would be redundant in many contexts.
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE (CAUSATIVES)
+
+### 3.1 cheqanchay — 'to verify / to confirm / to make true / to correct'
+
+**Form:** cheqanchay
+**Morpheme breakdown:** cheqa + -ncha- (causative verbalizer) + -y (infinitive)
+**Transliteration:** cheqanchay
+**English translation:** to verify, to confirm, to establish as true, to correct
+
+**Usage:** Encodes a transitive causation in which an agent acts on a claim, document, or situation to bring it into a state of being confirmed or established as true. The agent is the causer; the claim or document is the affected entity. Appears in administrative, legal, and everyday contexts.
+
+**Example from CONTEXT:** *qelqata cheqanchay* — 'to verify a document' (P2b, Construction 2.1)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** This is the primary causative expression for the truth domain using the *-ncha-* verbalizer. The CONTEXT documents it as the transitive counterpart to the intransitive *cheqakay* (Opposition 9, P5). The *-ncha-* verbalizer derives a transitive verb from the adjectival root, with the meaning 'to make [something] cheqa'.
+
+---
+
+### 3.2 cheqachiy — 'to verify / to confirm / to prove / to correct'
+
+**Form:** cheqachiy
+**Morpheme breakdown:** cheqa + -chi- (causative) + -y (infinitive)
+**Transliteration:** cheqa-chi-y
+**English translation:** to verify, to confirm, to prove, to correct
+
+**Usage:** Documented in P1 (item 4), P2a (Derived Form 1.3), and P4a (section 5) as the primary causative of *cheqa*. Described as used in legal, administrative, and everyday contexts for "the act of establishing accuracy or correcting error." The causative suffix *-chi* encodes an agent causing a state of truth or correctness to obtain.
+
+**Naturalness rating:** [CORE]
+
+---
+
+### 3.3 cheqaqchay — 'to verify / to authenticate / to establish as true or authentic'
+
+**Form:** cheqaqchay
+**Morpheme breakdown:** cheqaq + -cha- (causative verbalizer) + -y (infinitive)
+**Transliteration:** cheqaqchay
+**English translation:** to verify, to authenticate, to establish as true or authentic
+
+**Usage:** Documented in P2a and P4a as the primary causative for establishing truth or authenticity; attested in legal and administrative contexts. The object is typically a document, claim, or person.
+
+**Example from CONTEXT:** *Kay qelqata cheqaqcharqan.* — 'He/she verified this document. / He/she authenticated this writing.' (P2a, P4a)
+
+**Example from CONTEXT:** *Cheqaqchaykim kay qelqata.* — 'You must verify this document.' (P2b C4.1)
+
+**Naturalness rating:** [UNCERTAIN] *(the specific dynamic construction Cheqaqchaykim kay qelqata carries [UNCERTAIN] status from P2b; the base form cheqaqchay is [CORE] in P2a)*
+
+---
+
+### 3.4 cheqakaychiy — 'to realize / to actualize / to make real / to bring about'
+
+**Form:** cheqakaychiy
+**Morpheme breakdown:** cheqa + -ka- + -y + -chi- (causative) + -y (infinitive)
+**Transliteration:** cheqa-ka-y-chi-y
+**English translation:** to realize, to actualize, to make real, to bring about
+
+**Usage:** Documented in P2a (Derived Form 1.6) and P3 (overlapping items) as used "in contexts where a plan, promise, or intention is brought into reality," appearing in administrative, political, and religious contexts (fulfilling a vow or prophecy). P3 notes that its connection to the truth-evaluation domain is through the root *cheqa*, but its primary function in the attested contexts is actualization rather than truth-evaluation per se.
+
+**Naturalness rating:** [CORE]
+
+---
+
+### 3.5 allinchay — 'to fix / to correct / to improve / to make right'
+
+**Form:** allinchay
+**Morpheme breakdown:** allin + -ncha-/-cha- (causative verbalizer) + -y (infinitive)
+**Transliteration:** allinchay
+**English translation:** to fix, to correct, to improve, to make right, to repair
+
+**Usage:** Encodes a transitive causation in which an agent acts on an object, statement, situation, or conduct to bring it into a good or proper state. Appears in moral, practical, and administrative contexts. Documented in P1 (item 17), P2a (Derived Form 16.1), and P4a (section 5).
+
+**Example from CONTEXT:** *pantasqata allinchay* — 'to correct what is mistaken' (P2b, Construction 8.1)
+
+**Example from CONTEXT:** *qelqata allinchay* — 'to correct a document' (P2b, Construction 8.2)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Parallel in structure to *cheqanchay*. The CONTEXT documents both as instances of the same *-ncha-* causative pattern (P2a, P4a §5, P5 Opposition 10).
+
+---
+
+### 3.6 sut'inchay — 'to clarify / to make clear / to explain / to make explicit'
+
+**Form:** sut'inchay
+**Morpheme breakdown:** sut'i + -ncha- (causative verbalizer) + -y (infinitive)
+**Transliteration:** sut'inchay
+**English translation:** to clarify, to make clear, to explain, to specify, to make explicit
+
+**Usage:** Encodes a transitive causation in which an agent acts on a statement or situation to bring it into a state of clarity or explicitness. Appears in pedagogical, legal, and everyday contexts.
+
+**Example from CONTEXT:** *sut'inchaykuway* — 'please clarify it for me' (P2b, Construction 30.1)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** The CONTEXT explicitly contrasts *sut'inchay* (transitive: agent makes something clear) with *sut'ikay* (intransitive: something becomes clear on its own), making this the clearest causative/inchoative pair in the dataset for a single root (P2a, Derived Form 29.5).
+
+---
+
+### 3.7 sut'ichay — 'to clarify / to explain / to make plain / to specify'
+
+**Form:** sut'ichay
+**Morpheme breakdown:** sut'i + -cha- (causative) + -y (infinitive)
+**Transliteration:** sut'i-cha-y
+**English translation:** to clarify, to explain, to make plain, to specify
+
+**Usage:** Documented in P1 (item 27), P2a (Derived Form 26.1), and P4a (section 5) as the causative of *sut'i*. Described as used in contexts of clarification, specification, and disambiguation. The causative suffix *-cha* encodes an agent causing a state of clarity to obtain.
+
+**Example from CONTEXT:** *Sut'ichaway imachus cheqa kasqanta.* — 'Clarify for me what is true. / Explain to me what the truth of the matter is.' (P2b C24.1)
+
+**Example from CONTEXT:** *Sut'icharqan chay simikunata.* — 'He/she clarified those statements. / He/she made those words explicit.' (P2a)
+
+**Naturalness rating:** [CORE] *(base form attested as [CORE] in P2a; specific dynamic construction Sut'ichaway imachus cheqa kasqanta carries [UNCERTAIN] status from P2b)*
+
+---
+
+### 3.8 sumaqchay — 'to beautify / to make fine / to make excellent'
+
+**Form:** sumaqchay
+**Morpheme breakdown:** sumaq + -ncha- (causative verbalizer) + -y (infinitive)
+**Transliteration:** sumaqchay
+**English translation:** to beautify, to make fine, to make excellent, to adorn
+
+**Usage:** Encodes a transitive causation in which an agent makes something beautiful or excellent. Documented in P2a as part of the same *-ncha-* causative pattern as *cheqanchay*, *allinchay*, and *sut'inchay*.
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Included for completeness of the *-ncha-* causative paradigm. *Sumaq* is primarily aesthetic rather than strictly truth-evaluative.
+
+---
+
+### 3.9 pantachiy — 'to mislead / to cause to err / to lead astray'
+
+**Form:** pantachiy
+**Morpheme breakdown:** panta- (verbal root) + -chi- (causative) + -y (infinitive)
+**Transliteration:** pantachiy
+**English translation:** to mislead, to cause to err, to deceive, to lead astray, to confuse
+
+**Usage:** Encodes a causation in which an agent causes another person to fall into error or false belief. The causer may act deliberately or inadvertently. Appears in moral and legal contexts where the source of another's error is attributed to an external agent. Documented in P2a (Derived Form 24.3) as used "in contexts where one person causes another to make an error or go astray," appearing in moral discourse about misleading others and in legal contexts involving deliberate misdirection.
+
+**Example from CONTEXT:** *pantachiwanku* — 'they misled me' (P2b, Construction 14.1)
+
+**Example from CONTEXT:** *mana pantachinaykichu* — 'you should not mislead anyone' (P2b, Construction 14.2)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** Uses the *-chi-* causative on a verbal root, contrasting with the *-ncha-* pathway used by adjectival roots (P4a §5, P5 Opposition 15). The CONTEXT documents this as causing someone to be in the opposed state (error) rather than in a truth-related state.
+
+---
+
+### 3.10 llullachiy — 'to cause to lie / to induce falsehood in another / to deceive someone'
+
+**Form:** llullachiy
+**Morpheme breakdown:** llulla + -chi- (causative) + -y (infinitive)
+**Transliteration:** llulla-chi-y
+**English translation:** to cause to lie, to make someone deceive, to induce falsehood, to deceive someone, to mislead
+
+**Usage:** Encodes a causation in which an agent causes or induces another person to lie or deceive. Appears in legal and moral contexts where the instigation of deception is at issue. Documented in P2a (Derived Form 7.3) and P4a (section 5) as used "in contexts where one person causes another to be deceived or induces another to lie," with the causative construction shifting agency to the person who engineers the deception.
+
+**Example from CONTEXT:** *Llullachirqan payta.* — 'He/she deceived him/her. / He/she caused him/her to believe a lie.' (P4a §5, P4b §5)
+
+**Example from CONTEXT:** *Llullachirqan chay qelqawan.* — 'He/she deceived [them] with that document. / That document was used to mislead.' (P2a)
+
+**Naturalness rating:** [CORE]
+
+**Notes:** The CONTEXT notes that *llulla* uses *-chi-* directly for causative meaning rather than the *-ncha-* pathway (P2a, P4a §5, P5 Opposition 15). This is the only causative form attested for *llulla* as a root.
+
+---
+
+### 3.11 allinchachiy — 'to cause someone to correct or improve something / to have something fixed'
+
+**Form:** allinchachiy
+**Morpheme breakdown:** allin + -ncha- + -chi- (causative) + -y (infinitive)
+**Transliteration:** allinchachiy
+**English translation:** to cause someone to correct or improve something, to have something fixed, to direct correction
+
+**Usage:** Encodes a double causation: an agent causes or directs another person to perform the act of correcting or improving something. Appears in administrative and supervisory contexts. The CONTEXT notes this as a "double causative (*-ncha-chi-*)" (P2a, Derived Form 7.3).
+
+**Naturalness rating:** [CORE]
+
+**Notes:** This is the only double-causative form documented in the CONTEXT for this domain. It represents a causation-of-causation structure: Y causes Z to make X good/right.
+
+---
+
+### 3.12 yachachiy — 'to teach / to instruct / to cause to know or learn'
+
+**Form:** yachachiy
+**Morpheme breakdown:** yacha- (verbal root) + -chi- (causative) + -y (infinitive)
+**Transliteration:** yacha-chi-y
+**English translation:** to teach, to instruct, to cause to know or learn
+
+**Usage:** Encodes a causation in which an agent causes another person to come to know or learn something. Described in P2a as "one of the most common causative derivatives in Quechua" and "the standard verb for teaching and instruction." The causative encodes an agent causing a state of knowledge to come about in another person.
+
+**Naturalness rating:** [CORE]
+
+**Notes:** *Yachachiy* causes a change of epistemic state (from not knowing to knowing) rather than a change of truth-value in a proposition. Included here because the CONTEXT documents it as a causative expression in the knowledge domain (P2a, Derived Form 22.1), and the CONTEXT groups *yachay* with truth-evaluation vocabulary (P1, P3 Group 10).
+
+---
+
+### 3.13 riqsichiy — 'to introduce / to make known / to cause to recognize'
+
+**Form:** riqsichiy
+**Morpheme breakdown:** riqsi- (verbal root) + -chi- (causative) + -y (infinitive)
+**Transliteration:** riqsi-chi-y
+**English translation:** to introduce, to make known, to cause to recognize, to present, to identify to someone
+
+**Usage:** Encodes a causation in which an agent causes another person to come to know or recognize a person or thing. Documented in P2a (Derived Form 21.1; also Derived Form 11.3) as relevant to contexts where the identity of a person

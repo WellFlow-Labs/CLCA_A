@@ -1,0 +1,128 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | X + copula + TRUTH-TERM (zero copula in present) | *ha-sipur emet* "the story is truth/true"<br>*ze sheker* "that's a lie" | Direct mapping. Core construction. | None |
+| **ADNOM** | NOUN + TRUTH-TERM-ADJ (with agreement)<br>Construct state (lexicalized) | *sipur amiti* "true story"<br>*ed sheker* "false witness" | Direct mapping. Core construction. | None |
+| **BECOME** | **NO COMMON EXPRESSION** | *ha-davar ne'esah barur* "the thing became clear" [MARGINAL] | **SUBSTITUTED BY REVELATION**<br>Verbs of revelation/discovery used instead | Structural gap for direct inchoative |
+| **REVELATION** | Verbs: *hitgalah* "was revealed", *hitbarar* "became clear", *nimtsa* "was found", *gilah* "reveal" | *ha-emet hitgaltah* "the truth was revealed" | Functions as primary change-of-state operator for truth-domain. Substitutes for BECOME. | None |
+| **CAUSATION (factual)** | Periphrastic: *hokhiakh she-* "prove that"<br>Hif'il causatives: *hit'ah* "mislead", *ziyef* "forge" | *hu hokhiakh she-ze emet* "he proved that it's true"<br>*hem ziyfu et ha-mismakh* "they forged the document" | Partially direct. Causation expressed through proof/demonstration verbs rather than "make true/false". | Partial gap: no direct "make X true/false" |
+| **CAUSATION (character)** | Hif'il: *hit'ah* "cause to err/mislead"<br>Pi'el: *ziyef* "forge/falsify" | *hi hit'atah oti* "she misled me"<br>*hu hitsdik et atsmo* "he justified himself" | Direct mapping through causative stems. | None |
+| **VERIFICATION** | Verb: *hokhiakh* "prove"<br>Verb: *imet* "verify/confirm"<br>Complementizer: *nakhon she-* "it's correct that" | *hu hokhiakh she-ze emet* "he proved that it's true" | Expressed through proof/confirmation verbs. No dedicated "verify" construction distinct from causation. | Overlaps with CAUSATION (factual) |
+| **DISCONFIRMATION** | Verb: *hikhkhish* "deny/refute"<br>Negation + verification: *lo hokhiakh* "didn't prove"<br>*hir'ah she-lo* "showed that not" | Context-dependent; no single dedicated construction | **NO COMMON EXPRESSION** for dedicated disconfirmation operator. Uses negation + verification or refutation verbs. | Structural gap for dedicated operator |
+| **NEGATION** | Analytic: *lo* + TRUTH-TERM<br>Negative copula: *ein/eino* + TRUTH-TERM [formal]<br>Prefix: *bilti-* [lexicalized] | *ze lo nakhon* "that's not correct"<br>*ha-davar eino emet* "the thing is not true"<br>*bilti amin* "unreliable" | Direct mapping. Primarily analytic with particle *lo*. | None |
+| **NOMINALIZATION** | Abstract: ROOT/ADJ + *-ut* suffix<br>Agentive: ROOT + *-an* suffix<br>Agentive: Participles | *amitiyut* "authenticity"<br>*shakran* "liar"<br>*meshaker* "liar" | Direct mapping. Highly productive patterns. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION substitutes for BECOME
+Hebrew systematically avoids direct inchoative constructions with truth-domain terms. The construction "X became true/false" is marked as [MARGINAL] in P4b and described as "not natural in Hebrew." Instead, the language uses **verbs of revelation and discovery** (*hitgalah* "was revealed", *hitbarar* "became clear", *nimtsa* "was found") to express change-of-state in the truth domain. 
+
+P4a explicitly states: "Change of state is more idiomatically expressed through verbs of revelation (*hitgalah* 'was revealed'), discovery (*nimtsa* 'was found'), or clarification (*hitbarar* 'became clear'). The construction 'X became true/false' is not natural in Hebrew; instead, one says 'it turned out that X' (*hitbarar she-X*)."
+
+This represents a **conceptual substitution**: the language conceptualizes truth-emergence as revelation/discovery rather than as simple state-change.
+
+### VERIFICATION overlaps with CAUSATION (factual)
+The verb *hokhiakh* "prove" serves double duty: it expresses both causing something to be recognized as true (causation) and establishing truth through evidence (verification). Hebrew does not maintain a clear constructional distinction between "making something true" and "proving something true" — both are expressed through the same periphrastic construction with *hokhiakh*.
+
+P4a notes: "Causation is expressed through verbs like *hokhiakh* 'prove,' *shiknea* 'convince,' or *gilah* 'reveal.'" These same verbs appear in verification contexts.
+
+### DISCONFIRMATION lacks dedicated construction
+While verification has a clear expression through *hokhiakh* "prove", disconfirmation has no parallel dedicated construction. P4b does not list any [CORE] construction for disconfirmation. Instead, speakers must use:
+- Negation + verification: *lo hokhiakh* "didn't prove"
+- Refutation verbs: *hikhkhish* "deny/refute" (not listed in P4a constructions)
+- Showing falsity: *hir'ah she-lo* "showed that not"
+
+This represents a **structural asymmetry**: positive verification is constructionally supported, negative disconfirmation requires circumlocution.
+
+### Analytic NEGATION dominates
+Hebrew negation is overwhelmingly analytic, using the particle *lo* before predicates. The negative copula *ein/eino* exists but is marked [MARGINAL] and "formal/literary" in P4b. The prefix *bilti-* creates lexicalized negative adjectives (*bilti amin* "unreliable") but is not productive across all truth-terms.
+
+P4a states: "*Lo* is the standard colloquial negator; *ein/eino* (inflected negative copula) is more formal."
+
+### Demonstrative preference in ATTRIBUTION
+While attribution can use full NP subjects, P4b notes that "Demonstrative subjects (*ze*, *zot*) are extremely common in truth-evaluation contexts" and "*Ze/zot* + truth-term is the unmarked way to evaluate propositions in conversation, far more common than full NP subjects."
+
+This represents a **discourse-pragmatic preference** rather than a structural gap, but it affects the typical realization of the ATTR construction.
+
+### Asymmetry in agentive nominalization
+P4a notes: "No common agentive noun exists for 'truth-teller' — this is expressed periphrastically (*mi she-omer emet* 'one who tells truth')." 
+
+Hebrew has productive agentive nominalizations for negative truth-domain agents (*shakran* "liar", *mezayef* "forger") but lacks a simple lexical item for positive truth-tellers. This is a **lexical asymmetry** rather than a constructional gap — the nominalization pattern exists, but the specific lexeme is missing.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+
+1. **BECOME (inchoative)**: No natural direct construction for "X became true/false". P4a explicitly states this is "not natural in Hebrew." The construction *ha-davar ne'esah barur* is marked [MARGINAL]. **Substituted by REVELATION verbs.**
+
+2. **DISCONFIRMATION**: No dedicated construction parallel to verification. No [CORE] pattern listed in P4b for establishing falsity. Requires circumlocution through negation + verification or separate refutation verbs.
+
+3. **CAUSATION (factual) — direct "make true/false"**: No construction for directly causing truth-value change. P4a notes: "Many truth-domain terms lack dedicated causative forms; causation is expressed through verbs like *hokhiakh* 'prove,' *shiknea* 'convince,' or *gilah* 'reveal.'" The language has causative morphology (hif'il stem) but it doesn't apply to core truth-terms like *emet* "truth" or *sheker* "falsehood" to mean "make true/false."
+
+### Lexical Gaps
+
+1. **Agentive nominalization for "truth-teller"**: P4a explicitly states "No common agentive noun exists for 'truth-teller.'" Must use periphrastic *mi she-omer emet* "one who tells truth."
+
+2. **Dedicated disconfirmation verb**: While *hokhiakh* "prove" exists for verification, no parallel single verb for disconfirmation is listed in P4a constructions.
+
+### Conceptual Gaps
+
+1. **Direct inchoative with truth-values**: The concept of truth-values changing state directly (becoming true/false) is not expressed naturally. P4a states: "The construction 'X became true/false' is not natural in Hebrew." This suggests a conceptual preference for viewing truth-emergence as revelation rather than state-change.
+
+### Asymmetric Gaps
+
+1. **Verification vs. Disconfirmation**: Positive verification has clear constructional support (*hokhiakh* "prove"), while negative disconfirmation lacks parallel dedicated construction.
+
+2. **Agentive nominalizations**: Negative agents (*shakran* "liar", *mezayef* "forger") have productive lexical forms, while positive truth-teller lacks simple lexeme.
+
+3. **Causation**: Character-based causation (misleading, deceiving) has productive hif'il forms (*hit'ah* "mislead"), while factual causation (making true/false) lacks direct construction.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Core construction with zero copula in present tense. Extremely frequent.
+- **ADNOM**: Core construction with standard adjective-noun agreement.
+- **NEGATION**: Core construction with analytic particle *lo*.
+- **NOMINALIZATION**: Both abstract (*-ut* suffix) and agentive (*-an* suffix, participles) highly productive.
+- **REVELATION**: Core construction through dedicated verbs (*hitgalah*, *hitbarar*, *gilah*).
+- **CAUSATION (character)**: Available through hif'il causative stem (*hit'ah* "mislead", *hitsdik* "justify").
+
+### Available with Substitution
+- **BECOME**: **Substituted by REVELATION**. Direct inchoative marked [MARGINAL]; revelation verbs serve this function naturally.
+- **VERIFICATION**: Available through *hokhiakh* "prove" but overlaps functionally with CAUSATION (factual).
+
+### Partially Available
+- **CAUSATION (factual)**: Available through periphrastic constructions (*hokhiakh she-* "prove that") but lacks direct "make X true/false" construction. Causative morphology exists but doesn't apply to core truth-value terms.
+
+### Missing Entirely
+- **DISCONFIRMATION**: No dedicated construction. Requires circumlocution through negation + verification or separate refutation verbs not integrated into the core construction system.
+
+---
+
+## Summary Statement
+
+Hebrew shows a **well-developed constructional system** for truth-domain operations with the following characteristics:
+
+1. **Strong support** for attribution, adnominal modification, negation, and nominalization.
+
+2. **Systematic substitution** of REVELATION for BECOME, reflecting a conceptual preference for viewing truth-emergence as discovery/revelation rather than state-change.
+
+3. **Partial gaps** in causation, where character-based causation (misleading) is morphologically supported but factual causation (making true/false) requires periphrasis.
+
+4. **Structural asymmetry** between verification (well-supported) and disconfirmation (requiring circumlocution).
+
+5. **Lexical asymmetries** favoring negative agents (liar) over positive agents (truth-teller).
+
+The language's construction inventory reflects a **revelation-centered** rather than **state-change-centered** conceptualization of truth-domain dynamics.

@@ -1,0 +1,142 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: Subject + 是 (shì) + Truth-domain predicate | 这个说法是真的 (zhè ge shuō fǎ shì zhēn de) "This statement is true" | Direct mapping. [CORE] construction. | None |
+| **ADNOM** | Construction 3: Truth-domain modifier + 的 (de) + Noun | 真实的情况 (zhēn shí de qíng kuàng) "the true/actual situation" | Direct mapping. [CORE] construction. | None |
+| **BECOME** | Construction 4: Subject + 变 (biàn) / 变得 (biàn de) / 成为 (chéng wéi) + Truth-domain predicate | 假的变成真的了 (jiǎ de biàn chéng zhēn de le) "The false became true" | Direct mapping. [CORE] construction. | None |
+| **REVELATION** | Construction 15: Verification verb + Truth-domain object | 查明真相 (chá míng zhēn xiàng) "ascertain the truth, investigate the facts" | Expressed through evidential constructions with verbs like 查明 (chá míng) "investigate and clarify", 揭露 (jiē lù) "reveal, expose". [CORE] in formal registers. | None |
+| **CAUSATION (factual)** | Construction 5: Agent + 使/让 (shǐ/ràng) + Patient + 变得 (biàn de) + Truth-domain predicate<br><br>**PREFERRED:** Construction 8: Resultative complements | 证据使这个说法变得可靠 (zhèng jù shǐ zhè ge shuō fǎ biàn de kě kào) "The evidence makes this claim reliable"<br><br>证实了 (zhèng shí le) "verified, confirmed" | Periphrastic causative [MARGINAL]; **SUBSTITUTED BY resultative verb compounds** (证实, 查实, 核实) which are [CORE] and strongly preferred. | Functional substitution: resultative compounds dominate |
+| **CAUSATION (character)** | **NO DEDICATED CONSTRUCTION** | — | **NO COMMON EXPRESSION - circumlocution required**. Would require periphrastic expression using Construction 5 with character predicates, but no evidence of natural usage. | **MISSING (structural gap)** |
+| **VERIFICATION** | Construction 15: Verification verb + Truth-domain object<br><br>Construction 16: Subject + 符合/不符合 (fú hé / bù fú hé) + Truth-standard | 证实事实 (zhèng shí shì shí) "verify the facts"<br><br>符合事实 (fú hé shì shí) "conform to facts" | Direct mapping through multiple [CORE] constructions. Verification verbs (证实, 核实, 查实) and conformity verbs (符合) both express verification. | None |
+| **DISCONFIRMATION** | Construction 16: Subject + 不符合 (bù fú hé) + Truth-standard<br><br>Construction 18: 没有/毫无 (méi yǒu / háo wú) + 根据/证据 (gēn jù / zhèng jù) | 与事实不符 (yǔ shì shí bù fú) "not correspond with facts"<br><br>没有根据 (méi yǒu gēn jù) "groundless, without basis" | Direct mapping. Negation of conformity constructions and negation of evidential basis both express disconfirmation. [CORE] constructions. | None |
+| **NEGATION** | Construction 2: Subject + 不是 (bù shì) + Truth-domain predicate | 这不是真的 (zhè bù shì zhēn de) "This is not true" | Direct mapping. Analytic negation using 不是 (bù shì) or 不 (bù). [CORE] construction. | None |
+| **NOMINALIZATION (abstract)** | Construction 6: Truth-domain base + 性 (-xìng) / 度 (-dù) | 真实性 (zhēn shí xìng) "authenticity, truthfulness"<br><br>准确度 (zhǔn què dù) "degree of accuracy" | Direct mapping. Suffixal derivation. [CORE] construction, highly productive. | None |
+| **NOMINALIZATION (agentive)** | Construction 7: Verb + 者 (-zhě) | 欺骗者 (qī piàn zhě) "deceiver, liar" | Direct mapping but [MARGINAL]. Restricted to formal/literary registers. Colloquial speech uses compound nouns (骗子) or descriptive phrases (说谎的人). | Register-restricted; functional gap in colloquial speech |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 CAUSATION (factual) → Resultative Compounds
+
+The most significant substitution pattern in Chinese truth-domain constructions involves **CAUSATION (factual)**. While the language possesses a grammatically well-formed periphrastic causative construction (Construction 5: 使/让 + Patient + 变得 + Predicate), this pattern is rated [MARGINAL] and described as "less idiomatic than resultative verb compounds." 
+
+The P4b notes explicitly state: "Colloquial speech strongly prefers compound nouns (骗子) or descriptive phrases (说谎的人)" and "resultative compounds dominate in actual usage." The resultative complement construction (Construction 8) systematically substitutes for periphrastic causation, with compounds like:
+- 证实 (zhèng shí) "prove true" (证 "prove" + 实 "actual")
+- 查实 (chá shí) "verify as true" 
+- 核实 (hé shí) "confirm as true"
+
+These resultative compounds encode both the action and its achieved result in a single lexical unit, making them functionally causative but morphologically distinct from the periphrastic pattern.
+
+### 2.2 REVELATION and BECOME: Distinct but Related
+
+Unlike some languages where revelation might substitute for becoming, Chinese maintains both operators as distinct:
+- **BECOME** (Construction 4) uses change-of-state verbs 变/成为 and is [CORE]
+- **REVELATION** (Construction 15) uses evidential verbs like 查明 "investigate and clarify" and 揭露 "reveal, expose"
+
+These do not substitute for each other. BECOME describes ontological change in truth-value; REVELATION describes epistemic discovery or disclosure. The language keeps these conceptually separate.
+
+### 2.3 VERIFICATION and DISCONFIRMATION: Shared Construction Base
+
+Constructions 15, 16, and 18 show that VERIFICATION and DISCONFIRMATION share the same constructional patterns but with opposite polarity:
+- **Positive verification**: 符合事实 (fú hé shì shí) "conform to facts"
+- **Disconfirmation**: 不符合事实 (bù fú hé shì shí) "not conform to facts"
+
+The negation is analytic (using 不), not a separate construction. Similarly:
+- **Positive**: 有根据 (yǒu gēn jù) "have basis"
+- **Negative**: 没有根据 (méi yǒu gēn jù) "without basis"
+
+### 2.4 Register-Based Substitution: Agentive Nominalization
+
+Construction 7 (agentive nominalization with -者) shows register-based substitution. The formal suffix -者 is [MARGINAL] in actual usage, with colloquial speech substituting:
+- Compound nouns: 骗子 (piàn zi) "liar" instead of 欺骗者 (qī piàn zhě)
+- Descriptive phrases: 说谎的人 (shuō huǎng de rén) "person who lies"
+
+This represents a functional gap in colloquial registers where the morphological nominalization is avoided in favor of periphrastic alternatives.
+
+### 2.5 Asymmetries: No Truth/Falsity Asymmetry Detected
+
+The constructions show no systematic asymmetry between truth and falsity. Both positive and negative truth-domain predicates participate equally in all constructions:
+- Attribution: 是真的 "is true" / 是假的 "is false"
+- Become: 变成真的 "become true" / 变成假的 "become false"
+- Adnominal: 真实的情况 "true situation" / 虚假的信息 "false information"
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**CAUSATION (character)**: No dedicated construction exists for causing someone to become truthful/honest as a character trait. While Construction 5 (periphrastic causative) is grammatically available, there is no evidence in P4a or P4b of its natural use with character predicates in the truth domain. This would require circumlocution such as:
+- *使某人变得诚实 (shǐ mǒu rén biàn de chéng shí) "make someone become honest"
+
+However, this pattern is not attested in the data and would likely be expressed through other means (e.g., education/influence verbs + character development).
+
+### 3.2 Lexical Gaps
+
+No pure lexical gaps are identified. The language has rich vocabulary across all truth-domain concepts (真/假, 实/虚, 诚实/欺骗, etc.).
+
+### 3.3 Conceptual Gaps
+
+**CAUSATION (character)** may represent a conceptual gap rather than merely a structural one. The absence of natural expressions for "making someone truthful" suggests this may not be a readily encoded concept in Chinese truth-domain grammar. Character change is more typically expressed through:
+- Self-cultivation: 变得诚实 "become honest" (without external causation)
+- Educational influence: 教育 "educate", 培养 "cultivate" (not specific to truth-domain)
+
+### 3.4 Asymmetric Gaps
+
+**Register asymmetry in agentive nominalization**: The -者 suffix (Construction 7) is [MARGINAL] in colloquial speech but [CORE] in formal/literary registers. This creates a functional gap where colloquial speakers must use alternative strategies (compound nouns, descriptive phrases) to express the same meaning.
+
+**No positive/negative asymmetry**: Unlike some languages that might have truth-operators but lack falsity-operators (or vice versa), Chinese shows complete symmetry. All constructions work equally with positive truth-predicates (真, 实, 对) and negative ones (假, 虚, 错).
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+The following operators are fully supported with [CORE] constructions:
+
+1. **ATTR** - Attribution via 是 copula (Construction 1)
+2. **ADNOM** - Adnominal modification via 的 particle (Construction 3)
+3. **BECOME** - Inchoative via 变/成为 (Construction 4)
+4. **REVELATION** - Evidential constructions with verification verbs (Construction 15)
+5. **VERIFICATION** - Multiple constructions (15, 16) with verification and conformity verbs
+6. **DISCONFIRMATION** - Negation of verification/conformity constructions (16, 18)
+7. **NEGATION** - Analytic negation via 不是/不 (Construction 2)
+8. **NOMINALIZATION (abstract)** - Suffixal derivation with -性/-度 (Construction 6)
+
+### 4.2 Available with Substitution
+
+9. **CAUSATION (factual)** - Periphrastic causative [MARGINAL]; **strongly substituted by resultative verb compounds** (Construction 8), which are [CORE]. The language prefers lexicalized resultative compounds (证实, 核实, 查实) over productive periphrastic causatives.
+
+### 4.3 Partially Available (Register-Restricted)
+
+10. **NOMINALIZATION (agentive)** - Morphological derivation with -者 available in formal/literary registers [MARGINAL]; colloquial speech uses alternative strategies (compound nouns, descriptive phrases). Functionally available across all registers but through different means.
+
+### 4.4 Missing Entirely
+
+11. **CAUSATION (character)** - **MISSING (structural gap)**. No common expression exists for causing character change in the truth domain. Would require circumlocution, but no natural usage patterns are attested. This may represent a conceptual gap where character change is not readily encoded as externally caused in truth-domain grammar.
+
+---
+
+## Summary Table: Operator Availability
+
+| Operator | Status | Primary Construction(s) | Notes |
+|----------|--------|------------------------|-------|
+| ATTR | ✓ Fully available | Construction 1 | [CORE] |
+| ADNOM | ✓ Fully available | Construction 3 | [CORE] |
+| BECOME | ✓ Fully available | Construction 4 | [CORE] |
+| REVELATION | ✓ Fully available | Construction 15 | [CORE] in formal registers |
+| CAUSATION (factual) | ⚠ Available with substitution | Construction 8 (resultative compounds) | Periphrastic form [MARGINAL]; compounds [CORE] |
+| CAUSATION (character) | ✗ Missing | — | Structural/conceptual gap |
+| VERIFICATION | ✓ Fully available | Constructions 15, 16 | [CORE] |
+| DISCONFIRMATION | ✓ Fully available | Constructions 16, 18 | [CORE] |
+| NEGATION | ✓ Fully available | Construction 2 | [CORE], analytic |
+| NOMINALIZATION (abstract) | ✓ Fully available | Construction 6 | [CORE] |
+| NOMINALIZATION (agentive) | ⚠ Partially available | Construction 7 | Register-restricted |

@@ -1,0 +1,94 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Finnish (fi)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | NP + *olla* + PRED-ADJ (nominative); NP + *olla* + *totta* (partitive, lexically conditioned) | *Se on totta.* / *Väite on perusteeton.* | Direct mapping; fully attested | None |
+| **ADNOM** | ADJ (nominative, agreeing) + NP; NP-GEN + *mukainen* + NP | *todenmukainen kuvaus* / *perusteeton syytös* / *totuudenmukainen* | Direct mapping; fully attested; conformity compound adjective (Pattern 11) functions as a subtype | None |
+| **BECOME** | *osoittautua* + TRANSLATIVE (-*ksi*) | *Ennuste osoittautui oikeaksi.* / *Maalaus osoittautui väärennökseksi.* | Direct mapping; fully attested | None |
+| **REVELATION** | *osoittautua* + TRANSLATIVE (-*ksi*) | *Ennuste osoittautui oikeaksi.* | **SUBSTITUTED BY BECOME**: *osoittautua* encodes both the change-of-state and the epistemic discovery sense; no separate REVELATION construction is attested | No dedicated REVELATION construction; BECOME construction carries both functions |
+| **CAUSATION (factual)** | *väärentää* (to forge/falsify); *vääristää* (to distort/skew) | *Hän väärensi passin.* / *Monopoli vääristää kilpailua.* | Partial mapping: causation toward falsity is lexically attested; causation toward truth is **NOT ATTESTED** as a single productive verb | Asymmetric lexical gap: no causative toward truth (*\*toistaa*, *\*todentaa* in causative sense) is attested; periphrasis required for "make true" |
+| **CAUSATION (character)** | No dedicated construction attested | — | **NO COMMON EXPRESSION — circumlocution required** | Structural gap: no morphological or periphrastic construction for inducing a truth-related character state (e.g., "make reliable," "make honest") is attested in P4a/P4b; *tehdä luotettavaksi* is noted as periphrastic but not exemplified |
+| **VERIFICATION** | *todistaa* + NP-ACC + TRANSLATIVE (*-ksi*); agentive *tarkastaja* / *tarkkailija* | *Notaari todistaa kopion oikeaksi.* / *Tutkimus todisti teorian vääräksi.* | Direct mapping for the transitive certification construction; the agentive nominals index the verifier role | None for positive verification; see DISCONFIRMATION note below |
+| **DISCONFIRMATION** | *todistaa* + NP-ACC + TRANSLATIVE (*vääräksi*); *ei pidä paikkansa*; *ei ole totta* | *Tutkimus todisti teorian vääräksi.* / *Väite ei pidä paikkaansa.* | **SHARES CONSTRUCTION WITH VERIFICATION**: the *todistaa* + translative construction covers both confirmation (*oikeaksi*) and disconfirmation (*vääräksi*) by substitution of the translative complement; *ei pidä paikkansa* is an idiomatic disconfirmation-only form | None; construction is shared with VERIFICATION via translative complement alternation |
+| **NEGATION** | NP + *ei ole* + PRED-ADJ (nominative); *ei pidä paikkansa* (idiomatic fixed form) | *Tämä allekirjoitus ei ole aito.* / *Väite ei pidä paikkaansa.* | Direct mapping; negation is **analytic** (separate negative auxiliary *ei* + main verb); no morphological negation of adjectives is attested | None |
+| **NOMINALIZATION** | ADJ + *-uus/-yys* (abstract quality); Verb + *-ja/-jä* (agentive); Verb + *-us/-ys* (result); Verb + *-minen* (verbal noun/action) | *tarkkuus* / *todistaja* / *todistus* / *väärentäminen* | Direct mapping across four distinct nominalization subtypes; all fully attested and productive | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME
+
+The CLCA category REVELATION — expressing that a truth-value is discovered or comes to light — is not realized by a dedicated construction in Finnish as documented in P4a/P4b. The verb *osoittautua* + translative, classified under BECOME, carries both the change-of-state sense ("turned out to be") and the epistemic discovery sense ("proved to be," "was revealed to be"). The P4a notes describe *osoittautua* as "to turn out to be, to prove to be," and the P4b examples include both a forecast (*Ennuste osoittautui oikeaksi*) and an art-authentication case (*Maalaus osoittautui väärennökseksi*), both of which involve discovery of a pre-existing state rather than a genuine change of state. Finnish thus uses a single construction where some languages maintain a distinction between BECOME (genuine change) and REVELATION (discovery of existing state). No separate REVELATION operator is attested.
+
+### 2.2 VERIFICATION and DISCONFIRMATION share the same construction
+
+The *todistaa* + NP-accusative + translative construction (Pattern 10) covers both positive verification (*todistaa oikeaksi* — certify as correct) and disconfirmation (*todistaa vääräksi* — prove false) through alternation of the translative complement. The construction is not split into two formally distinct patterns; the semantic direction is determined entirely by the lexical content of the translative complement (*oikeaksi* vs. *vääräksi*, *aidoksi* vs. *väärennökseksi*). This means VERIFICATION and DISCONFIRMATION are formally unified in Finnish under a single transitive certification construction.
+
+Additionally, the idiomatic *ei pidä paikkansa* functions exclusively as a DISCONFIRMATION/NEGATION form with no positive counterpart. There is no attested idiomatic *\*pitää paikkansa* used as a standalone positive verification formula in the P4a/P4b data; the positive direction relies on the copular attribution construction (*se on totta*, *väite on oikea*) rather than on a parallel idiomatic form.
+
+### 2.3 Asymmetry in CAUSATION (factual): falsity vs. truth
+
+The causative domain shows a clear directional asymmetry. Causation toward falsity is lexically well-attested: *väärentää* (to forge, to cause to be counterfeit) and *vääristää* (to distort, to cause to be skewed) are both documented as [CORE] items with distinct semantic and legal profiles. Causation toward truth — making something true, genuine, or accurate — has no parallel productive causative verb. P4a explicitly notes: "No productive causative from *tosi*, *aito*, or *luotettava* is attested; those concepts are expressed periphrastically (*todistaa aidoksi*, *tehdä luotettavaksi*)." The periphrastic forms are noted but not exemplified in P4b, and neither is rated [CORE]. This is a one-directional lexical gap: the language has dedicated morphological causatives for falsification but not for authentication or truth-making.
+
+### 2.4 CAUSATION (character) is absent
+
+No construction for inducing a truth-related character property — making someone honest, making a source reliable — is attested in either P4a or P4b. The P4a note for Pattern 5 mentions *tehdä luotettavaksi* as a periphrastic possibility but does not exemplify it, does not rate it, and does not treat it as a productive pattern. This gap is consistent with the broader absence of character-directed causatives in the documented data.
+
+### 2.5 Negation is uniformly analytic
+
+Across all attested negative constructions, negation is expressed analytically through the negative auxiliary *ei* combined with the main verb in its connegative form (*ei ole*, *ei pidä*). No morphological negation of adjectives or nouns is attested in this domain. The partitive case in *ei ole totta* is retained under negation (as noted in P4a Pattern 2), which is a morphosyntactic feature of the construction but does not constitute morphological negation of the adjective itself. The idiomatic *ei pidä paikkansa* is a fixed negative form with no productive internal structure in use.
+
+### 2.6 Nominalization is structurally differentiated
+
+Finnish maintains four formally distinct nominalization subtypes in this domain, each with a different suffix and a different semantic function: *-uus/-yys* for abstract quality nouns, *-ja/-jä* for agent nouns, *-us/-ys* for result nouns, and *-minen* for action/process nouns. P4a and P4b treat all four as [CORE] and fully productive. No single nominalization construction covers all functions; the language distributes nominalization across dedicated morphological patterns.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character)**: No construction — morphological, periphrastic, or idiomatic — for inducing a truth-related character property is attested or exemplified in P4a/P4b. The periphrastic *tehdä luotettavaksi* is mentioned in a note but is not documented as a common expression. **MISSING (structural gap).**
+
+### 3.2 Lexical Gaps
+
+- **CAUSATION (factual) — truth direction**: No productive causative verb meaning "to make true," "to make genuine," or "to make accurate" is attested. The gap is one-directional: causatives toward falsity (*väärentää*, *vääristää*) are fully attested; causatives toward truth are absent as lexical items. Periphrasis (*todistaa aidoksi*) is noted but not exemplified as a common expression. **Lexical gap on the truth-directed side of CAUSATION (factual).**
+
+- **REVELATION as a distinct lexical item**: No verb or construction dedicated to the revelation-of-truth sense (distinct from change-of-state) is attested. The function is absorbed by *osoittautua*. **Lexical gap for a dedicated REVELATION operator.**
+
+- **Positive idiomatic counterpart to *ei pidä paikkansa***: No idiomatic fixed form parallel to *ei pidä paikkansa* for positive confirmation is attested. **Asymmetric lexical gap.**
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps — cases where the semantic operation is blocked or inexpressible — are indicated by the P4a/P4b data. All major truth-domain operations (attribution, modification, becoming, verification, disconfirmation, negation, nominalization) are expressible in Finnish, though some require periphrasis or share constructions.
+
+### 3.4 Asymmetric Gaps
+
+| Domain | Positive (truth) | Negative (falsity) | Asymmetry |
+|---|---|---|---|
+| CAUSATION (factual) | No productive causative verb attested | *väärentää*, *vääristää* fully attested [CORE] | Falsity-directed causatives present; truth-directed causatives absent |
+| Idiomatic fixed form | No positive counterpart to *ei pidä paikkansa* attested | *ei pidä paikkansa* [CORE] | Negative idiomatic form present; positive idiomatic form absent |
+| REVELATION | *osoittautua* covers both directions | *osoittautua* covers both directions | No asymmetry within BECOME/REVELATION; asymmetry is between BECOME and a dedicated REVELATION operator |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | NP + *olla* + PRED-ADJ; partitive *totta* lexically conditioned; all other adjectives nominative |
+| **ADNOM** | Fully available | Prenominal agreeing adjective; conformity compound (*mukainen*) as productive subtype |
+| **BECOME** | Fully available | *osoittautua* + translative; also *käydä* + translative, *tulla* + translative (attested as alternates) |
+| **REVELATION** | Available with substitution | **SUBSTITUTED BY BECOME**: *osoittautua* + translative carries both functions; no dedicated REVELATION construction |
+| **CAUSATION (factual)** | Partially available | Falsity-directed: fully available (*väärentää*, *vääristää*); truth-directed: lexical gap, periphrasis only |
+| **CAUSATION (character)** | Missing entirely | No attested construction; periphrasis mentioned but not exemplified or rated |
+| **VERIFICATION** | Fully available | *todistaa* + NP-ACC + translative; standard in legal, notarial, and scientific registers |
+| **DISCONFIRMATION** | Fully available | Shares construction with VERIFICATION (*todistaa* + translative *vääräksi*); additionally *ei pidä paikkansa* as dedicated idiomatic form |
+| **NEGATION** | Fully available | Analytic (*ei ole* + PRED-ADJ); idiomatic (*ei pidä paikkansa*); partitive retained in *ei ole totta* |
+| **NOMINALIZATION** | Fully available | Four formally distinct subtypes: *-uus/-yys* (abstract quality), *-ja/-jä* (agentive), *-us/-ys* (result), *-minen* (action/process) |

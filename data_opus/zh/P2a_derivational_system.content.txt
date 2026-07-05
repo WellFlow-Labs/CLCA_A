@@ -1,0 +1,333 @@
+# CLCA Protocol v3.4 — P2a Derivational Morphology
+# Language: Chinese (zh)
+
+---
+
+## PRELIMINARY NOTE ON CHINESE DERIVATION
+
+Chinese is an isolating language with limited affixal derivation. Most word-formation is **compounding** (already documented extensively in P1b and excluded here as it is not derivation proper). Genuine derivational morphology in Chinese is restricted to a small set of affix-like morphemes, principally:
+
+- **-性 (-xìng)** — nominalizing suffix ("-ness / -ity")
+- **-化 (-huà)** — verbalizing suffix ("-ize / -ify")
+- **-度 (-dù)** — degree/measure nominalizer ("degree of")
+- **-者 (-zhě)** — agentive nominalizer ("one who")
+- **可- (kě-)** — modal prefix ("-able")
+- **不- (bù-)** — negative prefix (productive but arguably inflectional/syntactic; included only where lexicalized)
+
+Only forms meeting the criterion of genuine attestation are listed below. Many P1 items support **no** affixal derivation; these gaps are preserved and stated explicitly.
+
+---
+
+## DERIVATIONS BY BASE FORM
+
+---
+
+### 1. 真 (zhēn)
+
+(no common affixal derivation identified — 真 forms compounds, not affixal derivatives; standalone *真性/真化 are not lexicalized)
+
+---
+
+### 2. 假 (jiǎ)
+
+**Base Form:** 假 (jiǎ)
+**Derived Form:** 假性
+**Transliteration:** jiǎxìng
+**Literal Breakdown:** 假 (false) + 性 (-ness/nature)
+**Natural English:** pseudo-, false (as a property)
+**Usage:** Bound prefixal use in medical/technical terms (假性近视 "pseudo-myopia"). Restricted to compounded technical vocabulary.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 3. 真实 (zhēnshí)
+
+**Base Form:** 真实 (zhēnshí)
+**Derived Form:** 真实性
+**Transliteration:** zhēnshíxìng
+**Literal Breakdown:** 真实 (real) + 性 (-ness)
+**Natural English:** authenticity, truthfulness (as a property)
+**Usage:** Used in journalism, scholarship, and law to assess the reliability of accounts or evidence (材料的真实性). High-frequency, fully lexicalized.
+**Epistemic status:** [CORE]
+
+(Note: this form already appeared in P1b; it is a genuine -性 nominalization of the P1 base 真实.)
+
+---
+
+### 4. 真理 (zhēnlǐ)
+
+(no common affixal derivation identified)
+
+---
+
+### 5. 真相 (zhēnxiàng)
+
+(no common affixal derivation identified)
+
+---
+
+### 6. 事实 (shìshí)
+
+(no common affixal derivation identified — 事实 enters compounds/idioms but yields no attested affixal derivative)
+
+---
+
+### 7. 正确 (zhèngquè)
+
+**Base Form:** 正确 (zhèngquè)
+**Derived Form:** 正确性
+**Transliteration:** zhèngquèxìng
+**Literal Breakdown:** 正确 (correct) + 性 (-ness)
+**Natural English:** correctness, validity (as a property)
+**Usage:** Common in technical, logical, and political evaluation (验证结论的正确性). Fully lexicalized.
+**Epistemic status:** [CORE]
+
+---
+
+### 8. 错误 (cuòwù)
+
+**Base Form:** 错误 (cuòwù)
+**Derived Form:** 错误率
+**Transliteration:** cuòwùlǜ
+**Literal Breakdown:** 错误 (error) + 率 (rate)
+**Natural English:** error rate
+**Usage:** Technical/statistical contexts (降低错误率). Lexicalized in measurement discourse.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 9. 对 (duì)
+
+(no common affixal derivation identified — 对 is monosyllabic and enters compounds, not affixal derivation, in this sense)
+
+---
+
+### 10. 错 (cuò)
+
+(no common affixal derivation identified)
+
+---
+
+### 11. 准确 (zhǔnquè)
+
+**Base Form:** 准确 (zhǔnquè)
+**Derived Form:** 准确性
+**Transliteration:** zhǔnquèxìng
+**Literal Breakdown:** 准确 (accurate) + 性 (-ness)
+**Natural English:** accuracy (as a property)
+**Usage:** Common in scientific, technical, and journalistic evaluation (数据的准确性). Fully lexicalized.
+**Epistemic status:** [CORE]
+
+**Base Form:** 准确 (zhǔnquè)
+**Derived Form:** 准确度
+**Transliteration:** zhǔnquèdù
+**Literal Breakdown:** 准确 (accurate) + 度 (degree)
+**Natural English:** degree of accuracy, precision level
+**Usage:** Technical/measurement contexts where a graded degree is implied (提高准确度). Lexicalized alongside 准确性, with a more quantitative flavor.
+**Epistemic status:** [CORE]
+
+---
+
+### 12. 可靠 (kěkào)
+
+**Base Form:** 可靠 (kěkào)
+**Derived Form:** 可靠性
+**Transliteration:** kěkàoxìng
+**Literal Breakdown:** 可靠 (reliable) + 性 (-ness)
+**Natural English:** reliability (as a property)
+**Usage:** Heavy use in engineering, technical, and evaluative contexts (系统可靠性). Fully lexicalized.
+**Epistemic status:** [CORE]
+
+(Note on internal structure: 可靠 itself contains the modal prefix 可- "-able" on 靠 "lean/depend"; this is a pre-existing P1 base and is not re-derived here.)
+
+---
+
+### 13. 可信 (kěxìn)
+
+**Base Form:** 可信 (kěxìn)
+**Derived Form:** 可信度
+**Transliteration:** kěxìndù
+**Literal Breakdown:** 可信 (credible) + 度 (degree)
+**Natural English:** credibility, degree of trustworthiness
+**Usage:** Frequent in evaluative and argumentative contexts (消息的可信度). Fully lexicalized; the -度 form is more common here than -性.
+**Epistemic status:** [CORE]
+
+**Base Form:** 可信 (kěxìn)
+**Derived Form:** 可信性
+**Transliteration:** kěxìnxìng
+**Literal Breakdown:** 可信 (credible) + 性 (-ness)
+**Natural English:** credibility (as a property)
+**Usage:** Used in more formal/scholarly registers (论证的可信性). Lexicalized but less frequent than 可信度.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 14. 真诚 (zhēnchéng)
+
+(no common affixal derivation identified — *真诚性 is not lexicalized; 真诚 functions adjectivally/adverbially without a standard nominalizer)
+
+---
+
+### 15. 诚实 (chéngshí)
+
+(no common affixal derivation identified — abstract notion is expressed by 诚实 itself or by 诚信; *诚实性 is not standard)
+
+---
+
+### 16. 虚伪 (xūwěi)
+
+**Base Form:** 虚伪 (xūwěi)
+**Derived Form:** 虚伪性
+**Transliteration:** xūwěixìng
+**Literal Breakdown:** 虚伪 (hypocritical) + 性 (-ness)
+**Natural English:** hypocrisy, falseness (as a property)
+**Usage:** Used in critical/analytical and ideological discourse to characterize the inherent falseness of a stance (揭露其虚伪性). Lexicalized, somewhat formal.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 17. 真伪 (zhēnwěi)
+
+(no common affixal derivation identified — 真伪 is a fixed binomial that does not take affixes)
+
+---
+
+### 18. 逼真 (bīzhēn)
+
+(no common affixal derivation identified — *逼真性/逼真度 are occasionally seen but not robustly lexicalized; preserved as a gap)
+
+---
+
+### 19. 像 (xiàng)
+
+(no common affixal derivation identified in this sense)
+
+---
+
+### 20. 相似 (xiāngsì)
+
+**Base Form:** 相似 (xiāngsì)
+**Derived Form:** 相似性
+**Transliteration:** xiāngsìxìng
+**Literal Breakdown:** 相似 (similar) + 性 (-ness)
+**Natural English:** similarity (as a property)
+**Usage:** Common in scientific, mathematical, and analytical contexts (结构相似性). Fully lexicalized.
+**Epistemic status:** [CORE]
+
+**Base Form:** 相似 (xiāngsì)
+**Derived Form:** 相似度
+**Transliteration:** xiāngsìdù
+**Literal Breakdown:** 相似 (similar) + 度 (degree)
+**Natural English:** degree of similarity
+**Usage:** Heavy use in computing, pattern matching, and quantitative comparison (计算相似度). Fully lexicalized.
+**Epistemic status:** [CORE]
+
+---
+
+### 21. 本质 (běnzhì)
+
+**Base Form:** 本质 (běnzhì)
+**Derived Form:** 本质性
+**Transliteration:** běnzhìxìng
+**Literal Breakdown:** 本质 (essence) + 性 (-ness)
+**Natural English:** essential, of an essential nature (as a property)
+**Usage:** Used attributively/analytically in formal discourse (本质性的区别). Lexicalized but narrower than the base.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 22. 名副其实 (míng fù qí shí)
+
+(no common affixal derivation identified — idiom; does not derive)
+
+---
+
+### 23. 货真价实 (huò zhēn jià shí)
+
+(no common affixal derivation identified — idiom; does not derive)
+
+---
+
+### 24. 正宗 (zhèngzōng)
+
+(no common affixal derivation identified)
+
+---
+
+### 25. 地道 (dìdao)
+
+(no common affixal derivation identified)
+
+---
+
+### 26. 名不副实 (míng bù fù shí)
+
+(no common affixal derivation identified — idiom; does not derive)
+
+---
+
+### 27. 真切 (zhēnqiè)
+
+(no common affixal derivation identified)
+
+---
+
+### 28. 确凿 (quèzáo)
+
+(no common affixal derivation identified)
+
+---
+
+### 29. 真挚 (zhēnzhì)
+
+(no common affixal derivation identified)
+
+---
+
+### 30. 如实 (rúshí)
+
+(no common affixal derivation identified — adverbial expression; does not take affixes)
+
+---
+
+## SUMMARY OF ATTESTED DERIVATION
+
+**Dominant attested pattern: -性 (-xìng) nominalization.**
+Attested on evaluative adjectives:
+- 真实 → 真实性 [CORE]
+- 正确 → 正确性 [CORE]
+- 准确 → 准确性 [CORE]
+- 可靠 → 可靠性 [CORE]
+- 相似 → 相似性 [CORE]
+- 虚伪 → 虚伪性 [MARGINAL]
+- 本质 → 本质性 [MARGINAL]
+- 可信 → 可信性 [MARGINAL]
+
+**Secondary attested pattern: -度 (-dù) degree nominalization.**
+Restricted to gradable evaluative adjectives:
+- 可信 → 可信度 [CORE]
+- 准确 → 准确度 [CORE]
+- 相似 → 相似度 [CORE]
+
+**Marginal/technical patterns:**
+- 假 → 假性 (prefixal, technical) [MARGINAL]
+- 错误 → 错误率 (rate nominalization) [MARGINAL]
+
+---
+
+## OBSERVED ASYMMETRIES AND GAPS (preserved, not filled)
+
+1. **-性 attaches to bisyllabic adjectives, not to the monosyllabic core roots.** 真, 假, 对, 错, 像 take **no** -性 derivative; the abstract notion is carried by compounds instead (e.g., 真 → 真假/真伪 rather than *真性 in the truth sense).
+
+2. **-度 is restricted to clearly gradable properties.** It is attested for 可信, 准确, 相似 but **not** for 正确 or 可靠 in robust everyday usage (正确度, 可靠度 are rare/dispreferred relative to -性), and **not** for non-gradable factual terms (事实, 真相).
+
+3. **Moral-character adjectives resist -性 here.** 真诚, 诚实 yield **no** standard nominalizer despite being prototypical evaluative terms; this is a genuine gap, not an oversight.
+
+4. **All idioms and fixed binomials (名副其实, 货真价实, 真伪, 名不副实) derive nothing.** Expected, but stated to preserve the asymmetry.
+
+5. **-化 (-huà) verbalization is not attested** for any P1 item in this domain (no *真实化, *正确化, etc. as lexicalized forms). This whole derivational slot is **empty** for this vocabulary set.
+
+6. **-者 (-zhě) agentive is not attested** for any P1 item (no *诚实者, *可靠者 as standard words).
+
+---
+# End of P2a derivational system.

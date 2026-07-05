@@ -1,0 +1,281 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Indonesian (id)
+# Layer: P4a_CONSTRUCTIONS
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + [benar / salah / sah / palsu / asli / jujur / keliru / bohong / tepat / akurat / adil / wajar / pantas / nyata / sesuai] (predicate adjective, no copula required); or Subject + *adalah* / *merupakan* + truth-domain predicate noun (formal registers)
+
+### Examples
+- *Kabar itu benar.* → N/A → "That news is true."
+- *Pernikahan mereka sah.* → N/A → "Their marriage is valid."
+- *Informasi itu benar.* → Informasi itu benar. → "That information is correct."
+- *Dokumen ini palsu.* → Dokumen ini palsu. → "This document is fake."
+- *Informasi itu benar.* → Informasi itu benar. → "That information is true/correct."
+- *Pernyataan ini adalah kebohongan.* → Pernyataan ini adalah kebohongan. → "This statement is a lie."
+
+### Notes
+Indonesian has no obligatory copula; truth-domain adjectives function directly as predicates. The zero-copula pattern (*NP + Adj*) is the default in spoken and informal written registers. *Adalah* and *merupakan* appear in formal and written registers; *merupakan* is slightly more formal. Truth-domain adjectives (*benar*, *salah*, *palsu*, *sah*, *akurat*, *keliru*) all participate freely in this pattern.
+
+Negation is pre-predicate *tidak*: *Kabar itu tidak benar.* The interrogative enclitic *-kah* attaches to the predicate: *Benarkah kabar itu?* ("Is that news really true?").
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + *tidak* + [truth-domain adjective] (for scalar/gradable predicates); Subject + *bukan* + NP (for categorical denial / nominal predicates)
+
+### Examples
+- *Informasi itu tidak akurat.* → N/A → "That information is inaccurate."
+- *Tindakan itu tidak sah menurut hukum yang berlaku.* → N/A → "That action is not valid under applicable law."
+- *Berita itu tidak akurat.* → Berita itu tidak akurat. → "That news is not accurate."
+- *Ini bukan asli.* → Ini bukan asli. → "This is not genuine."
+- *Laporan itu tidak benar.* → Laporan itu tidak benar. → "That report is not true/incorrect."
+- *Ini bukan dokumen asli.* → Ini bukan dokumen asli. → "This is not a genuine document."
+
+### Notes
+*Tidak* is the standard negator for adjectives and stative predicates. *Bukan* is used to negate noun predicates (*Ini bukan produk asli* — "This is not a genuine product") and for categorical denial of identity or category membership. The two negators are not interchangeable: *tidak benar* negates the property; *bukan kebenaran* negates the noun. Mixing the two is ungrammatical in standard usage.
+
+Softened negation uses *kurang* ("less, not quite"): *kurang tepat* ("not quite right"), *kurang benar* ("not entirely correct").
+
+*Tidak benar* is the standard formula in official denials and journalistic corrections.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[Noun] + *yang* + [truth-domain adjective] (postnominal relative clause); or [truth-domain adjective] + [Noun] (prenominal, restricted set); Noun + truth-domain noun (compound)
+
+### Examples
+- *Data yang akurat sangat diperlukan untuk pengambilan keputusan.* → N/A → "Accurate data is essential for decision-making."
+- *Alasan yang sah harus disertakan dalam permohonan.* → N/A → "A valid reason must be included in the application."
+- *Informasi yang benar dan akurat.* → Informasi yang benar dan akurat. → "Information that is correct and accurate."
+- *Hadis sahih.* → Hadis sahih. → "A sound hadith." (direct juxtaposition, no *yang*, fixed technical term)
+- *sumber yang terpercaya* → sumber yang terpercaya → "a trusted/reliable source"
+- *dokumen palsu* → dokumen palsu → "a forged/fake document"
+
+### Notes
+The canonical position for adjectival modification in Indonesian is postnominal, linked by the relativizer *yang*. The *yang*-construction is fully productive across all truth-domain adjectives.
+
+Single-adjective post-nominal modification without *yang* (*dokumen palsu*, *berita bohong*, *data akurat*) is the productive default for noun-modifier compounds in this domain. The *yang* form (*sumber yang terpercaya*, *informasi yang menyesatkan*) is preferred when the modifier is participial or when the construction is more explicitly predicative.
+
+A small set of collocations permits prenominal order without *yang* (*berita palsu*, *uang palsu*, *hadis sahih*), but these are lexicalized collocations rather than a productive prenominal pattern. Direct adjective–noun juxtaposition without *yang* also occurs in fixed collocations and technical terms (*hadis sahih*, *emas murni*, *uang palsu*) but is not the productive default.
+
+The relative particle *yang* is optional for single-adjective modification and obligatory when the modifier is a verb or longer phrase.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+*menjadi* + [truth-domain adjective/noun] (general inchoative); *terbukti* / *dinyatakan* + [adjective] (resultative passives functioning inchoatively); *terungkap* for truth-coming-to-light constructions
+
+### Examples
+- *Dusta yang diulang-ulang bisa menjadi kebenaran yang diterima.* → N/A → "A lie repeated many times can become an accepted truth."
+- *Kontrak itu dinyatakan sah oleh pengadilan.* → N/A → "The contract was declared valid by the court."
+- *Kebohongan itu akhirnya menjadi kenyataan yang diketahui publik.* → "That lie eventually became a reality known to the public."
+- *Kebenaran akan terungkap pada akhirnya.* → "The truth will come to light in the end."
+- *Hal itu akhirnya menjadi kenyataan.* → Hal itu akhirnya menjadi kenyataan. → "That eventually became reality."
+- *Klaim tersebut terbukti palsu.* → Klaim tersebut terbukti palsu. → "That claim was proven false."
+
+### Notes
+Indonesian has no dedicated inchoative morphology for this domain. Change-of-state is expressed periphrastically with *menjadi* ("to become") or through resultative passives (*dinyatakan* — "declared/pronounced"; *terbukti* — "proven/established"). The resultative passives are more frequent in legal and institutional registers than *menjadi* constructions.
+
+For truth-domain meanings, the most conventionalized inchoative constructions involve *terungkap* ("to be revealed, to come to light") and *terbukti* ("to be proven") with *kebenaran* as subject. *Menjadi kenyataan* ("to become reality") is a fixed inchoative collocation.
+
+*Terbukti* + truth-domain adjective (*terbukti benar*, *terbukti palsu*, *terbukti asli*) is a high-frequency resultative construction in legal and journalistic discourse, expressing that a truth-domain evaluation has been established through evidence or official process. *Terbukti* is a *ter-* stative passive of *bukti* (evidence/proof) and does not require an overt agent.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+*meN-* + [base] + *-kan* (causative-applicative suffix); produces transitive verbs meaning "to cause/make [something] [adjective]" or "to confirm/validate/falsify [something]"; *di-* + [base] + *-kan* (passive causative)
+
+### Examples
+- *Pihak berwenang membenarkan laporan itu.* → N/A → "The authorities confirmed that report."
+- *Ia memalsukan tanda tangan pada dokumen itu.* → N/A → "He forged the signature on that document."
+- *Pernyataan itu mengelirukan publik.* → "That statement misled the public."
+- *Dokumen itu telah dipalsukan.* → "That document has been forged."
+- *Pernyataan itu mengelirukan publik.* → Pernyataan itu mengelirukan publik. → "That statement misled/confused the public."
+- *Tidak ada yang bisa membenarkan tindakan itu.* → Tidak ada yang bisa membenarkan tindakan itu. → "Nothing can justify/sanction that action."
+
+### Notes
+The *meN-...-kan* construction is the primary causative pattern in Indonesian and is productive across truth-domain bases: *membenarkan* (to confirm/justify), *mengesahkan* (to validate/ratify), *memalsukan* (to falsify/forge), *mengelirukan* (to mislead), *menyatakan* (to declare/state), *memurnikan* (to purify), *mengikhlaskan* (to cause to accept), *menyesatkan* (to lead astray, from *sesat*).
+
+The corresponding passives (*di-...-kan*) are equally frequent in formal and legal registers: *dibenarkan*, *disahkan*, *dipalsukan*. The passive *di-...-kan* counterpart is equally productive and frequent, especially in formal and journalistic registers.
+
+The pattern is productive but not all truth-domain adjectives form causatives: *akurat*, *sahih*, *sejati*, and *kredibel* lack attested causative forms in standard usage.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+*ke-* + [base] + *-an* (circumfix nominalizer); produces abstract nouns denoting the property or state
+
+### Examples
+- *Mencari kebenaran adalah tugas jurnalis.* → N/A → "Seeking the truth is the journalist's task."
+- *Keabsahan kontrak itu masih dipertanyakan.* → N/A → "The validity of that contract is still being questioned."
+- *Kejujuran adalah nilai yang dijunjung tinggi.* → "Honesty is a highly valued principle."
+- *Keabsahan pemilu itu dipertanyakan.* → "The legitimacy of that election was called into question."
+- *Kejujuran adalah nilai yang paling penting.* → Kejujuran adalah nilai yang paling penting. → "Honesty is the most important value."
+- *Keabsahan dokumen itu dipertanyakan.* → Keabsahan dokumen itu dipertanyakan. → "The validity/legitimacy of that document was questioned."
+
+### Notes
+The *ke-...-an* circumfix is the primary abstract nominalization strategy for this domain and is productive across nearly all truth-domain bases: *kebenaran* (truth), *kesalahan* (error/fault), *keaslian* (authenticity), *keabsahan* (validity/legitimacy), *kejujuran* (honesty), *kebohongan* (falsehood), *kenyataan* (reality), *keadilan* (justice), *kesesuaian* (conformity), *kewajaran* (reasonableness), *kepantasan* (propriety), *keakuratan* (accuracy), *kekeliruan* (error/misconception), *kemurnian* (purity), *ketulusan* (sincerity), *keikhlasan* (selfless sincerity), *ketepatan* (accuracy/precision), *kepalsuan* (falseness), *kesahihan* (soundness/authenticity), *kesungguhan* (earnestness), *kesejatian* (trueness/genuineness).
+
+A second nominalization pattern, *peN-...-an*, produces process/result nouns: *pembenaran* (justification), *pemalsuan* (forgery/falsification), *pembuktian* (proving/proof), *pengesahan* (ratification), *pernyataan* (statement/declaration).
+
+Loanwords show limited integration: *validitas* (from Dutch/Latin) is used instead of *\*kevalidan* in technical registers; *\*keotentikan* is marginal. A secondary nominalization strategy using *-itas* (from Dutch/Latin) applies to loanword bases: *validitas*, *kredibilitas*, *otentisitas*.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+*peN-* + [base] (agentive nominalizer); produces nouns denoting a person who characteristically performs the action
+
+### Examples
+- *Ia dikenal sebagai pembohong ulung.* → N/A → "He is known as a skilled liar."
+- *Pemalsu uang itu akhirnya ditangkap polisi.* → N/A → "The currency counterfeiter was finally arrested by police."
+- *Dia dikenal sebagai pembohong ulung.* → "He is known as a skilled liar."
+- *Pemalsu dokumen itu akhirnya ditangkap.* → "The document forger was finally arrested."
+- *Dia adalah pembohong yang tidak bisa dipercaya.* → Dia adalah pembohong yang tidak bisa dipercaya. → "He is a liar who cannot be trusted."
+- *Pemalsu uang itu akhirnya ditangkap polisi.* → Pemalsu uang itu akhirnya ditangkap polisi. → "The currency counterfeiter was finally arrested by police."
+
+### Notes
+Agentive nominalization is productive for the deception/falsification side of the domain. Attested forms: *pembohong* (liar, from *bohong*), *pendusta* (liar, more formal/literary, from *dusta*), *pemalsu* (forger/counterfeiter, from *palsu*), *peniru* (imitator, from *tiru*), *penyesat* (one who leads astray, from *sesat*), *manipulator* (manipulator, loanword formation).
+
+The truth-telling side is less productive agentively: no established agentive *pembenar* (one who confirms) is in common use; *\*penjujur* (honest person) does not exist — the concept is expressed periphrastically (*orang yang jujur* — "an honest person"; *orang yang berkata benar*; *saksi yang terpercaya* — "a trustworthy witness"). This asymmetry — productive agentive forms for liars and forgers, but not for truth-tellers — is consistent across the data.
+
+*Pendusta* is restricted to formal, literary, and Islamic religious registers; *pembohong* is the everyday term.
+
+---
+
+## 8. PROCESS NOMINALIZATION (PROVING/ESTABLISHING)
+
+### Pattern
+*peN-* + [base] + *-an*; produces nouns denoting the act or process of establishing, validating, or demonstrating
+
+### Examples
+- *Beban pembuktian ada pada pihak penuntut.* → N/A → "The burden of proof lies with the prosecuting party."
+- *Pengesahan undang-undang itu memakan waktu berbulan-bulan.* → N/A → "The ratification of that law took many months."
+- *Pemalsuan dokumen adalah tindak pidana.* → "Document forgery is a criminal act."
+- *Pengesahan undang-undang itu berlangsung kemarin.* → "The ratification of that law took place yesterday."
+
+### Notes
+This pattern is distinct from abstract nominalization (§6) in that it denotes a process or institutional act rather than an abstract property. Key forms: *pembuktian* (proving/proof, from *bukti*), *pengesahan* (ratification/validation/authentication, from *sah*), *pembenaran* (justification/confirmation, from *benar*), *pemalsuan* (falsification/forgery, from *palsu*), *peniruan* (imitation/copying, from *tiru*), *penyesuaian* (adjustment/adaptation, from *sesuai*), *pemurnian* (purification), *penyimpangan* (deviation/distortion).
+
+The legal formula *pembuktian terbalik* (reversal of the burden of proof) is a lexicalized compound within this pattern.
+
+This pattern is productive across the inventory and is particularly frequent in legal and journalistic registers.
+
+---
+
+## 9. PASSIVE / RESULTATIVE STATE
+
+### Pattern
+*di-...-kan* / *di-...-i* passive + truth-domain verb base; *ter-* stative passive
+
+Indonesian has a productive passive system. The *di-* passive marks an action performed on a patient; *ter-* marks an achieved resultant state (often without specifying an agent).
+
+### Examples
+- *Dokumen itu diduga dipalsukan oleh tersangka.* → Dokumen itu diduga dipalsukan oleh tersangka. → "That document is suspected of having been forged by the suspect."
+- *Undang-undang itu telah disahkan oleh DPR.* → Undang-undang itu telah disahkan oleh DPR. → "That law has been ratified by the parliament."
+
+### Notes
+The *di-* passive is the primary construction in legal and journalistic discourse for describing acts of forgery, validation, manipulation, and declaration: *dipalsukan* (forged), *disahkan* (ratified), *dibenarkan* (confirmed/sanctioned), *dinyatakan* (declared), *dimanipulasi* (manipulated), *dikelirukan* (misled), *disesatkan* (led astray), *dibohongi* (lied to), *divalidasi* (validated).
+
+The *ter-* stative (*terbukti*, *tersesat*, *terpercaya*) expresses a resultant state without necessarily implying a specific agent.
+
+This pattern is sufficiently distinct from the causative (§5) and inchoative (§4) to warrant separate documentation.
+
+---
+
+## 10. EPISTEMIC HEDGE CONSTRUCTIONS
+
+### Pattern
+Sentence-initial or clause-initial fixed phrase signaling the speaker's limited or qualified commitment to the following claim
+
+### Examples
+- *Kalau saya tidak salah, pertemuan itu dijadwalkan hari Kamis.* → N/A → "If I am not mistaken, the meeting is scheduled for Thursday."
+- *Sejauh yang saya tahu, hal itu benar adanya.* → N/A → "As far as I know, that is indeed the case."
+
+### Notes
+Indonesian has a productive set of clause-initial epistemic hedges built from truth-domain vocabulary: *kalau saya tidak salah* / *jika saya tidak keliru* (if I am not mistaken — the latter more formal), *sejauh yang saya tahu* (as far as I know), *jujur saja* / *untuk jujur* (honestly/to be honest). These are not derivational forms but fixed multi-word constructions that manage the speaker's epistemic stance. They are extremely frequent in spoken Indonesian and in written registers approximating spoken discourse.
+
+---
+
+## 11. DISCOURSE-LEVEL FRAMING CONSTRUCTIONS
+
+### Pattern
+Fixed adverbial phrase (sentence-initial or parenthetical) + proposition; used to frame the epistemic or ontological status of the following claim; introduces correction or disclosure of what is actually the case
+
+### Examples
+- *Sebenarnya, saya tidak setuju dengan keputusan itu.* → "Actually, I don't agree with that decision."
+- *Pada hakikatnya, masalah ini jauh lebih kompleks.* → "In essence, this problem is far more complex."
+- *Pada kenyataannya, hal itu tidak pernah terjadi.* → Pada kenyataannya, hal itu tidak pernah terjadi. → "In reality, that never happened."
+- *Sebenarnya, saya tidak setuju dengan pendapat itu.* → Sebenarnya, saya tidak setuju dengan pendapat itu. → "Actually/In truth, I disagree with that opinion."
+
+### Notes
+This pattern is not derivational but emerges consistently from the data as a distinct construction type. Fixed adverbial frames built on truth-domain nominalizations include: *sebenarnya* (*se-benar-nya*) (actually, in truth — the high-frequency everyday discourse marker for correction and disclosure), *pada kenyataannya* (in reality), *pada hakikatnya* (in essence — formal/philosophical counterpart to *sebenarnya*, introducing statements about essential rather than surface reality), *pada esensinya* (in essence), *jujur saja* (to be honest).
+
+Each introduces a claim with a specific epistemic or rhetorical stance — correction of false appearance (*sebenarnya*, *pada kenyataannya*), essential characterization (*pada hakikatnya*, *pada esensinya*), or candid admission (*jujur saja*).
+
+*Sebenar-benarnya* is the emphatic variant of *sebenarnya*, used in formal declarations and sworn testimony.
+
+These constructions are highly frequent in spoken and written Indonesian across registers.
+
+---
+
+## 12. CONCESSIVE CONSTRUCTIONS
+
+### Pattern
+*memang benar bahwa* / *ada benarnya* / *benar, tapi* + contrasting clause; partial acknowledgment of a truth claim followed by qualification
+
+### Examples
+- *Memang benar bahwa angka kemiskinan menurun, tetapi ketimpangan masih tinggi.* → N/A → "It is indeed true that poverty rates have declined, but inequality remains high."
+- *Ada benarnya pendapat itu, meski tidak sepenuhnya tepat.* → N/A → "There is something to that view, though it is not entirely accurate."
+- *Ada benarnya juga pendapat itu.* → "There is something to that view too."
+- *Memang benar bahwa situasinya sulit.* → "It is indeed true that the situation is difficult."
+
+### Notes
+Concessive truth constructions are a productive pattern in Indonesian argumentation and journalism. The scale runs from full concession (*memang benar bahwa* — "it is indeed true that") through partial concession (*ada benarnya* — "there is some truth to it"; *pada dasarnya benar* — "essentially correct") to minimal concession (*benar, tapi* — "true, but"). All involve *benar* or its derivatives as the conceded element.
+
+*Ada benarnya* is a fixed partial-concession construction acknowledging limited validity of a claim without full endorsement; *juga* ("also") frequently co-occurs to soften further. *Memang benar* is a confirmatory construction used to concede or affirm a point, often in argumentative contexts. Both are highly frequent in conversational and editorial discourse and have no single-word equivalents.
+
+---
+
+## 13. INTENSIFIED ASSERTION
+
+### Pattern
+Full reduplication: *benar-benar* / *sungguh-sungguh* / *nyata-nyata* + predicate
+
+### Examples
+- *Dia benar-benar tidak tahu tentang hal itu.* → "He truly did not know about that."
+- *Tindakan itu nyata-nyata melanggar hukum.* → "That action clearly and manifestly violated the law."
+
+### Notes
+Full reduplication of truth-domain adjectives produces intensified adverbials. *Benar-benar* intensifies degree or reality; *sungguh-sungguh* intensifies sincerity and earnestness; *nyata-nyata* intensifies evidential certainty ("manifestly, clearly"). The pattern is productive for this semantic class.
+
+*Sebenar-benarnya* (*se-* + reduplicated *benar* + *-nya*) is a related emphatic form restricted to formal declarations.
+
+---
+
+## 14. DOMAIN-RESTRICTING VALIDITY CONSTRUCTIONS
+
+### Pattern
+*sah* / *absah* / *valid* + *secara* + [domain noun] or *menurut* + [authority/standard noun]
+
+### Examples
+- *Pernikahan mereka sah secara hukum maupun agama.* → N/A → "Their marriage is valid both legally and religiously."
+- *Keputusan itu sah secara prosedural tetapi dipertanyakan secara moral.* → N/A → "The decision is procedurally valid but morally questionable."
+
+### Notes
+Indonesian validity vocabulary regularly appears with domain-restricting adverbials (*secara hukum* — legally; *secara agama* — religiously; *secara prosedural* — procedurally; *menurut undang-undang* — under statute; *menurut agama* — according to religion). This pattern reflects the Indonesian legal context in which civil, religious, and procedural validity are treated as distinct and potentially separable dimensions. The construction is specific to the *sah/absah/valid* cluster and does not extend to *benar* or *tepat*.

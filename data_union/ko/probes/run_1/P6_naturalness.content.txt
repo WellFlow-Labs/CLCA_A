@@ -1,0 +1,658 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+## Language: Korean (ko)
+### Transliteration Standard: Revised Romanization of Korean (RR)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Korean encodes dynamic truth-related meanings: change of state, causation of truth-related states, and stability or resistance to change. All vocabulary is drawn exclusively from the CONTEXT (P1 through P5). Auxiliary verbs, aspect markers, tense markers, and function words are added as needed to form natural expressions, but no new lexical items are introduced.
+
+Where a given truth-related item does not participate in a particular dynamic pattern, this is stated explicitly rather than left as a gap. Where the same dynamic pattern applies across multiple items, items are grouped; where behavior differs, items are treated separately.
+
+The analysis is organized by dynamic type rather than by lexical item, because the CONTEXT reveals that the primary axis of variation is the type of dynamic expression rather than the individual item.
+
+---
+
+## Section 1: "X Becomes [Truth-Related State]"
+
+### 1.1 Inchoative constructions with 드러나다 and 밝혀지다
+
+These two verbs are the primary means by which Korean encodes the coming-into-public-knowledge of a truth-related state. Both are documented extensively in P2b, P4a, and P5. They take a truth-domain noun as subject and express the transition from hidden or unknown to known or exposed.
+
+---
+
+**Expression 1a**
+
+- **Korean:** 진실이 드러나다
+- **Transliteration:** jinsil-i deureonada
+- **English:** The truth emerges / The truth is exposed
+- **Dynamic type:** X becomes known (truth-domain subject, intransitive)
+- **Notes:** Documented in P2b and P4a. 드러나다 (to surface, to be exposed) implies prior concealment and carries a sense of unwanted or unexpected revelation. The subject is 진실; no agent is expressed. Common in narrative, journalistic, and investigative contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1b**
+
+- **Korean:** 진실이 밝혀지다
+- **Transliteration:** jinsil-i balkhyeojida
+- **English:** The truth comes to light / The truth is revealed
+- **Dynamic type:** X becomes known (truth-domain subject, intransitive)
+- **Notes:** Documented in P2b and P4a. 밝혀지다 (to be illuminated, to come to light) is the passive/resultative form of 밝히다 (to illuminate, to reveal). It is partially interchangeable with 드러나다 in many contexts but carries a slightly more neutral sense — the illumination of what was dark — without the same implication of unwanted exposure. Common in journalistic and legal contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1c**
+
+- **Korean:** 거짓이 드러나다
+- **Transliteration:** geojit-i deureonada
+- **English:** The falsehood is exposed / The lie comes to light
+- **Dynamic type:** X becomes known (falsity-domain subject, intransitive)
+- **Notes:** Documented in P2b and P5 (Opposition 9), where it is explicitly described as having "the opposite valence" to 진실이 드러나다. The same verb 드러나다 applies to both truth and falsehood becoming known; the opposition is carried by the subject noun, not by the verb.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1d**
+
+- **Korean:** 거짓말이 들통나다
+- **Transliteration:** geojitmal-i deultongnaDA
+- **English:** The lie is found out / The lie is exposed
+- **Dynamic type:** X becomes known (lie-domain subject, intransitive)
+- **Notes:** Documented in P2b. 들통나다 (to be found out, to be exposed) is a colloquial verb specifically associated with the exposure of concealed wrongdoing. It is more colloquial than 드러나다 and carries a stronger implication of the liar's failure to maintain concealment. Common in everyday speech and narrative.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1e**
+
+- **Korean:** 허위임이 밝혀지다
+- **Transliteration:** heowi-im-i balkhyeojida
+- **English:** To be revealed as false / To be shown to be a falsehood
+- **Dynamic type:** X becomes known as false (formal register, intransitive)
+- **Notes:** Documented in P2b. The nominalization -임 (the fact of being) converts the copular predication 허위이다 into a noun phrase that can serve as subject of 밝혀지다. This construction is more formal than 거짓이 드러나다 and appears in journalistic and official contexts where 허위 is the appropriate register term.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.2 Inchoative constructions with 판명되다
+
+판명되다 (to be officially determined, to be found to be) encodes the transition to a truth-domain state through an authoritative determination rather than spontaneous emergence. It is documented in P2b and P4a.
+
+---
+
+**Expression 1f**
+
+- **Korean:** 가짜로 판명되다
+- **Transliteration:** gajja-ro panmyeong-doeda
+- **English:** To be determined to be fake / To be found counterfeit
+- **Dynamic type:** X becomes officially classified as [falsity-domain state]
+- **Notes:** Documented in P2b and P4a. The -로 particle marks the resultant state. 판명되다 carries an authoritative or official determination sense not shared by 드러나다 or 밝혀지다; it implies an agent (an investigator, court, or expert) who has made the determination, even though that agent is not expressed in the surface construction.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1g**
+
+- **Korean:** 사실로 드러나다
+- **Transliteration:** sasil-ro deureonada
+- **English:** To turn out to be true / To be revealed as fact
+- **Dynamic type:** X becomes known as [truth-domain state]
+- **Notes:** Documented in P2b. The -로 particle marks the resultant state (as in 판명되다 constructions). This construction describes the confirmation of a claim that was previously uncertain or disputed, marking a transition from alleged or suspected to established.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1h**
+
+- **Korean:** 위조로 판명되다
+- **Transliteration:** wijo-ro panmyeong-doeda
+- **English:** To be determined to be a forgery / To be found to be counterfeit
+- **Dynamic type:** X becomes officially classified as forged
+- **Notes:** Documented in P2b. Parallel in structure to 가짜로 판명되다 but specific to the forgery domain. 위조 (forgery) as the resultant-state complement of 판명되다 is characteristic of legal and forensic contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1i**
+
+- **Korean:** 진본으로 확인되다
+- **Transliteration:** jinbon-euro hwagin-doeda
+- **English:** To be confirmed as the authentic original / To be authenticated
+- **Dynamic type:** X becomes officially confirmed as [authenticity-domain state]
+- **Notes:** Documented in P2b. 확인되다 (to be confirmed) is the passive/resultative form of 확인하다 (to confirm, to verify). The -으로 particle marks the resultant state. This construction is the positive counterpart to 위조로 판명되다 in the authentication domain, and is restricted to archival, legal, and art-historical contexts.
+- **Epistemic status:** [MARGINAL]
+
+---
+
+### 1.3 Inchoative constructions with 되다
+
+The suffix -되다 on nominal bases produces stative or resultant predicates. In the truth domain, this pattern is documented for 모순되다 and 위조되다.
+
+---
+
+**Expression 1j**
+
+- **Korean:** 모순되다
+- **Transliteration:** mosun-doeda
+- **English:** To be contradictory / To come into contradiction
+- **Dynamic type:** X enters a state of contradiction
+- **Notes:** Documented in P2a, P4a, and P4b. 모순되다 is the only available predicative form for contradiction; 모순하다 is not attested. The -되다 form here encodes a stative condition rather than a dynamic transition in most uses, but in contexts like 주장이 서로 모순되다 (the claims contradict each other), a dynamic reading of mutual entry into contradiction is available.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1k**
+
+- **Korean:** 위조되다
+- **Transliteration:** wijo-doeda
+- **English:** To be forged / To be counterfeited
+- **Dynamic type:** X undergoes the process of being forged (resultant state)
+- **Notes:** Documented in P2a and P4b. 위조되다 is the passive/resultative counterpart to the agentive 위조하다. It describes items or documents that have been subjected to forgery, encoding the resultant state of having been forged. Appears in legal and investigative contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.4 Constructions encoding loss of truth-related states
+
+The CONTEXT documents several constructions in which a truth-related state is lost or eroded. These are encoded through transitive verbs with the truth-domain noun as object (documented under Section 2 below) or through intransitive verbs with the truth-domain noun as subject.
+
+---
+
+**Expression 1l**
+
+- **Korean:** 신뢰가 무너지다
+- **Transliteration:** sinloe-ga muneoJida
+- **English:** Trust collapses / Credibility crumbles
+- **Dynamic type:** X undergoes sudden loss of [trust-domain state]
+- **Notes:** Documented in P2b and P3 Group 9. 무너지다 (to collapse, to crumble) is an intransitive verb encoding sudden or catastrophic breakdown. The subject is 신뢰; no agent is expressed. The metaphor of structural collapse is specific to this verb and distinguishes it from 신뢰를 잃다 (to lose trust, documented under Section 2), which is agentive.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 2: "Y Causes X to Be [Truth-Related State]"
+
+### 2.1 Causation through transitive verb selection
+
+As documented in P4a and P5, Korean has no productive morphological causative suffix in the truth domain. Causative meaning is expressed entirely through transitive verb selection, with the truth-domain noun as direct object. The CONTEXT documents the following causative constructions.
+
+---
+
+**Expression 2a**
+
+- **Korean:** 진실을 밝히다
+- **Transliteration:** jinsil-eul balkhida
+- **English:** To reveal the truth / To bring the truth to light
+- **Dynamic type:** Y causes X (truth) to become known
+- **Notes:** Documented in P2b, P4a, P4b, and P5 (Opposition 8). 밝히다 (to illuminate, to reveal) is the canonical transitive verb for truth-revelation. The agent (Y) is the subject; 진실 is the direct object. This is the most frequent causative construction in the truth domain across all registers.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2b**
+
+- **Korean:** 진실을 숨기다
+- **Transliteration:** jinsil-eul sumgida
+- **English:** To conceal the truth / To hide the truth
+- **Dynamic type:** Y causes X (truth) to remain unknown
+- **Notes:** Documented in P2b, P4a, P4b, and P5 (Opposition 8). 숨기다 (to hide, to conceal) is the standard transitive verb for truth-concealment. It is the direct causative counterpart to 진실이 드러나다 (the truth emerges): where 드러나다 encodes the spontaneous or resultant emergence of truth, 숨기다 encodes the agentive prevention of that emergence.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2c**
+
+- **Korean:** 진실을 왜곡하다
+- **Transliteration:** jinsil-eul waegokada
+- **English:** To distort the truth / To twist the truth
+- **Dynamic type:** Y causes X (truth) to be misrepresented
+- **Notes:** Documented in P2b. 왜곡하다 (to distort, to warp) implies deliberate or systematic misrepresentation rather than simple error. It encodes a causative in which the agent does not suppress truth entirely (숨기다) but transforms it into a distorted form. Common in journalistic and political discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2d**
+
+- **Korean:** 진실을 외면하다
+- **Transliteration:** jinsil-eul oemyeonhada
+- **English:** To turn away from the truth / To ignore the truth
+- **Dynamic type:** Y causes X (truth) to remain unacknowledged (by Y)
+- **Notes:** Documented in P2b. 외면하다 (to turn one's face away) encodes a causative in which the agent does not suppress truth for others but refuses to acknowledge it themselves. The moral dimension of culpable avoidance is noted in P2b. This is distinct from 숨기다 (concealment from others) in that the avoidance is self-directed.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2e**
+
+- **Korean:** 사실을 왜곡하다
+- **Transliteration:** sasil-eul waegokada
+- **English:** To distort the facts / To misrepresent the facts
+- **Dynamic type:** Y causes X (facts) to be misrepresented
+- **Notes:** Documented in P2b. Parallel in structure to 진실을 왜곡하다 but with 사실 (specific facts) as the object rather than 진실 (truth as an abstract value). P2b notes the distinction: 사실을 왜곡하다 focuses on specific factual information while 진실을 왜곡하다 concerns truth as a broader value.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2f**
+
+- **Korean:** 사실을 직시하다
+- **Transliteration:** sasil-eul jiksihada
+- **English:** To face the facts squarely / To look the facts in the face
+- **Dynamic type:** Y causes themselves to confront X (facts) without avoidance
+- **Notes:** Documented in P2b. 직시하다 (to look directly at) encodes a causative in which the agent brings themselves into direct confrontation with facts they might otherwise avoid. It is the positive counterpart to 진실을 외면하다 in the avoidance/confrontation dimension. Common in motivational, political, and analytical discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2g**
+
+- **Korean:** 위조하다
+- **Transliteration:** wijo-hada
+- **English:** To forge / To counterfeit
+- **Dynamic type:** Y causes X (document/item) to become forged
+- **Notes:** Documented in P2a, P4a, and P4b. 위조하다 is the agentive causative for the production of forged items. The agent (Y) is the subject; the item being forged is the direct object. This is the primary causative construction in the forgery domain.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2h**
+
+- **Korean:** 거짓으로 꾸미다
+- **Transliteration:** geojit-euro kkumida
+- **English:** To fabricate / To construct a lie / To dress up as false
+- **Dynamic type:** Y causes X to be presented as false or fabricated
+- **Notes:** Documented in P2b. 꾸미다 (to decorate, to fabricate, to construct) combined with 거짓으로 (as falsehood) describes the deliberate construction of a deceptive presentation. The -으로 particle marks the manner or resultant character of the construction. Common in literary and legal contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2i**
+
+- **Korean:** 허위로 꾸미다
+- **Transliteration:** heowi-ro kkumida
+- **English:** To fabricate / To construct falsely (formal register)
+- **Dynamic type:** Y causes X to be falsely constructed (formal/legal register)
+- **Notes:** Documented in P2b. Parallel in structure to 거짓으로 꾸미다 but in the formal and legal register where 허위 is the appropriate term. P2b notes this as a standard legal construction for describing falsification of documents or accounts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2j**
+
+- **Korean:** 허위 사실을 유포하다
+- **Transliteration:** heowi sasil-eul yupohada
+- **English:** To spread false information / To disseminate fabricated facts
+- **Dynamic type:** Y causes false information to circulate
+- **Notes:** Documented in P2b and P1b. 유포하다 (to spread, to disseminate) encodes the causative act of circulating false information. This construction has specific legal significance in Korean defamation law (허위사실 유포죄). The agent causes the false information to reach others, not merely to exist.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2k**
+
+- **Korean:** 신뢰를 저버리다
+- **Transliteration:** sinloe-reul jeobeorida
+- **English:** To betray trust / To abandon trust
+- **Dynamic type:** Y causes X (trust) to be destroyed through betrayal
+- **Notes:** Documented in P2b and P5 (Opposition 29). 저버리다 (to abandon, to betray) implies a deliberate or culpable failure to honor a relationship of trust. P2b notes it is more morally charged than 신뢰를 잃다. The agent actively causes the destruction of trust through their conduct.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2l**
+
+- **Korean:** 본질을 흐리다
+- **Transliteration:** bonjil-eul heurida
+- **English:** To obscure the essence / To muddy the fundamental issue
+- **Dynamic type:** Y causes X (the essential nature of something) to become unclear
+- **Notes:** Documented in P2b. 흐리다 (to blur, to cloud) is used metaphorically to describe the deliberate or inadvertent obscuring of what is fundamentally at issue. The agent causes the essential nature of something to become less visible or accessible to others.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.2 Causation through the -하다 light verb construction
+
+The -하다 light verb construction documented in P4a and P4b produces predicates from Sino-Korean nominal bases. Where the base denotes a truth-related process, the -하다 form encodes the agentive performance of that process.
+
+---
+
+**Expression 2m**
+
+- **Korean:** 진상을 규명하다
+- **Transliteration:** jinsang-eul gyumyeonghada
+- **English:** To clarify the true facts / To establish what actually happened
+- **Dynamic type:** Y causes X (the true state of affairs) to become established
+- **Notes:** Documented in P1b and P3 Group 7. 규명하다 (to clarify through investigation) encodes the agentive establishment of the true facts. The agent (typically an official body or investigator) causes the true state of affairs to become known through systematic inquiry. Common in political and legal discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2n**
+
+- **Korean:** 사실을 확인하다
+- **Transliteration:** sasil-eul hwagin-hada
+- **English:** To verify the facts / To confirm the facts
+- **Dynamic type:** Y causes X (facts) to be verified
+- **Notes:** Documented in P2b. 확인하다 (to confirm, to verify) encodes the agentive act of checking whether reported information is accurate. The agent causes the factual status of a claim to be established. Common in journalistic, administrative, and everyday contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2o**
+
+- **Korean:** 신뢰를 회복하다
+- **Transliteration:** sinloe-reul hoebokada
+- **English:** To restore trust / To recover credibility
+- **Dynamic type:** Y causes X (trust) to return to a prior state
+- **Notes:** Documented in P2b and P5 (Opposition 29). 회복하다 (to recover, to restore) encodes the agentive process of rebuilding trust after it has been damaged or lost. The agent causes trust to return to a state it previously occupied. Common in political and organizational discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2p**
+
+- **Korean:** 신뢰를 쌓다
+- **Transliteration:** sinloe-reul ssada
+- **English:** To build trust / To accumulate trust
+- **Dynamic type:** Y causes X (trust) to be built up over time
+- **Notes:** Documented in P2b and P3 Group 9. 쌓다 (to pile up, to accumulate) encodes the gradual, agentive construction of trust. The agent causes trust to increase incrementally through sustained conduct. The temporal dimension (gradual accumulation) distinguishes this from 신뢰를 회복하다 (restoration after loss).
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 3: "X Becomes [Non-Truth / Opposed State]"
+
+### 3.1 Constructions encoding transition into falsity or inauthenticity
+
+The CONTEXT documents several constructions in which something transitions from a truth-related state to its opposite, or is revealed to have been in a falsity-domain state all along.
+
+---
+
+**Expression 3a**
+
+- **Korean:** 가짜로 판명되다
+- **Transliteration:** gajja-ro panmyeong-doeda
+- **English:** To be determined to be fake
+- **Dynamic type:** X is reclassified from [presumed genuine] to [fake]
+- **Notes:** Already documented under Section 1.2 (Expression 1f). Included here to note that this construction encodes a transition from presumed authenticity to established inauthenticity — the item was previously treated as genuine and is now officially classified as fake. The dynamic is one of reclassification rather than change in the item itself.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 3b**
+
+- **Korean:** 신뢰를 잃다
+- **Transliteration:** sinloe-reul ilta
+- **English:** To lose trust / To forfeit credibility
+- **Dynamic type:** X transitions from [trusted] to [not trusted]
+- **Notes:** Documented in P2b and P5 (Opposition 10). 잃다 (to lose) encodes the transition from possession to non-possession of trust. The subject (the person or institution) moves from a state of being trusted to a state of not being trusted. This is the agentive-subject counterpart to 신뢰가 무너지다 (trust collapses, intransitive).
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 3c**
+
+- **Korean:** 진정성을 의심받다
+- **Transliteration:** jinjeonseong-eul uisim-batda
+- **English:** To have one's authenticity doubted / To face questions about one's sincerity
+- **Dynamic type:** X transitions from [presumed authentic] to [authenticity in question]
+- **Notes:** Documented in P2b. 의심받다 (to receive doubt, to be doubted) is the passive construction for credibility challenges. The subject moves from a state of presumed authenticity to a state of contested authenticity. This is not a full transition to inauthenticity but a transition to an intermediate state of doubt.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 3d**
+
+- **Korean:** 모순되다
+- **Transliteration:** mosun-doeda
+- **English:** To become contradictory / To fall into contradiction
+- **Dynamic type:** X transitions from [internally consistent] to [contradictory]
+- **Notes:** Documented in P2a and P4a. In dynamic contexts (e.g., 주장이 서로 모순되기 시작했다, "the claims began to contradict each other"), 모순되다 encodes a transition into a state of contradiction. The -되다 form is compatible with both stative and inchoative readings depending on context.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 4: Stability and Resistance to Change
+
+### 4.1 Constructions encoding the persistence or certainty of a truth-related state
+
+The CONTEXT documents several constructions that encode the stability or certainty of a truth-related state — its resistance to doubt or change.
+
+---
+
+**Expression 4a**
+
+- **Korean:** 틀림없다
+- **Transliteration:** teullim-eopda
+- **English:** To be certain / Undoubtedly correct / Without error
+- **Dynamic type:** X is in a stable state of correctness (no possibility of transition to error)
+- **Notes:** Documented in P1, P2a, P4a, and P4b. 틀림없다 (literally: error does not exist) encodes the absence of any possibility of deviation from correctness. It is an epistemic stability marker: the speaker asserts that the truth-related state is fixed and not subject to revision. Common in both spoken and written assertion.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4b**
+
+- **Korean:** 틀림없이 그럴 것이다
+- **Transliteration:** teullim-eopsi geureol geosida
+- **English:** It will certainly be so / That is undoubtedly what will happen
+- **Dynamic type:** X is projected as stable in a future truth-related state
+- **Notes:** Documented in P2b. The adverbial form 틀림없이 (certainly, without fail) combined with the future/inferential construction -ㄹ 것이다 projects the stability of a truth-related state into the future. The speaker asserts that no deviation from the expected state will occur.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4c**
+
+- **Korean:** 신뢰에 기반하다
+- **Transliteration:** sinloe-e gibanhada
+- **English:** To be based on trust / To be grounded in trust
+- **Dynamic type:** X is in a stable state grounded in [trust-domain state]
+- **Notes:** Documented in P2b. 기반하다 (to be based on, to be grounded in) encodes a foundational relationship that implies stability: a relationship or institution grounded in trust is characterized as having a stable foundation. The construction does not encode change but the absence of change — the persistence of a trust-based foundation.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4d**
+
+- **Korean:** 충분한 근거가 있다
+- **Transliteration:** chungbunhan geungeo-ga itda
+- **English:** There is sufficient evidence / There are adequate grounds
+- **Dynamic type:** X is in a stable state of being evidentially grounded
+- **Notes:** Documented in P2b. The existential construction 있다 (to exist) combined with 충분한 (sufficient) encodes the stable presence of adequate evidential support. The construction asserts that the evidential foundation is not merely present but sufficient — implying resistance to challenges that might undermine it.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4e**
+
+- **Korean:** 진실만이 살 길이다
+- **Transliteration:** jinsil-mani sal gil-ida
+- **English:** Truth is the only way to survive / Only the truth will save us
+- **Dynamic type:** X (truth) is asserted as the only stable path forward
+- **Notes:** Documented in P2b as a proverbial expression. The construction encodes the stability of truth as a value — it is the only reliable foundation for action in a difficult situation. The exclusive marker 만이 (only) reinforces the claim that no alternative to truth is viable.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.2 Constructions encoding the persistence of a falsity-related state
+
+---
+
+**Expression 4f**
+
+- **Korean:** 거짓말을 밥 먹듯 하다
+- **Transliteration:** geojitmal-eul bap meokdeut hada
+- **English:** To lie as easily as eating rice / To lie habitually and without compunction
+- **Dynamic type:** X is in a stable state of habitual lying
+- **Notes:** Documented in P2b. The simile 밥 먹듯 (as if eating rice, i.e., as a matter of routine) encodes the stability of lying as a habitual disposition. The construction characterizes lying not as a single act of transition but as a stable, ongoing state of character. Common in everyday speech and narrative.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4g**
+
+- **Korean:** 거짓말인 줄 알면서도 믿다
+- **Transliteration:** geojitmal-in jul almyeonseodo mitda
+- **English:** To believe something even knowing it is a lie
+- **Dynamic type:** X maintains a belief state despite knowing it is in a falsity-domain state
+- **Notes:** Documented in P2b. The concessive construction -인 줄 알면서도 (even knowing that it is ~) encodes the stability of a belief state in the face of knowledge that should undermine it. The construction describes the persistence of belief despite epistemic evidence against it — a form of motivated stability.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 5: Other Dynamic Expressions
+
+### 5.1 Constructions encoding the building and restoration of truth-related states
+
+These constructions encode the gradual or deliberate construction of a truth-related state from a prior state of absence or damage.
+
+---
+
+**Expression 5a**
+
+- **Korean:** 신뢰를 쌓다
+- **Transliteration:** sinloe-reul ssada
+- **English:** To build trust / To accumulate trust
+- **Dynamic type:** Y causes X (trust) to be built up over time (already documented under 2p)
+- **Notes:** Cross-referenced from Section 2.2. The temporal dimension of gradual accumulation is the defining dynamic feature of this construction.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5b**
+
+- **Korean:** 신뢰를 회복하다
+- **Transliteration:** sinloe-reul hoebokada
+- **English:** To restore trust / To recover credibility
+- **Dynamic type:** Y causes X (trust) to return to a prior state (already documented under 2o)
+- **Notes:** Cross-referenced from Section 2.2. The restoration dynamic — return to a prior state after loss — distinguishes this from 신뢰를 쌓다 (initial building).
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.2 Constructions encoding the investigation and establishment of truth
+
+These constructions encode the process of moving from a state of uncertainty about truth to a state of established truth through deliberate inquiry.
+
+---
+
+**Expression 5c**
+
+- **Korean:** 진위를 가리다
+- **Transliteration:** jinwi-reul garida
+- **English:** To determine the truth or falsity of something / To establish authenticity
+- **Dynamic type:** Y causes the truth-or-falsity status of X to be determined
+- **Notes:** Documented in P1b, P2a, P2b, and P5. 가리다 (to distinguish, to determine) encodes the agentive act of moving from a state of indeterminacy (진위 여부가 불분명하다, the truth or falsity is unclear) to a state of determination. The construction frames the dynamic as one of discrimination and resolution.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5d**
+
+- **Korean:** 진위 여부가 불분명하다
+- **Transliteration:** jinwi yeobu-ga bulbunmyeonghada
+- **English:** The truth or falsity is unclear / It is uncertain whether it is genuine
+- **Dynamic type:** X is in a state of epistemic indeterminacy (prior to determination)
+- **Notes:** Documented in P2b. 불분명하다 (to be unclear, to be indeterminate) encodes the stable state of epistemic uncertainty that precedes the dynamic of determination (진위를 가리다). This construction marks the starting point of the truth-determination dynamic.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5e**
+
+- **Korean:** 진상 규명을 요구하다
+- **Transliteration:** jinsang gyumyeong-eul yoguhada
+- **English:** To demand clarification of the true facts / To call for an investigation into what actually happened
+- **Dynamic type:** Y demands that Z cause X (the true state of affairs) to be established
+- **Notes:** Documented in P1b and P3 Group 7. 요구하다 (to demand, to call for) encodes a causative at one remove: the agent does not directly establish the truth but demands that another agent do so. This construction is characteristic of political and civil society discourse where citizens or opposition groups demand official investigation.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.3 Constructions encoding the revelation of inner character
+
+These constructions encode the dynamic by which a person's true nature or inner state becomes visible.
+
+---
+
+**Expression 5f**
+
+- **Korean:** 진면목을 드러내다
+- **Transliteration:** jinmyeonmok-eul deureonada
+- **English:** To reveal one's true nature / To show one's real character
+- **Dynamic type:** Y causes X (true nature) to become visible
+- **Notes:** Documented in P1b. 드러내다 (to expose, to reveal — transitive counterpart to intransitive 드러나다) encodes the agentive revelation of true character. The agent may be the person themselves (revealing their own nature) or an external observer (exposing another's nature). Common in literary and journalistic registers.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5g**
+
+- **Korean:** 실체를 드러내다
+- **Transliteration:** silche-reul deureonada
+- **English:** To reveal the true substance / To expose the actual identity
+- **Dynamic type:** Y causes X (actual substance or identity) to become visible
+- **Notes:** Documented in P1b and P3 Group 2. 실체 (substance, actual identity) combined with 드러내다 encodes the revelation of what something actually is beneath its surface appearance. Common in investigative and political contexts where the true nature of an organization or person is exposed.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5h**
+
+- **Korean:** 진정성을 보여주다
+- **Transliteration:** jinjeonseong-eul boyeojuda
+- **English:** To demonstrate authenticity / To show genuine commitment
+- **Dynamic type:** Y causes X (authenticity) to become visible to others
+- **Notes:** Documented in P2b. 보여주다 (to show, to demonstrate) encodes the agentive display of inner authenticity. Unlike 드러내다 (which implies prior concealment), 보여주다 is neutral about whether the authenticity was previously hidden; it simply encodes the act of making it visible. Common in political and interpersonal contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 6: Summary Observations
+
+The following observations are directly supported by the data documented in Sections 1–5.
+
+---
+
+**Observation 1: No morphological causative suffix exists in this domain.**
+
+As documented in P4a and confirmed throughout this step, Korean has no productive morphological causative suffix for truth-domain predicates. All causative meaning is expressed through transitive verb selection (밝히다, 숨기다, 왜곡하다, 외면하다, 꾸미다, 유포하다) or through the -하다 light verb construction on nominal bases (규명하다, 확인하다, 회복하다). This is a structural feature of the domain, not a gap in documentation.
+
+---
+
+**Observation 2: The 드러나다 / 드러내다 pair encodes the intransitive/transitive distinction in truth-revelation.**
+
+드러나다 (intransitive: the truth emerges) and 드러내다 (transitive: to reveal the truth) form a productive pair that applies across multiple truth-domain nouns: 진실이 드러나다 / 진실을 드러내다; 거짓이 드러나다; 진면목을 드러내다; 실체를 드러내다. The intransitive form encodes spontaneous or resultant emergence; the transitive form encodes agentive revelation.
+
+---
+
+**Observation 3: The 판명되다 construction encodes authoritative determination, distinct from spontaneous emergence.**
+
+판명되다 (to be officially determined) is consistently used in contexts where an authority — a court, investigator, or expert — has made a determination. It is not interchangeable with 드러나다 or 밝혀지다 in contexts requiring this authoritative sense. The -로 resultant-state particle is obligatory in this construction.
+
+---
+
+**Observation 4: Trust (신뢰) has the richest dynamic vocabulary in the domain.**
+
+The CONTEXT documents more dynamic constructions for 신뢰 than for any other single item: building (쌓다), losing (잃다), betraying (저버리다), restoring (회복하다), collapsing (무너지다), and being grounded in (기반하다). This reflects the relational and temporal character of trust as documented in P3 Group 9.
+
+---
+
+**Observation 5: Stability is encoded primarily through epistemic markers rather than stative predicates.**
+
+The primary stability construction in this domain is 틀림없다 (without error, certainly), which encodes the absence of any possibility of deviation from correctness. Other stability constructions (충분한 근거가 있다, 신뢰에 기반하다) encode the presence of a stable foundation. No dedicated stative predicate meaning "to remain true" or "to stay genuine" is documented; stability is expressed through the assertion of certainty or the presence of a grounding condition.
+
+---
+
+**Observation 6: The transition from indeterminacy to determination is a documented dynamic pattern.**
+
+The pair 진위 여부가 불분명하다 (the truth or falsity is unclear) → 진위를 가리다 (to determine the truth or falsity) encodes a two-stage dynamic: a prior state of epistemic indeterminacy followed by an agentive act of determination. This pattern is specific to the authentication and investigation domain and does not appear with all truth-domain items.
+
+---
+
+**Observation 7: Habitual falsity is encoded through simile rather than through aspect or derivation.**
+
+The construction 거짓말을 밥 먹듯 하다 (to lie as easily as eating rice) encodes habitual lying through a simile (밥 먹듯, as if eating rice) rather than through an aspectual marker or a derived habitual form. No dedicated habitual aspect marker or derivational suffix for habitual lying is documented in the CONTEXT.

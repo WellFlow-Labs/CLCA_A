@@ -1,0 +1,202 @@
+# G3 — Emergent Cross-Language Semantic Dimensions
+
+## Methodology
+
+This analysis extracts semantic dimensions from F3 semantic grouping tables and supporting F1-F2 evidence across eight languages. Each dimension represents a recurring pattern of lexical or semantic organization visible in multiple languages. Dimensions are defined strictly from observed patterns in the data.
+
+---
+
+## Summary Table
+
+| Dimension Label | Informal Definition (data-based) | Representative Languages & Terms | Distribution / Notes |
+|-----------------|-----------------------------------|----------------------------------|----------------------|
+| **DIM-1: Statement Correspondence** | Terms evaluating whether spoken or written statements match actual states of affairs. Distinguished from evaluations of objects, persons, or conduct. Appears in contexts of testimony, reporting, and information accuracy. | **Georgian**: სიმართლე (truth), ტყუილი (lie), მართალი (correct)<br>**Yoruba**: òtítọ́ (truth), irọ́ (lie), ọ̀rọ̀ tọ́ (true statement)<br>**Finnish**: tosi (true), totuus (truth), väite (claim)<br>**Basque**: egia (truth), gezurra (lie), egia esan (tell truth)<br>**Tamil**: உண்மை (truth), பொய் (lie), உண்மை சொல் (tell truth)<br>**Indonesian**: benar (true), bohong (lie), kebenaran (truth)<br>**Turkish**: doğru (true), yanlış (wrong), gerçek (real)<br>**Korean**: 진실 (truth), 거짓 (falsehood), 사실 (fact) | **Strongly supported**: All 8 languages show dedicated vocabulary for evaluating statement-to-reality correspondence. F3 tables identify this as separate semantic group in 7/8 languages (Georgian GROUP 1, Yoruba GROUP 1, Finnish GROUP 1, Basque "Truth-marking in statements," Tamil GROUP 1, Indonesian GROUP 1, Turkish GROUP 1, Korean GROUP 1). |
+| **DIM-2: Material Authenticity** | Terms distinguishing genuine physical objects, documents, or materials from counterfeits, forgeries, or imitations. Focused on material genuineness rather than truthfulness of claims. Common in commercial, legal, and art authentication contexts. | **Georgian**: ნამდვილი (genuine), ყალბი (fake/counterfeit)<br>**Finnish**: aito (genuine), väärennös (forgery)<br>**Basque**: benetakoa (genuine), gezurrezko (false/fake)<br>**Tamil**: அசல் (original), பொய்ப்பொருள் (fake object)<br>**Indonesian**: asli (genuine), palsu (counterfeit)<br>**Turkish**: asıl (original), sahte (fake), özgün (authentic)<br>**Korean**: 진품 (genuine article), 위조품 (counterfeit) | **Strongly supported**: 7/8 languages show clear lexical distinction in F3 tables (Georgian GROUP 2, Finnish GROUP 2, Basque "Genuineness and authenticity of objects," Tamil GROUP 11, Indonesian GROUP 2, Turkish GROUP 2, Korean GROUP 2). Yoruba shows weaker differentiation (gidi "genuine" exists but less systematically separated). |
+| **DIM-3: Character Honesty** | Terms evaluating persons' dispositional truthfulness, integrity, or habitual honesty versus deceptiveness. Distinguished from evaluations of individual statements. Focuses on character traits rather than speech acts. | **Georgian**: [less lexicalized; uses truth-telling descriptions]<br>**Yoruba**: òdodo ọkàn (righteousness of heart)<br>**Finnish**: rehellinen (honest), epärehellinen (dishonest)<br>**Basque**: zintzoa (honest), zintzotasuna (honesty)<br>**Tamil**: நேர்மை (honesty/integrity)<br>**Indonesian**: jujur (honest), kejujuran (honesty)<br>**Turkish**: dürüst (honest), doğruluk (honesty)<br>**Korean**: 정직하다 (honest), 정직성 (honesty) | **Strongly supported**: All 8 languages distinguish character honesty from statement truth, though lexicalization varies. F3 tables identify separate groups (Yoruba GROUP 4, Finnish GROUP 5, Basque GROUP 3, Tamil GROUP 3, Indonesian GROUP 3, Turkish GROUP 5, Korean GROUP 3). Georgian integrates this more with general truth vocabulary. |
+| **DIM-4: Procedural Correctness** | Terms evaluating whether answers, methods, procedures, or executions conform to standards, rules, or proper form. Distinguished from factual truth by focus on conformity to established norms. Common in educational, technical, and regulatory contexts. | **Georgian**: სწორი (correct), მცდარი (erroneous)<br>**Yoruba**: tọ́ (be correct), déédé (correctly), ọ̀nà tọ́ (right way)<br>**Finnish**: oikea (correct), virheellinen (erroneous)<br>**Basque**: zuzena (correct), okerra (wrong)<br>**Tamil**: சரி (correct), தப்பு (mistake)<br>**Indonesian**: benar (correct), salah (wrong)<br>**Turkish**: doğru (correct), yanlış (wrong)<br>**Korean**: 맞다 (correct), 틀리다 (wrong) | **Strongly supported**: All 8 languages show this dimension. F3 tables identify separate groups in 6/8 languages (Georgian GROUP 1, Yoruba GROUP 2, Finnish GROUP 3, Basque GROUP 10, Tamil GROUP 2, Indonesian GROUP 2, Turkish GROUP 3, Korean GROUP 4). Varies in whether merged with propositional truth or maintained separately. |
+| **DIM-5: Exactness and Precision** | Terms evaluating degree of accuracy, exactness, or precision in measurements, descriptions, timing, or targeting. Distinguished from general correctness by emphasis on degree of correspondence. Common in technical, temporal, and spatial contexts. | **Georgian**: ზუსტი (precise/exact)<br>**Yoruba**: déédé (exactly/precisely)<br>**Finnish**: tarkka (precise), täsmällinen (exact)<br>**Tamil**: துல்லியம் (precision/exactness)<br>**Indonesian**: tepat (precise), akurat (accurate)<br>**Turkish**: kesin (precise/definite), tam (exact), isabetli (accurate)<br>**Korean**: 정확하다 (accurate/precise) | **Strongly supported**: All 8 languages show dedicated precision vocabulary. F3 tables identify separate groups or note precision as distinct from general correctness (Georgian noted in GROUP 1, Yoruba GROUP 2, Finnish GROUP 6, Indonesian GROUP 6, Turkish GROUP 6, Korean GROUP 4). |
+| **DIM-6: Source Reliability** | Terms evaluating whether sources, persons, or information can be consistently depended upon or trusted over time. Distinguished from single-instance truth by emphasis on consistent dependability and credibility. Appears in source evaluation and trust assessment. | **Georgian**: სანდო (reliable/trustworthy)<br>**Finnish**: luotettava (reliable/trustworthy)<br>**Basque**: fidagarria (reliable/trustworthy)<br>**Tamil**: நம்பகம் (reliability/trustworthiness)<br>**Indonesian**: dapat dipercaya (trustworthy), terpercaya (reliable)<br>**Turkish**: güvenilir (reliable/trustworthy)<br>**Korean**: 신뢰하다 (trust/rely on), 믿음직하다 (trustworthy) | **Strongly supported**: 7/8 languages show dedicated reliability vocabulary in F3 tables (Georgian GROUP 5, Finnish GROUP 4, Basque GROUP 4, Tamil noted in verification contexts, Indonesian GROUP 4, Turkish GROUP 4, Korean GROUP 7). Yoruba shows weaker lexicalization (uses verbal constructions). |
+| **DIM-7: Epistemic Certainty** | Terms expressing degree of confidence, sureness, or definiteness about knowledge or decisions. Distinguished from factual truth by focus on subjective confidence level or settled status. Appears in expressing confidence and finalized states. | **Georgian**: უტყუარი (infallible/unerring)<br>**Finnish**: varma (certain), ehdoton (absolute)<br>**Basque**: ziurra (certain/sure), ziurtasuna (certainty)<br>**Indonesian**: pasti (certain), yakin (sure)<br>**Turkish**: kesin (certain/definite), mutlak (absolute)<br>**Korean**: 확실하다 (certain), 틀림없다 (without doubt) | **Moderately supported**: 6/8 languages show clear lexicalization in F3 tables (Basque GROUP 10, Indonesian noted in evaluative contexts, Turkish GROUP 9, Korean GROUP 6). Tamil and Yoruba show weaker differentiation from general truth vocabulary. |
+| **DIM-8: Normative Justification** | Terms evaluating whether claims, actions, or rights have proper grounds, moral warrant, or legal legitimacy. Distinguished from factual truth by focus on normative justification rather than correspondence to facts. Common in legal, moral, and political discourse. | **Georgian**: სამართლიანი (just/fair), გამართლება (justification)<br>**Yoruba**: òdodo (righteousness/justice)<br>**Finnish**: oikeudenmukainen (just/fair), oikeutettu (justified)<br>**Basque**: (integrated in zuzen "just/correct")<br>**Tamil**: நியாயம் (justice/fairness/reasonableness)<br>**Indonesian**: adil (just), sah (valid/legal), meşru (legitimate)<br>**Turkish**: meşru (legitimate), haklı (justified), hak (right/due)<br>**Korean**: 정당하다 (legitimate), 타당하다 (valid/reasonable) | **Strongly supported**: All 8 languages show dedicated legitimacy/justification vocabulary. F3 tables identify separate groups (Georgian GROUP 4, Yoruba GROUP 4, Finnish GROUP 13, Tamil noted, Indonesian GROUP 8, Turkish GROUP 13, Korean GROUP 8). Varies in whether integrated with truth domain or maintained separately. |
+| **DIM-9: Intentional Deception** | Terms specifically marking deliberate falsehood with intent to mislead, distinguished from unintentional error or simple incorrectness. Emphasizes deceptive intention. Appears in moral evaluation and legal contexts. | **Finnish**: valhe (lie) vs. virhe (error)<br>**Tamil**: பொய் (lie) vs. தப்பு (mistake)<br>**Indonesian**: bohong (lie) vs. salah (mistake)<br>**Turkish**: yalan (lie) vs. hata (error)<br>**Korean**: 거짓말 (lie) vs. 실수 (mistake) | **Moderately supported**: 5/8 languages show clear lexical distinction in F3 tables (Finnish GROUP 4, Tamil GROUP 1 vs. GROUP 2, Indonesian GROUP 3 vs. GROUP 2, Turkish noted, Korean GROUP 3). Georgian, Yoruba, Basque use same terms for both (context distinguishes). |
+| **DIM-10: Appearance vs. Essence** | Terms distinguishing surface appearance, seeming qualities, or superficial aspects from underlying reality, true nature, or essential character. Marks gap between how things appear and what they fundamentally are. | **Basque**: itxurazko (apparent/seeming) vs. benetako (real), egiazkoa (true)<br>**Turkish**: görünüşte (in appearance) vs. gerçekte (in reality)<br>**Korean**: 겉모습 (surface appearance) vs. 본질 (essence)<br>**Tamil**: (noted in F3 as appearance vs. reality contexts)<br>**Indonesian**: (constructional: sepertinya "seemingly") | **Weakly supported**: Only 2-3 languages show clear lexicalization as dedicated adjectives in F3 tables (Basque GROUP 9, Turkish noted in GROUP 2, Korean GROUP 8). Other languages express this constructionally through "seem" verbs rather than dedicated adjectives. |
+| **DIM-11: Register-Based Truth Variation** | Distinction between formal/philosophical/religious truth terms and everyday/colloquial truth terms. Separates elevated discourse about ultimate truth from ordinary factual claims. Appears in register-stratified languages. | **Tamil**: மெய் (elevated) vs. உண்மை (everyday) vs. சத்தியம் (religious)<br>**Turkish**: hakikat (philosophical) vs. gerçek (everyday) vs. doğru (general)<br>**Korean**: 진리 (philosophical) vs. 사실 (factual) vs. 진실 (formal) vs. 진짜 (colloquial) vs. 참 (native)<br>**Georgian**: ჭეშმარიტი (elevated) vs. სიმართლე (everyday) | **Moderately supported**: 4/8 languages show clear register-based distinctions in F3 tables (Tamil GROUP 4, Turkish noted in multiple groups, Korean GROUP 10, Georgian GROUP 8). Finnish, Yoruba, Basque, Indonesian show less differentiation. |
+| **DIM-12: Internal Consistency** | Terms evaluating whether statements, arguments, or behaviors maintain logical coherence or consistency across instances. Distinguished from factual truth by focus on internal relations rather than external correspondence. | **Finnish**: johdonmukainen (consistent/coherent)<br>**Turkish**: tutarlı (consistent) vs. tutarsız (inconsistent)<br>**Indonesian**: konsisten (consistent)<br>**Korean**: 일관성 (consistency) | **Weakly supported**: 4/8 languages show dedicated consistency vocabulary as separate dimension in F3 tables (Finnish noted, Turkish GROUP 5, Indonesian noted, Korean noted). Other languages express through general correctness or appropriateness terms. |
+| **DIM-13: Contextual Appropriateness** | Terms evaluating whether actions, statements, or objects fit contextual standards, norms, or circumstances. Distinguished from absolute correctness by emphasis on situational fit and suitability. Appears in evaluating contextual propriety. | **Georgian**: შესაბამისი (appropriate/suitable)<br>**Yoruba**: bá mu (correspond/match), ìbámu (correspondence)<br>**Finnish**: sopiva (suitable), asianmukainen (appropriate)<br>**Basque**: egokia (appropriate/suitable)<br>**Tamil**: பொருத்தம் (appropriateness/suitability)<br>**Indonesian**: sesuai (appropriate), cocok (suitable), wajar (reasonable)<br>**Turkish**: uygun (appropriate), yerinde (apt/well-placed)<br>**Korean**: 적절하다 (appropriate) | **Strongly supported**: All 8 languages show dedicated appropriateness vocabulary. F3 tables identify separate groups (Yoruba GROUP 8, Finnish GROUP 7, Basque GROUP 12, Tamil noted, Indonesian GROUP 7, Turkish GROUP 7, Korean noted). Varies in whether treated as separate dimension or merged with correctness. |
+| **DIM-14: Evidential Establishment** | Terms and processes for establishing truth through evidence, testimony, proof, or formal verification procedures. Distinguished from simple truth by emphasis on evidential process and authentication. Appears in legal, investigative, and administrative contexts. | **Georgian**: დადასტურება (confirmation), მტკიცება (proof)<br>**Yoruba**: ìfẹ̀sẹ̀múlẹ̀ (confirmation), ẹ̀rí (witness/evidence), jẹ́rìí (testify)<br>**Finnish**: todistaa (prove), todentaa (verify), todiste (evidence)<br>**Basque**: egiazkotu (verify), egiaztagiri (certificate), egiaztatze (verification)<br>**Tamil**: மெய்ப்பு (proof), உண்மைப்படுத்து (verify)<br>**Indonesian**: membenarkan (confirm), validasi (validation)<br>**Turkish**: doğrulamak (verify), tasdik (authentication)<br>**Korean**: 확인하다 (verify), 증명하다 (prove), 진술 (testimony) | **Strongly supported**: All 8 languages show dedicated verification vocabulary. F3 tables identify separate groups (Georgian GROUP 6, Yoruba GROUP 6, Finnish GROUP 6, Basque GROUP 2, Tamil GROUP 5, Indonesian GROUP 6, Turkish GROUP 6, Korean GROUP 6 and GROUP 12). |
+| **DIM-15: Truth Visibility** | Terms and constructions for truth emerging from hiddenness, being revealed, or being deliberately concealed. Focuses on visibility/invisibility of truth rather than its existence or correspondence. Appears in investigative, narrative, and confessional contexts. | **Georgian**: გამოვლინდა (was revealed), დამალა (hid)<br>**Yoruba**: purọ́ jáde (lie emerged), fi...bò (cover with lies)<br>**Finnish**: paljastua (be revealed), salata (conceal)<br>**Basque**: egia atera (truth came out), ezkutatu (hide)<br>**Tamil**: வெளிப்படு (come out), மறை (hide)<br>**Indonesian**: terungkap (be revealed), menyembunyikan (hide)<br>**Turkish**: ortaya çıkmak (come to light), gizlemek (hide)<br>**Korean**: 드러나다 (come to light), 숨기다 (hide) | **Strongly supported**: All 8 languages show specialized revelation/concealment vocabulary. F3 tables identify separate groups (Georgian GROUP 6, Yoruba noted in constructions, Finnish noted, Basque noted, Tamil GROUP 6, Indonesian noted, Turkish GROUP 14, Korean GROUP 14). Often constructional rather than simple lexical. |
+| **DIM-16: Epistemic Acceptance** | Terms for the mental state of accepting something as true, believing claims, or trusting in persons/sources. Distinguished from objective truth by focus on subjective acceptance and trust relationships. | **Georgian**: რწმენა (faith/belief), ნდობა (trust)<br>**Yoruba**: gbàgbọ́ (believe/trust), ìgbàgbọ́ (belief/faith)<br>**Finnish**: uskoa (believe), luottaa (trust)<br>**Basque**: sineste (belief), fida (trust)<br>**Tamil**: நம்பு (believe/trust), நம்பிக்கை (belief)<br>**Indonesian**: percaya (believe), mempercayai (trust)<br>**Turkish**: inanmak (believe), güvenmek (trust)<br>**Korean**: 믿다 (believe/trust), 신뢰하다 (trust) | **Strongly supported**: All 8 languages show dedicated belief/trust vocabulary. F3 tables identify separate groups (Georgian noted, Yoruba GROUP 3, Finnish GROUP 10, Basque noted, Tamil noted, Indonesian GROUP 3, Turkish noted, Korean GROUP 7). Often treated as adjacent to but distinct from truth domain. |
+| **DIM-17: Spatial-Epistemic Polysemy** | Recurring polysemy pattern where terms for physical straightness extend to epistemic correctness and/or moral rightness. Represents systematic metaphorical mapping from spatial to abstract domains. | **Georgian**: მართ- root (straight → correct → just)<br>**Yoruba**: tọ́ (straight → correct → true → direct)<br>**Finnish**: oikea (straight → correct → right)<br>**Basque**: zuzen (straight → correct → just)<br>**Tamil**: சரி (straight → correct → equal)<br>**Turkish**: doğru (straight → true → correct → direct) | **Moderately supported**: 6/8 languages show this polysemy pattern documented in F1 tables. Absent in Indonesian (lurus "straight" vs. benar "correct" separate) and Korean (곧다 "straight" vs. 맞다 "correct" separate). Represents systematic metaphorical extension. |
+| **DIM-18: Potentiality to Actuality** | Terms and constructions for possibilities, plans, predictions, or abstract ideas becoming concrete reality or being implemented. Focuses on transition from potential to actual state. Appears in planning, prediction, and accomplishment contexts. | **Finnish**: toteutua (come true), toteuttaa (realize/implement)<br>**Indonesian**: menjadi kenyataan (become reality), terwujud (be realized)<br>**Turkish**: gerçekleşmek (come true), gerçekleştirmek (realize/accomplish)<br>**Korean**: 실현 (realization), 실행 (implementation) | **Moderately supported**: 4/8 languages show dedicated realization vocabulary in F3 tables (Finnish GROUP 11, Indonesian noted, Turkish GROUP 11, Korean GROUP 5). Georgian, Yoruba, Basque, Tamil show less clear lexicalization as separate dimension. |
+| **DIM-19: Practice vs. Theory** | Distinction between what actually happens in concrete practice versus what is planned, claimed, or theoretically possible. Contrasts concrete implementation with abstract principles. Appears in policy evaluation and practical assessment. | **Korean**: 실제 (actuality), 실질적 (substantial/actual), 실효성 (actual effectiveness), 실력 (actual ability), 실적 (actual results)<br>**Finnish**: käytännössä (in practice) vs. teoriassa (in theory)<br>**Indonesian**: dalam praktik (in practice)<br>**Turkish**: pratikte (in practice) | **Weakly supported**: Korean shows most elaborated lexicalization through extensive 실- root family in F3 GROUP 5. Other languages express this constructionally or through borrowed terms rather than dedicated native vocabulary. |
+| **DIM-20: Expression Sincerity** | Terms evaluating whether emotions, intentions, or expressions are genuine versus feigned, insincere, or hypocritical. Distinguished from object authenticity by focus on inner states and their outward expression. | **Georgian**: გულწრფელი (sincere, lit. "pure-hearted")<br>**Finnish**: vilpitön (sincere, without deceit)<br>**Basque**: zintzoa (honest/sincere)<br>**Indonesian**: tulus (sincere), ikhlas (sincere)<br>**Turkish**: samimi (sincere), içten (heartfelt)<br>**Korean**: 진심 (true heart/sincerity), 진정성 (genuineness) | **Moderately supported**: 6/8 languages show dedicated sincerity vocabulary in F3 tables (Georgian noted, Finnish GROUP 5, Basque GROUP 3, Indonesian noted, Turkish noted, Korean GROUP 2). Yoruba and Tamil show less clear separation from general honesty terms. |
+| **DIM-21: Surface Plausibility** | Terms evaluating whether claims appear believable, reasonable, or credible on the surface, regardless of actual truth. Focuses on subjective impression of credibility and initial believability. | **Finnish**: uskottava (believable/credible)<br>**Basque**: sinesgarria (believable/credible)<br>**Indonesian**: masuk akal (makes sense)<br>**Turkish**: inandırıcı (convincing), makul (reasonable), akla yakın (plausible)<br>**Korean**: 그럴듯하다 (plausible/likely) | **Moderately supported**: 5/8 languages show dedicated plausibility vocabulary in F3 tables (Finnish GROUP 10, Basque GROUP 4, Indonesian noted, Turkish GROUP 8, Korean GROUP 9). Georgian, Yoruba, Tamil show less clear lexicalization. |
+| **DIM-22: Formal Validity** | Terms evaluating whether documents, arguments, or procedures meet formal requirements for legal force or logical soundness. Distinguished from factual truth by focus on procedural/formal correctness. Appears in legal and formal logical contexts. | **Finnish**: pätevä (valid), voimassa (in force)<br>**Basque**: baliozkoa (valid)<br>**Indonesian**: sah (valid/legal), valid (valid - borrowed)<br>**Turkish**: geçerli (valid/effective), meşru (legitimate)<br>**Korean**: 유효하다 (valid/effective) | **Moderately supported**: 5/8 languages show dedicated formal validity vocabulary in F3 tables (Finnish noted, Basque noted, Indonesian GROUP 4, Turkish GROUP 6, Korean noted). Georgian, Yoruba, Tamil show less clear lexicalization as separate from general correctness. |
+| **DIM-23: Active Falsification** | Terms for deliberately altering, manipulating, distorting, or forging truth or genuine items. Distinguished from simple falsehood by emphasis on active transformation or fabrication process. Appears in fraud, forgery, and media criticism contexts. | **Georgian**: გაყალბება (falsification/forgery)<br>**Finnish**: vääristää (distort), väärentää (forge)<br>**Basque**: faltsutu (falsify/forge)<br>**Tamil**: திரி (distort), பொய்யாக்கு (falsify)<br>**Indonesian**: memalsukan (falsify), memutarbalikkan (distort)<br>**Turkish**: tahrif etmek (distort), sahtelemek (counterfeit)<br>**Korean**: 왜곡하다 (distort), 조작하다 (fabricate) | **Strongly supported**: 7/8 languages show dedicated distortion/falsification vocabulary in F3 tables (Georgian GROUP 4, Finnish GROUP 8, Basque noted, Tamil noted, Indonesian GROUP 8, Turkish GROUP 8, Korean noted). Yoruba shows less clear lexicalization (uses general deception terms). |
+| **DIM-24: Standard Conformity** | Terms evaluating whether actions, objects, or statements conform to established norms, rules, models, or expectations. Distinguished from correctness by emphasis on matching external standards. Appears in regulatory and normative contexts. | **Georgian**: შესაბამისი (conforming/appropriate)<br>**Yoruba**: bá mu (correspond/match), ìbámu (correspondence/harmony)<br>**Finnish**: mukainen (according to), vastaava (corresponding)<br>**Basque**: (overlaps with egokia "appropriate")<br>**Tamil**: பொருந்து (fit/match/conform)<br>**Indonesian**: sesuai (in accordance with), cocok (matching/fitting)<br>**Turkish**: uygun (conforming/suitable)<br>**Korean**: 부합하다 (conform to) | **Strongly supported**: All 8 languages show conformity vocabulary. F3 tables identify separate groups or note conformity contexts (Yoruba GROUP 8, Finnish noted, Basque GROUP 12, Tamil noted, Indonesian GROUP 7, Turkish GROUP 7, Korean noted). Often overlaps with appropriateness dimension. |
+| **DIM-25: Directness and Mediation** | Terms marking whether connections, communications, or relationships are unmediated (direct) or involve intermediaries. Focuses on presence/absence of intervening steps. Appears in spatial, communicative, and organizational contexts. | **Georgian**: პირდაპირ (directly)<br>**Yoruba**: tọ́ (direct, as extension of straightness)<br>**Finnish**: suora (direct), välitön (immediate)<br>**Basque**: zuzenean (directly), zuzeneko (direct/live)<br>**Turkish**: doğrudan (directly), doğrudan doğruya (directly)<br>**Korean**: 직접 (directly) | **Moderately supported**: 6/8 languages show directness vocabulary, often derived from straightness terms. F3 tables note this (Basque GROUP 6, Turkish noted, Korean noted). Often without direct connection to truth-evaluation but derived from same roots. |
+
+---
+
+## Explicit Attestation Marking
+
+### Strongly Supported Dimensions (Clear lexicalization in 6-8 languages, identified in F3 tables)
+
+1. **DIM-1: Statement Correspondence** — 8/8 languages (all F3 tables identify separate group)
+2. **DIM-2: Material Authenticity** — 7/8 languages (weak in Yoruba)
+3. **DIM-3: Character Honesty** — 8/8 languages (varying lexicalization)
+4. **DIM-4: Procedural Correctness** — 8/8 languages (varying integration with truth)
+5. **DIM-5: Exactness and Precision** — 8/8 languages (all show dedicated vocabulary)
+6. **DIM-6: Source Reliability** — 7/8 languages (weak in Yoruba)
+7. **DIM-8: Normative Justification** — 8/8 languages (all F3 tables identify)
+8. **DIM-13: Contextual Appropriateness** — 8/8 languages (varying integration)
+9. **DIM-14: Evidential Establishment** — 8/8 languages (all F3 tables identify separate group)
+10. **DIM-15: Truth Visibility** — 8/8 languages (all show revelation/concealment vocabulary)
+11. **DIM-23: Active Falsification** — 7/8 languages (weak in Yoruba)
+12. **DIM-24: Standard Conformity** — 8/8 languages (often overlaps with appropriateness)
+
+### Moderately Supported Dimensions (Clear lexicalization in 3-5 languages)
+
+1. **DIM-7: Epistemic Certainty** — 6/8 languages (weak in Tamil, Yoruba)
+2. **DIM-9: Intentional Deception** — 5/8 languages (clear lexical split)
+3. **DIM-11: Register-Based Truth Variation** — 4/8 languages (Tamil, Turkish, Korean, Georgian)
+4. **DIM-18: Potentiality to Actuality** — 4/8 languages (Finnish, Indonesian, Turkish, Korean)
+5. **DIM-20: Expression Sincerity** — 6/8 languages (weak in Yoruba, Tamil)
+6. **DIM-21: Surface Plausibility** — 5/8 languages (weak in Georgian, Yoruba, Tamil)
+7. **DIM-22: Formal Validity** — 5/8 languages (weak in Georgian, Yoruba, Tamil)
+8. **DIM-25: Directness and Mediation** — 6/8 languages (often derived from straightness)
+
+### Weakly Attested or Unclear Dimensions
+
+1. **DIM-10: Appearance vs. Essence** — Only 2-3/8 languages show clear lexicalization (Basque, Turkish, Korean); others use constructional means
+2. **DIM-12: Internal Consistency** — 4/8 languages; often merged with general correctness in others
+3. **DIM-19: Practice vs. Theory** — Primarily Korean (extensive 실- root family); others use borrowed terms or constructional means
+
+---
+
+## Language-Specific Patterns
+
+### Major Splits (Dimensions Maintained as Lexically Distinct)
+
+**Finnish**: Clearest separation across multiple dimensions:
+- DIM-1 (truth-value: tosi/totuus) distinct from
+- DIM-2 (authenticity: aito) distinct from
+- DIM-3 (honesty: rehellinen) distinct from
+- DIM-4 (correctness: oikea) distinct from
+- DIM-9 (deliberate lie: valhe vs. unintentional error: virhe)
+
+**Korean**: Extreme register-based splitting within DIM-1:
+- 진실 (jinsil): formal/moral truth
+- 사실 (sasil): objective/factual truth
+- 진짜 (jinjja): colloquial/authenticity truth
+- 참 (cham): native/literary truth
+- 진리 (jilli): philosophical/universal truth
+
+Plus clear separation of DIM-19 (practical reality: extensive 실- root family)
+
+**Tamil**: Clear separation of:
+- DIM-11 (register variation: மெய் elevated vs. உண்மை everyday vs. சத்தியம் religious)
+- DIM-1 (statement truth) from DIM-4 (correctness: சரி)
+- DIM-3 (honesty: நேர்மை) maintained separately
+
+### Major Mergers (Dimensions Collapsed into Single Roots)
+
+**Georgian**: DIM-1 (truth) + DIM-4 (correctness) + DIM-8 (justice) merged in **მართ-** root family:
+- სიმართლე "truth"
+- მართალი "correct/just"
+- სამართლიანი "just/fair"
+- სამართალი "law/justice"
+- მართლმადიდებელი "Orthodox Christian"
+
+**Yoruba**: DIM-1 (truth) + DIM-4 (correctness) + DIM-13 (appropriateness) + DIM-25 (directness) merged in **tọ́** root extensions:
+- òtítọ́ "truth"
+- tọ́ "be correct"
+- bá mu "correspond/fit"
+- tọ́ ẹsẹ̀ "direct steps"
+- tọ́jú "care for properly"
+
+**Turkish**: DIM-1 (truth) + DIM-4 (correctness) + DIM-17 (straightness) + DIM-25 (directness) merged in **doğru** polysemy:
+- "true" (epistemic)
+- "correct" (normative)
+- "straight" (spatial)
+- "direct" (unmediated)
+
+### Unique Elaborations
+
+**Yoruba**: DIM-17 (straightness) uniquely extends to:
+- Directional guidance: tọ́ ẹsẹ̀ "direct one's steps," tọ́ ọwọ́ "guide hand"
+- Proper care: tọ́jú "care for properly"
+- Mental orientation: tọ́ ọkàn "set heart/mind correctly"
+
+No other language shows comparable extension of spatial metaphor to care and guidance domains.
+
+**Indonesian**: DIM-4 (error) shows exceptional compound productivity:
+- salah paham "misunderstand"
+- salah guna "misuse"
+- salah kaprah "common error"
+- salah tingkah "awkward"
+- salah langkah "misstep"
+- salah jalan "wrong way"
+- salah alamat "wrong address"
+- salah urus "mismanagement"
+- salah tafsir "misinterpret"
+- salah ucap "slip of tongue"
+- salah tulis "typo"
+- salah hitung "miscalculation"
+- salah lihat "see wrongly"
+- salah dengar "mishear"
+
+No other language shows comparable productivity for error-type specification.
+
+**Korean**: DIM-19 (practical reality) most elaborated through extensive **실-** root family:
+- 실제 "actuality"
+- 실질적 "substantial/actual"
+- 실효성 "actual effectiveness"
+- 실력 "actual ability"
+- 실적 "actual results"
+- 실무 "practical work"
+- 실전 "actual combat"
+- 실험 "experiment"
+- 실증 "empirical proof"
+
+No other language shows comparable elaboration of practice/actuality domain.
+
+**Turkish**: DIM-8 (legitimacy) integrated with deservingness through polysemous **hak** root:
+- "truth" (epistemic)
+- "right/entitlement" (legal)
+- "due/what is deserved" (moral)
+- "God" (theological: Hak Teala)
+
+Plus extensive idiomatic expressions: hak etmek "deserve," hak vermek "agree with," hak yemek "wrong someone," hak aramak "seek justice"
+
+**Tamil**: DIM-1 (truth) etymologically grounded in existence:
+- உண்மை (uṇmai) derives from உண்டு (uṇṭu) "exists"
+- Creates philosophical connection between truth and being
+- மெய் (mey) polysemous between "truth" and "body/physical"
+
+**Georgian**: Religious orthodoxy integrated into truth domain:
+- მართლმადიდებელი (mart'lmadidebeli) "Orthodox Christian" from მართ- "right/true"
+- Unique integration of doctrinal correctness into general truth vocabulary
+
+---
+
+## Conclusion
+
+The analysis reveals **12 strongly supported dimensions** appearing in 6-8 languages with clear F3 documentation, **8 moderately supported dimensions** appearing in 3-5 languages, and **3 weakly supported dimensions** appearing in 1-2 languages or primarily through constructional means.
+
+**Core universal structure**: All languages distinguish:
+- Statement correspondence (DIM-1)
+- Material authenticity (DIM-2)
+- Character honesty (DIM-3)
+- Evidential establishment (DIM-14)
+- Truth visibility/revelation (DIM-15)
+
+These five dimensions form the cross-linguistic core of truth-related semantic organization, documented in all F3 tables.
+
+**Variable elaboration**: Languages differ significantly in:
+- Register-based truth term differentiation (DIM-11): extensive in Korean/Tamil/Turkish, minimal in Yoruba/Basque
+- Procedural correctness integration (DIM-4): merged with truth in Georgian/Yoruba/Turkish, separate in Finnish/Korean
+- Realization vocabulary (DIM-18): elaborated in Finnish/Turkish/Korean, less developed in others
+- Practice/theory distinction (DIM-19): highly elaborated in Korean only
+
+**Systematic polysemy**: The spatial-epistemic polysemy (DIM-17) appears in 6/8 languages, suggesting widespread metaphorical mapping, but is not universal (absent in Indonesian and Korean, which maintain separate spatial and epistemic vocabulary).

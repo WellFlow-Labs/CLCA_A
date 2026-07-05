@@ -1,0 +1,584 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Basque (eu)
+
+---
+
+## Preliminary Note on Method
+
+This step analyzes how Basque encodes dynamic processes — becoming, causing, and maintaining — involving truth-related vocabulary documented in P1–P5. All forms and constructions are drawn exclusively from the CONTEXT. Where the CONTEXT documents a form but does not attest a specific dynamic construction, this is stated explicitly. Where a dynamic construction is not attested for a given item, no construction is invented.
+
+The analysis is organized by construction type rather than by lexical item, since the CONTEXT reveals that dynamic encoding is largely determined by morphological class (which suffix a root takes) rather than by individual lexical items. Cross-references to P1–P5 are provided throughout.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE (*-tu* INTRANSITIVE / INCHOATIVE)
+
+### Pattern
+Root adjective or noun + *-tu* verbal suffix, used intransitively (no explicit agent).
+Documented in P4a §4 and P4b.
+
+### Attested forms from CONTEXT
+
+**1.1**
+- **Form:** *okertu*
+- **Example:** *Gauzak okertu dira*
+- **Transliteration:** N/A
+- **English translation:** Things have gone wrong / Things have become crooked
+- **Source:** P1b 3.22; P2a 7.2; P4a §4; P4b
+- **Notes:** The inchoative reading ("become wrong/crooked") is attested for both physical and moral/situational senses. The CONTEXT documents *gauzak okertu dira* as the example. The auxiliary *dira* (3pl of *izan*) marks the perfective resultant state.
+
+---
+
+**1.2**
+- **Form:** *usteldu*
+- **Example:** *Sistema usteldu da*
+- **Transliteration:** N/A
+- **English translation:** The system has become corrupt / The system has rotted
+- **Source:** P2a 22.2
+- **Notes:** The CONTEXT explicitly documents both physical ("to rot") and moral/political ("to become corrupt") inchoative readings. The example *sistema usteldu da* is given in P2a 22.2. The auxiliary *da* (3sg of *izan*) marks the perfective resultant state.
+
+---
+
+**1.3**
+- **Form:** *okertu* (applied to physical objects)
+- **Example:** *Egurra okertu da*
+- **Transliteration:** N/A
+- **English translation:** The wood has warped / The wood has bent
+- **Source:** P1b Step 3 Peripheral Extensions (from *zuzen-*)
+- **Notes:** The CONTEXT explicitly notes this as a peripheral use of the wrongness root applied to physical deformation. Documented as a peripheral extension in P1b, not as a core truth-domain use.
+
+---
+
+**1.4**
+- **Form:** *zuzendu* (intransitive reading)
+- **Example:** (no intransitive example explicitly given in CONTEXT)
+- **Transliteration:** N/A
+- **English translation:** To become straight / To straighten (intransitive)
+- **Source:** P1b 3.4; P2a 6.2; P4a §4–5
+- **Notes:** The CONTEXT documents *zuzendu* as polyfunctional (inchoative or causative depending on argument structure, per P4a §5), but does not provide an explicit intransitive example sentence. The causative reading (*akatsak zuzendu*, "to correct the errors") is the primary attested use. The inchoative reading is documented as structurally possible (P4a §4) but no specific intransitive example sentence is given in the CONTEXT.
+
+---
+
+**1.5**
+- **Form:** *egokitu* (intransitive reading)
+- **Example:** *Baldintzetara egokitu*
+- **Transliteration:** N/A
+- **English translation:** To adapt to the conditions / To adjust to the conditions
+- **Source:** P2a 19.2
+- **Notes:** The CONTEXT documents *egokitu* as used in constructions such as *baldintzetara egokitu* ("to adapt to the conditions"). The allative *-ra* on *baldintzetara* ("to the conditions") marks the target state or context of adaptation. This is an inchoative-like construction where the subject undergoes a change of fit relative to a context.
+
+---
+
+### Items for which no inchoative *-tu* form is attested in CONTEXT
+
+The following P1 items do not have an attested inchoative *-tu* form in the CONTEXT:
+
+- *egia*, *egiazkoa*: No verb meaning "to become true" built on *egia-* is documented. The CONTEXT documents *egiaztatu* (to verify) but this is a causative/transitive form, not an inchoative.
+- *gezurra*, *gezurrezkoa*: No verb meaning "to become false" built on *gezurr-* is documented. The CONTEXT explicitly notes (P2a item 4 note) that no verbal derivation parallel to *egiaztatu* is identified as a common form for the *gezurr-* root.
+- *zehatza*: *Zehaztu* is documented (P2a 8.2) but its primary meaning is "to specify, to determine precisely" — a causative/transitive action, not an inchoative. No construction meaning "to become precise" is attested.
+- *fidagarria*, *sinesgarria*: No inchoative *-tu* forms are documented. The CONTEXT explicitly notes (P2a items 9 and 10) that no verbal derivation directly from these adjectives is identified as a common form.
+- *zintzoa*, *leiala*: No inchoative *-tu* forms are documented. The CONTEXT explicitly notes (P2a item 20) that no verbal derivation directly from *zintzoa* is identified as a common form.
+- *baliozko*: *Baliozkotu* is documented (P2a 11.3) but as a causative ("to validate"), not an inchoative. *Baliogabetu* (P2a 11.5) is similarly causative ("to invalidate").
+
+---
+
+## 2. CAUSING A TRUTH-RELATED STATE (*-tu* TRANSITIVE / CAUSATIVE)
+
+### Pattern
+Root adjective or noun + *-tu* verbal suffix, used transitively with an explicit object.
+Documented in P4a §5 and P4b. The causative and inchoative readings are morphologically identical; transitivity is determined by argument structure.
+
+### Attested forms from CONTEXT
+
+**2.1**
+- **Form:** *zuzendu* (transitive)
+- **Example:** *Akatsak zuzendu*
+- **Transliteration:** N/A
+- **English translation:** To correct the errors
+- **Source:** P1b 3.4; P2a 6.2; P4a §5; P4b
+- **Notes:** The CONTEXT documents this as the primary causative use: an agent acts on an object (errors, texts, injustices) to make them correct or straight. Additional examples from CONTEXT: *bidegabekeria zuzendu* ("to rectify an injustice"), *gutuna zuzendu* ("to address a letter"). The object bears absolutive case.
+
+---
+
+**2.2**
+- **Form:** *baliogabetu* (transitive)
+- **Example:** *Epaia baliogabetu*
+- **Transliteration:** N/A
+- **English translation:** To nullify the judgment / To invalidate the judgment
+- **Source:** P2a 11.5; P4a §5; P4b
+- **Notes:** The CONTEXT documents this as a causative in legal and administrative contexts: an agent causes a judgment, document, or act to become invalid. The example *epaia baliogabetu* is given in P2a 11.5.
+
+---
+
+**2.3**
+- **Form:** *baliozkotu* (transitive)
+- **Example:** (no specific example sentence given in CONTEXT beyond the verb itself)
+- **Transliteration:** N/A
+- **English translation:** To validate / To make valid / To legitimize
+- **Source:** P2a 11.3
+- **Notes:** The CONTEXT documents *baliozkotu* as a verb meaning "to validate or confer validity upon something," used in administrative, legal, and institutional contexts. No specific example sentence is provided in the CONTEXT beyond the verb description.
+
+---
+
+**2.4**
+- **Form:** *legitimatu* (transitive)
+- **Example:** *Boterea legitimatu*
+- **Transliteration:** N/A
+- **English translation:** To legitimize power
+- **Source:** P2a 12.2
+- **Notes:** The CONTEXT documents *boterea legitimatu* as the example. An agent causes power or authority to acquire the status of legitimacy. Used in political and legal discourse.
+
+---
+
+**2.5**
+- **Form:** *zilegitu* (transitive)
+- **Example:** (no specific example sentence given in CONTEXT)
+- **Transliteration:** N/A
+- **English translation:** To make lawful / To legitimize / To permit
+- **Source:** P2a 13.3
+- **Notes:** The CONTEXT documents *zilegitu* as a verb meaning "to make something lawful or permissible," used in legal and ethical contexts. Epistemic status is [MARGINAL] in P2a. No specific example sentence is provided.
+
+---
+
+**2.6**
+- **Form:** *egiaztatu* (transitive)
+- **Example:** *Datuak egiaztatu* / *Sinadura egiaztatu*
+- **Transliteration:** N/A
+- **English translation:** To verify the data / To certify a signature
+- **Source:** P1b 1.6; P2a 1.5–1.6; P4a §11 (note)
+- **Notes:** The CONTEXT documents *egiaztatu* as the primary verb for official verification and certification. An agent causes a fact, document, or signature to acquire the status of being verified. The examples *datuak egiaztatu* and *sinadura egiaztatu* are given in P1b 1.6.
+
+---
+
+**2.7**
+- **Form:** *autentifikatu* (transitive)
+- **Example:** *Sinadura autentifikatu*
+- **Transliteration:** N/A
+- **English translation:** To authenticate a signature
+- **Source:** P2a 15.2
+- **Notes:** The CONTEXT documents *sinadura autentifikatu* as the example. An agent causes a signature, document, or object to acquire the status of being authenticated. Used in legal, administrative, and digital security contexts.
+
+---
+
+**2.8**
+- **Form:** *faltsifikatu* (transitive)
+- **Example:** *Dokumentua faltsifikatu*
+- **Transliteration:** N/A
+- **English translation:** To forge a document / To falsify a document
+- **Source:** P2a 14.3; P2b 14.4
+- **Notes:** The CONTEXT documents *dokumentua faltsifikatu* as the example. An agent causes a document to acquire the status of being forged or falsified. This is the causative of inauthenticity, contrasting with *autentifikatu* (Opposition 15 in P5).
+
+---
+
+**2.9**
+- **Form:** *zehaztu* (transitive)
+- **Example:** *Data zehaztu* / *Baldintza zehaztu*
+- **Transliteration:** N/A
+- **English translation:** To specify the date / To define the conditions precisely
+- **Source:** P2a 8.2
+- **Notes:** The CONTEXT documents both examples. An agent causes a date, condition, or fact to acquire the status of being precisely specified. Used in scientific, legal, and administrative contexts.
+
+---
+
+**2.10**
+- **Form:** *frogatu* (transitive)
+- **Example:** *Fidagarria dela frogatu* / *Faltsua dela frogatu*
+- **Transliteration:** N/A
+- **English translation:** To prove that it is reliable / To prove that it is false
+- **Source:** P1 item 26; P2b 9.3; P2b 14.3; P4a §11
+- **Notes:** The CONTEXT documents *frogatu* as the primary verb for demonstrating truth or fact through evidence. The examples with embedded *dela* clauses are given in P2b 9.3 and 14.3. An agent causes a claim or fact to acquire the status of being proven.
+
+---
+
+**2.11**
+- **Form:** *egokitu* (transitive)
+- **Example:** *Testua egokitu* / *Baldintzetara egokitu*
+- **Transliteration:** N/A
+- **English translation:** To adapt the text / To adapt to the conditions
+- **Source:** P2a 19.2; P2b 19.3
+- **Notes:** The CONTEXT documents both examples. An agent causes a text, material, or situation to become appropriate for a given context. The transitive reading (*testua egokitu*, "to adapt the text") involves an explicit object; the reflexive-like reading (*baldintzetara egokitu*, "to adapt to the conditions") involves an allative goal.
+
+---
+
+**2.12**
+- **Form:** *berdindu* (transitive)
+- **Example:** *Aukerak berdindu*
+- **Transliteration:** N/A
+- **English translation:** To equalize opportunities
+- **Source:** P2a 18.3
+- **Notes:** The CONTEXT documents *aukerak berdindu* as the example. An agent causes opportunities or things to become equal. Used in social and political discourse.
+
+---
+
+**2.13**
+- **Form:** *usteldu* (transitive reading)
+- **Example:** (no explicit transitive example given in CONTEXT)
+- **Transliteration:** N/A
+- **English translation:** To corrupt / To cause to rot
+- **Source:** P2a 22.2
+- **Notes:** The CONTEXT documents *usteldu* as covering both physical and moral/political senses, and notes it can be used transitively (causing corruption) as well as intransitively (becoming corrupt). However, no explicit transitive example sentence is provided in the CONTEXT; the documented example (*sistema usteldu da*) is intransitive.
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE THROUGH LIGHT-VERB CONSTRUCTIONS
+
+### Pattern
+Truth-domain nominal + light verb *egin* ("to do/make") or *esan* ("to say/tell").
+Documented in P4a §11 and P4b. These constructions encode caused events where the nominal names the act and the light verb carries inflection.
+
+### Attested forms from CONTEXT
+
+**3.1**
+- **Form:** *iruzurra egin*
+- **Example:** *Iruzurra egin*
+- **Transliteration:** N/A
+- **English translation:** To commit fraud / To cheat / To deceive
+- **Source:** P1 item 23; P2a 23.3; P2b 23.1; P4a §11
+- **Notes:** An agent causes a state of fraud or deception to come about. The CONTEXT documents this as the primary verbal strategy for *iruzurra* since no dedicated *-tu* verb is attested for this root.
+
+---
+
+**3.2**
+- **Form:** *itxura egin*
+- **Example:** *Itxura egin*
+- **Transliteration:** N/A
+- **English translation:** To pretend / To put on an appearance / To feign
+- **Source:** P1b 2.4; P2b 16.1; P4a §11
+- **Notes:** An agent causes a false appearance to come about. The CONTEXT documents this as one of the most common expressions for pretense in Basque.
+
+---
+
+**3.3**
+- **Form:** *gezurra esan*
+- **Example:** *Gezurra esan*
+- **Transliteration:** N/A
+- **English translation:** To tell a lie
+- **Source:** P1b 1.21; P2b 4.1; P4a §11
+- **Notes:** An agent causes a falsehood to be communicated. The CONTEXT documents this as the primary verbal collocation for the act of lying.
+
+---
+
+**3.4**
+- **Form:** *egia esan*
+- **Example:** *Egia esan*
+- **Transliteration:** N/A
+- **English translation:** To tell the truth
+- **Source:** P1b 1.1; P2b 1.1; P4a §11
+- **Notes:** An agent causes truth to be communicated. The CONTEXT documents this as the most basic and frequent collocation of *egia* in everyday speech.
+
+---
+
+**3.5**
+- **Form:** *egia gorde*
+- **Example:** *Egia gorde*
+- **Transliteration:** N/A
+- **English translation:** To hide the truth / To conceal the truth
+- **Source:** P2b 1.8
+- **Notes:** An agent causes truth to remain concealed. The CONTEXT documents *gorde* ("to keep, to hide, to conceal") as the verb in this collocation. Documented as a partial antonym of *egia esan* in P2b 1.8.
+
+---
+
+**3.6**
+- **Form:** *egia ukatu*
+- **Example:** *Egia ukatu*
+- **Transliteration:** N/A
+- **English translation:** To deny the truth
+- **Source:** P2b 1.20
+- **Notes:** An agent causes truth to be actively denied. The CONTEXT distinguishes this from *egia gorde* (concealment) by the implication of active denial in *ukatu*.
+
+---
+
+**3.7**
+- **Form:** *egia aitortu*
+- **Example:** *Egia aitortu*
+- **Transliteration:** N/A
+- **English translation:** To admit the truth / To confess the truth
+- **Source:** P2b 1.7
+- **Notes:** An agent causes truth to be acknowledged after prior concealment or denial. The CONTEXT notes the connotation of acknowledgment after resistance, distinguishing this from *egia esan*.
+
+---
+
+**3.8**
+- **Form:** *gezurra zabaldu*
+- **Example:** *Gezurra zabaldu*
+- **Transliteration:** N/A
+- **English translation:** To spread a lie / To disseminate a falsehood
+- **Source:** P2b 4.10
+- **Notes:** An agent causes a falsehood to circulate. The CONTEXT documents this in journalistic and political contexts relating to misinformation.
+
+---
+
+**3.9**
+- **Form:** *egia argitara atera*
+- **Example:** *Egia argitara atera*
+- **Transliteration:** N/A
+- **English translation:** To bring the truth to light
+- **Source:** P2b 1.9
+- **Notes:** An agent causes hidden truth to become known. The CONTEXT documents *argitara atera* ("to bring out into the light") as a productive collocation in Basque used in journalistic, legal, and literary contexts.
+
+---
+
+**3.10**
+- **Form:** *ustelkeria salatu*
+- **Example:** *Ustelkeria salatu*
+- **Transliteration:** N/A
+- **English translation:** To denounce corruption / To report corruption
+- **Source:** P2b 22.2
+- **Notes:** An agent causes corruption to become publicly known or officially reported. The CONTEXT documents *salatu* ("to denounce, to report, to accuse") as the verb in this collocation.
+
+---
+
+**3.11**
+- **Form:** *iruzurra salatu*
+- **Example:** *Iruzurra salatu*
+- **Transliteration:** N/A
+- **English translation:** To denounce fraud / To report fraud
+- **Source:** P2b 23.2
+- **Notes:** Parallel to *ustelkeria salatu* (3.10 above). The CONTEXT documents both as parallel constructions in P2b 22.2 and 23.2.
+
+---
+
+**3.12**
+- **Form:** *legitimotasuna zalantzan jarri*
+- **Example:** *Legitimotasuna zalantzan jarri*
+- **Transliteration:** N/A
+- **English translation:** To call legitimacy into question / To challenge legitimacy
+- **Source:** P2b 12.3
+- **Notes:** An agent causes legitimacy to enter a state of doubt. The CONTEXT documents *zalantzan jarri* ("to put into doubt") as a fixed phrase. The same construction applies to *autentikotasuna zalantzan jarri* (P2b 15.3) and *sinesgarritasuna galdu* (P2b 10.3) as related destabilizing actions.
+
+---
+
+**3.13**
+- **Form:** *autentikotasuna zalantzan jarri*
+- **Example:** *Autentikotasuna zalantzan jarri*
+- **Transliteration:** N/A
+- **English translation:** To call authenticity into question
+- **Source:** P2b 15.3
+- **Notes:** Parallel to *legitimotasuna zalantzan jarri* (3.12 above). The CONTEXT explicitly notes this parallel in P2b 15.3.
+
+---
+
+**3.14**
+- **Form:** *zuzen jarri*
+- **Example:** *Zuzen jarri*
+- **Transliteration:** N/A
+- **English translation:** To set straight / To put right / To correct
+- **Source:** P1b 3.26
+- **Notes:** An agent causes something to become straight or correct. The CONTEXT documents this in both physical and figurative senses. The verb *jarri* ("to put, to place, to set") functions as a light verb here with the adverbial *zuzen* ("straight, correct").
+
+---
+
+## 4. MAINTAINING A TRUTH-RELATED STATE (STABILITY EXPRESSIONS)
+
+### Pattern
+Stative *egon* ("to be," contingent) or *leial egon* / *leial izan* constructions.
+Documented in P4a §4 and P5 Opposition 32.
+
+### Attested forms from CONTEXT
+
+**4.1**
+- **Form:** *oker nago* / *oker egon*
+- **Example:** *Oker nago*
+- **Transliteration:** N/A
+- **English translation:** I am wrong / I am mistaken (stative, contingent)
+- **Source:** P1 item 7; P2b 7.1; P4a §4; P5 Opposition 32
+- **Notes:** The CONTEXT documents *egon* (stative copula) as marking a contingent, reversible state of being mistaken, contrasting with *izan* for inherent properties (P5 Opposition 32). The state is maintained as long as the *egon* construction holds; it can be exited (e.g., by being corrected).
+
+---
+
+**4.2**
+- **Form:** *leial egon*
+- **Example:** *Leial egon*
+- **Transliteration:** N/A
+- **English translation:** To remain loyal / To stay faithful
+- **Source:** P2b 21.1
+- **Notes:** The CONTEXT documents *leial egon* as expressing the maintenance of loyalty over time, using *egon* to mark a sustained state. The CONTEXT explicitly notes that *egon* marks a sustained state in this construction.
+
+---
+
+**4.3**
+- **Form:** *leial izan*
+- **Example:** *Leial izan*
+- **Transliteration:** N/A
+- **English translation:** To be loyal / To be faithful (inherent property)
+- **Source:** P2b 21.2
+- **Notes:** The CONTEXT documents *leial izan* as expressing loyalty as an inherent property, contrasting with *leial egon* (sustained contingent state). The CONTEXT explicitly notes the *egon*/*izan* distinction in P2b 21.2 and P4a §4.
+
+---
+
+**4.4**
+- **Form:** *itxurak gorde*
+- **Example:** *Itxurak gorde*
+- **Transliteration:** N/A
+- **English translation:** To keep up appearances / To maintain appearances
+- **Source:** P1b 2.6; P2b 16.2
+- **Notes:** The CONTEXT documents this as describing the social practice of maintaining outward appearances regardless of inner reality. The verb *gorde* ("to keep, to preserve") encodes the maintenance of a state (appearances) over time.
+
+---
+
+**4.5**
+- **Form:** *gezurra bizi da*
+- **Example:** *Gezurra bizi da*
+- **Transliteration:** N/A
+- **English translation:** The lie lives on / The lie persists
+- **Source:** P2b 4.9
+- **Notes:** The CONTEXT documents this as a rhetorical or literary construction describing a falsehood that continues to circulate or be believed. The verb *bizi* ("lives, is alive") encodes persistence of a state. Epistemic status is [MARGINAL] in P2b.
+
+---
+
+**4.6**
+- **Form:** *zintzoa izatea*
+- **Example:** *Zintzoa izatea*
+- **Transliteration:** N/A
+- **English translation:** Being honest / Being upright
+- **Source:** P2b 20.3
+- **Notes:** The CONTEXT documents this nominalized construction as referring to the quality or practice of honesty as an ongoing state or disposition. The *izatea* (verbal noun of *izan*) encodes the state as an inherent property rather than a contingent one.
+
+---
+
+**4.7**
+- **Form:** *zuzena izatea*
+- **Example:** *Zuzena izatea*
+- **Transliteration:** N/A
+- **English translation:** Being correct / Being right / Being just
+- **Source:** P1b 3.19; P2b 6.4
+- **Notes:** Parallel to *zintzoa izatea* (4.6 above). The CONTEXT documents this in philosophical and ethical discourse to refer to the state or quality of being correct or just as an ongoing disposition.
+
+---
+
+## 5. LOSS OF A TRUTH-RELATED STATE
+
+### Pattern
+Truth-domain abstract nominal + *galdu* ("to lose").
+Documented in P2b for credibility and loyalty.
+
+### Attested forms from CONTEXT
+
+**5.1**
+- **Form:** *sinesgarritasuna galdu*
+- **Example:** *Sinesgarritasuna galdu*
+- **Transliteration:** N/A
+- **English translation:** To lose credibility
+- **Source:** P2b 10.3; P5 Opposition 18
+- **Notes:** The CONTEXT documents this as describing the erosion of credibility of a person, institution, or source. The verb *galdu* ("to lose") encodes the transition from a state of credibility to its absence.
+
+---
+
+**5.2**
+- **Form:** *leialatasuna galdu*
+- **Example:** *Leialatasuna galdu*
+- **Transliteration:** N/A
+- **English translation:** To lose loyalty / To forfeit faithfulness
+- **Source:** P2b 21.4; P5 Opposition 19
+- **Notes:** The CONTEXT documents this as parallel to *sinesgarritasuna galdu* and explicitly notes the structural parallel in P2b 21.4.
+
+---
+
+**5.3**
+- **Form:** *usteldu* (intransitive, as documented in §1.2)
+- **Example:** *Sistema usteldu da*
+- **Transliteration:** N/A
+- **English translation:** The system has become corrupt / The system has decayed
+- **Source:** P2a 22.2
+- **Notes:** Also classifiable as a loss-of-integrity expression. The CONTEXT documents this as covering the transition from a state of integrity to corruption.
+
+---
+
+## 6. ACQUISITION OF A TRUTH-RELATED STATE
+
+### Pattern
+Truth-domain abstract nominal + *irabazi* ("to earn/gain") or *erakutsi* ("to show/demonstrate").
+Documented in P2b for credibility and loyalty.
+
+### Attested forms from CONTEXT
+
+**6.1**
+- **Form:** *sinesgarritasuna irabazi*
+- **Example:** *Sinesgarritasuna irabazi*
+- **Transliteration:** N/A
+- **English translation:** To gain credibility / To earn credibility
+- **Source:** P2b 10.4; P5 Opposition 18
+- **Notes:** The CONTEXT documents this as describing the building of credibility over time. The verb *irabazi* ("to earn, to win, to gain") encodes the acquisition of a state. Documented as the antonym of *sinesgarritasuna galdu* in P2b 10.4.
+
+---
+
+**6.2**
+- **Form:** *leialatasuna erakutsi*
+- **Example:** *Leialatasuna erakutsi*
+- **Transliteration:** N/A
+- **English translation:** To show loyalty / To demonstrate faithfulness
+- **Source:** P2b 21.3; P5 Opposition 19
+- **Notes:** The CONTEXT documents this as describing the demonstration of loyalty through action. The verb *erakutsi* ("to show, to demonstrate") encodes the making-visible of a state rather than its acquisition, but functions in the same semantic slot as *irabazi* in the loyalty domain.
+
+---
+
+## 7. SUMMARY TABLE
+
+| Construction Type | Example | Translation | Verb/Pattern | Source |
+|---|---|---|---|---|
+| **Become [wrong/corrupt]** | *Gauzak okertu dira* | Things have gone wrong | *-tu* intransitive | P1b 3.22; P4a §4 |
+| **Become [corrupt]** | *Sistema usteldu da* | The system has become corrupt | *-tu* intransitive | P2a 22.2 |
+| **Become [adapted]** | *Baldintzetara egokitu* | To adapt to the conditions | *-tu* + allative | P2a 19.2 |
+| **Cause [correction]** | *Akatsak zuzendu* | To correct the errors | *-tu* transitive | P1b 3.4; P4a §5 |
+| **Cause [invalidity]** | *Epaia baliogabetu* | To nullify the judgment | *-tu* transitive | P2a 11.5; P4a §5 |
+| **Cause [validity]** | *Baliozkotu* | To validate | *-tu* transitive | P2a 11.3 |
+| **Cause [legitimacy]** | *Boterea legitimatu* | To legitimize power | *-tu* transitive | P2a 12.2 |
+| **Cause [verification]** | *Datuak egiaztatu* | To verify the data | *-tu* transitive | P1b 1.6 |
+| **Cause [authentication]** | *Sinadura autentifikatu* | To authenticate a signature | *-tu* transitive | P2a 15.2 |
+| **Cause [falsification]** | *Dokumentua faltsifikatu* | To forge a document | *-tu* transitive | P2a 14.3 |
+| **Cause [precision]** | *Data zehaztu* | To specify the date | *-tu* transitive | P2a 8.2 |
+| **Cause [proof]** | *Fidagarria dela frogatu* | To prove that it is reliable | *-tu* transitive + *dela* clause | P2b 9.3 |
+| **Cause [equalization]** | *Aukerak berdindu* | To equalize opportunities | *-tu* transitive | P2a 18.3 |
+| **Cause [fraud]** | *Iruzurra egin* | To commit fraud | light verb *egin* | P2b 23.1; P4a §11 |
+| **Cause [pretense]** | *Itxura egin* | To pretend | light verb *egin* | P1b 2.4; P4a §11 |
+| **Cause [lie]** | *Gezurra esan* | To tell a lie | light verb *esan* | P1b 1.21; P4a §11 |
+| **Cause [truth-disclosure]** | *Egia esan* | To tell the truth | light verb *esan* | P1b 1.1; P4a §11 |
+| **Cause [concealment]** | *Egia gorde* | To hide the truth | light verb *gorde* | P2b 1.8 |
+| **Cause [denial]** | *Egia ukatu* | To deny the truth | light verb *ukatu* | P2b 1.20 |
+| **Cause [admission]** | *Egia aitortu* | To admit the truth | light verb *aitortu* | P2b 1.7 |
+| **Cause [revelation]** | *Egia argitara atera* | To bring the truth to light | periphrastic | P2b 1.9 |
+| **Cause [doubt of legitimacy]** | *Legitimotasuna zalantzan jarri* | To call legitimacy into question | *zalantzan jarri* | P2b 12.3 |
+| **Cause [correction/straightening]** | *Zuzen jarri* | To set straight | light verb *jarri* | P1b 3.26 |
+| **Maintain [mistaken state]** | *Oker nago* | I am wrong (stative) | *egon* | P2b 7.1; P4a §4 |
+| **Maintain [loyalty, contingent]** | *Leial egon* | To remain loyal | *egon* | P2b 21.1 |
+| **Maintain [loyalty, inherent]** | *Leial izan* | To be loyal | *izan* | P2b 21.2 |
+| **Maintain [appearances]** | *Itxurak gorde* | To keep up appearances | *gorde* | P1b 2.6 |
+| **Maintain [lie, persistence]** | *Gezurra bizi da* | The lie lives on | *bizi* | P2b 4.9 |
+| **Lose [credibility]** | *Sinesgarritasuna galdu* | To lose credibility | *galdu* | P2b 10.3 |
+| **Lose [loyalty]** | *Leialatasuna galdu* | To lose loyalty | *galdu* | P2b 21.4 |
+| **Gain [credibility]** | *Sinesgarritasuna irabazi* | To earn credibility | *irabazi* | P2b 10.4 |
+| **Show [loyalty]** | *Leialatasuna erakutsi* | To demonstrate loyalty | *erakutsi* | P2b 21.3 |
+
+---
+
+## 8. STRUCTURAL OBSERVATIONS
+
+The following observations are drawn from the patterns documented above. They report what the CONTEXT data shows; no claims are made beyond what is attested.
+
+**8.1 Asymmetry between truth and falsity roots in dynamic encoding**
+
+The CONTEXT documents a systematic asymmetry: the *egia-* root generates a productive inchoative/causative verb (*egiaztatu*, "to verify/certify") while the *gezurr-* root does not. The CONTEXT explicitly notes this gap in P2a item 4: "No verbal derivation parallel to *egiaztatu* is identified as a common form" for *gezurr-*. Dynamic expressions involving *gezurra* are encoded through light-verb constructions (*gezurra esan*, *gezurra zabaldu*) rather than through a dedicated *-tu* verb.
+
+**8.2 The *-tu* verb as the primary dynamic morpheme**
+
+Across the domain, the *-tu* suffix is the primary morphological device for encoding both inchoative ("become X") and causative ("cause X to become Y") meanings. The CONTEXT documents in P4a §4–5 that these two readings are not morphologically distinguished; transitivity (and therefore the causative vs. inchoative reading) is determined by argument structure alone.
+
+**8.3 The *egon*/*izan* distinction encodes contingency vs. inherence**
+
+The CONTEXT documents in P4a §4, P4b, and P5 Opposition 32 that *egon* (stative copula) marks contingent, reversible states (e.g., *oker nago*, "I am [currently] wrong") while *izan* (equative copula) marks inherent properties (e.g., *zuzena da*, "it is [inherently] correct"). This distinction is the primary grammatical device for encoding whether a truth-related state is stable or contingent.
+
+**8.4 *Galdu* and *irabazi* as the primary verbs for loss and acquisition of abstract truth-related properties**
+
+The CONTEXT documents *galdu* ("to lose") and *irabazi* ("to earn/gain") as the verbs used with abstract *-tasun* nominals (*sinesgarritasuna*, *leialatasuna*) to encode loss and acquisition of truth-related properties. This pattern is attested for credibility and loyalty; it is not attested in the CONTEXT for other *-tasun* nominals in this domain (e.g., *egiazkotasuna galdu*, "to lose truthfulness," is not documented).
+
+**8.5 *Zalantzan jarri* as a fixed destabilizing construction**
+
+The CONTEXT documents *zalantzan jarri* ("to put into doubt") as a fixed phrase that combines with truth-related abstract nominals (*legitimotasuna*, *autentikotasuna*) to encode the destabilization of a truth-related status. This construction is attested for legitimacy and authenticity; it is not attested in the CONTEXT for other nominals in the domain.
+
+**8.6 No dynamic constructions attested for several P1 items**
+
+The following P1 items have no dynamic (becoming, causing, losing, gaining) constructions documented in the CONTEXT: *antzekoa*, *berdintsua*, *egokia* (beyond *egokitu*), *zintzoa* (beyond nominalized *zintzoa izatea*), *itxurakoa* (beyond *itxura egin* and *itxurak gorde*). For these items, the CONTEXT documents only static attributive, predicative, or adverbial uses.
+
+---
+
+*End of P6 CHANGE, CAUSATION, AND STABILITY output.*

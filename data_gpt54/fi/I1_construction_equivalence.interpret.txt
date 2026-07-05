@@ -1,0 +1,120 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **X on totta / tosi / epätosi / laillinen / oikea / uskottava / luotettava** | **Se on totta.**; **Väite on epätosi.** | Direct match to attribution via copular clause with **olla** + predicate | — |
+| ADNOM | **[Adjective + Noun]** with **aito / autenttinen / alkuperäinen / väärä / virheellinen / oikea / paikkansapitävä + N** | **aito nahka**; **virheellinen tieto** | Direct match to adnominal modification | — |
+| BECOME | **tulla todeksi** | **Uni tuli todeksi.** | Direct match to inchoative/become construction; light/change-of-state verb **tulla** carries operator, **todeksi** is translative result predicate | — |
+| REVELATION | **osoittautua epätodeksi / paljastua väärennökseksi** | **Väite osoittautui epätodeksi.** | Attested as revelation/discovery-type outcome; overlaps functionally with BECOME in verification/discovery contexts | — |
+| CAUSATION (factual) | **todistaa jokin**; also resultative **tehdä jokin uskottavaksi** | **Todisteet todistavat väitteen oikeaksi.**; **Hän teki tarinan uskottavaksi.** | Available, but lexically restricted; no single general causative operator across domain | Partial availability; lexical restriction |
+| CAUSATION (character) | **tehdä jokin uskottavaksi**; **pitää jotakuta luotettavana** only for evaluation, not causation | **Hän teki tarinan uskottavaksi.**; **Pidän häntä luotettavana.** | Only partial causative expression for credibility/believability; broader character-domain causation not generalized | NO COMMON EXPRESSION - circumlocution required |
+| VERIFICATION | **pitää paikkansa**; **On totta, että ...**; **todistaa jokin** | **Pitää paikkansa, että päätös viivästyi.**; **On totta, että asia on vaikea.**; **Todisteet todistavat väitteen oikeaksi.** | Verification is expressed through factual-evaluation and proof constructions rather than a distinct dedicated operator class | Available with overlap from ATTR / CLAUSAL EVALUATION / factual CAUSATION |
+| DISCONFIRMATION | **X ei pidä paikkaansa**; **osoittautua epätodeksi** | **Väite ei pidä paikkaansa.**; **Väite osoittautui epätodeksi.** | Negative factual evaluation and revelation/discovery both serve disconfirmation | Available with overlap from NEGATION / REVELATION |
+| NEGATION | **X ei ole totta / tosi / laillinen / uskottava**; **X ei pidä paikkaansa** | **Se ei ole tosi.**; **Väite ei pidä paikkaansa.** | Analytic negation with finite **ei**; no morphological negation construction described here | — |
+| NOMINALIZATION | **-uus/-yys, -us** nominalizations: **totuus, todellisuus, aitous, oikeudenmukaisuus, luotettavuus, uskottavuus** | **Totuus tulee ilmi.**; **Lähteen luotettavuus on tärkeä.** | Direct match to abstract nominalization | — |
+
+## 2. Substitution Patterns (Narrative)
+
+Finnish shows direct support for core **ATTR**, **ADNOM**, **BECOME**, **NEGATION**, and **NOMINALIZATION** patterns in the truth domain.
+
+### Revelation vs. Become
+**REVELATION** is clearly attested through **osoittautua epätodeksi** and **paljastua väärennökseksi**. It does not replace **BECOME** across the board, because **BECOME** is directly attested in **tulla todeksi**. However, in falsity/discovery contexts, revelation-type verbs appear to carry functions that are close to inchoative outcome marking. Descriptively:  
+- positive realization: **tulla todeksi**  
+- discovered falsity / exposed status: **osoittautua epätodeksi**, **paljastua väärennökseksi**
+
+So REVELATION does not substitute for BECOME generally, but it does cover part of the same result-domain space, especially retrospective evaluation.
+
+### Discovery / verification vs. causation
+The notes explicitly state that there is **no single general causative verb** for the whole semantic domain. Instead, Finnish uses lexical verbs such as **todistaa** and **oikeuttaa**, or the result construction **tehdä jokin uskottavaksi**. This means factual causation is not expressed by one uniform construction.
+
+Because of this, **VERIFICATION** often carries functions that might elsewhere be associated with causative truth-making:
+- **todistaa jokin** ‘prove something’
+- **pitää paikkansa**
+- **On totta, että ...**
+
+So verification does not fully replace causation, but causation is lexically restricted and verification/proof constructions are more clearly established.
+
+### Negation type
+**NEGATION** is analytic, not morphological, in the constructions provided:
+- **ei ole**
+- **ei pidä paikkaansa**
+
+No morphological negation pattern is described for the construction itself.
+
+### Verification and disconfirmation
+**VERIFICATION** and **DISCONFIRMATION** partly share the same constructional base:
+- positive: **pitää paikkansa**, **On totta, että ...**
+- negative: **ei pidä paikkaansa**, **ei ole tosi**
+
+This is a clear asymmetry with shared operator material in the **pitää paikkansa** pattern, where disconfirmation is formed analytically by negating the same expression.
+
+### Truth vs. falsity asymmetry
+There is a descriptive asymmetry in the result domain:
+- truth realization is expressed by **tulla todeksi**
+- falsity after checking/discovery is expressed by **osoittautua epätodeksi**
+
+So positive and negative outcomes are not shown with one single symmetric construction in the data.
+
+### Character vs. factual domains
+The material distinguishes factual correctness from credibility/reliability:
+- factual: **totta**, **epätosi**, **pitää paikkansa**, **todistaa**
+- character/evaluation: **uskottava**, **luotettava**, **tehdä ... uskottavaksi**, **pitää ... luotettavana**
+
+This means character-related causation is less broadly supported than factual attribution/evaluation.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- No clear structural gap for **ATTR**, **ADNOM**, **BECOME**, **REVELATION**, **NEGATION**, or **NOMINALIZATION**.
+- **CAUSATION (factual)**: no single general causative construction across the whole truth domain; only lexically distributed patterns.
+- **CAUSATION (character)**: no broad general construction established; only limited circumlocutory/resultative expressions.
+
+### Lexical Gaps
+- No simple core lexicalized single-word agent noun for ‘truth-teller’ is supported in the provided material. The notes explicitly say Finnish often uses periphrastic **puhua totta** instead.
+- For causation, there is a lexical gap in the sense that no single general verb means “make true/authentic” across the whole domain.
+
+### Conceptual Gaps
+- No conceptual gap is directly established for truth attribution, negation, verification, or nominalization.
+- The main limitation is operational distribution: causation is not generalized as one operator across the domain.
+
+### Asymmetric Gaps
+- Positive and negative result expressions are asymmetric:
+  - positive becoming: **tulla todeksi**
+  - negative discovered falsity: **osoittautua epätodeksi**
+- Verification and disconfirmation are more robustly expressed than generalized causation.
+- Character-domain causation is weaker than factual-domain attribution and verification.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **REVELATION**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **VERIFICATION**  
+  Expressed through **pitää paikkansa**, **On totta, että ...**, and **todistaa jokin**
+- **DISCONFIRMATION**  
+  Expressed through **ei pidä paikkaansa**, **ei ole tosi**, and **osoittautua epätodeksi**
+
+### Partially available
+- **CAUSATION (factual)**  
+  Available through lexical verbs and result constructions: **todistaa jokin**, **oikeuttaa jokin**, **tehdä jokin uskottavaksi**; not a single general causative pattern
+- **CAUSATION (character)**  
+  Only limited support via **tehdä jokin uskottavaksi**; broader operator not established
+
+### Missing entirely
+- None of the requested canonical categories is completely unattested, but **CAUSATION (character)** lacks a broad common expression and is best treated as: **NO COMMON EXPRESSION - circumlocution required**
+
+### Normalized operator notes
+- **olla** functions as the copular carrier in **ATTR**
+- **tulla** functions as a light/change-of-state carrier in **BECOME**
+- **osoittautua** and **paljastua** function as revelation/discovery verbs in **REVELATION**
+- **tehdä** functions as a light/resultative carrier in limited causative expressions
+- **pitää paikkansa** is a fixed verbal expression used for factual verification/disconfirmation
+- **pitää + object + essive** is an evaluative complement construction, not direct causation
+
+If you want, I can also convert this into a stricter CLCA audit format with one line per operator and explicit labels like “DIRECT / SUBSTITUTED / MISSING.”

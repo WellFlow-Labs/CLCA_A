@@ -1,0 +1,437 @@
+# G8 — Candidate Universals, Outliers, and Open Questions
+
+---
+
+## 1. Candidate Universals / Strong Tendencies
+
+---
+
+### CU-1: Predicative attribution of truth-value is universally available
+
+**Statement.** In all attested languages, truth-domain terms can appear as predicates in copular or zero-copula constructions attributing truth-value to propositions, entities, or situations. No dimension within the truth domain blocks this function.
+
+**Evidence summary.** CF1 (predicative attribution) is rated ALLOWED across all 8 languages (ka, yo, fi, eu, ta, id, tr, ko) and across all 16 dimensions with sufficient data. Realization strategies differ substantially: Georgian uses an overt copular suffix (-a on adjectives); Yoruba maintains two copular strategies with different pragmatic force (jẹ́ neutral, ni emphatic/contrastive); Finnish uses copula olla with partitive case; Basque uses da; Tamil, Indonesian, Turkish, and Korean use zero copula in present tense third person. Despite this morphological diversity, the function is universally available. The G7a matrix shows no BLOCKED or VARIABLE cells for CF1 across any dimension with sufficient data.
+
+**Caveats / exceptions.** The zero-copula vs. overt-copula variation is substantial and language-specific. Yoruba's two-strategy system (neutral vs. emphatic copula) is not found in other languages. For peripheral dimensions (N, P), the evidence is thinner, but no blocking is documented. The universality claim is limited to the 8 languages in the dataset; it cannot be extended to all human languages without further evidence.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-2: Binary opposition between truth and falsehood is universally lexicalized
+
+**Statement.** All attested languages maintain a dedicated lexical opposition between a primary term for truth or correctness and a primary term for falsehood or lying. This opposition is the most elaborated contrast in the truth domain across all languages.
+
+**Evidence summary.** All 8 languages show a core lexical pair: ka simart'le/ṭq'uili, yo òtítọ́/irọ́, fi totuus/valhe, eu egia/gezurra, ta uṇmai/poy, id kebenaran/kebohongan, tr doğruluk/yalan, ko jinsil/geojit. In all languages, both poles generate productive derivational families, appear in parallel light verb constructions (tell truth / tell lie), and participate in disjunctive binary choice constructions (true or false). The G5 comparison shows CF21 (disjunctive binary choice) is ALLOWED in all 8 languages. The G6 comparison documents this opposition across all languages as the primary lexical contrast.
+
+**Caveats / exceptions.** The specific terms differ entirely across language families. In some languages (Turkish doğru, Yoruba tọ́), the primary truth term is polysemous across multiple dimensions (propositional truth, moral rightness, physical direction), while the falsehood term is more narrowly scoped. The degree of derivational elaboration differs: Korean geojit generates more compounds than jinsil; Finnish valhe is less derivationally productive than totuus. The opposition is present in all languages but is not always symmetric in elaboration.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-3: Light verb constructions are the primary realization of truth-telling and lying as speech acts
+
+**Statement.** In all attested languages, the acts of telling the truth and telling a lie are expressed through light verb constructions combining a truth or falsehood noun with a speech verb, rather than through a single dedicated verb for each act. This pattern holds across all language families represented.
+
+**Evidence summary.** CF9 (light verb: speech acts) is rated ALLOWED for Dimension A in all 8 languages. The specific verbs differ: ka t'qva "say," yo sọ "say" / pa "do/make," fi puhua "speak," eu esan "say," ta col "say," id mengatakan "say," tr söylemek "say," ko malhada "say." In Basque, the light verb construction is obligatory for lying (no simple verb *gezurtu exists). In other languages, simple verbal forms exist alongside light verb constructions (Finnish valehdella, Georgian moṭq'ueba, Indonesian berbohong), but the light verb pattern remains productive and frequent. The G5 analysis identifies this as one of the most robust cross-linguistic patterns in the data.
+
+**Caveats / exceptions.** Several languages have simple verbal forms for lying alongside the light verb construction (Finnish valehdella "to lie," Indonesian berbohong "to lie"), so the light verb pattern is not always obligatory. Yoruba uses a different verb for lying (pa irọ́ "do/make a lie") than for truth-telling (sọ òtítọ́ "say truth"), introducing a verb-selection asymmetry not found in all languages. Turkish shows a morphological asymmetry: the truth-telling construction takes accusative case on the truth noun (doğruyu söylemek) while the lying construction does not (yalan söylemek), a lexicalized irregularity. Korean uses different verbs for truth-telling (malhada "say") and lying (hada "do"), another verb-selection asymmetry.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-4: Abstract nominalization from truth-domain adjectives or verbs is universally productive
+
+**Statement.** All attested languages derive abstract nouns from truth-domain adjectives or verbs, creating terms for the quality or state of being true, honest, correct, genuine, etc. The suffixes involved are entirely language-specific, but the functional pattern is universal.
+
+**Evidence summary.** CF6 (abstract nominalization) is rated ALLOWED for all core dimensions (A through M) across all 8 languages. Suffixes differ entirely: ka -oba/-eba (samart'lianoba "justice"), yo ì- prefix (ìgbàgbọ́ "belief"), fi -uus/-yys (totuus "truth," rehellisyys "honesty"), eu -tasun (zintzotasuna "honesty"), ta -mai/-taṉmai (uṇmaittaṉmai "truthfulness"), id ke-...-an (kejujuran "honesty"), tr -luk/-lık (doğruluk "truth/honesty"), ko -seong (jinsilseong "truthfulness"). The G4 derivation comparison confirms this as one of the most universally productive strategies in the domain.
+
+**Caveats / exceptions.** For peripheral dimensions (N: Plausibility, P: Consistency/Coherence), the evidence is more variable: some languages have dedicated abstract nominals (Finnish uskottavuus "believability," Turkish tutarlılık "consistency") while others do not. The AOML comparison notes a potential conflict for Dimension N if it maps to LIFE (AOML blocks ABSTR × LIFE), but the mapping itself is uncertain. The universality claim is secure for core dimensions but weaker for peripheral ones.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-5: Revelation constructions are universally productive for truth emergence
+
+**Statement.** All attested languages show productive constructions for truth being revealed, coming to light, or emerging from concealment. Both intransitive variants (truth reveals itself) and transitive variants (an agent reveals truth) are attested in all languages. The intransitive variant is consistently preferred in narrative contexts.
+
+**Evidence summary.** CF12a (revelation constructions) is rated ALLOWED for all 8 languages. Specific verbs differ: ka gamovlinda (intransitive), gamoač'ina (transitive); yo fi...hàn "show," irọ́ jáde "lie comes out"; fi paljastua (intransitive), paljastaa (transitive); eu agertu (intransitive), atera (transitive); ta veḷippaṭu (intransitive), veḷippaṭuttu (transitive); id ternyata (grammaticalized evidential), mengungkap (transitive); tr ortaya çıkmak (intransitive), ortaya çıkarmak (transitive); ko balkhyeojida (passive/intransitive), balkhida (transitive). The G5 analysis identifies the intransitive preference in narrative contexts as consistent across all languages. The G7b comparison notes strong support for AOML's provisional REVEAL operator from this finding.
+
+**Caveats / exceptions.** The specific verbs and constructions differ substantially across languages. Indonesian ternyata is a grammaticalized evidential marker ("it turns out") rather than a dedicated revelation verb, representing a more advanced stage of grammaticalization than other languages. The concealment construction (CF12b) is also universally productive but is not the focus of this candidate universal.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-6: Discourse markers grammaticalized from truth roots are universally present, and this grammaticalization is asymmetric (truth roots grammaticalize; falsehood roots do not)
+
+**Statement.** All attested languages show at least one truth-domain form that has grammaticalized into a discourse marker introducing corrections, frank statements, or factual information. In no attested language does a falsehood root follow this grammaticalization path.
+
+**Evidence summary.** CF18 (discourse marker function) is rated ALLOWED for Dimension A in all 8 languages, with a consistent asymmetry: ka mart'la/namdvilad, yo ní òtítọ́, fi totta puhuen/rehellisesti sanottuna, eu egia esan/benetan, ta uṇmaiyil, id sebenarnya/sejujurnya, tr doğrusu/aslında, ko sasireun. In all 8 languages, the grammaticalized form derives from a truth or honesty root. In no language does a falsehood root (Georgian ṭq'uili, Yoruba irọ́, Finnish valhe, Basque gezurra, Tamil poy, Indonesian bohong, Turkish yalan, Korean geojit) grammaticalize into a discourse marker. The G4 derivation comparison identifies this as one of the most robust cross-linguistic patterns in the data.
+
+**Caveats / exceptions.** The specific grammaticalized forms differ across languages, and the degree of grammaticalization varies: some forms (Indonesian sebenarnya, Korean sasireun) are highly grammaticalized discourse particles, while others (Finnish totta puhuen "truthfully speaking") retain more compositional transparency. The asymmetry is consistent but the underlying reason is not established by the data alone — it may reflect that truth is the default epistemic state and discourse markers signal departures from or confirmations of this default.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-7: Agentive nominalization for habitual liars is more lexicalized than for habitual truth-tellers across all attested languages
+
+**Statement.** In all attested languages, agentive forms for habitual liars are more lexicalized, more productive, or use more dedicated morphology than corresponding forms for habitual truth-tellers. Where positive agentives exist, they use different morphological strategies than the liar agentive.
+
+**Evidence summary.** All 8 languages show this asymmetry. Liar agentives: ka maṭq'uara (ma-+root+-ar-+-a), yo apurọ́ (a-+purọ́), fi (no dedicated suffix but liar concept more lexicalized), eu gezurtia (-ti suffix), ta poyyan (-an masculine suffix), id pembohong (peN- prefix), tr yalancı (-cı suffix), ko geojinmaljaengi (-jaengi suffix). Truth-teller agentives: ka (no standard agentive), yo olótítọ́ (oní- possessive prefix, different strategy), fi (no dedicated agentive), eu egiazale (-zale "enthusiast" suffix, different strategy), ta uṇmaiyāḷar (honorific -āḷar suffix, different strategy), id (no standard agentive), tr (no standard agentive), ko (no attested *jinsiljaengi). The G6 comparison documents this as the most consistent cross-linguistic finding in the morphological data. The G7a matrix rates CF7b (positive agentive) as VARIABLE with a consistent asymmetric pattern across all 8 languages.
+
+**Caveats / exceptions.** Finnish lacks a dedicated agentive suffix for either liars or truth-tellers, making it a weak case for both poles. Yoruba olótítọ́ and Basque egiazale are attested positive agentives, but they use different morphological strategies than the corresponding liar agentives. The asymmetry is consistent in direction but varies in degree: some languages (Georgian, Indonesian, Turkish, Korean) show complete absence of positive agentives, while others (Yoruba, Basque, Tamil) show positive agentives with different morphology.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-8: Causing a proposition to acquire truth value is universally unavailable as a productive construction
+
+**Statement.** In all attested languages, no productive morphological or light verb causative construction exists for the specific meaning "cause a proposition to acquire truth value" (i.e., "make X true" in the sense of changing its truth-value from false to true). All causative constructions in the truth domain mean "to verify," "to realize/implement," "to confirm," or "to authenticate" — not "to make true."
+
+**Evidence summary.** CF5 (causative) × Dimension A (Propositional Correspondence) is rated BLOCKED in the G7a matrix, supported by all 8 languages. The F6 naturalness data explicitly marks this as unnatural or absent in ka, eu, fi, ta, and id. The remaining languages (yo, tr, ko) show the same pattern through absence of attested forms. Basque explicitly blocks the morphological causative suffix -arazi on truth roots. Turkish gerçekleştirmek "to realize/implement" and Finnish toteuttaa "to implement" are productive causatives but mean "to make real/actual" in the sense of implementing plans, not "to cause a proposition to acquire truth value." The G7b comparison identifies this as the most significant conflict with AOML (which predicts restricted, not blocked).
+
+**Caveats / exceptions.** The blocking is specific to propositional truth-value causation. Causative constructions for verification/confirmation (establishing that something is true) are attested in several languages (ka daadast'ura, fi todentaa, id membenarkan). Causative constructions for realization/implementation (making plans or goals actual) are productive in Turkish and Finnish. The blocking is not a general prohibition on causation in the truth domain but specifically on causing a proposition to change its truth-value. This distinction is not always cleanly captured in the empirical ratings.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-9: Core truth terms resist gradable comparison across all attested languages
+
+**Statement.** In all attested languages, core truth terms (true/false, real/fake, honest/dishonest) resist degree modification and gradable comparison. These terms are treated as categorical rather than scalar. Precision and certainty terms show more gradability than core truth terms.
+
+**Evidence summary.** CF19 (comparative/scalar constructions) is rated VARIABLE for Dimension A and BLOCKED for Dimension D (Material Authenticity) in the G7a matrix. The F6 naturalness data for fi, ko, and eu explicitly notes that truth is treated as binary. No language shows productive gradable comparison of authenticity terms (something being "more genuine" or "somewhat fake"). Yoruba shows some degree modification on tọ́ (ó tọ́ púpọ̀ "very correct," ó tọ́ díẹ̀ "somewhat correct"), and Indonesian shows benar sekali "very true" and kurang benar "not quite correct," but these are intensifiers and hedged negations rather than true gradable comparisons. Precision terms (ka zusti, fi tarkka, id akurat) and certainty terms (eu ziurra, tr kesin, ko hwaksilhada) show more gradability.
+
+**Caveats / exceptions.** Yoruba tọ́ shows degree modification more readily than truth terms in other languages, making it a partial exception. Indonesian kurang benar "not quite correct" is a productive hedged negation strategy that approaches scalar modification. The distinction between intensifiers (very true) and true gradable comparison (more true than X) is not always cleanly captured in the data. The claim is strongest for material authenticity (Dimension D) and weaker for propositional correspondence (Dimension A).
+
+**Confidence rating.** HIGH for Dimension D (authenticity); MEDIUM for Dimension A (propositional truth)
+
+---
+
+### CU-10: The factual/moral honesty distinction is universally present but variably lexicalized
+
+**Statement.** All attested languages maintain some distinction between terms for propositional truth (whether a statement corresponds to facts) and terms for moral honesty (whether a person is characterized by truthfulness as a virtue). The degree of lexical separation varies substantially across languages.
+
+**Evidence summary.** All 8 languages maintain dedicated vocabulary for both Dimension A (Propositional Correspondence) and Dimension B (Moral Honesty). The clearest separations: fi tosi/totuus (propositional) vs. rehellinen/vilpitön (moral honesty); id benar (propositional) vs. jujur (moral honesty); ko jinsil/sasil (propositional) vs. jeongjik/soljik (moral honesty). Partial mergers: yo tọ́ covers both propositional correctness and moral rightness; tr doğru covers both propositional truth and moral rightness; ka mart'ali spans both epistemic and moral evaluation. The G2 comparison documents this as a universal distinction with variable lexical realization.
+
+**Caveats / exceptions.** In Yoruba and Turkish, the primary truth term (tọ́, doğru) covers both propositional and moral domains without a sharp lexical boundary. The distinction is present in all languages but is not always lexicalized as a sharp boundary. The degree of separation varies from clear (Finnish, Indonesian, Korean) to partial (Yoruba, Turkish, Georgian).
+
+**Confidence rating.** HIGH for presence of distinction; MEDIUM for degree of lexical separation
+
+---
+
+### CU-11: Authenticity/genuineness of objects is universally lexicalized as a distinct semantic area
+
+**Statement.** All attested languages maintain dedicated vocabulary for distinguishing genuine from fake objects, documents, or goods (Dimension D: Material Authenticity). This vocabulary is partially distinct from propositional truth vocabulary in most languages.
+
+**Evidence summary.** All 8 languages show dedicated authenticity/counterfeit vocabulary: ka namdvili/q'albi, yo gidi/kì í ṣe gidi, fi aito/väärennös, eu benetako/faltsua, ta acal/poyp poruḷ, id asli/palsu, tr asıl/sahte, ko jinjja/gajja. Forgery vocabulary is productive in all 8 languages (ka gaq'albeba, fi väärentää, eu faltsutu, ta poyeḻuttu, id memalsukan, tr sahtekârlık, ko wijo). The G2 comparison documents this as a universal grouping. The G7a matrix shows CF1, CF2, CF3, CF6 all ALLOWED for Dimension D across all languages.
+
+**Caveats / exceptions.** The degree of separation from propositional truth vocabulary varies: Finnish and Indonesian show the clearest separation (aito vs. tosi; asli vs. benar); Georgian, Tamil, and Turkish use the same terms for both propositional truth and material authenticity (namdvili, uṇmaiyāna, gerçek). The boundary between Dimension C (Ontological Reality) and Dimension D (Material Authenticity) is not always sharp.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-12: Privative constructions marking "without lies/falsehood" are more productive than constructions marking "without truth"
+
+**Statement.** Across attested languages, constructions expressing the absence of deception or falsehood (meaning "truthful," "sincere," "without lies") are more lexicalized and productive than corresponding constructions expressing the absence of truth. The absence of deception is marked; the absence of truth is not.
+
+**Evidence summary.** Multiple languages show productive privative constructions for "without lies/falsehood": ka uṭq'uari (u- + lie root = "without lie" = truthful), yo àìpurọ́ (àì- + purọ́ = "not lying"), fi vilpitön (vilppi "deceit" + -tön "without" = sincere), eu gezurrik gabe (without lie), ta kaḷḷamillāmai (absence of deceit = sincerity), id tanpa kebohongan (without lies), ko geojiseobsi (without lies). In no attested language does a corresponding construction for "without truth" appear as a productive or lexicalized form. The G6 comparison documents this asymmetry across multiple languages.
+
+**Caveats / exceptions.** The privative strategy is morphological in some languages (ka u-, fi -tön, yo àì-) and constructional in others (id tanpa, ko -없이). Turkish lacks a dedicated privative form for either direction, making it a symmetric gap rather than an asymmetric one. The asymmetry is consistent in direction but varies in degree across languages.
+
+**Confidence rating.** MEDIUM-HIGH (consistent direction across 6–7 languages; Turkish is a symmetric gap)
+
+---
+
+### CU-13: Saturation/totality expressions for falsehood are more productive than for truth
+
+**Statement.** Across attested languages, expressions meaning "full of lies," "riddled with falsehood," or "complete lie" are more lexicalized and productive than corresponding expressions for "full of truth." This asymmetry parallels the agentive and privative asymmetries.
+
+**Evidence summary.** Multiple languages show productive saturation expressions for falsehood: ko geojittuseongi "full of lies" (-tuseongi suffix), tr yalan dolan "full of lies" (alliterative fixed pair), eu gezur-gezurra "complete lie" (reduplication), ka ṭq'uilubralo "simple/ordinary" (from lie root, extended meaning). In no attested language does a corresponding expression for "full of truth" appear as a productive or lexicalized form. The G6 comparison documents this asymmetry.
+
+**Caveats / exceptions.** The saturation expressions differ substantially in morphological strategy across languages: Korean uses a dedicated suffix, Turkish uses an alliterative fixed pair, Basque uses reduplication. Finnish, Yoruba, Tamil, and Indonesian lack dedicated saturation suffixes in the truth domain for either pole, making them symmetric gaps. The asymmetry is documented in 4 of 8 languages; the remaining 4 show symmetric gaps rather than the asymmetry.
+
+**Confidence rating.** MEDIUM (consistent direction in languages that have saturation expressions; several languages lack the construction entirely)
+
+---
+
+### CU-14: Verification and authentication processes are universally lexicalized as a distinct semantic area
+
+**Statement.** All attested languages maintain dedicated vocabulary for the processes of establishing, confirming, or certifying the truth, accuracy, or authenticity of claims, documents, or identities through investigation, evidence, or formal procedures (Dimension G: Verification/Authentication).
+
+**Evidence summary.** All 8 languages show dedicated verification vocabulary: ka damoc'meba/daadast'ura, yo ìfẹ̀sẹ̀múlẹ̀/fẹsẹ̀ múlẹ̀, fi todistaa/todentaa/todistus, eu egiazkotu/egiaztatu/frogatu, ta meyppu/uṇmaippaṭuttu, id membenarkan/memvalidasi, tr doğrulamak/kanıtlamak, ko sasil hwagin/jinsilgyumyeong. Finnish shows the most elaborate vocabulary for this dimension (todistaa, todentaa, todeta, todistus, todistaja, todistustaakka, todistusaineisto). The G7a matrix shows CF6, CF8, CF10, CF11 all ALLOWED or VARIABLE for Dimension G across all languages.
+
+**Caveats / exceptions.** The degree of elaboration varies substantially: Finnish shows the most elaborate verification vocabulary; Yoruba and Korean show less dedicated vocabulary. The boundary between verification (Dimension G) and revelation (Dimension H) is not always sharp. The universal gap noted in CU-8 (no causative for "making X true") applies here: verification constructions establish that something is true rather than causing it to be true.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-15: Moral righteousness / justice is universally lexicalized as a distinct semantic area from moral honesty
+
+**Statement.** All attested languages maintain some distinction between terms for moral honesty (whether a person tells the truth) and terms for moral righteousness or justice (whether conduct, judgments, or persons conform to moral or legal standards of rightness and fairness). The degree of elaboration varies substantially.
+
+**Evidence summary.** All 8 languages show vocabulary for Dimension J (Moral Righteousness/Justice): ka samart'liani/samart'lianoba, yo òdodo/olódodo, fi oikeudenmukainen/oikeudenmukaisuus, eu zuzentasun morala, ta niyāyam, id adil/keadilan, tr adil/adalet/hakça, ko jeongdanghada/jeongdangseong. In all languages, these terms are distinct from the moral honesty vocabulary (Dimension B). The G2 comparison documents this as a universal distinction. Yoruba shows the most elaborate vocabulary for this dimension (òdodo family).
+
+**Caveats / exceptions.** The degree of elaboration varies substantially: Yoruba and Georgian show the most elaborate vocabulary; Tamil, Indonesian, and Korean show this dimension with less dedicated vocabulary. The boundary between moral righteousness (J) and legal validity (K) is not always sharp. The G7b comparison notes that AOML maps both J and K to NORM, collapsing a distinction that the empirical data treats as real.
+
+**Confidence rating.** HIGH for presence of distinction; MEDIUM for degree of lexical separation from Dimension B
+
+---
+
+### CU-16: Concealment constructions are universally productive and consistently paired with revelation constructions
+
+**Statement.** All attested languages show productive constructions for truth being hidden, covered, or suppressed. These constructions are consistently paired with revelation constructions as an opposition, and the concealment construction is consistently transitive (an agent hides truth) while the revelation construction has both transitive and intransitive variants.
+
+**Evidence summary.** CF12b (concealment constructions) is rated ALLOWED for all 8 languages. Specific verbs: ka damala/dap'ara, yo ṣe àṣírí, fi salata, eu ezkutatu, ta maṟai, id menyembunyikan, tr gizlemek, ko sumgida. The transitivity asymmetry (concealment consistently transitive; revelation has intransitive variant) is documented in the G5 analysis. The G6 comparison shows revelation/concealment as a consistent paired opposition across all languages.
+
+**Caveats / exceptions.** The specific verbs differ substantially. The transitivity asymmetry is consistent but not always explicitly documented in the F4 tables for all languages. AOML does not model concealment as a distinct operator, which the G7b comparison identifies as a gap in AOML's architecture.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-17: Conditional constructions based on truth-value are universally productive
+
+**Statement.** All attested languages show productive conditional constructions of the form "if it is true, then..." applied to truth predicates. The conditional markers differ but the function is universally available.
+
+**Evidence summary.** CF16 (conditional constructions) is rated ALLOWED for Dimension A across all 8 languages. Conditional markers: ka -a + rom, yo bí...bá, fi jos, eu ba-, ta -āṉāl, id kalau/jika, tr -sa/-se, ko -라면. The G5 analysis documents this as a universally productive function. Basque uniquely grammaticalizes a distinction between realis conditional (bada) and irrealis/counterfactual conditional (balitz) on truth predicates, a distinction that other languages express through different means.
+
+**Caveats / exceptions.** The conditional markers are entirely language-specific. Basque's grammaticalized realis/irrealis distinction on truth predicates is a language-specific elaboration not found in other languages. The function is universal but the morphological realization varies substantially.
+
+**Confidence rating.** HIGH
+
+---
+
+### CU-18: Reliability / trustworthiness of sources is universally lexicalized as a distinct semantic area from propositional truth
+
+**Statement.** All attested languages maintain dedicated vocabulary for evaluating whether persons, sources, or information can be depended upon to provide accurate information consistently (Dimension F: Reliability/Trustworthiness). This vocabulary is consistently distinct from propositional truth vocabulary.
+
+**Evidence summary.** All 8 languages show dedicated reliability vocabulary: ka sando/sandooba, yo fidagarria (via borrowing), fi luotettava/luotettavuus/uskottava, eu fidagarria/sinesgarria, ta nampakam, id dapat dipercaya/terpercaya, tr güvenilir/güvenilirlik, ko sinbingseong/mideumanada. The G2 comparison documents this as a universal grouping. The G3 analysis notes that reliability concerns consistent accuracy over time, not the truth of a specific statement, making it consistently distinct from Dimension A.
+
+**Caveats / exceptions.** The degree of elaboration varies: Basque and Finnish show the most elaborate vocabulary (Basque -garri suffix productively creates fidagarria, sinesgarria, zalantzagarria); Tamil and Yoruba show less dedicated vocabulary. The boundary between reliability (F) and epistemic certainty (I) is not always sharp in all languages.
+
+**Confidence rating.** HIGH
+
+---
+
+## 2. Major Outliers
+
+---
+
+### 2.1 Language-Level Outliers
+
+**Turkish (tr): Exceptional semantic breadth of a single root (hak)**
+
+Turkish hak (from Arabic ḥaqq) uniquely merges what other languages treat as distinct groupings: propositional truth (hak "truth"), moral rightness (haklı "right/justified"), legal rights (hak sahibi "rights holder"), deservingness (hak etmek "to deserve"), and divine names (Hak Teala "God Almighty"). No other language in the dataset shows a single root spanning all five of these semantic areas. The hak root generates fixed expressions spanning moral (hak etmek "deserve"), legal (hak sahibi "rights holder"), interpersonal (hak vermek "agree with"), and religious (hakkın rahmetine kavuşmak "to die") domains. The breadth of this polysemy is not matched by any single root in the other seven languages.
+
+*Divergence strength:* Strong. The hak root's semantic range is substantially broader than any comparable root in the dataset.
+*Breadth:* Narrow — this is a single-root phenomenon, not a broad structural difference.
+*Interpretation:* This likely reflects the Arabic source word's (ḥaqq) semantic breadth rather than a Turkish-specific innovation. The divergence may be an artifact of borrowing rather than a structural property of Turkish.
+
+---
+
+**Tamil (ta): Systematic register stratification between two parallel truth roots**
+
+Tamil uniquely maintains two parallel truth roots (uṇmai and mey) with systematic register stratification: uṇmai is the everyday/formal term while mey is literary/philosophical. Both generate parallel derivational families (uṇmaiyāka/meyyāka "truly," uṇmaiyaṟivu/meyyaṟivu "true knowledge"). Additionally, mey shows systematic polysemy with "body/physical," generating a large family of non-truth-domain compounds (meyyeḻuttu "consonant," meycilirppu "goosebumps"). No other language in the dataset shows this degree of systematic register-based doubling of a core truth root.
+
+*Divergence strength:* Strong. The register stratification is systematic and productive, not merely lexical variation.
+*Breadth:* Moderate — affects the entire truth domain through the register distinction.
+*Interpretation:* This may reflect Tamil's long literary tradition and the preservation of classical vocabulary alongside everyday speech. The mey/body polysemy is a separate phenomenon that may reflect historical semantic development.
+
+---
+
+**Korean (ko): Most systematic compound family for actual vs. nominal status**
+
+Korean's sil- (實) compound family creates a systematic distinction between actual and nominal status across multiple domains (sillyeok "actual ability," siljeok "actual results," silhyo "actual effect," silje "actual reality," silche "actual substance," siljil "actual quality," silcheon "actual practice," silhaeng "actual execution," silhyeon "actual realization," silmul "actual object," silgam "sense of reality"). No other language shows this degree of systematic lexical elaboration for the actual/nominal distinction. This grouping is distinct from propositional truth evaluation and from ontological reality, focusing specifically on whether something has real-world impact or is merely formal.
+
+*Divergence strength:* Moderate. The sil- family is more elaborate than comparable vocabulary in other languages, but the underlying distinction (actual vs. nominal) is present in all languages.
+*Breadth:* Moderate — affects a distinct semantic area (Dimension O) that is present but less elaborated in other languages.
+*Interpretation:* This may reflect Korean's Sino-Korean vocabulary system, which allows systematic compound formation from Chinese characters. The sil- (實) character's productivity in Korean may be a feature of the Sino-Korean lexical stratum rather than a structural property of Korean grammar.
+
+---
+
+**Georgian (ka): Exceptional semantic extension of a truth root into administrative and religious domains**
+
+Georgian mart'l- uniquely extends from correctness/rightness into management (mart'va "management," mart'avs "governs"), governance, and religious identity (mart'lmadidebeli "Orthodox Christian," mart'lmadidebloba "Orthodoxy"). The management and religious extensions are not found in other languages. The mart'l- root also extends into orthography (mart'lc'era "correct spelling") and legal concepts (samart'ali "law"). While other languages show truth roots extending into related domains, Georgian shows the broadest extension into administrative and confessional domains.
+
+*Divergence strength:* Moderate. The extensions are real but the underlying root (mart'l- "straight/correct") is similar to roots in other languages (Yoruba tọ́, Basque zuzen, Turkish doğru) that also show extensions.
+*Breadth:* Moderate — affects multiple semantic areas through the mart'l- root.
+*Interpretation:* The religious extension (mart'lmadidebeli "Orthodox") is a lexicalized compound that may reflect historical religious terminology rather than a productive pattern. The management extension (mart'va) may reflect a semantic shift from "making correct/straight" to "directing."
+
+---
+
+**Indonesian (id): Grammaticalization of a truth-domain term into a quantifier**
+
+Indonesian salah (wrong) grammaticalizes as a quantifier meaning "one of" (salah satu "one of"), losing truth-domain semantics entirely. This is the only case in the dataset of a truth-domain term grammaticalizing into a quantifier. The grammaticalization is complete: salah satu "one of" has no truth-evaluation function. Additionally, salah shows exceptional productivity in domain-specific error compounds (salah paham "misunderstand," salah sangka "misjudge," salah tafsir "misinterpret," salah ucap "slip of tongue," salah tulis "typo," salah hitung "miscalculation," salah lihat "see wrongly," salah dengar "mishear," salah langkah "wrong move," salah jalan "wrong path," salah alamat "wrong address," salah urus "mismanagement," salah guna "misuse").
+
+*Divergence strength:* Strong for the quantifier grammaticalization (unique in the dataset); moderate for the compound productivity (other languages show similar but less elaborate patterns).
+*Breadth:* Narrow for the quantifier grammaticalization (single item); moderate for the compound productivity (affects the entire error domain).
+*Interpretation:* The quantifier grammaticalization may reflect a historical semantic shift specific to Indonesian/Malay. The compound productivity may reflect Indonesian's agglutinative morphology and the salah root's semantic flexibility.
+
+---
+
+### 2.2 Construction-Level Outliers
+
+**Basque (eu): Morphological causative explicitly blocked on truth roots**
+
+Basque is the only language in the dataset where the morphological causative suffix (-arazi) is explicitly blocked on truth-domain roots. The F6 naturalness data marks *egiaarazi, *gezurarazi, *zuzendarazi, and *okerarazi as uncertain or unattested. Other languages either have productive morphological causatives on truth roots (Turkish -leştir-, Finnish -uttaa) or lack morphological causatives entirely (relying on light verb constructions). Basque's explicit morphological blocking is unique.
+
+*Divergence strength:* Moderate. The blocking is morphological rather than semantic; the causative function is still available through light verb constructions.
+*Breadth:* Narrow — affects only the morphological causative strategy, not the causative function itself.
+*Interpretation:* This may reflect a general property of Basque morphology (the -arazi causative may have restricted combinatorial properties) rather than a truth-domain-specific constraint.
+
+---
+
+**Basque (eu): Obligatory light verb construction for lying (no simple verb *gezurtu)**
+
+Basque lacks a simple verb *gezurtu "to lie" derived from the falsehood root. The act of lying requires the light verb construction gezurra esan "tell a lie." This is the clearest case in the dataset of a light verb construction being obligatory rather than optional for a core truth-domain speech act. Other languages have simple verbal forms for lying alongside light verb constructions (Finnish valehdella, Georgian moṭq'ueba, Indonesian berbohong).
+
+*Divergence strength:* Moderate. The function is available through the light verb construction; only the morphological strategy is blocked.
+*Breadth:* Narrow — affects only the verbal derivation strategy for lying.
+*Interpretation:* This may reflect a general property of Basque morphology (limited verbal derivation from nominal bases) rather than a truth-domain-specific constraint.
+
+---
+
+**Turkish (tr): Morphological asymmetry in the truth-telling/lying light verb construction**
+
+Turkish doğruyu söylemek "tell truth" takes accusative case on the truth noun, while yalan söylemek "tell lie" does not. This is a lexicalized morphological asymmetry within a single language that is not found in other languages. Korean shows a different asymmetry (truth-telling uses malhada "say" while lying uses hada "do"), but the Turkish case is distinctive in involving case-marking rather than verb selection.
+
+*Divergence strength:* Moderate. The asymmetry is real but affects only the case-marking of a single construction.
+*Breadth:* Narrow — affects only the light verb speech act construction.
+*Interpretation:* This may be a lexicalized irregularity reflecting the historical development of the construction rather than a productive pattern.
+
+---
+
+**Yoruba (yo): Two distinct copular strategies with different pragmatic force**
+
+Yoruba maintains two copular strategies for truth attribution: jẹ́ (neutral) and ni (emphatic/contrastive). The ni construction places the predicate first (Òtítọ́ ni ọ̀rọ̀ rẹ̀ "His word is truth"), creating a focus construction with contrastive force. This two-strategy system is not found in other languages in the dataset, where a single copular strategy (or zero copula) is used for truth attribution.
+
+*Divergence strength:* Moderate. The two-strategy system is real but both strategies are available for truth attribution; the difference is pragmatic rather than semantic.
+*Breadth:* Narrow — affects only the predicative attribution construction.
+*Interpretation:* This reflects Yoruba's focus-marking system (ni as focus copula) rather than a truth-domain-specific property.
+
+---
+
+**Finnish (fi): Grammaticalization of a truth root as a colloquial intensifier**
+
+Finnish tosi grammaticalizes as a colloquial intensifier for non-truth adjectives (tosi hyvä "really good," tosi iso "really big," tosi paljon "really much"). This function is not found in other languages in the dataset, where truth roots do not grammaticalize into degree intensifiers for unrelated adjectives. The G4 derivation comparison identifies this as a single-language observation.
+
+*Divergence strength:* Moderate. The intensifier function is real and productive in colloquial Finnish.
+*Breadth:* Narrow — affects only the colloquial intensifier function; the truth-evaluation function of tosi is unaffected.
+*Interpretation:* This may reflect a general grammaticalization path (truth → reality → intensifier) that is more advanced in Finnish than in other languages. Similar paths may exist in other languages but are not documented in the dataset.
+
+---
+
+### 2.3 Dimension-Specific Outliers
+
+**Dimension P (Consistency/Coherence): Weakly attested in most languages**
+
+Dimension P is clearly lexicalized in Turkish (tutarlı/tutarsız) and Finnish (johdonmukainen), present but less elaborated in Yoruba (ìbámu) and Indonesian (konsisten), and weakly attested or expressed through constructions in Georgian, Basque, Tamil, and Korean. This makes Dimension P the least cross-linguistically elaborated of the 16 dimensions identified in G3. The G7a matrix shows mostly VARIABLE or INSUFFICIENT DATA ratings for Dimension P across constructional functions.
+
+*Divergence strength:* Moderate. The dimension is present in all languages but is not universally elaborated as a distinct lexical domain.
+*Breadth:* Broad — affects the entire dimension across most languages.
+*Interpretation:* Consistency/coherence may be a language-specific elaboration rather than a universal semantic partition in the truth domain. Alternatively, it may be present in all languages but expressed through constructions rather than dedicated vocabulary, making it harder to document.
+
+---
+
+**Dimension N (Plausibility/Surface Appearance): Variably lexicalized**
+
+Dimension N is clearly lexicalized in Finnish (uskottava "believable," todennäköinen "probable"), Basque (sinesgarria "believable," itxurazko "apparent"), and Korean (geureoldeuthada "plausible"), but expressed primarily through constructions in Yoruba and Tamil. The G7a matrix shows VARIABLE ratings for most constructional functions for Dimension N. The G7b comparison notes a potential conflict with AOML if N maps to LIFE (AOML blocks ABSTR × LIFE, but Finnish uskottavuus and Basque sinesgarritasuna are attested abstract nominals for plausibility).
+
+*Divergence strength:* Moderate. The dimension is present in all languages but is not universally elaborated as a distinct lexical domain.
+*Breadth:* Broad — affects the entire dimension across several languages.
+*Interpretation:* Plausibility may be a distinct semantic category in some languages but expressed through constructions in others. The variability may reflect different degrees of grammaticalization of the plausibility concept.
+
+---
+
+**Dimension O (Actual vs. Nominal/Formal Status): Most elaborated in Korean, least in Yoruba**
+
+Korean's sil- compound family creates the most systematic elaboration of Dimension O in the dataset. Yoruba shows the least dedicated vocabulary for this dimension. The G7a matrix shows ALLOWED ratings for CF1, CF2, CF3, CF6, CF18 for Dimension O, but INSUFFICIENT DATA for most other constructional functions. The G7b comparison notes that Dimension O has no clean mapping to any single AOML axis.
+
+*Divergence strength:* Moderate. The dimension is present in all languages but the degree of elaboration varies substantially.
+*Breadth:* Moderate — affects the entire dimension with variable elaboration.
+*Interpretation:* The actual/nominal distinction may be more salient in languages with strong Sino-Korean or Sino-Japanese vocabulary traditions (where the 實 character is productive) than in other language families.
+
+---
+
+## 3. Open Questions
+
+---
+
+**OQ-1: Is the causative blocking on propositional truth-value change a true universal or a strong tendency?**
+
+The empirical data rates CF5 × Dimension A as BLOCKED across all 8 languages, making it the strongest candidate for a universal prohibition in the dataset. However, the blocking is documented through absence of attested forms and naturalness judgments rather than through systematic elicitation across a broader language sample. The question is whether this blocking holds across a wider typological range, including languages with very different morphological systems (e.g., polysynthetic languages, languages with productive applicative systems). More language coverage is needed to assess whether this is a true universal or a very strong tendency with potential exceptions.
+
+---
+
+**OQ-2: What is the structural basis of the liar/truth-teller agentive asymmetry?**
+
+The asymmetry (liar agentives more lexicalized than truth-teller agentives) is the most consistent cross-linguistic finding in the morphological data, documented across all 8 languages. However, the underlying reason is not established by the data alone. Possible explanations include: (a) deviations from expected behavior are universally marked while conformity is unmarked; (b) lying is a more salient social category than truth-telling; (c) the asymmetry reflects a general markedness principle in agentive nominalization. The data does not distinguish between these explanations. Targeted elicitation across a broader language sample, combined with corpus frequency data, would help clarify the structural basis.
+
+---
+
+**OQ-3: Is Dimension N (Plausibility) a distinct primary semantic dimension or a meta-axis modulation?**
+
+The empirical data treats plausibility as a distinct dimension (N) with dedicated vocabulary in Finnish, Basque, and Korean. AOML treats it as a modulation of the LIFE axis. The G7b comparison notes that the mapping of N to LIFE is imperfect. The open question is whether plausibility constitutes a distinct primary semantic dimension in the truth domain or whether it is better analyzed as a degree modulation of propositional correspondence (DEG[VER]) or as a subregion of another axis. More language coverage, particularly from languages with elaborate evidential systems, would help clarify this.
+
+---
+
+**OQ-4: What is the relationship between Dimension I (Epistemic Certainty/Doubt) and the primary truth dimensions?**
+
+The empirical data treats certainty/doubt as a distinct dimension (I) with dedicated vocabulary in all 8 languages. AOML treats it as a meta-axis (DEG[VER]). The open question is whether certainty/doubt is better analyzed as a primary dimension with its own lexical domain or as a degree modulation of propositional correspondence. The fact that all 8 languages show dedicated vocabulary for certainty/doubt (not merely degree modification of truth terms) suggests it may function as a primary dimension. However, the relationship between certainty and truth is close enough that the distinction may be one of degree rather than kind.
+
+---
+
+**OQ-5: Does the discourse marker grammaticalization asymmetry (truth roots grammaticalize; falsehood roots do not) hold across a broader language sample?**
+
+The asymmetry is documented across all 8 languages in the dataset, spanning 6 language families. However, the dataset is not typologically balanced, and the asymmetry may reflect shared cultural or pragmatic factors rather than a structural universal. The open question is whether this asymmetry holds in languages with very different pragmatic systems, discourse structures, or cultural attitudes toward truth and deception. Languages with elaborate evidential systems (e.g., Tibetan, Quechua) or languages where deception is culturally marked differently might show different patterns.
+
+---
+
+**OQ-6: Is the binary treatment of authenticity (no gradable comparison of genuine/fake) a universal or a strong tendency?**
+
+The empirical data rates CF24 × Dimension D as BLOCKED across all 8 languages, making it one of the strongest blocking patterns in the dataset. However, the blocking is documented through absence of attested forms rather than systematic elicitation. The open question is whether authenticity is universally treated as binary (genuine or not genuine) or whether some languages allow gradable authenticity (something being "more genuine" or "somewhat fake"). Languages with elaborate commercial or legal systems for grading authenticity (e.g., languages used in art authentication or food certification) might show different patterns.
+
+---
+
+**OQ-7: What is the cross-linguistic status of Dimension O (Actual vs. Nominal/Formal Status)?**
+
+The empirical data identifies Dimension O as a distinct semantic area present in all 8 languages but most elaborated in Korean. The G7b comparison notes that Dimension O has no clean mapping to any single AOML axis. The open question is whether Dimension O constitutes a distinct primary semantic dimension in the truth domain or whether it is better analyzed as a subregion of Dimension C (Ontological Reality) or Dimension K (Legal/Formal Validity). More language coverage, particularly from languages with strong formal/informal distinctions in legal or administrative vocabulary, would help clarify this.
+
+---
+
+**OQ-8: Are the empirical distinctions between Dimensions A/E, B/M, and J/K robust enough to warrant splitting AOML axes?**
+
+The G7b comparison identifies three cases where AOML collapses empirically distinct dimensions: A/E (propositional correspondence vs. conformity to standards), B/M (habitual honesty vs. emotional sincerity), and J/K (moral righteousness vs. legal validity). The empirical data suggests these distinctions are real, but the evidence varies in strength: the A/E distinction is most clearly lexicalized in Tamil; the B/M distinction is most clearly lexicalized in Finnish and Korean; the J/K distinction is most clearly lexicalized in Georgian and Yoruba. The open question is whether these distinctions are robust enough across a broader language sample to warrant splitting the corresponding AOML axes, or whether they are language-specific elaborations of a single underlying dimension.
+
+---
+
+**OQ-9: What is the cross-linguistic status of Dimension P (Consistency/Coherence)?**
+
+Dimension P is clearly lexicalized in Turkish and Finnish but weakly attested in most other languages. The open question is whether consistency/coherence is a universal semantic dimension in the truth domain that is simply not elaborated in most languages, or whether it is a language-specific elaboration that happens to appear in Turkish and Finnish. Languages with strong traditions of formal argumentation or logical discourse (e.g., languages used in academic philosophy or law) might show more elaborate vocabulary for this dimension.
+
+---
+
+**OQ-10: Does the intransitive preference in revelation constructions reflect a universal conceptualization of truth as self-revealing?**
+
+The empirical data shows that intransitive revelation constructions (truth reveals itself) are consistently preferred over transitive constructions (agent reveals truth) in narrative contexts across all 8 languages. This pattern is consistent with a conceptualization of truth as a natural state that emerges rather than a state that must be actively produced. The open question is whether this preference reflects a universal conceptualization of truth or whether it is an artifact of the narrative contexts in which revelation constructions are most frequently used. Targeted elicitation in non-narrative contexts (e.g., investigative or legal contexts where agents actively reveal truth) might show different patterns.
+
+---
+
+**OQ-11: Is the grammaticalization of truth roots into spatial/directional markers (Turkish doğru as postposition) a broader cross-linguistic tendency?**
+
+Turkish doğru grammaticalizes as a postposition meaning "toward" (eve doğru "toward home"), and Georgian mart'l- extends into management/governance. The open question is whether the grammaticalization of truth/correctness roots into spatial or directional markers is a broader cross-linguistic tendency or a language-specific development. The conceptual link between "straight/correct" and "toward/direction" is plausible (both involve orientation toward a goal), but the grammaticalization is only clearly documented in Turkish in the dataset. More language coverage would help assess whether this is a recurrent pattern.
+
+---
+
+**OQ-12: What is the relationship between the revelation/concealment constructional pair and the broader truth-domain architecture?**
+
+The empirical data shows that revelation and concealment constructions are universally productive and consistently paired as an opposition. The G7b comparison notes strong support for AOML's provisional REVEAL operator from this finding. The open question is whether REVEAL should be upgraded from provisional to confirmed status in AOML, and whether a corresponding CONCEAL operator should be added. The empirical data shows that concealment is as productive as revelation but is not modeled in AOML. A more complete architecture would model both operators and their relationship.

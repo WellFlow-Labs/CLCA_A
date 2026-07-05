@@ -1,0 +1,50 @@
+# CLCA Protocol v3.2 — F3 Semantic Groups Table
+# Language: {{ lang.name }} ({{ lang.code }})
+
+# CONTEXT (contains P3 output)
+{{ context }}
+
+# F3 — SEMANTIC GROUPS TABLE FORMATTER
+
+Convert the groupings from CONTEXT into a table:
+
+| Group Label | Definition | Representative Expressions | Overlapping / Ambiguous Items | Boundary Notes |
+
+---
+
+### STRICT RULES:
+
+- **Do NOT add new groups.**
+- **Do NOT remove any groups.**
+- **Each row must correspond 1:1 with a group in CONTEXT.**
+
+- **Preserve labels exactly as given.**
+- **Do NOT rename or normalize labels.**
+
+- **Preserve definitions verbatim.**
+- **Do NOT summarize, reinterpret, or refine definitions.**
+
+- **Representative expressions must come ONLY from CONTEXT.**
+- **Do NOT add or remove items.**
+
+- **Preserve overlapping and ambiguous items exactly as listed.**
+- **Do NOT force items into a single group.**
+
+- **If items appear in multiple groups, preserve that duplication.**
+
+- **Boundary Notes must reflect only what is stated in CONTEXT.**
+- **Do NOT infer, extend, or theorize about group boundaries.**
+
+- **Do NOT merge, split, or reorganize groups.**
+- **Do NOT attempt to balance or complete the grouping system.**
+
+- **If CONTEXT indicates that some items are ungrouped, include a row:**
+  - Group Label: (Ungrouped Items)
+  - Definition: (no clear grouping identified)
+  - Representative Expressions: [list items]
+  - Overlapping / Ambiguous Items: (as applicable)
+  - Boundary Notes: (as applicable)
+
+---
+
+Output ONLY the table.

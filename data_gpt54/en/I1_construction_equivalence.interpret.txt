@@ -1,0 +1,87 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **NP + be + true / correct / right / accurate / valid / genuine / authentic / real / reliable / credible** | *The statement is true.*; *That explanation is credible.* | Direct match to attribution | None |
+| ADNOM | **truth-domain adjective + noun** | *a true story*; *an authentic document* | Direct match to adnominal modification | None |
+| BECOME | **NP + become / prove / turn out + true / real / valid**; **come true** | *The rumor proved true.*; *Her prediction came true.* | Direct match to inchoative/becoming | None |
+| REVELATION | No dedicated revelation construction listed in P4a/P4b | — | **NO COMMON EXPRESSION - circumlocution required** | Morphosyntactic gap |
+| CAUSATION (factual) | **V + NP + true/right/valid**; lexical verbs **validate, verify, correct** | *The new evidence proved the claim true.* | Directly attested, but limited/productivity restricted; partly overlaps with verification verbs | Partial availability |
+| CAUSATION (character) | lexical verbs **authenticate**; also listed **validate, verify, correct** where relevant by domain | *Experts authenticated the painting.* | Expressed lexically in restricted subdomains, especially authenticity/genuineness | Partial availability / lexical restriction |
+| VERIFICATION | lexical verbs **authenticate, validate, verify** | *Experts authenticated the painting.* | Verification is expressed by dedicated lexical verbs; also overlaps with factual causation in some contexts | Partial availability |
+| DISCONFIRMATION | No dedicated disconfirmation construction listed in P4a/P4b | — | **SUBSTITUTED BY NEGATION** | Morphosyntactic gap |
+| NEGATION | **NP + be + not true / untrue / false / incorrect / inaccurate / invalid / fake / counterfeit / inauthentic / unreliable / untrustworthy** | *The claim is untrue.*; *The document is fake.* | Direct match; both analytic and lexical/morphological negation are attested | None |
+| NOMINALIZATION | **truth, accuracy, correctness, validity, authenticity, reliability, credibility, faithfulness, exactness, precision** | *the accuracy of the report*; *the authenticity of the signature* | Direct match to abstract nominalization | None |
+
+## 2. Substitution Patterns (Narrative)
+
+English shows broad coverage of the truth-domain categories listed in P4a/P4b, but not all canonical CLCA operators are represented by distinct constructions.
+
+For **ATTR**, **ADNOM**, **BECOME**, **NEGATION**, and **NOMINALIZATION**, the language has direct and common constructions. These are explicitly attested and marked as core in P4b, except that lexical choice is domain-sensitive.
+
+For **REVELATION**, no dedicated construction is listed in P4a or P4b. Since this step must rely only on the provided materials, there is no attested revelation operator here. Therefore it cannot be mapped directly. It is best treated as **NO COMMON EXPRESSION - circumlocution required** on the basis of the current dataset. There is also no evidence in the provided materials that revelation systematically substitutes for becoming. **BECOME** is independently attested through *proved true*, *turn out true*, and *came true*.
+
+For **CAUSATION (factual)**, English has a limited adjective-based causative pattern: **V + NP + true/right/valid**, as in *The new evidence proved the claim true.* P4a explicitly notes that there is no single productive causative verb covering all truth-related subdomains. So the operator is available, but only partially and unevenly.
+
+For **CAUSATION (character)**, the relevant meanings are expressed through lexical verbs such as **authenticate**, especially in authenticity contexts. This is not a fully general construction across the whole truth domain. It is therefore available, but restricted by lexical domain.
+
+For **VERIFICATION**, the language uses dedicated lexical verbs such as **authenticate, validate, verify**. These overlap functionally with causative meanings in some contexts, because they establish or confirm truth-related status. In the provided materials, verification often appears through lexical verbs rather than through a productive construction. So verification is available, but mainly lexically.
+
+For **DISCONFIRMATION**, no dedicated construction is listed. Negative evaluation is instead expressed through **NEGATION**, either analytically (*not true*) or lexically (*untrue, false, fake, invalid*). On the basis of P4a/P4b, disconfirmation is therefore **substituted by negation**, not expressed by a separate operator.
+
+There is a clear asymmetry between positive and negative agentive forms in the broader dataset: *liar* is core, while *truth-teller* is marginal. Although agentive nominalization is not one of the canonical operators requested in the mapping table, it shows a lexical asymmetry in the domain. Similarly, negative attribution has both analytic and lexicalized forms, while positive attribution is more adjective-choice-sensitive by semantic subdomain.
+
+On **NEGATION**, English uses both:
+- **analytic negation**: *not true*
+- **lexical/morphological negation**: *untrue, false, incorrect, invalid, fake, inauthentic*, etc.
+
+On whether **VERIFICATION and DISCONFIRMATION share the same construction**: no. Verification is expressed by lexical verbs such as **authenticate, validate, verify**, while disconfirmation is not given a dedicated construction and is instead expressed through **NEGATION**.
+
+On whether **DISCOVERY substitutes for CAUSATION**: no discovery construction is listed in P4a/P4b, so no such substitution can be established from the provided data.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION**: **MISSING (structural gap)** in the provided dataset; no dedicated construction is listed.
+- **DISCONFIRMATION**: **MISSING (structural gap)** as a distinct operator; meaning is expressed through **NEGATION** instead.
+
+### Lexical Gaps
+- No single fully productive causative verb meaning “make true/genuine/correct” across all subdomains. P4a explicitly notes this.
+- Positive agentive truth-domain nouns are weaker and less lexicalized than negative ones: *truth-teller* is marginal, while *liar* is core. This is a lexical asymmetry within the broader domain.
+
+### Conceptual Gaps
+- No conceptual gap is directly evidenced in P4a/P4b. The meanings are generally expressible, but some are expressed by restricted lexical items or by another operator rather than by a dedicated construction.
+
+### Asymmetric Gaps
+- **DISCONFIRMATION** lacks a dedicated construction, while **VERIFICATION** has lexical verbs.
+- Negative attribution is richly lexicalized (*untrue, false, fake, invalid*), while positive forms are more distributed by semantic subdomain (*true, accurate, valid, authentic, credible*).
+- In agentive nominalization, negative forms are stronger and more common (*liar*) than positive ones (*truth-teller* is marginal).
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION**
+
+### Partially available
+- **CAUSATION (factual)** — available through limited adjective-based causatives and lexical verbs
+- **CAUSATION (character)** — available through restricted lexical verbs such as **authenticate**
+- **VERIFICATION** — available mainly through lexical verbs such as **authenticate, validate, verify**
+
+### Missing entirely
+- **REVELATION** — not attested in the provided materials as a distinct construction
+
+### Normalized operator notes
+- **be + adjective** functions as a copular adjectival predicate in **ATTR** and **NEGATION**.
+- **truth-domain adjective + noun** functions as adjectival modification in **ADNOM**.
+- **prove / turn out / become** act as verbal carriers of the inchoative/resultative operator in **BECOME**; **come true** is a fixed multi-word verbal expression.
+- In **CAUSATION (factual)**, the verb is the carrier of the operator in **V + NP + true/right/valid**.
+- In **VERIFICATION** and **CAUSATION (character)**, lexical verbs such as **authenticate, validate, verify, correct** carry the operator directly.
+- **not** is the analytic negator; forms such as **untrue, invalid, inauthentic** show lexical or morphological negation.
+- **truth, accuracy, correctness, validity, authenticity, reliability, credibility, faithfulness, exactness, precision** are abstract nouns in **NOMINALIZATION**.

@@ -1,0 +1,441 @@
+# CLCA Protocol v3.2 — P5 OPPOSITIONS
+# Language: Turkish (tr)
+
+## IDENTIFIED OPPOSITIONS
+
+---
+
+### OPPOSITION 1
+**Term A:** doğru  
+**Term B:** yanlış  
+**Transliteration:** doğru / yanlış  
+**Translation:** true, correct / wrong, false, incorrect  
+**Description:** Primary lexical opposition for factual correctness evaluation. *Doğru* indicates alignment with facts or proper standards, while *yanlış* indicates deviation or incorrectness. This is the most basic and frequent opposition in the truth domain.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 2
+**Term A:** gerçek  
+**Term B:** sahte  
+**Transliteration:** gerçek / sahte  
+**Translation:** real, genuine / fake, counterfeit, false  
+**Description:** Lexical opposition distinguishing authentic from inauthentic. *Gerçek* emphasizes reality and genuineness, while *sahte* denotes deliberate inauthenticity or counterfeiting. Common in contexts of authentication and fraud detection.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 3
+**Term A:** gerçek  
+**Term B:** yapay  
+**Transliteration:** gerçek / yapay  
+**Translation:** real, natural / artificial, synthetic, man-made  
+**Description:** Lexical opposition between natural/authentic and artificial/manufactured. *Gerçek* (or *doğal*) indicates natural occurrence, while *yapay* indicates human construction. Used in contexts distinguishing natural from artificial substances, behaviors, or situations.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 4
+**Term A:** doğal  
+**Term B:** yapay  
+**Transliteration:** doğal / yapay  
+**Translation:** natural, genuine / artificial, synthetic  
+**Description:** Lexical opposition specifically contrasting natural with artificial. *Doğal* emphasizes occurrence in nature or lack of artificiality, while *yapay* emphasizes human manufacture or construction. Frequently used in product descriptions and behavioral evaluations.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 5
+**Term A:** güvenilir  
+**Term B:** güvenilmez  
+**Transliteration:** güvenilir / güvenilmez  
+**Translation:** reliable, trustworthy / unreliable, untrustworthy  
+**Description:** Morphological opposition created by privative suffix. *Güvenilir* indicates trustworthiness, while *güvenilmez* (güven-il-mez) uses negative possibility suffix to indicate untrustworthiness. Common in source evaluation and character assessment.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 6
+**Term A:** haklı  
+**Term B:** haksız  
+**Transliteration:** haklı / haksız  
+**Translation:** right, justified / unjust, unfair, wrong  
+**Description:** Morphological opposition using possessive vs. privative suffixes. *Haklı* (hak-lı "having right") indicates justification or correctness, while *haksız* (hak-sız "without right") indicates injustice or lack of justification. Central to moral and legal discourse.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 7
+**Term A:** adaletli  
+**Term B:** adaletsiz  
+**Transliteration:** adaletli / adaletsiz  
+**Translation:** just, fair / unjust, unfair  
+**Description:** Morphological opposition using possessive vs. privative suffixes. *Adaletli* (adalet-li "having justice") indicates fairness, while *adaletsiz* (adalet-siz "without justice") indicates unfairness. Used in evaluations of systems, decisions, and actions.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 8
+**Term A:** tutarlı  
+**Term B:** tutarsız  
+**Transliteration:** tutarlı / tutarsız  
+**Translation:** consistent, coherent / inconsistent, incoherent  
+**Description:** Morphological opposition in consistency evaluation. *Tutarlı* indicates internal consistency and coherence, while *tutarsız* indicates contradiction or incoherence. Important in logical and behavioral evaluation.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 9
+**Term A:** geçerli  
+**Term B:** geçersiz  
+**Transliteration:** geçerli / geçersiz  
+**Translation:** valid, current, applicable / invalid, inapplicable, void  
+**Description:** Morphological opposition in validity assessment. *Geçerli* indicates meeting required standards or being in force, while *geçersiz* indicates failure to meet standards or being void. Common in legal, logical, and administrative contexts.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 10
+**Term A:** hatalı  
+**Term B:** hatasız  
+**Transliteration:** hatalı / hatasız  
+**Translation:** erroneous, faulty / flawless, error-free  
+**Description:** Morphological opposition using possessive vs. privative suffixes. *Hatalı* (hata-lı "having error") indicates presence of errors, while *hatasız* (hata-sız "without error") indicates absence of errors. Used in quality evaluation.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 11
+**Term A:** şüpheli  
+**Term B:** şüphesiz  
+**Transliteration:** şüpheli / şüphesiz  
+**Translation:** doubtful, suspicious / doubtless, undoubtedly  
+**Description:** Morphological opposition where privative form reverses meaning. *Şüpheli* (şüphe-li "having doubt") indicates presence of doubt or suspicion, while *şüphesiz* (şüphe-siz "without doubt") indicates certainty or lack of doubt. Functions both adjectivally and adverbially.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 12
+**Term A:** kuşkulu  
+**Term B:** kuşkusuz  
+**Transliteration:** kuşkulu / kuşkusuz  
+**Translation:** doubtful, questionable / doubtless, undoubtedly  
+**Description:** Morphological opposition parallel to şüpheli/şüphesiz. *Kuşkulu* (kuşku-lu "having doubt") indicates doubtfulness, while *kuşkusuz* (kuşku-suz "without doubt") indicates certainty. Slightly less formal than şüphe- forms.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 13
+**Term A:** isabetli  
+**Term B:** isabetsiz  
+**Transliteration:** isabetli / isabetsiz  
+**Translation:** accurate, apt, on target / inaccurate, inapt, off-target  
+**Description:** Morphological opposition in accuracy evaluation. *Isabetli* (isabet-li "having hit/accuracy") indicates hitting the mark, while *isabetsiz* (isabet-siz "without hit") indicates missing the mark. Used for both physical accuracy and metaphorical aptness.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 14
+**Term A:** yanlışsız  
+**Term B:** yanlışlı (implicit)  
+**Transliteration:** yanlışsız / (yanlışlı)  
+**Translation:** without error, correct / (with error, erroneous)  
+**Description:** Morphological opposition where privative form is attested but possessive form is less common. *Yanlışsız* (yanlış-sız "without wrong") indicates absence of errors. The positive form *yanlışlı* is theoretically possible but *hatalı* is preferred for "having errors."  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE] for yanlışsız, [MARGINAL] for yanlışlı
+
+---
+
+### OPPOSITION 15
+**Term A:** asıl  
+**Term B:** taklit  
+**Transliteration:** asıl / taklit  
+**Translation:** original, genuine, essential / imitation, copy, fake  
+**Description:** Lexical opposition between original and copy. *Asıl* indicates the original or fundamental version, while *taklit* indicates an imitation or copy. Used in contexts of authenticity and originality assessment.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 16
+**Term A:** özgün  
+**Term B:** taklit  
+**Transliteration:** özgün / taklit  
+**Translation:** original, authentic / imitation, copy  
+**Description:** Lexical opposition emphasizing originality vs. copying. *Özgün* emphasizes authentic originality, particularly in creative work, while *taklit* indicates imitation. Common in academic and artistic contexts.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 17
+**Term A:** dürüst  
+**Term B:** yalancı  
+**Transliteration:** dürüst / yalancı  
+**Translation:** honest, truthful / liar, lying  
+**Description:** Lexical opposition in character evaluation. *Dürüst* describes honest character and truthful conduct, while *yalancı* describes someone who habitually lies. Central to moral character assessment.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 18
+**Term A:** kesin  
+**Term B:** şüpheli  
+**Transliteration:** kesin / şüpheli  
+**Translation:** certain, definite / doubtful, suspicious  
+**Description:** Lexical opposition in epistemic certainty. *Kesin* indicates high degree of certainty or definiteness, while *şüpheli* indicates presence of doubt or suspicion. Used in epistemic evaluation and decision-making contexts.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 19
+**Term A:** kesin  
+**Term B:** kuşkulu  
+**Transliteration:** kesin / kuşkulu  
+**Translation:** certain, definite / doubtful, questionable  
+**Description:** Lexical opposition parallel to kesin/şüpheli. *Kesin* indicates certainty, while *kuşkulu* indicates doubtfulness. Slightly less formal register than şüpheli.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 20
+**Term A:** [ADJ] olmak  
+**Term B:** [ADJ] değil  
+**Transliteration:** [ADJ] olmak / [ADJ] değil  
+**Translation:** to be [ADJ] / not to be [ADJ]  
+**Description:** Constructional opposition using copula vs. negative particle. Turkish forms predicate negation with *değil* following the predicate, contrasting with affirmative copular construction. This is the primary strategy for predicative negation.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 21
+**Term A:** doğru çıkmak  
+**Term B:** yanlış çıkmak  
+**Transliteration:** doğru çıkmak / yanlış çıkmak  
+**Translation:** to turn out to be true/correct / to turn out to be wrong  
+**Description:** Constructional opposition in resultative expressions. Both use *çıkmak* "to emerge/turn out" with contrasting truth-domain adjectives to express outcomes of verification. Common in narrative and evaluative contexts.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 22
+**Term A:** haklı çıkmak  
+**Term B:** haksız çıkmak  
+**Transliteration:** haklı çıkmak / haksız çıkmak  
+**Translation:** to turn out to be right / to turn out to be wrong  
+**Description:** Constructional opposition in vindication/refutation. Uses *çıkmak* with contrasting moral evaluation terms to express being proven right or wrong in a dispute. Common in discussions of disputes and predictions.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 23
+**Term A:** gerçekleşmek  
+**Term B:** gerçekleştirmek  
+**Transliteration:** gerçekleşmek / gerçekleştirmek  
+**Translation:** to come true, to be realized / to realize, to accomplish  
+**Description:** Constructional opposition between inchoative and causative. *Gerçekleşmek* (intransitive) indicates spontaneous realization, while *gerçekleştirmek* (transitive causative) indicates causing something to become real. Productive pattern across truth-domain quality adjectives.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 24
+**Term A:** kesinleşmek  
+**Term B:** kesinleştirmek  
+**Transliteration:** kesinleşmek / kesinleştirmek  
+**Translation:** to become definite / to finalize, to make definite  
+**Description:** Constructional opposition parallel to gerçekleşmek/gerçekleştirmek. Intransitive inchoative vs. transitive causative pattern. Common in administrative and decision-making contexts.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 25
+**Term A:** doğrulamak  
+**Term B:** yanlışlamak  
+**Transliteration:** doğrulamak / yanlışlamak  
+**Translation:** to verify, to confirm / to falsify, to prove wrong  
+**Description:** Lexical opposition in verification processes. *Doğrulamak* indicates establishing truth or correctness, while *yanlışlamak* indicates demonstrating falsity or incorrectness. Common in scientific, legal, and administrative contexts.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 26
+**Term A:** yalan söylemek  
+**Term B:** doğru söylemek  
+**Transliteration:** yalan söylemek / doğru söylemek  
+**Translation:** to tell a lie / to tell the truth  
+**Description:** Constructional opposition in speech act descriptions. Both use light verb *söylemek* "to say" with contrasting truth-domain nouns/adjectives. Extremely common in everyday speech across all registers.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 27
+**Term A:** gerçeği söylemek  
+**Term B:** yalan söylemek  
+**Transliteration:** gerçeği söylemek / yalan söylemek  
+**Translation:** to tell the truth / to tell a lie  
+**Description:** Constructional opposition parallel to doğru söylemek/yalan söylemek. *Gerçeği söylemek* emphasizes speaking reality rather than mere correctness. Common in confessional and testimonial contexts.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 28
+**Term A:** hak vermek  
+**Term B:** hak yememek (implicit negative)  
+**Transliteration:** hak vermek / (hak yememek)  
+**Translation:** to agree with, to acknowledge someone is right / (not to violate rights)  
+**Description:** Constructional opposition where positive form is common but negative is less lexicalized. *Hak vermek* "to give right" means to concede someone is correct. The opposite *hak yemek* "to eat right" means to violate rights, creating an asymmetric opposition.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE] for hak vermek, [MARGINAL] for explicit negative construction
+
+---
+
+### OPPOSITION 29
+**Term A:** gerçek hayat  
+**Term B:** (sanal/hayali dünya)  
+**Transliteration:** gerçek hayat / (sanal/hayali dünya)  
+**Translation:** real life / (virtual/imaginary world)  
+**Description:** Constructional opposition distinguishing actual lived experience from fictional or virtual contexts. *Gerçek hayat* is a fixed collocation; the contrasting terms are less lexicalized but contextually implied (virtual reality, fiction, imagination).  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE] for gerçek hayat, [UNCERTAIN] for specific contrasting construction
+
+---
+
+### OPPOSITION 30
+**Term A:** acı gerçek  
+**Term B:** tatlı yalan  
+**Transliteration:** acı gerçek / tatlı yalan  
+**Translation:** harsh/bitter truth / sweet lie  
+**Description:** Lexical opposition using taste metaphors. *Acı gerçek* "bitter truth" is a fixed phrase for unpleasant truths; *tatlı yalan* "sweet lie" is less common but attested, expressing the idea that lies can be more pleasant than truth. Cultural expression of truth-comfort tension.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE] for acı gerçek, [MARGINAL] for tatlı yalan
+
+---
+
+### OPPOSITION 31
+**Term A:** gerçekdışı  
+**Term B:** gerçek  
+**Transliteration:** gerçekdışı / gerçek  
+**Translation:** unreal, unrealistic / real  
+**Description:** Morphological opposition using compound formation. *Gerçekdışı* (gerçek-dış-ı "reality-outside-POSS") indicates being outside reality or implausible, contrasting with simple *gerçek*. Used for unrealistic expectations or surreal experiences.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 32
+**Term A:** gerçeküstü  
+**Term B:** gerçek  
+**Transliteration:** gerçeküstü / gerçek  
+**Translation:** surreal, supernatural / real  
+**Description:** Morphological opposition using compound formation. *Gerçeküstü* (gerçek-üst-ü "reality-above-POSS") indicates transcending reality, used for surrealism and supernatural phenomena. Contrasts with ordinary *gerçek*.  
+**Contrast type:** morphological  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 33
+**Term A:** meşru  
+**Term B:** (gayri meşru/meşru olmayan)  
+**Transliteration:** meşru / (gayri meşru/meşru olmayan)  
+**Translation:** legitimate, lawful / (illegitimate, unlawful)  
+**Description:** Lexical opposition in legitimacy assessment. *Meşru* indicates lawfulness; the negative is expressed either with Arabic *gayri meşru* or Turkish *meşru olmayan*. Common in legal and political discourse.  
+**Contrast type:** lexical  
+**Epistemic status:** [CORE] for meşru, [CORE] for meşru olmayan, [MARGINAL] for gayri meşru
+
+---
+
+### OPPOSITION 34
+**Term A:** inandırıcı  
+**Term B:** inandırıcı olmayan/inanılmaz  
+**Transliteration:** inandırıcı / inandırıcı olmayan/inanılmaz  
+**Translation:** convincing, credible / unconvincing, incredible  
+**Description:** Morphological/constructional opposition. *Inandırıcı* indicates convincingness; the negative can be expressed constructionally (*inandırıcı olmayan*) or with the lexicalized *inanılmaz* (which also means "unbelievable" in positive sense). Asymmetric opposition.  
+**Contrast type:** morphological/constructional  
+**Epistemic status:** [CORE] for inandırıcı, [CORE] for inandırıcı olmayan, [UNCERTAIN] for inanılmaz as direct opposite
+
+---
+
+### OPPOSITION 35
+**Term A:** sağlam kanıt  
+**Term B:** zayıf kanıt  
+**Transliteration:** sağlam kanıt / zayıf kanıt  
+**Translation:** solid evidence / weak evidence  
+**Description:** Constructional opposition in evidence evaluation. *Sağlam* "solid/sound" contrasts with *zayıf* "weak" when modifying *kanıt* "evidence." Common in legal and argumentative contexts.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 36
+**Term A:** doğru bulmak  
+**Term B:** yanlış bulmak  
+**Transliteration:** doğru bulmak / yanlış bulmak  
+**Translation:** to find correct, to deem appropriate / to find wrong, to deem inappropriate  
+**Description:** Constructional opposition in evaluative judgment. Both use *bulmak* "to find" with contrasting truth-domain adjectives to express considered evaluation. Common in deliberative and critical contexts.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+### OPPOSITION 37
+**Term A:** doğal görünmek  
+**Term B:** yapay görünmek  
+**Transliteration:** doğal görünmek / yapay görünmek  
+**Translation:** to look natural / to look artificial  
+**Description:** Constructional opposition in appearance evaluation. Both use *görünmek* "to appear/seem" with contrasting naturalness terms to express subjective impression. Common in evaluations of behavior, appearance, and products.  
+**Contrast type:** constructional  
+**Epistemic status:** [CORE]
+
+---
+
+## SUMMARY OBSERVATIONS
+
+**Total oppositions identified:** 37
+
+**Distribution by contrast type:**
+- Lexical: 12 oppositions
+- Morphological: 14 oppositions  
+- Constructional: 11 oppositions
+
+**Epistemic status distribution:**
+- [CORE]: 35 oppositions (or components thereof)
+- [MARGINAL]: 4 items or components
+- [UNCERTAIN]: 2 items or components
+
+**Key patterns observed:**
+
+1. **Morphological productivity**: Turkish shows extensive use of possessive (*-lı/-li*) vs. privative (*-sız/-siz*) suffixes to create systematic oppositions (haklı/haksız, adaletli/adaletsiz, tutarlı/tutarsız, etc.).
+
+2. **Asymmetric oppositions**: Several oppositions show asymmetry where one term is more lexicalized or frequent than its counterpart (e.g., yanlışsız is common but yanlışlı is rare; hak vermek is common but its negative is not lexicalized).
+
+3. **Constructional parallelism**: Many oppositions maintain parallel constructional frames with contrasting lexical items (*doğru çıkmak/yanlış çıkmak*, *doğru söylemek/yalan söylemek*).
+
+4. **Multiple contrasts per term**: Several terms participate in multiple oppositions (*gerçek* contrasts with *sahte*, *yapay*, *gerçekdışı*, and *gerçeküstü*; *doğru* contrasts with *yanlış* across multiple constructions).
+
+5. **Register variation**: Some oppositions show register differences, with certain forms preferred in formal contexts (adaletli/adaletsiz) vs. colloquial speech (doğru dürüst).
+
+6. **No clear oppositions identified for**: Some terms in the vocabulary lack clear lexical opposites (e.g., *hakikat* has no single direct opposite; *hakkında* as grammaticalized postposition has no opposition).

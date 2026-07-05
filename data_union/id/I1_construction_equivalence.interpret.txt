@@ -1,0 +1,108 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Indonesian (id)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Zero-copula NP + truth-domain adjective (default); NP + *adalah* / *merupakan* + truth-domain NP (formal) | *Kabar itu benar.* / *Pernyataan ini adalah kebohongan.* | No substitution required; zero-copula is the unmarked form | None |
+| **ADNOM** | NP + *yang* + truth-domain adjective (productive default); NP + adjective direct juxtaposition (restricted collocations) | *Informasi yang benar dan akurat* / *dokumen palsu* / *hadis sahih* | No substitution required; *yang*-construction is fully productive | None |
+| **BECOME** | *menjadi* + truth-domain NP/adjective (periphrastic); resultative passives *dinyatakan* + adjective; *terbukti* + adjective | *Hal itu akhirnya menjadi kenyataan.* / *Kontrak itu dinyatakan sah oleh pengadilan.* / *Klaim tersebut terbukti palsu.* | REVELATION (*terungkap*, *terbukti*) partially substitutes for BECOME in truth-domain contexts; see §2 | None for change-of-state generally; REVELATION substitutes in truth-specific contexts |
+| **REVELATION** | *ter-* stative passive *terungkap* ("to come to light"); *terbukti* ("to be proven/established") | *Kebenaran akan terungkap pada akhirnya.* / *Klaim tersebut terbukti palsu.* | Partially substitutes for BECOME when subject is a concealed truth or a claim under evaluation | None; construction is attested and conventionalized |
+| **CAUSATION (factual)** | Active *meN-...-kan* causative + truth-domain base; passive *di-...-kan* | *Pihak berwenang membenarkan laporan itu.* / *Undang-undang itu telah disahkan oleh DPR.* | No substitution required; *meN-...-kan* is the productive causative operator | Partial lexical gap: *akurat*, *sahih*, *sejati*, *kredibel* lack attested causative forms |
+| **CAUSATION (character)** | Periphrastic only: *orang yang jujur*; *orang yang berkata benar*; *saksi yang terpercaya* | *orang yang jujur* / *orang yang berkata benar* | No single-word or derived form attested for positive character causation; concept expressed periphrastically | **Asymmetric lexical gap**: productive agentive *peN-* forms exist for negative character (*pembohong*, *pemalsu*, *pendusta*) but not for positive character (truth-teller, honest agent) |
+| **VERIFICATION** | *terbukti* + adjective; *dinyatakan* + adjective; *membenarkan* (active); *pembuktian* (process nominalization) | *Klaim tersebut terbukti palsu.* / *Kontrak itu dinyatakan sah oleh pengadilan.* / *Beban pembuktian ada pada pihak penuntut.* | Overlaps with REVELATION (*terbukti* serves both); see §2 | None; multiple constructions available |
+| **DISCONFIRMATION** | *tidak benar* (standard negation); *terbukti palsu* (evidential disconfirmation); *memalsukan* / *dipalsukan* (causative/passive) | *Laporan itu tidak benar.* / *Klaim tersebut terbukti palsu.* / *Dokumen itu telah dipalsukan.* | Shares *terbukti* construction with VERIFICATION; see §2 | None |
+| **NEGATION** | Analytic: *tidak* + truth-domain adjective (scalar/gradable predicates); *bukan* + NP (categorical/nominal predicates); softened: *kurang* + adjective | *Informasi itu tidak akurat.* / *Ini bukan dokumen asli.* / *kurang tepat* | Negation is fully analytic; no morphological negation attested in this domain | None; the *tidak* / *bukan* distinction is grammatically determined, not truth-domain-specific |
+| **NOMINALIZATION** | *ke-...-an* circumfix (abstract property nominals); *peN-...-an* circumfix (process/event nominals); *peN-* prefix (agentive nominals); *-itas* suffix (loanword bases only) | *kebenaran*, *keabsahan*, *kejujuran* / *pembuktian*, *pemalsuan*, *pengesahan* / *pembohong*, *pemalsu* / *validitas*, *kredibilitas* | No substitution required; multiple nominalization strategies are productive and well-differentiated | Partial lexical gap: *\*kevalidan* blocked; *validitas* substitutes in technical registers; *\*keotentikan* marginal |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituting for BECOME in truth-domain contexts
+
+In Indonesian, the general inchoative operator *menjadi* ("to become") is available for change-of-state constructions across the lexicon, including the truth domain (*menjadi kenyataan*, "to become reality"). However, within the specific semantic space of truths coming to light or claims being established, two conventionalized *ter-* stative passives — *terungkap* ("to be revealed, to come to light") and *terbukti* ("to be proven, to be established") — are the preferred constructions in journalistic and legal registers. The P4b data marks *menjadi* + truth-domain adjective/noun as [MARGINAL] in the specific context of a lie or concealed fact being revealed, while *terungkap* and *terbukti* are marked [CORE] for those same contexts.
+
+The substitution is not total: *menjadi kenyataan* ("to become reality") is a fixed collocation marked [CORE] and is not replaced by *terungkap*. The substitution applies specifically when the subject is a concealed truth, a claim under evaluation, or a fact whose status is being established through evidence or process. In those contexts, *terungkap* and *terbukti* are the preferred operators, and *menjadi* is available but less typical.
+
+### 2.2 REVELATION and VERIFICATION sharing the *terbukti* construction
+
+The construction *terbukti* + truth-domain adjective (*terbukti palsu*, *terbukti benar*, *terbukti asli*) is documented in P4a and P4b under both the BECOME/inchoative category and the VERIFICATION/resultative category. The same form serves both functions: it expresses that a truth-domain evaluation has been established through evidence or official process (VERIFICATION) and simultaneously that a state of affairs has come to obtain as a result (REVELATION/BECOME). The P4a and P4b data do not distinguish these readings as separate constructions; they are treated as a single form with overlapping functional coverage.
+
+Similarly, *dinyatakan* + adjective (*dinyatakan sah*, "declared valid") covers both the VERIFICATION function (an authority has evaluated and confirmed) and the BECOME function (the contract is now valid as a result). The two operators are not formally distinguished in Indonesian for this semantic space.
+
+### 2.3 VERIFICATION and DISCONFIRMATION sharing the same construction
+
+The construction *terbukti* + truth-domain adjective is attested for both verification (*terbukti benar*, *terbukti asli*) and disconfirmation (*terbukti palsu*). The same morphosyntactic pattern serves both positive and negative outcomes; the direction of the evaluation is carried by the truth-domain adjective (*benar*/*asli* vs. *palsu*), not by a distinct construction. There is no separate construction for disconfirmation that is formally distinct from verification in the P4a/P4b data.
+
+*Tidak benar* (standard negation) and *terbukti palsu* (evidential disconfirmation) are both attested for DISCONFIRMATION, but they differ in evidential weight: *tidak benar* is a simple negation of the truth predicate, while *terbukti palsu* implies that the falsity has been established through evidence or process. This is a functional distinction within the same construction type, not a separate construction.
+
+### 2.4 Asymmetry between negative and positive agentive forms (CAUSATION — character)
+
+The P4a and P4b data document a consistent asymmetry in agentive nominalization. The *peN-* prefix productively derives agentive nouns for the deception and falsification side of the domain: *pembohong* (liar), *pendusta* (liar, formal/literary), *pemalsu* (forger/counterfeiter), *peniru* (imitator), *penyesat* (one who leads astray). These are all marked [CORE] and are described as unrestricted or register-restricted but fully lexicalized.
+
+On the truth-telling side, no parallel agentive form is attested. *\*Penjujur* is explicitly noted as unattested. The concept of "an honest person" or "a truth-teller" is expressed periphrastically: *orang yang jujur*, *orang yang berkata benar*, *saksi yang terpercaya*. These periphrastic forms are marked [CORE] in P4b but are structurally different from the derived agentive nominals on the negative side. This asymmetry is described in P4a as consistent across the data.
+
+### 2.5 Negation is fully analytic
+
+Indonesian negation in the truth domain is entirely analytic. There is no morphological negation prefix or suffix that attaches to truth-domain adjectives to produce negative forms. The two negators *tidak* and *bukan* are syntactically free morphemes that precede the predicate. Their distribution is grammatically determined: *tidak* negates adjectival and stative predicates; *bukan* negates nominal predicates and categorical identity. This split is not truth-domain-specific but applies across Indonesian predicate types. A softened analytic negation using *kurang* ("less, not quite") is also attested for scalar truth-domain adjectives (*kurang tepat*, *kurang benar*).
+
+### 2.6 *Membenarkan* covering both VERIFICATION and CAUSATION (factual)
+
+The causative verb *membenarkan* is documented in P4b as carrying two readings: "to confirm" (VERIFICATION) and "to justify/sanction" (CAUSATION — factual). These readings are context-dependent and are not formally distinguished. The same form covers both the act of establishing that something is true and the act of authorizing or sanctioning an action. This polysemy is noted in P4b but no formal disambiguation mechanism is described.
+
+### 2.7 Register-conditioned variation in ATTR constructions
+
+The zero-copula pattern (NP + truth-domain adjective) and the *adalah*/*merupakan* pattern (NP + *adalah*/*merupakan* + truth-domain NP) are in register-conditioned variation. The zero-copula form is the unmarked default across all registers; *adalah* and *merupakan* are restricted to formal and written registers and require a nominal predicate. This is not a truth-domain-specific pattern but reflects the general Indonesian copula distribution. No truth-domain-specific restriction on the choice between these forms is attested.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No structural gaps are identified in the P4a/P4b data. All ten CLCA operators map to at least one attested construction in Indonesian. The language has productive morphosyntactic resources for attribution, adnominal modification, inchoative/become, revelation, causation, verification, disconfirmation, negation, and nominalization in the truth domain.
+
+### 3.2 Lexical Gaps
+
+The following lexical gaps are attested in the P4a/P4b data:
+
+- **Causative forms absent for specific bases**: *akurat*, *sahih*, *sejati*, and *kredibel* lack attested causative *meN-...-kan* forms in standard usage. The causative pattern is productive but does not extend to all truth-domain adjectives. This is a lexical gap within an otherwise productive morphological pattern.
+
+- **Abstract nominalization blocked for loanword bases**: *\*kevalidan* is noted as unattested; *validitas* (from Dutch/Latin) substitutes in technical registers. *\*Keotentikan* is described as marginal. The *ke-...-an* circumfix does not productively apply to these loanword bases; the *-itas* suffix applies instead, but only in technical and academic registers.
+
+- **Agentive nominalization absent for truth-telling role**: *\*penjujur* is explicitly noted as unattested. No single derived agentive form for "truth-teller" or "honest person" is attested. This is a lexical gap on the positive side of the agentive nominalization pattern.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified in the P4a/P4b data. All CLCA operators correspond to expressible meanings in Indonesian. No operator is described as inexpressible or as requiring a fundamentally different conceptual framing.
+
+### 3.4 Asymmetric Gaps
+
+The following asymmetries are attested in the P4a/P4b data:
+
+- **Agentive nominalization: negative side productive, positive side absent**. Productive *peN-* agentive forms exist for liars (*pembohong*, *pendusta*), forgers (*pemalsu*), imitators (*peniru*), and those who lead astray (*penyesat*). No parallel derived agentive form exists for truth-tellers, honest persons, or those who confirm. The positive side is expressed periphrastically (*orang yang jujur*, *orang yang berkata benar*, *saksi yang terpercaya*). This asymmetry is explicitly noted in P4a as consistent across the data.
+
+- **Register asymmetry in *pendusta* vs. *pembohong***: *Pendusta* (liar) is restricted to formal, literary, and Islamic religious registers; *pembohong* is the everyday term. Both are on the negative side; no parallel register-differentiated pair exists on the positive side.
+
+- **Causative gap asymmetry**: The causative *meN-...-kan* pattern is productive for falsification and deception bases (*memalsukan*, *mengelirukan*, *menyesatkan*) and for confirmation and validation bases (*membenarkan*, *mengesahkan*). The gap — absence of causative forms for *akurat*, *sahih*, *sejati*, *kredibel* — affects both sides of the domain but is noted without a directional asymmetry in the P4a data.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Zero-copula (default, all registers); *adalah*/*merupakan* (formal, nominal predicates). Both forms productive and unrestricted within their register distributions. |
+| **ADNOM** | **Fully available** | *yang*-relativizer construction is fully productive across all truth-domain adjectives and all registers. Direct post-nominal juxtaposition is productive for compact noun-modifier compounds; prenominal juxtaposition is restricted to lexicalized collocations. |
+| **BECOME** | **Fully available** | *menjadi* + NP/adjective is the general inchoative. *Menjadi kenyataan* is a fixed collocation. Resultative passives (*dinyatakan*, *terbukti*) are the preferred forms in legal and institutional registers for truth-domain change-of-state. |
+| **REVELATION** | **Fully available** | *terungkap* (truth coming to light) and *terbukti* (truth established through evidence) are conventionalized forms. *Terungkap* is preferred when subject is a concealed truth; *terbukti* when evidence or process is foregrounded. Both are [CORE] in journalistic and legal registers. |
+| **CAUSATION (factual)** | **Available with substitution** | *meN-...-kan* is the productive causative operator. Passive *di-...-kan* is equally productive. Partial lexical gap: *akurat*, *sahih*, *sejati*, *kredibel* lack attested causative forms. For those bases, no attested single-word causative is available; the gap is lexical, not structural. |
+| **CAUSATION (character)** | **Partially available** | Productive for negative character roles (*pembohong*, *pemalsu*, *pendusta*, *peniru*, *penyesat*). Absent for positive character roles: no derived agentive form for truth-teller or honest agent is attested. Positive side expressed periphrastically (*orang yang jujur*, *orang yang berkata benar*). |
+| **VERIFICATION** | **Fully available** | *terbukti* + adjective; *dinyatakan* + adjective; *membenarkan* (active); *pembuktian* (process nominalization). Multiple constructions available across registers. *Terbukti* overlaps with REVELATION; the same form covers both functions. |
+| **DISCONFIRMATION** | **Fully available** | *tidak benar* (standard negation); *terbukti palsu* (evidential disconfirmation); *dipalsukan* (passive causative). Shares *terbukti* construction with VERIFICATION; direction of evaluation carried by the truth-domain adjective, not by a distinct construction. |
+| **NEGATION** | **Fully available** | Fully analytic. *Tidak* + adjective (scalar/gradable predicates); *bukan* + NP (categorical/nominal predicates); *kurang* + adjective (softened negation). Distribution is grammatically determined. No morphological negation attested in this domain. |
+| **NOMINALIZATION** | **Fully available** | Four strategies attested: *ke-...-an* (abstract property nominals, productive on native bases); *peN-...-an* (process/event nominals, productive); *peN-* (agentive nominals, productive for negative roles, absent for positive roles); *-itas* (loanword bases only, technical registers). Partial lexical gap for loanword bases where *ke-...-an* is blocked and *-itas* substitutes. |

@@ -1,0 +1,225 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: English (en)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| ATTR | Subject + BE + truth-domain adjective | "That statement is true." | Direct mapping | None |
+| ADNOM | Truth-domain adjective + Noun | "a true statement" / "false testimony" | Direct mapping | None |
+| BECOME | Subject + become/turn/prove + truth-domain adjective | "The rumor became true." | Direct mapping | None |
+| BECOME (specialized) | Subject + come true | "Her prediction came true." | Restricted to predictions/wishes/dreams | Partial (domain-restricted) |
+| REVELATION | **NO DEDICATED CONSTRUCTION** | — | **SUBSTITUTED BY BECOME** ("turn out to be," "prove") or VERIFICATION ("turn out") | Structural gap |
+| CAUSATION (factual) | Agent + make/render + Object + truth-domain adjective | "The evidence made his claim true." | Direct mapping (analytic causative) | None |
+| CAUSATION (factual, lexical) | Lexical causatives: falsify, validate, authenticate | "They falsified the document." | Incorporated causative meaning | None |
+| CAUSATION (character) | **NO COMMON EXPRESSION - circumlocution required** | — | Must use periphrasis: "cause X to be a liar" / "make X into a truth-teller" | Structural gap |
+| VERIFICATION | Verb + Object + truth-domain adjective (resultative) | "They proved the theory correct." | Direct mapping | None |
+| VERIFICATION (phrasal) | Phrasal verbs: hold up, check out, bear out, pan out | "His alibi didn't hold up." | Idiomatic equivalents | None |
+| DISCONFIRMATION | Same construction as VERIFICATION | "They proved the theory incorrect/false." | **SHARES CONSTRUCTION WITH VERIFICATION** | None |
+| NEGATION (analytic) | Subject + BE + NEG + truth-domain adjective | "The document is not authentic." | Direct mapping | None |
+| NEGATION (synthetic) | Subject + BE + negative-prefixed adjective | "The claim is untrue." | Lexically determined availability | Partial (lexical gaps) |
+| NOMINALIZATION (abstract) | truth-domain adjective + -ness/-ity/-cy/-th | "the truthfulness of his statement" / "the authenticity of the painting" | Direct mapping | None |
+| NOMINALIZATION (abstract, bare) | Bare noun forms: truth, error, lie | "That's the truth." | Independent lexical items | None |
+| NOMINALIZATION (agentive) | truth-domain root + -er/-or | "a liar" | Limited productivity | Partial (lexical gaps) |
+| NOMINALIZATION (agentive, compound) | Compound forms: truth-teller, wrongdoer | "a truth-teller" | Productive but marginal | Partial (less lexicalized) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME Substitution
+English lacks a dedicated REVELATION construction distinct from BECOME. The semantic domain of "discovery of pre-existing truth-value" is expressed through:
+- **BECOME verbs with evidential emphasis**: "turn out to be," "prove (to be)"
+  - Example: "The story turned out to be false."
+  - These emphasize discovery rather than change, but use the same syntactic frame as BECOME
+- **VERIFICATION constructions**: Phrasal verbs like "hold up," "check out," "pan out"
+  - Example: "His alibi didn't hold up."
+  - These incorporate both verification and revelation semantics
+
+The language systematically uses BECOME-frame verbs ("turn out," "prove") to express what other languages might encode as REVELATION. The distinction is lexical (verb choice) rather than constructional.
+
+### VERIFICATION ≈ DISCONFIRMATION Symmetry
+English uses the **same resultative construction** for both verification and disconfirmation:
+- Verification: "They proved the theory correct."
+- Disconfirmation: "They proved the theory incorrect/false."
+
+The construction (Verb + Object + truth-domain adjective) is neutral with respect to positive/negative outcome. The truth-domain adjective itself carries the polarity. No structural asymmetry exists between confirming and disconfirming.
+
+### CAUSATION Asymmetry: Factual vs. Character
+English shows a clear **structural gap** for CAUSATION (character):
+- **CAUSATION (factual)** is fully productive: "The evidence made his claim true."
+- **CAUSATION (character)** has no common expression and requires circumlocution:
+  - *"The experience made him a liar" (awkward, requires context)
+  - *"The experience caused him to become a liar" (periphrastic)
+  - No single construction paralleling "make + object + adjective" exists for agentive properties
+
+This represents a **conceptual gap**: English resists direct causation of habitual truth-domain character traits, preferring to express such changes through BECOME constructions applied to agent nouns.
+
+### NEGATION: Analytic vs. Synthetic Competition
+English provides **two parallel strategies** for negation:
+- **Analytic**: "not + positive adjective" (fully productive)
+- **Synthetic**: "negative prefix + root" (lexically restricted)
+
+The choice is **lexically determined**:
+- Some adjectives permit both: "not true" / "untrue"
+- Some strongly prefer analytic: "not genuine" >> "ingenuine" (rare/non-standard)
+- Some strongly prefer synthetic: "invalid" >> "not valid" (less common)
+
+No systematic semantic or pragmatic distinction governs the choice; it is a matter of lexical convention and register (synthetic forms often more formal).
+
+### Phrasal Verbs as VERIFICATION/REVELATION Equivalents
+English employs **idiomatic phrasal verbs** extensively in the truth domain:
+- "hold up" (withstand scrutiny)
+- "check out" (be verified)
+- "bear out" (confirm)
+- "pan out" (prove true)
+- "turn out" (be revealed as)
+
+These are **more colloquial** than single-word equivalents and often conflate VERIFICATION and REVELATION semantics. They represent a productive subsystem within English truth-domain expression, particularly in spoken registers.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+
+1. **REVELATION (dedicated construction)**
+   - **Status**: Missing as distinct construction
+   - **Substitution**: BECOME verbs with evidential semantics ("turn out to be," "prove") or VERIFICATION phrasal verbs
+   - **Note**: The language does not grammatically distinguish "become true" (change of state) from "turn out to be true" (discovery of pre-existing state) at the constructional level
+
+2. **CAUSATION (character)**
+   - **Status**: No common expression; circumlocution required
+   - **Substitution**: Must use periphrastic constructions ("cause X to become a liar," "make X into a truth-teller")
+   - **Note**: Direct causative construction (make/render + object + adjective) does not extend to agentive nominalizations in the truth domain
+
+### Lexical Gaps
+
+1. **Negative prefixes**
+   - **Status**: Not all truth-domain adjectives permit negative prefixation
+   - **Examples**: "genuine" → *"ingenuine" (non-standard); "reliable" → "unreliable" (standard)
+   - **Substitution**: Analytic negation ("not + adjective") fills gaps
+
+2. **Agentive nominalizations**
+   - **Status**: Limited productivity; many concepts lack dedicated agent nouns
+   - **Examples**: "liar" exists, but no common single word for "one who is always right" or "one who is always accurate"
+   - **Substitution**: Compound forms ("truth-teller," "wrongdoer") or periphrasis ("person who tells the truth")
+
+3. **Nominalization suffixes**
+   - **Status**: Choice of suffix (-ness, -ity, -cy, -th) is lexically determined and unpredictable
+   - **Examples**: "true" → "truth" (not *"trueness" in most contexts); "accurate" → "accuracy" (not *"accurateness")
+   - **Note**: This is not a gap per se, but reflects lexical idiosyncrasy rather than productive morphology
+
+### Conceptual Gaps
+
+1. **Direct causation of habitual character traits**
+   - **Status**: Blocked operation
+   - **Evidence**: No productive construction for "make X (into) a liar/truth-teller" parallel to "make X true/false"
+   - **Interpretation**: English conceptually separates factual truth-value (states) from character-based truth-disposition (traits), blocking direct causative application to the latter
+
+### Asymmetric Gaps
+
+1. **Synthetic comparison**
+   - **Status**: Rare with truth-domain adjectives
+   - **Evidence**: "truer," "falser" are attested but uncommon; most truth-domain adjectives use analytic comparison
+   - **Reason**: Core truth-domain adjectives ("true," "false") treated as semantically absolute, resisting gradation
+   - **Note**: This is a **semantic restriction** rather than a structural gap; the construction exists but is pragmatically odd with certain adjectives
+
+2. **"Come true" restriction**
+   - **Status**: Domain-restricted BECOME construction
+   - **Evidence**: Limited to predictions, wishes, dreams; cannot extend to other truth-domain contexts
+   - **Example**: "Her prediction came true" (grammatical) vs. *"The rumor came true" (odd; prefer "became true" or "turned out to be true")
+   - **Note**: This represents a **lexical-constructional idiom** with restricted distribution
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+
+1. **ATTR** (Attribution)
+   - Construction: Subject + BE + truth-domain adjective
+   - Status: [CORE], fully productive, no restrictions
+
+2. **ADNOM** (Adnominal modification)
+   - Construction: Truth-domain adjective + Noun
+   - Status: [CORE], fully productive, no restrictions
+
+3. **BECOME** (Inchoative)
+   - Construction: Subject + become/turn/prove + truth-domain adjective
+   - Status: [CORE], fully productive with standard change-of-state verbs
+
+4. **CAUSATION (factual)**
+   - Construction: Agent + make/render + Object + truth-domain adjective
+   - Construction: Lexical causatives (falsify, validate, authenticate)
+   - Status: [CORE], fully productive in both analytic and lexical forms
+
+5. **VERIFICATION**
+   - Construction: Verb + Object + truth-domain adjective (resultative)
+   - Construction: Phrasal verbs (hold up, check out, bear out, pan out)
+   - Status: [CORE], fully productive
+
+6. **DISCONFIRMATION**
+   - Construction: Same as VERIFICATION (Verb + Object + negative truth-domain adjective)
+   - Status: [CORE], fully productive, shares construction with VERIFICATION
+
+7. **NEGATION (analytic)**
+   - Construction: Subject + BE + NEG + truth-domain adjective
+   - Status: [CORE], fully productive without restrictions
+
+8. **NOMINALIZATION (abstract)**
+   - Construction: truth-domain adjective + -ness/-ity/-cy/-th
+   - Construction: Bare noun forms (truth, error, lie)
+   - Status: [CORE], productive (though suffix choice lexically determined)
+
+### Available with Substitution
+
+9. **REVELATION**
+   - **Substituted by**: BECOME (with evidential verbs: "turn out to be," "prove") or VERIFICATION (phrasal verbs)
+   - Status: No dedicated construction; meaning expressed through other operators
+   - Note: Lexical choice (verb selection) rather than constructional distinction
+
+10. **NEGATION (synthetic)**
+    - Construction: Subject + BE + negative-prefixed adjective
+    - Status: [CORE] but **lexically restricted**; analytic negation substitutes where synthetic unavailable
+    - Note: Availability determined by lexical convention, not productive morphology
+
+### Partially Available
+
+11. **BECOME (specialized: "come true")**
+    - Construction: Subject + come true
+    - Status: [CORE] within restricted domain (predictions, wishes, dreams); [MARGINAL] or blocked elsewhere
+    - Note: Lexical-constructional idiom with limited distribution
+
+12. **NOMINALIZATION (agentive)**
+    - Construction: truth-domain root + -er/-or (e.g., "liar")
+    - Construction: Compound forms (e.g., "truth-teller")
+    - Status: [CORE] for established forms like "liar"; [MARGINAL] for compounds
+    - Note: Limited productivity; many concepts lack dedicated agent nouns
+
+### Missing Entirely
+
+13. **CAUSATION (character)**
+    - Status: **MISSING (structural gap)**
+    - Substitution: Circumlocution required ("cause X to become a liar," "make X into a truth-teller")
+    - Note: Conceptual blocking; English resists direct causative application to habitual character traits in truth domain
+
+---
+
+## Summary Statement
+
+English provides **robust constructional support** for most CLCA operators in the truth domain, with the following key patterns:
+
+- **Core operators** (ATTR, ADNOM, BECOME, CAUSATION-factual, VERIFICATION, DISCONFIRMATION, NEGATION-analytic, NOMINALIZATION-abstract) are fully productive and unrestricted.
+
+- **REVELATION** is systematically **substituted by BECOME** (through evidential verb choice) or by VERIFICATION constructions (phrasal verbs). No dedicated constructional distinction exists.
+
+- **CAUSATION (character)** represents a **structural and conceptual gap**: the language lacks a common expression for directly causing someone to acquire habitual truth-domain character traits.
+
+- **NEGATION** operates through **dual strategies** (analytic and synthetic), with lexically determined distribution rather than semantic or pragmatic conditioning.
+
+- **Partial availability** characterizes specialized constructions ("come true") and agentive nominalizations, where productivity is restricted by domain or lexical convention.
+
+The language shows **no systematic asymmetries** between positive and negative polarity (VERIFICATION and DISCONFIRMATION share constructions; NEGATION is fully productive analytically). The primary gaps are **REVELATION** (substituted) and **CAUSATION (character)** (missing).

@@ -1,0 +1,805 @@
+# G7a — DATA-DERIVED GLOBAL CONSTRAINT MATRIX
+
+## 1. Inferred Semantic Dimensions (From Cross-Language Data)
+
+Based on recurring lexical distinctions, semantic groupings, and distributional patterns across the eight languages, the following semantic dimensions emerge:
+
+### D1: PROPOSITIONAL CORRESPONDENCE
+Evaluation of whether statements, claims, or representations match actual facts or states of affairs. Distinguished from material authenticity by targeting linguistic/representational content rather than physical objects.
+
+**Evidence**: Lexical distinctions in zh (实 shí), he (אמת emet for statements), el (αλήθεια), en (true for propositions), tl (totoo), sw (kweli/ukweli). Semantic groups across languages consistently distinguish factual correspondence from other dimensions.
+
+---
+
+### D2: MATERIAL AUTHENTICITY
+Evaluation of whether physical objects, documents, or credentials are genuine originals versus counterfeits, imitations, or forgeries. Distinguished from propositional truth by targeting material provenance rather than representational accuracy.
+
+**Evidence**: Lexical distinctions in zh (真 zhēn for objects), he (אמיתי amiti), el (γνήσιος/αυθεντικός), en (genuine/authentic), tl (tunay), sw (halisi). Semantic groups in 6/8 languages explicitly separate authenticity from factual truth.
+
+---
+
+### D3: CORRECTNESS (BINARY)
+Evaluation of whether answers, judgments, or procedures conform to standards or rules in binary fashion (right/wrong, correct/incorrect). Distinguished from precision by categorical rather than gradable assessment.
+
+**Evidence**: Lexical items in zh (对/错), he (נכון), el (σωστός), en (correct/right), tl (tama/mali), sw (sahihi), qu (allin). All languages show dedicated vocabulary for binary correctness evaluation.
+
+---
+
+### D4: PRECISION/ACCURACY
+Evaluation of degree of exactness or fine-grained correspondence to detailed specifications. Distinguished from binary correctness by gradability and emphasis on detail.
+
+**Evidence**: Lexical distinctions in zh (准确 zhǔnquè), he (מדויק meduyak), el (ακριβής akrivís), en (accurate/precise), sw (madhubuti). Semantic groups in 5/8 languages explicitly separate precision from simple correctness.
+
+---
+
+### D5: HONESTY/SINCERITY (CHARACTER)
+Evaluation of persons' habitual truthfulness, sincerity, or honest character as dispositional trait. Distinguished from propositional truth by targeting character rather than statement content.
+
+**Evidence**: Lexical items in zh (诚实 chéngshí), he (כנה kene), el (ειλικρινής eilikrinís), en (honest/truthful), tl (tapat), sw (uses halisi or sinsero). Semantic groups in 6/8 languages explicitly separate character honesty from factual accuracy.
+
+---
+
+### D6: DECEPTION/LYING
+Characterization of deliberate falsehood or intent to mislead. Distinguished from simple error by intentionality and moral condemnation.
+
+**Evidence**: Lexical items in all 8 languages (zh 欺骗, he שקר, sa मिथ्या, el ψέμα, en lie/deceive, tl kasinungalingan/daya, sw uongo/-danganya, qu llulla). Universal semantic groups for deception vs. error.
+
+---
+
+### D7: ERROR/MISTAKE
+Characterization of unintentional incorrectness or cognitive failure. Distinguished from deception by lack of intent to mislead.
+
+**Evidence**: Lexical items in all 8 languages (zh 错误, he טעות, sa भ्रम, el λάθος, en error/mistake, tl pagkakamali, sw makosa, qu pantay). Universal semantic groups distinguishing error from deception.
+
+---
+
+### D8: SUBSTANTIALITY/CONCRETENESS
+Evaluation of whether something has genuine substance, solidity, or concrete reality versus being empty, hollow, or merely superficial.
+
+**Evidence**: Strong lexical distinctions in zh (实/虚 shí/xū), qu (hunt'a/ch'usaq). Moderate evidence in el (ουσιαστικός), en (substantial). Semantic groups in zh and qu explicitly elaborate this dimension.
+
+---
+
+### D9: VALIDITY/LEGITIMACY (INSTITUTIONAL)
+Evaluation of whether something has proper authorization, legal force, or institutional legitimacy. Distinguished from factual truth by procedural/legal rather than epistemic criteria.
+
+**Evidence**: Lexical items in he (תקף takef), el (έγκυρος énkyros), en (valid), sw (chanin). Semantic groups in 4/8 languages explicitly separate validity from truth.
+
+---
+
+### D10: RELIABILITY/DEPENDABILITY
+Evaluation of consistent trustworthiness over time based on track record. Distinguished from single-instance accuracy by temporal scope and consistency.
+
+**Evidence**: Lexical items in zh (可靠 kěkào), he (אמין amin/נאמן ne'eman), el (αξιόπιστος), en (reliable/trustworthy), sw (madhubuti). Semantic groups in 5/8 languages explicitly separate reliability from accuracy.
+
+---
+
+### D11: COMPLETENESS/WHOLENESS
+Evaluation of whether something is complete, whole, and lacking nothing essential versus incomplete or partial.
+
+**Evidence**: Lexical items in sa (कामिल kāmil), sw (kamili), qu (hunt'a/ch'ulla), en (complete/whole). Applied to truth in constructions like "whole truth" vs. "half-truth."
+
+---
+
+### D12: CLARITY/OBVIOUSNESS
+Evaluation of whether truth or facts are manifest, evident, and clearly visible versus hidden or obscure. Concerns epistemic accessibility rather than truth-value itself.
+
+**Evidence**: Lexical items in he (ברור barur), el (dhahiri), sw (dhahiri), tl (lantád/lihim), qu (suti). Semantic groups in 5/8 languages include clarity/obviousness terms.
+
+---
+
+### D13: CERTAINTY/CONFIDENCE (EPISTEMIC STANCE)
+Marking of speaker's degree of confidence or certainty about claims. Distinguished from objective truth by concerning subjective epistemic attitude.
+
+**Evidence**: Lexical items in he (ודאי vadai), el (βέβαιος vévaios), en (certain/sure), sw (hakika). Semantic groups in 4/8 languages explicitly separate certainty from truth. Quechua grammaticalizes through evidentials.
+
+---
+
+### D14: RELATIONAL/EMOTIONAL AUTHENTICITY
+Evaluation of genuineness in interpersonal relationships, emotions, or personal identity. Distinguished from factual truth by targeting relational/emotional rather than propositional domain.
+
+**Evidence**: Collocations in all 8 languages (zh 真心, he נאמן, el ειλικρινής, en genuine/sincere, tl tunay na pag-ibig, sw halisi applied to mapenzi, qu chiqan sunqu). Semantic groups in 7/8 languages include relational authenticity.
+
+---
+
+## 2. Inferred Constructional Functions (From Cross-Language Data)
+
+Based on recurring construction types across F4 tables and naturalness patterns in F6:
+
+### F1: BASIC PREDICATION
+Attributing truth-domain property to subject through copular or stative construction.
+**Evidence**: Universal across all 8 languages in F4 tables.
+
+### F2: NEGATION
+Denying truth-domain property through morphological or analytic negation.
+**Evidence**: Universal across all 8 languages in F4 tables.
+
+### F3: ADNOMINAL MODIFICATION
+Modifying nouns with truth-domain terms (true story, false witness, genuine friend).
+**Evidence**: Universal across all 8 languages in F4 tables.
+
+### F4: INCHOATIVE/CHANGE-OF-STATE
+Expressing transition to truth-domain state (become true, turn out false).
+**Evidence**: All 8 languages show strategies (varying naturalness) in F4/F6.
+
+### F5: CAUSATIVE VERIFICATION
+Causing something to be established as true through active process (verify, prove, confirm).
+**Evidence**: 6/8 languages show dedicated morphology; 2/8 use alternative strategies.
+
+### F6: CAUSATIVE FALSIFICATION
+Causing something to be false or creating false versions (falsify, forge).
+**Evidence**: Rare or uses different strategies across all 8 languages.
+
+### F7: CAUSATIVE CORRECTION
+Making something correct or improving quality (correct, fix, improve).
+**Evidence**: 7/8 languages show productive patterns in F4/F6.
+
+### F8: AGENTIVE NOMINALIZATION (NEGATIVE)
+Deriving agent nouns for persons characterized by negative qualities (liar, deceiver).
+**Evidence**: Universal across all 8 languages (varying strategies).
+
+### F9: AGENTIVE NOMINALIZATION (POSITIVE)
+Deriving agent nouns for persons characterized by positive qualities (truth-teller).
+**Evidence**: Blocked or circumlocutory in 6/8 languages.
+
+### F10: ABSTRACT NOMINALIZATION
+Deriving abstract quality nouns (truth, honesty, accuracy as concepts).
+**Evidence**: Universal across all 8 languages with high productivity.
+
+### F11: ADVERBIAL DERIVATION
+Creating manner adverbs (truly, honestly, accurately).
+**Evidence**: Universal across all 8 languages (varying strategies).
+
+### F12: LIGHT VERB CONSTRUCTIONS
+Conventionalized verb-object combinations (tell truth, make mistake).
+**Evidence**: Universal across all 8 languages with high frequency.
+
+### F13: COMPARATIVE/SUPERLATIVE
+Expressing degrees (more/most true, more/most accurate).
+**Evidence**: Universal across all 8 languages (analytic only).
+
+### F14: INTENSIFICATION/EMPHASIS
+Emphatic or completive marking (very true, absolutely correct).
+**Evidence**: Universal across all 8 languages (varying strategies).
+
+### F15: REVELATION/EMERGENCE
+Metaphorical constructions for truth becoming known (truth comes to light).
+**Evidence**: 6/8 languages show prominent patterns in F4/F5/F6.
+
+### F16: CONCEALMENT/HIDING
+Constructions for hiding or concealing truth.
+**Evidence**: 6/8 languages show transitive constructions in F5.
+
+### F17: DISCOURSE MARKER USE
+Grammaticalized use for managing conversation rather than asserting truth-value.
+**Evidence**: 7/8 languages show active grammaticalization in F4.
+
+### F18: EVIDENTIAL/EPISTEMIC FRAMING
+Marking epistemic source or degree of confidence.
+**Evidence**: Quechua grammatical; others use optional strategies.
+
+### F19: PASSIVE DERIVATION
+Passive forms of causative/transitive verbs (was verified, has been proven).
+**Evidence**: 6/8 languages show productive patterns in F4/F6.
+
+### F20: PROHIBITIVE/NEGATIVE IMPERATIVE
+Commands against lying, erring, or falsifying.
+**Evidence**: Universal across all 8 languages in F4.
+
+---
+
+## 3. Global Constraint Matrix
+
+| Semantic Dimension | F1: Basic Predication | F2: Negation | F3: Adnominal Modification | F4: Inchoative | F5: Causative Verification | F6: Causative Falsification | F7: Causative Correction | F8: Agentive (Negative) | F9: Agentive (Positive) | F10: Abstract Nominalization | F11: Adverbial Derivation | F12: Light Verb Constructions | F13: Comparative | F14: Intensification | F15: Revelation/Emergence | F16: Concealment | F17: Discourse Marker | F18: Evidential Framing | F19: Passive Derivation | F20: Prohibitive |
+|------------------------|----------------------|--------------|---------------------------|----------------|---------------------------|----------------------------|-------------------------|------------------------|------------------------|----------------------------|--------------------------|------------------------------|-----------------|---------------------|--------------------------|-----------------|---------------------|------------------------|------------------------|-----------------|
+| **D1: Propositional Correspondence** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | BLOCKED | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE |
+| **D2: Material Authenticity** | ALLOWED | ALLOWED | ALLOWED | BLOCKED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE |
+| **D3: Correctness (Binary)** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | BLOCKED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | ALLOWED | ALLOWED |
+| **D4: Precision/Accuracy** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | ALLOWED | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE |
+| **D5: Honesty/Sincerity (Character)** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE | ALLOWED |
+| **D6: Deception/Lying** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED |
+| **D7: Error/Mistake** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | BLOCKED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED |
+| **D8: Substantiality/Concreteness** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE |
+| **D9: Validity/Legitimacy** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE |
+| **D10: Reliability/Dependability** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE |
+| **D11: Completeness/Wholeness** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE |
+| **D12: Clarity/Obviousness** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE |
+| **D13: Certainty/Confidence** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE |
+| **D14: Relational/Emotional Authenticity** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | BLOCKED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE | VARIABLE |
+
+---
+
+## 4. Narrative Analysis of Constraints
+
+### 4.1 Strongly Recurrent Constraints (High Confidence)
+
+**UNIVERSAL ALLOWANCES (All Dimensions, Multiple Functions)**
+
+**1. Basic Predication (F1), Negation (F2), Adnominal Modification (F3)**
+
+All semantic dimensions show ALLOWED status for basic predication, negation, and adnominal modification across all 8 languages. These represent the most fundamental constructional functions:
+
+- **Basic predication**: "X is true/correct/genuine/honest" — universal across all dimensions
+- **Negation**: "X is not true/not correct/not genuine" — universal across all dimensions  
+- **Adnominal modification**: "true X, false X, correct X, wrong X" — universal across all dimensions
+
+**Evidence strength**: VERY STRONG. All languages show these patterns for all dimensions without restrictions. F4 tables document full productivity; F6 naturalness ratings consistently [CORE].
+
+**Interpretation**: These three functions represent the minimal constructional toolkit for truth-domain evaluation. No language can express truth-domain meanings without them.
+
+---
+
+**2. Abstract Nominalization (F10) and Adverbial Derivation (F11)**
+
+All semantic dimensions show ALLOWED status for abstract nominalization and adverbial derivation across all 8 languages:
+
+- **Abstract nominalization**: "truth, honesty, accuracy, completeness" as abstract concepts
+- **Adverbial derivation**: "truly, honestly, accurately, completely" as manner adverbs
+
+**Evidence strength**: VERY STRONG. All languages show productive patterns (varying formal strategies: suffixation, circumfixation, periphrasis). F2a tables document extensive derivational families. F4 tables show unrestricted usage.
+
+**Interpretation**: These represent universal derivational needs: referring to qualities as abstract concepts and modifying actions with manner specifications. Essential for formal/philosophical discourse and everyday communication.
+
+---
+
+**3. Comparative/Superlative (F13) and Intensification (F14)**
+
+All semantic dimensions show ALLOWED status for comparative/superlative and intensification across all 8 languages:
+
+- **Comparative**: "more true, more accurate, more honest" — analytic only, no synthetic forms
+- **Intensification**: "very true, absolutely correct, completely genuine" — varying strategies
+
+**Evidence strength**: STRONG. All languages show analytic comparatives (no synthetic forms attested). F4 tables document productivity. F6 shows [CORE] ratings for intensification across languages.
+
+**Interpretation**: Gradability is universal property of truth-domain terms. Even terms that might seem absolute (true/false) accept degree modification in practice. Intensification strategies vary (particles, reduplication, adverbs) but function is universal.
+
+---
+
+**UNIVERSAL BLOCKINGS (Specific Function Across Dimensions)**
+
+**1. Positive Agentive Nominalization (F9) — BLOCKED Across All Dimensions**
+
+All semantic dimensions show BLOCKED or highly restricted status for positive agentive nominalization:
+
+- **Pattern**: No productive formation of "truth-teller, honest-person, accurate-person" agent nouns
+- **Evidence**: 6/8 languages use circumlocution, participial phrases, or possessive constructions
+- **Exceptions**: Sanskrit सत्यवादिन् satyavādin [CORE], Quechua chiqan rimaq [CORE - compound]
+
+**Evidence strength**: VERY STRONG. G6 documents systematic asymmetry: negative agentives (liar, deceiver) productive in 8/8 languages; positive agentives blocked in 6/8. F1/F2 tables show gaps or circumlocutions.
+
+**Interpretation**: This represents a universal cognitive or social bias. Negative moral agents are more salient for lexicalization than positive agents. Reflects:
+- Threat detection salience
+- Social monitoring of violations
+- Positive behavior as unmarked/default
+
+This is the strongest universal blocking pattern in the data.
+
+---
+
+**2. Causative Falsification (F6) — BLOCKED or HIGHLY RESTRICTED**
+
+Most semantic dimensions show BLOCKED or VARIABLE (restricted) status for causative falsification:
+
+- **Pattern**: No productive causatives meaning "make false/cause to be false" from false/lie roots
+- **Evidence**: 7/8 languages lack dedicated causative falsification; use deception verbs instead
+- **Partial exception**: Greek διαψεύδω diapsévdo [MARGINAL]; English falsify (different root)
+
+**Evidence strength**: VERY STRONG. G6 documents systematic asymmetry with verification causatives. F6 naturalness data shows gaps or marginal status across languages. G5 notes this as major asymmetry.
+
+**Interpretation**: Falsification is not conceptualized as direct causation of falsity but rather as:
+- Deception (causing false belief)
+- Corruption (destroying truth)  
+- Forgery (creating false documents)
+
+Languages describe the means (deceiving, corrupting, forging) rather than the result (making false) directly. This suggests falsity is conceptualized as absence or corruption of truth rather than positive state that can be directly caused.
+
+---
+
+**3. Objects Becoming Genuine (F4 for D2: Material Authenticity) — BLOCKED**
+
+Material authenticity dimension shows BLOCKED status for inchoative constructions:
+
+- **Pattern**: Objects do not spontaneously "become genuine"
+- **Evidence**: 7/8 languages show gaps or marginal status in F6 for this construction
+- **Alternative**: Authenticity established through verification (was proven genuine, turned out to be authentic)
+
+**Evidence strength**: STRONG. F6 explicitly notes gaps across languages. G5 documents this as systematic restriction.
+
+**Interpretation**: Authenticity is conceptualized as inherent property that is verified/discovered, not as state that objects achieve through change. Reflects ontological assumption: genuineness is essential property, not accidental state.
+
+---
+
+### 4.2 Strongly Recurrent Asymmetries
+
+**ASYMMETRY 1: Verification vs. Falsification (Causative)**
+
+**Pattern**: Causative verification (F5) shows ALLOWED status across most dimensions; causative falsification (F6) shows BLOCKED or VARIABLE status.
+
+**Evidence**:
+- **Verification**: 6/8 languages show productive causative morphology (he, el, tl, sw, qu, plus zh resultative compounds)
+- **Falsification**: 8/8 languages show blocking, gaps, or use of different strategies
+- **Applies to**: D1 (propositional), D2 (material), D4 (precision), D9 (validity), D10 (reliability)
+
+**Evidence strength**: VERY STRONG. Documented in G5 (causative comparison), G6 (asymmetry analysis), F6 (naturalness gaps).
+
+**Interpretation**: Truth-establishment is conceptualized as active process requiring dedicated causative morphology. Falsification is achieved through indirect means (deception, corruption, forgery) rather than direct causation. This represents fundamental conceptual asymmetry in how truth and falsehood are understood to come about.
+
+---
+
+**ASYMMETRY 2: Positive vs. Negative Agentive Nominalization**
+
+**Pattern**: Negative agentive (F8) shows ALLOWED status; positive agentive (F9) shows BLOCKED status across all dimensions.
+
+**Evidence**:
+- **Negative**: 8/8 languages show productive formation for liar/deceiver
+- **Positive**: 6/8 languages show blocking or circumlocution for truth-teller
+- **Applies to**: All dimensions where character evaluation is relevant (D1, D3, D5, D6, D7)
+
+**Evidence strength**: VERY STRONG. Documented in G6 (agentive asymmetry), G2 (lexical gaps), F1/F2 (circumlocutions).
+
+**Interpretation**: Negative moral agents are more readily lexicalized than positive agents across unrelated languages. Reflects universal cognitive bias toward:
+- Threat detection and social monitoring
+- Marking violations rather than virtues
+- Treating positive behavior as unmarked default
+
+This is the most systematic derivational asymmetry in the data.
+
+---
+
+**ASYMMETRY 3: Revelation (Intransitive) vs. Concealment (Transitive)**
+
+**Pattern**: Revelation constructions (F15) are typically intransitive/passive; concealment constructions (F16) are typically transitive/agentive.
+
+**Evidence**:
+- **Revelation**: 6/8 languages show intransitive emergence (zh 真相大白, he האמת תצא לאור, el βγαίνει η αλήθεια, en "truth will out", tl lumabas, sw unadhihirika)
+- **Concealment**: 6/8 languages show transitive hiding (zh 隐瞒, he להסתיר, el κρύβω, en hide, tl itago, sw ficha)
+- **Applies to**: Primarily D1 (propositional correspondence) and D12 (clarity/obviousness)
+
+**Evidence strength**: STRONG. Documented in G6 (constructional asymmetries), F5 (opposition patterns), F2b (construction examples).
+
+**Interpretation**: Conceptual asymmetry: truth has inherent tendency to emerge (intransitive); concealment requires active agent (transitive). Reflects metaphor: TRUTH IS OBJECT WITH INHERENT TENDENCY TO SURFACE; CONCEALMENT IS ACTIVE SUPPRESSION.
+
+---
+
+**ASYMMETRY 4: Inchoative Restrictions for Truth vs. General Improvement**
+
+**Pattern**: Inchoative constructions (F4) show VARIABLE or restricted status for truth-domain (D1, D2) but ALLOWED status for general evaluation (D3, D7, D11).
+
+**Evidence**:
+- **"Become true"**: Restricted/marginal in 7/8 languages (zh [MARGINAL], he uses different root, el [MARGINAL], en come true [restricted], tl [marginal], sw [uses revelation], qu [MARGINAL])
+- **"Become good/better"**: Productive in tested languages (zh 变好 [CORE], he להשתפר [CORE], el γίνομαι καλύτερος [CORE], en improve [CORE], qu allinyay [CORE])
+- **"Become complete"**: Productive in tested languages (sw kamilika [CORE], qu hunt'achikuy [CORE])
+
+**Evidence strength**: STRONG. Documented in F6 (naturalness comparisons), G6 (asymmetry analysis).
+
+**Interpretation**: Truth is conceptualized as pre-existing and revealed rather than coming into being. General improvement (becoming good, becoming complete) is conceptualized as genuine change-of-state. This reflects different ontological assumptions:
+- Truth: discovered/revealed (epistemic change)
+- Quality: improved/achieved (ontological change)
+
+---
+
+### 4.3 Important Divergences and Substitutions
+
+**DIVERGENCE 1: Inchoative Strategies (F4)**
+
+**Pattern**: Languages show three main strategies for change-of-state, with varying preferences:
+
+1. **Dedicated inchoative morphology**: Tagalog mag-ka-, Swahili -ika, Quechua -ya- (productive)
+2. **Periphrastic become**: Chinese 变, Hebrew להפוך, Greek γίνομαι, English become (productive)
+3. **Revelation/discovery constructions**: Preferred across most languages for truth-domain
+
+**Evidence**: F6 documents varying naturalness ratings. G5 notes constructional alternatives.
+
+**Interpretation**: Even languages with productive inchoative morphology prefer revelation constructions for truth-domain. This represents functional substitution: metaphorical revelation replaces literal change-of-state.
+
+**Cross-dimension variation**: 
+- D1 (propositional): Strongly prefers revelation over inchoative
+- D3 (correctness): Allows inchoative more readily
+- D7 (error): Allows inchoative (making mistakes)
+- D11 (completeness): Allows inchoative (becoming complete)
+
+---
+
+**DIVERGENCE 2: Causative Strategies (F5, F7)**
+
+**Pattern**: Languages show three main strategies for causative verification/correction:
+
+1. **Affixal causatives**: Hebrew hif'il, Greek -ώνω, Tagalog pa-, Swahili -isha, Quechua -cha- (6 languages)
+2. **Resultative compounds**: Chinese 证实, 改正 (1 language)
+3. **Separate roots**: English verify/prove/correct (from Latin), Sanskrit uses separate roots (2 languages)
+
+**Evidence**: G5 documents causative strategies. F4 shows productivity patterns.
+
+**Interpretation**: The function (establishing truth, making correct) is universal, but formal realization depends on available morphological resources. This represents typological variation in how universal function is expressed:
+- Agglutinative languages: affixal causatives
+- Isolating languages: resultative compounds
+- Languages without productive causatives: borrowed or separate roots
+
+**Cross-dimension consistency**: Pattern holds across D1 (propositional), D2 (material), D3 (correctness), D4 (precision), D9 (validity).
+
+---
+
+**DIVERGENCE 3: Adnominal Modification Strategies (F3)**
+
+**Pattern**: Languages show two main strategies for modifying nouns:
+
+1. **Direct prenominal adjectives**: Chinese, Greek, English (standard)
+2. **Associative/genitive constructions**: Hebrew construct state, Tagalog linker, Swahili associative, Quechua juxtaposition (standard)
+
+**Evidence**: F4 documents both strategies. G5 notes typological correlation.
+
+**Interpretation**: The function (modifying nouns with truth-domain terms) is universal, but strategy correlates with general language typology:
+- Isolating/fusional languages: direct modification
+- Semitic/Austronesian/Bantu/Quechuan: associative constructions
+
+Both strategies are fully productive and show no restrictions across dimensions.
+
+---
+
+**DIVERGENCE 4: Discourse Marker Development (F17)**
+
+**Pattern**: 7/8 languages show active grammaticalization of truth-domain terms into discourse markers; Sanskrit (classical language) does not.
+
+**Evidence**: G5 documents discourse marker pathways. F4 shows pragmatic functions. F2b provides examples.
+
+**Functions**:
+- Introducing frank statements (zh 说真的, he באמת, el αλήθεια, en "to be honest", tl "totoo lang", sw "kwa kweli", qu chiqap)
+- Seeking confirmation (he נכון?, el ορθός?, tl "totoo ba?")
+- Expressing surprise (he באמת?, el αλήθεια?, en "really?")
+
+**Evidence strength**: STRONG. Documented across 7/8 languages in multiple sources.
+
+**Interpretation**: This represents universal pragmatic pathway active in living languages: truth-assertion → speaker stance marker → discourse management particle. The pathway requires ongoing spoken language evolution, explaining Sanskrit's exception as classical language.
+
+**Cross-dimension variation**: Primarily affects D1 (propositional), D3 (correctness), D5 (honesty) — dimensions most relevant to communicative sincerity.
+
+---
+
+### 4.4 Substitution Patterns
+
+**SUBSTITUTION 1: Revelation Metaphors Replace Simple Inchoatives**
+
+**Pattern**: Across 6/8 languages, metaphorical revelation constructions (F15) functionally replace simple inchoatives (F4) for truth-domain.
+
+**Evidence from F6**:
+- Languages prefer "truth came to light" over "became true"
+- Even languages with productive inchoative morphology show this preference
+- Applies primarily to D1 (propositional correspondence) and D12 (clarity)
+
+**Mechanism**: Conceptual metaphor TRUTH IS HIDDEN OBJECT THAT EMERGES drives constructional preference. Languages elaborate revelation vocabulary (emerge, come out, come to light, be revealed) rather than simple inchoative morphology.
+
+**Evidence strength**: STRONG. F6 naturalness data, G6 asymmetry analysis, F5 opposition patterns all support.
+
+---
+
+**SUBSTITUTION 2: Deception Verbs Replace Falsification Causatives**
+
+**Pattern**: Across all 8 languages, deception verbs (deceive, mislead, trick) functionally replace causatives meaning "make false."
+
+**Evidence from F6/G6**:
+- No language shows productive causative "make false" from false/lie roots
+- All languages show productive deception vocabulary (zh 欺骗, he רמאות, sa मिथ्या, el απάτη, en deceive, tl daya/linlang, sw -danganya, qu llullachiy)
+- Applies to D6 (deception/lying) dimension
+
+**Mechanism**: Falsification is conceptualized as causing false belief (deception) rather than making things false. Languages elaborate deception vocabulary rather than falsification causatives.
+
+**Evidence strength**: VERY STRONG. G6 documents this as major asymmetry. F6 shows gaps across languages.
+
+---
+
+**SUBSTITUTION 3: Circumlocution Replaces Positive Agentive Derivation**
+
+**Pattern**: Across 6/8 languages, periphrastic descriptions (participial phrases, possessive constructions, compounds) functionally replace morphological agentive derivation for positive agents.
+
+**Evidence from F1/F2**:
+- **Circumlocution strategies**: Chinese 说真话的人 (relative clause), Hebrew דובר אמת (participial), Swahili mwenye ukweli (possessive), English truth-teller (compound)
+- **Productive negative**: All languages show morphological agentives for liar/deceiver
+- **Applies to**: D5 (honesty/sincerity) primarily
+
+**Mechanism**: Positive moral agents described through behavior (one who speaks truth) rather than dedicated agent nouns. Periphrastic description functionally replaces morphological derivation.
+
+**Evidence strength**: STRONG. G6 documents asymmetry. F1/F2 show circumlocutions.
+
+---
+
+**SUBSTITUTION 4: General Maintenance Verbs Replace Dedicated Truth-Preservation**
+
+**Pattern**: Across 6/8 languages, general preservation verbs (keep, maintain, preserve) are used rather than dedicated "preserve truth" constructions.
+
+**Evidence from F6**:
+- Languages use general verbs: zh 保持, he שמר, el διατηρώ, en keep/maintain, sw hifadhi
+- No dedicated truth-preservation morphology attested
+- Applies across dimensions where preservation is relevant
+
+**Mechanism**: Maintaining truth is not conceptualized as distinct from general preservation. General maintenance verbs functionally replace any potential dedicated constructions.
+
+**Evidence strength**: MODERATE. F6 documents use of general verbs. No dedicated forms attested.
+
+---
+
+### 4.5 Confidence Assessment
+
+**VERY HIGH CONFIDENCE (Supported by Multiple Data Sources, All 8 Languages)**
+
+1. **Universal allowances**: Basic predication (F1), negation (F2), adnominal modification (F3) allowed across all dimensions
+2. **Universal derivations**: Abstract nominalization (F10), adverbial derivation (F11) productive across all dimensions
+3. **Universal gradability**: Comparative/superlative (F13), intensification (F14) allowed across all dimensions
+4. **Universal blocking**: Positive agentive nominalization (F9) blocked across all dimensions
+5. **Causative asymmetry**: Verification (F5) allowed; falsification (F6) blocked across dimensions
+
+**Evidence**: Documented in F4 (construction tables), F6 (naturalness data), G5 (construction comparison), G6 (asymmetry analysis), G2 (lexical gaps). Consistent across all 8 languages from unrelated families.
+
+---
+
+**HIGH CONFIDENCE (Supported by 6-7 Languages, Multiple Data Sources)**
+
+1. **Revelation preference**: Revelation/emergence constructions (F15) preferred over simple inchoatives (F4) for truth-domain
+2. **Intransitive revelation**: Truth revelation typically intransitive; concealment typically transitive
+3. **Light verb conventionalization**: "Speak truth/lies" (F12) highly conventionalized across languages
+4. **Discourse marker development**: Truth-domain terms grammaticalize into discourse markers (F17) in living languages
+5. **Deception elaboration**: Deception vocabulary more elaborate than honesty vocabulary
+
+**Evidence**: Documented in F6 (naturalness preferences), G6 (asymmetries), F5 (opposition patterns), F2b (constructions). Consistent across 6-7 languages.
+
+---
+
+**MODERATE CONFIDENCE (Supported by 4-5 Languages or Partial Evidence)**
+
+1. **Precision/accuracy distinction**: Lexicalized in 5/8 languages; less clear in others (D4 as separate dimension)
+2. **Validity/legitimacy distinction**: Lexicalized in 4/8 languages; less clear in others (D9 as separate dimension)
+3. **Reliability distinction**: Lexicalized in 4/8 languages; conflated with accuracy in others (D10 as separate dimension)
+4. **Completeness applied to truth**: Some languages apply completeness vocabulary to truth ("whole truth"); others less systematic (D11 integration)
+5. **Clarity/obviousness**: Lexicalized in 5/8 languages; less systematic in others (D12 as dimension)
+
+**Evidence**: Documented in G2 (lexical partitions), G3 (semantic dimensions), F3 (semantic groups). Shows cross-language variation.
+
+---
+
+**LOW CONFIDENCE OR INSUFFICIENT DATA**
+
+1. **Consistency vs. correspondence**: Only 2/8 languages show clear lexicalization (zh, en); may be philosophical rather than universal
+2. **Conventional vs. ultimate truth**: Only Sanskrit shows systematic lexicalization; language-specific philosophical elaboration
+3. **Epistemological validity framework**: Only Sanskrit shows systematic elaboration; language-specific
+4. **Reflexive/middle marking patterns**: Only 4/8 languages show productive reflexive in truth-domain; functions vary
+5. **Reciprocal constructions**: Only 3/8 languages show productive reciprocal; applies mainly to argumentative verbs
+6. **Stative/neuter distinctions**: Only 3/8 languages show morphological state/action distinction
+
+**Evidence**: Limited to specific languages or registers. G5 notes language-specific elaborations. F4 shows restricted distributions.
+
+---
+
+### 4.6 Gaps and Missing Patterns
+
+**GAP 1: Synthetic Comparative/Superlative Forms**
+
+**Observation**: No language in the sample shows synthetic comparative or superlative morphology for truth-domain terms.
+
+**Evidence**: All 8 languages use analytic strategies (more/most + adjective). F4 tables document this universally.
+
+**Interpretation**: Truth-domain terms resist synthetic comparison morphology even in languages that have it for other adjectives (e.g., English good/better/best but true/more true/most true, not *truer/*truest in standard usage). This may reflect:
+- Absolute nature of truth (though degree modification is allowed)
+- Recent grammaticalization of comparison morphology not extending to truth-domain
+- Cross-linguistic tendency toward analytic comparison for abstract qualities
+
+**Confidence**: VERY HIGH (universal pattern across all 8 languages).
+
+---
+
+**GAP 2: Dedicated Truth-Preservation Morphology**
+
+**Observation**: No language shows dedicated morphology or constructions for "preserve/maintain truth" distinct from general preservation.
+
+**Evidence**: F6 shows all languages use general maintenance verbs (keep, preserve, maintain). No dedicated forms attested.
+
+**Interpretation**: Maintaining truth is not conceptualized as requiring specialized constructions. General preservation verbs suffice. This contrasts with:
+- Verification (6/8 languages have dedicated causatives)
+- Revelation (6/8 languages have dedicated metaphorical constructions)
+
+Suggests truth-maintenance is less salient than truth-establishment or truth-revelation.
+
+**Confidence**: MODERATE (based on F6 data; possible that dedicated forms exist but weren't tested).
+
+---
+
+**GAP 3: Symmetrical Causative Falsification**
+
+**Observation**: No language shows productive causative falsification parallel to productive causative verification.
+
+**Evidence**: G6 documents this as universal asymmetry. F6 shows gaps or marginal status across all languages.
+
+**Interpretation**: Falsification is not conceptualized as direct causation parallel to verification. Languages describe falsification through:
+- Deception (causing false belief)
+- Corruption (destroying truth)
+- Forgery (creating false documents)
+
+Rather than "making false" as direct causative.
+
+**Confidence**: VERY HIGH (consistent across all 8 languages from unrelated families).
+
+---
+
+**GAP 4: Productive Positive Agentive Derivation**
+
+**Observation**: Only 2/8 languages (Sanskrit, Quechua) show productive agentive derivation for positive moral agents (truth-teller, honest person).
+
+**Evidence**: G6 documents systematic asymmetry. F1/F2 show circumlocutions in 6/8 languages.
+
+**Interpretation**: Positive moral agents are not readily lexicalized through productive morphology. Languages use:
+- Participial phrases (one who speaks truth)
+- Possessive constructions (one having truth)
+- Compounds (truth-speaker)
+
+Rather than dedicated agentive suffixes. This represents systematic gap in derivational morphology.
+
+**Confidence**: VERY HIGH (consistent pattern across 6/8 languages).
+
+---
+
+## 5. Matrix Interpretation Notes
+
+### 5.1 ALLOWED Cells (Broadly Attested, Natural)
+
+**Characteristics**:
+- Attested in 6+ languages
+- F6 naturalness ratings [CORE] or [MARGINAL] (not [UNCERTAIN]/[GAP])
+- F4 construction tables document productivity
+- No systematic restrictions observed
+
+**Examples**:
+- D1 × F1 (propositional truth + basic predication): Universal
+- D1 × F5 (propositional truth + causative verification): 6/8 languages
+- D3 × F7 (correctness + causative correction): 7/8 languages
+- All dimensions × F10 (abstract nominalization): Universal
+- All dimensions × F11 (adverbial derivation): Universal
+
+---
+
+### 5.2 BLOCKED Cells (Systematically Resisted, Absent)
+
+**Characteristics**:
+- Absent or marginal in 6+ languages
+- F6 naturalness ratings [UNCERTAIN] or [GAP]
+- G6 documents as systematic asymmetry
+- Alternative strategies used instead
+
+**Examples**:
+- All dimensions × F9 (positive agentive nominalization): 6/8 languages blocked
+- Most dimensions × F6 (causative falsification): 8/8 languages blocked or marginal
+- D2 × F4 (material authenticity + inchoative): 7/8 languages blocked (objects don't "become genuine")
+- D1 × F4 (propositional truth + simple inchoative): 7/8 languages restricted (prefer revelation)
+
+---
+
+### 5.3 VARIABLE Cells (Language-Specific, Construction-Dependent)
+
+**Characteristics**:
+- Attested in 2-5 languages
+- Shows cross-language variation in naturalness
+- May depend on specific construction type or register
+- Evidence insufficient for universal claim
+
+**Examples**:
+- D2 × F5 (material authenticity + causative verification): Some languages verify authenticity; others use different constructions
+- D5 × F4 (honesty + inchoative): Some languages allow "become honest"; others prefer different expressions
+- D8 × F15 (substantiality + revelation): Only some languages elaborate revelation for substantiality
+- D14 × F12 (relational authenticity + light verbs): Variable conventionalization across languages
+
+---
+
+### 5.4 INSUFFICIENT DATA Cells
+
+**Characteristics**:
+- Not systematically tested in F6
+- Limited attestation in F1-F5
+- Possible but not documented
+- Requires additional investigation
+
+**Note**: The current matrix minimizes INSUFFICIENT DATA classifications by inferring from available evidence. Cells marked VARIABLE often reflect genuine cross-language variation rather than data gaps.
+
+---
+
+## 6. Summary of Major Constraints
+
+### 6.1 Universal Prohibitions (BLOCKED Across Languages)
+
+1. **Positive agentive nominalization** (F9): Blocked across all dimensions in 6/8 languages
+2. **Causative falsification** (F6): Blocked or highly restricted across all dimensions in 8/8 languages
+3. **Objects becoming genuine** (F4 for D2): Blocked in 7/8 languages
+4. **Synthetic comparative/superlative**: Blocked across all dimensions in 8/8 languages (all use analytic)
+
+**Confidence**: VERY HIGH. These represent the strongest universal constraints in the data.
+
+---
+
+### 6.2 Strong Asymmetries (Directional Preferences)
+
+1. **Verification vs. falsification** (F5 vs. F6): Verification productive; falsification blocked
+2. **Negative vs. positive agentives** (F8 vs. F9): Negative productive; positive blocked
+3. **Revelation vs. concealment** (F15 vs. F16): Revelation intransitive; concealment transitive
+4. **Inchoative truth vs. inchoative quality** (F4): Truth restricted; general qualities allowed
+5. **Deception vs. honesty elaboration**: Deception vocabulary richer than honesty vocabulary
+
+**Confidence**: STRONG to VERY STRONG. Documented across 6-8 languages with consistent patterns.
+
+---
+
+### 6.3 Typological Variations (Language-Specific Strategies)
+
+1. **Causative strategies**: Affixation (6 languages) vs. compounding (Chinese) vs. separate roots (English)
+2. **Inchoative strategies**: Morphology (Tagalog, Swahili, Quechua) vs. periphrasis (others)
+3. **Adnominal modification**: Direct adjectives vs. associative constructions (correlates with language type)
+4. **Discourse marker development**: Active in 7/8 living languages; absent in classical Sanskrit
+5. **Evidential integration**: Grammatical in Quechua only; optional elsewhere
+
+**Confidence**: HIGH. Represents genuine typological variation in how universal functions are realized.
+
+---
+
+### 6.4 Domain-Specific Elaborations (Not Universal)
+
+1. **Two-truths doctrine vocabulary**: Sanskrit only (व्यवहार/परमार्थ)
+2. **Epistemological validity framework**: Sanskrit only (प्रमाण-śāstra)
+3. **Pseudo-X compounding**: Greek uniquely productive (ψευδ- compounds)
+4. **Substantiality dimension**: Strongly elaborated in Chinese (实/虚) and Quechua (hunt'a/ch'usaq); weak elsewhere
+5. **Technical domain extensions**: Greek ορθ- and Chinese 正 extend into specialized vocabularies
+
+**Confidence**: HIGH for language-specificity. These represent cultural/historical elaborations rather than universal constraints.
+
+---
+
+## 7. Final Observations
+
+### 7.1 Strongest Universal Patterns
+
+The data supports the following as near-universal constraints:
+
+1. **Basic constructional functions** (predication, negation, modification, nominalization, adverbialization) are ALLOWED across all dimensions in all languages
+2. **Positive agentive nominalization** is BLOCKED across all dimensions in most languages (6/8)
+3. **Causative falsification** is BLOCKED or highly restricted across all dimensions in all languages (8/8)
+4. **Causative verification** is ALLOWED and productive across relevant dimensions in most languages (6/8)
+5. **Revelation constructions** are preferred over simple inchoatives for truth-domain in most languages (6/8)
+
+---
+
+### 7.2 Systematic Asymmetries
+
+The data reveals consistent directional asymmetries:
+
+1. **Verification productive; falsification blocked** (causative domain)
+2. **Negative agentives productive; positive agentives blocked** (derivational domain)
+3. **Revelation intransitive; concealment transitive** (constructional domain)
+4. **Deception elaborate; honesty less elaborate** (lexical domain)
+5. **Error vocabulary rich; correctness vocabulary basic** (lexical domain)
+
+These asymmetries appear across unrelated language families, suggesting universal cognitive or conceptual biases rather than historical accident.
+
+---
+
+### 7.3 Areas of Genuine Cross-Language Variation
+
+The data shows genuine variation (not just formal differences) in:
+
+1. **Precision/accuracy as separate dimension**: Clear in 5/8 languages; less clear in 3/8
+2. **Validity/legitimacy as separate dimension**: Clear in 4/8 languages; less clear in 4/8
+3. **Reliability as separate dimension**: Clear in 4/8 languages; conflated with accuracy in 4/8
+4. **Truth-justice conflation**: Separate in 6/8 languages; conflated in 2/8 (Hebrew, Swahili)
+5. **Propositional vs. material authenticity**: Lexically distinct in 6/8; same root in 2/8 (Sanskrit, Quechua)
+
+These represent culturally or historically variable semantic organizations rather than universal constraints.
+
+---
+
+### 7.4 Methodological Limitations
+
+**Data coverage gaps**:
+- F6 naturalness tables test limited construction types (primarily inchoatives, causatives, maintenance)
+- Some constructional functions inferred from F4 but not systematically tested for naturalness
+- Agentive nominalization patterns inferred from F1/F2 but not directly tested in F6
+- Some dimensions (D8 substantiality, D11 completeness) less systematically explored across all languages
+
+**Confidence implications**:
+- ALLOWED/BLOCKED classifications most confident for functions tested in F6
+- VARIABLE classifications may include both genuine variation and data gaps
+- Some cells rely on inference from F4 productivity rather than direct F6 testing
+
+**Recommendation**: The matrix represents best inference from available data. Cells marked VARIABLE with moderate confidence may benefit from additional targeted investigation.

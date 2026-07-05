@@ -1,0 +1,162 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Basque (eu)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Predicative: NOUN/ADJECTIVE + copula *da* (3sg of *izan*)
+The truth-domain adjective or nominal appears as predicate complement with the copula *da*.
+
+### Examples
+- *Egia da* → N/A → "It is true"
+- *Zilegi da* → N/A → "It is lawful / It is permissible"
+
+### Notes
+Basque predicative attribution uses *da* (existential/equative copula *izan*) for inherent properties; stative *egon* is used for contingent states (see §4 below). The predicate nominal or adjective appears without case marking in this position.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negation particle *ez* precedes the auxiliary: NOUN/ADJECTIVE + *ez da*
+Alternatively, *ez-* prefixes the adjective itself to form a lexicalized negative: *ez-* + ADJECTIVE.
+
+### Examples
+- *Ez da egia* → N/A → "It is not true"
+- *Ez-fidagarria da* → N/A → "It is unreliable / It is not trustworthy"
+
+### Notes
+Two distinct strategies are attested: syntactic negation (*ez da*) is productive and applies to any predicate; lexical negation (*ez-* prefix) is more restricted and yields semi-lexicalized forms such as *ez-fidagarria*, *ez-sinesgarria*, *ez-zilegia*. Both strategies are documented in P2a.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Indefinite attributive form (typically *-zko*, *-tako*, *-ezko*, or *-ko* suffix, without definite article *-a*) precedes the head noun directly.
+
+### Examples
+- *Egiazko informazioa* → N/A → "True information / Genuine information"
+- *Gezurrezko lekukotasuna* → N/A → "False testimony / Perjury"
+
+### Notes
+Basque is head-final; modifiers precede the noun. The indefinite attributive form (e.g., *egiazko*, *gezurrezko*, *benetako*, *ustezko*) is obligatory in prenominal position; the definite form (*egiazkoa*, *gezurrezkoa*) appears only in predicative or standalone nominal positions. This is a systematic morphological alternation, not lexical suppletion.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Root adjective/noun + *-tu* verbal suffix, used intransitively, or root + stative *egon* for resulting state.
+Inchoative meaning ("to become X") is expressed by the *-tu* verb; the resulting state is expressed by ADJECTIVE + *egon*.
+
+### Examples
+- *Gauzak okertu dira* → N/A → "Things have gone wrong / Things have become crooked"
+- *Oker nago* → N/A → "I am wrong / I am mistaken" (resultant state with *egon*)
+
+### Notes
+The *-tu* suffix on root adjectives (*okertu*, *usteldu*, *zuzendu*) yields verbs that can be read as inchoative ("become X") or causative ("make X") depending on argument structure (see §5). The *egon* construction marks the resultant state as contingent and reversible, contrasting with *izan* for inherent properties.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+The same *-tu* verbal suffix used for inchoatives (§4) also yields causative/transitive readings when a causee argument is present. No dedicated morphological causative exists; transitivity is determined by argument structure.
+
+### Examples
+- *Akatsak zuzendu* → N/A → "To correct the errors" (causative: agent acts on object)
+- *Epaia baliogabetu* → N/A → "To nullify the judgment" (causative: agent causes invalidity)
+
+### Notes
+Basque does not have a dedicated causative morpheme in this domain. The *-tu* verbs (*zuzendu*, *okertu*, *usteldu*, *baliogabetu*, *egokitu*) are polyfunctional: transitive use with an explicit object yields causative meaning; intransitive use yields inchoative meaning. The distinction is syntactic, not morphological.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Root + *-tasun* (abstract property suffix) + *-a* (definite article).
+A parallel pattern uses *-pen* or *-keta* for result/action nominals derived from verbal stems.
+
+### Examples
+- *Egiatasuna* → N/A → "Truthfulness / The quality of being true"
+- *Egiaztapen* → N/A → "Verification / Attestation (as result or document)"
+
+### Notes
+The *-tasun* suffix is the primary abstract property nominalizer across the entire domain: *egiazkotasuna*, *gezurtasuna*, *zuzentasuna*, *zehaztasuna*, *fidagarritasuna*, *sinesgarritasuna*, *legitimotasuna*, *zilegitasuna*, *benetakotasuna*, *autentikotasuna*, *zintzotasuna*, *leialatasuna*. The *-pen* suffix (*egiaztapen*, *zehaztapen*) nominalizes verbal stems to yield result nominals rather than property nominals.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Two productive suffixes: *-tzaile* (general agent) and *-gile* (maker/doer agent), both followed by definite *-a*.
+The characterological suffix *-ti* (habitual tendency) + *-a* yields a distinct subtype marking habitual agents.
+
+### Examples
+- *Gezurtia* → N/A → "Liar (habitual)" (*gezur-* + *-ti* + *-a*)
+- *Iruzurgilea* → N/A → "Fraudster / Swindler" (*iruzur* + *-gile* + *-a*)
+
+### Notes
+Three agentive patterns are attested in this domain: (i) *-tzaile* for professional/role agents (*zuzentzailea*, "corrector/proofreader"); (ii) *-gile* for maker/doer agents (*iruzurgilea*, "fraudster"; *itxuragilea*, "pretender/impostor"); (iii) *-ti* for characterological habitual agents (*gezurtia*, "habitual liar"; *iruzurti*, "habitually deceptive"). The *-ti* type implies a stable character trait rather than a role or act, and is the primary pattern for moral character evaluation in this domain.
+
+---
+
+## 8. PROCESS NOMINALIZATION
+
+### Pattern
+Verbal stem + *-tze* (process/action nominalization suffix) + optional case suffixes.
+
+### Examples
+- *Egiaztatze-prozesua* → N/A → "The verification process"
+- *Egokitze* → N/A → "Adaptation / The process of adapting"
+
+### Notes
+The *-tze* suffix nominalizes a verbal stem to yield a process nominal (the ongoing activity), contrasting with *-pen* (result nominal, §6) and *-keta* (action/result nominal, as in *zuzenketa*). All three nominalization types are attested in this domain and are not interchangeable: *egiaztatze* (process), *egiaztapen* (result/document), *egiaztagiri* (the physical certificate).
+
+---
+
+## 9. PEJORATIVE ABSTRACT NOMINALIZATION
+
+### Pattern
+Root noun or adjective + *-keria* (pejorative abstract suffix).
+
+### Examples
+- *Ustelkeria* → N/A → "Corruption / Moral decay" (*ustel* + *-keria*)
+- *Itxurakeria* → N/A → "Pretense / Superficiality" (*itxura* + *-keria*)
+
+### Notes
+The *-keria* suffix is a distinct nominalizer from *-tasun* (§6): where *-tasun* yields a neutral abstract property nominal, *-keria* yields a pejorative nominal implying a pattern of blameworthy conduct. Attested forms in this domain include *ustelkeria*, *itxurakeria*, *okerkeria*, *faltsukeria*, *bidegabekeria*, *ustekeria*, *egiazkeria*. This pattern is productive and semantically consistent across all instances.
+
+---
+
+## 10. EPISTEMIC HEDGE ADVERBIALS
+
+### Pattern
+Base nominal + instrumental suffix *-z* → adverbial hedge.
+Two primary forms: *itxuraz* (appearance-based hedge) and *ustez* (belief-based hedge).
+
+### Examples
+- *Itxuraz ondo dago* → N/A → "Apparently it is fine / It seems to be fine"
+- *Ustez erruduna da* → N/A → "Supposedly he/she is guilty / Allegedly guilty"
+
+### Notes
+Both *itxuraz* and *ustez* are formed by the instrumental *-z* suffix on their base nominals (*itxura*, "appearance"; *uste*, "belief/supposition"). They function as sentence-level epistemic hedges, marking the speaker's reduced commitment to the proposition. A parallel attributive form exists for each: *itxurazko* and *ustezko* (adnominal, §3). This is a productive pattern: the instrumental *-z* on epistemic nominals yields adverbial hedges.
+
+---
+
+## 11. LIGHT-VERB CONSTRUCTIONS WITH *EGIN* AND *ESAN*
+
+### Pattern
+Truth-domain nominal + light verb *egin* ("to do/make") or *esan* ("to say/tell").
+
+### Examples
+- *Gezurra esan* → N/A → "To tell a lie" (*gezurra* + *esan*)
+- *Iruzurra egin* → N/A → "To commit fraud / To cheat" (*iruzurra* + *egin*)
+
+### Notes
+Light-verb constructions with *esan* are used for speech-act expressions (*egia esan*, *gezurra esan*, *zintzoki esan*); those with *egin* are used for action expressions (*iruzurra egin*, *itxura egin*). This is the primary verbal strategy for truth-domain nominals that lack a dedicated *-tu* verb. The nominal bears absolutive case and the light verb carries all tense/agreement morphology.

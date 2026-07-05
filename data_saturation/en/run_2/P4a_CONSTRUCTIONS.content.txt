@@ -1,0 +1,128 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: English (en)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Copular construction: **NP + BE + ADJ(truth-domain)**. The truth-domain adjective appears as a predicative complement of *be* (or related copulas *seem*, *prove*, *remain*, *hold*). Subject is typically a proposition-denoting NP (*the claim*, *the statement*, *the account*) or a person.
+
+### Examples
+- *The statement is true.* → N/A → The statement corresponds to the facts.
+- *The claim proved false.* → N/A → The claim was shown not to correspond to the facts.
+
+### Notes
+This is the primary syntactic frame for propositional truth-evaluation in English. The copula slot accepts a range of verbs beyond *be*: *prove*, *hold*, *remain*, *seem*, *ring* (*ring true/false*). Subject NPs are typically proposition-denoting or person-denoting; the choice of adjective varies accordingly (propositions take *true/false/accurate/correct*; persons take *honest/sincere/truthful*).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Three competing strategies: (a) **prefixal negation** on the adjective (*un-*, *in-*, *im-*, *dis-*, *il-*) + copula; (b) **sentential negation** (*not*) + copula + adjective; (c) **antonym substitution** (replacing the positive adjective with a lexically distinct negative item). All three are productive; choice depends on the base item.
+
+### Examples
+- *The account is inaccurate.* → N/A → The account does not correspond to the facts. [prefixal negation]
+- *The argument is not valid.* → N/A → The argument's conclusion does not follow from its premises. [sentential negation]
+
+### Notes
+Prefixal negation is available for most Latinate items (*inaccurate*, *incorrect*, *invalid*, *insincere*, *dishonest*, *illegitimate*, *implausible*, *unfalsifiable*, *unverifiable*, *unsound*, *untruthful*) but is absent or marginal for native Germanic items (*fake*, *ersatz*) and fixed expressions (*bona fide*), which rely on sentential negation or antonym substitution. Several items have no prefixed negative form in common use (*ungenuine*, *unauthentic* are not standard; *not genuine*, *inauthentic* serve instead).
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**ADJ(truth-domain) + NP**: the truth-domain adjective appears as an attributive pre-nominal modifier. This is the dominant pattern for authenticity and precision terms, and is highly productive across all P1 items that function as adjectives.
+
+### Examples
+- *a genuine mistake* → N/A → an error that is real and unintentional, not fabricated
+- *a spurious correlation* → N/A → a statistical association that is not due to a direct causal relationship
+
+### Notes
+Attributive position is available to all adjectival P1 items. Certain collocations are highly lexicalized and domain-specific: *counterfeit currency*, *false positive*, *plausible deniability*, *bona fide purchaser*, *honest broker*, *credible threat*. These fixed attributive collocations carry meanings that are not fully predictable from the adjective alone and are concentrated in legal, scientific, political, and journalistic registers.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+No dedicated inchoative morphology exists in English for this domain. Inchoative meaning is expressed periphrastically via: (a) **become + ADJ** (*become true*, *become valid*); (b) **prove + ADJ** (*prove true*, *prove false*, *prove correct*, *prove genuine*, *prove authentic*) — the most frequent inchoative-like frame in this domain; (c) **come true** (lexicalized inchoative for *true* only); (d) **turn out + ADJ/to be ADJ** (*turn out to be false*, *turn out to be genuine*).
+
+### Examples
+- *His prediction proved correct.* → N/A → His prediction came to be established as correct.
+- *Her dream came true.* → N/A → Her dream was realized / came to be the case.
+
+### Notes
+*Prove + ADJ* is the most productive inchoative-like frame in the truth domain, covering *true*, *false*, *correct*, *genuine*, *authentic*, and *valid*. *Come true* is a lexicalized form restricted to *true* and carries a connotation of desired realization rather than epistemic confirmation. *Turn out* is more neutral and broadly applicable. No single morphological inchoative exists.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+No productive morphological causative exists in English for this domain. Causative meaning is expressed via: (a) **make + NP + ADJ** (*make it true*, *make it valid*); (b) **dedicated causative verbs** derived from the domain: *verify* ("cause to be established as true"), *authenticate* ("cause to be established as authentic"), *validate* ("cause to be recognized as valid"), *falsify* ("cause to be false / alter fraudulently"), *legitimize* ("cause to be legitimate"), *invalidate* ("cause to be invalid"), *delegitimize* ("cause to lose legitimacy").
+
+### Examples
+- *The laboratory verified the results.* → N/A → The laboratory caused the results to be established as true/accurate.
+- *New evidence invalidated the earlier findings.* → N/A → New evidence caused the earlier findings to be rendered invalid.
+
+### Notes
+The causative function in this domain is primarily lexicalized in derived verbs (*verify*, *authenticate*, *validate*, *falsify*, *legitimize*, *invalidate*, *delegitimize*, *canonize*) rather than expressed by a productive morphological causative. These verbs are not formed by a single productive causative suffix; they enter English via Latin/French derivational history. The *-ize*/*-ise* suffix is the most productive causative-like suffix active in this domain (*legitimize*, *delegitimize*, *canonize*).
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**ADJ + nominalizing suffix → abstract noun**. The dominant suffixes in this domain are *-ity* / *-cy* (Latinate: *validity*, *accuracy*, *authenticity*, *credibility*, *plausibility*, *falsity*, *legitimacy*, *sincerity*, *veridicality*), *-ness* (Germanic/general: *truthfulness*, *soundness*, *exactness*, *genuineness*, *spuriousness*, *speciousness*), *-y* (short form: *honesty*), and *-hood* (*falsehood*). The root-level nouns *truth* and *veracity* are not suffix-derived from their corresponding adjectives in synchronic English but function as the standard abstract nominals for *true* and *veracious* respectively.
+
+### Examples
+- *The validity of the argument was disputed.* → N/A → Nominalization of *valid*; names the property of being valid.
+- *The truthfulness of the account was never questioned.* → N/A → Nominalization of *truthful*; names the property of being truthful.
+
+### Notes
+Latinate items strongly prefer *-ity*/*-cy* (*accuracy*, *credibility*, *authenticity*, *validity*, *plausibility*, *falsity*, *legitimacy*, *sincerity*); Germanic and mixed items prefer *-ness* (*truthfulness*, *soundness*, *genuineness*) or *-y* (*honesty*). Several items have competing nominalizations with register differentiation: *exactness* (neutral/technical) vs. *exactitude* (formal/literary); *falsity* (formal) vs. *falsehood* (formal, with connotation of a specific false statement) vs. *falseness* (marginal). Fixed expressions (*bona fide*, *ersatz*) and the bound prefix *pseudo-* do not take English nominalizing suffixes.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**VERB/NOUN + *-er* / *-or*** → agent noun denoting a person characterized by the relevant truth-domain activity. Productive for verbal bases (*falsifier* marginal, *verifier* technical, *faker* common, *counterfeiter* common, *authenticator* technical/computing). The compound **truth-teller** (N + V-*er*) is the primary agentive nominal for the positive truth-telling role. **Liar** is the dominant agentive nominal for the negative pole but is not derived from any P1 item; it is an independent lexical item.
+
+### Examples
+- *She was known as a truth-teller who refused to soften her assessments.* → N/A → Agent noun: a person who tells the truth, especially under social pressure.
+- *The counterfeiter was sentenced to five years in prison.* → N/A → Agent noun: a person who makes fraudulent imitations, especially of currency.
+
+### Notes
+The agentive nominalization paradigm is asymmetric in this domain. The positive agent role (one who tells the truth) is expressed by the compound *truth-teller* rather than by suffixation on a truth-domain adjective. The negative agent roles are more lexically diverse: *faker*, *counterfeiter*, *falsifier* (rare), *liar* (independent lexeme). *Authenticator* and *validator* are used primarily for technical devices or processes rather than persons. No agentive nominal is derived directly from *true*, *honest*, *sincere*, *accurate*, *genuine*, or *authentic* by suffixation in standard English.
+
+---
+
+## 8. DISCOURSE-MARKER CONSTRUCTIONS
+
+### Pattern
+Several truth-domain items are grammaticalized or semi-grammaticalized as **sentence-initial or parenthetical discourse markers** that signal a shift to candor, introduce a concession, or assert the speaker's commitment to accuracy. These are not predicative or attributive uses of the adjective but pragmatic framing devices.
+
+### Examples
+- *To be honest, I don't think the plan will work.* → N/A → Discourse marker signaling candor; does not predicate honesty of a proposition.
+- *True enough, but that doesn't settle the question.* → N/A → Concessive acknowledgment; partially grants a claim before introducing a counter-point.
+
+### Notes
+Attested discourse-marker constructions in this domain include: *to be honest*, *let's be honest*, *honestly* (sentence-initial), *truth be told*, *to tell the truth*, *in all sincerity*, *frankly* (adjacent domain), *true enough*, *it is true that … but*, *correct me if I'm wrong*. These constructions are syntactically distinct from attributive and predicative uses: the adjective or noun is not predicated of a subject but functions as a pragmatic hedge, concessive opener, or candor signal. *Exactly* functions as a response particle (confirmation token) in a related but distinct pattern.
+
+---
+
+## 9. PREPOSITIONAL-PHRASE CONSTRUCTIONS EXPRESSING CONFORMITY OR DEVIATION
+
+### Pattern
+**ADJ + prepositional phrase** (*true to*, *faithful to*, *out of true*): the truth-domain adjective combines with a prepositional phrase to predicate conformity with or deviation from a standard, original, or commitment. This pattern is distinct from simple attribution (Section 1) in that the standard of comparison is made explicit by the prepositional phrase.
+
+### Examples
+- *The film adaptation is remarkably faithful to the original novel.* → N/A → The adaptation conforms closely to the source text.
+- *The door frame is slightly out of true.* → N/A → The door frame deviates from perfect alignment.
+
+### Notes
+The *true to X* pattern (*true to one's word*, *true to form*, *true to type*, *true to life*, *true to the original*) is productive and covers a range of standards: commitments, expected behavior, biological type, reality, and source texts. *Faithful to X* is more restricted, appearing primarily in contexts of textual or artistic reproduction. *Out of true* is a fixed technical expression (carpentry, engineering) where *true* functions as a noun meaning "perfect alignment." These constructions extend the core truth-domain meaning into fidelity and conformity rather than propositional correspondence.

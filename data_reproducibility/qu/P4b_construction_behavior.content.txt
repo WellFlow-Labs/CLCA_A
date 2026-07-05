@@ -1,0 +1,85 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Quechua (qu)
+
+---
+
+## CONSTRUCTION NATURALNESS & USAGE ANALYSIS
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|------------------|---------|-----------------|-------------|-------------------|-------------|
+| **1. ATTRIBUTION** | kayqa chiqaqmi | kayqa chiqaq-mi | "this is true" | [CORE] | Extremely common in everyday discourse; copula *kay* regularly omitted in present tense with validator suffixes carrying predicative function. Used for both permanent and temporary states. |
+| **1. ATTRIBUTION** | payqa llulla runam | pay-qa llulla runa-m | "he/she is a liar" | [CORE] | Standard pattern for character attribution; nominal predicates with -mi validator are unmarked constructions for identity/classification statements. |
+| **2. NEGATIVE ATTRIBUTION** | kayqa mana chiqaqchu | kayqa mana chiqaq-chu | "this is not true" | [CORE] | Standard negation pattern; *mana* + predicate + -chu is the unmarked negative construction. The -chu suffix is obligatory in emphatic/categorical negation. |
+| **2. NEGATIVE ATTRIBUTION** | payqa mana allin runachu | pay-qa mana allin runa-chu | "he/she is not a good person" | [CORE] | Common in evaluative statements about persons; same structural pattern as above, highly productive across all predicate types. |
+| **3. ADNOMINAL MODIFICATION** | chiqaq simi | chiqaq simi | "true word, truthful speech" | [CORE] | Unmarked and highly productive pattern for all modification; no agreement marking required. Used freely in all registers and contexts. |
+| **3. ADNOMINAL MODIFICATION** | llulla runa | llulla runa | "lying person, liar" | [CORE] | Standard pattern for character description; prenominal position is fixed and obligatory for attributive modification. |
+| **4. BECOME/INCHOATIVE** | allinyay | allin-ya-y | "to become good, to improve" | [CORE] | Highly productive with stative bases; common in discourse about change, improvement, and development. Used across all semantic domains. |
+| **4. BECOME/INCHOATIVE** | chiqaqyay | chiqaq-ya-y | "to become true, to be verified" | [CORE] | Standard pattern for expressing verification processes; frequently used in epistemic contexts where truth-status changes. |
+| **5. CAUSATIVE** | chiqanchay | chiqaq-ncha-y | "to verify, to authenticate" | [CORE] | Common in formal/institutional contexts; the -ncha- variant (with epenthetic -n-) appears with certain roots, possibly phonologically conditioned. |
+| **5. CAUSATIVE** | allinyachiy | allin-ya-chi-y | "to make good, to improve, to fix" | [CORE] | Extremely common in practical contexts; stacking of -ya- + -chi- is productive and creates "cause to become" semantics systematically. |
+| **6. ABSTRACT NOMINALIZATION** | yachay | yacha-y | "knowledge, knowing" | [CORE] | Infinitive-as-noun is unmarked pattern; extremely common in abstract discourse. No formal distinction between infinitive and nominal use. |
+| **6. ABSTRACT NOMINALIZATION** | pantana | panta-na | "place/means of error" | [MARGINAL] | Less frequent than infinitive nominalization; -na creates more specialized instrumental/locative meanings, restricted to certain semantic contexts. |
+| **7. AGENTIVE NOMINALIZATION** | llullaq | llulla-q | "liar, one who lies" | [CORE] | Highly productive for agent/characteristic description; used freely for both habitual agents and adjectival modification. |
+| **7. AGENTIVE NOMINALIZATION** | chiqanchaq | chiqaq-ncha-q | "verifier, one who authenticates" | [CORE] | Common in institutional/formal contexts; -q freely combines with all verbal derivations including causatives. |
+| **8. MANNER ADVERBIAL** | chiqaqta rimay | chiqaq-ta rima-y | "to speak truthfully" | [CORE] | Standard and obligatory pattern for manner modification; -ta on evaluative terms is the unmarked adverbial strategy. |
+| **8. MANNER ADVERBIAL** | allinta ruway | allin-ta ruwa-y | "to do well, to do properly" | [CORE] | Extremely common in all contexts; this specific collocation (*allinta ruway*) is particularly frequent as a general directive. |
+| **9. EVIDENTIAL/VALIDATOR** | chiqaqmi | chiqaq-mi | "it is true (I assert)" | [CORE] | Evidential marking is obligatory in main clauses; -mi marks direct knowledge/personal assertion, used in all assertive contexts. |
+| **9. EVIDENTIAL/VALIDATOR** | chiqaqsi | chiqaq-si | "it is true (I heard)" | [CORE] | Reportative -si obligatory for hearsay information; crucial for distinguishing information source in truth-domain discourse. |
+| **10. EPISTEMIC SOURCE** | rikuywan yachay | riku-y-wan yacha-y | "to know by seeing" | [CORE] | Common pattern for explicit evidential marking; contrasts with grammatical evidentials by making source lexically explicit. |
+| **10. EPISTEMIC SOURCE** | uyariywan yachay | uyari-y-wan yacha-y | "to know by hearing" | [CORE] | Parallel to visual knowledge construction; used when evidential basis needs emphasis or clarification beyond grammatical marking. |
+| **11. REFLEXIVE/MIDDLE** | llullakuy | llulla-ku-y | "to lie (intransitive)" | [CORE] | Common detransitivizing pattern; -ku- creates intransitive versions of evaluative verbs, focusing on subject's action/state. |
+| **11. REFLEXIVE/MIDDLE** | pantakuy | panta-ku-y | "to err, to make a mistake" | [CORE] | Very frequent in error discourse; -ku- emphasizes that error affects/belongs to subject, standard form for "make a mistake." |
+| **12. ABUNDANCE/INTENSITY** | chiqaqsapa | chiqaq-sapa | "very truthful, full of truth" | [MARGINAL] | Less frequent than base forms; used primarily for character assessment and intensification, more common in evaluative/moral discourse. |
+| **12. ABUNDANCE/INTENSITY** | llullasapa | llulla-sapa | "very deceitful, full of lies" | [MARGINAL] | Similar distribution to above; -sapa forms tend to appear in character descriptions and moral evaluations rather than everyday usage. |
+| **13. POSSESSOR** | yachayniyuq | yacha-y-ni-yuq | "having knowledge, knowledgeable" | [CORE] | Common pattern for expressing possession of abstract qualities; -niyuq variant appears with certain abstract nouns. |
+| **13. POSSESSOR** | chaninyuq | chanin-yuq | "having value, legitimate" | [CORE] | Frequent in evaluative contexts; -yuq alone (without -ni-) appears with some roots, distribution may be lexically conditioned. |
+| **14. COMPARATIVE/EQUATIVE** | payhina chiqaq | pay-hina chiqaq | "as true as him/her" | [CORE] | Standard comparison strategy; *hina/shina* is the unmarked particle for all equative/similative constructions. |
+| **14. COMPARATIVE/EQUATIVE** | kayhina allin | kay-hina allin | "as good as this" | [CORE] | Very common in evaluative comparisons; no morphological comparative exists, *hina* construction is obligatory for comparison. |
+| **15. MAGNITUDE MODIFICATION** | huch'uy pantay | huch'uy panta-y | "small error, minor mistake" | [CORE] | Common pattern for grading errors/faults; size terms productively modify evaluative nouns to indicate seriousness/magnitude. |
+| **15. MAGNITUDE MODIFICATION** | hatun huch'a | hatun huch'a | "great sin, serious fault" | [CORE] | Frequent in moral/religious discourse; *hatun* "big" regularly intensifies negative evaluations, particularly moral faults. |
+| **16. LIMITATIVE** | chiqaqlla | chiqaq-lla | "only true, just the true one" | [CORE] | Common restrictive/minimizing particle; -lla appears freely with all word classes, used for both exclusivity and minimization. |
+| **16. LIMITATIVE** | pantalla | panta-lla | "just an error, only a mistake" | [CORE] | Frequent in contexts minimizing significance; -lla on negative evaluations often functions to downplay seriousness. |
+| **17. EMPHATIC** | chiqapuni | chiqaq-puni | "truly indeed, really" | [CORE] | Common emphatic particle; -puni strengthens assertions and appears frequently in contexts requiring strong affirmation or certainty. |
+| **17. EMPHATIC** | allinpuni | allin-puni | "very good indeed, certainly good" | [CORE] | Very frequent in positive evaluations; -puni adds speaker confidence and is common in reassurances and strong endorsements. |
+| **18. PAST PARTICIPLE** | pantasqa | panta-sqa | "mistaken, having erred" | [CORE] | Highly productive resultative/passive; -sqa creates both stative ("is mistaken") and passive ("was mistaken") readings depending on context. |
+| **18. PAST PARTICIPLE** | yachasqa | yacha-sqa | "known, learned" | [CORE] | Extremely common with epistemic verbs; creates both resultative states and nominal uses ("what is known, knowledge"). |
+| **19. CULTURAL CONCEPT** | allin kawsay | allin kawsay | "good life, well-being" | [CORE] | Culturally central concept; semi-lexicalized but structurally transparent, used extensively in social/philosophical discourse. |
+| **19. CULTURAL CONCEPT** | sumaq kawsay | sumaq kawsay | "beautiful life, harmonious living" | [CORE] | Key Andean philosophical term; parallel to *allin kawsay*, represents central ethical ideal, widely used in cultural/political contexts. |
+| **20. PLURAL ON ABSTRACTS** | yachaykuna | yacha-y-kuna | "knowledges, sciences" | [CORE] | Common pattern for multiple domains/types; particularly productive with *yachay* to mean "sciences, areas of knowledge." |
+| **20. PLURAL ON ABSTRACTS** | pantaykuna | panta-y-kuna | "errors, mistakes (plural)" | [CORE] | Standard pluralization of abstract nouns; creates count readings of mass concepts, used when enumerating multiple instances. |
+
+---
+
+## ATTESTED ALTERNATE CONSTRUCTIONS
+
+### Construction 2 (Negative Attribution)
+**Alternate:** Negation without -chu in subordinate/non-emphatic contexts
+- Pattern: *mana* + predicate (without -chu)
+- Note: -chu appears obligatory in main clause categorical negation but may be absent in other contexts (not directly attested in data)
+
+### Construction 5 (Causative)
+**Alternate:** -chi- vs. -ncha- variants
+- Both *-chi-* and *-ncha-* appear as causative markers
+- Distribution appears lexically or phonologically conditioned (epenthetic -n- with certain roots)
+- Examples show both *allinyachiy* (-chi-) and *chiqanchay* (-ncha-)
+
+### Construction 9 (Evidentials)
+**Alternate:** Third evidential -cha (conjecture)
+- Mentioned but not exemplified in construction data
+- Forms three-way evidential system: -mi (direct), -si (reportative), -cha (inferential/conjectural)
+
+### Construction 13 (Possessor)
+**Alternate:** -yuq vs. -niyuq variants
+- *-yuq* alone: *chaninyuq*
+- *-niyuq* with possessive: *yachayniyuq*
+- Distribution appears lexically conditioned or related to abstract noun structure
+
+---
+
+## GENERAL OBSERVATIONS
+
+1. **High productivity:** Constructions 1-5, 7-11, 14, 16-18, 20 show unrestricted productivity across semantic domains
+2. **Marginal patterns:** Only constructions 6b (-na nominalization) and 12 (-sapa abundance) show restricted distribution
+3. **Obligatory categories:** Evidential marking (construction 9) is obligatory in main clauses
+4. **Stacking:** Multiple derivational suffixes stack freely (e.g., -ya-chi-, -ncha-q, -ya-chi-ku-)
+5. **Cultural salience:** Construction 19 (*X kawsay*) represents culturally specific philosophical concepts with high frequency in social discourse

@@ -1,0 +1,595 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Hebrew (he)
+
+## DERIVATIONAL PATTERNS IDENTIFIED
+
+### Pattern Analysis Note
+Hebrew derivational morphology operates primarily through:
+1. **Root-and-pattern system** (binyanim) - consonantal roots combined with vocalic patterns
+2. **Affixation** - prefixes, suffixes, and circumfixes
+3. **Compounding** - combination of existing lexemes
+
+The following documentation reports only attested forms from P1 and P1b data.
+
+---
+
+## DERIVATIONS BY BASE FORM
+
+### Base: אמת (emet) "truth"
+
+#### Derived Form 1
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמיתי (amiti)
+- **Transliteration:** amiti
+- **Literal Breakdown:** emet + adjectival suffix -i
+- **Translation:** true, genuine, real, authentic
+- **Usage:** Adjectival derivation converting the noun "truth" into an adjective describing genuineness or authenticity. Highly productive pattern for creating adjectives from abstract nouns.
+- **Status:** [CORE]
+
+#### Derived Form 2
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמיתות (amitiyut)
+- **Transliteration:** amitiyut
+- **Literal Breakdown:** amiti + abstract noun suffix -ut
+- **Translation:** authenticity, genuineness, truthfulness
+- **Usage:** Abstract noun derived from the adjective amiti, denoting the quality or state of being genuine. Standard pattern for creating abstract nouns from adjectives.
+- **Status:** [CORE]
+
+#### Derived Form 3
+- **Base Form:** אמת (emet)
+- **Derived Form:** באמת (be'emet)
+- **Transliteration:** be'emet
+- **Literal Breakdown:** preposition be- "in/with" + emet
+- **Translation:** truly, really, indeed, in truth
+- **Usage:** Prepositional phrase functioning as adverb or discourse marker. Highly frequent in spoken and written Hebrew.
+- **Status:** [CORE]
+
+#### Derived Form 4
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמת מידה (amat mida)
+- **Transliteration:** amat mida
+- **Literal Breakdown:** emet (in construct state) + mida "measure"
+- **Translation:** criterion, standard, yardstick
+- **Usage:** Fixed compound using construct state (smixut) to create a metaphorical expression for evaluative standards. The construct form "amat" is the bound form of "emet."
+- **Status:** [CORE]
+
+#### Derived Form 5
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמת לאמיתה (emet la'amita)
+- **Transliteration:** emet la'amita
+- **Literal Breakdown:** emet + preposition le- "to" + amita (emet with possessive suffix -a "its")
+- **Translation:** the absolute truth, the real truth
+- **Usage:** Emphatic construction using prepositional phrase with possessive suffix to intensify meaning. Common in colloquial Hebrew.
+- **Status:** [CORE]
+
+#### Derived Form 6
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמת מוחלטת (emet muḥletet)
+- **Transliteration:** emet muḥletet
+- **Literal Breakdown:** emet + muḥletet "absolute" (adjective)
+- **Translation:** absolute truth
+- **Usage:** Adjectival modification creating a philosophical/technical term. Standard pattern for creating compound concepts.
+- **Status:** [CORE]
+
+#### Derived Form 7
+- **Base Form:** אמת (emet)
+- **Derived Form:** אמת היסטורית (emet historit)
+- **Transliteration:** emet historit
+- **Literal Breakdown:** emet + historit "historical" (adjective)
+- **Translation:** historical truth
+- **Usage:** Adjectival modification creating domain-specific term. Pattern used for various types of truth (scientific, subjective, etc.).
+- **Status:** [CORE]
+
+---
+
+### Base: שקר (sheker) "falsehood, lie"
+
+#### Derived Form 1
+- **Base Form:** שקר (sheker)
+- **Derived Form:** לשקר (leshaker)
+- **Transliteration:** leshaker
+- **Literal Breakdown:** infinitive prefix le- + shaker (pi'el verb form from root sh-q-r)
+- **Translation:** to lie, to deceive
+- **Usage:** Verbal derivation from the noun, using pi'el binyan (intensive/causative pattern). Standard process for creating verbs from nouns.
+- **Status:** [CORE]
+
+#### Derived Form 2
+- **Base Form:** שקר (sheker)
+- **Derived Form:** שקרן (shakran)
+- **Transliteration:** shakran
+- **Literal Breakdown:** root sh-q-r + agent noun suffix -an
+- **Translation:** liar, habitual liar
+- **Usage:** Agent noun derivation indicating someone characterized by the action. The suffix -an typically indicates habitual or professional agents.
+- **Status:** [CORE]
+
+#### Derived Form 3
+- **Base Form:** שקר (sheker) / שקרן (shakran)
+- **Derived Form:** שקרנות (shakranut)
+- **Transliteration:** shakranut
+- **Literal Breakdown:** shakran + abstract noun suffix -ut
+- **Translation:** lying, mendacity, dishonesty
+- **Usage:** Abstract noun derived from agent noun, denoting the quality or practice. Standard pattern for abstracting from agent nouns.
+- **Status:** [CORE]
+
+#### Derived Form 4
+- **Base Form:** שקר (sheker)
+- **Derived Form:** שקרי (shikri)
+- **Transliteration:** shikri
+- **Literal Breakdown:** sheker + adjectival suffix -i
+- **Translation:** false, lying, deceptive
+- **Usage:** Adjectival derivation from noun. Parallel to amiti from emet, though less frequent in usage.
+- **Status:** [CORE]
+
+#### Derived Form 5
+- **Base Form:** שקר (sheker)
+- **Derived Form:** שקר לבן (sheker lavan)
+- **Transliteration:** sheker lavan
+- **Literal Breakdown:** sheker + lavan "white" (adjective)
+- **Translation:** white lie
+- **Usage:** Fixed compound using color adjective to modify type of lie. Calque from European languages.
+- **Status:** [CORE]
+
+#### Derived Form 6
+- **Base Form:** שקר (sheker)
+- **Derived Form:** עד שקר (ed sheker)
+- **Transliteration:** ed sheker
+- **Literal Breakdown:** ed "witness" + sheker (in attributive position)
+- **Translation:** false witness, perjurer
+- **Usage:** Compound noun using attributive adjective pattern. Biblical origin, maintained in legal contexts.
+- **Status:** [CORE]
+
+#### Derived Form 7
+- **Base Form:** שקר (sheker)
+- **Derived Form:** עדות שקר (edut sheker)
+- **Transliteration:** edut sheker
+- **Literal Breakdown:** edut "testimony" + sheker (in attributive position)
+- **Translation:** false testimony, perjury
+- **Usage:** Compound noun parallel to ed sheker. Legal terminology.
+- **Status:** [CORE]
+
+---
+
+### Base: נכון (nakhon) "correct, right"
+
+#### Note on Derivational Status
+The form נכון (nakhon) is itself a passive participle (nif'al binyan) from root כ-ו-נ. The P1 data does not provide evidence of further productive derivations from this form beyond its use in comparative/superlative constructions (יותר נכון "more correct") which are syntactic rather than derivational.
+
+**Derivational finding:** (no common derivation identified beyond base participial form)
+
+---
+
+### Base: אמין (amin) "reliable, trustworthy"
+
+#### Derived Form 1
+- **Base Form:** אמין (amin)
+- **Derived Form:** אמינות (aminut)
+- **Transliteration:** aminut
+- **Literal Breakdown:** amin + abstract noun suffix -ut
+- **Translation:** reliability, credibility, trustworthiness
+- **Usage:** Abstract noun derivation from adjective. Standard pattern for creating quality nouns from adjectives.
+- **Status:** [CORE]
+
+#### Note on Root Relationship
+The form אמין (amin) itself derives from root א-מ-נ through the pa'ul/CaCiC adjectival pattern. Further derivations from amin are limited in the attested data.
+
+---
+
+### Base: מדויק (meduyak) "precise, exact"
+
+#### Note on Derivational Status
+The form מדויק (meduyak) is a passive participle (pu'al binyan) from root ד-י-ק. The P1 data shows this form functioning primarily as an adjective without further productive derivations documented.
+
+**Derivational finding:** (no common derivation identified beyond base participial form)
+
+---
+
+### Base: נאמן (ne'eman) "faithful, loyal, reliable"
+
+#### Derived Form 1
+- **Base Form:** נאמן (ne'eman)
+- **Derived Form:** נאמנות (ne'emanut)
+- **Transliteration:** ne'emanut
+- **Literal Breakdown:** ne'eman + abstract noun suffix -ut
+- **Translation:** faithfulness, loyalty, fidelity
+- **Usage:** Abstract noun derivation from adjective. Standard pattern for quality nouns.
+- **Status:** [CORE]
+
+#### Note on Root Relationship
+The form נאמן (ne'eman) is a nif'al participle from root א-מ-נ. It shows productive abstract noun derivation but limited other derivational extensions in the attested data.
+
+---
+
+### Base: כנה (kene) "honest, sincere"
+
+#### Note on Derivational Status
+The P1 data does not provide evidence of productive derivations from כנה beyond its use as an attributive adjective. The root כ-נ-ה may have other forms, but they are not attested in the provided data.
+
+**Derivational finding:** (no common derivation identified in provided data)
+
+---
+
+### Base: צודק (tsodek) "right, just, correct"
+
+#### Note on Derivational Status
+The form צודק (tsodek) is a present tense/participle form from root צ-ד-ק (qal binyan). The P1b data shows extensive derivations from the root צ-ד-ק, but these are documented separately under root-based derivations rather than as derivations from the specific form tsodek.
+
+**Derivational finding:** (derivations occur at root level, documented in root צ-ד-ק section below)
+
+---
+
+### Base: יושר (yosher) "honesty, integrity, uprightness"
+
+#### Note on Derivational Status
+The form יושר (yosher) is a noun from root י-ש-ר. The P1 data does not provide evidence of further derivations from this specific noun form.
+
+**Derivational finding:** (no common derivation identified in provided data)
+
+---
+
+### Base: מציאותי (metsi'uti) "real, realistic"
+
+#### Note on Derivational Status
+The form מציאותי (metsi'uti) is itself derived from מציאות (metsi'ut) "reality" + adjectival suffix -i. The P1 data does not show further derivations from this adjectival form.
+
+**Derivational finding:** (no common derivation identified; form is already derived from metsi'ut)
+
+---
+
+### Base: אותנטי (otenti) "authentic"
+
+#### Note on Derivational Status
+The form אותנטי (otenti) is a loanword from European languages. As a borrowed adjective, it shows limited integration into Hebrew derivational patterns in the attested data.
+
+**Derivational finding:** (no common derivation identified; loanword with limited morphological integration)
+
+---
+
+### Base: מהימן (meheyman) "reliable, credible"
+
+#### Derived Form 1
+- **Base Form:** מהימן (meheyman)
+- **Derived Form:** מהימנות (meheymanut)
+- **Transliteration:** meheymanut
+- **Literal Breakdown:** meheyman + abstract noun suffix -ut
+- **Translation:** reliability, credibility, authenticity
+- **Usage:** Abstract noun derivation from adjective. Formal/literary register, parallel to aminut but more elevated.
+- **Status:** [CORE]
+
+#### Note on Root Relationship
+The form מהימן (meheyman) is a hif'il participle from root א-מ-נ. It shows the standard abstract noun derivation pattern.
+
+---
+
+### Base: כזב (kazav) "lie, falsehood"
+
+#### Note on Derivational Status
+The form כזב (kazav) is a biblical/literary term from root כ-ז-ב. The P1 data marks it as [MARGINAL] and does not provide evidence of productive modern derivations.
+
+**Derivational finding:** (no common derivation identified; biblical/literary form with limited modern productivity)
+
+---
+
+### Base: תקף (takef) "valid, in force"
+
+#### Note on Derivational Status
+The form תקף (takef) is an adjective from root ת-ק-ף. The P1 data does not provide evidence of derivations from this specific adjectival form, though the root has other forms (verb לתקוף "to attack," noun תוקף "validity, force").
+
+**Derivational finding:** (no common derivation identified from this specific form in provided data)
+
+---
+
+### Base: מוצדק (mutsдak) "justified, warranted"
+
+#### Note on Derivational Status
+The form מוצדק (mutsдak) is a huf'al (passive causative) participle from root צ-ד-ק. As a passive form, it shows limited further derivational productivity in the attested data.
+
+**Derivational finding:** (no common derivation identified; passive participle with limited further derivation)
+
+---
+
+### Base: דומה (dome) "similar, resembling"
+
+#### Note on Derivational Status
+The form דומה (dome) is a present tense/participle from root ד-מ-ה. The P1 data does not provide evidence of derivations specific to this form beyond its verbal and participial uses.
+
+**Derivational finding:** (no common derivation identified in provided data)
+
+---
+
+### Base: מזויף (mezuyaf) "forged, fake"
+
+#### Note on Derivational Status
+The form מזויף (mezuyaf) is a pu'al participle from root ז-י-ף. The P1 data does not show further derivations from this passive participial form.
+
+**Derivational finding:** (no common derivation identified; passive participle)
+
+---
+
+### Base: ודאי (vadai) "certain, sure"
+
+#### Note on Derivational Status
+The form ודאי (vadai) is an adjective/adverb related to root י-ד-ע "to know." The P1 data does not provide evidence of productive derivations from this form.
+
+**Derivational finding:** (no common derivation identified in provided data)
+
+---
+
+### Base: מוכח (mukhaḥ) "proven, demonstrated"
+
+#### Note on Derivational Status
+The form מוכח (mukhaḥ) is a huf'al participle from root י-כ-ח. As a passive form, it shows limited derivational productivity in the attested data.
+
+**Derivational finding:** (no common derivation identified; passive participle)
+
+---
+
+### Base: מעשי (ma'asi) "practical, actual"
+
+#### Note on Derivational Status
+The form מעשי (ma'asi) is derived from מעשה (ma'ase) "deed, act" + adjectival suffix -i. The P1 data does not show further derivations from this adjectival form.
+
+**Derivational finding:** (no common derivation identified; form is already derived from ma'ase)
+
+---
+
+### Base: שווא (shav) "vain, false, worthless"
+
+#### Note on Derivational Status
+The form שווא (shav) is a biblical/literary term from root ש-ו-א. The P1 data marks it as [MARGINAL] and does not provide evidence of modern derivations.
+
+**Derivational finding:** (no common derivation identified; biblical/literary form)
+
+---
+
+### Base: ברור (barur) "clear, obvious"
+
+#### Note on Derivational Status
+The form ברור (barur) is a passive participle (qal passive/CaCuC pattern) from root ב-ר-ר. The P1 data does not provide evidence of further derivations from this specific form, though the root has verbal forms (לברר "to clarify").
+
+**Derivational finding:** (no common derivation identified from this specific form in provided data)
+
+---
+
+## ROOT-BASED DERIVATIONAL PATTERNS
+
+### Root: א-מ-נ (ʾ-m-n)
+
+The P1b data provides extensive documentation of derivations from this root. The following represents the derivational relationships among attested forms:
+
+#### Core Derivational Chain 1: Truth/Belief Domain
+
+**Base noun:** אמת (emet) "truth"
+- → אמיתי (amiti) "true, genuine" [adjective via -i suffix]
+  - → אמיתות (amitiyut) "authenticity" [abstract noun via -ut suffix]
+
+**Base noun:** אמונה (emuna) "faith, belief, trust"
+- → מאמין (ma'amin) "believer" [active participle from causative verb]
+- → אמונת (emunat) [construct state for compounds: אמונת חכמים "trust in sages"]
+
+**Base verb:** להאמין (leha'amin) "to believe, to trust"
+- [hif'il causative form from root]
+- → מאמין (ma'amin) "believer" [active participle]
+
+#### Core Derivational Chain 2: Reliability Domain
+
+**Base adjective:** אמין (amin) "reliable, trustworthy"
+- → אמינות (aminut) "reliability, credibility" [abstract noun via -ut suffix]
+
+**Base adjective:** נאמן (ne'eman) "faithful, loyal, reliable"
+- → נאמנות (ne'emanut) "faithfulness, loyalty" [abstract noun via -ut suffix]
+
+**Base adjective:** מהימן (meheyman) "reliable, credible"
+- → מהימנות (meheymanut) "reliability, credibility" [abstract noun via -ut suffix]
+
+#### Fixed Expressions and Compounds
+
+- באמת (be'emet) "truly, really" [preposition + noun]
+- אמנם (omnam) "indeed, it is true that" [adverbial form]
+- אמן (amen) "amen, so be it" [liturgical fixed form]
+- באמונה (be'emuna) "faithfully, in good faith" [preposition + noun]
+- אמת מידה (amat mida) "criterion, standard" [construct compound]
+- אמת לאמיתה (emet la'amita) "absolute truth" [emphatic construction]
+
+#### Adjectival Modifications (Productive Pattern)
+
+The noun אמת (emet) combines productively with adjectives to create domain-specific terms:
+- אמת מוחלטת (emet muḥletet) "absolute truth"
+- אמת היסטורית (emet historit) "historical truth"
+- אמת מדעית (emet mada'it) "scientific truth"
+- אמת נצחית (emet nitsḥit) "eternal truth"
+- אמת סובייקטיבית (emet subiyektivit) "subjective truth"
+
+**Pattern note:** This is a productive syntactic pattern rather than lexical derivation, but it generates stable compound concepts.
+
+---
+
+### Root: צ-ד-ק (ts-d-q)
+
+The P1b data documents derivations from this root:
+
+#### Core Derivational Chain
+
+**Base noun:** צדק (tsedek) "justice, righteousness"
+- [basic noun form from root]
+
+**Base noun:** צדקה (tsedaka) "charity, righteousness"
+- [feminine noun form from root]
+
+**Base adjective/verb:** צודק (tsodek) "right, just, correct"
+- [qal active participle]
+
+**Base adjective:** צדיק (tsadik) "righteous person, just person"
+- [CaCiC agent noun pattern]
+
+**Base verb:** להצדיק (lehatsдik) "to justify, to vindicate"
+- [hif'il causative form]
+- → הצדקה (hatsдaka) "justification" [verbal noun from hif'il]
+- → מוצדק (mutsдak) "justified, warranted" [huf'al passive participle]
+
+#### Adjectival Modifications (Productive Pattern)
+
+The noun צדק (tsedek) combines with adjectives to create domain-specific terms:
+- צדק חברתי (tsedek ḥevrati) "social justice"
+- צדק מוחלט (tsedek muḥlat) "absolute justice"
+- צדק משפטי (tsedek mishpati) "legal justice"
+- צדק פלילי (tsedek plili) "criminal justice"
+- צדק טבעי (tsedek tiv'i) "natural justice"
+- צדק אלוהי (tsedek elohi) "divine justice"
+
+#### Fixed Expressions
+
+- בצדק (betsedek) "justly, rightly" [preposition + noun]
+- צדקת הדין (tsidkat hadin) "acceptance of judgment" [construct phrase]
+- צדק וחסד (tsedek vaḥesed) "justice and mercy" [coordinate compound]
+
+---
+
+### Root: ש-ק-ר (sh-q-r)
+
+The P1b data documents derivations from this root:
+
+#### Core Derivational Chain
+
+**Base noun:** שקר (sheker) "falsehood, lie"
+- [basic noun form from root]
+
+**Base verb:** לשקר (leshaker) "to lie, to deceive"
+- [pi'el intensive form]
+- → שקרן (shakran) "liar" [agent noun via -an suffix]
+  - → שקרנות (shakranut) "lying, mendacity" [abstract noun via -ut suffix]
+
+**Base adjective:** שקרי (shikri) "false, lying"
+- [adjectival form via -i suffix from noun]
+
+#### Compound Patterns
+
+**Attributive compounds:**
+- עד שקר (ed sheker) "false witness"
+- עדות שקר (edut sheker) "false testimony"
+- נביא שקר (navi sheker) "false prophet"
+
+**Adjectival modifications:**
+- שקר לבן (sheker lavan) "white lie"
+- שקר גמור (sheker gamur) "complete lie"
+- שקר מוחלט (sheker muḥlat) "absolute lie"
+- שקר מתוחכם (sheker metuḥkam) "sophisticated lie"
+
+#### Fixed Expressions
+
+- שקר וכזב (sheker vakhazav) "lies and falsehood" [coordinate compound]
+- דובר שקרים (dover shkarim) "liar, speaker of lies" [participial phrase]
+- מסכת שקרים (masekhet shkarim) "web of lies" [metaphorical compound]
+- חיי שקר (ḥayey sheker) "life of lies" [construct phrase]
+
+---
+
+## CROSS-ROOT DERIVATIONAL OBSERVATIONS
+
+### Productive Affixal Patterns Identified
+
+1. **Adjectival suffix -i (-י):**
+   - אמת → אמיתי (emet → amiti)
+   - שקר → שקרי (sheker → shikri)
+   - Pattern: Noun → Adjective
+   - Productivity: High across Hebrew lexicon
+
+2. **Abstract noun suffix -ut (-ות):**
+   - אמיתי → אמיתות (amiti → amitiyut)
+   - אמין → אמינות (amin → aminut)
+   - נאמן → נאמנות (ne'eman → ne'emanut)
+   - מהימן → מהימנות (meheyman → meheymanut)
+   - שקרן → שקרנות (shakran → shakranut)
+   - Pattern: Adjective → Abstract Noun
+   - Productivity: Very high, standard pattern
+
+3. **Agent noun suffix -an (-ן):**
+   - שקר → שקרן (sheker → shakran)
+   - Pattern: Noun/Verb → Agent Noun (habitual/professional)
+   - Productivity: Moderate, typically indicates habitual characteristic
+
+4. **Prepositional phrase formation with be- (ב-):**
+   - אמת → באמת (emet → be'emet)
+   - אמונה → באמונה (emuna → be'emuna)
+   - צדק → בצדק (tsedek → betsedek)
+   - Pattern: Noun → Adverbial Expression
+   - Productivity: High, productive syntactic pattern
+
+### Binyan-Based Derivational Patterns
+
+The data shows systematic use of Hebrew verbal binyanim (conjugation patterns) for derivation:
+
+1. **Hif'il (causative) pattern:**
+   - Root א-מ-נ → להאמין (leha'amin) "to cause to be firm → to believe"
+   - Root צ-ד-ק → להצדיק (lehatsдik) "to cause to be right → to justify"
+
+2. **Nif'al (passive/reflexive) pattern:**
+   - Root כ-ו-נ → נכון (nakhon) "established, correct"
+   - Root א-מ-נ → נאמן (ne'eman) "made faithful → faithful, reliable"
+
+3. **Pi'el (intensive) pattern:**
+   - Root ש-ק-ר → לשקר (leshaker) "to lie intensively → to lie"
+
+4. **Pu'al/Huf'al (passive) patterns:**
+   - Root ד-י-ק → מדויק (meduyak) "made precise → precise"
+   - Root צ-ד-ק → מוצדק (mutsдak) "made just → justified"
+   - Root ז-י-ף → מזויף (mezuyaf) "made false → forged"
+
+### Compound Formation Patterns
+
+1. **Construct state (smixut) compounds:**
+   - אמת מידה (amat mida) "measuring rod of truth → criterion"
+   - צדקת הדין (tsidkat hadin) "righteousness of judgment"
+   - אמונת חכמים (emunat ḥakhamim) "faith of sages"
+
+2. **Attributive adjective compounds:**
+   - Domain specification: אמת מדעית (emet mada'it) "scientific truth"
+   - Type specification: שקר לבן (sheker lavan) "white lie"
+   - Intensification: שקר גמור (sheker gamur) "complete lie"
+
+### Asymmetries and Gaps Noted
+
+1. **Uneven derivational productivity:**
+   - Root א-מ-נ shows extensive derivation across multiple semantic domains
+   - Root ש-ק-ר shows moderate derivation, primarily within falsity domain
+   - Root צ-ד-ק shows derivation split between justice and correctness senses
+
+2. **Participial forms with limited further derivation:**
+   - Forms like נכון (nakhon), מדויק (meduyak), ברור (barur) function primarily as adjectives without productive further derivation in attested data
+
+3. **Loanwords with limited morphological integration:**
+   - אותנטי (otenti) "authentic" shows minimal derivational productivity compared to native forms
+
+4. **Biblical/literary forms with reduced modern productivity:**
+   - כזב (kazav), שווא (shav) marked as [MARGINAL] with no attested modern derivations
+
+---
+
+## SUMMARY OF DERIVATIONAL FINDINGS
+
+**Total base forms analyzed:** 25 (from P1)
+
+**Forms showing productive derivation:** 8
+- אמת (emet): 7 derivations documented
+- שקר (sheker): 7 derivations documented
+- אמין (amin): 1 derivation documented
+- נאמן (ne'eman): 1 derivation documented
+- מהימן (meheyman): 1 derivation documented
+- אמיתי (amiti): 1 derivation documented
+- שקרן (shakran): 1 derivation documented
+- צודק (tsodek): derivations at root level
+
+**Forms with no attested derivations:** 17
+
+**Root-level derivational families documented:** 3
+- Root א-מ-נ: extensive family with 30+ forms
+- Root צ-ד-ק: moderate family with 20+ forms
+- Root ש-ק-ר: moderate family with 20+ forms
+
+**Most productive derivational patterns:**
+1. Abstract noun formation via -ut suffix (6 instances)
+2. Adjectival formation via -i suffix (2 instances)
+3. Prepositional phrase formation with be- (3 instances)
+4. Binyan-based verbal derivation (multiple instances)
+5. Adjectival modification compounds (highly productive)
+
+**Key observation:** Hebrew truth-related vocabulary shows derivational productivity concentrated in three major roots (א-מ-נ, צ-ד-ק, ש-ק-ר), with many surface forms being participial or derived forms that do not themselves generate further derivations. The root-and-pattern system means that derivational relationships often bypass surface forms to operate directly on consonantal roots.

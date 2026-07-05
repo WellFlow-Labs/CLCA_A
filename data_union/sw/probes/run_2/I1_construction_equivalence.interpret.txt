@@ -1,0 +1,119 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Swahili (sw)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | §1 Attribution: *ni* + truth predicate; §2 Negative Attribution: *si* + truth predicate; §3a Bare adnominal modifier; §3b Genitive adnominal modifier | *Habari hii ni kweli.* / *Hii si kweli.* / *Dhahabu halisi* / *Shahidi wa uongo* | No substitution required; directly attested across multiple construction subtypes | None |
+| **ADNOM** | §3a Bare adjective-type post-nominal modifier (no linker); §3b Genitive modifier with noun-class linker (*wa/ya/la/za*) | *Dhahabu halisi* (3a); *Shahidi wa uongo* (3b) | No substitution required; two distinct subtypes cover adjective-type and noun-headed modifiers respectively | None |
+| **BECOME** | §4 Inchoative/stative derivation via *-ika/-eka* suffix | *Ukweli ulidhihirika baada ya uchunguzi.* / *Alidanganyika kwa urahisi.* | Attested only for bases *dhahiri* and *danganya*; not attested for *kweli* or *halisi* directly — see Gap column | Lexical gap: *-ika/-eka* derivation is morphosyntactically available but not attested for all truth-domain bases (*kweli*, *halisi*) |
+| **REVELATION** | §10 Evidential/self-evidence predicate: *ni dhahiri kwamba* + complement clause; §9 Adverbial evidential: *kwa dhahiri* | *Ni dhahiri kwamba alikosea.* / *Kwa dhahiri, tatizo hili ni kubwa.* | REVELATION is expressed through a dedicated evidential predicate construction (§10) and an adverbial phrase (§9); it does not substitute for BECOME — both are independently attested with distinct semantics (see §2 narrative below) | None |
+| **CAUSATION (factual)** | §5 Causative suffix *-sha/-isha*: *kusahihisha*, *kuthibitisha*, *kudhihirisha* | *Mwalimu alisahihisha makosa ya wanafunzi.* / *Serikali inahalalisha mkataba huo.* | Directly attested via productive morphological causative; *kuthibitisha* carries the verification-causation function where no causative from *kweli* itself is attested | Lexical gap: no causative *kukwelisha* from *kweli* attested; function carried by *kuthibitisha* |
+| **CAUSATION (character)** | §7a Agentive nominalization (*m-/mw-* + stem, *-fu* suffix): *muongo*, *mwaminifu*, *mdanganyifu*; §7b Periphrastic relative clause: *mtu anayesema kweli* | *Yeye ni muongo wa hali ya juu.* / *Tunahitaji mtu wa kuaminiwa.* | Character causation is expressed nominally (agentive nominals) rather than verbally; no single-word agentive nominal for "truth-teller" is attested — expressed periphrastically via §7b | Lexical gap: no lexicalized single-word agentive nominal for "truth-teller" (*mkweli* or equivalent) attested; §7b periphrasis is the attested form |
+| **VERIFICATION** | §5 Causative *kuthibitisha* (to confirm/verify); §8 Passive *kuthibitishwa* (to be confirmed/verified); §11 Periphrastic: *kukusanya ushahidi* (to gather evidence) | *Habari imethibitishwa na vyanzo vingi.* / *Walikusanya ushahidi kwa miezi mingi.* | Verification is expressed through the causative *kuthibitisha* and its passive *kuthibitishwa*; no dedicated single-word VERIFICATION verb distinct from the causative paradigm is attested | None; VERIFICATION is available, though it shares the causative morphological paradigm with CAUSATION (factual) — see §2 narrative |
+| **DISCONFIRMATION** | §2 Negative attribution: *si* + truth predicate; §11 Periphrastic: *kupinga* + truth noun (e.g., *kupinga ushahidi*) | *Hii si kweli.* / *Bidhaa hizi si halisi; ni bandia.* | No dedicated single morphological construction for DISCONFIRMATION; expressed through negative copula (§2) for stative disconfirmation, and through periphrastic light-verb constructions (§11, *pinga*, *potosha*) for active disconfirmation | **SUBSTITUTED BY** NEGATION (§2) for stative disconfirmation; **SUBSTITUTED BY** periphrastic verbal construction (§11) for active disconfirmation; no dedicated DISCONFIRMATION operator |
+| **NEGATION** | §2 Negative copula *si* + truth predicate (analytic, invariant) | *Hii si kweli.* / *Bidhaa hizi si halisi; ni bandia.* | Negation is analytic: *si* is an invariant negative copula, directly parallel to *ni*; no morphological negation on the predicate item itself | None; negation is fully analytic via *si* |
+| **NOMINALIZATION** | §6 Abstract nominalization: *u-* prefix → *ukweli*, *uhalisi*, *uhalali*, *usahihi*, *udanganyifu*, *udhahiri*, *uasili*, *ubandia*, *uaminifu*; §7a Agentive nominalization: *m-/mw-* prefix → *muongo*, *mwaminifu*, *mdanganyifu* | *Ukweli wa jambo hili haujulikani.* / *Uhalali wa uchaguzi unapingwa mahakamani.* / *Yeye ni muongo wa hali ya juu.* | Two distinct nominalization subtypes are attested: abstract property nominals (§6) and agentive person nominals (§7a/7b); both are productive | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME: Distinct, Not Substituting
+
+The P4a and P4b data do not support a claim that REVELATION substitutes for BECOME in Swahili. Both are independently attested with distinct semantics and distinct morphosyntactic forms.
+
+BECOME is expressed by the *-ika/-eka* inchoative suffix (§4), which attaches to a verb stem and produces an intransitive reading in which a subject enters a state without foregrounding an external agent. The attested examples are *kudhihirika* (to become evident) and *kudanganyika* (to become deceived/be taken in). The subject undergoes a change of state; no agent is expressed.
+
+REVELATION is expressed by the evidential predicate *ni dhahiri kwamba* + complement clause (§10) and the adverbial phrase *kwa dhahiri* (§9). These constructions present a proposition as self-evidently true from the speaker's perspective; they scope over a full proposition rather than describing a change of state in a subject. The speaker is the locus of the evidential judgment; no subject undergoes a change.
+
+The two constructions are therefore functionally distinct: BECOME describes a subject entering a state (*ukweli ulidhihirika* — the truth became evident), while REVELATION presents a proposition as evident to the speaker (*ni dhahiri kwamba alikosea* — it is evident that he erred). They are not interchangeable in the attested data.
+
+### 2.2 VERIFICATION and CAUSATION (factual): Shared Morphological Paradigm
+
+VERIFICATION and CAUSATION (factual) share the same morphological paradigm in Swahili. The causative suffix *-sha/-isha* (§5) produces verbs such as *kuthibitisha* (to confirm/verify), *kusahihisha* (to correct/validate), and *kuhalalisha* (to legitimize). The passive of these forms (§8) — *kuthibitishwa*, *kusahihishwa* — is the standard construction for reporting verification outcomes in journalistic and legal discourse.
+
+There is no dedicated VERIFICATION morpheme or construction that is formally distinct from the causative paradigm. VERIFICATION is expressed through the causative paradigm applied to truth-domain bases, with *kuthibitisha* serving as the primary lexical carrier. The passive *kuthibitishwa* is the most frequent form in verification reporting contexts.
+
+This means that CAUSATION (factual) and VERIFICATION are not formally distinguished in Swahili morphosyntax; the distinction is carried lexically by the choice of base (*sahihisha* for correction, *thibitisha* for confirmation/verification, *halalisha* for legitimization).
+
+### 2.3 DISCONFIRMATION: Substituted, Not Dedicated
+
+No dedicated DISCONFIRMATION construction is attested in the P4a or P4b data. The function is distributed across two existing constructions depending on whether the disconfirmation is stative or active:
+
+- **Stative disconfirmation** (asserting that something is not true/genuine) is expressed by the negative attribution construction (§2): *si* + truth predicate. Example: *Hii si kweli.* This is formally the NEGATION operator applied to an ATTR construction.
+- **Active disconfirmation** (contesting, distorting, or refuting a claim) is expressed by the periphrastic verbal construction (§11) with light verbs such as *pinga* (to contest) or *potosha* (to distort), taking a truth-domain noun as object.
+
+The contrastive two-clause pattern attested in §2 (*Bidhaa hizi si halisi; ni bandia*) — denial followed by positive counter-assertion — is noted as characteristic of commercial and legal discourse, but it is structurally a sequence of NEGATION + ATTRIBUTION rather than a dedicated DISCONFIRMATION construction.
+
+### 2.4 NEGATION: Analytic, Not Morphological
+
+Negation in the truth-domain copular construction is fully analytic. The negative copula *si* is an invariant form that replaces *ni* directly; it does not involve any morphological modification of the predicate item (*kweli*, *halisi*, *sahihi*, etc.). The predicate item itself is unchanged. This is a structural parallel to the positive *ni* construction, with *si* as the sole formal marker of negation.
+
+No morphological negation on the predicate adjective or noun is attested in the P4a/P4b data for this domain.
+
+### 2.5 Asymmetry: Truth vs. Falsity in Agentive Nominals
+
+The P4a data notes an asymmetry in agentive nominalization (§7): lexicalized single-word agentive nominals are attested for the falsity/deception side of the domain (*muongo* — liar; *mdanganyifu* — deceiver) but not for the truth side. No single-word agentive nominal meaning "truth-teller" (*mkweli* or equivalent) is attested as a common form. The truth-teller function is expressed periphrastically via the relative clause construction (*mtu anayesema kweli*). This is an asymmetric lexical gap: the falsity/deception pole has lexicalized agentive nominals; the truth/sincerity pole does not.
+
+### 2.6 Light Verbs as Semantic Carriers in Periphrastic Constructions
+
+In the periphrastic verbal construction (§11), the light verb (*sema*, *toa*, *tafuta*, *ficha*, *potosha*, *kukusanya*, *pinga*) specifies the action type, while the truth-domain noun (*ukweli*, *ushahidi*, *makosa*) carries the semantic content of the truth domain. The light verb is syntactically the main verb and carries tense, aspect, and agreement morphology; the truth-domain noun is the direct object. This pattern compensates for the absence of lexicalized single-word verbs for actions such as "to truth-tell" or "to evidence-gather." The construction behaves syntactically as a transitive verb phrase with a nominal object; it is not a fixed collocation but a productive pattern.
+
+### 2.7 Adverbial Phrases: Syntactic Behavior
+
+The adverbial truth-asserting phrases (§9) — *kwa kweli*, *kwa kweli kweli*, *kwa haki*, *kwa dhahiri* — behave syntactically as sentence adverbials. They are not morphologically integrated into the verb complex and do not carry tense, aspect, or agreement. They scope over the entire proposition and occupy sentence-initial or sentence-medial position. They function as adjuncts, not as predicates. *Kwa kweli* and *kwa kweli kweli* function as sincerity markers; *kwa dhahiri* functions as an evidential marker. These are multi-word expressions that behave as adverbs at the clause level.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No structural (morphosyntactic) gaps are identified. All CLCA operators that are attested in the data have a morphosyntactically available construction in Swahili. The causative suffix, the inchoative suffix, the passive suffix, the *u-* nominalization prefix, the *m-/mw-* agentive prefix, the invariant copulas *ni* and *si*, and the periphrastic light-verb pattern are all productive and available for truth-domain use.
+
+**No MISSING (structural gap) cases are identified from the P4a/P4b data.**
+
+### 3.2 Lexical Gaps
+
+The following lexical gaps are identified, meaning the morphosyntactic construction is available but specific lexical items filling it are not attested:
+
+1. **No causative from *kweli* itself** (*kukwelisha* or equivalent) is attested. The causative function for "making something true" or "verifying truth" is carried by *kuthibitisha*. The gap is in the lexical paradigm of *kweli*, not in the causative construction itself.
+
+2. **No inchoative/BECOME derivation from *kweli* or *halisi*** is attested. The *-ika/-eka* suffix is morphosyntactically available but not attested for these two bases in the truth domain. The BECOME function for *dhahiri* and *danganya* is attested; for *kweli* and *halisi* it is not.
+
+3. **No single-word agentive nominal for "truth-teller"** (*mkweli* or equivalent) is attested as a common form. The *m-/mw-* agentive prefix construction is available, but the specific lexical item is not attested. The function is expressed periphrastically.
+
+4. **No dedicated single-word DISCONFIRMATION verb** is attested. The periphrastic construction (§11) with *pinga* or *potosha* covers the function, but no lexicalized verb meaning "to disconfirm" is identified in the data.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified from the P4a/P4b data. All CLCA operators are expressible in Swahili; none is described in the data as blocked, unavailable, or culturally/grammatically incoherent. The data does not flag any operator as conceptually inaccessible.
+
+### 3.4 Asymmetric Gaps
+
+1. **Agentive nominalization — truth vs. falsity asymmetry:** Lexicalized single-word agentive nominals are attested for the falsity/deception pole (*muongo*, *mdanganyifu*) but not for the truth/sincerity pole (no *mkweli* or equivalent). Only the falsity side has full lexicalization; the truth side requires periphrasis. This is an asymmetric lexical gap affecting the positive (truth) pole of the CAUSATION (character) / agentive nominalization domain.
+
+2. **BECOME derivation — *dhahiri* and *danganya* vs. *kweli* and *halisi*:** The inchoative *-ika/-eka* derivation is attested for *dhahiri* (evidence/self-evidence) and *danganya* (deception) but not for *kweli* (truth) or *halisi* (genuineness). This is an asymmetric lexical gap within the BECOME construction: the evidential and deception sub-domains have inchoative forms; the core truth and genuineness sub-domains do not.
+
+3. **DISCONFIRMATION vs. VERIFICATION asymmetry:** VERIFICATION has a dedicated lexicalized causative verb (*kuthibitisha*) and its passive (*kuthibitishwa*) that are standard in formal discourse. DISCONFIRMATION has no equivalent dedicated lexicalized verb; it is expressed through NEGATION (§2) or periphrasis (§11). This is an asymmetric gap between the positive (verification) and negative (disconfirmation) poles of the epistemic action domain.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Expressed by invariant copula *ni* + truth predicate (§1); negative form by *si* (§2); both are [CORE] and register-unrestricted |
+| **ADNOM** | **Fully available** | Two subtypes: bare post-nominal modifier (§3a, no linker) and genitive modifier with noun-class linker (§3b); both [CORE] |
+| **BECOME** | **Available with substitution** | Morphosyntactically available via *-ika/-eka* (§4); attested only for *dhahiri* and *danganya* bases; not attested for *kweli* or *halisi* — lexical gap for those bases |
+| **REVELATION** | **Fully available** | Expressed by evidential predicate *ni dhahiri kwamba* + complement clause (§10) and adverbial *kwa dhahiri* (§9); both [CORE]; distinct from BECOME |
+| **CAUSATION (factual)** | **Fully available** | Expressed by productive causative suffix *-sha/-isha* (§5); *kuthibitisha*, *kusahihisha*, *kuhalalisha*, *kudhihirisha* all attested; lexical gap only for *kweli* base specifically |
+| **CAUSATION (character)** | **Available with substitution** | Lexicalized agentive nominals attested for falsity/deception pole (*muongo*, *mdanganyifu*) (§7a); truth-teller function expressed periphrastically only (§7b) — asymmetric lexical gap |
+| **VERIFICATION** | **Fully available** | Expressed through causative *kuthibitisha* and passive *kuthibitishwa* (§§5, 8); shares morphological paradigm with CAUSATION (factual); no formal distinction between the two operators |
+| **DISCONFIRMATION** | **Available with substitution** | No dedicated construction; **SUBSTITUTED BY** NEGATION (§2) for stative disconfirmation and periphrastic verbal construction (§11) for active disconfirmation; asymmetric gap relative to VERIFICATION |
+| **NEGATION** | **Fully available** | Analytic: invariant negative copula *si* replaces *ni* (§2); no morphological negation on predicate item; fully parallel to positive ATTR construction |
+| **NOMINALIZATION** | **Fully available** | Two productive subtypes: abstract *u-* prefix nominalization (§6, eight or more attested forms) and agentive *m-/mw-* prefix nominalization (§7a); both [CORE] and productive across the truth domain |

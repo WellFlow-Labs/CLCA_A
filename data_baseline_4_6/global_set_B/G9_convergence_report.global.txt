@@ -1,0 +1,245 @@
+# Global Convergence Report: Cross-Language Analysis of Truth-Related Semantic Domains
+
+## 1. Scope and Data
+
+This report synthesizes findings from a cross-linguistic analysis of truth-related vocabulary, morphology, constructions, and oppositions across eight languages: Chinese (zh), Hebrew (he), Sanskrit (sa), Greek (el), English (en), Tagalog (tl), Swahili (sw), and Quechua (qu). These languages represent six genealogical families (Sino-Tibetan, Semitic, Indo-European [two branches], Austronesian, Niger-Congo, Quechuan) and span a range of morphological types from isolating to highly agglutinative.
+
+For each language, six analytical phases were completed: F1 (vocabulary tables), F2a (derivational morphology), F2b (multi-word constructions), F3 (semantic grouping), F4 (construction types), F5 (opposition structures), and F6 (naturalness ratings). These were followed by eight cross-language synthesis steps (G1–G8) covering summary characterization, lexical partition comparison, semantic dimension identification, derivational strategy comparison, construction comparison, opposition comparison, constraint matrix derivation, comparison with an external theoretical model, and identification of candidate universals and outliers.
+
+Data completeness is uneven across languages. The Sanskrit data draws primarily on philosophical and religious texts, which may overrepresent epistemological and metaphysical vocabulary relative to everyday usage. The Quechua data reflects a variety of Southern Quechua and may not generalize to all Quechua varieties. The Swahili data reflects standard Swahili with heavy Arabic loanword influence. For all languages, the F1 vocabulary tables were constructed from elicitation targeting the truth-related domain, meaning that adjacent domains (belief, knowledge, perception) are represented only where they intersect with truth vocabulary as identified by the analysts. This creates a potential gap for the belief/epistemic acceptance domain (discussed below).
+
+---
+
+## 2. Core Cross-Language Findings
+
+### 2.1 Semantic Organization and Partitioning
+
+Across all eight languages, truth-related meaning is organized around a set of recurrently distinguishable semantic dimensions, though the degree of lexical separation between dimensions varies considerably by language.
+
+**Propositional correspondence** — whether a statement or claim corresponds to actual states of affairs — is the most consistently lexicalized dimension in all eight languages. Every language maintains a primary binary lexical opposition for this domain: zh 真/假, he אמת/שקר, sa satya/asatya, el αλήθεια/ψέμα, en true/false, tl totoo/kasinungalingan, sw kweli/uongo, qu chiqan/llulla. This pair is the most productive source of derivation and compounding in every language.
+
+**Material authenticity** — whether a physical object, document, or credential is genuine rather than counterfeit — is lexically distinguished from propositional truth in most languages, though the degree of separation varies. Tagalog shows the clearest split, with totoo restricted to propositional truth and tunay used for genuineness and sincerity. Chinese, Hebrew, Greek, English, and Swahili have specialized terms for material authenticity (zh 真品/正版, he אמיתי/מזויף, el γνήσιος/πλαστός, en genuine/fake, sw halisi/bandia) that are distinct from the primary truth terms, though the primary terms can also be applied to objects in many contexts. Sanskrit and Quechua use the primary truth terms for both domains without dedicated specialized vocabulary for material authenticity.
+
+**Procedural correctness** — whether an answer, calculation, or procedure conforms to a standard — is lexically separated from propositional truth in at least five languages (zh 对/错 vs. 真/假; el σωστός/λάθος vs. αλήθεια/ψέμα; tl tama/mali vs. totoo; sw sahihi vs. kweli; he נכון vs. אמת). In English, Quechua, and partially Sanskrit, the same terms cover both propositional truth and procedural correctness without a dedicated split.
+
+**Personal honesty and sincerity** — a character disposition toward truthfulness — is lexically distinguished from propositional truth in all eight languages, though the same root may cover both in some cases (zh 真 can describe both true statements and sincere persons; he אמת can describe both factual truth and sincere conduct). Every language has dedicated vocabulary for evaluating persons as honest or dishonest, truthful or lying.
+
+**Moral rightness** — whether actions or situations are morally just or proper — is present in all eight languages but shows the greatest variation in its relationship to procedural correctness. Hebrew (צדק vs. נכון), Sanskrit (dharma vs. samyak), and Greek (δίκαιος vs. σωστός) maintain clear lexical separation. English (right/wrong), Tagalog (tama), Quechua (allin/mana allin), and Swahili (haki) merge moral rightness and procedural correctness under shared terms.
+
+**Reliability and trustworthiness** — whether persons, sources, or information can be consistently depended upon — is clearly lexicalized in Chinese (可靠), Hebrew (אמין/נאמן), Greek (βέβαιος), and English (reliable/trustworthy), and weakly attested or merged with personal honesty in Sanskrit, Tagalog, Swahili, and Quechua. Hebrew is distinctive in merging reliability, faithfulness, and belief under the single root א-מ-נ, a pattern not found in any other language in the corpus.
+
+**Deception and intentional falsification** — deliberate acts of deceiving or creating false impressions — is consistently distinguished from unintentional error in all eight languages. Every language has dedicated vocabulary for lying, deceiving, and forging that is distinct from vocabulary for making mistakes.
+
+Several additional dimensions are present in some languages but absent or weakly attested in others: epistemic certainty (clearly lexicalized in he, el, sw; grammatically encoded in qu; weakly in zh, en; absent in sa, tl), logical and legal validity (clearly lexicalized in he, el, en; weakly in sa, zh, qu; absent in tl, sw), appearance versus reality (most elaborated in sa; present but less developed in zh, el, en, tl, sw; handled through appearance verbs in qu), completeness and substantiality (clearly lexicalized in zh, el, sw, qu; absent in he, tl), and precision and exactness (clearly lexicalized in zh, he, el, en, tl; weakly in sw; absent in sa, qu).
+
+### 2.2 Shared Patterns in Vocabulary
+
+The most consistent vocabulary-level finding is the universal presence of a primary binary truth/falsity opposition applied to propositional content. Beyond this, several vocabulary patterns recur across multiple unrelated families.
+
+The distinction between deliberate deception and unintentional error is lexically marked in all eight languages. Every language has dedicated vocabulary for lying and deceiving (zh 欺骗/谎言, he לשקר/שקרן, sa mithyāvādin, el ψεύδομαι/ψεύτης, en lie/liar, tl sinungaling, sw -danganya/mwongo, qu llullakuy/llullakuq) that is distinct from vocabulary for making mistakes (zh 错误/搞错, he טעות, sa bhrama, el λάθος, en mistake/error, tl pagkakamali, sw makosa, qu pantay).
+
+The distinction between personal honesty as a character trait and propositional truth as a property of statements is lexically marked in all eight languages, though the same root may cover both in some cases.
+
+A spatial or container metaphor for truth — treating truth as a hidden object that can be revealed or concealed — is attested in at least six of the eight languages (he, el, en, tl, sw, zh), with dedicated constructions for revealing truth (he גילה את האמת, el βγαίνει η αλήθεια στη φόρα, en the truth came to light, tl ilantad, sw gundua ukweli) and concealing it (he הסתיר את האמת, el κρύβω την αλήθεια, tl ilihim, sw ficha ukweli). Quechua handles the related function through perception verbs rather than revelation/concealment constructions, and Sanskrit has less developed concealment vocabulary in the truth domain.
+
+### 2.3 Shared Patterns in Derivation
+
+Morphological negation is the dominant antonym-forming strategy in all eight languages. No language relies primarily on dedicated independent lexical antonyms for truth-domain terms; all use some form of negation prefix or free particle. The productivity of this strategy varies: Sanskrit's a-/an- privative generates fully lexicalized antonyms (asatya, adharma, avidyā) with their own derivational families, while Quechua's mana is a free particle that does not produce lexicalized forms. Despite this structural variation, the functional pattern is consistent.
+
+Abstract nominalization of truth-domain roots is available in all eight languages, realized through agglutinative suffixes (he -ות, sa -tā/-tva, el -ότητα, en -y/-ness/-ity), a circumfix (tl ka-...-an), a noun-class prefix (sw u-), a suffix restricted to disyllabic bases (zh -性/-度), or copula nominalization (qu chiqan kay). The functional outcome is consistent despite structural diversity.
+
+Causative derivation for verification, authentication, and correction is available in all eight languages, realized through resultative verb compounds (zh 改正/落实/证实), binyan morphology (he הוכיח/אימת), a causative suffix (sa -isha, sw -isha, qu -cha-), a causative prefix (tl pa-), or dedicated causative verbs (el βεβαιώνω, en verify/authenticate). The causative for making something correct or verified is consistently more lexicalized than the causative for making something false.
+
+Agentive nominalization for "liar" or "deceiver" is lexicalized as a single derived or simplex word in all eight languages (zh 骗子, he שקרן, sa mithyāvādin, el ψεύτης, en liar, tl sinungaling, sw mwongo, qu llullakuq). The positive counterpart — a single derived word for a person who habitually tells the truth — is absent or requires a compound or periphrastic construction in at least five of the eight languages (zh, he, el, en, sw). Sanskrit and Quechua have compound forms (satyavādin, chiqan rimaq) but not simple derived words. This asymmetry is one of the most consistent cross-linguistic findings in the corpus.
+
+### 2.4 Shared Patterns in Constructions
+
+The construction combining a verb of speaking or communicating with a truth-domain term as object — [speak/tell + truth/lie] or its structural equivalent — is among the most natural and frequently attested constructions in every language. It is rated [CORE] in F6 naturalness data across all eight languages, making it the single most consistently natural construction type in the corpus.
+
+Copular attribution, negated attribution, and adnominal modification are broadly available for all lexicalized truth-domain dimensions in all eight languages. No language shows consistent resistance to any of these three constructional functions for any lexicalized dimension.
+
+Deontic constructions expressing obligation to tell the truth or prohibition against lying are broadly available in all eight languages, realized through modal verbs (zh, he, el, en), optative mood (sa), imperative plus prohibitive particle (tl, qu), or subjunctive (sw).
+
+Degree modification and intensification of truth-domain predicates are broadly available in all eight languages, realized through degree adverbs, emphatic particles, reduplication, or limitative particles.
+
+Discourse marker grammaticalization from truth-domain terms is attested in at least seven of the eight languages. Truth-domain terms or phrases have undergone pragmatic grammaticalization to function as discourse markers introducing frank statements, expressing surprise, or seeking confirmation (zh 说真的, he באמת?, el αλήθεια?, en to be honest, tl sa totoo lang, sw kwa kweli, qu chiqap). Sanskrit is the weakest case. The degree of grammaticalization varies, but the pattern of recruiting truth vocabulary for discourse management is consistent across unrelated families.
+
+### 2.5 Shared Patterns in Oppositions
+
+Binary lexical oppositions are the dominant oppositional structure in all eight languages. The primary truth/falsity pair is the most productive source of opposition in every language, generating parallel compound pairs (qu chiqan runa/llulla runa, sa satyavādin/mithyāvādin), parallel light verb constructions (sw sema ukweli/sema uongo, en tell the truth/tell lies), and parallel adjectival modifications (el αληθινή ιστορία/ψευδής μαρτυρία).
+
+Morphological negation is the dominant strategy for creating oppositional pairs, as noted above. Constructional oppositions — using antonymous verbs with the same object (he לגלות את האמת vs. להסתיר את האמת, el αποκαλύπτω vs. κρύβω την αλήθεια) — are attested in multiple languages for the revelation/concealment domain.
+
+Disjunctive constructions presenting both poles of a truth opposition simultaneously are attested in most languages, though the structural realization varies: A-not-A pattern in Chinese (是不是真的?), disjunctive coordination in Swahili (kweli au uongo) and Tagalog (tama o mali), and the -chu suffix on both poles in Quechua (chiqanchu llullachu?).
+
+Scalar oppositions within the falsity domain — distinguishing minor from serious lies — are attested in Hebrew (שקר לבן vs. שקר גמור), Greek (άσπρο ψέμα vs. μαύρο ψέμα), and Swahili (uongo mdogo vs. uongo mkubwa), but not documented in Chinese, Sanskrit, Tagalog, or Quechua.
+
+### 2.6 Major Asymmetries
+
+**The liar/truth-teller agentive asymmetry** is the most consistent cross-linguistic asymmetry in the corpus. Negative agentives (liar, deceiver) are lexicalized as single derived or simplex words in all eight languages; positive agentives (truth-teller, honest person as a single derived word) are absent or require compounds or periphrasis in at least five languages. This asymmetry holds across Sino-Tibetan, Semitic, Indo-European, Austronesian, Niger-Congo, and Quechuan families.
+
+**The positive inchoative bias** is the second most consistent asymmetry. Constructions expressing positive change toward truth, correctness, or completeness (becoming true, coming true, being verified) are more broadly natural and more consistently lexicalized than constructions expressing negative change (becoming false, turning out to be wrong). English *come false is ungrammatical; Quechua has no attested inchoative for deterioration; Chinese 变假 is marginal; Hebrew's התברר is more grammaticalized for the positive direction. Swahili shows the least asymmetry, with both directions available using the same periphrastic construction. The asymmetry is documented across at least five unrelated families.
+
+**The causative verification/falsification asymmetry** parallels the inchoative asymmetry. Causative constructions for establishing truth, verifying, or correcting are well-attested in all eight languages. Direct causatives of the falsity adjective — constructions meaning "make X false" by applying a causative morpheme directly to the falsity term — are consistently more restricted or absent. The negative causative function is typically filled by deception verbs (deceive, forge, falsify) rather than by direct causatives of the falsity adjective. This substitution pattern is documented across multiple unrelated families.
+
+**The degree of lexical separation between semantic dimensions** varies considerably across languages. Tagalog shows the clearest split between propositional truth (totoo) and material authenticity (tunay). Chinese shows the clearest split between propositional truth (真/假) and procedural correctness (对/错). Hebrew shows the clearest integration of truth, reliability, faithfulness, and belief under a single root. Sanskrit shows the most elaborated epistemological vocabulary. These language-specific patterns are discussed further in Section 4.
+
+---
+
+## 3. Global Constraint Summary
+
+The constraint matrix derived in G7a covers the intersection of thirteen semantic dimensions with eighteen constructional functions. The following summarizes the constraint surface, organized by confidence level.
+
+### 3.1 Strongly Supported Constraints
+
+**Copular attribution, negated attribution, and adnominal modification are broadly available for all lexicalized truth-domain dimensions.** No language in the corpus shows consistent resistance to predicating a truth-domain property of a subject, negating that predication, or using a truth-domain term to modify a noun. This holds across all thirteen dimensions and all eight languages where the dimension is lexicalized. Confidence is high.
+
+**Abstract nominalization is broadly available for all lexicalized truth-domain dimensions.** Every language has a strategy for creating abstract nouns from truth-domain roots. No dimension shows consistent resistance to nominalization. Confidence is high.
+
+**Causative verification constructions are broadly available for propositional correspondence, material authenticity, procedural correctness, logical validity, and completeness.** Constructions for establishing truth, verifying, authenticating, or correcting are well-attested across all eight languages for these dimensions. Confidence is high.
+
+**Negative agentive nominalization (liar, deceiver) is broadly available for propositional correspondence, personal honesty, and deception dimensions.** Agent nouns for habitual liars and deceivers are lexicalized in all eight languages. Confidence is high.
+
+**Positive agentive nominalization (truth-teller, authenticator, reliable person) is consistently absent or requires compounds/periphrasis across all eight languages.** This is the most consistent gap in the corpus. No language has a single derived word for "truth-teller" (as opposed to a compound or periphrastic construction), and no language has a single derived word for "authenticator" or "reliable person" as derived from the authenticity or reliability root. Confidence is high.
+
+**The positive inchoative bias holds across multiple unrelated families.** Positive inchoatives (becoming true, becoming correct, becoming complete) are consistently more natural than negative inchoatives (becoming false, becoming wrong, becoming empty) for propositional correspondence and personal honesty dimensions. The asymmetry is documented across at least five unrelated families. Confidence is high for the pattern's existence; moderate for its universality, given the Swahili and Hebrew near-exceptions.
+
+**Degree modification and intensification are broadly available for all lexicalized truth-domain dimensions.** No dimension shows consistent resistance to degree modification. Confidence is high.
+
+**Deontic constructions are broadly available for propositional correspondence, procedural correctness, personal honesty, and deception dimensions.** Constructions expressing obligation to tell the truth or prohibition against lying are well-attested across all eight languages. Confidence is high.
+
+### 3.2 Moderately Supported Patterns
+
+**The causative verification/falsification asymmetry is moderately supported.** Direct causatives of the falsity adjective are consistently more restricted than causatives for verification or correction, with the negative causative function typically filled by deception verbs. This pattern is documented across multiple families but requires careful structural analysis to distinguish direct causatives from deception verbs. Confidence is moderate.
+
+**Revelation/concealment constructions are broadly available for propositional correspondence and personal honesty, but variable for other dimensions.** The spatial/container metaphor for truth is attested in six of eight languages for propositional truth, but less consistently attested for material authenticity, appearance/reality, or completeness. Quechua uses perception verbs instead. Confidence is moderate.
+
+**Epistemic source marking is available across all languages but shows a structural split between Quechua and all others.** In Quechua, evidential suffixes are grammatically obligatory on every main-clause truth assertion. In all other seven languages, epistemic source is expressed through optional lexical items. The function is universally available but the realization type differs fundamentally. Confidence is moderate for the pattern; high for the Quechua structural difference.
+
+**Logical and legal validity constructions are available in most but not all languages.** Validity vocabulary is clearly lexicalized in Hebrew, Greek, and English, and weakly present in Sanskrit, Chinese, and Quechua, but absent as a dedicated semantic group in Tagalog and Swahili. The negative inchoative for validity (becoming invalid, expiring) is more consistently attested than the negative inchoative for propositional truth, possibly because validity is inherently time-limited or condition-dependent. Confidence is moderate.
+
+**Disjunctive binary questions are available in most languages but show highly language-specific realizations.** The function is attested in most languages but the structural form varies considerably (A-not-A in Chinese, -chu suffix in Quechua, disjunctive coordination in Swahili and Tagalog, intonation in Hebrew and Greek). Confidence is moderate for the function's availability; low for any specific structural prediction.
+
+### 3.3 Weak or Uncertain Areas
+
+**The belief/epistemic acceptance dimension is weakly attested across the corpus.** It is clearly lexicalized only in Hebrew (the א-מ-נ root family). In other languages, belief vocabulary exists but was not consistently captured in the F1 truth-domain tables. It is unclear whether this reflects a genuine cross-linguistic difference or a data limitation. Confidence is low.
+
+**The appearance versus reality dimension shows the greatest cross-linguistic variation in elaboration.** Sanskrit has the most developed vocabulary (mithyā, ābhāsa, vyavahāra/paramārtha), while Quechua handles this dimension through appearance verbs without dedicated ontological terms. The dimension is present in all eight languages but the degree of elaboration varies so widely that general constraint claims are difficult to support. Confidence is low to moderate.
+
+**The completeness and substantiality dimension is absent in Hebrew and Tagalog.** It is unclear whether this reflects a genuine absence or a data limitation. Confidence is low.
+
+**Comparative constructions are documented in most languages but insufficiently attested in Sanskrit, Swahili, and Quechua** for reliable cross-language comparison. Confidence is low for these three languages.
+
+---
+
+## 4. Candidate Universals and Outliers
+
+### 4.1 Strong Cross-Language Tendencies
+
+The following patterns are attested across all eight languages or across multiple unrelated families with no clear counterexamples in the corpus. They are described as strong tendencies rather than universals because the corpus covers only eight languages.
+
+**A primary binary lexical opposition between truth and falsehood, applied to propositional content, is present in all eight languages.** This pair is the most productive source of derivation and compounding in every language. Both poles are productive in all languages.
+
+**Morphological negation is the dominant strategy for forming antonyms of truth-domain terms in all eight languages.** This holds across propositional truth, correctness, authenticity, honesty, and moral rightness.
+
+**Copular attribution, negated attribution, and adnominal modification are broadly available for all lexicalized truth-domain dimensions in all eight languages.**
+
+**Abstract nominalization of truth-domain roots is broadly available in all eight languages**, realized through diverse morphological strategies.
+
+**The light-verb construction combining a verb of speaking with a truth-domain term as object is among the most natural constructions in all eight languages.**
+
+**Discourse marker grammaticalization from truth-domain terms is attested in at least seven of the eight languages.** Sanskrit is the weakest case.
+
+**The liar/truth-teller agentive asymmetry is attested across all eight languages.** Negative agentives are universally lexicalized; positive agentives consistently require compounds or periphrasis.
+
+**The positive inchoative bias is attested across at least five unrelated families.** Positive change toward truth is more readily lexicalized than negative change.
+
+**Deontic constructions expressing obligation to tell the truth or prohibition against lying are broadly available in all eight languages.**
+
+**Degree modification and intensification of truth-domain predicates are broadly available in all eight languages.**
+
+**The distinction between deliberate deception and unintentional error is lexically marked in all eight languages.**
+
+**The distinction between personal honesty as a character disposition and propositional truth as a property of statements is lexically marked in all eight languages.**
+
+### 4.2 Tentative or Weak Candidates
+
+The following patterns are attested in most but not all languages, or are attested across fewer than five families.
+
+**The spatial/container metaphor for truth is attested in six of eight languages** but absent or marginal in Quechua and Sanskrit. Its status as a universal is uncertain.
+
+**The distinction between propositional truth and material authenticity is recurrently lexicalized** but the degree of separation varies from a clear split (Tagalog) to extension of the primary truth terms (Sanskrit, Quechua).
+
+**The distinction between procedural correctness and propositional truth is lexically marked in most but not all languages.** English, Quechua, and partially Sanskrit merge these domains.
+
+**Scalar oppositions within the falsity domain** (white lie vs. serious lie) are attested in Hebrew, Greek, and Swahili but not documented in Chinese, Sanskrit, Tagalog, or Quechua.
+
+**The causative verification/falsification asymmetry** is attested across multiple families but requires more careful structural analysis to confirm.
+
+### 4.3 Major Outliers
+
+**Quechua — grammatically obligatory evidential marking.** Quechua is the only language in the corpus where epistemic source marking on truth claims is grammatically obligatory rather than optional. The suffixes -mi (direct knowledge), -si (reportative), and -cha (conjectural) must appear on every main-clause assertion. This is a structural difference from all other seven languages, not merely a difference in degree of lexicalization.
+
+**Hebrew — single root covering propositional truth, reliability, faithfulness, and belief.** The א-מ-נ root family is unique in the corpus in merging these four domains under a single derivational family. In all other seven languages, these domains are covered by distinct roots.
+
+**Sanskrit — uniquely elaborated epistemological apparatus.** Sanskrit is the only language in the corpus with a fully elaborated epistemological taxonomy as part of its core truth vocabulary: the pramāṇa system (perception, inference, testimony as distinct valid knowledge sources), the pramā/apramā/bhrama distinctions, and the vyavahāra/paramārtha two-truths framework with dedicated adverbial forms. No other language organizes epistemic vocabulary into a systematic taxonomy within the truth domain.
+
+**Tagalog — semantic extension of a correctness term into a cessation domain.** Tagalog is the only language in the corpus where a correctness term (tama = correct/right) has extended into a cessation/sufficiency domain (tama na = enough/stop). This semantic drift is not attested in any other language in the corpus.
+
+**Tagalog — clearest lexical split between propositional truth and material authenticity.** The totoo/tunay distinction is the sharpest lexical separation between these two dimensions in the corpus.
+
+**Greek — productive ψευδ- pseudo-X compound system.** Greek is the only language in the corpus with a productive system for generating pseudo-X compounds (ψευδοεπιστήμη, ψευδοδημοκρατία) from the same prefix that means "lie/false." While other languages have some equivalent compounds, none generates them as systematically from a single prefix that is also the root for "lie/false."
+
+**Chinese — resultative verb compound pattern.** Chinese is the only language in the corpus where truth-domain roots (正, 实, 真) function as resultative complements in verb compounds (改正, 落实, 证实). This is a distinctive feature of Chinese verb morphology with no parallel in the other seven languages.
+
+**Swahili — Arabic loanword stratum as primary source of precision/correctness vocabulary.** Swahili's core truth vocabulary (sahihi, hakika, halisi, haki, adili) is predominantly Arabic-derived, creating a two-stratum system alongside native kweli/uongo. No other language in the corpus shows this degree of loanword dominance in the core truth-domain vocabulary.
+
+---
+
+## 5. Limitations and Future Work
+
+### 5.1 Data Gaps
+
+**Language coverage.** The corpus covers eight languages from six families. Several major language families are unrepresented, including Dravidian, Japonic, Koreanic, Turkic, and most of the Niger-Congo family beyond Swahili. The candidate universals identified here should be treated as strong tendencies within the sampled languages rather than universal claims.
+
+**Evidential languages.** Quechua is the only language in the corpus with a grammaticalized evidential system. Many languages have evidential systems of varying degrees of grammaticalization (Turkish, Tibetan, various Amazonian languages). Including one or more additional languages with evidential systems would allow a more principled comparison and would help determine whether Quechua's pattern is unique or representative of a broader class.
+
+**Belief and knowledge vocabulary.** The F1 tables were constructed targeting truth-related vocabulary, which may have excluded belief and knowledge vocabulary in languages where these domains are not treated as part of the truth domain by the analysts. A systematic survey of belief vocabulary across all corpus languages, using the same elicitation criteria, would clarify the status of the belief/epistemic acceptance dimension (D-G).
+
+**Completeness and substantiality vocabulary.** The absence of this dimension in Hebrew and Tagalog may reflect a data limitation rather than a genuine absence. Targeted elicitation of completeness vocabulary in these languages would clarify this.
+
+**Everyday versus formal registers.** The Sanskrit data draws primarily on philosophical and religious texts, which may overrepresent epistemological and metaphysical vocabulary. The Quechua data may underrepresent philosophical vocabulary. Cross-register comparison within each language would help determine which findings are register-specific.
+
+**Spoken versus written language.** The F4 and F6 data include naturalness ratings, but these are based on analyst judgment rather than corpus frequency data. Corpus-based frequency analysis would provide a more objective basis for naturalness claims.
+
+### 5.2 Methodological Limitations
+
+**Analyst-dependent grouping.** The F3 semantic groupings and the G3 dimension identification involve analyst judgment. Different analysts might draw different boundaries between dimensions, particularly for dimensions that are closely related (procedural correctness vs. propositional truth; personal honesty vs. reliability). The groupings should be treated as working hypotheses rather than definitive categories.
+
+**Mapping between empirical dimensions and theoretical axes.** The G7b comparison with the AOML theoretical model revealed several cases where empirical dimensions map imperfectly to theoretical axes (particularly D-J appearance vs. reality, D-K completeness, and D-G belief). These imperfect mappings limit the conclusions that can be drawn from the theoretical comparison.
+
+**The positive agentive gap.** The consistent absence of a single derived word for "truth-teller" across multiple unrelated families is one of the most robust findings in the corpus, but the explanation for this asymmetry is unclear. The current data does not distinguish between several possible explanations: truth-telling as the default or unmarked behavior, the positive disposition being more gradient and context-dependent, or a broader pattern in which negative character types are more readily lexicalized than positive ones. Cross-linguistic evidence from other character-trait domains would help determine whether the asymmetry is specific to the truth domain.
+
+**The causative asymmetry.** The claim that direct causatives of the falsity adjective are consistently more restricted than causatives for verification requires careful structural analysis that the current data does not fully support. The distinction between "direct causative of the falsity adjective" and "deception verb derived from the falsity root" is not always sharp, and the current data does not systematically distinguish these.
+
+**The inchoative asymmetry.** Swahili shows the least asymmetry between positive and negative inchoatives, and Hebrew's התברר can take complement clauses for both directions. These near-exceptions suggest the positive inchoative bias may be a strong tendency rather than a universal. More evidence from languages with different aspectual systems is needed.
+
+### 5.3 Recommended Next Steps
+
+**Expand language coverage** to include at least one language from each of the following families not currently represented: Dravidian, Japonic or Koreanic, Turkic, and a second Niger-Congo language. Priority should be given to languages with grammaticalized evidential systems (to compare with Quechua) and languages with strong truth-telling cultural norms or legal traditions (to test the liar/truth-teller agentive asymmetry).
+
+**Conduct targeted elicitation** for the belief/epistemic acceptance domain across all corpus languages, using the same elicitation criteria as for truth vocabulary. This would clarify whether the Hebrew א-מ-נ root merger is unique or whether other languages show similar integrations.
+
+**Conduct targeted elicitation** for the completeness/substantiality domain in Hebrew and Tagalog to determine whether the absence of this dimension reflects a genuine gap or a data limitation.
+
+**Conduct corpus-based frequency analysis** for the most frequently cited constructions (light verb + truth/falsity object, copular attribution, discourse markers) to provide an objective basis for naturalness claims.
+
+**Refine the analysis of causative constructions** to distinguish between direct causatives of truth-domain adjectives, causatives derived from truth-domain roots, and deception verbs that fill the negative causative function. This would allow a more precise characterization of the causative verification/falsification asymmetry.
+
+**Investigate the liar/truth-teller agentive asymmetry** in languages with strong truth-telling cultural norms or legal traditions, and in languages from families not currently represented, to determine whether the asymmetry is universal or culturally variable.
+
+**Investigate the positive inchoative bias** in languages with different aspectual systems, particularly languages with grammaticalized aspect distinctions that might interact with the inchoative/stative contrast.
+
+**Conduct cross-register analysis** within each corpus language to determine which findings are register-specific (particularly for Sanskrit, where the data draws primarily on philosophical texts).
+
+**Investigate the discourse marker grammaticalization pattern** in Sanskrit using colloquial or everyday text sources, to determine whether Sanskrit is a genuine exception to the pattern or whether the absence reflects a gap in the data.

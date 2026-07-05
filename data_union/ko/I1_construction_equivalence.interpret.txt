@@ -1,0 +1,115 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Korean (ko)
+### Transliteration Standard: Revised Romanization of Korean (RR)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | [Noun] + 이다/이 아니다 (copular predication); N이/가 + Adj (predicative adjective) | 사실이다 (*sasil-ida*, "It is a fact"); 그의 주장이 타당하다 (*geuui jujangi tadanghada*, "His claim is valid") | Direct mapping; no substitution required | None |
+| **ADNOM** | [Adj stem] + -(으)ㄴ + [Noun]; 있는/없는 participial modifier | 정확한 정보 (*jeonghwakhan jeongbo*, "accurate information"); 근거 없는 주장 (*geungeo eomneun jujang*, "unsubstantiated claim") | Direct mapping; no substitution required | None |
+| **BECOME** | [Noun] + (으)로 + 판명되다/밝혀지다/드러나다; [Noun] + 이/가 + 되다 | 가짜로 판명되다 (*gajja-ro panmyeong-doeda*, "to be determined to be fake"); 계약이 무효가 되다 (*gyeyagi muhyoga doeda*, "the contract becomes void") | SUBSTITUTED BY REVELATION for epistemic change-of-state; 되다 covers non-epistemic becoming | Partial: general BECOME (되다) is present; epistemic BECOME is systematically expressed through revelation verbs |
+| **REVELATION** | [Noun] + (으)로 + 밝혀지다/드러나다/판명되다 | 그 주장이 허위로 밝혀졌다 (*geu jujangi heowiro balkyeojyeossda*, "That claim was revealed to be false"); 진실이 드러나다 (*jinsil-i deureonada*, "The truth emerges") | Fully attested; also substitutes for epistemic BECOME | None |
+| **CAUSATION (factual)** | [Agent] + [Truth-domain noun] + 을/를 + 밝히다/숨기다/왜곡하다; [Noun] + 하다 (transitive); [Noun] + -화하다 | 진실을 밝히다 (*jinsileul balkhida*, "to reveal the truth"); 계약을 무효화하다 (*gyeyageul muhyohwa hada*, "to invalidate the contract") | Direct mapping via transitive verb selection and -화하다; no morphological causative suffix | Morphosyntactic gap: no productive morphological causative suffix; causation expressed periphrastically through transitive verb selection |
+| **CAUSATION (character)** | [Noun] + 하다 (stative, character-denoting base); predicative adjective constructions | 정직하다 (*jeongjik-hada*, "to be honest"); 거짓말하다 (*geojitmal-hada*, "to lie") | Expressed through stative 하다 predicates and habitual agentive nominalizations (거짓말쟁이); no dedicated causative-of-character construction | Morphosyntactic gap: no construction specifically encoding "causing someone to have a truth-related character trait"; character predication and habitual agency are available but not causation of character |
+| **VERIFICATION** | No dedicated construction attested | — | **NO COMMON EXPRESSION — circumlocution required** (e.g., 사실을 확인하다, "to confirm a fact," is inferable from the data but not listed as a distinct construction in P4a/P4b) | Structural gap: no construction in P4a/P4b is labeled or described as a VERIFICATION operator |
+| **DISCONFIRMATION** | [Noun] + 이/가 아니다 (copular negation); [Noun] + 이/가 없다 (existential negation); -지 않다 (syntactic negation); 부-/비-/무- (morphological negation) | 그 주장은 사실이 아니다 (*geu jujangeun sasiri anida*, "That claim is not a fact"); 근거가 없다 (*geungeo-ga eopda*, "There is no basis"); 그 정보가 정확하지 않다 (*geu jeongboga jeonghwakaji anta*, "That information is not accurate") | SUBSTITUTED BY NEGATION constructions; no dedicated DISCONFIRMATION construction distinct from negation | Structural gap: DISCONFIRMATION is not distinguished from NEGATION in the attested data; both are expressed through the same negation constructions |
+| **NEGATION** | [Noun] + 이/가 아니다; [Noun] + 이/가 없다; -지 않다; 부-/비-/무- prefixation | 그것은 사실이 아니다 (*geugeoseun sasiri anida*, "That is not a fact"); 신빙성이 없다 (*sinbyeongseong-i eopda*, "It lacks credibility"); 부정확하다 (morphological) | Fully attested; analytic strategies (아니다, 없다, -지 않다) are primary; morphological negation (부-/비-/무-) is secondary and register-restricted | None; both analytic and morphological strategies are present |
+| **NOMINALIZATION** | [Sino-Korean base] + 성(性); [Adj stem] + -(으)ㅁ; [Verb stem] + -기 (noted but not exemplified in truth domain); [Noun] + 쟁이/꾼/-자/-범 (agentive) | 진실성 (*jinsilseong*, "truthfulness"); 올바름 (*olbareum*, "rightness"); 거짓말쟁이 (*geojitmaljaengi*, "liar") | Direct mapping; multiple nominalization strategies in complementary distribution by base type | Asymmetric gap: agentive nominalization for "truth-teller" is absent; only negative-pole agentives are lexicalized |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for epistemic BECOME
+
+In the truth domain, Korean does not use the general inchoative verb 되다 ("to become") to express the coming-to-be-known of a truth-domain state. Instead, a set of three lexically distinct verbs — 밝혀지다 ("to be illuminated, come to light"), 드러나다 ("to surface, be exposed"), and 판명되다 ("to be officially determined") — systematically occupies the epistemic change-of-state slot. These verbs combine with the resultant-state particle -(으)로 and a truth-domain nominal to form the construction [Noun + (으)로 + Verb], as in 가짜로 판명되다 ("to be determined to be fake") and 허위로 밝혀지다 ("to be revealed as false").
+
+The general inchoative 되다 is attested in the truth domain only for non-epistemic state changes, such as 계약이 무효가 되다 ("the contract becomes void"), where the change is administrative or logical rather than a matter of coming to be known. For epistemic contexts — where the change of state consists in a truth-domain fact becoming publicly established — the revelation verbs are the standard and expected forms. The BECOME operator is therefore partially present: it is available for non-epistemic becoming via 되다, but epistemic becoming is systematically expressed through REVELATION constructions.
+
+The three revelation verbs are not interchangeable. P4b notes that 드러나다 carries a stronger sense of unwanted or unintended exposure; 밝혀지다 is the most frequent of the three in journalistic contexts; and 판명되다 carries an official or authoritative determination sense. This semantic differentiation within the REVELATION category is a feature of the Korean system not captured by a single operator label.
+
+### 2.2 DISCONFIRMATION is not distinguished from NEGATION
+
+The P4a and P4b data do not identify any construction in Korean that is specifically dedicated to DISCONFIRMATION as distinct from NEGATION. The constructions used to deny factual status — 사실이 아니다 ("it is not a fact"), 근거가 없다 ("there is no basis"), 그 정보가 정확하지 않다 ("that information is not accurate") — are the same constructions used for general truth-domain negation. There is no dedicated evidential or corrective construction that marks "I am disconfirming a prior claim" as structurally distinct from "this is not the case."
+
+The discourse-framing construction 사실을 말하자면 ("to tell the truth / the fact of the matter is") and 정확히 말하자면 ("to be precise / strictly speaking") function pragmatically as correction or precision markers, and could be described as framing devices that introduce disconfirmatory content. However, these are pragmatic markers, not dedicated DISCONFIRMATION constructions; the disconfirmatory content itself is still expressed through standard negation constructions. DISCONFIRMATION is therefore treated here as SUBSTITUTED BY NEGATION.
+
+### 2.3 NEGATION: analytic strategies are primary; morphological negation is register-restricted
+
+Korean employs both analytic and morphological negation strategies in the truth domain, but they are not in free variation. The analytic strategies — copular negation (이/가 아니다), existential negation (이/가 없다), and verbal negation (-지 않다) — are the primary and broadly productive strategies across all registers. Morphological negation via the prefixes 부-, 비-, and 무- (e.g., 부정확하다, 무효하다) is attested as productive in formal and written registers but is described in P4b as secondary and register-restricted relative to the syntactic strategies.
+
+The existential negation frame (이/가 없다) is the standard negative predication strategy specifically for abstract quality nouns formed with -성 (진정성이 없다, 신빙성이 없다, 근거가 없다). This class of nouns does not take -하다 as a predicative suffix in their nominalized form, so the existential frame fills a structural slot that copular negation cannot occupy for these items.
+
+### 2.4 Asymmetry between truth-pole and falsity-pole constructions
+
+A consistent asymmetry runs through the Korean truth-domain construction inventory. At the agentive nominalization level, the falsity pole is lexicalized (거짓말쟁이, "habitual liar"; 위조범, "forger"; 위선자, "hypocrite") while the truth pole has no parallel lexicalized agentive form. The concept "truth-teller" requires periphrastic expression: 진실을 말하는 사람 ("a person who tells the truth") or 정직한 사람 ("an honest person"). This asymmetry is confirmed in P4b as a genuine structural feature, not an oversight.
+
+A related asymmetry appears in the agentive suffix distribution: the native Korean suffix -쟁이 (pejorative, habitual agent) attaches only to 거짓말 in the truth domain; no parallel positive-pole agentive with -쟁이 is attested. The Sino-Korean suffix -자 (者) in this domain also tends toward the negative pole (위선자, "hypocrite").
+
+At the adnominal level, the construction 근거 없는 ("unsubstantiated") is described as a near-compound modifier with high fixedness, while the positive counterpart 근거 있는 is attested but described as less fixed. This suggests a degree of asymmetry in the conventionalization of negative versus positive evaluative modifiers, though both forms are rated [CORE].
+
+### 2.5 CAUSATION (factual) is expressed through transitive verb selection, not morphological causativization
+
+Korean has no productive morphological causative suffix that applies to truth-domain adjectives or nouns. The causative meaning — causing a truth-domain state to come about, be revealed, or be concealed — is expressed entirely through the selection of semantically appropriate transitive verbs: 밝히다 ("to reveal"), 숨기다 ("to conceal"), 왜곡하다 ("to distort"), 외면하다 ("to avert from"). These verbs take the truth-domain noun as direct object. The -화하다 suffix (무효화하다, 합법화하다) is the closest available morphological pattern but is restricted to Sino-Korean bases and expresses "rendering something into a state" rather than a general causative.
+
+For stative truth-domain adjectives (정확하다, 진실하다), no causative form is identified in the data. Causation of a stative property is expressed periphrastically (정확하게 만들다, "to make accurate"), but this periphrastic form is noted in P4a as existing without being listed as a distinct truth-domain construction.
+
+### 2.6 VERIFICATION: no dedicated construction attested
+
+No construction in P4a or P4b is described as specifically encoding the act of verifying or checking the truth of a claim. The concept is not represented as a distinct construction type in the data. The closest available expressions would involve general transitive verb collocations (e.g., 사실을 확인하다, "to confirm/check a fact"), but this collocation is not listed or described in P4a or P4b as a truth-domain construction. VERIFICATION is therefore treated as a structural gap in the attested data.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **VERIFICATION**: No construction in P4a or P4b is identified as encoding the act of verifying or checking the truth of a claim. The operator is absent from the attested construction inventory. **MISSING (structural gap).**
+
+- **DISCONFIRMATION as distinct from NEGATION**: No construction is identified that specifically marks the act of disconfirming a prior claim as structurally distinct from general negation. The two functions are expressed through the same constructions. **MISSING as a distinct operator; SUBSTITUTED BY NEGATION.**
+
+- **Epistemic BECOME as distinct from REVELATION**: The general inchoative 되다 is present for non-epistemic state changes, but epistemic becoming (a truth-domain state coming to be known) is expressed exclusively through the revelation verbs 밝혀지다, 드러나다, and 판명되다. There is no construction that expresses epistemic becoming without simultaneously encoding the revelation/discovery aspect. **SUBSTITUTED BY REVELATION for the epistemic subtype.**
+
+### 3.2 Lexical Gaps
+
+- **Agentive noun for "truth-teller"**: No lexicalized single-word agentive noun meaning "truth-teller" or "honest person (as habitual agent)" is attested. The concept requires periphrastic expression: 진실을 말하는 사람 or 정직한 사람. **Lexical gap at the agentive nominalization level.**
+
+- **Causative forms of stative truth-domain adjectives**: No causative form of adjectives such as 정확하다 or 진실하다 is attested. The concept "to make [something] accurate/true" requires periphrastic expression (정확하게 만들다). **Lexical gap: no derived causative form for stative truth-domain adjectives.**
+
+- **-기 nominalization in the truth domain**: The -기 nominalization suffix is noted in P4a as attested but is not exemplified with any truth-domain vocabulary. Its applicability to this domain is unconfirmed by the data. **Lexical gap: no truth-domain -기 nominalization is documented.**
+
+### 3.3 Morphosyntactic Gaps
+
+- **Morphological causative suffix**: Korean has no productive morphological causative suffix that applies to truth-domain adjectives or nouns. The -화하다 pattern is the closest available form but is restricted to Sino-Korean nominal bases and does not cover the full range of causative meanings. **Morphosyntactic gap: no general morphological causative in this domain.**
+
+- **Single inchoative morpheme for epistemic change of state**: Korean has no single inchoative morpheme equivalent to "become + adjective" in the epistemic truth domain. The inchoative meaning is expressed periphrastically through lexically distinct revelation verbs. **Morphosyntactic gap: no morphological inchoative for epistemic state change.**
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing)
+
+- **Agentive nominalization**: Negative-pole agentives are lexicalized (거짓말쟁이, 위조범, 위선자); positive-pole agentive ("truth-teller") is absent. **Asymmetric gap: positive pole only.**
+
+- **Adnominal modifier fixedness**: 근거 없는 ("unsubstantiated") is described as a near-compound with high fixedness; the positive counterpart 근거 있는 is attested but described as less conventionalized. **Asymmetric gap: partial, at the level of conventionalization rather than grammaticality.**
+
+- **Stative predicate with 되다**: 모순되다 ("to be contradictory") has no attested 하다 counterpart (모순하다 is not attested). 거짓되다 ("to be false/deceitful") is rated [MARGINAL] and restricted to literary registers, while no parallel positive-pole 되다 form (e.g., *진실되다 in common use) is described as [CORE]. 참되다 is noted as literary/religious. **Asymmetric gap: the 되다 stative pattern is more available at the negative/falsity pole in common registers.**
+
+- **-(으)ㅁ nominalization register**: The native Korean -(으)ㅁ nominalizations (올바름, 옳음) are rated [MARGINAL] and restricted to philosophical and literary registers. No parallel [MARGINAL] rating is assigned to any Sino-Korean -성 nominalization, which are all [CORE]. This is not a gap in the negative/positive sense but an asymmetry between base types: Sino-Korean bases have [CORE] abstract nominalizations; native Korean bases have only [MARGINAL] abstract nominalizations in this domain.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Copular predication (이다/이 아니다) and predicative adjective (N이/가 + Adj) are both [CORE] and unrestricted by register. The most productive frame in the domain. |
+| **ADNOM** | **Fully available** | Adnominal -(으)ㄴ suffix on adjective stems and participial 있는/없는 are both [CORE] and productive. No postnominal modification exists; the prenominal position is the only available slot. |
+| **BECOME** | **Available with substitution** | General inchoative 되다 is fully available for non-epistemic state changes. Epistemic becoming (a truth-domain state coming to be known) is systematically expressed through REVELATION verbs (밝혀지다, 드러나다, 판명되다) rather than through 되다. The two subtypes are not expressed by the same construction. |
+| **REVELATION** | **Fully available** | Three lexically distinct revelation verbs (밝혀지다, 드러나다, 판명되다) are [CORE] and cover the full range of epistemic emergence contexts, differentiated by register and by the nature of the revealing process. Also substitutes for epistemic BECOME. |
+| **CAUSATION (factual)** | **Available with substitution** | Expressed through transitive verb selection (밝히다, 숨기다, 왜곡하다) and the -화하다 suffix (Sino-Korean bases only). No morphological causative suffix is available. Causation of stative properties requires periphrastic expression (정확하게 만들다) not listed as a distinct construction in the data. |
+| **CAUSATION (character)** | **Partially available** | Character predication is available through stative 하다 predicates (정직하다) and habitual agentive nominalizations (거짓말쟁이). No construction specifically encoding "causing someone to acquire a truth-related character trait" is attested. The available constructions describe character states and habitual agents, not the causation of character. |
+| **VERIFICATION** | **Missing entirely** | No construction in P4a or P4b is identified as encoding the act of verifying or checking the truth of a claim. **MISSING (structural gap).** |
+| **DISCONFIRMATION** | **Available with substitution** | **SUBSTITUTED BY NEGATION.** The same constructions used for general truth-domain negation (이/가 아니다, 이/가 없다, -지 않다) serve the disconfirmatory function. No dedicated DISCONFIRMATION construction is attested as structurally distinct from NEGATION. Discourse-framing constructions (사실을 말하자면, 정확히 말하자면) provide pragmatic framing for disconfirmatory content but are not themselves DISCONFIRMATION operators. |
+| **NEGATION** | **Fully available** | Both analytic (이/가 아니다, 이/가 없다, -지 않다) and morphological (부-/비-/무-) strategies are attested. Analytic strategies are primary and broadly productive across registers; morphological negation is secondary and register-restricted to formal/written use. The existential frame (이/가 없다) is the standard negative predication strategy for -성 abstract quality nouns specifically. |
+| **NOMINALIZATION** | **Fully available** | Multiple nominalization strategies are attested in complementary distribution: -성 (Sino-Korean bases, [CORE]); -(으)ㅁ (native adjective stems, [MARGINAL], philosophical/literary register); agentive -쟁이/-꾼/-자/-범 (register-stratified). The -기 nominalization is noted but not exemplified in the truth domain. An asymmetric lexical gap exists: no agentive nominalization for "truth-teller" is lexicalized. |

@@ -1,0 +1,175 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Georgian (ka)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + Adjective + Copula (-a / aris)
+
+The copula is enclitic (-a) when the predicate adjective is final, or the full form aris in more formal registers. The adjective agrees in case (nominative) but not in number in standard usage.
+
+### Examples
+- სიმართლე მწარეა / simartle mwarea / "The truth is bitter"
+- ეს დოკუმენტი ნამდვილია / es dokumenti namdvilia / "This document is genuine"
+
+### Notes
+Standard predicative attribution in Georgian places the adjective before the copula clitic. The copula -a attaches to the final element of the predicate. No agreement morphology on the adjective distinguishes this from adnominal use.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + Adjective + არ არის / ar aris (negated copula)
+
+Negation is expressed by the particle არ (ar) before the full copula form aris. The enclitic -a cannot be negated directly; the full form is required.
+
+### Examples
+- დამაჯერებელი არ არის / damajerebeliˈ ar aris / "It is not convincing"
+- ეს ინფორმაცია სარწმუნო არ არის / es inp̕ormacia sarwmuno ar aris / "This information is not reliable"
+
+### Notes
+The full copula aris is obligatory under negation; the enclitic -a form found in affirmative attribution is unavailable here. Word order is flexible but adjective-before-copula is the neutral order.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Adjective + Noun (prenominal, uninflected for the noun's case)
+
+Georgian adjectives precede the noun and take the same case suffix as the noun. In the nominative, both adjective and noun carry -i.
+
+### Examples
+- ყალბი დოკუმენტი / q̇albi dokumenti / "forged document"
+- ჭეშმარიტი სიყვარული / č̣ešmariti siq̇varuli / "true love"
+
+### Notes
+The adjective inflects for case in parallel with the noun (e.g., genitive: ყალბი დოკუმენტის / q̇albi dokumentis). No gender or number agreement morphology is involved. The pattern is fully productive across all truth-domain adjectives documented in P1.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Verb stem + -დება / -deba (inchoative/passive suffix, present) or preverb გა- + stem + -დება / ga-...-deba (completive inchoative)
+
+Two sub-patterns are attested:
+- (a) მართლდება / martldeba — "becomes justified / is being vindicated" (ongoing)
+- (b) გამართლდება / gamartldeba — "will be vindicated / becomes justified" (completive, with preverb)
+
+### Examples
+- ის მართლდება / is martldeba / "He is being vindicated / He is proven right"
+- სიმართლე გამოვიდა / simartle gamovida / "The truth came out" (inchoative event: truth entering visibility)
+
+### Notes
+The -deba suffix on the mart- root produces a genuine inchoative ("becomes right/justified"). The simartle gamovida construction is not morphologically inchoative but functions as the standard expression for truth transitioning from concealed to revealed; it is the closest natural equivalent for "truth becomes known." No productive inchoative form is attested for namdvili, q̇albi, or č̣ešmariti.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Preverb გა- + root + -ება / ga-...-eba (completive verbal noun / causative-resultative)
+
+The primary attested causative-type form is გაყალბება / gaq̇albeba ("to falsify, to cause to become false/counterfeit") and გამართლება / gamartleba ("to justify, to cause to be right/vindicated").
+
+### Examples
+- მან დოკუმენტი გაყალბა / man dokumenti gaq̇alba / "He falsified the document"
+- სასამართლომ იგი გაამართლა / sasamart̕lom igi gaamart̕la / "The court acquitted / vindicated him"
+
+### Notes
+Georgian does not use a dedicated causative morpheme for this domain. The preverb გა- (ga-) with the verbal stem produces a completive-resultative form that covers causative meaning ("cause X to become Y"). The agent is marked in the ergative case (man, sasamart̕lom) in the aorist series, following standard Georgian transitive morphosyntax. No productive causative form is attested for č̣ešmariti or sarwmuno.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+(a) სი-...-ე / si-...-e circumfix on adjectival stem
+(b) Adjective/participle + -ობა / -oba suffix
+(c) Adjective/participle + -ება / -eba suffix
+
+All three patterns are productive in the truth domain. Pattern (a) produces the most semantically central abstract nouns (simartle, siq̇albe, sizuste, sicrue). Pattern (b) produces property nouns from adjectives (namdviloba, sandooba, legitimuroba, gulwrp̕eloba). Pattern (c) produces verbal/event nouns (č̣ešmariteba, gaq̇albeba, gamartleba, šesabamisoba).
+
+### Examples
+- სიმართლე / simartle / "truth" (from mart- root via si-...-e)
+- ნამდვილობა / namdviloba / "authenticity, genuineness" (from namdvili + -oba)
+
+### Notes
+The si-...-e circumfix and the -oba suffix are not interchangeable: si-...-e forms tend to name the abstract quality as a domain or substance (truth, falsehood, precision), while -oba forms name the property as possessed by a specific entity (the authenticity of this object, the trustworthiness of this person). The -eba suffix produces forms that can be either abstract nouns or verbal nouns depending on context (č̣ešmariteba is purely nominal; gaq̇albeba is both "the act of falsifying" and "falsification as a category").
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+(a) თ-/მ- prefix + verbal stem + agentive suffix (-ელი / -eli, -ი / -i)
+(b) Compound: noun + agentive element
+
+Attested agentive nominals in this domain:
+
+- თვალთმაქცი / t̕valt̕maq̇c̕i — "deceiver, hypocrite, charlatan" (compound: eye + deceiver)
+- ფსევდომეცნიერი / psevdomecnieri — "pseudo-scientist" (prefix + agentive noun)
+- მართლმადიდებელი / martlmadidebeli — "Orthodox Christian; right-glorifier" (compound agentive)
+
+For "liar" specifically, the most natural everyday expression is a verbal construction rather than a fixed agentive noun:
+
+- მტყუანი / mt̕q̇uani — "liar" (m- prefix + ẗq̇uan- root + -i)
+
+### Examples
+- ის მტყუანია / is mt̕q̇uania / "He is a liar"
+- თვალთმაქცი პოლიტიკოსი / t̕valt̕maq̇c̕i p̕olit̕ikosi / "a hypocritical / charlatan politician"
+
+### Notes
+A dedicated agentive nominal for "truth-teller" (parallel to "liar") is not a common lexicalized form in Georgian; the concept is typically expressed through the adjective martali ("honest, truthful person") used nominally, or through verbal constructions (simartle ambobs, "tells the truth"). The agentive -eli suffix is productive in the domain of deception (t̕valt̕maq̇c̕i, martlmadidebeli) but not for truth-telling roles.
+
+---
+
+## 8. DISCOURSE-FRAMING CONSTRUCTIONS (additional pattern, emerging from data)
+
+### Pattern
+Nominal phrase in nominative + discourse particle or subjunctive verb form, functioning as a sentence-initial or parenthetical frame
+
+This pattern is specific to simartle and has no parallel with č̣ešmariteba or other truth-domain nouns. It marks the speaker's positioning as honest before delivering a potentially unwelcome or frank statement.
+
+### Examples
+- სიმართლე რომ ვთქვათ / simartle rom vt̕q̇vat̕ / "to tell the truth, frankly speaking" (parenthetical)
+- სიმართლე ისაა, რომ... / simartle isaa, rom... / "the truth is that..., the fact is that..."
+
+### Notes
+These constructions function as epistemic or evidential frames rather than simple predications. სიმართლე რომ ვთქვათ uses the first-person plural subjunctive (vt̕q̇vat̕, "let us say") to create a deliberative, inclusive framing. სიმართლე ისაა, რომ... uses the demonstrative copula (isaa, "it is that") to introduce a corrective or clarifying assertion. Both are highly frequent in spoken and written Georgian and have no close structural parallel in the falseness domain.
+
+---
+
+## 9. CONCESSIVE CONSTRUCTION (additional pattern, emerging from data)
+
+### Pattern
+მართალია, მაგრამ... / martalia, magram... — "it is true that..., but..."
+
+Predicate adjective + copula clitic (-ia, third person singular) + adversative conjunction მაგრამ (magram, "but")
+
+### Examples
+- მართალია, მაგრამ საკმარისი არ არის / martalia, magram sakmaris ar aris / "It is true, but it is not sufficient"
+- მართალია, ძნელია, მაგრამ შესაძლებელია / martalia, ʒnelia, magram šesaʒlebelia / "True, it is difficult, but it is possible"
+
+### Notes
+This is a highly lexicalized concessive formula in Georgian, functioning similarly to English "granted, but..." or "admittedly, but...". The adjective martali here predicates truth of an implicit proposition (what the interlocutor has just said), not of a named subject. The construction is specific to martali; č̣ešmariteba and simartle do not participate in this formula.
+
+---
+
+## 10. PRIVATIVE / NEGATED PROPERTY FORMATION (additional pattern, emerging from data)
+
+### Pattern
+უ- (u-, privative prefix) + stem + -ი / -ო / -ობა
+
+This is a morphological pattern rather than a syntactic construction, but it is sufficiently systematic in the truth domain to warrant documentation as a structural pattern. It produces adjectives and nouns marking the absence of a truth-domain property.
+
+### Examples
+- უტყუარი / uẗq̇uari / "infallible, beyond doubt" (lit. "without lie")
+- უსამართლო / usamart̕lo / "unjust, unfair" (lit. "without justice")
+
+### Notes
+The privative u- prefix is productive across the truth domain: uẗq̇uari (without lie → infallible), usamart̕lo (without justice → unjust), ukanono (without law → unlawful), umartloba (without rightness → injustice), uzustoba (without precision → inaccuracy), arasando (not trustworthy, using the ara- negating prefix as an alternative strategy). The u- and ara- prefixes are both available for negation but are not freely interchangeable: u- tends to produce lexicalized adjectives with specific meanings, while ara- produces more compositional negations.

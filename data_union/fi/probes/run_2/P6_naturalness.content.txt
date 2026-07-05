@@ -1,0 +1,238 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Finnish (fi)
+
+---
+
+## Methodological note
+
+The following documents how Finnish encodes dynamic truth-related meanings — becoming, causing, and maintaining truth-related states — using only vocabulary attested in the context (P1 through P5). Each subsection treats a distinct expression type. Where a construction is attested for some truth-related terms but not others, this asymmetry is explicitly reported. Where no common expression exists for a given combination, this is stated directly.
+
+---
+
+## 1. X BECOMES [TRUTH-RELATED STATE]
+
+### Primary construction: *osoittautua* + TRANSLATIVE
+
+The verb *osoittautua* (to turn out to be, to prove to be) with a translative complement is the primary construction for expressing that something comes to be recognized as being in a truth-related state. It is intransitive: no external agent is specified. The translative case (*-ksi*) marks the resultant state.
+
+**Attested examples from context:**
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ennuste osoittautui oikeaksi.* | "The forecast turned out to be correct." | Inchoative; state of correctness established retrospectively. |
+| *Maalaus osoittautui väärennökseksi.* | "The painting turned out to be a forgery." | Inchoative; state of being a forgery established after investigation. |
+| *Asiakirja osoittautui aidoksi.* | "The document turned out to be genuine." | Attested in P2b under *aito* constructions. |
+| *Hän osoittautui luotettavaksi.* | "He/she proved to be reliable." | Attested in P2b under *luotettava* constructions. |
+
+**Translative forms attested in context:**
+
+| Base form | Translative | Meaning |
+|---|---|---|
+| *oikea* | *oikeaksi* | as correct / as right |
+| *väärä* | *vääräksi* | as false / as wrong |
+| *aito* | *aidoksi* | as genuine |
+| *väärennös* | *väärennökseksi* | as a forgery |
+| *luotettava* | *luotettavaksi* | as reliable |
+
+**Not attested with *osoittautua* in context:** *tosi*, *totuus*, *rehellinen*, *uskottava*, *tarkka*, *näennäinen*, *perusteeton*. No *osoittautua* + translative construction is documented for these items in the context data. This absence is reported; it is not claimed that such constructions are impossible in Finnish, only that they are not supported by the present data.
+
+---
+
+### Secondary construction: *käydä* + TRANSLATIVE / *tulla* + TRANSLATIVE
+
+The context notes these as attested alternates to *osoittautua* + translative for change-of-state (P4b, Alternate Constructions table). No specific examples with truth-domain vocabulary are provided in the context beyond this general note. They are therefore listed as structurally available but not exemplified here.
+
+---
+
+### Construction: *totuus tulee ilmi*
+
+A distinct inchoative construction documented in P2b under *totuus*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ennemmin tai myöhemmin totuus tulee ilmi.* | "Sooner or later the truth will come out." | Fixed collocation; *tulla ilmi* (to come to light, to be revealed) encodes the becoming-known of a previously hidden truth. |
+
+This construction is specific to *totuus* and is not documented for other truth-domain items. It encodes a change from hidden to revealed rather than a change in the truth-value of a proposition.
+
+---
+
+### Construction: *menettää* + NP (loss of a truth-related property)
+
+Documented in P2b under *uskottavuus*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Poliitikko menetti uskottavuutensa.* | "The politician lost his/her credibility." | Encodes transition from having credibility to lacking it. The object takes the possessive suffix. |
+
+This construction encodes becoming-less rather than becoming-more. It is attested only for *uskottavuus* in the context; no parallel *menettää luotettavuutensa* or *menettää rehellisyytensä* is documented, though the construction is structurally available.
+
+---
+
+## 2. X BECOMES [NON-TRUTH / OPPOSED STATE]
+
+### Construction: *osoittautua* + TRANSLATIVE (negative translative)
+
+The same *osoittautua* + translative construction covers becoming a non-truth or opposed state when the translative complement is a negative or opposed form:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ennuste osoittautui vääräksi.* | "The forecast turned out to be wrong." | Attested in P2b and P5 (Opposition 38). |
+| *Maalaus osoittautui väärennökseksi.* | "The painting turned out to be a forgery." | Attested in P2b and P5 (Opposition 9). |
+
+No separate construction type is used for becoming a non-truth state; the same *osoittautua* + translative pattern applies with the opposed translative complement.
+
+---
+
+### Construction: *horjuttaa* + NP (destabilization of a truth-related property)
+
+Documented in P2b under *uskottavuus*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Ristiriitaisuudet horjuttivat todistajan uskottavuutta.* | "The contradictions undermined the witness's credibility." | *Horjuttaa* (to shake, to destabilize) encodes a process of weakening a truth-related property. The object takes the partitive, indicating an ongoing or incomplete process of undermining. |
+
+Attested only for *uskottavuus* in the context. A parallel construction *horjuttaa luotettavuutta* is not explicitly documented but the pattern is structurally available.
+
+---
+
+### Construction: *heikentää* + NP (weakening of a truth-related property)
+
+Documented in P2b under *luotettavuus*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Virheet heikentävät tutkimuksen luotettavuutta.* | "Errors undermine the reliability of the study." | *Heikentää* (to weaken, to undermine) encodes a process of reducing a truth-related property. Partitive object indicates ongoing or gradual process. |
+
+Attested for *luotettavuus*. A parallel *heikentää uskottavuutta* is structurally available but not explicitly documented in the context.
+
+---
+
+## 3. Y CAUSES X TO BE [TRUTH-RELATED STATE]
+
+### Primary construction: *todistaa* + NP-ACCUSATIVE + TRANSLATIVE
+
+The certification construction documented in P4a and P4b. An external agent (*Y*) causes an object (*X*) to be recognized as being in a truth-related state. The translative case marks the resultant state. This is the primary transitive causative construction in the truth domain.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Notaari todistaa kopion oikeaksi.* | "The notary certifies the copy as correct." | Agent: notary; object: copy; resultant state: correct. |
+| *Tutkimus todisti teorian vääräksi.* | "The study proved the theory false." | Agent: study; object: theory; resultant state: false. |
+| *Asiantuntija todisti maalauksen aidoksi.* | "The expert certified the painting as genuine." | Agent: expert; object: painting; resultant state: genuine. |
+
+**Translative forms attested in this construction:**
+
+| Translative | Meaning |
+|---|---|
+| *oikeaksi* | as correct |
+| *vääräksi* | as false |
+| *aidoksi* | as genuine |
+
+**Not attested in this construction in context:** *luotettavaksi*, *uskottavaksi*, *tarkaksi*, *rehelliseksi*. No *todistaa* + translative construction is documented for these items. This absence is reported.
+
+---
+
+### Construction: *väärentää* + NP-ACCUSATIVE (causative: causing something to be false/counterfeit)
+
+Documented throughout P1, P2a, P2b, and P3 (Group 6). The verb *väärentää* is itself a morphological causative (from *väärä* + *-entää*) encoding the act of causing something to be false or counterfeit.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Hän väärensi passin.* | "He/she forged the passport." | Agent causes the passport to be a forgery. Implies deliberate intent. |
+| *Hän väärensi allekirjoituksen.* | "He/she forged the signature." | Agent causes the signature to be false. Standard legal collocation. |
+| *Hän väärensi rahaa.* | "He/she counterfeited money." | Agent causes the currency to be counterfeit. |
+
+The causative meaning is morphologically encoded in the verb itself; no separate translative complement is required.
+
+---
+
+### Construction: *vääristää* + NP-ACCUSATIVE (causative: causing something to be distorted)
+
+Documented in P2a and P3 (Group 7). The verb *vääristää* (from *väärä* + *-istää*) encodes causing something to be distorted or skewed, without necessarily implying intent or a specific fraudulent product.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Monopoli vääristää kilpailua.* | "A monopoly distorts competition." | Agent causes competition to be skewed. No intent implied. |
+| *Propaganda vääristää todellisuutta.* | "Propaganda distorts reality." | Agent causes reality-representation to be skewed. |
+
+The context explicitly distinguishes *vääristää* from *väärentää*: *vääristää* does not produce a counterfeit object and does not necessarily imply intent (P2a, P3, P5 Opposition 32).
+
+---
+
+### Construction: *oikeuttaa* + NP-ACCUSATIVE (causative: causing something to be justified/authorized)
+
+Documented in P1b (Root 2, item 56) and P2a under *oikea*. The verb *oikeuttaa* (from *oikeus* + *-ttaa*) encodes causing something to be justified, entitled, or authorized.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Mikään ei oikeuta tätä.* | "Nothing justifies this." | Agent (nothing) fails to cause the action to be justified. |
+| *Laki oikeuttaa toimenpiteen.* | "The law authorizes the measure." | Agent (law) causes the measure to be legally authorized. |
+
+This construction is in the normative rather than epistemic dimension of the truth domain: it concerns justification and authorization rather than factual truth or authenticity.
+
+---
+
+### Construction: *todentaa* + NP-ACCUSATIVE (causative: causing something to be verified/authenticated)
+
+Documented in P1b (Root 1, item 22), P2a, and P3 (Group 5). The verb *todentaa* encodes the act of verifying or authenticating — causing something to be established as genuine or accurate.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Viranomainen todentaa henkilöllisyyden.* | "The authority verifies the identity." | Agent causes identity to be established as genuine. |
+| *Järjestelmä todentaa käyttäjän.* | "The system authenticates the user." | Technical/IT context; agent causes user status to be verified. |
+
+*Todentaa* is distinguished from *todistaa* in the context: *todentaa* is used in technical, administrative, and IT security contexts for verification processes, while *todistaa* is used in legal and formal contexts for proving and certifying.
+
+---
+
+## 4. STABILITY AND MAINTENANCE OF TRUTH-RELATED STATES
+
+### Construction: *pitää paikkansa* (stable truth-holding)
+
+Documented in P1b, P2b, and P3 (Group 1). The idiomatic construction *pitää paikkansa* (literally "holds its place") encodes the stable holding of a truth-value — a claim that continues to be true.
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Väite pitää paikkansa.* | "The claim is true / holds." | Encodes stable truth-holding; no change implied. |
+| *Väite ei pidä paikkaansa.* | "The claim is not true / does not hold." | Negative form; encodes stable non-truth. |
+
+The metaphor of "holding a place" encodes stability: the claim remains in its position of being true. This contrasts with constructions encoding change (*osoittautua*, *tulla ilmi*).
+
+---
+
+### Construction: *nauttia* + NP-PARTITIVE (enjoying a stable truth-related property)
+
+Documented in P2b under *uskottavuus*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Asiantuntija nauttii suurta uskottavuutta.* | "The expert commands great credibility." | *Nauttia* (to enjoy, to command) encodes stable possession of a property. Partitive object indicates the property is held as an ongoing state. |
+
+This construction encodes stable possession of credibility rather than change. It is attested only for *uskottavuus* in the context.
+
+---
+
+### Construction: *säilyttää* + NP (maintaining an original state)
+
+Documented in P2b under *alkuperäinen*:
+
+| Finnish | Translation | Notes |
+|---|---|---|
+| *Säilytä alkuperäinen ja toimita kopio.* | "Keep the original and submit a copy." | *Säilyttää* (to preserve, to keep) encodes maintenance of the original state against change or loss. |
+
+This construction is specific to the authenticity/originality dimension of the domain (*alkuperäinen*) and encodes resistance to change rather than change itself.
+
+---
+
+## 5. SUMMARY OF ASYMMETRIES
+
+The following asymmetries in the encoding of dynamic truth-related meanings are supported by the context data:
+
+| Asymmetry | Description |
+|---|---|
+| **Inchoative construction** | *osoittautua* + translative is attested for *oikea*, *väärä*, *aito*, *väärennös*, *luotettava* but not documented for *tosi*, *totuus*, *rehellinen*, *uskottava*, *tarkka*, *näennäinen*, *perusteeton* in the context. |
+| **Certification construction** | *todistaa* + translative is attested for *oikea* (*oikeaksi*), *väärä* (*vääräksi*), *aito* (*aidoksi*) but not for *luotettava*, *uskottava*, *tarkka*, *rehellinen* in the context. |
+| **Morphological causatives** | *väärentää* and *vääristää* encode causation morphologically (no separate translative complement needed); *todentaa* and *oikeuttaa* similarly. No morphological causative from *tosi*, *aito*, *luotettava*, or *rehellinen* is documented in the context. |
+| **Loss construction** | *menettää* + NP is attested only for *uskottavuus* in the context; not documented for *luotettavuus*, *rehellisyys*, or other truth-domain abstract nouns. |
+| **Destabilization** | *horjuttaa* + NP is attested only for *uskottavuus*; *heikentää* + NP only for *luotettavuus* in the context. |
+| **Revelation construction** | *tulla ilmi* is attested only for *totuus* in the context; not documented for other truth-domain items. |
+| **Stability construction** | *pitää paikkansa* is specific to propositional truth-holding and is not documented for authenticity, reliability, or honesty dimensions. |

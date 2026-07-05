@@ -1,0 +1,241 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Turkish (tr)
+
+## 1. ATTRIBUTION
+
+### Pattern
+**[NP] [ADJ-TRUTH]** or **[NP] [ADJ-TRUTH] olmak** (to be)
+
+Turkish uses simple juxtaposition for predication in nominal sentences (present tense, 3rd person), or the copula *olmak* for other tenses/persons. Truth-domain adjectives function as predicates directly.
+
+### Examples
+- Bu doğru. → Bu doğru. → "This is true."
+- Hikâye gerçek değil. → Hikâye gerçek değil. → "The story is not real."
+
+### Notes
+Turkish allows zero copula in present tense 3rd person equational sentences. The copula *olmak* appears in past tense (*doğruydu* "was true"), future (*doğru olacak* "will be true"), and with non-3rd person subjects.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**[NP] [ADJ-TRUTH] değil** or **[NP] [NEG-ADJ-TRUTH]**
+
+Turkish forms predicate negation with the negative particle *değil* following the predicate. Alternatively, privative suffix *-sız/-siz/-suz/-süz* creates negative adjectives.
+
+### Examples
+- Bu yanlış değil. → Bu yanlış değil. → "This is not wrong."
+- Kaynak güvenilmez. → Kaynak güvenilmez. → "The source is unreliable."
+
+### Notes
+*Değil* is the standard predicate negator. Privative *-sız* creates lexicalized negative adjectives (*güvenilir* → *güvenilmez* "unreliable," *hak* → *haksız* "unjust"). Some bases lack productive privative forms.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[ADJ-TRUTH] [NOUN]**
+
+Turkish places modifying adjectives directly before the noun they modify, without agreement marking. Truth-domain adjectives freely modify nouns.
+
+### Examples
+- doğru bilgi → doğru bilgi → "correct information"
+- sahte para → sahte para → "counterfeit money"
+
+### Notes
+Turkish adjectives are invariant—no agreement for number, case, or definiteness. Multiple adjectives stack prenominally. Some combinations are lexicalized collocations (*gerçek hayat* "real life," *kesin karar* "final decision").
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**[ADJ-TRUTH-ROOT] + -leş/-laş + (tense/person)**
+
+The suffix *-leş/-laş* derives inchoative verbs meaning "to become X" from adjectival bases. Productive with quality adjectives in the truth domain.
+
+### Examples
+- gerçekleşmek → gerçekleşmek → "to come true, to be realized"
+- kesinleşmek → kesinleşmek → "to become definite, to be finalized"
+
+### Notes
+Highly productive with quality adjectives (*sağlamlaşmak* "to become solid," *doğallaşmak* "to become natural"). Less productive with relational adjectives. The pattern creates intransitive verbs of change of state.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**[INCHOATIVE-VERB-ROOT] + -tır/-tir/-tur/-tür + (tense/person)**
+
+Turkish forms causatives from inchoative verbs using *-tır/-tir/-tur/-tür*, creating "make X become Y" meanings. Applies to truth-domain inchoatives.
+
+### Examples
+- gerçekleştirmek → gerçekleştirmek → "to realize, to make real"
+- kesinleştirmek → kesinleştirmek → "to finalize, to make definite"
+
+### Notes
+The causative suffix attaches to inchoative stems (*gerçekleş-* + *-tir* → *gerçekleştir-*). Creates transitive verbs. Also applies to other verb types: *doğrulamak* "to verify" uses denominative *-la* + causative semantics.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**[ADJ-TRUTH-ROOT] + -lık/-lik/-luk/-lük**
+
+The suffix *-lık/-lik/-luk/-lük* derives abstract nouns denoting qualities or states from adjectival bases. Extremely productive in the truth domain.
+
+### Examples
+- doğruluk → doğruluk → "truth, correctness, honesty"
+- güvenilirlik → güvenilirlik → "reliability, trustworthiness"
+
+### Notes
+This is the primary abstract nominalizer in Turkish, showing vowel harmony. Highly productive across all truth-domain adjectives (*gerçeklik* "reality," *kesinlik* "certainty," *tutarlılık* "consistency"). Creates mass nouns referring to qualities.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**[NOUN/ADJ-ROOT] + -cı/-ci/-cu/-cü** (agentive/adherent)
+**[VERB-ROOT] + -ıcı/-ici/-ucu/-ücü** (agentive from verbs)
+
+Turkish derives agent nouns using *-cı/-ci* (from nominals) or *-ıcı/-ici* (from verbs). In truth domain, creates "liar," "truth-seeker," etc.
+
+### Examples
+- yalancı → yalancı → "liar" (from *yalan* "lie")
+- yanıltıcı → yanıltıcı → "misleading (thing/person)" (from *yanılt-* "to mislead")
+
+### Notes
+*-cı/-ci* attaches to nouns/adjectives to create agent/adherent nouns (*gerçekçi* "realist," *şüpheci* "skeptic"). *-ıcı/-ici* attaches to verb stems to create agentive adjectives/nouns (*inandırıcı* "convincing"). Productivity varies by semantic class.
+
+---
+
+## 8. VERBAL PHRASE CONSTRUCTIONS (LIGHT VERBS)
+
+### Pattern
+**[TRUTH-NOUN/ADJ] + [LIGHT VERB]**
+
+Turkish extensively uses light verbs (*olmak* "be," *etmek* "do," *yapmak* "make," *söylemek* "say") to create verbal phrases from truth-domain nominals and adjectives.
+
+### Examples
+- yalan söylemek → yalan söylemek → "to tell a lie, to lie"
+- haksızlık etmek → haksızlık etmek → "to wrong someone, to commit injustice"
+
+### Notes
+Common light verbs include: *olmak* (stative), *etmek* (action, formal), *yapmak* (action, colloquial), *söylemek* (speech acts), *vermek* (giving), *almak* (taking). Many are semi-lexicalized (*hak vermek* "to agree with," *hak yemek* "to violate rights").
+
+---
+
+## 9. MANNER ADVERBIALS
+
+### Pattern
+**[ADJ-TRUTH-ROOT] + -ca/-ce** or **[NOUN-ROOT] + -en/-an**
+
+Turkish derives manner adverbs using *-ca/-ce* (from adjectives) or *-en/-an* (from certain nouns). Also uses ablative case *-dan/-den* lexicalized as adverbs.
+
+### Examples
+- dürüstçe → dürüstçe → "honestly, in an honest manner"
+- gerçekten → gerçekten → "really, truly" (ablative lexicalized)
+
+### Notes
+*-ca/-ce* creates manner adverbs from adjectives (*doğruca* "directly"). Ablative case *-dan/-den* lexicalizes as adverbs (*doğrudan* "directly," *gerçekten* "really"). Instrumental *-la/-le* also lexicalizes (*kesinlikle* "certainly," *yanlışlıkla* "by mistake").
+
+---
+
+## 10. INTENSIFICATION AND EMPHASIS
+
+### Pattern
+**[ADJ-TRUTH] + [EMPHATIC PARTICLE/REDUPLICATION]**
+
+Turkish uses particles (*çok* "very," *tam* "exactly"), reduplication, and alliterative compounds for emphasis in truth domain.
+
+### Examples
+- çok doğru → çok doğru → "very true"
+- doğru dürüst → doğru dürüst → "proper, decent" (alliterative compound)
+
+### Notes
+Standard intensifiers (*çok*, *tam*, *son derece*) apply freely. Reduplicative/alliterative compounds are lexically specific (*doğru düzgün* "proper," *yalan dolan* "lies and deceit"). Question particle *mu/mı/mu/mü* creates confirmation questions (*doğru mu?* "is it true?").
+
+---
+
+## 11. PRIVATIVE DERIVATION
+
+### Pattern
+**[NOUN/ADJ-ROOT] + -sız/-siz/-suz/-süz**
+
+The privative suffix creates adjectives meaning "without X" or "lacking X." Productive in truth domain for creating negative counterparts.
+
+### Examples
+- şüphesiz → şüphesiz → "doubtless, without doubt"
+- hatasız → hatasız → "flawless, without error"
+
+### Notes
+Highly productive for creating negative adjectives (*yanlışsız* "without error," *kuşkusuz* "doubtless"). Some forms lexicalize as adverbs (*şüphesiz* "undoubtedly"). Contrasts with *değil* negation (predicative) and negative adjectives like *güvenilmez* (lexicalized).
+
+---
+
+## 12. RESULTATIVE/OUTCOME CONSTRUCTIONS
+
+### Pattern
+**[ADJ-TRUTH] + çıkmak** (to emerge/turn out)
+
+The verb *çıkmak* "to come out, emerge" combines with truth-domain adjectives to express outcomes of verification or revelation.
+
+### Examples
+- doğru çıkmak → doğru çıkmak → "to turn out to be true"
+- yalan çıkmak → yalan çıkmak → "to turn out to be a lie"
+
+### Notes
+*Çıkmak* constructions indicate that something has been revealed or proven to have a particular truth status. Common with evaluative adjectives (*haklı çıkmak* "to be proven right," *sahte çıkmak* "to turn out fake"). Implies prior uncertainty resolved.
+
+---
+
+## 13. DENOMINATIVE VERBALIZATION
+
+### Pattern
+**[NOUN/ADJ-ROOT] + -la/-le + (tense/person)**
+
+The suffix *-la/-le* derives verbs from nouns and adjectives. In truth domain, creates verbs of verification, falsification, and related actions.
+
+### Examples
+- doğrulamak → doğrulamak → "to verify, to confirm"
+- yalanlamak → yalanlamak → "to deny, to refute"
+
+### Notes
+Productive denominative verbalizer (*yanlışlamak* "to falsify," *kuşkulanmak* "to doubt"). Creates transitive or intransitive verbs depending on base semantics. Often combines with reflexive *-n* (*şüphelenmek* "to suspect" from *şüphele-n-*).
+
+---
+
+## 14. FIXED COLLOCATIONS WITH BODY/SPATIAL TERMS
+
+### Pattern
+**[TRUTH-ADJ] + [BODY/SPATIAL NOUN]**
+
+Turkish uses body part and spatial terms metaphorically in truth-domain expressions, creating semi-fixed collocations.
+
+### Examples
+- gerçek yüz → gerçek yüz → "true face, real nature"
+- doğru yol → doğru yol → "right path, correct way"
+
+### Notes
+Common patterns include *gerçek yüz* "true face" (character), *gerçek kimlik* "true identity," *doğru yol* "right path" (moral/spatial). These are semi-lexicalized metaphorical extensions. *Yüz* "face" and *yol* "path" are productive in such constructions.
+
+---
+
+## 15. EVALUATIVE CONSTRUCTIONS WITH *BULMAK* AND *GÖRMEK*
+
+### Pattern
+**[TRUTH-ADJ] + bulmak/görmek** (to find/see)
+
+Verbs of perception and judgment (*bulmak* "to find," *görmek* "to see") combine with truth-domain adjectives to express evaluative judgments.
+
+### Examples
+- doğru bulmak → doğru bulmak → "to find correct, to deem appropriate"
+- şüpheli görünmek → şüpheli görünmek → "to look suspicious"
+
+### Notes
+*Bulmak* "to find" expresses considered judgment (*inandırıcı bulmak* "to find convincing"). *Görünmek* "to appear, seem" expresses subjective impression (*doğal görünmek* "to look natural"). These are productive patterns for epistemic evaluation.

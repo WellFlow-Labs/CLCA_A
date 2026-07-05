@@ -1,0 +1,322 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Swahili (sw)
+
+---
+
+## Scope and Method
+
+This step documents how Swahili encodes dynamic truth-related meanings: becoming a truth-related state, causing a truth-related state, losing or departing from a truth-related state, and resisting change (stability). All vocabulary is drawn from the CONTEXT. Each subsection treats a distinct dynamic pattern. Where no common expression exists for a given item or pattern, this is stated explicitly. Items are not assumed to behave identically; each is treated separately where the evidence supports a distinction.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE (Inchoative)
+
+### Pattern
+The primary morphological resource for inchoative meaning in this domain is the suffix *-ika/-eka* attached to a verb stem, producing an intransitive form meaning "to come to be in a state" without foregrounding an external agent. This pattern is documented in P4a (§4) and P4b. A secondary resource is the periphrastic construction *kuwa* (to become/be) + truth-domain nominal or adjective.
+
+---
+
+**1.1 kudhihirika — "to become evident; to be revealed; to come to light"**
+
+Base: *dhahiri* (evident) → *kudhihirika* (P2a Item 13, Derived Form 2)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Ukweli ulidhihirika baada ya uchunguzi.* | Ukweli ulidhihirika baada ya uchunguzi. | "The truth became evident after the investigation." | Documented in P4a (§4) and P4b. The inchoative presents the emergence of evidence as self-occurring; no agent is foregrounded. Common in narrative and journalistic contexts. |
+| *Makosa yalidhihirika haraka.* | Makosa yalidhihirika haraka. | "The errors became evident quickly." | The same inchoative form applied to *makosa* (errors) as subject; the errors are presented as revealing themselves. |
+| *Udanganyifu wake ulidhihirika mwishowe.* | Udanganyifu wake ulidhihirika mwishowe. | "His/her deceptiveness became evident in the end." | *Udanganyifu* (deceptiveness) as subject; the inchoative presents the exposure of deception as an emergent process. |
+
+**Contrast with passive:** *Ukweli ulidhihirishwa* (the truth was demonstrated/revealed — by an agent) vs. *ukweli ulidhihirika* (the truth became evident — no agent foregrounded). The inchoative/passive distinction documented in P4b (Opposition 14 in P5) applies here.
+
+---
+
+**1.2 kudanganyika — "to become deceived; to be taken in"**
+
+Base: *danganya* (to deceive) → *kudanganyika* (P2a Item 22, Derived Form 2)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alidanganyika kwa urahisi.* | Alidanganyika kwa urahisi. | "He/she was easily taken in / became deceived." | Documented in P4a (§4) and P4b. Presents the subject as entering a state of deception without specifying an agent. |
+| *Watu wengi walidanganyika na habari za uongo.* | Watu wengi walidanganyika na habari za uongo. | "Many people were taken in by false news." | Note: *na* here introduces the instrument/cause rather than a volitional agent; this is consistent with the inchoative reading. |
+
+**Contrast with passive:** *Alidanganywa na mtu* (he/she was deceived by a person — volitional agent) vs. *alidanganyika* (he/she was taken in — no volitional agent foregrounded). This contrast is explicitly documented in P4b and P5 (Opposition 14).
+
+---
+
+**1.3 kukosekana — "to come to be missing; to be found absent"**
+
+Base: *kosa* (error/lack) → *kukosekana* (P2a Item 9, Derived Form 4)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Ushahidi unakosekana.* | Ushahidi unakosekana. | "Evidence is missing / Evidence is found to be absent." | The stative/inchoative form presents the absence of evidence as a discovered state. Used in legal and investigative contexts. P2a notes that the error/fault sense of *kosa* is largely absent here; the dominant sense is of absence or lack. |
+| *Ukweli unakosekana katika taarifa hii.* | Ukweli unakosekana katika taarifa hii. | "Truth is absent from this report." | Extends the absence-of-truth sense into evaluative discourse about reporting accuracy. |
+
+---
+
+**1.4 Periphrastic inchoative: kuwa + truth-domain predicate**
+
+Where the *-ika/-eka* suffix is not attested for a given base, the construction *kuwa* (to become/be) + truth-domain nominal or adjective expresses a change into a truth-related state.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Akawa muongo baada ya muda.* | Akawa muongo baada ya muda. | "He/she became a liar over time." | *Kuwa* + agentive nominal *muongo*; the construction describes a change in character evaluation. No single-word inchoative from *uongo* is attested (P2a Item 3 notes the absence of a productive verbal derivation from *uongo*). |
+| *Akawa mwaminifu zaidi baada ya uzoefu huo.* | Akawa mwaminifu zaidi baada ya uzoefu huo. | "He/she became more trustworthy after that experience." | *Kuwa* + *mwaminifu* (trustworthy person); describes a change in trustworthiness evaluation. |
+| *Imani yake ikawa thabiti zaidi.* | Imani yake ikawa thabiti zaidi. | "His/her faith became firmer." | *Kuwa* + *thabiti* (firm/stable); describes a change in the quality of belief. |
+
+---
+
+**1.5 No inchoative attested**
+
+The following items from the CONTEXT do not show an attested inchoative form (morphological or periphrastic) in the documented data:
+
+- *kweli* / *ukweli*: No *kukwelika* or similar form is attested. The state of being true is not expressed as a process of becoming in the documented data. The closest construction is *kudhihirika* applied to *ukweli* as subject (§1.1 above), where the truth becomes evident rather than the truth itself coming into being.
+- *halisi*: No *kuhalisiwa* or *kuhalisi* inchoative is attested. P2a (Item 4) notes the absence of a productive verbal derivation from *halisi*.
+- *sahihi*: No inchoative from *sahihi* is attested. The state of being correct is not expressed as a process of becoming in the documented data.
+- *halali*: No inchoative from *halali* is attested directly; the causative *kuhalalisha* (§3 below) covers the caused-change sense.
+
+---
+
+## 2. DEPARTING FROM OR LOSING A TRUTH-RELATED STATE
+
+### Pattern
+Loss of a truth-related state is expressed primarily through periphrastic verbal constructions using verbs of loss, departure, or violation (*kupoteza*, *kukiuka*, *kupotoka*) with truth-domain nominals as objects, or through the *-ika/-eka* stative applied to verbs of going astray.
+
+---
+
+**2.1 kupoteza imani — "to lose faith; to lose trust; to become disillusioned"**
+
+Base: *poteza* (to lose, causative of *potea*) + *imani* (faith/belief) (P1b Root 3, Item 14)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alipoteza imani baada ya kusikia habari hiyo.* | Alipoteza imani baada ya kusikia habari hiyo. | "He/she lost faith after hearing that news." | Documented in P1b (Root 3, Item 14). Describes the process of losing religious or interpersonal trust. The subject is the agent of their own loss; *kupoteza* is transitive. |
+| *Wananchi wengi walipoteza imani kwa serikali.* | Wananchi wengi walipoteza imani kwa serikali. | "Many citizens lost faith in the government." | Extends the loss-of-trust sense to institutional credibility. |
+
+---
+
+**2.2 kukiuka amana — "to breach a trust; to betray a confidence"**
+
+Base: *kiuka* (to violate/breach) + *amana* (trust/something held in trust) (P1b Root 3, Item 25)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alikuiuka amana aliyopewa.* | Alikuiuka amana aliyopewa. | "He/she breached the trust that was given to him/her." | Documented in P1b (Root 3, Item 25) and P5 (Opposition 13). Describes a transition from a state of holding trust to a state of having violated it. Evaluatively strongly negative. |
+
+---
+
+**2.3 kupotoka / imani potofu — "to go astray; erroneous/misguided"**
+
+Base: *potoa* (to go astray) → *potofu* (erroneous, misguided) (P1b Root 3, Item 28)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Imani yake ilipotoka.* | Imani yake ilipotoka. | "His/her faith went astray / became misguided." | *Kupotoka* (intransitive, to go astray) applied to *imani*; describes a departure from correct belief. The adjectival form *potofu* (as in *imani potofu*) is the lexicalized result state. |
+| *Akili yake ilipotoka.* | Akili yake ilipotoka. | "His/her reasoning went astray." | The same verb applied to *akili* (mind/reasoning); describes a departure from correct judgment. |
+
+---
+
+**2.4 kupotosha ukweli — "to distort the truth; to cause truth to depart from its state"**
+
+Base: *potosha* (causative of *potoa*, to distort/mislead) + *ukweli* (P1b Root 1, Item 20)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alipotosha ukweli kwa makusudi.* | Alipotosha ukweli kwa makusudi. | "He/she deliberately distorted the truth." | Documented in P1b (Root 1, Item 20) and P2b (Item 2, Construction 8). The causative *potosha* presents the agent as causing truth to depart from its accurate state. Evaluatively strongly negative. |
+
+---
+
+**2.5 kuficha ukweli — "to hide the truth; to cause truth to be inaccessible"**
+
+Base: *ficha* (to hide/conceal) + *ukweli* (P1b Root 1, Item 19)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Walijaribu kuficha ukweli kwa muda mrefu.* | Walijaribu kuficha ukweli kwa muda mrefu. | "They tried to hide the truth for a long time." | Documented in P1b (Root 1, Item 19) and P2b (Item 2, Construction 7). Describes a deliberate act of making truth inaccessible; the truth is not destroyed but concealed. Contrasts with *kupotosha ukweli* (distortion) and *kugundua ukweli* (discovery). |
+
+---
+
+**2.6 No departure expression attested**
+
+- No expression for "ceasing to be genuine" (*halisi* → not *halisi*) through a process is attested in the documented data. The state of inauthenticity (*bandia*) is presented as a static characterization rather than a result of change.
+- No expression for "ceasing to be correct" (*sahihi* → not *sahihi*) as a process is attested; the relevant construction is the static negative *hii si sahihi* (this is not correct).
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE (Causative)
+
+### Pattern
+The primary morphological resource is the causative suffix *-sha/-isha* producing a transitive verb meaning "to cause X to be in a truth-related state" or "to make X true/correct/legitimate/evident." This pattern is documented in P4a (§5). A secondary resource is periphrastic causative constructions using *kufanya* (to make/cause) + truth-domain predicate, though this is less characteristic of the core truth-domain items than the morphological causative.
+
+---
+
+**3.1 kuthibitisha — "to confirm; to verify; to prove; to cause to be established"**
+
+Base: *thibiti* (firm/confirmed) + causative *-isha* → *kuthibitisha* (P1 Item 14)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Uchunguzi ulithibitisha madai yake.* | Uchunguzi ulithibitisha madai yake. | "The investigation confirmed his/her claims." | Documented across P1, P2a, P2b, P4a, P4b. The causative presents an agent (investigation) bringing about a state of confirmed truth. |
+| *Thibitisha habari kabla ya kuisambaza.* | Thibitisha habari kabla ya kuisambaza. | "Verify the news before spreading it." | Imperative form; documented in P2b (Item 14, Construction 1). The agent is directed to cause the news to be in a verified state. |
+| *Vyanzo vingi vilithibitisha ukweli wa tukio hilo.* | Vyanzo vingi vilithibitisha ukweli wa tukio hilo. | "Multiple sources confirmed the truth of that event." | *Ukweli* as the object of *kuthibitisha*; the causative presents sources as agents bringing about a state of established truth. |
+
+---
+
+**3.2 kusahihisha — "to correct; to rectify; to cause to be correct"**
+
+Base: *sahihi* (correct) + causative *-sha* → *kusahihisha* (P2a Item 7, Derived Form 1)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Mwalimu alisahihisha makosa ya wanafunzi.* | Mwalimu alisahihisha makosa ya wanafunzi. | "The teacher corrected the students' errors." | Documented in P4a (§5) and P4b. The causative presents the teacher as an agent causing errors to be in a corrected state. |
+| *Taarifa ilisahihishwa kabla ya kuchapishwa.* | Taarifa ilisahihishwa kabla ya kuchapishwa. | "The report was corrected before being published." | Passive of the causative; the agent is backgrounded. |
+
+---
+
+**3.3 kudhihirisha — "to demonstrate; to make evident; to cause to be clear"**
+
+Base: *dhahiri* (evident) + causative *-sha* → *kudhihirisha* (P2a Item 13, Derived Form 1)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Ushahidi unadhihirisha kwamba alikuwa mahali pengine.* | Ushahidi unadhihirisha kwamba alikuwa mahali pengine. | "The evidence demonstrates that he/she was elsewhere." | Documented in P2a (Item 13, Derived Form 1). The causative presents evidence as an agent causing a fact to be in a state of manifest clarity. |
+| *Matokeo yalidhihirisha ukweli wa nadharia hiyo.* | Matokeo yalidhihirisha ukweli wa nadharia hiyo. | "The results demonstrated the truth of that theory." | *Ukweli* as the object of *kudhihirisha*; the causative presents results as agents making truth evident. |
+
+---
+
+**3.4 kuhalalisha — "to legitimize; to make lawful; to cause to be permissible"**
+
+Base: *halali* (lawful) + causative *-sha* → *kuhalalisha* (P2a Item 30, Derived Form 3)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Serikali inahalalisha mkataba huo.* | Serikali inahalalisha mkataba huo. | "The government is legitimizing that contract." | Documented in P4a (§5) and P4b. The causative presents the government as an agent causing a contract to be in a state of legal legitimacy. |
+| *Sheria mpya inahalalisha vitendo vilivyokuwa haramu.* | Sheria mpya inahalalisha vitendo vilivyokuwa haramu. | "The new law makes lawful acts that were previously forbidden." | Explicitly encodes a change from *haramu* (forbidden) to *halali* (lawful) caused by a legal instrument. |
+
+---
+
+**3.5 kudanganya — "to cause to believe falsely; to deceive"**
+
+Base: *danganya* (to deceive) (P1 Item 22)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alimudanganya kwa maneno mazuri.* | Alimudanganya kwa maneno mazuri. | "He/she deceived him/her with fine words." | Documented across P1, P2a, P2b. The verb presents an agent causing another person to be in a state of false belief. The causative meaning is lexicalized in the base verb rather than expressed by a suffix. |
+| *Habari za uongo ziliwadanganya watu wengi.* | Habari za uongo ziliwadanganya watu wengi. | "False news deceived many people." | *Habari za uongo* (false news) as the agent causing people to be in a state of deception. |
+
+---
+
+**3.6 kupotosha ukweli — "to cause truth to be distorted"**
+
+Already documented in §2.4 above. Included here to note that *kupotosha* is a causative form (*potosha* = causative of *potoa*, to go astray) and thus encodes both departure from truth (§2) and the causing of that departure (§3) simultaneously.
+
+---
+
+**3.7 No causative attested**
+
+- No causative from *kweli* itself (*kukwelisha*, "to make true") is attested. P2a (Item 1) explicitly notes this gap. The function of causing something to be true is carried by *kuthibitisha* (to verify/confirm) rather than by a direct causative of *kweli*.
+- No causative from *halisi* (*kuhalishisha* or similar, "to make genuine") is attested. P2a (Item 4) notes the absence of a productive verbal derivation from *halisi*; the function is expressed periphrastically (*kuthibitisha uhalisi*, to verify authenticity).
+- No causative from *uaminifu* is attested. The function of causing someone to be trustworthy is not expressed by a single derived verb in the documented data.
+
+---
+
+## 4. MAINTAINING OR STABILIZING A TRUTH-RELATED STATE
+
+### Pattern
+Stability in a truth-related state is expressed through periphrastic constructions using verbs of holding, keeping, or maintaining (*kushika*, *kudumisha*, *kuendelea*) with truth-domain nominals as objects, and through proverbial or semi-fixed expressions asserting the permanence of truth.
+
+---
+
+**4.1 kushika amana — "to keep a trust; to maintain faithfulness to a trust"**
+
+Base: *shika* (to hold/keep) + *amana* (trust) (P1b Root 3, Item 26)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Alishika amana aliyopewa kwa uaminifu.* | Alishika amana aliyopewa kwa uaminifu. | "He/she kept the trust given to him/her faithfully." | Documented in P1b (Root 3, Item 26) and P5 (Opposition 13). *Kushika* (to hold/keep) expresses the maintenance of a trust-state against the possibility of violation. Evaluatively positive. |
+
+---
+
+**4.2 ukweli hudumu — "truth endures; truth lasts"**
+
+Base: *ukweli* + habitual prefix *hu-* + *dumu* (to last/endure) (P1b Root 1, Item 24)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Ukweli hudumu; uongo haudumu.* | Ukweli hudumu; uongo haudumu. | "Truth endures; falsehood does not endure." | Documented in P1b (Root 1, Item 24) as [MARGINAL]. The habitual prefix *hu-* expresses a general, stable, recurring truth about the nature of *ukweli*. The contrastive extension with *uongo haudumu* is a natural elaboration of the proverbial pattern. |
+
+---
+
+**4.3 kuendelea kuwa mwaminifu — "to continue to be trustworthy; to remain faithful"**
+
+Base: *endelea* (to continue) + *kuwa* (to be) + *mwaminifu* (trustworthy person)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Aliendelea kuwa mwaminifu licha ya vishawishi vingi.* | Aliendelea kuwa mwaminifu licha ya vishawishi vingi. | "He/she continued to be trustworthy despite many temptations." | *Kuendelea* (to continue) + *kuwa mwaminifu* expresses the maintenance of a trustworthiness state against pressures toward change. No single-word form for this meaning is attested; the periphrastic construction is the natural form. |
+
+---
+
+**4.4 kudumisha uaminifu — "to maintain faithfulness; to sustain trustworthiness"**
+
+Base: *dumisha* (causative of *dumu*, to last/endure) + *uaminifu* (trustworthiness)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Ni muhimu kudumisha uaminifu katika kazi yako.* | Ni muhimu kudumisha uaminifu katika kazi yako. | "It is important to maintain faithfulness in your work." | *Kudumisha* (to cause to endure/maintain) + *uaminifu*; the causative of *dumu* expresses the active maintenance of a trustworthiness state. The verb *kudumisha* is not among the P1 items but *dumu* appears in the proverbial *ukweli hudumu* (P1b Root 1, Item 24), and *uaminifu* is P1 Item 18. |
+
+---
+
+**4.5 imani thabiti — stability as a property of belief**
+
+Base: *imani* (faith) + *thabiti* (firm/stable) (P1b Root 3, Item 27)
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Imani yake ilibaki thabiti hata wakati wa majaribu.* | Imani yake ilibaki thabiti hata wakati wa majaribu. | "His/her faith remained firm even in times of trial." | *Kubaki* (to remain/stay) + *thabiti* expresses the maintenance of a stable belief-state against pressures toward change. *Thabiti* (from Arabic *thābit*, firm/stable) lexicalizes the stability property; *kubaki* expresses its persistence over time. |
+
+---
+
+## 5. CAUSED CHANGE: PASSIVE CONSTRUCTIONS
+
+### Pattern
+The passive suffix *-wa* applied to causative truth-domain verbs expresses the result state of a caused change, foregrounding the entity that has been brought into a truth-related state rather than the agent that caused it. This pattern is documented in P4a (§8) and P4b, and in P5 (Oppositions 14, 15, 20).
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| *Habari imethibitishwa.* | Habari imethibitishwa. | "The news has been confirmed." | Result state: the news is now in a verified state. Agent not expressed. Documented in P2a (Item 14, Derived Form 2) and P4b. |
+| *Makosa yamesahihishwa.* | Makosa yamesahihishwa. | "The errors have been corrected." | Result state: the errors are now in a corrected state. Documented in P2a (Item 7, Derived Form 3). |
+| *Mkataba umehalalishwa.* | Mkataba umehalalishwa. | "The contract has been legitimized." | Result state: the contract is now in a legitimate state. Documented in P2a (Item 30, Derived Form 4). |
+| *Nilidanganywa.* | Nilidanganywa. | "I was deceived." | Result state: the speaker is now in a state of having been deceived. Documented in P2a (Item 22, Derived Form 1) and P4b. |
+
+**Note on aspect:** The perfect aspect (*ime-* prefix in the first three examples) is used to assert that the change has been completed and the result state currently holds. This is the characteristic tense-aspect marking for result-state passives in the truth domain in the documented data.
+
+---
+
+## 6. SUMMARY OF DYNAMIC PATTERNS
+
+The following observations are directly supported by the data above and by the CONTEXT.
+
+**Morphological resources attested:**
+- *-ika/-eka* suffix: inchoative/stative, no agent foregrounded (*kudhihirika*, *kudanganyika*, *kukosekana*)
+- *-sha/-isha* suffix: causative, agent foregrounded (*kuthibitisha*, *kusahihisha*, *kudhihirisha*, *kuhalalisha*)
+- *-wa* suffix: passive, result state foregrounded (*kuthibitishwa*, *kusahihishwa*, *kuhalalishwa*, *kudanganywa*)
+- Habitual prefix *hu-*: stability/recurrence (*ukweli hudumu*)
+
+**Periphrastic resources attested:**
+- *kupoteza* + truth-domain nominal: loss of a truth-related state (*kupoteza imani*)
+- *kukiuka* + trust nominal: violation of a trust-state (*kukiuka amana*)
+- *kushika* + trust nominal: maintenance of a trust-state (*kushika amana*)
+- *kuendelea kuwa* + truth-domain predicate: continuation in a truth-related state
+- *kubaki* + stability adjective: persistence of a stable state (*kubaki thabiti*)
+- *kuwa* + truth-domain nominal/adjective: change into a truth-related state (*akawa muongo*)
+
+**Asymmetries noted:**
+- The inchoative *-ika/-eka* is attested for *dhahiri* and *danganya* but not for *kweli*, *halisi*, *sahihi*, or *halali*. For these items, dynamic meaning is expressed causatively (*kuthibitisha*, *kusahihisha*, *kuhalalisha*) or periphrastically, but not inchoatively.
+- No causative from *kweli* itself is attested; the function of causing something to be true is carried by *kuthibitisha*.
+- No causative from *halisi* is attested; the function of making something genuine is expressed periphrastically.
+- Stability expressions are most richly attested for *imani* (faith/belief) and *amana* (trust), where the possibility of loss or violation makes stability a salient evaluative dimension. Stability expressions for *ukweli* (truth) are primarily proverbial (*ukweli hudumu*) rather than constructional.
+
+---
+
+*End of P6 Change, Causation, and Stability*

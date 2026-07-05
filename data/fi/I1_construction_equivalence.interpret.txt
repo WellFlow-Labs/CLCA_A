@@ -1,0 +1,132 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Finnish (fi)
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Copula + partitive/nominative | *se on totta* "that is true"<br>*väite on epätosi* "the claim is false" | Direct mapping; case variation by countability | None |
+| **ADNOM** | Adjective + noun<br>Compound formations | *tosi väite* "true claim"<br>*tositarina* "true story"<br>*valepassi* "fake passport" | Direct mapping; compounds highly productive | None |
+| **BECOME** | Inchoative verbs + translative<br>Light verb *tulla* + translative | *väite osoittautui vääräksi* "the claim proved false"<br>*totuus paljastui* "the truth was revealed" | Direct mapping; multiple lexical options | None |
+| **REVELATION** | Inchoative verbs (subset) | *totuus paljastui* "the truth was revealed"<br>*totuus tuli ilmi* "the truth came to light" | **SUBSTITUTED BY BECOME**<br>No distinct construction; uses same inchoative pattern | Functional substitution |
+| **CAUSATION (factual)** | Causative verbs + translative<br>Transitive verbs | *todistaa väite vääräksi* "prove the claim false"<br>*vääristää totuutta* "distort the truth" | Direct mapping; translative marks result | None |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION** | Circumlocution: *saada joku olemaan rehellinen* "make someone be honest" | **NO COMMON EXPRESSION - circumlocution required**<br>No dedicated construction for causing character traits | Structural gap |
+| **VERIFICATION** | Causative verbs (subset) | *todentaa* "verify/authenticate"<br>*todistaa oikeaksi* "prove right/vindicate" | Lexically distinct from general causation; same syntactic pattern | None |
+| **DISCONFIRMATION** | Causative verbs (subset) | *todistaa vääräksi* "prove wrong/disprove"<br>*kumota* "refute" | Lexically distinct from general causation; same syntactic pattern | None |
+| **NEGATION** | Negative auxiliary + copula<br>Negative prefix *epä-*<br>Privative suffix *-tön* | *ei ole totta* "is not true"<br>*epätosi* "untrue"<br>*virheetön* "error-free" | Multiple strategies: analytic (verbal), derivational (adjectival) | None |
+| **NOMINALIZATION** | Multiple suffixes:<br>*-uus/-yys* (abstract)<br>*-ja/-jä* (agent)<br>*-e/-us/-os* (result)<br>*-minen* (action) | *totuus* "truth"<br>*todistaja* "witness"<br>*todiste* "evidence"<br>*todistaminen* "proving" | Direct mapping; highly productive system with multiple subtypes | None |
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME Substitution
+Finnish does not maintain a constructional distinction between BECOME and REVELATION. Both meanings are expressed through the same inchoative construction pattern:
+- **Inchoative verbs + translative case**: *osoittautua vääräksi* "prove to be false"
+- **Dedicated revelation verbs**: *paljastua* "be revealed", *tulla ilmi* "come to light"
+
+The semantic distinction between "becoming true" and "being revealed as true" is lexicalized in verb choice (*todellistua* "be realized" vs. *paljastua* "be revealed") rather than marked by distinct syntactic constructions. Both use identical case frames and syntactic patterns.
+
+### VERIFICATION and DISCONFIRMATION Share Construction
+Finnish uses the same causative construction pattern for both verification and disconfirmation:
+- **Verification**: *todistaa oikeaksi* "prove right", *todentaa* "verify"
+- **Disconfirmation**: *todistaa vääräksi* "prove wrong", *kumota* "refute"
+
+The distinction is marked lexically (different verbs) or through the translative case marking the result state (*oikeaksi* "into right" vs. *vääräksi* "into wrong"). The syntactic frame remains identical: VERB + OBJECT + TRANSLATIVE.
+
+### NEGATION: Multiple Strategies
+Finnish employs three distinct negation strategies without clear functional distribution:
+
+1. **Analytic negation** (verbal): *ei ole totta* "is not true"
+   - Standard for predicative constructions
+   - Maintains partitive case under negation
+
+2. **Derivational negation** (adjectival): *epätosi* "untrue"
+   - Productive prefix *epä-* for adjectives
+   - Competes with dedicated antonyms (*väärä* "false")
+   - Semantic nuance: *epätosi* marks absence, *väärä* marks incorrectness
+
+3. **Privative derivation**: *virheetön* "error-free", *vilpitön* "sincere"
+   - Marks absence of (typically negative) quality
+   - Often lexicalized with positive meaning
+
+### CAUSATION (character) Gap
+Finnish lacks a common construction for causing someone to have/acquire truth-related character traits. The language provides:
+- **Causative verbs for factual states**: *todistaa* "prove", *vääristää* "distort"
+- **NO parallel for character causation**: *\*rehellisöittää* "make honest" does not exist
+
+Circumlocution required: *saada joku olemaan rehellinen* "make someone be honest" (light verb + copula + adjective). This represents a structural gap where factual causation is morphologically productive but character causation requires periphrasis.
+
+### Asymmetries in Compound Formation
+The compound prefixes *tosi-* and *vale-* show different productivity patterns:
+- **tosi-**: Marks authenticity/factuality (*tositarina* "true story", *tosielämä* "real life")
+- **vale-**: Marks deliberate falsification (*valepassi* "fake passport", *valenimi* "pseudonym")
+
+Both are highly productive, but *vale-* concentrates in legal/criminal terminology for counterfeit items, while *tosi-* appears broadly in media/entertainment contexts distinguishing factual from fictional content.
+
+### Light Verb Variation
+Truth-telling constructions show competition between light verb constructions and dedicated verbs:
+- **Light verb**: *puhua totuutta* "speak the truth" / *puhua valhetta* "tell a lie"
+- **Dedicated verb**: *valehdella* "to lie" (no parallel *\*totuudella* "to truth")
+
+The asymmetry shows lexicalization for lying but not for truth-telling, where the light verb construction remains standard.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **CAUSATION (character)**: No morphological causative construction for causing truth-related character traits
+   - Available for factual states: *todistaa* "prove", *vääristää* "distort"
+   - Missing for character: *\*rehellisöittää* "make honest" ungrammatical
+   - Requires circumlocution: *saada joku olemaan rehellinen*
+
+2. **REVELATION as distinct construction**: No separate syntactic pattern distinguishing revelation from becoming
+   - Meaning expressed through lexical choice within inchoative construction
+   - *paljastua* "be revealed" vs. *todellistua* "be realized" use identical syntax
+
+### Lexical Gaps
+1. **Agent noun for "liar"**: *valehtelija* marginal; descriptive phrases preferred (*valehteleva henkilö* "lying person")
+   - Contrast with productive agent formation: *todistaja* "witness", *väärentäjä* "forger"
+
+2. **Dedicated verb for "truth-telling"**: No parallel to *valehdella* "to lie"
+   - *\*totuudella* does not exist
+   - Light verb construction *puhua totuutta* serves this function
+
+3. **Comparative forms of absolute terms**: *\*tosempi* "more true", *\*valhempi* "more false" ungrammatical
+   - Periphrastic forms required: *enemmän totta* "more true"
+
+### Conceptual Gaps
+None identified. All truth-domain concepts can be expressed, though some require circumlocution or substitution.
+
+### Asymmetric Gaps
+1. **Truth-telling vs. lying**: Dedicated verb exists only for lying (*valehdella*), not truth-telling
+2. **Agent nouns**: Productive for positive actions (*todistaja* "witness") but marginal for lying (*valehtelija*)
+3. **Comparative gradability**: Gradable adjectives (*todenmukainen* "truthful") allow comparison; absolute terms (*tosi*, *väärä*) do not
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Copula + partitive/nominative construction
+- **ADNOM**: Adjectival modification and compound formation
+- **BECOME**: Inchoative verbs + translative case
+- **CAUSATION (factual)**: Causative verbs + translative case
+- **VERIFICATION**: Subset of causative verbs (*todentaa*, *todistaa oikeaksi*)
+- **DISCONFIRMATION**: Subset of causative verbs (*todistaa vääräksi*, *kumota*)
+- **NEGATION**: Multiple strategies (analytic, derivational, privative)
+- **NOMINALIZATION**: Highly productive multi-suffix system
+
+### Available with Substitution
+- **REVELATION**: Expressed through BECOME construction with specific lexical items
+  - No distinct syntactic pattern
+  - Lexical distinction: *paljastua* "be revealed" vs. *todellistua* "be realized"
+  - Same case frames and syntactic structure as general inchoatives
+
+### Partially Available
+- **CAUSATION (character)**: Requires circumlocution
+  - No morphological causative for character traits
+  - Periphrastic construction available: *saada joku olemaan [ADJECTIVE]*
+  - Structural gap in derivational morphology
+
+### Missing Entirely
+None. All operators can be expressed, though CAUSATION (character) lacks a dedicated construction and REVELATION lacks constructional independence from BECOME.
+
+---
+
+**Summary**: Finnish provides robust morphosyntactic support for truth-domain operations with two notable patterns: (1) REVELATION is functionally merged with BECOME through shared inchoative syntax, and (2) CAUSATION shows an asymmetry where factual causation is morphologically productive but character causation requires periphrasis. The language exhibits no absolute conceptual gaps—all meanings are expressible—but shows structural preferences for certain operators over others.

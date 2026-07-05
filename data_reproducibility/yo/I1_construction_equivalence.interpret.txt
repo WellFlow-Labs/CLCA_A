@@ -1,0 +1,189 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Yoruba (yo)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Subject + tọ́<br>Subject + jẹ́ + òtítọ́<br>Subject + purọ́ (falsity) | Ọ̀rọ̀ náà tọ́<br>Ìròyìn yìí jẹ́ irọ́ | Direct equivalents; stative verb for correctness, copula + nominal for truth/falsity | None |
+| **ADNOM** | Noun + tọ́<br>Noun + òtítọ́ | ọ̀rọ̀ tọ́<br>ẹ̀rí òtítọ́ | Direct equivalents; postnominal modification via stative verb or noun juxtaposition | None |
+| **BECOME** | Subject + di + òtítọ́ | Ọ̀rọ̀ náà di òtítọ́ | **SUBSTITUTED BY REVELATION**<br>Construction exists but expresses discovery/revelation rather than change in truth-value | Conceptual gap (truth as static) |
+| **REVELATION** | fi + Object + hàn<br>Subject + hàn + bí òtítọ́<br>A rí i pé + Clause | Mo fi òtítọ́ hàn<br>(implied in notes) | Direct equivalents; serial verb construction and evidential patterns | None |
+| **CAUSATION (factual)** | Subject + mú + kí + Clause | Ó mú kí ọ̀rọ̀ náà tọ́ | **SUBSTITUTED BY VERIFICATION**<br>Construction exists but reinterpreted as verification rather than making-true | Conceptual gap (cannot "make" truth) |
+| **CAUSATION (character)** | Subject + jẹ́ + kí + Clause | Ó jẹ́ kí n sọ òtítọ́ | Permissive causative; enables truth-telling rather than causing truth itself | Partial (permissive only) |
+| **VERIFICATION** | Subject + mú + kí + Clause<br>fi + Object + hàn | Ó mú kí ọ̀rọ̀ náà tọ́<br>Mo fi òtítọ́ hàn | Direct equivalents; causative construction reinterpreted as verification; revelation construction also serves this function | None |
+| **DISCONFIRMATION** | **NO COMMON EXPRESSION** | — | **MISSING (structural gap)**<br>Must use negation + verification or circumlocution | Structural gap |
+| **NEGATION** | Subject + kò + tọ́<br>Subject + kò + jẹ́ + òtítọ́<br>kò + tọ́ + rárá (emphatic) | Ọ̀rọ̀ náà kò tọ́<br>Èyí kò jẹ́ òtítọ́ | Direct equivalents; analytic negation with preverbal particle **kò** | None |
+| **NOMINALIZATION (abstract)** | òtítọ́ (lexicalized)<br>ì- + Verb<br>àì- + Verb (negative) | òtítọ́<br>ìgbàgbọ́<br>àìtọ́ | Direct equivalents; lexicalized form for "truth" plus productive nominalization patterns | None |
+| **NOMINALIZATION (agentive)** | apurọ́ (liar)<br>ọmọ + òtítọ́ | apurọ́<br>ọmọ òtítọ́ | Partial; **a-** prefix not productive with **tọ́**; uses **ọmọ** (child of) construction instead | Lexical gap (*atọ́ "truth-teller" not attested) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME → REVELATION Substitution
+
+The construction **Subject + di + òtítọ́** exists grammatically but does not express change in truth-value. Instead, it expresses **discovery or revelation** that something was true all along. P4b explicitly states: "Used for discovery or revelation rather than change in truth-value. Not common for statements 'becoming true' as truth is treated as static property."
+
+This reflects a conceptual constraint: Yoruba treats truth as an inherent, static property rather than an emergent or changeable state. The language prefers evidential constructions like **A rí i pé ó tọ́** ("we saw that it is correct") over inchoative constructions.
+
+**Pattern:** Where English might say "it became true," Yoruba says "it turned out to be true" or "it was revealed as true."
+
+---
+
+### 2.2 CAUSATION (factual) → VERIFICATION Substitution
+
+The periphrastic causative **Subject + mú + kí + Clause** exists but is pragmatically marked for truth predicates. P4b notes: "Pragmatically marked; implies verification or making something correspond to truth rather than creating truth. Uncommon in everyday speech."
+
+The construction is reinterpreted from "make X true" to "verify X" or "make X correspond to truth." This reflects another conceptual constraint: one cannot create or cause truth itself, only verify or demonstrate it.
+
+**Pattern:** The same construction that expresses causation in other domains (e.g., **Ó mú kí omi gbóná** "He made the water hot") shifts to verification meaning with truth predicates.
+
+---
+
+### 2.3 REVELATION as Primary Strategy
+
+Yoruba strongly prefers **revelation/demonstration** constructions over causative or inchoative ones. The serial verb pattern **fi + Object + hàn** ("use X show" = reveal X) is marked [CORE] and described as "highly productive" and "very common."
+
+This pattern serves multiple functions:
+- Revealing truth: **Mo fi òtítọ́ hàn** ("I revealed the truth")
+- Demonstrating truth: overlaps with verification function
+- Making truth visible: overlaps with what other languages might express as "making true"
+
+---
+
+### 2.4 Permissive vs. Factitive Causation
+
+For character-related causation, Yoruba uses **jẹ́ kí** (allow/let) rather than **mú kí** (make/force):
+- **Ó jẹ́ kí n sọ òtítọ́** ("He/she allowed me to tell the truth") — [CORE], natural
+- **Ó mú kí n sọ òtítọ́** ("He/she made me tell the truth") — possible but less natural for truth-telling
+
+This reflects a preference for permissive over factitive causation in the truth domain.
+
+---
+
+### 2.5 Asymmetries: Truth vs. Falsity
+
+The language shows lexical asymmetry:
+- **Truth:** Uses stative verb **tọ́** or nominal **òtítọ́**
+- **Falsity:** Uses nominal **irọ́** (lie) or verb **purọ́** (to lie)
+
+For agentive nominalization:
+- **Liar:** **apurọ́** (productive **a-** prefix)
+- **Truth-teller:** No equivalent *atọ́; must use **ọmọ òtítọ́** (child of truth)
+
+This asymmetry suggests that lying is conceptualized as an active behavior (hence agentive nominalization), while truth-telling is conceptualized as a character trait (hence **ọmọ** "child of" construction).
+
+---
+
+### 2.6 Degree Modification Resistance
+
+Truth predicates resist degree modification. P4b states: "Truth predicates like **tọ́** rarely take degree modification—truth is typically binary rather than scalar."
+
+While constructions like **Predicate + púpọ̀** (greatly) and **Predicate + jù** (exceed, more than) exist and are [CORE] for other predicates, they are [MARGINAL] for truth predicates:
+- **Ó tọ́ jù ú lọ** ("It is more correct than it") — grammatical but pragmatically odd
+
+This reflects conceptualization of truth as binary rather than gradable.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**DISCONFIRMATION:** No dedicated construction for disconfirming or proving false. Must use circumlocution:
+- Negation + verification: **kò fi hàn pé ó tọ́** ("didn't show that it is true")
+- Negation + revelation: **kò hàn bí òtítọ́** ("didn't appear as truth")
+- Simple negation: **kò tọ́** ("it is not correct")
+
+The language lacks a single-word or dedicated construction equivalent to English "disprove" or "falsify."
+
+---
+
+### 3.2 Lexical Gaps
+
+**Agentive nominalization for truth-teller:** The productive **a-** prefix that creates **apurọ́** (liar) does not apply to **tọ́**. The form *atọ́ is not attested.
+
+**Workaround:** Use **ọmọ òtítọ́** (child of truth) or **ẹni òtítọ́** (person of truth).
+
+This is a lexical gap rather than a structural gap—the language has agentive nominalization patterns, but they don't apply to this particular root.
+
+---
+
+### 3.3 Conceptual Gaps
+
+**BECOME (inchoative):** The construction **di + òtítọ́** exists but cannot express change in truth-value. P4b: "Yoruba conceptualizes truth as inherent rather than emergent."
+
+**CAUSATION (factual):** The construction **mú kí + Clause** exists but is reinterpreted as verification. P4b: "One cannot 'make' truth."
+
+These are conceptual constraints rather than structural impossibilities. The morphosyntax exists but is blocked or reinterpreted by semantic/pragmatic factors.
+
+---
+
+### 3.4 Asymmetric Gaps
+
+**Truth-teller vs. Liar:**
+- Liar: **apurọ́** (morphological derivation)
+- Truth-teller: **ọmọ òtítọ́** (periphrastic construction)
+
+**Degree modification:**
+- Other predicates: freely take **púpọ̀**, **jù**, **díẹ̀**
+- Truth predicates: resist degree modification (binary conceptualization)
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+| Operator | Construction Type | Status |
+|----------|------------------|--------|
+| **ATTR** | Stative verb + copula | [CORE] — unrestricted, frequent |
+| **ADNOM** | Postnominal modification | [CORE] — productive, unrestricted |
+| **NEGATION** | Analytic (preverbal **kò**) | [CORE] — unrestricted, frequent |
+| **NOMINALIZATION (abstract)** | Lexicalized + productive prefixes | [CORE] — **òtítọ́** lexicalized; **ì-** and **àì-** productive |
+| **REVELATION** | Serial verb **fi...hàn** + evidentials | [CORE] — highly productive, preferred strategy |
+
+---
+
+### 4.2 Available with Substitution
+
+| Operator | Substituted By | Construction | Status |
+|----------|---------------|--------------|--------|
+| **BECOME** | REVELATION | **di + òtítọ́** reinterpreted as discovery | [MARGINAL] — conceptual constraint |
+| **CAUSATION (factual)** | VERIFICATION | **mú kí + Clause** reinterpreted | [MARGINAL] — conceptual constraint |
+| **VERIFICATION** | REVELATION | **fi...hàn** serves both functions | [CORE] — overlap in function |
+
+---
+
+### 4.3 Partially Available
+
+| Operator | Available Form | Missing Form | Gap Type |
+|----------|---------------|--------------|----------|
+| **CAUSATION (character)** | Permissive: **jẹ́ kí** | Factitive: **mú kí** (marked) | Pragmatic preference |
+| **NOMINALIZATION (agentive)** | Periphrastic: **ọmọ òtítọ́** | Morphological: *atọ́ | Lexical gap |
+| **DEGREE MODIFICATION** | Grammatical but odd | Natural scalar reading | Conceptual constraint |
+
+---
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Type | Notes |
+|----------|----------|-------|
+| **DISCONFIRMATION** | Structural gap | No dedicated construction; requires circumlocution with negation + verification/revelation |
+
+---
+
+## Summary
+
+Yoruba provides robust morphosyntactic resources for truth-domain expressions but shows systematic conceptual constraints:
+
+1. **Truth is static:** BECOME constructions are reinterpreted as REVELATION
+2. **Truth cannot be caused:** CAUSATION constructions are reinterpreted as VERIFICATION
+3. **Truth is binary:** Degree modification is grammatical but pragmatically odd
+4. **Revelation is central:** The **fi...hàn** pattern serves multiple functions (reveal, demonstrate, verify)
+5. **Disconfirmation is absent:** No dedicated construction; must use negation strategies
+
+The language shows one clear structural gap (DISCONFIRMATION), one lexical gap (agentive *atọ́), and several conceptual constraints that trigger substitution patterns rather than true gaps.

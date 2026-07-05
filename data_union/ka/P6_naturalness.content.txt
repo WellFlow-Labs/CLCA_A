@@ -1,0 +1,402 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Georgian (ka)
+
+---
+
+**Methodological note:** This step documents how Georgian encodes dynamic truth-related meanings — becoming, causing, and maintaining truth-related states — using exclusively vocabulary established in P1–P5. Auxiliary verbs, aspect markers, tense markers, and function words are added as needed to form natural Georgian expressions; these additions are flagged. Where a given term does not participate in a dynamic construction, this is stated explicitly. Constructions are organized by semantic type and then by base term. Naturalness ratings reflect patterns observable in the P1–P5 data.
+
+---
+
+## Section 1: "X becomes [truth-related state]" — Inchoative constructions
+
+### 1.1 Inchoative constructions with gamodga / aġmočnda
+
+**Background from P4a and P5:** The verbs gamodga ("turned out to be, proved to be") and aġmočnda ("turned out to be, was found to be") are documented in P4a as the standard inchoative verbs for truth-domain predicates, expressing discovery or confirmation of a property. P5 documents four attested minimal pairs using these verbs (Oppositions 4, 22, 23). These are the primary inchoative constructions in the documented data.
+
+---
+
+**Construction 1.1.1**
+
+1. **Base term:** მართალი / martali
+2. **Example:** მართალი გამოდგა
+3. **Transliteration:** martali gamodga
+4. **English translation:** turned out to be right; proved to be correct
+5. **Structural analysis:** [Adjective] + [gamodga (aorist of gamogdeba, "to turn out to be")] — the adjective functions as a predicative complement; gamodga is the inchoative/resultative verb. *gamodga* is an added function verb.
+6. **Usage notes:** Documented in P2b and P4a as [CORE]; used in everyday, journalistic, and academic discourse when a claim or judgment is retrospectively confirmed as correct. The subject is typically a person (whose claim proved right) or a statement (which proved correct).
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.1.2**
+
+1. **Base term:** მცდარი / mcdari
+2. **Example:** მცდარი გამოდგა
+3. **Transliteration:** mcdari gamodga
+4. **English translation:** turned out to be wrong; proved to be erroneous
+5. **Structural analysis:** [Adjective] + [gamodga] — parallel to 1.1.1 with the opposing adjective.
+6. **Usage notes:** Documented in P2b as [CORE]; the direct inchoative counterpart to martali gamodga. Used when a belief, claim, or judgment is subsequently shown to be incorrect.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.1.3**
+
+1. **Base term:** ყალბი / q̇albi
+2. **Example:** ყალბი აღმოჩნდა
+3. **Transliteration:** q̇albi aġmočnda
+4. **English translation:** turned out to be fake; proved to be forged
+5. **Structural analysis:** [Adjective] + [aġmočnda (aorist of aġmočndeba, "to turn out to be, to be found to be")] — aġmočnda is the inchoative/resultative verb. *aġmočnda* is an added function verb.
+6. **Usage notes:** Documented in P2b as [CORE]; used in legal, forensic, and everyday contexts when examination reveals that an item is counterfeit or forged.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.1.4**
+
+1. **Base term:** ნამდვილი / namdvili
+2. **Example:** ნამდვილი აღმოჩნდა
+3. **Transliteration:** namdvili aġmočnda
+4. **English translation:** turned out to be genuine; proved to be real
+5. **Structural analysis:** [Adjective] + [aġmočnda] — parallel to 1.1.3 with the opposing adjective.
+6. **Usage notes:** Documented in P2b as [CORE]; the direct inchoative counterpart to q̇albi aġmočnda. Used when examination confirms the genuine nature of an item.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.1.5**
+
+1. **Base term:** მტყუარი / mt'q̇uari
+2. **Example:** მტყუარი აღმოჩნდა
+3. **Transliteration:** mt'q̇uari aɣmočnda
+4. **English translation:** turned out to be a liar / proved to be untruthful
+5. **Structural analysis:** [Adjective/noun] + [aɣmočnda] — the verb encodes retrospective discovery of a state rather than a transition into it.
+6. **Usage notes:** Documented in P2b as [CORE]; used in narrative and evaluative contexts to describe the retrospective discovery that a person was lying. This is the closest attested expression to "becoming a liar" in the data; it encodes revelation of an existing state rather than a change of state.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.1.6**
+
+1. **Base term:** ყალბი / q̇albi
+2. **Example:** ყალბი გამოდგა
+3. **Transliteration:** q̇albi gamodga
+4. **English translation:** turned out to be fake; proved to be false
+5. **Structural analysis:** [Adjective] + [gamodga] — parallel to 1.1.1 and 1.1.2 with q̇albi as the adjectival predicate.
+6. **Usage notes:** The construction q̇albi aġmočnda is documented in P2b as [CORE] (see 1.1.3); q̇albi gamodga follows the same pattern documented for martali gamodga and mcdari gamodga and is equally natural. Both inchoative verbs (gamodga, aġmočnda) are attested with truth-domain adjectives.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.2 Inchoative constructions with სიმართლე გამოვიდა / simartle gamovida
+
+**Pattern:** Nominal subject + preverb გამო- + verb of motion (gamosv-, "to come out")
+
+**Documented in:** P1b, P2b, P4a (Construction 4)
+
+---
+
+**Construction 1.2.1**
+
+1. **Base term:** სიმართლე / simartle
+2. **Example:** სიმართლე გამოვიდა
+3. **Transliteration:** simarṭle gamovida
+4. **English translation:** the truth came out; the truth emerged
+5. **Structural analysis:** [Noun (subject)] + [gamovida (aorist of gamosvla, "to come out, to emerge")] — gamovida is an inchoative/directional verb expressing emergence from concealment. *gamovida* is an added function verb.
+6. **Usage notes:** Documented in P2b as [CORE]; used in narrative and conversational registers when previously concealed truth becomes known. Semantically distinct from the gamodga/aġmočnda pattern: gamovida implies emergence from concealment rather than discovery through examination. P4a notes this is not morphologically inchoative but functions as the closest natural equivalent for "truth becomes known." Extremely common in narrative and journalistic contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.2.2**
+
+1. **Base term:** ჭეშმარიტება / č̣ešmariteba
+2. **Example:** ჭეშმარიტება გამოვიდა სინათლეზე
+3. **Transliteration:** č̣ešmariteba gamovida sinat̕leze
+4. **English translation:** the truth came to light
+5. **Structural analysis:** [Noun (subject)] + [gamovida (aorist of gamosvla)] + [sinat̕leze (postpositional phrase: "into the light")] — the postpositional phrase makes the metaphor of emergence into visibility explicit. *gamovida* and *sinat̕leze* are added elements.
+6. **Usage notes:** Documented in P2b as [CORE]; more formal/literary variant using č̣ešmariteba rather than simartle. The simartle version is more colloquial; the č̣ešmariteba version is more formal or literary.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.3 Inchoative constructions with gamovlinda
+
+**Pattern:** Truth-domain or falsity-domain nominal as subject + resultative verb expressing disclosure or establishment.
+
+---
+
+**Construction 1.3.1**
+
+1. **Base term:** სიმართლე / simartle
+2. **Example:** სიმართლე გამოვლინდა
+3. **Transliteration:** simartle gamovlinda
+4. **English translation:** the truth came to light / the truth was revealed
+5. **Structural analysis:** [Noun (subject)] + [gamovlinda (perfective of gamovlindeba, "to be revealed, to come to light")] — the subject is the truth nominal; no agent need be expressed. The construction encodes the transition from a hidden to a disclosed state of truth.
+6. **Usage notes:** Documented in P2b; the parallel with simartle is directly supported by the simartle gamovlena collocation in P1b and the gamovlena pattern documented throughout P2b. The subject is the truth nominal; no agent need be expressed.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.3.2**
+
+1. **Base term:** ჭეშმარიტება / č̣ešmariteba
+2. **Example:** ჭეშმარიტება გამოვლინდა
+3. **Transliteration:** č̣ešmariteba gamovlinda
+4. **English translation:** the truth came to light / the truth was revealed
+5. **Structural analysis:** [Noun (subject)] + [gamovlinda] — parallel to 1.3.1 in the elevated philosophical/theological register associated with č̣ešmariteba.
+6. **Usage notes:** Documented directly in P2b as [CORE]. The same verb applies to both truth nominals. Appears in the elevated philosophical/theological register associated with č̣ešmariteba (P3 Group 7).
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.3.3**
+
+1. **Base term:** სიყალბე / siq̇albe
+2. **Example:** სიყალბე გამოვლინდა
+3. **Transliteration:** siq̇albe gamovlinda
+4. **English translation:** the falsity came to light / the fraud was revealed
+5. **Structural analysis:** [Noun (subject)] + [gamovlinda] — parallel in structure to 1.3.1 but with the falsity nominal as subject.
+6. **Usage notes:** Supported by P1b (siq̇albis gamovlena, "exposure of fraud," documented in q̇alb- root expansion item 21); the perfective gamovlinda corresponds to the verbal noun gamovlena. The verbal noun gamovlena is documented for both simartle (P1b mart- item 10) and siq̇albe (P1b q̇alb- item 21), supporting the parallel finite verb construction.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.4 Inchoative constructions with dadginda
+
+---
+
+**Construction 1.4.1**
+
+1. **Base term:** სიმართლე / simartle
+2. **Example:** სიმართლე დადგინდა
+3. **Transliteration:** simartle dadginda
+4. **English translation:** the truth was established / the truth was determined
+5. **Structural analysis:** [Noun (subject)] + [dadginda (perfective resultative form corresponding to the verbal noun dadgena, "determination")] — encodes the transition from an undetermined to a determined state of truth.
+6. **Usage notes:** Supported by P1b (simartlis dadgena, "determination of the truth," documented in mart- root expansion item 7); the perfective verb dadginda is the resultative form corresponding to the verbal noun dadgena. Specifically attested in legal and investigative contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.5 Inchoative constructions with gamoaškaravda
+
+---
+
+**Construction 1.5.1**
+
+1. **Base term:** სიყალბე / siq̇albe
+2. **Example:** სიყალბე გამოაშკარავდა
+3. **Transliteration:** siq̇albe gamoašk'aravda
+4. **English translation:** the fraud was exposed / the falseness was revealed
+5. **Structural analysis:** [Noun (subject)] + [gamoašk'aravda (aorist of gamoaškaraveba, "to expose, to bring to light")] — the verb gamoaškaraveba is described as "a standard collocate of siq̇albe in contexts of unmasking deception." The agent of exposure is typically implicit or expressed in a separate clause.
+6. **Usage notes:** Documented in P2b as [CORE] as the standard construction for the exposure of something falsely presented. This construction is the falseness-domain parallel to simartle gamovida, but it is not a simple inchoative ("becomes false") — it describes the revelation of pre-existing falseness rather than a transition into a false state.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.6 Inchoative constructions with xdeba / moxda ("becomes, happens")
+
+**Note:** The verb xdeba / moxda ("happens, occurs, becomes") is a general inchoative/eventive verb in Georgian. It is documented in P2b in the constructions dadastureba ver moxda ("confirmation could not occur") and gamarṭleba ver moxda ("justification did not occur"). This verb can combine with nominalized truth-domain expressions to express the coming-about of a truth-related state.
+
+---
+
+**Construction 1.6.1**
+
+1. **Base term:** დადასტურება / dadastureba
+2. **Example:** დადასტურება მოხდა
+3. **Transliteration:** dadastureba moxda
+4. **English translation:** confirmation occurred; verification took place
+5. **Structural analysis:** [Verbal noun (subject)] + [moxda (aorist of moxdeba, "to occur, to happen")] — the verbal noun functions as the subject of the eventive verb. *moxda* is an added function verb.
+6. **Usage notes:** Directly derived from the documented construction dadastureba ver moxda (P2b, [CORE]) by removing the negation. Used in administrative and journalistic discourse to assert that a verification process was completed.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.6.2**
+
+1. **Base term:** გამართლება / gamarṭleba
+2. **Example:** გამართლება მოხდა
+3. **Transliteration:** gamarṭleba moxda
+4. **English translation:** justification occurred; vindication took place; acquittal was granted
+5. **Structural analysis:** [Verbal noun (subject)] + [moxda] — parallel to 1.6.1.
+6. **Usage notes:** Directly derived from the documented construction gamarṭleba ver moxda (P1b, [CORE]) by removing the negation. Used in legal discourse to assert that an acquittal or vindication was granted.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.7 Inchoative constructions with the mart- root (-deba paradigm)
+
+**Pattern:** Stem + -დება / -deba (inchoative/passive suffix)
+
+**Documented in:** P4a (Construction 4), P4b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ის მართლდება | is martldeba | "He is being vindicated / He is proven right" | [CORE] | Ongoing inchoative; marks a process of transitioning into a state of being justified or vindicated. Attested for the mart- root. The subject is the person or claim undergoing vindication. |
+| ის გამართლდება | is gamartldeba | "He will be vindicated / He becomes justified" | [CORE] | Completive inchoative with preverb გა- (ga-); marks a bounded transition to a resultant state. The preverb adds completive aspect. |
+| ის გამართლდა | is gamartlda | "He was vindicated / He was proven right" | [CORE] | Aorist of the completive inchoative; marks the completed transition. The standard past-tense form for "was acquitted / was vindicated." |
+
+**Notes:** The -deba inchoative is productive on the mart- root and generates a full aspectual paradigm (ongoing: martldeba; completive: gamartldeba; completed: gamartlda). No parallel inchoative form is attested for namdvili, č̣ešmariti, sarwmuno, or sando in the documented data.
+
+---
+
+### 1.8 Inchoative constructions: something becoming falsified / forged
+
+---
+
+**Construction 1.8.1**
+
+1. **Base term:** გაყალბება / gaq̇albeba
+2. **Example:** დოკუმენტი გაყალბდა
+3. **Transliteration:** dokumenti gaq̇albda
+4. **English translation:** the document was forged / the document became falsified
+5. **Structural analysis:** [Noun (subject)] + [gaq̇albda (perfective passive/inchoative of gaq̇albebs)] — the -d- infix marks the passive/inchoative. The document as subject undergoes the transition from genuine to falsified. No agent need be expressed in the passive construction.
+6. **Usage notes:** The verbal noun gaq̇albeba is documented in P2a as the standard legal term for the act of falsification. The perfective form gaq̇albda encodes the completed transition of an object into a falsified state.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.9 Inchoative constructions: something becoming confirmed / verified
+
+---
+
+**Construction 1.9.1**
+
+1. **Base term:** დადასტურება / dadastureba
+2. **Example:** ინფორმაცია დადასტურდა
+3. **Transliteration:** in'p'ormacia dadasturda
+4. **English translation:** the information was confirmed / the information became verified
+5. **Structural analysis:** [Noun (subject)] + [dadasturda (perfective finite form corresponding to the resultative participial dadasturebuli)] — encodes the completed transition of information from unconfirmed to confirmed status.
+6. **Usage notes:** The resultative participial dadasturebuli is documented in P2a. The perfective finite form dadasturda is the natural finite form. Consistent with the journalistic and legal contexts documented for dadastureba in P2b.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.10 Inchoative constructions: truth prevailing
+
+---
+
+**Construction 1.10.1**
+
+1. **Base term:** სიმართლე / simartle
+2. **Example:** სიმართლე გამარჯვებს
+3. **Transliteration:** simartle gamarjvebs
+4. **English translation:** truth prevails / truth wins out
+5. **Structural analysis:** [Noun (subject)] + [gamarjvebs (present of gamarjveba, "to win, to prevail")] — encodes a dynamic process: truth moving from a contested to a victorious state. The present tense expresses ongoing or habitual prevailing.
+6. **Usage notes:** Documented in P1b (mart- root expansion item 27) as [CORE]; documented as a proverbial/rhetorical expression.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 1.10.2**
+
+1. **Base term:** ჭეშმარიტება / č̣ešmariteba
+2. **Example:** ჭეშმარიტება გამარჯვებს
+3. **Transliteration:** č̣ešmariteba gamarjvebs
+4. **English translation:** truth prevails / truth is victorious
+5. **Structural analysis:** [Noun (subject)] + [gamarjvebs] — parallel to 1.10.1 in the elevated register.
+6. **Usage notes:** Documented in P1b (č̣ešmar- root expansion item 22) as [CORE]. P5 Opposition 17 notes both as proverbial expressions asserting the ultimate triumph of truth. Documented in P1b as "a proverbial and rhetorical expression asserting the ultimate triumph of truth." Present tense; encodes truth's victory as a general or habitual truth rather than a specific event.
+7. **Epistemic status:** [CORE]
+
+---
+
+### 1.11 Inchoative constructions: terms for which no common inchoative expression is documented
+
+The following P1 terms do not participate in attested inchoative constructions in the P1–P5 data. For each, the reason is noted.
+
+- **ჭეშმარიტება / č̣ešmariteba:** Used as the subject of passive and predicative constructions (č̣ešmariteba itqva, č̣ešmariteba gamarjvdeba, č̣ešmariteba edzebeba) but not documented in an inchoative construction expressing that something "becomes true" in the č̣ešmariteba sense. The abstract noun does not readily combine with gamodga or aġmočnda.
+- **სიზუსტე / sizuste, სიზუსტე / sisc̣ore:** Abstract quality nouns; no inchoative construction documented.
+- **სარწმუნო / sarc̣muno, დამაჯერებელი / damajerebeliˈ:** No inchoative construction documented; these adjectives describe stable properties of sources and arguments rather than states that come about through a process.
+- **გულწრფელი / gulc̣rpeli, თვალთმაქცობა / tvaltmaqcoba:** No inchoative construction documented in the data.
+- **მოჩვენებითი / močvenebiti, ფიქტიური / piqtiuri:** These adjectives describe a static characterization (ostensible, fictitious) rather than a state that comes about; no inchoative construction documented.
+- **ნამდვილი / namdvili:** No inchoative form attested. Authenticity is typically confirmed (ნამდვილობის დადასტურება, namdvilobis dadastureba) rather than acquired through a change of state.
+- **ჭეშმარიტი / č̣ešmariti:** No inchoative form attested. The philosophical and theological register of this term does not generate change-of-state expressions in the documented data.
+- **სარწმუნო / sarwmuno; სანდო / sando:** No inchoative form attested. Credibility and trustworthiness are evaluated as properties rather than acquired through a documented change-of-state construction.
+- **No common expression for "X becomes a lie / X becomes false (of a statement)"** is attested in the documented data for ტყუილი / ẗq̇uili or სიცრუე / sicrue. Statements are described as lies (ẗq̇uilia, "it is a lie") or as having been told as lies (ẗq̇uili t̕q̇va, "told a lie"), but no change-of-state construction for a statement transitioning into falsehood is documented.
+- **No common inchoative expression for "becomes unjust" or "becomes unlawful"** is attested for უსამართლო / usamart̕lo or უკანონო / ukanono. Legal and moral evaluation in these terms is expressed through attribution (X usamart̕loa, "X is unjust") rather than through change-of-state constructions.
+
+---
+
+## Section 2: "X becomes [non-truth / opposed state]" — Inchoative constructions for the opposed pole
+
+**Note:** The inchoative constructions documented in Section 1 already cover both poles of the primary oppositions (martali gamodga / mcdari gamodga; q̇albi aġmočnda / namdvili aġmočnda). This section documents additional inchoative constructions for the non-truth or falsity pole where these are distinct from those already listed.
+
+---
+
+**Construction 2.1**
+
+1. **Base term:** სიცრუე / sicrue
+2. **Example:** სიცრუეში გაიჭირა
+3. **Transliteration:** sicrueši gaič̣ira
+4. **English translation:** got caught in a lie; was caught lying
+5. **Structural analysis:** [sicrue-ši (postpositional phrase: "in a lie")] + [gaič̣ira (aorist of gaič̣ireba, "to get caught, to get into difficulty")] — the postpositional phrase locates the subject in the state of lying; gaič̣ira expresses the inchoative entry into that state (getting caught). *gaič̣ira* is an added function verb.
+6. **Usage notes:** Documented in P2b as [CORE]. Expresses the transition from concealed lying to exposed lying — a change of state from the perspective of social recognition.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 2.2**
+
+1. **Base term:** სიცრუე / sicrue
+2. **Example:** სიცრუეზე დაიჭირეს
+3. **Transliteration:** sicruezeˈ daič̣ires
+4. **English translation:** was caught in a lie; was caught lying (more formal)
+5. **Structural analysis:** [sicrue-ze (postpositional phrase: "on/at a lie")] + [daič̣ires (aorist passive of daič̣ireba, "to be caught")] — parallel to 2.1 with a different postposition and a passive verb form. *daič̣ires* is an added function verb.
+6. **Usage notes:** Documented in P2b as [CORE]; slightly more formal than sicrueši gaič̣ira. Used in legal and journalistic contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+## Section 3: "Y causes X to be [truth-related state]" — Causative constructions
+
+**Background from P2a and P4a:** P4a documents that Georgian does not have a single productive causative suffix for this domain. Caused-state meanings are expressed through preverb + root + -eba verbal nouns (gamarṭleba "making right/justifying," gasc̣oreba "correcting," gaq̇albeba "forging," dazusteba "making precise," dadastureba "confirming"). These are lexicalized rather than generated by a transparent causative rule. This section documents how these forms participate in causative constructions. No morphological causative suffix specific to truth-domain predicates is attested. Causation is encoded through transitive verbs with the affected nominal as object.
+
+---
+
+### 3.1 Causative constructions: Y causes X to be confirmed / verified
+
+**Construction 3.1.1**
+
+1. **Base term:** დადასტურება / dadastureba
+2. **Example:** ექსპერტმა ნამდვილობა დაადასტურა
+3. **Transliteration:** eqspertma namdviloba daadasturaˈ
+4. **English translation:** the expert confirmed the authenticity; the expert verified the genuineness
+5. **Structural analysis:** [eqspertma (agent, ergative case)] + [namdviloba (object, nominative)] + [daadasturaˈ (aorist of daadasturebs, "confirms, verifies")] — the agent in the ergative case causes the state of confirmation to obtain with respect to the object. *daadasturaˈ* is the finite verbal form of the documented verbal noun dadastureba; the ergative case marking on the agent is an added grammatical element.
+6. **Usage notes:** The verbal noun dadastureba and its finite form daadasturebs are documented in P1 as [CORE]. The construction with an explicit agent in the ergative case is the standard transitive causative frame in Georgian for this verb.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 3.1.2**
+
+1. **Base term:** დადასტურება / dadastureba
+2. **Example:** მტკიცებულებამ სიყალბე დაადასტურა
+3. **Transliteration:** mtkicebulebam siq̇albe daadasturaˈ
+4. **English translation:** the evidence confirmed the forgery; the evidence established the falsity
+5. **Structural analysis:** [mtkicebulebam (agent/instrument, ergative)] + [siq̇albe (object, nominative)] + [daadasturaˈ (aorist)] — parallel to 3.1.1 with siq̇albe as the object.
+6. **Usage notes:** The collocation siq̇albis dadastureba is documented in P1 as a fixed legal phrase [MARGINAL]; the transitive verbal construction with an explicit agent is the dynamic realization of that nominal phrase.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Construction 3.1.3**
+
+1. **Base term:** დადასტურება / dadastureba
+2. **Example:** ინფორმაცია დაადასტურა
+3. **Transliteration:** in'p'ormacia daadastура
+4. **English translation:** confirmed the information / verified the information
+5. **Structural analysis:** [Agent (ergative, implicit)] + [in'p'ormacia (object, nominative)] + [daadastура (perfective of daadasturebs)] — the verb daadasturebs is explicitly documented in P2a as the productive verbal form corresponding to the verbal noun dadastureba. The transitive perfective takes the information or claim as its object and the confirming agent as its subject.
+6. **Usage notes:** Documented in P2a with the note that dadastureba "participates in productive verbal derivation (daadasturebs, 'he/she confirms')."
+7. **Epistemic status:** [CORE]
+
+---
+
+### 3.2 Causative constructions: Y causes X to be corrected / made accurate
+
+**Construction 3.2.1**
+
+1. **Base term:** გასწორება / gasc̣oreba
+2. **Example:** რედაქტორმა შეცდომა გაასწორა
+3. **Transliteration:** redaqtorma šecdoma gaasṭoraˈ
+4. **English translation:** the editor corrected the error; the editor rectified the mistake
+5. **Structural analysis:** [redaqtorma (agent, ergative)] + [šecdoma (object, nominative)] + [gaasṭoraˈ (aorist of gaasṭorebs, "corrects, rectifies")] — the agent causes the object to transition from an incorrect to a correct state. *redaqtorma*, *šecdoma*, and *gaasṭoraˈ* are added elements; gasc̣oreba is the documented base.
+6. **Usage notes:** gasc̣oreba is documented in

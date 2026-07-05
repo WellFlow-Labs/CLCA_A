@@ -1,0 +1,349 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Sanskrit (sa)
+# Transliteration standard: IAST
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step examines how Sanskrit encodes dynamic relations — becoming, causing, ceasing, remaining — involving the truth-related vocabulary documented in P1–P5. The analysis draws exclusively on forms and constructions attested in the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Asymmetries across terms are preserved and reported.
+
+Three preliminary observations bear on the entire analysis:
+
+**1. Sanskrit does not have a single dedicated "become" verb for this domain.** The inchoative function is distributed across *bhavati* (general: comes to be, is), *jāyate* (arises, is produced), *nivartate* (ceases, is removed), and participial constructions. The choice among these is not free; it is conditioned by the specific term and the direction of the transition (arising vs. cessation).
+
+**2. Causative morphology is sparse in this domain.** The morphological causative (*-aya-* suffix) is attested only for the *satyā-* + causative-of-*āp-* pattern (*satyāpana*, *satyāpita*, *satyāpayati*) and for the liturgical causative *gamaya* (*asato mā sad gamaya*). For most truth-related terms, causative meaning is expressed periphrastically through compounds with *karaṇa* or through passive constructions with instrumental agents.
+
+**3. Stability is expressed primarily through the ablative deviation construction** (*ablative + na calati/pracalati/vicalati*) and through the locative + *sthita*/*pratiṣṭhita* construction (*dharme sthitaḥ*, *satye pratiṣṭhitaḥ*). These are the dominant patterns for expressing that a state is maintained rather than changed.
+
+A structural observation governs the analysis: the truth-domain vocabulary of Sanskrit divides into broad behavioral classes with respect to dynamic expression.
+
+**Class A** consists of terms that denote *cognitive states or events* — primarily *pramā*, *bhrama*, *bhrānti*, *viparyaya*, and related epistemological terms. These participate freely in inchoative constructions and in causative constructions, because cognitive states are understood as arising, being produced, and being removed.
+
+**Class B** consists of terms that denote *properties of statements, persons, actions, or objects* — *satya*, *yukta*, *ucita*, *dharma*, *śuddha*, *sādhu*, and related terms. These participate in change-of-state and causative constructions differently: the change is typically expressed as verification, purification, correction, or establishment rather than as a direct predicate-change.
+
+**Class C** consists of terms that denote *levels of reality* — *paramārtha*, *vyāvahārika*, *sat*, *asat*, *tattva*. These participate in dynamic expressions primarily through discourse-marking adverbial constructions and through ontological formulas about arising and non-arising, rather than through change-of-state predicates applied to individuals.
+
+---
+
+## Section 1: X Becomes a Truth-Related State
+
+### 1.1 Arising of valid cognition
+
+**Form:** प्रमा जायते
+**Transliteration:** *pramā jāyate*
+**Literal breakdown:** *pramā* (valid cognition, nominative) + *jāyate* (arises, is produced, third person singular present of root *jan-*)
+**English translation:** Valid cognition arises / true knowledge is produced.
+**Usage:** Attested in Nyāya epistemological literature to describe the production of *pramā* as the outcome of correctly employing a *pramāṇa*. The verb *jāyate* specifically marks *pramā* as the output of a process rather than a standing state. *Jāyate* is not freely substitutable with *bhavati* here — the verb *jāyate* is the conventional verb for the arising of a cognitive state specifically. The subject is the cognitive result (*pramā*), not the agent. This is the only "becoming" construction for *pramā* documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+- Note on directionality: The construction marks a transition from the absence of valid cognition to its presence. The inverse — valid cognition ceasing — is not attested with *pramā* as subject in the CONTEXT. The cessation construction (*nivartate*) is attested only with *mithyājñāna* and *bhrama*/*bhrānti* (see §2.1 below), not with *pramā*.
+- Scope: Restricted to cognitive-state arising. Not attested with *satya*, *ṛta*, *dharma*, or other non-cognitive truth-domain items in this construction.
+
+---
+
+**Form:** प्रमा उत्पद्यते
+**Transliteration:** *pramā utpadyate*
+**Literal breakdown:** *pramā* (valid cognition, nominative) + *utpadyate* (is produced, third person singular present passive of *ut-pad-*, to step forth, to be produced)
+**English translation:** Valid cognition arises / correct apprehension is produced.
+**Usage:** Documented as the standard construction for the arising of valid cognition in epistemological literature. *Utpad-* (passive of *ut-pad-*) takes the arising cognitive state as grammatical subject. The construction describes the outcome of a successful cognitive process without specifying an agent; the arising is presented as an event rather than an action. Functionally parallel to *pramā jāyate*; *jāyate* and *utpadyate* are interchangeable in this construction.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 Becoming an authority: *pramāṇabhūta*
+
+**Form:** प्रमाणभूत
+**Transliteration:** *pramāṇabhūta*
+**Literal breakdown:** *pramāṇa* (valid means of knowledge) + *bhūta* (become, past passive participle of root *bhū-*); "having become an authority"
+**English translation:** One who has become a valid authority / authoritative.
+**Usage:** Attested in Buddhist epistemology as an epithet of the Buddha, characterizing him as one whose cognitions have become reliably valid. Used particularly in Dharmakīrti's characterization of the Buddha as *pramāṇabhūta*. The participial form *bhūta* encodes a completed transition into the state of being authoritative. The form is a compound rather than a free syntactic construction, but it encodes the inchoative meaning through the *bhūta* participle. Compounding is the preferred strategy over periphrasis for this inchoative meaning; the periphrastic *pramāṇaṃ bhavati* ("becomes a valid means of knowledge") is structurally available in Sanskrit but the compound form is the attested one in this domain. No parallel *satya-bhūta*, *dharma-bhūta*, or similar forms are documented in the CONTEXT for this semantic function.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** प्रमाणभूतः (भवति)
+**Transliteration:** *pramāṇabhūtaḥ (bhavati)*
+**English translation:** (one) has become / becomes a valid authority.
+**Usage:** The full periphrastic construction with *bhavati* expressing the change-of-state meaning for a person or source attaining the status of a valid means of cognition. The *bhūta* element (past passive participle of *bhū-*, to become) encodes the change-of-state meaning.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Becoming established in truth: *satye pratiṣṭhitaḥ*
+
+**Form:** सत्ये प्रतिष्ठितः
+**Transliteration:** *satye pratiṣṭhitaḥ*
+**Literal breakdown:** *satye* (in truth, locative of *satya*) + *pratiṣṭhitaḥ* (established, grounded, past passive participle of *prati-* + root *sthā-*)
+**English translation:** Established in truth / grounded in truth.
+**Usage:** Attested in epic and Purāṇic literature to characterize a person whose conduct and character are firmly grounded in truthfulness. The past passive participle *pratiṣṭhita* encodes a resultant state rather than an ongoing process; the construction describes the outcome of having become established rather than the process of becoming. P3 describes *satye pratiṣṭhitaḥ* as "a characterization of the sage or the virtuous person" — a stable achieved state. The locative + *pratiṣṭhita* pattern is noted as productive across ethical vocabulary.
+**Epistemic status:** [CORE]
+
+- Note on the pattern: The locative + *pratiṣṭhita* construction is attested for *satya* and for *dharma* (*dharme sthitaḥ*, see §1.4 below). It is not attested in the CONTEXT for *pramā*, *vastu*, *tattva*, or other epistemological terms. The pattern is restricted to the conduct-evaluating and speech-evaluating groups.
+- The same construction (*pratiṣṭhita* + locative) encodes both the transition into and the stable maintenance of a truth-related state; the past passive participle is ambiguous between the two readings.
+
+---
+
+### 1.4 Becoming established in dharma: *dharme sthitaḥ*
+
+**Form:** धर्मे स्थितः
+**Transliteration:** *dharme sthitaḥ*
+**Literal breakdown:** *dharme* (in dharma, locative of *dharma*) + *sthitaḥ* (standing, established, past passive participle of root *sthā-*)
+**English translation:** Standing in dharma / established in right conduct.
+**Usage:** Attested in epic and Dharmaśāstra literature to characterize a person who is firmly grounded in right conduct. The locative + *sthita* construction encodes a stable resultant state rather than a process of becoming. The pattern is productive across ethical vocabulary.
+**Epistemic status:** [CORE]
+
+- Parallel form: *satye pratiṣṭhitaḥ* ("established in truth," §1.3 above) uses the same locative frame with a different participle (*pratiṣṭhita* rather than *sthita*). Both encode stability in a truth-related state.
+
+---
+
+### 1.5 Becoming determined as *mithyā*: *mithyeti niścitam*
+
+**Form:** मिथ्येति निश्चितम्
+**Transliteration:** *mithyeti niścitam*
+**Literal breakdown:** *mithyā* + *iti* (quotative/predicative particle) + *niścita* (past passive participle of *ni-* + root *ci-*, "to determine, to ascertain")
+**English translation:** It is determined to be false/illusory; it is established as *mithyā*.
+**Usage:** This construction encodes the epistemic transition by which something comes to be classified as *mithyā* — the Advaita Vedāntic category of indeterminate ontological status. The *iti* particle marks the predicated characterization; *niścita* encodes the completed determination. This is a becoming-classified construction rather than a becoming-in-the-world construction.
+**Epistemic status:** [CORE]
+
+- Scope: Attested for *mithyā* specifically. The *iti niścitam* pattern is structurally available for other predicates but no parallel instances with other truth-domain items are documented in the CONTEXT.
+
+---
+
+### 1.6 Arising of erroneous cognition
+
+**Form:** भ्रमः जायते
+**Transliteration:** *bhramaḥ jāyate*
+**Literal breakdown:** *bhramaḥ* (error, nominative) + *jāyate* (arises, is produced)
+**English translation:** Error arises / mistaken cognition comes about.
+**Usage:** Structurally parallel to *pramā utpadyate* and explicitly contrasted with it in epistemological texts. *Jāyate* is interchangeable with *utpadyate* in this construction. The arising of error is presented as an event in the same grammatical frame as the arising of valid cognition.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** भ्रान्तिः जायते / भ्रान्तिः उत्पद्यते
+**Transliteration:** *bhrāntiḥ jāyate* / *bhrāntiḥ utpadyate*
+**Literal breakdown:** *bhrāntiḥ* (error, the state of being in error, nominative) + *jāyate* / *utpadyate*
+**English translation:** Error arises / the state of being mistaken comes about.
+**Usage:** *Bhrānti* (a near-synonym of *bhrama* emphasizing the state of being in error) participates in the same inchoative construction. No difference in construction behavior from *bhrama* is documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** विपर्ययः जायते
+**Transliteration:** *viparyayaḥ jāyate*
+**Literal breakdown:** *viparyayaḥ* (erroneous cognition of the inverted type, nominative) + *jāyate*
+**English translation:** Erroneous cognition (of the inverted type) arises.
+**Usage:** Documented in the construction *viparyayaḥ na bhavati* ("there is no erroneous cognition here"), which implies the positive form *viparyayaḥ bhavati* / *jāyate* as its presupposed counterpart. The inchoative construction is consistent with the Class A pattern but is confined to Sāṃkhya-Yoga philosophical discourse.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 1.7 Ontological arising (Class C)
+
+**Form:** सतः जायते
+**Transliteration:** *sataḥ jāyate*
+**Literal breakdown:** *sataḥ* (from being, ablative of *sat*) + *jāyate* (arises)
+**English translation:** It arises from being / it comes into existence from what is real.
+**Usage:** Part of the philosophical formula *sataḥ na asataḥ jāyate* ("the world arises from being, not from non-being"). The ablative *sataḥ* marks the source of arising; the construction expresses an ontological principle rather than a change of state in an individual. Confined to Vedāntic and Upaniṣadic philosophical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** असतः न जायते
+**Transliteration:** *asataḥ na jāyate*
+**Literal breakdown:** *asataḥ* (from non-being, ablative of *asat*) + *na* (not) + *jāyate*
+**English translation:** It does not arise from non-being / existence does not come from non-existence.
+**Usage:** The negated counterpart of *sataḥ jāyate*, part of the formula *asataḥ sat jāyate iti na* ("it is not the case that being arises from non-being"). The construction denies the possibility of a specific kind of ontological arising.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.8 Result of verification: *satyāpitam bhavati*
+
+**Form:** (वचनम्) सत्यापितम् भवति
+**Transliteration:** *(vacanam) satyāpitam bhavati*
+**Literal breakdown:** *vacanam* (the statement, nominative) + *satyāpitam* (verified, past passive participle of the causative formation on *satya* via *āp-*) + *bhavati* (becomes, is)
+**English translation:** (The statement) becomes verified / is confirmed.
+**Usage:** *Satyāpita* combined with *bhavati* expresses the resultant state of a statement that has undergone verification. *Satyāpita* appears on official documents to indicate that a statement has been verified. The full periphrastic construction with *bhavati* is the natural expression of the resultant state.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.9 No common "becoming" construction for several terms
+
+The following truth-related terms have **no attested "X becomes [truth-related state]" construction** in the CONTEXT:
+
+- **यथार्थ / *yathārtha***: No construction of the form "X becomes accurate" or "X comes to be as the object is" is attested. The term functions as an adjective and adverb; its dynamic use is not documented.
+- **तथ्य / *tathya***: No inchoative construction attested.
+- **वास्तव / *vāstava***: No inchoative construction attested.
+- **वस्तु / *vastu***: No inchoative construction attested. *Vastu* designates a real thing; the question of something "becoming" a *vastu* is not addressed in the attested constructions.
+- **तत्त्व / *tattva***: No inchoative construction attested.
+- **स्वरूप / *svarūpa***: No inchoative construction attested.
+- **साधु / *sādhu*** (grammatical sense): No inchoative construction attested.
+- **औचित्य / *aucitya***: No inchoative construction attested.
+- **निर्णय / *nirṇaya***: No inchoative construction attested.
+
+---
+
+## Section 2: X Becomes a Non-Truth / Opposed State
+
+### 2.1 Cessation of false knowledge: *mithyājñānaṃ nivartate*
+
+**Form:** मिथ्याज्ञानं निवर्तते
+**Transliteration:** *mithyājñānaṃ nivartate*
+**Literal breakdown:** *mithyājñānam* (false knowledge, nominative) + *nivartate* (ceases, is removed, third person singular present of *ni-* + root *vṛt-*)
+**English translation:** False knowledge ceases / erroneous cognition is removed.
+**Usage:** Attested in Vedāntic literature to describe the soteriological removal of *mithyājñāna* through correct knowledge. The verb *nivartate* marks cessation of a negative epistemic state. This is the only "ceasing" construction for *mithyājñāna* documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+- Note on directionality: This construction encodes the transition from the presence of *mithyājñāna* to its absence. It is the inverse of the *pramā jāyate* construction (§1.1): one marks the arising of valid cognition, the other the cessation of false cognition. The two constructions are not syntactically parallel — they use different verbs (*jāyate* vs. *nivartate*) and different subjects (*pramā* vs. *mithyājñāna*) — but they are semantically complementary.
+
+---
+
+### 2.2 Cessation of error: *bhramo nivartate* / *bhramaḥ nivartate*
+
+**Form:** भ्रमो निवर्तते
+**Transliteration:** *bhramo nivartate*
+**Literal breakdown:** *bhramaḥ* (error, illusion, nominative) + *nivartate* (ceases, is removed)
+**English translation:** The error ceases / the illusion is removed.
+**Usage:** Attested in epistemological and Vedāntic literature to describe the corrective resolution of erroneous cognition. The construction is parallel to *mithyājñānaṃ nivartate* and uses the same verb. It marks the transition from the presence of *bhrama* to its absence through correct perception or knowledge. *Nivartate* is the conventional verb for the removal of error in this literature.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** भ्रान्तिः निवर्तते
+**Transliteration:** *bhrāntiḥ nivartate*
+**Literal breakdown:** *bhrāntiḥ* (illusion, error, nominative) + *nivartate* (ceases, is removed)
+**English translation:** The illusion ceases; the error is removed.
+**Usage:** Parallel to *bhramo nivartate*; *nivartate* is the conventional verb for the removal of error in this literature.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 Cessation of illusion through sublation: *bādhena bhrāntiḥ nivartate*
+
+**Form:** बाधेन भ्रान्तिः निवर्तते
+**Transliteration:** *bādhena bhrāntiḥ nivartate*
+**Literal breakdown:** *bādhena* (by sublation/contradiction, instrumental of *bādhā*) + *bhrāntiḥ* (illusion, nominative) + *nivartate* (ceases)
+**English translation:** By sublation/contradiction, the illusion ceases.
+**Usage:** The mechanism by which cognitive error is removed in Nyāya and Vedāntic epistemology. The instrumental *bādhena* marks sublation as the causal instrument of the cessation. The two constructions (*bhrāntiḥ nivartate* and *bādhena bhrāntiḥ nivartate*) encode (a) the cessation of illusion without specifying a cause, and (b) the cessation of illusion caused by *bādhā* (sublation — the overriding of a cognition by stronger contrary evidence).
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 Cessation of erroneous cognition: *bhramaḥ nirasyate*
+
+**Form:** भ्रमः निरस्यते
+**Transliteration:** *bhramaḥ nirasyate*
+**Literal breakdown:** *bhramaḥ* (error, nominative) + *nirasyate* (is dispelled, is refuted, third person singular present passive of *niras-*, to throw out, to dispel)
+**English translation:** Error is dispelled / mistaken cognition is refuted.
+**Usage:** An alternate to *bhramaḥ nivartate*; *niras-* (to throw out, to dispel, to refute) takes the erroneous cognitive state as subject. The compound *bhramanirasā* — "removal of error" — is a standard expression in philosophical commentary for the refutation of an erroneous position.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.5 Becoming free from error: *nirbhrāntaḥ bhavati*
+
+**Form:** निर्भ्रान्तः भवति
+**Transliteration:** *nirbhrāntaḥ bhavati*
+**Literal breakdown:** *nirbhrāntaḥ* (*nir-* + *bhrānta*, "free from error") + *bhavati* (becomes, is)
+**English translation:** (One) becomes free from error / (one) becomes undeluded.
+**Usage:** *Nirbhrānta* combined with *bhavati* expresses the change-of-state meaning for a cognizer who moves from an erroneous to a correct cognitive state. Appears in descriptions of liberated or enlightened states.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 2.6 Cessation of erroneous cognition: *viparyayāt nivṛttiḥ*
+
+**Form:** विपर्ययात् निवृत्तिः
+**Transliteration:** *viparyayāt nivṛttiḥ*
+**Literal breakdown:** *viparyayāt* (from erroneous cognition, ablative of *viparyaya*) + *nivṛttiḥ* (cessation, from *ni-* + root *vṛt-*)
+**English translation:** Cessation from erroneous cognition; freedom from wrong knowledge.
+**Usage:** Used in Sāṃkhya-Yoga literature to describe the goal of overcoming the five types of mental modification (*vṛtti*). The ablative of *viparyaya* with *nivṛtti* encodes the cessation of the erroneous cognitive state as a goal. The nominal construction (*nivṛtti* rather than *nivartate*) is used here rather than the verbal construction.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 2.7 Sublation of erroneous cognition: *bādhita*
+
+**Form:** बाधितम्
+**Transliteration:** *bādhitam*
+**Literal breakdown:** *bādhita* (past passive participle of root *bādh-*, "to obstruct, to contradict")
+**English translation:** Contradicted, sublated, overridden (by a stronger cognition or evidence).
+**Usage:** Characterizes a cognition that has been overridden or shown to be erroneous by a subsequent, stronger cognition. The classic example is the sublation of the rope-snake illusion upon closer inspection. The past passive participle encodes the completed transition from an erroneous to a corrected cognitive state. Closely associated with the *pramāṇa* framework. The corresponding action noun *bādhā* encodes the process itself.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.8 Deviation from truth or dharma: ablative + verb of motion
+
+**Form:** सत्यात् विचलति
+**Transliteration:** *satyāt vicalati*
+**Literal breakdown:** *satyāt* (from truth, ablative of *satya*) + *vicalati* (deviates, swerves, from *vi-* + root *cal-*)
+**English translation:** (One) deviates from truth / (one) swerves from truth.
+**Usage:** Documented in its negated form (*satyāt na vicalati*, "does not swerve from truth") as a characterization of virtuous heroes in epic literature; the positive form expresses the opposed state.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** धर्मात् चलति
+**Transliteration:** *dharmāt calati*
+**Literal breakdown:** *dharmāt* (from dharma, ablative of *dharma*) + *calati* (deviates, moves away from, from root *cal-*)
+**English translation:** (One) deviates from *dharma* / (one) departs from right conduct.
+**Usage:** Documented in its negated form (*dharmāt na calati*, "does not deviate from *dharma*"), parallel in structure to *satyāt na calati*. The positive form expresses the transition to a state of non-conformity with *dharma*. The ablative construction with verbs of motion is the standard pattern for expressing departure from a normative standard.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** सत्यात् न प्रमदितव्यम्
+**Transliteration:** *satyāt na pramaditavyam*
+**Literal breakdown:** *satyāt* (from truth, ablative) + *na* (not) + *pramaditavyam* (gerundive of *pramad-*, "to be negligent, to deviate"; "one must not deviate")
+**English translation:** One must not deviate from truth.
+**Usage:** The gerundive form (*pramaditavyam*) expresses stronger prohibition than the optative. Attested in the negated form as a prescriptive formula.
+**Epistemic status:** [CORE]
+
+---
+
+**Form:** न्यायात् न विचलति
+**Transliteration:** *nyāyāt na vicalati*
+**Literal breakdown:** *nyāyāt* (from right method/justice, ablative of *nyāya*) + *na* (not) + *vicalati* (deviates)
+**English translation:** He/she does not deviate from right method/justice.
+**Usage:** Parallel in structure to *satyāt na calati* and *dharmāt na calati*. The ablative of *nyāya* with a negated verb of motion expresses steadfast adherence to right procedure or justice.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.9 Deviation from a normative standard: ablative + *cyuta*
+
+**Form:** औचित्यात् च्युतम्
+**Transliteration:** *aucityāt cyutam*
+**Literal breakdown:** *aucityāt* (from propriety, ablative of *aucitya*) + *cyutam* (fallen, deviated, past passive participle of root *cyu-*)
+**English translation:** Fallen from propriety / deviated from what is fitting.
+**Usage:** Attested in Sanskrit aesthetic literature as the standard formula for a composition or act that has deviated from the standard of fittingness. The ablative marks the standard from which deviation has occurred; *cyuta* marks the completed transition into a state of deviation.
+**Epistemic status:** [CORE]
+
+- Note on the pattern: The ablative + *cyuta* construction is the standard way of expressing that something has transitioned from a normatively correct state to a deviant one. It is attested for *aucitya* in the CONTEXT. The parallel construction for *satya* (*satyāt na pracalati*, "does not deviate from truth") uses the same ablative frame but negates the deviation rather than asserting it; the positive deviation form (*satyāt cyutam*, "fallen from truth") is structurally available by the same pattern but is not explicitly attested as a fixed phrase in the CONTEXT.
+
+---
+
+### 2.10 Envelopment in falsehood: *anṛtena parivṛttaḥ*
+
+**Form:** अनृतेन परिवृत्तः
+**Transliteration:** *anṛtena parivṛttaḥ*
+**Literal breakdown:** *anṛtena* (by/in falsehood, instrumental of *anṛta*) + *parivṛttaḥ* (surrounded, enveloped, past passive participle of *pari-* + root *vṛt-*)
+**English translation:** Surrounded by / enveloped in falsehood.
+**Usage:** Used in Vedic and post-Vedic literature to characterize a person or state as encompassed by falsehood or disorder. The instrumental of *anṛta* with *parivṛtta* encodes a resultant state of being encompassed by the opposed condition. This is a state-description rather than a process description, but it implies a transition into that state.
+**Epistemic status:** [MARGINAL]
+
+- Scope: Attested for *anṛta* only. No parallel construction with *asatya*, *mithyā*, or *adharma* is documented in the CONTEXT.
+
+---
+
+### 2.11 Prospering through wrongdoing: *adharmeṇa vardhate*
+
+**Form:** अधर्मेण वर्धते
+**Transliteration:** *adharmeṇa vardhate*
+**Literal breakdown:** *adharmeṇa* (through wrongdoing, instrumental of *adharma*) + *vardhate* (prospers, grows, from root *vṛdh-*)
+**English translation:** He/she prospers through *adharma* (wrongdoing).
+**Usage:** Attested in *Manusmṛti* 4.174 in the context of a longer passage about the apparent but ultimately illusory prosperity of the unrighteous. The instrumental of *adharma* encodes the means or instrument of the change of state (prospering). This is a dynamic construction encoding a change of state (*vardhate*) brought about through the

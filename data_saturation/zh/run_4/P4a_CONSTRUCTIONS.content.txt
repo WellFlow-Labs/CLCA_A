@@ -1,0 +1,167 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Chinese (zh)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + 是 + [truth-domain adjective/noun] + 的
+
+### Examples
+- 这是真的。/ Zhè shì zhēn de. / "This is real / true."
+- 这种说法是错误的。/ Zhè zhǒng shuōfǎ shì cuòwù de. / "This way of putting it is erroneous."
+
+### Notes
+The copular verb 是 links subject to predicate; the particle 的 nominalizes the adjective, making it function as a predicate nominal. This is the standard predicative attribution frame for truth-domain adjectives (真, 假, 正确, 错误, 虚假, 可靠, etc.) across all registers.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + 是 + 不/非 + [truth-domain adjective] + 的  
+OR: Subject + 不 + [truth-domain adjective]
+
+### Examples
+- 内容不真实。/ Nèiróng bù zhēnshí. / "The content is not truthful."
+- 这个消息来源不可靠。/ Zhège xiāoxi láiyuán bù kěkào. / "This news source is unreliable."
+
+### Notes
+The negator 不 is the standard negator for most truth-domain adjectives in predicative position; 非 is more formal and restricted (e.g., 非合法). Negation attaches directly before the adjective without additional morphological change to the base form.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[truth-domain adjective/noun] + 的 + Noun
+
+### Examples
+- 真实的情况 / zhēnshí de qíngkuàng / "the true / actual situation"
+- 可靠的来源 / kěkào de láiyuán / "a reliable source"
+
+### Notes
+The structural particle 的 links modifier to head noun; it is obligatory when a disyllabic or longer adjective modifies a noun. Monosyllabic 真 and 假 can modify directly without 的 in fixed compounds (真金 "genuine gold," 假话 "false words"), but disyllabic forms consistently require 的 in attributive position.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[truth-domain base] + 化 (huà)
+
+### Examples
+- 合法化 / héfǎhuà / "to legalize / become legal; legalization"
+- 客观化 / kèguānhuà / "to objectify / render objective; objectification"
+
+### Notes
+The suffix -化 attaches to evaluative adjectives to form a verb/noun meaning "to become X" or "to make X." In this corpus it is attested productively only with 合法 and 客观; other truth-domain adjectives (真实, 正确, 准确) do not take -化 in common usage. The derived form is simultaneously verbal ("to legalize") and nominal ("legalization") without further morphological distinction.
+
+---
+
+## 5. CAUSATIVE
+
+(no common expression identified)
+
+### Notes
+Chinese has no dedicated causative morphology. Causative meanings in the truth domain are expressed periphrastically: 使 + NP + [truth-domain predicate] ("cause NP to be X") or 让 + NP + [truth-domain predicate], but these are general-purpose causative constructions rather than truth-domain-specific patterns. No truth-domain-specific causative construction was identified in the data.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[truth-domain adjective] + 性 (-xìng)  
+OR [truth-domain adjective] + 度 (-dù) (scalar variant)
+
+### Examples
+- 真实性 / zhēnshíxìng / "truthfulness; authenticity; the property of being factually accurate"
+- 可信度 / kěxìndù / "degree of credibility; credibility level"
+
+### Notes
+The suffix -性 is the most productive nominalizer in this corpus, attested with: 真实, 虚假, 正确, 准确, 客观, 可靠, 可信, 公正, 正当, 虚伪, 真理, 实证. It produces abstract nouns denoting an assessable property. The suffix -度 (degree/measure) is attested with 可信 and 失真 where the property is treated as scalar and measurable (可信度 is more frequent than 可信性 in contemporary usage). The two suffixes are not interchangeable: -性 denotes the property as such; -度 denotes its measurable extent.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[verb of deception/fabrication] + 者 (-zhě)
+
+### Examples
+- 伪造者 / wěizàozhě / "forger; counterfeiter; one who fabricates false documents"
+- 假冒者 / jiǎmàozhě / "counterfeiter; impersonator; one who passes off fakes as genuine"
+
+### Notes
+The agentive suffix -者 attaches to verb bases to produce nouns denoting the agent of that action. In this corpus it is attested only with verbs of deliberate deception or fabrication (伪造, 假冒); no parallel agentive form for truth-telling (e.g., *真实者, *如实者) is attested in common usage. The asymmetry reflects the fact that truth-telling is not lexicalized as a role in the same way that forgery and counterfeiting are.
+
+---
+
+## 8. ADVERBIAL MANNER MODIFICATION
+
+### Pattern
+[truth-domain adjective] + 地 (de) + Verb
+
+### Examples
+- 如实陈述 / rúshí chénshù / "to state truthfully; to give a truthful account" (如实 is a fixed adverbial; no 地 required)
+- 客观地评价 / kèguān de píngjià / "to evaluate objectively"
+
+### Notes
+Disyllabic truth-domain adjectives attach the adverbial particle 地 to modify verbs of reporting, describing, evaluating, or depicting (真实地再现, 准确地描述, 错误地理解, 真诚地道歉). The fixed adverbial 如实 ("as the facts are") functions without 地 as a frozen form. This pattern is highly productive across the corpus and is the primary syntactic mechanism for expressing manner of truth-conforming or truth-violating action.
+
+---
+
+## 9. DEGREE SCALAR EVALUATION
+
+### Pattern
+不够 / 足够 / 十分 / 严重 + [truth-domain adjective/verb]
+
+### Examples
+- 数据不够准确。/ Shùjù bùgòu zhǔnquè. / "The data is not accurate enough."
+- 报道严重失真。/ Bàodào yánzhòng shīzhēn. / "The reporting is seriously distorted."
+
+### Notes
+Several truth-domain terms (准确, 失真, 失实, 可信, 虚伪) are treated as scalar properties admitting degree modification. Degree adverbs (不够 "not sufficiently," 十分 "extremely," 严重 "seriously," 部分 "partially") precede the adjective or predicate. This pattern is distinct from binary attribution (Section 1) and reflects the data-supported observation that accuracy and distortion are frequently evaluated as matters of degree rather than as binary judgments.
+
+---
+
+## 10. CORRESPONDENCE FRAME
+
+### Pattern
+与 + [standard/reality NP] + 相符 / 不相符 / 一致 / 不一致
+
+### Examples
+- 与事实相符 / yǔ shìshí xiāngfú / "consistent with the facts; in accordance with the facts"
+- 与实际情况不相符 / yǔ shíjì qíngkuàng bù xiāngfú / "not consistent with the actual situation"
+
+### Notes
+This is a dedicated relational construction expressing correspondence or non-correspondence between a claim and a standard of reality. The coverb 与 ("with; in relation to") introduces the comparandum; 相符 / 不相符 expresses the verdict. This frame is characteristic of legal, administrative, and evidentiary contexts and is the primary syntactic mechanism for expressing the correspondence theory of truth in Chinese institutional discourse.
+
+---
+
+## 11. VERIFICATION RESULT CONSTRUCTION
+
+### Pattern
+经 + [investigation verb] + (,) + [subject] + 属实 / 系伪造 / 失实
+
+### Examples
+- 经查属实 / jīng chá shǔshí / "verified as true upon investigation"
+- 经鉴定系伪造 / jīng jiàndìng xì wěizào / "determined through authentication to be a forgery"
+
+### Notes
+The coverb 经 ("through; upon; having undergone") introduces the verification process; the result predicate (属实 "confirmed as accurate," 系伪造 "is a forgery," 失实 "is inaccurate") follows. This construction is specific to administrative, legal, and regulatory registers and functions as a formulaic reporting structure for the outcome of official fact-checking or authentication procedures.
+
+---
+
+## 12. CONCEALMENT / REVELATION FRAME
+
+### Pattern
+[Reveal verb: 揭露/查明/还原] / [Conceal verb: 掩盖/隐瞒] + 真相 / 实情 / 真实情况
+
+### Examples
+- 揭露真相 / jiēlù zhēnxiàng / "to expose the truth; to reveal the true facts"
+- 掩盖真相 / yǎngài zhēnxiàng / "to cover up the truth; to conceal the true facts"
+
+### Notes
+This construction pairs 真相 (or 实情, 真实情况) with verbs that are semantically oriented toward either disclosure or suppression of information. The verb slot is not freely filled: the data shows a stable set of reveal-verbs (揭露, 查明, 了解, 还原) and conceal-verbs (掩盖, 隐瞒, 封锁) that collocate with 真相. The construction presupposes that the truth is hidden and frames the event as a dynamic of exposure or suppression.

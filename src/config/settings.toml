@@ -1,0 +1,16 @@
+backend = "anthropic"
+model_name = "claude-sonnet-4-5"
+temperature = 0.2
+max_tokens = 16000
+retry_attempts = 5
+request_timeout = 300.0
+tpm_limit = 400000  # Tier 3/4 limit for parallel execution
+
+[phase.P]
+max_tokens = 16000
+
+[phase.F]
+max_tokens = 16000
+
+[phase.G]
+max_tokens = 64000

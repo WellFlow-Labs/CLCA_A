@@ -1,0 +1,335 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Sanskrit (sa)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Sanskrit encodes dynamic truth-related meanings — becoming, ceasing, causing, and stabilizing — using only vocabulary attested in the CONTEXT (P1 through P5). The analysis proceeds term by term where behavior differs, and by construction type where a pattern applies across multiple items. Asymmetries are preserved throughout: some items participate in dynamic constructions; others do not. Where no common expression exists, this is stated explicitly.
+
+Sanskrit is a highly synthetic language. Many dynamic meanings that analytic languages express periphrastically are handled in Sanskrit through morphological causatives, compounding, or participial constructions. This structural fact shapes the inventory below.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1a. Arising of valid cognition: *pramā jāyate*
+
+**Pattern:** [Truth-related nominal in nominative] + *jāyate* (from root *jan-*, "to be born, to arise")
+
+**Attested example:**
+- प्रमा जायते — *pramā jāyate* — "Valid cognition arises / is produced"
+
+**Source:** P2b Construction 20; P4a §4; P4b table entry.
+
+**Notes:** This is the standard formula in *Nyāya* literature for the production of valid cognition as the result of a successful *pramāṇa*. P4b explicitly states that *jāyate* is "not freely substitutable with *bhavati* here" — the verb *jāyate* is the conventional verb for the arising of a cognitive state specifically. The subject is the cognitive result (*pramā*), not the agent.
+
+**Scope:** Restricted to cognitive-state arising. Not attested with *satya*, *ṛta*, *dharma*, or other non-cognitive truth-domain items in this construction.
+
+---
+
+### 1b. Becoming an authority: *pramāṇa-bhūta*
+
+**Pattern:** [Truth-domain nominal] + *bhūta* (past passive participle of root *bhū-*, "to become") as a lexicalized compound
+
+**Attested example:**
+- प्रमाणभूतः — *pramāṇabhūtaḥ* — "one who has become an authority / a recognized standard"
+
+**Source:** P1b Root 2 item 3; P2a #21; P4a §4; P4b table entry.
+
+**Notes:** P4b notes that "compounding is the preferred strategy over periphrasis" for this inchoative meaning. The compound *pramāṇa-bhūta* lexicalizes the result of the becoming; the periphrastic *pramāṇaṃ bhavati* ("becomes a *pramāṇa*") is structurally available in Sanskrit but the compound form is the attested one in this domain.
+
+**Scope:** Attested for *pramāṇa*. The *-bhūta* compounding pattern is productive in Sanskrit generally, but no parallel *satya-bhūta*, *dharma-bhūta*, or similar forms are documented in the CONTEXT for this semantic function.
+
+---
+
+### 1c. Becoming established in a truth-related state: *satye pratiṣṭhitaḥ*
+
+**Pattern:** Locative of truth-domain nominal + *pratiṣṭhita* (past passive participle of *prati-* + root *sthā-*, "to stand firm, to be established")
+
+**Attested examples:**
+- सत्ये प्रतिष्ठितः — *satye pratiṣṭhitaḥ* — "established in truth; grounded in truth" (P2b #5)
+- धर्मे स्थितः — *dharme sthitaḥ* — "established in *dharma*; standing firm in duty" (P2b #26)
+
+**Source:** P2b Constructions 5 and 26; P3 Group 1 and Group 2.
+
+**Notes:** These participial constructions describe a stable resultant state rather than a process of becoming. The past passive participle (*pratiṣṭhita*, *sthita*) encodes the completed transition into the state. The locative of the truth-domain nominal specifies the state in which the subject is established. P3 describes *satye pratiṣṭhitaḥ* as "a characterization of the sage or the virtuous person" — a stable achieved state.
+
+**Scope:** Attested for *satya* and *dharma*. The pattern is structurally available for other locative-taking nominals but no further instances are documented in the CONTEXT.
+
+---
+
+### 1d. Becoming determined as *mithyā*: *mithyeti niścitam*
+
+**Pattern:** *mithyā* + *iti* (quotative/predicative particle) + *niścita* (past passive participle of *ni-* + root *ci-*, "to determine, to ascertain")
+
+**Attested example:**
+- मिथ्येति निश्चितम् — *mithyeti niścitam* — "It is determined to be false/illusory; it is established as *mithyā*" (P2b #67)
+
+**Source:** P2b Construction 67; P3 Group 5.
+
+**Notes:** This construction encodes the epistemic transition by which something comes to be classified as *mithyā* — the Advaita Vedāntic category of indeterminate ontological status. The *iti* particle marks the predicated characterization; *niścita* encodes the completed determination. This is a becoming-classified construction rather than a becoming-in-the-world construction.
+
+**Scope:** Attested for *mithyā* specifically. The *iti niścitam* pattern is structurally available for other predicates but no parallel instances with other truth-domain items are documented in the CONTEXT.
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE
+
+### 2a. Deviation from truth or dharma: *dharmāt na calati* / *satyāt na pramaditavyam*
+
+**Pattern:** Ablative of truth-domain nominal + verb of deviation (*cal-*, "to move away"; *pramad-*, "to be negligent, to deviate")
+
+**Attested examples:**
+- धर्मात् न चलति — *dharmāt na calati* — "He/she does not deviate from *dharma*" (P2b #27)
+- सत्यात् न प्रमदितव्यम् — *satyāt na pramaditavyam* — "One must not deviate from truth" (P2b #6)
+- न्यायात् न विचलति — *nyāyāt na vicalati* — "He/she does not deviate from right method/justice" (P2b #49)
+
+**Source:** P2b Constructions 6, 27, 49; P4a §9; P4b table entry; P5 Opposition 34.
+
+**Notes:** These constructions encode the potential transition away from a truth-related state, consistently in negated form in the attested data. The ablative of separation with verbs of movement (*cal-*, *vical-*, *pramad-*) is the standard Sanskrit construction for expressing deviation from a norm. P5 Opposition 34 notes that the gerundive form (*pramaditavyam*) expresses stronger prohibition than the optative. The positive (non-negated) form — "he deviates from *dharma*" — is structurally available but the negated form is what is documented as formulaic in the CONTEXT.
+
+**Scope:** Attested for *satya*, *dharma*, *nyāya*. The ablative-of-separation pattern is structurally available for other truth-domain nominals but no further formulaic instances are documented.
+
+---
+
+### 2b. Envelopment in falsehood: *anṛtena parivṛttaḥ*
+
+**Pattern:** Instrumental of falsehood-domain nominal + *parivṛtta* (past passive participle of *pari-* + root *vṛt-*, "to surround, to envelop")
+
+**Attested example:**
+- अनृतेन परिवृत्तः — *anṛtena parivṛttaḥ* — "Surrounded by / enveloped in falsehood" (P2b #12)
+
+**Source:** P2b Construction 12; P3 Group 2.
+
+**Notes:** P2b marks this construction as [MARGINAL] and describes it as used "in Vedic and post-Vedic literature to characterize a person or state as encompassed by falsehood or disorder." The instrumental of *anṛta* with *parivṛtta* encodes a resultant state of being encompassed by the opposed condition. This is a state-description rather than a process description, but it implies a transition into that state.
+
+**Scope:** Attested for *anṛta* only. No parallel construction with *asatya*, *mithyā*, or *adharma* is documented in the CONTEXT.
+
+---
+
+### 2c. Prospering through wrongdoing: *adharmeṇa vardhate*
+
+**Pattern:** Instrumental of *adharma* + *vardhate* (from root *vṛdh-*, "to grow, to prosper")
+
+**Attested example:**
+- अधर्मेण वर्धते — *adharmeṇa vardhate* — "He/she prospers through *adharma* (wrongdoing)" (P2b #29)
+
+**Source:** P2b Construction 29; P3 Group 2.
+
+**Notes:** P2b notes this is attested in *Manusmṛti* 4.174 "in the context of a longer passage about the apparent but ultimately illusory prosperity of the unrighteous." The instrumental of *adharma* encodes the means or instrument of the change of state (prospering). This is a dynamic construction encoding a change of state (*vardhate*) brought about through the opposed truth-domain condition.
+
+**Scope:** Attested for *adharma* only in this construction.
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE
+
+### 3a. Morphological causative: *gamaya* (leading from unreal to real)
+
+**Pattern:** Causative imperative of *gam-* (*gamaya*, "cause to go / lead") with ablative of source (*asataḥ*) and accusative of goal (*sat*)
+
+**Attested example:**
+- असतो मा सद्गमय — *asato mā sad gamaya* — "Lead me from the unreal to the real" (P2b #33/34; P4a §5)
+
+**Source:** P2b Constructions 33/34; P4a §5; P4b table entry; P5 Opposition 30.
+
+**Notes:** P4a identifies this as a morphological causative (not periphrastic); P4b notes it is a "fixed liturgical formula from *Bṛhadāraṇyaka Upaniṣad*" and that "no periphrastic alternate is attested for this formula." The causative encodes an agent (the deity addressed) causing a subject (*mā*, "me") to transition from the ontological state of *asat* to the ontological state of *sat*. This is the most directly attested causative of a truth-related ontological transition in the CONTEXT.
+
+**Scope:** This specific formula is fixed and liturgical. The morphological causative pattern is fully productive in Sanskrit but no other causative of a truth-domain ontological transition is documented as formulaic in the CONTEXT.
+
+---
+
+### 3b. Denominative causative: *satyāpayati* (verifying / authenticating)
+
+**Pattern:** Denominative causative from *satya* (*satyāpayati*, "causes to be true / verifies")
+
+**Attested example:**
+- सत्यापयति — *satyāpayati* — "He/she verifies / authenticates" (P4a §5; P2a #13)
+
+**Source:** P2a #13 (*satyāpana*); P4a §5; P4b table entry.
+
+**Notes:** P4b marks this as [MARGINAL] and notes it is "productive in legal and administrative contexts; not attested as a general philosophical or literary formula." The denominative causative *satyāpayati* encodes causing something to be established as true or verified. The corresponding action noun *satyāpana* ("verification, authentication") and past passive participle *satyāpita* ("verified, authenticated") are also documented in P2a (#13, #5).
+
+**Scope:** Attested for *satya* in legal and administrative contexts. No parallel denominative causative from *ṛta*, *dharma*, *pramāṇa*, or other truth-domain items is documented in the CONTEXT.
+
+---
+
+### 3c. Causing valid cognition: *pramāyāḥ karaṇaṃ pramāṇam*
+
+**Pattern:** Genitive of *pramā* + *karaṇa* (instrument, from root *kṛ-*) + *pramāṇa* as predicate nominal
+
+**Attested example:**
+- प्रमायाः करणं प्रमाणम् — *pramāyāḥ karaṇaṃ pramāṇam* — "The instrument of valid cognition is the *pramāṇa*" (P2b #21)
+
+**Source:** P2b Construction 21; P4a §4.
+
+**Notes:** This is a definitional construction encoding the causal-instrumental relationship between *pramāṇa* (the means) and *pramā* (the result). It does not use a verbal causative but encodes causation through the nominal *karaṇa* (instrument). P2b describes it as "a standard technical formula in the epistemological literature." The construction identifies what causes valid cognition to arise rather than describing the process of causing it.
+
+**Scope:** Specific to the *pramāṇa* / *pramā* relationship. No parallel *karaṇa* construction is documented for other truth-domain pairs in the CONTEXT.
+
+---
+
+### 3d. Causing liberation through truth-vision: *tattva-darśanena mokṣaḥ*
+
+**Pattern:** Instrumental of *tattva-darśana* (seeing/vision of the real nature) + *mokṣa* (liberation) as subject
+
+**Attested example:**
+- तत्त्वदर्शनेन मोक्षः — *tattva-darśanena mokṣaḥ* — "Liberation through the vision of truth/reality" (P2b #45)
+
+**Source:** P2b Construction 45; P3 Group 8.
+
+**Notes:** The instrumental of *tattva-darśana* encodes the means by which liberation (*mokṣa*) is caused or brought about. This is a nominal causative construction (instrumental of means) rather than a verbal causative. P2b describes it as "a standard formula in soteriological literature." The construction encodes the causal role of truth-cognition in producing a soteriological outcome.
+
+**Scope:** Attested for *tattva* in Vedāntic soteriological contexts. No parallel construction with *satya*, *pramā*, or other truth-domain items producing *mokṣa* is documented in the CONTEXT.
+
+---
+
+### 3e. Causing the removal of false knowledge: *samyag-jñānena mithyājñānaṃ nivartate*
+
+**Pattern:** Instrumental of correct-knowledge nominal + *mithyā-jñāna* as subject + *nivartate* (from *ni-* + root *vṛt-*, "to turn back, to cease")
+
+**Attested example:**
+- मिथ्याज्ञानं निवर्तते सम्यग्ज्ञानेन — *mithyājñānaṃ nivartate samyag-jñānena* — "False knowledge is removed by correct knowledge" (P2b #68)
+
+**Source:** P2b Construction 68; P3 Group 4; P5 Opposition 28.
+
+**Notes:** The instrumental of *samyag-jñāna* (correct knowledge — not a P1 item but attested in P2b as the explicit counterpart of *mithyā-jñāna*) encodes the agent or instrument that causes the cessation of false knowledge. The verb *nivartate* encodes the cessation of the false state. P2b describes this as "a standard formula in Advaita Vedānta." The construction encodes causation of a transition out of a false cognitive state.
+
+**Scope:** Attested for *mithyā-jñāna* in Advaita Vedāntic contexts. The parallel construction *bādhena bhrāntiḥ nivartate* (see §4a below) encodes the same causal structure for *bhrānti*.
+
+---
+
+## 4. CESSATION OF A TRUTH-OPPOSED STATE
+
+### 4a. Cessation of illusion: *bhrāntiḥ nivartate* / *bādhena bhrāntiḥ nivartate*
+
+**Pattern:** *bhrānti* as subject + *nivartate* (from *ni-* + root *vṛt-*, "to turn back, to cease"); optionally with instrumental of *bādhā* (sublation) as the causal instrument
+
+**Attested examples:**
+- भ्रान्तिः निवर्तते — *bhrāntiḥ nivartate* — "The illusion ceases; the error is removed" (P2b #58)
+- बाधेन भ्रान्तिः निवर्तते — *bādhena bhrāntiḥ nivartate* — "By sublation/contradiction, the illusion ceases" (P2b #59)
+
+**Source:** P2b Constructions 58 and 59; P3 Group 4; P5 Opposition 27.
+
+**Notes:** P2b describes *nivartate* as "the conventional verb for the removal of error in this literature." The two constructions encode (a) the cessation of illusion without specifying a cause, and (b) the cessation of illusion caused by *bādhā* (sublation — the overriding of a cognition by stronger contrary evidence). P2b describes the second as "the mechanism by which cognitive error is removed" in *Nyāya* and Vedāntic epistemology.
+
+**Scope:** Attested for *bhrānti* with *nivartate*. The parallel construction *mithyājñānaṃ nivartate* (§3e above) uses the same verb for *mithyā-jñāna*, indicating that *nivartate* is the general conventional verb for the cessation of false cognitive states in this literature.
+
+---
+
+### 4b. Cessation of erroneous cognition through sublation: *bādhita*
+
+**Pattern:** *bādhita* (past passive participle of root *bādh-*, "to obstruct, to contradict") as predicate adjective
+
+**Attested example:**
+- (cognition) बाधितम् — *bādhitam* — "contradicted, sublated, overridden (by a stronger cognition or evidence)" (P1b Root 2 #23; P2a #23)
+
+**Source:** P1b Root 2 item 23; P3 Group 3.
+
+**Notes:** P1b describes *bādhita* as characterizing "a cognition that has been overridden or shown to be erroneous by a subsequent, stronger cognition," with the classic example being "the sublation of the rope-snake illusion upon closer inspection." The past passive participle encodes the completed transition from an erroneous to a corrected cognitive state. P1b notes this is "closely associated with the *pramāṇa* framework."
+
+**Scope:** Attested as a predicate adjective applied to cognitions. The corresponding action noun *bādhā* (P1b Root 2 #24) encodes the process itself.
+
+---
+
+### 4c. Cessation of erroneous cognition: *viparyayāt nivṛttiḥ*
+
+**Pattern:** Ablative of *viparyaya* + *nivṛtti* (cessation, from *ni-* + root *vṛt-*)
+
+**Attested example:**
+- विपर्ययात् निवृत्तिः — *viparyayāt nivṛttiḥ* — "Cessation from erroneous cognition; freedom from wrong knowledge" (P2b #61)
+
+**Source:** P2b Construction 61; P3 Group 4.
+
+**Notes:** P2b marks this as [MARGINAL] and describes it as used "in *Sāṃkhya-Yoga* literature to describe the goal of overcoming the five types of mental modification (*vṛtti*)." The ablative of *viparyaya* with *nivṛtti* encodes the cessation of the erroneous cognitive state as a goal. The nominal construction (*nivṛtti* rather than *nivartate*) is used here rather than the verbal construction in §4a.
+
+**Scope:** Attested for *viparyaya* in *Sāṃkhya-Yoga* contexts.
+
+---
+
+## 5. STABILITY IN A TRUTH-RELATED STATE
+
+### 5a. Abiding in one's own nature: *svarūpeṇa avatiṣṭhate*
+
+**Pattern:** Instrumental of *svarūpa* + *avatiṣṭhate* (from *ava-* + root *sthā-*, "to stand, to abide")
+
+**Attested example:**
+- स्वरूपेण अवतिष्ठते — *svarūpeṇa avatiṣṭhate* — "It stands/abides in its own nature; it exists as it truly is" (P2b #40)
+
+**Source:** P2b Construction 40; P3 Group 8.
+
+**Notes:** P2b notes the *Yogasūtra* 1.3 formula *svarūpe 'vasthānam* (locative variant: "the seer's abiding in its own nature") as the more precisely attested form. The construction encodes stable self-identity in one's true nature — the condition of not being displaced into a false or distorted state. This is the positive counterpart to the deviation constructions in §2a.
+
+**Scope:** Attested for *svarūpa* in *Yoga* philosophical contexts.
+
+---
+
+### 5b. Established in truth: *satye pratiṣṭhitaḥ* (cross-reference)
+
+Already documented under §1c above. The same construction (*pratiṣṭhita* + locative) encodes both the transition into and the stable maintenance of a truth-related state; the past passive participle is ambiguous between the two readings, and P2b's description ("firmly grounded in truth") emphasizes the stable state.
+
+---
+
+### 5c. Protecting and being protected by dharma: *dharmo rakṣati rakṣitaḥ*
+
+**Pattern:** *dharma* as subject + *rakṣati* (from root *rakṣ-*, "to protect") + *rakṣita* (past passive participle, "protected") as predicate adjective
+
+**Attested example:**
+- धर्मो रक्षति रक्षितः — *dharmo rakṣati rakṣitaḥ* — "*Dharma* protects the one who protects it" (P2b #25)
+
+**Source:** P2b Construction 25; P3 Group 2.
+
+**Notes:** P2b describes this as "a well-known maxim from *Manusmṛti* (8.15)." The construction encodes a reciprocal stability relationship: maintaining *dharma* (the truth-related state) causes *dharma* to maintain the agent in turn. This is a dynamic stability construction — the truth-related state is not static but actively sustained through reciprocal action.
+
+**Scope:** Attested for *dharma* only in this specific proverbial form.
+
+---
+
+## 6. ITEMS FOR WHICH NO DYNAMIC CONSTRUCTION IS DOCUMENTED
+
+The following P1 items appear in the CONTEXT only in static attributive, predicative, or classificatory constructions. No becoming, causing, or ceasing construction is documented for them in the CONTEXT data:
+
+- **ऋत / *ṛta*** (#2): Appears in Vedic epithets, formulaic pairings, and path-expressions; no dynamic construction documented.
+- **यथार्थ / *yathārtha*** (#7) and **अयथार्थ / *ayathārtha*** (#8): Appear as attributive adjectives modifying *jñāna*; no becoming or causing construction documented.
+- **वास्तव / *vāstava*** (#13): Appears as an attributive adjective; no dynamic construction documented.
+- **वस्तु / *vastu*** (#14): Appears in adverbial (*vastutaḥ*) and compound forms; no becoming or causing construction documented beyond the *vastu puruṣatantraṃ na bhavati* formula (P2b #39), which is a static denial rather than a dynamic construction.
+- **तत्त्व / *tattva*** (#16): Appears in adverbial (*tattvataḥ*), compound, and soteriological constructions; the *tattva-darśanena mokṣaḥ* construction (§3d) is the only dynamic instance documented.
+- **औचित्य / *aucitya*** (#17): Appears in prescriptive and definitional constructions; no becoming or causing construction documented.
+- **न्याय / *nyāya*** (#18): Appears in instrumental (*nyāyena siddham*) and ablative (*nyāyāt na vicalati*) constructions; the ablative construction is documented under §2a.
+- **साधु / *sādhu*** (#19) and **असाधु / *asādhu*** (#20): Appear in grammatical evaluation formulas; no dynamic construction documented.
+- **प्रतिभास / *pratibhāsa*** (#21): Appears in predicative and ontological constructions; no becoming or causing construction documented.
+- **विपर्यय / *viparyaya*** (#23): The cessation construction is documented under §4c; no becoming or causing construction documented.
+- **आभास / *ābhāsa*** (#24): Appears in denial formulas (*ābhāsamātram na vastu*); no dynamic construction documented.
+- **शुद्ध / *śuddha*** (#25): The prescriptive *śuddhiḥ kriyatām* (P2b #65) encodes an action to be performed but is a normative injunction rather than a description of a dynamic process; no becoming or causing construction documented.
+- **कृत्रिम / *kṛtrima*** (#27) and **अकृत्रिम / *akṛtrima*** (#28): Appear only as attributive adjectives; no dynamic construction documented.
+- **साक्षात् / *sākṣāt*** (#29): Appears as an adverb in perceptual and experiential constructions; no dynamic construction documented.
+- **यथावत् / *yathāvat*** (#30): Appears as an adverb in descriptive and normative constructions; no dynamic construction documented.
+
+---
+
+## Summary of Attested Dynamic Patterns
+
+| Dynamic Type | Attested Items | Primary Construction | Epistemic Status |
+|---|---|---|---|
+| Arising of cognitive state | *pramā* | *pramā jāyate* | [CORE] |
+| Becoming an authority | *pramāṇa* | *pramāṇa-bhūta* (compound) | [CORE] |
+| Becoming established in truth/dharma | *satya*, *dharma* | locative + *pratiṣṭhita* / *sthita* | [CORE] |
+| Becoming classified as *mithyā* | *mithyā* | *mithyeti niścitam* | [CORE] |
+| Deviation from truth/dharma/nyāya | *satya*, *dharma*, *nyāya* | ablative + *cal-* / *pramad-* (negated) | [CORE] |
+| Envelopment in falsehood | *anṛta* | instrumental + *parivṛtta* | [MARGINAL] |
+| Prospering through wrongdoing | *adharma* | instrumental + *vardhate* | [CORE] |
+| Causing ontological transition | *sat* / *asat* | causative *gamaya* (liturgical formula) | [CORE] |
+| Causing verification | *satya* | denominative causative *satyāpayati* | [MARGINAL] |
+| Causing valid cognition | *pramāṇa* / *pramā* | *pramāyāḥ karaṇaṃ pramāṇam* (nominal) | [CORE] |
+| Causing liberation through truth-vision | *tattva* | instrumental *tattva-darśanena* + *mokṣa* | [CORE] |
+| Causing removal of false knowledge | *mithyā-jñāna* | instrumental *samyag-jñānena* + *nivartate* | [CORE] |
+| Cessation of illusion | *bhrānti* | *bhrāntiḥ nivartate* / *bādhena bhrāntiḥ nivartate* | [CORE] |
+| Sublation of erroneous cognition | *bādhita* | predicate participle | [CORE] |
+| Cessation of erroneous cognition | *viparyaya* | ablative + *nivṛtti* | [MARGINAL] |
+| Abiding in own nature | *svarūpa* | instrumental + *avatiṣṭhate* | [CORE] |
+| Reciprocal stability of dharma | *dharma* | *dharmo rakṣati rakṣitaḥ* (proverbial) | [CORE] |
+
+---
+
+*End of P6 Change, Causation, and Stability for Sanskrit (sa)*

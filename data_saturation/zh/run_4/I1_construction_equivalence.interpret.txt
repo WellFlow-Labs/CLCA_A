@@ -1,0 +1,99 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+# Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Construction 1 (Attribution): Subject + 是 + [truth-domain adj/noun] + 的; Construction 2 (Negative Attribution): Subject + 不 + [truth-domain adj] | 这是真的。/ 这种说法是错误的。/ 内容不真实。 | Direct mapping; no substitution required | None |
+| **ADNOM** | Construction 3 (Adnominal Modification): [truth-domain adj] + 的 + Noun | 真实的情况 / 可靠的来源 | Direct mapping; no substitution required | None |
+| **BECOME** | Construction 4 (Inchoative -化): [truth-domain base] + 化 | 合法化 / 客观化 | Partially available; productive only with 合法 and 客观; other truth-domain adjectives (真实, 正确, 准确) do not take -化 in common usage | Lexical gap: -化 is morphosyntactically available but lexically restricted within the truth domain |
+| **REVELATION** | Construction 12 (Concealment/Revelation Frame): [Reveal verb] + 真相/实情/真实情况 | 揭露真相 / 查明真相 / 还原真相 | Direct mapping to REVELATION; no substitution required | None |
+| **CAUSATION (factual)** | Construction 5 (Causative): no truth-domain-specific form attested; general-purpose 使/让 + NP + [truth-domain predicate] available | *(no attested truth-domain-specific example)* | **SUBSTITUTED BY** general-purpose causative constructions (使/让 + NP + predicate); these are not truth-domain-specific | Morphosyntactic gap: no dedicated truth-domain causative construction; circumlocution via general-purpose operators required |
+| **CAUSATION (character)** | No construction attested in P4a or P4b | — | **MISSING (structural gap)** | Structural gap: no construction expressing "X causes someone to be a truthful/deceptive person" is attested in the data |
+| **VERIFICATION** | Construction 11 (Verification Result Construction): 经 + [investigation verb] + 属实/系伪造/失实 | 经查属实 / 经鉴定系伪造 | Direct mapping; register-restricted to formal institutional discourse | None (register restriction noted but not a gap) |
+| **DISCONFIRMATION** | Construction 11 (Verification Result Construction, negative outcome): 经 + [investigation verb] + 失实/系伪造; Construction 10 (Correspondence Frame, negated): 与 + [standard NP] + 不相符/不一致 | 经查失实 / 与实际情况不相符 | Partially shared with VERIFICATION construction (Construction 11 covers both confirmation and disconfirmation outcomes); Construction 10 provides an additional disconfirmation frame | None; VERIFICATION and DISCONFIRMATION share Construction 11 with different result predicates |
+| **NEGATION** | Construction 2 (Negative Attribution): Subject + 不 + [truth-domain adj]; 是 + 不/非 + [truth-domain adj] + 的 | 内容不真实。/ 这个消息来源不可靠。 | Direct mapping; negation is analytic (separate negator 不 or 非 preceding the adjective); no morphological change to the base form | None |
+| **NOMINALIZATION** | Construction 6 (Abstract Nominalization): [truth-domain adj] + 性 or + 度; Construction 7 (Agentive Nominalization): [deception/fabrication verb] + 者 | 真实性 / 可信度 / 伪造者 / 假冒者 | Direct mapping for abstract nominalization (-性, -度) and agentive nominalization (-者); agentive nominalization is asymmetric (deception-role only) | Asymmetric gap: agentive nominalization (-者) is attested only for deception/fabrication roles; no parallel truth-telling agentive is attested |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 CAUSATION (factual): Substitution by general-purpose operators
+
+No truth-domain-specific causative construction is attested in the data. The general-purpose causative constructions 使 + NP + [truth-domain predicate] and 让 + NP + [truth-domain predicate] can express causative meanings within the truth domain (e.g., a situation causing a claim to become accurate or inaccurate), but these constructions are not specific to the truth domain and are not listed among the attested truth-domain constructions in P4a. The CAUSATION (factual) operator is therefore **substituted by** these general-purpose periphrastic constructions. This is a morphosyntactic gap: the language has no dedicated truth-domain causative morpheme or frame, and the general-purpose operators serve as the only available mechanism.
+
+### 2.2 CAUSATION (character): No substitution attested
+
+No construction expressing the meaning "X causes someone to become a truthful or deceptive person" (i.e., causation affecting a person's truth-related character or disposition) is attested anywhere in P4a or P4b. The general-purpose causative constructions noted under CAUSATION (factual) could in principle be extended to this meaning, but no such usage is attested in the data. This is treated as a structural gap rather than a substitution.
+
+### 2.3 BECOME: Lexically restricted, not fully substituted
+
+The inchoative -化 construction (Construction 4) is morphosyntactically available and productive in Chinese generally, but within the truth domain it is attested only with 合法 (合法化) and 客观 (客观化). Other truth-domain adjectives (真实, 正确, 准确, 可靠, 虚假) do not take -化 in common usage according to the P4b notes. This means the BECOME operator is partially available: the morphosyntactic mechanism exists, but its application within the truth domain is lexically restricted. There is no evidence in the data that REVELATION (Construction 12) substitutes for BECOME in Chinese; the two constructions serve distinct functions (REVELATION expresses the dynamic of exposing hidden truth; BECOME expresses a change of state). No substitution relationship between them is supported by the data.
+
+### 2.4 VERIFICATION and DISCONFIRMATION: Shared construction with differentiated result predicates
+
+Construction 11 (Verification Result Construction) covers both VERIFICATION and DISCONFIRMATION outcomes. The same syntactic frame — 经 + [investigation verb] + result predicate — is used for both: 经查属实 expresses a positive verification outcome, while 经查失实 and 经鉴定系伪造 express disconfirmation outcomes. The two operators are not expressed by separate constructions; they share the same frame and are differentiated only by the choice of result predicate (属实 vs. 失实 / 系伪造). Additionally, Construction 10 (Correspondence Frame) provides a second syntactic mechanism specifically for DISCONFIRMATION (与实际情况不相符), which has no parallel positive-verification counterpart of the same type in the data (与事实相符 is attested but is less specifically a "result of investigation" frame than Construction 11). DISCONFIRMATION therefore has access to two constructions (10 and 11), while VERIFICATION in the strict sense of a confirmed positive outcome is primarily expressed through Construction 11 alone.
+
+### 2.5 Positive/negative asymmetry in ATTRIBUTION
+
+The data shows no structural asymmetry in the ATTRIBUTION construction itself: both positive attribution (Construction 1: Subject + 是 + [truth-domain adj] + 的) and negative attribution (Construction 2: Subject + 不 + [truth-domain adj]) are fully attested and rated [CORE]. The negation is analytic throughout: the negator 不 (or the more formal 非) is a separate morpheme that precedes the adjective without altering its base form. There is no morphological negation (no negative prefix fused to the adjective stem) in this domain.
+
+### 2.6 Agentive nominalization: Deception-only asymmetry
+
+The agentive -者 construction (Construction 7) is attested only with verbs of deliberate deception or fabrication (伪造者, 假冒者). No parallel agentive form for truth-telling roles (e.g., *真实者, *如实者) is attested in common usage. The P4b notes explicitly flag this asymmetry. This is an asymmetric lexical gap: the morphosyntactic mechanism (-者 suffixation) is available, but it is not applied to truth-telling verb bases in the attested data.
+
+### 2.7 REVELATION: No substitution for BECOME
+
+As noted in 2.3 above, the data does not support the claim that REVELATION substitutes for BECOME in Chinese. REVELATION (Construction 12) is a frame involving a dynamic agent who exposes or conceals truth (揭露真相, 掩盖真相); BECOME (Construction 4) is an inchoative construction expressing a change of state (合法化, 客观化). These are functionally and syntactically distinct, and no overlap or substitution relationship between them is attested in the data.
+
+### 2.8 DISCOVERY as a potential substitute for CAUSATION
+
+The P4a and P4b data do not identify a DISCOVERY construction as a separate category. The Verification Result Construction (Construction 11) involves a process of investigation (经查, 经鉴定) that could be described as discovery-adjacent, but it is classified in the data as a verification/result frame, not a causation frame. No evidence in the data supports treating DISCOVERY as a substitute for CAUSATION in Chinese.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character):** No construction expressing "X causes someone to be/become a truthful or deceptive person" is attested. The general-purpose causative constructions (使/让 + NP + predicate) are available in principle but are not attested in this function in the data, and no truth-domain-specific causative construction exists. This is a structural gap.
+
+### 3.2 Lexical Gaps
+
+- **BECOME (-化) within the truth domain:** The -化 inchoative morpheme is morphosyntactically productive in Chinese but is lexically restricted within the truth domain. It is attested with 合法 and 客观 only; it does not attach to 真实, 正确, 准确, 可靠, or 虚假 in common usage. This is a lexical gap (the morphosyntactic slot exists; the lexical items do not fill it).
+- **Agentive nominalization for truth-telling roles:** The -者 agentive suffix is morphosyntactically available but is not attested with truth-telling verb bases. No common-usage agentive noun for "one who tells the truth" or "one who reports accurately" is attested. This is a lexical gap within an otherwise productive morphosyntactic pattern.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the data alone. All gaps identified above are either structural or lexical. The data does not provide evidence that any truth-domain concept is blocked at the conceptual level in Chinese; the gaps are gaps in attested expression, not in conceptual availability.
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing)
+
+- **Agentive nominalization (-者):** Deception/fabrication agentives are attested (伪造者, 假冒者); truth-telling agentives are not attested. The gap is on the positive (truth-telling) side only.
+- **DISCONFIRMATION vs. VERIFICATION:** DISCONFIRMATION has access to two constructions (Construction 10 and Construction 11); VERIFICATION in the strict confirmed-positive sense is expressed primarily through Construction 11. Construction 10 (Correspondence Frame) is more strongly associated with disconfirmation in the attested examples (与实际情况不相符 is the primary example; 与事实相符 is attested as an alternate but is less central in the data). This is a mild asymmetry favoring disconfirmation expression, not a full gap.
+- **CAUSATION (factual) vs. CAUSATION (character):** CAUSATION (factual) has a circumlocutory substitute (使/让 + NP + predicate); CAUSATION (character) has no attested substitute at all. The gap is more complete on the character-causation side.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Construction 1 (positive) and Construction 2 (negative) are both [CORE]; analytic negation with 不/非; no morphological change to base form. |
+| **ADNOM** | **Fully available** | Construction 3 is [CORE]; 的 is the obligatory linker for disyllabic+ adjectives in attributive position; monosyllabic forms may omit 的 in fixed compounds. |
+| **BECOME** | **Partially available** | Construction 4 (-化) is morphosyntactically productive but lexically restricted within the truth domain to 合法化 and 客观化; other truth-domain adjectives do not take -化 in common usage. |
+| **REVELATION** | **Fully available** | Construction 12 is [CORE]; stable verb sets for both reveal (揭露, 查明, 还原) and conceal (掩盖, 隐瞒, 封锁) are attested; 真相 is the primary object nominal. |
+| **CAUSATION (factual)** | **Available with substitution** | No truth-domain-specific causative construction exists; general-purpose 使/让 + NP + [truth-domain predicate] serves as the available mechanism. Circumlocution required. |
+| **CAUSATION (character)** | **Missing entirely** | No attested construction, and no attested substitution, for expressing causation of truth-related character or disposition. **MISSING (structural gap).** |
+| **VERIFICATION** | **Fully available** | Construction 11 is [CORE]; register-restricted to formal institutional discourse but fully attested and formulaically stable within that register. |
+| **DISCONFIRMATION** | **Fully available** | Expressed through Construction 11 (negative result predicates: 失实, 系伪造) and Construction 10 (negated correspondence frame: 不相符, 不一致); two distinct constructions available. |
+| **NEGATION** | **Fully available** | Analytic negation throughout; 不 is the standard negator for truth-domain adjectives in predicative position; 非 is available in more formal registers. No morphological (fused) negation attested. |
+| **NOMINALIZATION** | **Fully available (with asymmetry)** | Abstract nominalization via -性 (categorical) and -度 (scalar) is [CORE] and productive across the truth domain. Agentive nominalization via -者 is [CORE] but asymmetric: attested only for deception/fabrication roles, not for truth-telling roles. |
+
+---
+
+*End of I1 Analysis — Chinese (zh)*

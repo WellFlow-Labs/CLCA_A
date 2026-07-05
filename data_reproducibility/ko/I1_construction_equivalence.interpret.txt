@@ -1,0 +1,131 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Korean (ko)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | NP + 이/가 + TRUTH-TERM + 이다 | 이것은 사실이다 (igeoseun sasirida) "This is a fact" | Direct mapping | None |
+| **ADNOM** | TRUTH-TERM-(으)ㄴ/는 + NOUN | 진실한 사람 (jinsilhan saram) "truthful person" | Direct mapping | None |
+| **BECOME** | TRUTH-TERM + 이/가 되다 | 진실이 되다 (jinsiri doeda) "to become truth" | **SUBSTITUTED BY REVELATION** (드러나다, 밝혀지다 preferred) | Functional substitution |
+| **REVELATION** | 드러나다 / 밝혀지다 | 진실이 드러나다 (jinsiri deureonada) "truth comes to light" | Preferred over BECOME for truth emergence | None |
+| **CAUSATION (factual)** | (no morphological form) | 진실을 밝히다 (jinsireul balkhida) "to reveal the truth" (periphrastic) | **NO COMMON EXPRESSION** - periphrastic only | Morphosyntactic gap |
+| **CAUSATION (character)** | (no morphological form) | 거짓말을 하게 하다 (geojinmareul hage hada) "to make someone lie" (periphrastic) | **NO COMMON EXPRESSION** - periphrastic only | Morphosyntactic gap |
+| **VERIFICATION** | TRUTH-TERM + 을/를 + VERIFICATION-VERB | 사실을 확인하다 (sasireul hwaginhada) "to verify the facts" | Direct mapping via light verb construction | None |
+| **DISCONFIRMATION** | (no distinct construction) | (uses same verbs as VERIFICATION with negative results) | **SUBSTITUTED BY VERIFICATION** (same construction, different outcome) | Functional substitution |
+| **NEGATION** | NP + 이/가 + TRUTH-TERM + 이/가 아니다 | 이것은 사실이 아니다 (igeoseun sasiri anida) "This is not a fact" | Analytic negation (아니다, -지 않다) | None |
+| **NOMINALIZATION** | TRUTH-TERM + 성 (-seong) | 진실성 (jinsilseong) "truthfulness" | Direct mapping | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION substitutes for BECOME
+Korean shows a clear preference for REVELATION constructions over BECOME constructions in the truth domain. While 되다 "become" is grammatically possible (진실이 되다 "to become truth"), P4b marks this as **[MARGINAL]** and notes that "specialized verbs (드러나다, 밝혀지다) for truth emergence" are preferred. The construction 거짓말이 들통나다 "a lie becomes exposed" is marked **[CORE]**, indicating that Korean conceptualizes truth-value changes as processes of revelation/discovery rather than simple state transitions.
+
+### VERIFICATION encompasses DISCONFIRMATION
+Korean does not distinguish VERIFICATION from DISCONFIRMATION constructionally. Both use the same pattern: TRUTH-TERM + 을/를 + VERIFICATION-VERB. The same verbs (확인하다 "verify/confirm," 가리다 "distinguish/determine") apply regardless of whether the outcome confirms or disconfirms. The distinction is semantic (in the result) rather than constructional.
+
+### CAUSATION requires periphrasis
+Korean lacks productive morphological causatives for truth-domain predicates. P4a explicitly states: "Korean lacks productive morphological causatives for truth-domain predicates. Causation expressed periphrastically." P4b marks this as **[UNCERTAIN]** and notes it is a "Gap in paradigm compared to other semantic domains." 
+
+For factual causation, Korean uses transitive revelation verbs: 진실을 밝히다 (jinsireul balkhida) "to reveal/bring to light the truth" (literally "to brighten the truth"). This functions as a light verb construction where 밝히다 carries the causative semantics.
+
+For character causation, Korean uses the auxiliary construction -게 하다: 거짓말을 하게 하다 "to make someone lie."
+
+### NEGATION is analytic
+Korean employs analytic negation strategies:
+- For nominal predicates: 아니다 "not be" (이것은 사실이 아니다)
+- For adjectival predicates: -지 않다 pattern (그 말은 정확하지 않다)
+- Alternative lexical negation: 틀리다 "to be wrong," 거짓이다 "to be false"
+
+No morphological negative affixes attach directly to truth-domain terms.
+
+### Asymmetries in agentive nominalization
+Korean shows a striking asymmetry in agentive nominalization. The negative agent term 거짓말쟁이 "liar" is **[CORE]** and uses the productive suffix -쟁이. However, P4a notes: "No parallel *진실쟁이 or *사실쟁이. 'Truth-teller' expressed periphrastically: 진실을 말하는 사람 (jinsireul malhaneun saram) 'person who speaks truth.'" This represents an **asymmetric gap** where only the negative form has morphological expression.
+
+### Asymmetries in intensification
+Intensification patterns apply primarily to negative terms. P4b notes that 새빨간 거짓말 "blatant lie" and 하얀 거짓말 "white lie" are attested, but "No parallel intensification for truth terms (*새빨간 진실 not idiomatic)." This is marked **[MARGINAL]** with "Limited and asymmetric pattern."
+
+### Domain-specific constructions
+Several constructions show domain specialization:
+- **Authentication constructions** (진짜인지 가짜인지) are "Domain-specific to material authenticity" and "Less commonly applied to propositional truth"
+- **Correctness evaluation** (맞다/틀리다) is "Domain-specific to educational, testing, and evaluative contexts" and "Distinct from moral evaluation (옳다/그르다)"
+- **Legitimacy assessment** (정당하다/타당하다) is "Specialized to legal, political, and argumentative discourse"
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+None identified. All canonical operators have some constructional realization, though some require substitution or periphrasis.
+
+### Morphosyntactic Gaps
+1. **CAUSATION (factual)**: No productive morphological causative. Only periphrastic expressions using transitive revelation verbs (밝히다) or light verb constructions.
+2. **CAUSATION (character)**: No productive morphological causative. Only auxiliary construction -게 하다.
+
+### Lexical Gaps
+1. **Positive agentive nominalization**: No single-word term for "truth-teller" (requires periphrastic 진실을 말하는 사람).
+2. **Truth-term intensifiers**: No idiomatic intensification patterns for positive truth terms (only for 거짓말).
+
+### Conceptual Gaps
+None identified. All truth-domain concepts can be expressed, though some require circumlocution.
+
+### Asymmetric Gaps
+1. **Agentive nominalization**: Productive only for negative agent (거짓말쟁이 "liar"); positive agent requires periphrasis.
+2. **Intensification**: Productive primarily for negative terms (거짓말); positive terms lack parallel constructions.
+3. **BECOME vs. REVELATION**: While 되다 "become" is grammatically possible, it is marginal; REVELATION constructions are strongly preferred for truth emergence.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Standard copular construction (NP + 이/가 + TRUTH-TERM + 이다)
+- **ADNOM**: Productive adnominal modification (TRUTH-TERM-(으)ㄴ/는 + NOUN)
+- **NEGATION**: Analytic negation (아니다, -지 않다)
+- **NOMINALIZATION**: Productive abstract nominalization (-성 suffix)
+- **VERIFICATION**: Light verb construction (TRUTH-TERM + 을/를 + VERIFICATION-VERB)
+- **REVELATION**: Specialized intransitive verbs (드러나다, 밝혀지다)
+
+### Available with Substitution
+- **BECOME**: Grammatically possible (되다) but functionally substituted by REVELATION constructions in actual usage
+- **DISCONFIRMATION**: No distinct construction; uses VERIFICATION construction with negative semantic outcome
+- **CAUSATION (factual)**: Expressed through transitive REVELATION verbs (밝히다 "reveal/bring to light") functioning as light verb causatives
+
+### Partially Available
+- **CAUSATION (character)**: Only periphrastic auxiliary construction (-게 하다); no morphological causative
+- **Agentive nominalization**: Productive only for negative agents (거짓말쟁이); positive agents require periphrasis
+- **Intensification**: Productive only for negative terms (거짓말); positive terms lack morphological intensification
+
+### Missing Entirely
+None. All canonical operators have some form of expression, though some require circumlocution or substitution.
+
+---
+
+## Additional Observations
+
+### Light Verb Constructions
+Korean extensively uses light verb constructions in the truth domain:
+- **VERIFICATION**: 사실을 확인하다 (sasireul hwaginhada) - 확인하다 "verify" functions as light verb
+- **REVELATION (transitive)**: 진실을 밝히다 (jinsireul balkhida) - 밝히다 "brighten/reveal" functions as light verb
+- **CAUSATION (factual)**: Same as transitive REVELATION (밝히다 carries causative semantics)
+
+These constructions behave syntactically as transitive verbs with truth-domain nouns as objects.
+
+### Discourse-Level Grammaticalization
+Several truth-domain terms have grammaticalized into discourse markers:
+- 사실은 (sasireun) "actually, in fact"
+- 솔직히 말하면 (soljiki malhamyeon) "frankly speaking"
+
+P4b marks these as **[CORE]** and notes they are "Fully grammaticalized as discourse markers beyond compositional meaning."
+
+### Register Stratification
+P4b identifies register-specific patterns:
+- **Formal registers**: Legitimacy Assessment (정당하다/타당하다), Credibility Constructions (신빙성)
+- **Colloquial registers**: Intensification Patterns (새빨간 거짓말), Agentive suffix -쟁이
+
+### Evidential Marking
+Korean shows obligatory epistemic stance marking in many contexts. P4b notes: "Korean obligatorily marks epistemic stance in many contexts" with multiple constructions (것 같다, 듯하다, 나 보다) showing "subtle differences in evidential source."

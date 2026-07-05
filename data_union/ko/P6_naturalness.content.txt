@@ -1,0 +1,616 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+## Language: Korean (ko)
+### Transliteration Standard: Revised Romanization of Korean (RR)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Korean encodes dynamic truth-related meanings: change of state (inchoative), causation of state (causative), and stability or persistence of state. All vocabulary is drawn exclusively from P1–P5. Auxiliary verbs, aspect markers, and function words are added as needed to form grammatical expressions; no new lexical items are introduced beyond what the CONTEXT attests.
+
+Where a given term does not participate in a particular dynamic pattern, this is explicitly stated. Asymmetries across terms are preserved throughout.
+
+The following construction types are examined for each relevant term or group:
+
+- **Inchoative:** X comes to be in a truth-related state (되다, 밝혀지다, 드러나다, 판명되다, 탄로나다)
+- **Causative:** Y causes X to be in a truth-related state (-화하다, 밝히다, 드러내다, 만들다)
+- **Persistence / stability:** X remains in or continues to hold a truth-related state (여전히 + Adj, -고 있다, 유지하다)
+- **Loss / reversal:** X ceases to hold a truth-related state (잃다, 무너지다, 무효가 되다)
+
+The primary structural resources for encoding dynamics in Korean that are attested in the CONTEXT are:
+
+- **Inchoative/change-of-state:** Noun + (으)로 밝혀지다 / 드러나다 / 판명되다 (documented in P4a Construction 4); 이/가 되다 (become); 아/어지다 (stativizing suffix on adjectives)
+- **Causative:** Noun + 하다 (transitive, documented in P4a Construction 5); 게 하다 / 게 만들다 (periphrastic causative)
+- **Stability:** 유지하다 (to maintain), 일관하다 (to be consistent throughout), 바탕으로 하다 (to be grounded in)
+
+---
+
+## Section 1: Factual States — 사실 (sasil)
+
+---
+
+### 1.1 Inchoative: something comes to be established as fact
+
+---
+
+**Expression 1.1.1**
+
+- **Korean:** 사실로 밝혀지다
+- **Transliteration:** sasillo balkhyeojida
+- **English:** to be revealed as fact / to turn out to be true
+- **Dynamic type:** X becomes known as [truth-domain state]
+- **Notes:** The -로 frame marks the resultant state; 밝혀지다 (passive of 밝히다) encodes the epistemic process by which the state is established. The most common inchoative construction for 사실. Common in journalistic and everyday contexts when a claim is confirmed after investigation. The subject is the claim or situation that comes to be established as factual.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1.1.2**
+
+- **Korean:** 사실임이 드러나다
+- **Transliteration:** sasilimi deureonada
+- **English:** it comes to light that something is a fact / the factual nature is revealed
+- **Dynamic type:** X becomes known as [truth-domain state] (intransitive)
+- **Notes:** Intransitive; the factual nature emerges without a specified agent. Less common than 사실로 밝혀지다 but structurally parallel to the attested 허위임이 드러나다.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.2 Causative: someone causes something to be established as fact
+
+---
+
+**Expression 1.2.1**
+
+- **Korean:** 사실을 확인하다
+- **Transliteration:** sasil-eul hwagin-hada
+- **English:** to verify the facts / to confirm the facts
+- **Dynamic type:** Y causes X (facts) to be verified
+- **Notes:** The agent actively establishes that something is factual. 확인하다 encodes the epistemic action of verification. Common across journalistic, legal, and everyday registers.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1.2.2**
+
+- **Korean:** 사실관계를 파악하다
+- **Transliteration:** sasil gwangye-reul paak-ada
+- **English:** to establish the facts of the case / to grasp the factual circumstances
+- **Dynamic type:** Y causes X (factual basis of a situation) to be determined
+- **Notes:** The agent actively determines the factual basis of a situation. Common in legal and journalistic discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.3 Causative: someone causes something to be presented as false or concealed
+
+---
+
+**Expression 1.3.1**
+
+- **Korean:** 사실을 왜곡하다
+- **Transliteration:** sasil-eul waegok-ada
+- **English:** to distort the facts / to misrepresent the facts
+- **Dynamic type:** Y causes X (facts) to be misrepresented
+- **Notes:** The agent actively alters the factual record. Causative in the sense that the agent produces a distorted state of the facts. P2b notes the distinction: 사실을 왜곡하다 focuses on specific factual information while 진실을 왜곡하다 concerns truth as a broader value.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 1.3.2**
+
+- **Korean:** 사실을 은폐하다
+- **Transliteration:** sasil-eul eunpye-hada
+- **English:** to conceal the facts / to cover up the facts
+- **Dynamic type:** Y causes X (facts) to remain unknown through concealment
+- **Notes:** The agent actively suppresses factual information. Distinct from 왜곡하다 in that concealment does not alter the facts but prevents their disclosure.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.4 Persistence: something continues to be a fact
+
+No common expression using 사실 + persistence construction is attested in the CONTEXT. 사실 does not participate in the 여전히 유효하다 type of persistence frame documented for 유효 (see Section 5). The concept of a fact persisting is not lexicalized as a distinct construction in the record.
+
+---
+
+### 1.5 Loss / reversal: something ceases to be treated as fact
+
+---
+
+**Expression 1.5.1**
+
+- **Korean:** 사실이 아닌 것으로 밝혀지다
+- **Transliteration:** sasiri anin geoseuro balkhyeojida
+- **English:** to be revealed as not being a fact
+- **Dynamic type:** X is reclassified from [presumed factual] to [not factual]
+- **Notes:** This is a periphrastic construction combining the negative copula frame (사실이 아니다) with the inchoative passive. No single lexicalized form for "ceasing to be a fact" is attested in the CONTEXT.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 2: Truth Disclosure — 진실 (jinsil)
+
+---
+
+### 2.1 Inchoative: truth comes to light
+
+---
+
+**Expression 2.1.1**
+
+- **Korean:** 진실이 드러나다
+- **Transliteration:** jinsil-i deureonada
+- **English:** the truth comes to light / the truth is revealed / the truth emerges
+- **Dynamic type:** X becomes known (truth-domain subject, intransitive)
+- **Notes:** Intransitive; 진실 is the subject. The emergence of truth is presented as occurring without a specified agent. 드러나다 (to surface, to be exposed) implies prior concealment and carries a sense of unwanted or unexpected revelation. Common in journalistic, narrative, and investigative contexts. P5 (Opposition 23) identifies this as structurally distinct from the transitive 진실을 숨기다.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2.1.2**
+
+- **Korean:** 진실이 밝혀지다
+- **Transliteration:** jinsil-i balkhyeojida
+- **English:** the truth comes to light / the truth is revealed / the truth is uncovered
+- **Dynamic type:** X becomes known (truth-domain subject, intransitive)
+- **Notes:** 밝혀지다 (to be illuminated, to come to light) is the passive/resultative form of 밝히다 (to illuminate, to reveal). Slightly more agentive in implication than 드러나다; implies that the change of state results from an investigative or disclosure process, even if no agent is specified. It is partially interchangeable with 드러나다 in many contexts but carries a slightly more neutral sense — the illumination of what was dark — without the same implication of unwanted exposure. Common in journalistic and legal contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.2 Causative: someone causes the truth to be known
+
+---
+
+**Expression 2.2.1**
+
+- **Korean:** 진실을 밝히다
+- **Transliteration:** jinsil-eul balkhida
+- **English:** to reveal the truth / to bring the truth to light
+- **Dynamic type:** Y causes X (truth) to become known
+- **Notes:** Transitive; the agent actively discloses what is true. 밝히다 (to illuminate, to reveal) is the canonical transitive verb for truth-revelation. The most common causative construction for truth disclosure in the CONTEXT. Common in investigative, journalistic, and legal contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2.2.2**
+
+- **Korean:** 진실 규명을 하다 / 진실을 규명하다
+- **Transliteration:** jinsil gyumyeong-eul hada / jinsil-eul gyumyeonghada
+- **English:** to conduct a truth investigation / to clarify the truth
+- **Dynamic type:** Y causes X (truth) to become established through formal inquiry
+- **Notes:** The agent undertakes a formal process of establishing what is true. Common in political, legal, and historical discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.3 Causative: someone causes the truth to remain hidden or be distorted
+
+---
+
+**Expression 2.3.1**
+
+- **Korean:** 진실을 숨기다
+- **Transliteration:** jinsil-eul sumgida
+- **English:** to conceal the truth / to hide the truth
+- **Dynamic type:** Y causes X (truth) to remain unknown
+- **Notes:** Transitive; the agent actively prevents disclosure. 숨기다 (to hide, to conceal) is the standard transitive verb for truth-concealment. It is the direct causative counterpart to 진실이 드러나다 (the truth emerges): where 드러나다 encodes the spontaneous or resultant emergence of truth, 숨기다 encodes the agentive prevention of that emergence.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2.3.2**
+
+- **Korean:** 진실을 외면하다
+- **Transliteration:** jinsil-eul oemyeonhada
+- **English:** to turn away from the truth / to ignore the truth
+- **Dynamic type:** Y causes X (truth) to remain unacknowledged (by Y)
+- **Notes:** 외면하다 (to turn one's face away) encodes a causative in which the agent does not suppress truth for others but refuses to acknowledge it themselves. The moral dimension of culpable avoidance is noted in P2b. Distinct from 숨기다 (concealment from others) in that the avoidance is self-directed.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 2.3.3**
+
+- **Korean:** 진실을 왜곡하다
+- **Transliteration:** jinsil-eul waegok-ada
+- **English:** to distort the truth / to twist the truth
+- **Dynamic type:** Y causes X (truth) to be misrepresented
+- **Notes:** The agent actively alters the representation of what is true. 왜곡하다 implies deliberate or systematic misrepresentation rather than simple error. It encodes a causative in which the agent does not suppress truth entirely (숨기다) but transforms it into a distorted form. P2b notes the pairing of 진실 with 왜곡하다 is "highly conventionalized." Common in journalistic and political discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.4 Persistence: truth remains concealed or unknown
+
+No single lexicalized persistence construction for 진실 is attested in the CONTEXT. The concept of truth remaining hidden is expressed through the continued application of 숨기다 or through narrative context rather than a dedicated persistence construction.
+
+---
+
+## Section 3: Genuineness and Sincerity — 진정성 (jinjeonseong), 진심 (jinsim)
+
+---
+
+### 3.1 Inchoative: something comes to have authenticity
+
+No common inchoative construction for 진정성 is attested in the CONTEXT. Authenticity is not typically framed as something that comes into being through a change of state; it is evaluated as present or absent. The 있다/없다 frame (P4a Construction 9) treats it as a binary possession rather than a dynamic state.
+
+---
+
+### 3.2 Causative: someone causes authenticity to be perceived or demonstrated
+
+---
+
+**Expression 3.2.1**
+
+- **Korean:** 진정성을 보여주다
+- **Transliteration:** jinjeonseong-eul boyeojuda
+- **English:** to show sincerity / to demonstrate authenticity
+- **Dynamic type:** Y causes X (authenticity) to become visible to others
+- **Notes:** The agent actively demonstrates genuine authenticity. This is a causative of perception: the agent causes others to perceive their authenticity. Unlike 드러내다 (which implies prior concealment), 보여주다 is neutral about whether the authenticity was previously hidden; it simply encodes the act of making it visible. Common in political, interpersonal, and public communication contexts regarding apologies and commitments.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 3.2.2**
+
+- **Korean:** 진정성을 확보하다
+- **Transliteration:** jinjeonseong-eul hwakbo-hada
+- **English:** to secure authenticity / to establish genuineness
+- **Dynamic type:** Y causes X (authenticity) to be established and maintained
+- **Notes:** The agent actively establishes or ensures that their authenticity is recognized. Common in public communication contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.3 Causative: someone causes authenticity to be doubted
+
+---
+
+**Expression 3.3.1**
+
+- **Korean:** 진정성을 의심하다
+- **Transliteration:** jinjeonseong-eul uisimhada
+- **English:** to doubt the sincerity of / to question the authenticity of
+- **Dynamic type:** Y causes doubt about X (authenticity)
+- **Notes:** The agent actively questions whether authenticity is present. This is a causative of epistemic state: the agent causes doubt about authenticity.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.4 Transition: authenticity comes into question
+
+---
+
+**Expression 3.4.1**
+
+- **Korean:** 진정성을 의심받다
+- **Transliteration:** jinjeonseong-eul uisim-batda
+- **English:** to have one's authenticity doubted / to face questions about one's sincerity
+- **Dynamic type:** X transitions from [presumed authentic] to [authenticity in question]
+- **Notes:** 의심받다 (to receive doubt, to be doubted) is the passive construction for credibility challenges. The subject moves from a state of presumed authenticity to a state of contested authenticity. This is not a full transition to inauthenticity but a transition to an intermediate state of doubt.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.5 Persistence: authenticity continues to be present
+
+No dedicated persistence construction for 진정성 is attested in the CONTEXT. The 있다 frame (진정성이 있다) describes a state but does not encode its continuation over time.
+
+---
+
+## Section 4: Credibility and Trust — 신뢰 (sinloe), 신빙성 (sinbyeongseong)
+
+---
+
+### 4.1 Inchoative: trust comes into being
+
+---
+
+**Expression 4.1.1**
+
+- **Korean:** 신뢰 관계가 형성되다
+- **Transliteration:** sinloe gwangye-ga hyeongseong-doeda
+- **English:** a relationship of trust is formed / a trust-based relationship comes into being
+- **Dynamic type:** X (trust relationship) comes into existence
+- **Notes:** The inchoative passive of 형성하다 (to form). Describes the emergence of a trust relationship. Common in organizational and diplomatic discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4.1.2**
+
+- **Korean:** 신뢰가 쌓이다
+- **Transliteration:** sinloe-ga ssaida
+- **English:** trust accumulates / trust builds up
+- **Dynamic type:** X (trust) accumulates without a specified agent
+- **Notes:** 쌓이다 is the passive/spontaneous counterpart to the transitive 쌓다 (to build/pile up). Where 신뢰를 쌓다 encodes an agent building trust, 신뢰가 쌓이다 encodes trust accumulating without specifying an agent. Natural in interpersonal and institutional contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.2 Causative: someone builds or establishes trust
+
+---
+
+**Expression 4.2.1**
+
+- **Korean:** 신뢰를 쌓다
+- **Transliteration:** sinloe-reul ssada
+- **English:** to build trust / to accumulate trust
+- **Dynamic type:** Y causes X (trust) to be built up over time
+- **Notes:** 쌓다 (to pile up, to accumulate) encodes the gradual, agentive construction of trust. The agent causes trust to increase incrementally through sustained conduct. The temporal dimension (gradual accumulation) distinguishes this from 신뢰를 회복하다 (restoration after loss). P5 Opposition 24 documents this as contrasting with 신뢰를 저버리다.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4.2.2**
+
+- **Korean:** 신뢰 관계를 형성하다
+- **Transliteration:** sinloe gwangye-reul hyeongseong-hada
+- **English:** to form a relationship of trust / to establish a trust-based relationship
+- **Dynamic type:** Y causes X (trust relationship) to come into existence
+- **Notes:** The agent actively creates a trust relationship. More formal than 신뢰를 쌓다; common in organizational and diplomatic discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.3 Causative: someone restores trust
+
+---
+
+**Expression 4.3.1**
+
+- **Korean:** 신뢰를 회복하다
+- **Transliteration:** sinloe-reul hoebokada
+- **English:** to restore trust / to recover credibility
+- **Dynamic type:** Y causes X (trust) to return to a prior state
+- **Notes:** 회복하다 (to recover, to restore) encodes the agentive process of rebuilding trust after it has been damaged or lost. The agent causes trust to return to a state it previously occupied. Encodes a return to a prior stable state of trust after it has been damaged rather than the creation of a new one. P5 Opposition 25 documents this as the contrasting pole to 신뢰를 잃다. Common in political and organizational discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.4 Stability: trust as a foundation
+
+---
+
+**Expression 4.4.1**
+
+- **Korean:** 신뢰를 바탕으로 하다
+- **Transliteration:** sinloe-reul batang-euro hada
+- **English:** to be based on trust / to be grounded in trust
+- **Dynamic type:** X is in a stable state grounded in [trust-domain state]
+- **Notes:** This construction encodes trust as a stable foundation rather than a dynamic state. Used to characterize a relationship, system, or agreement as having trust as its foundation. The construction does not encode change but the absence of change — the persistence of a trust-based foundation.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4.4.2**
+
+- **Korean:** 신뢰에 기반하다
+- **Transliteration:** sinloe-e gibanhada
+- **English:** to be based on trust / to be grounded in trust
+- **Dynamic type:** X is in a stable state grounded in [trust-domain state]
+- **Notes:** 기반하다 (to be based on, to be grounded in) encodes a foundational relationship that implies stability: a relationship or institution grounded in trust is characterized as having a stable foundation. The construction does not encode change but the absence of change — the persistence of a trust-based foundation.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.5 Stability: maintaining a consistent deceptive state
+
+---
+
+**Expression 4.5.1**
+
+- **Korean:** 거짓말로 일관하다
+- **Transliteration:** geojitmal-lo ilgwan-hada
+- **English:** to maintain a consistent lie throughout / to stick to one's false story
+- **Dynamic type:** X maintains a stable deceptive state across time and questioning
+- **Notes:** 일관하다 (to be consistent/to maintain throughout) encodes the stability of a deceptive state across time and questioning. Used in legal and journalistic contexts to describe a person who persists in a false account despite evidence or questioning. This is the primary stability construction for a negative truth-domain state in the data.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.6 Loss / reversal: trust is lost or collapses
+
+---
+
+**Expression 4.6.1**
+
+- **Korean:** 신뢰를 잃다
+- **Transliteration:** sinloe-reul ilta
+- **English:** to lose trust / to lose credibility / to forfeit credibility
+- **Dynamic type:** X transitions from [trusted] to [not trusted]
+- **Notes:** The subject loses trust; the agent of loss may be the same entity (through its own actions) or external circumstances. 잃다 (to lose) encodes the transition from possession to non-possession of trust. This is the agentive-subject counterpart to 신뢰가 무너지다 (trust collapses, intransitive). P5 Opposition 23 documents this as the contrasting pole to 신뢰를 쌓다. Common in political and journalistic discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4.6.2**
+
+- **Korean:** 신뢰가 무너지다
+- **Transliteration:** sinloe-ga muneoijida
+- **English:** trust collapses / credibility crumbles / trust breaks down
+- **Dynamic type:** X undergoes sudden loss of [trust-domain state]
+- **Notes:** Intransitive; trust is the subject. 무너지다 (to collapse, to crumble) encodes sudden or catastrophic breakdown. The metaphor of structural collapse presents the loss of trust as a sudden or catastrophic event rather than a gradual process. No agent is expressed. Contrasts with the gradual accumulation encoded by 쌓다. P2b notes this "carries a sense of structural failure."
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.7 Causative: someone betrays or destroys trust
+
+---
+
+**Expression 4.7.1**
+
+- **Korean:** 신뢰를 저버리다
+- **Transliteration:** sinloe-reul jeobeorida
+- **English:** to betray trust / to abandon trust / to break faith
+- **Dynamic type:** Y causes X (trust) to be destroyed through betrayal
+- **Notes:** 저버리다 (to abandon, to betray) implies a deliberate or culpable failure to honor a relationship of trust. The agent actively betrays the trust placed in them. P2b notes it "carries a stronger moral charge than 잃다," distinguishing active betrayal from passive loss. Distinct from 잃다 in that betrayal implies agency and moral responsibility. P5 Opposition 24 documents this as contrasting with 신뢰를 쌓다.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.8 Causative: someone causes credibility to be established or undermined
+
+---
+
+**Expression 4.8.1**
+
+- **Korean:** 신빙성을 확보하다
+- **Transliteration:** sinbyeongseong-eul hwakbo-hada
+- **English:** to secure credibility / to establish credibility
+- **Dynamic type:** Y causes X (credibility) to be established and maintained
+- **Notes:** The agent actively ensures that a claim or source is credible. Common in academic, journalistic, and legal discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 4.8.2**
+
+- **Korean:** 신빙성을 의심하다
+- **Transliteration:** sinbyeongseong-eul uisimhada
+- **English:** to doubt the credibility of / to question the reliability of
+- **Dynamic type:** Y causes doubt about X (credibility)
+- **Notes:** The agent actively questions credibility, thereby initiating a process that may lead to its loss. This is a causative of epistemic state rather than a direct causative of loss.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.9 Accumulation of distrust
+
+---
+
+**Expression 4.9.1**
+
+- **Korean:** 불신이 쌓이다
+- **Transliteration:** bulsin-i ssaida
+- **English:** distrust accumulates / mistrust builds up
+- **Dynamic type:** X (distrust) accumulates without a specified agent
+- **Notes:** The accumulation of distrust is the inverse of 신뢰가 쌓이다. Natural in institutional and political discourse. The verb 쌓이다 applies symmetrically to both trust and distrust.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 5: Legal Validity — 유효 (yuhyo), 무효 (muhyo)
+
+---
+
+### 5.1 Inchoative: something comes to be valid
+
+No common inchoative construction for 유효 is attested in the CONTEXT. Validity is typically asserted as a present state (유효하다, 계약이 유효하다) rather than as something that comes into being through a change of state. The process of making something valid is encoded causatively (see 5.3).
+
+---
+
+### 5.2 Inchoative: something becomes void
+
+---
+
+**Expression 5.2.1**
+
+- **Korean:** 계약이 무효가 되다
+- **Transliteration:** gyeyagi muhyoga doeda
+- **English:** the contract becomes void
+- **Dynamic type:** X (contract) undergoes change of state from valid to void
+- **Notes:** 되다 is the general inchoative verb. The subject (계약, contract) undergoes a change of state from valid to void. Common in legal discourse. Documented in P2a (17.3), P2b (17.3), P4a (Construction 4), P5 (Opposition 21).
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5.2.2**
+
+- **Korean:** 선거가 무효가 되다
+- **Transliteration:** seongeoga muhyoga doeda
+- **English:** an election becomes void / an election is invalidated
+- **Dynamic type:** X (election) undergoes change of state from valid to void
+- **Notes:** Same construction applied to elections. Common in electoral and constitutional law discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5.2.3**
+
+- **Korean:** 무효 처리되다
+- **Transliteration:** muhyo cheoridoeda
+- **English:** to be processed as invalid / to be treated as void
+- **Dynamic type:** X is officially classified as void through institutional process
+- **Notes:** Passive-administrative construction; the subject is treated as void through an official process. Encodes the institutional dimension of invalidation.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.3 Causative: someone renders something void
+
+---
+
+**Expression 5.3.1**
+
+- **Korean:** 무효화하다
+- **Transliteration:** muhyohwa-hada
+- **English:** to invalidate / to nullify / to void
+- **Dynamic type:** Y causes X to become void
+- **Notes:** The -화하다 causative suffix encodes the agent's act of rendering something invalid. The most productive single-word causative for invalidation in the CONTEXT. Documented in P1 (item 17), P2a (17.1), P4a (Construction 5), P5 (Opposition 25).
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5.3.2**
+
+- **Korean:** 계약을 무효로 하다
+- **Transliteration:** gyeyag-eul muhyoro hada
+- **English:** to render a contract void / to make something invalid
+- **Dynamic type:** Y causes X (contract) to become void
+- **Notes:** Periphrastic causative using the -로 frame with 하다. Functionally equivalent to 무효화하다 but more explicitly transitive in structure.
+- **Epistemic status:** [CORE]
+
+---
+
+**Expression 5.3.3**
+
+- **Korean:** 무효를 선언하다
+- **Transliteration:** muhyo-reul seoneonhada
+- **English:** to declare invalid / to declare null and void
+- **Dynamic type:** Y causes X to be void through declarative speech act
+- **Notes:** The agent performs a formal speech act of declaration. Distinct from 무효화하다 in that the causation operates through a declarative act rather than a direct action.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.4 Causative: someone legalizes something
+
+---
+
+**Expression 5.4.1**
+
+- **Korean:** 합법화하다
+- **Transliteration:** hapbeophwa-hada
+- **English:** to legalize / to make lawful
+- **Dynamic type:** Y causes X to acquire legal status
+- **Notes:** The -화하다 causative suffix encodes the agent's act of conferring legal status. Operates in the opposite direction from 무효화하다 within the legal domain. Documented in P2a (24.3), P4a (Construction 5), P5 (Opposition 25).
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.5 Persistence: something remains valid
+
+---
+
+**Expression 5.5.1**
+
+- **Korean:** 여전히 유효하다
+- **Transliteration:** yeojeonhi yuhyohada
+- **English:** to still be valid / to remain in force
+- **Dynamic type:** X is in a stable state of validity (persisting)
+- **Notes:** The adverb 여전히 (still, as before) encodes persistence of the valid state. Common in legal, diplomatic, and policy discourse when asserting that an agreement or principle has not lapsed. This is the primary persistence construction for 유효 in the CONTEXT.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.6 Loss / reversal: validity expires
+
+---
+
+**Expression 5.6.1**
+
+- **Korean:** 유효 기

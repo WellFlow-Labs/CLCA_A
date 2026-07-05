@@ -1,0 +1,227 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Quechua (qu)
+
+---
+
+**Scope note:** Southern Quechua (Cusco-Collao / Ayacucho-Chanka). Three-vowel orthography throughout. All vocabulary drawn exclusively from P1–P5. Auxiliary verbs, aspect markers, and function words are added only where needed and are identified as such. Where no common expression is attested, this is stated explicitly.
+
+---
+
+## Preliminary structural note
+
+Quechua encodes change, causation, and stability primarily through morphological means rather than through multi-word periphrastic constructions. The relevant mechanisms documented in P1–P5 are:
+
+- **Causative suffixes** *-ncha-* (on adjectival/nominal bases) and *-chi-* (on verbal bases), documented in P2a and P4a
+- **The verb *tukuy*** ("to become / to pretend to be"), documented in P1b and P4a as the primary lexical inchoative strategy
+- **Reflexive-middle suffix *-ku-***, documented in P2a as marking action affecting the subject
+- **Inceptive suffix *-ri-***, documented in P2a as marking the initiation of a process
+- **Resultative/participial suffix *-sqa-***, documented throughout P2a as marking a resultant state
+
+These mechanisms are not equally available to all roots in the truth-evaluation domain. Asymmetries are preserved and noted below.
+
+---
+
+## 1. "X BECOMES [TRUTH-RELATED STATE]"
+
+### 1a. X becomes true / genuine
+
+**Primary strategy: adjectival base + *tukuy***
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Cheqa tukun.` | cheqa tuku-n | "It becomes true. / It turns out to be genuine." | [MARGINAL] | *Tukuy* is the only lexical verb documented in P1–P5 for encoding becoming in this domain. As noted in P4a and P4b, the construction is ambiguous between a genuine inchoative reading ("to become true") and a pretense reading ("to pretend to be genuine"); the genuine inchoative reading is possible but less commonly attested. The third-person present suffix *-n* is a standard inflectional ending added as needed. |
+
+**Secondary strategy: causative verbal form used reflexively**
+
+No reflexive-middle form of *cheqanchay* is documented in P1–P5 that would yield a meaning "to make oneself true" or "to become verified." The form *cheqanchasqa* (resultative participle, documented in P2a) describes the resultant state of having been verified but does not encode the process of becoming.
+
+**No common expression is attested** for a straightforward inchoative "X becomes true" that is unambiguously distinct from the pretense reading of *cheqa tukuy*. The closest attested expression for a genuine change-of-state toward truth is the correction/rectification vocabulary documented under Section 3 below.
+
+---
+
+### 1b. X becomes false / deceptive
+
+**Primary strategy: adjectival base + *tukuy***
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Llulla tukun.` | llulla tuku-n | "It becomes false. / He/she pretends to be false / plays false." | [MARGINAL] | Same ambiguity as *cheqa tukuy* documented in P4a and P4b; the pretense reading ("to feign, to play false") is the more commonly attested interpretation in the truth-evaluation domain. The genuine inchoative reading ("to become false") is possible but not the primary attested use. |
+
+**No common expression is attested** for an unambiguous inchoative "X becomes false" distinct from the pretense reading.
+
+---
+
+### 1c. X becomes mistaken / falls into error
+
+**Primary strategy: verbal root *pantay* with reflexive-middle suffix**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Pantakun.` | panta-ku-n | "He/she makes a mistake. / He/she falls into error." | [CORE] | *Pantakuy* (panta- + *-ku-* + *-y*) is documented in P2a as the reflexive-middle form of *pantay*, encoding the act of making an error as affecting the subject. The third-person present *-n* is added as needed. This is the most clearly attested inchoative-type expression in the truth-evaluation domain: the subject moves from a non-error state into an error state. |
+
+---
+
+### 1d. X becomes clear / explicit
+
+**No single-word inchoative form of *sut'i* is documented in P1–P5.** The causative *sut'ichay* (documented in P2a) encodes making something clear, but this is an externally caused change (see Section 3). No reflexive-middle form *sut'ichakuy* with an inchoative reading is attested; the form *sut'ichakuy* documented in P2a carries the meaning "to clarify for oneself" (deliberate self-directed action) rather than "to become clear."
+
+**No common expression is attested** for a spontaneous inchoative "X becomes clear."
+
+---
+
+### 1e. X becomes known / recognized
+
+**Primary strategy: participial form used predicatively**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Reqsisqa tukun.` | reqsisqa tuku-n | "It becomes recognized. / It comes to be known." | [MARGINAL] | This construction combines the participial *reqsisqa* ("recognized," documented in P1 item 20 and P2a) with *tukuy* as a copular/inchoative verb. The construction is formed using only vocabulary from P1–P5 with *tukuy* as the function verb. It is rated [MARGINAL] because *reqsisqa* itself carries [UNCERTAIN] status in P1, and the *participial + tukuy* inchoative pattern, while structurally available in Quechua, is not explicitly attested for this specific combination in the P1–P5 data. |
+
+---
+
+## 2. "X BECOMES [NON-TRUTH / OPPOSED STATE]"
+
+This section covers transitions from a truth-related state to its opposite. The primary vocabulary available from P1–P5 is *cheqa tukuy* (already covered under 1a with the pretense reading), *llullachay* (causative, covered under Section 3), and the *pantay* family.
+
+### 2a. A true/correct thing becomes false/incorrect
+
+**No common expression is attested** in P1–P5 for a spontaneous transition from truth to falsity. The vocabulary documented covers: (a) the pretense of genuineness (*cheqa tukuy*, *llulla tukuy*), (b) deliberate falsification by an agent (*llullachay*, Section 3), and (c) falling into error (*pantakuy*, Section 1c). None of these encodes a spontaneous change of a true proposition or genuine entity into a false one.
+
+### 2b. A clear thing becomes unclear
+
+**No common expression is attested** in P1–P5 for a spontaneous transition from clarity to unclarity.
+
+### 2c. A trusted/believed thing becomes distrusted
+
+**No common expression is attested** in P1–P5 for a spontaneous transition from trusted to distrusted status. The negated predicative construction *mana iñisqachu* (documented in P2b and P5 Opposition 31) describes the state of not being trusted but does not encode a dynamic transition.
+
+---
+
+## 3. "Y CAUSES X TO BE [TRUTH-RELATED STATE]"
+
+### 3a. Y causes X to be true / Y verifies / corrects X
+
+**Primary strategy: *cheqanchay* (cheqa + *-ncha-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Cheqanchan.` | cheqa-ncha-n | "He/she verifies it. / He/she corrects it. / He/she makes it right." | [CORE] | *Cheqanchay* is documented in P1 (item 5), P2a, P3 Group 7, and P4a as the primary causative verb for establishing or confirming truth and correcting error. The third-person present *-n* is added as needed. This is the most robustly attested causative expression in the truth-evaluation domain. |
+| `Cheqanchasqa.` | cheqa-ncha-sqa | "It has been verified. / It has been corrected." (resultant state) | [CORE] | The resultative participle documents the state resulting from the causative action; documented in P2a and P3 Group 7. |
+| `Pantasqaykita cheqanchay.` | panta-sqa-yki-ta cheqancha-y | "Correct your error." | [CORE] | Directive construction documented in P2b; the causative verb takes the nominalized error as its object. |
+
+**Secondary strategy: *allinchay* (allin + *-cha-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Allichan.` | alli-ncha-n | "He/she corrects it. / He/she makes it good/right." | [CORE] | *Allinchay* is documented in P2a as a causative form of *allin* used for making something correct or good. It overlaps with *cheqanchay* in correction contexts but is broader (covering goodness/propriety as well as truth). |
+
+---
+
+### 3b. Y causes X to be false / Y falsifies X
+
+**Primary strategy: *llullachay* (llulla + *-cha-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Llullachan.` | llulla-cha-n | "He/she falsifies it. / He/she makes it false. / He/she fakes it." | [CORE] | *Llullachay* is documented in P2a and P3 Group 10 as the causative verb for deliberate falsification. The third-person present *-n* is added as needed. |
+
+---
+
+### 3c. Y causes X to err / Y misleads X
+
+**Primary strategy: *pantachiy* (panta- + *-chi-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Pantachin.` | panta-chi-n | "He/she misleads him/her. / He/she causes him/her to err." | [CORE] | *Pantachiy* is documented in P2a and P3 Group 9 as the causative form of *pantay*, encoding deliberate or inadvertent misleading. The third-person present *-n* is added as needed. |
+
+---
+
+### 3d. Y causes X to know / Y teaches X
+
+**Primary strategy: *yachachiy* (yacha- + *-chi-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Yachachin.` | yacha-chi-n | "He/she teaches him/her. / He/she causes him/her to know." | [CORE] | *Yachachiy* is documented in P2a as the causative form of *yachay*, encoding the transmission of correct knowledge. Relevant to the truth-evaluation domain as the mechanism by which correct knowledge is established in another person. |
+
+---
+
+### 3e. Y causes X to see / Y shows X (as a verification act)
+
+**Primary strategy: *qawachiy* (qawa- + *-chi-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Qawachin.` | qawa-chi-n | "He/she shows it. / He/she causes him/her to see it." | [CORE] | *Qawachiy* is documented in P2a as the causative form of *qaway*, encoding the act of showing or demonstrating something as relevant to verification. |
+
+---
+
+### 3f. Y causes X to be clear / Y clarifies X
+
+**Primary strategy: *sut'ichay* (sut'i + *-cha-* causative)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Sut'ichan.` | sut'i-cha-n | "He/she clarifies it. / He/she makes it explicit." | [CORE] | *Sut'ichay* is documented in P1 (item 9), P2a, P3 Group 8, and P4a as the primary causative verb for making something clear or explicit. |
+| `Sut'ichasqa.` | sut'i-cha-sqa | "It has been clarified. / It has been made explicit." (resultant state) | [CORE] | Resultative participle documented in P2a and P3 Group 8. |
+
+---
+
+## 4. INCEPTIVE / ONSET OF PROCESS
+
+### 4a. Beginning to correct / beginning to set right
+
+**Primary strategy: *cheqanchariy* (cheqa + *-ncha-* + *-ri-* inceptive)**
+
+| Example | Transliteration | Translation | Naturalness Rating | Notes |
+|---|---|---|---|---|
+| `Cheqanchariy.` | cheqa-ncha-ri-y | "To begin to set right. / To go about correcting." | [MARGINAL] | *Cheqanchariy* is documented in P2a and P3 Group 7 as the inceptive form of *cheqanchay*, with the inceptive/directional suffix *-ri-* adding a sense of initiating the correction process. Rated [MARGINAL] consistent with its status in P2a. |
+
+**No parallel inceptive forms** are documented in P1–P5 for *llullachay*, *pantachiy*, *sut'ichay*, or *yachachiy*. The absence of attested inceptive forms for these verbs is preserved without comment.
+
+---
+
+## 5. RESULTANT STATES
+
+The following resultant-state expressions are documented in P1–P5 and are collected here for completeness. They describe the state that obtains after a change or causation event has occurred.
+
+| Form | Transliteration | Translation | Naturalness Rating | Source |
+|---|---|---|---|---|
+| `cheqanchasqa` | cheqa-ncha-sqa | "verified, confirmed, corrected" | [CORE] | P2a, P3 Group 7 |
+| `sut'ichasqa` | sut'i-cha-sqa | "clarified, made explicit" | [CORE] | P2a, P3 Group 8 |
+| `pantasqa` | panta-sqa | "mistaken, in error, wrong" | [CORE] | P1 item 15, P2a, P3 Group 9 |
+| `llullakusqa` | llullaku-sqa | "having lied, having deceived" | [CORE] | P2a, P3 Group 10 |
+| `iñisqa` | iñi-sqa | "believed, trusted, accepted as true" | [CORE] | P1 item 13, P2a, P3 Group 4 |
+| `reqsisqa` | reqsi-sqa | "recognized, known, identified" | [UNCERTAIN] | P1 item 20, P2a |
+| `yachasqa` | yacha-sqa | "known, learned" | [CORE] | P2a |
+| `rurasqa` | rura-sqa | "done, made, performed" | [CORE] | P2a, P2b |
+| `qawasqa` | qawa-sqa | "seen, observed, examined" | [CORE] | P2a |
+
+---
+
+## 6. STABILITY / RESISTANCE TO CHANGE
+
+No dedicated lexical expressions for stability or resistance to change in truth-related states are documented in P1–P5. The emphatic suffix *-puni* (documented in P1b and P5 as in *cheqapuni*, *llullapuni*, *sut'ipuni*) encodes certainty or absoluteness rather than temporal stability per se. The construction *cheqapuni* ("absolutely true / certainly genuine") implies that the truth-value is not in question, which is adjacent to stability, but no expression specifically encoding "remains true" or "stays false" is attested in the data.
+
+**No common expression is attested** for explicit stability or persistence of a truth-related state.
+
+---
+
+## 7. SUMMARY OF ASYMMETRIES
+
+The following asymmetries are observed in the data and are reported without interpretation beyond what the data support:
+
+**Causative morphology is well-attested across the domain.** All three primary roots (*cheqa*, *llulla*, *sut'i*) and the verbal roots *pantay*, *yachay*, and *qaway* have documented causative forms. This is the most robustly attested dynamic pattern in the data.
+
+**Inchoative expressions are sparse and mostly ambiguous.** The primary inchoative strategy (*tukuy*) is documented for *cheqa* and *llulla* but is ambiguous between genuine becoming and pretense in both cases. The only unambiguous inchoative in the domain is *pantakuy* ("to fall into error"), which uses the reflexive-middle suffix rather than *tukuy*.
+
+**The *cheqa* root has an inceptive form (*cheqanchariy*) that is not attested for *llulla* or *sut'i*.** This asymmetry is preserved from P2a without comment.
+
+**Resultant states are well-attested via the *-sqa* participial suffix** across all major roots and verbal stems in the domain. This suffix is the primary morphological encoding of the endpoint of a change process.
+
+**No expressions for spontaneous change from truth to falsity or from clarity to unclarity are attested.** Changes in the direction of falsity or error are encoded either as caused by an agent (*llullachay*, *pantachiy*) or as a performance/pretense (*llulla tukuy*), not as spontaneous transitions.
+
+---
+
+*End of P6 Change, Causation, and Stability for Quechua (qu)*

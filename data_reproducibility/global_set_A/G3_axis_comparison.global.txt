@@ -1,0 +1,320 @@
+# G3 — Emergent Cross-Language Semantic Dimensions
+
+---
+
+## 1. Methodology
+
+The dimensions below are inferred from patterns that recur across the F3 semantic grouping tables and are supported by F1 vocabulary distributions and F2 derivational evidence. Each dimension is defined by what the data shows: which terms cluster together, which contrasts are lexicalized, and which groupings appear independently in multiple languages. No dimension is proposed unless it is supported by evidence from at least two languages. Single-language observations are noted as such.
+
+---
+
+## 2. Proposed Dimensions
+
+---
+
+### Dimension 1: Propositional Correspondence
+
+**Definition.** This dimension distinguishes terms used to evaluate whether statements, claims, or representations correspond to actual states of affairs from terms used for other purposes. It is the most basic truth-evaluation dimension in the data: terms in this cluster are applied to propositions, assertions, or information, and their primary function is to mark whether content matches reality. It is distinct from evaluations of objects (authenticity), persons (honesty), or actions (moral rightness).
+
+**Representative terms:**
+- Georgian: სიმართლე (simart'le) "truth," სწორი (sts'ori) "correct," მცდარი (mts'dari) "erroneous," ჭეშმარიტი (ch'eshmarit'i) "true"
+- Yoruba: òtítọ́ "truth," tọ́ "to be correct," irọ́ "lie," kò tọ́ "to be incorrect"
+- Finnish: tosi "true," totuus "truth," väärä "wrong/false," paikkansapitävä "accurate"
+- Basque: egia "truth," egiazkoa "true," gezurra "lie," gezurrezko "false"
+- Tamil: uṇmai "truth," cari "correct," tappu "wrong," poy "lie/false"
+- Indonesian: benar "true/correct," salah "wrong," sah "valid"
+- Turkish: doğru "true/correct," yanlış "wrong/false," gerçek "real/true"
+- Korean: 진실 (jinsil) "truth," 사실 (sasil) "fact," 맞다 (matda) "correct," 틀리다 (teullida) "wrong"
+
+**Distribution.** Clearly lexicalized in all eight languages. This is the most robustly attested dimension in the dataset. In all languages it forms the core of the truth-domain vocabulary and generates the most productive derivational families. In several languages (Georgian, Turkish, Basque) this dimension partially merges with moral rightness (Dimension 5); in others (Yoruba, Korean) it is kept more separate.
+
+---
+
+### Dimension 2: Deliberate Deception vs. Unintentional Error
+
+**Definition.** This dimension distinguishes terms that mark intentional false representation or lying from terms that mark unintentional error or mistake. The deception terms consistently imply a speaker or agent who knows the truth and chooses to misrepresent it; the error terms imply incorrect belief or action without intent to deceive. The two clusters show different moral valence, different collocational patterns, and different derivational behavior across languages.
+
+**Representative terms (deception side):**
+- Georgian: ტყუილი (t'q'uili) "lie," მოტყუება (mot'q'ueba) "deception," მატყუარა (mat'q'uara) "liar"
+- Yoruba: irọ́ "lie," purọ́ "to lie," apurọ́ "liar"
+- Finnish: valhe "lie," valehdella "to lie," valehtelija "liar"
+- Basque: gezurra "lie," gezurkeria "habitual lying," iruzurra "fraud"
+- Tamil: poy "lie," poy col "tell lies," poyyar "liars"
+- Indonesian: bohong "lie/to lie," pembohong "liar," kebohongan "falsehood"
+- Turkish: yalan "lie," yalancı "liar," yalanlamak "to deny/refute"
+- Korean: 거짓말 (geojinmal) "lie," 거짓말쟁이 (geojinmaljjaengi) "liar," 허위 (heowi) "falsehood"
+
+**Representative terms (unintentional error side):**
+- Georgian: მცდარი (mts'dari) "erroneous," შეცდომა (shets'doma) "mistake"
+- Yoruba: àṣìṣe "error, mistake," ṣìṣe "to err"
+- Finnish: virheellinen "erroneous," väärinkäsitys "misunderstanding"
+- Basque: okerra "wrong/erroneous," okertu "to go wrong"
+- Tamil: tappu "mistake," tavaṟu "error"
+- Indonesian: keliru "mistaken," kesalahan "error/mistake"
+- Turkish: hatalı "erroneous," hata "error," yanılmak "to be mistaken"
+- Korean: 틀리다 (teullida) "to be wrong/incorrect," 실수 (silsu) "mistake"
+
+**Distribution.** Clearly lexicalized in all eight languages. The deception terms consistently carry stronger moral valence and generate more agentive nominalizations (liar-words). The error terms tend to be softer and more neutral. In several languages (Georgian, Finnish, Indonesian) the two clusters are explicitly separated in F3 analyses. The distinction is maintained even when a single root covers both domains (e.g., Georgian ყალბი q'albi covers both "fake" and "forged," but the deliberate deception implication is present).
+
+---
+
+### Dimension 3: Authenticity of Objects and Representations
+
+**Definition.** This dimension covers terms used to evaluate whether physical objects, documents, artworks, products, or identities are genuine originals versus counterfeits, forgeries, or imitations. It is distinct from propositional correspondence (Dimension 1) in that it applies to objects rather than statements, and from deliberate deception (Dimension 2) in that it focuses on the status of the object rather than the intent of an agent. The contrast is between "the real thing" and "a copy or fake."
+
+**Representative terms:**
+- Georgian: ნამდვილი (namdvili) "genuine/real," ყალბი (q'albi) "fake/counterfeit," ავთენტური (avt'ent'uri) "authentic"
+- Yoruba: gidi "genuine/real," wúrà gidi "genuine gold"
+- Finnish: aito "genuine/authentic," aitous "genuineness," väärennös "forgery"
+- Basque: benetakoa "genuine/real," faltsua "false/fake," faltsutu "to falsify/forge"
+- Tamil: acal "original/genuine," pōli "fake/counterfeit," pōliyāṉa "fake"
+- Indonesian: asli "genuine/authentic," palsu "fake/counterfeit," pemalsuan "forgery"
+- Turkish: gerçek "real/genuine," sahte "fake/counterfeit," sahtekâr "forger/fraud"
+- Korean: 진짜 (jinjja) "real/genuine," 가짜 (gajja) "fake/counterfeit," 진본 (jinbon) "authentic original," 모조품 (mojopum) "imitation product"
+
+**Distribution.** Clearly lexicalized in all eight languages. In most languages this dimension is kept distinct from propositional truth, though some terms participate in both (Georgian ნამდვილი, Tamil uṇmai, Turkish gerçek). The negative pole (fake/counterfeit) tends to be more lexically elaborated than the positive pole in several languages. Yoruba is the only language where the negative pole lacks a dedicated lexical item (inauthenticity is expressed through negation of gidi rather than a separate word).
+
+---
+
+### Dimension 4: Honesty and Moral Character
+
+**Definition.** This dimension covers terms that evaluate the truthfulness, integrity, or sincerity of persons as a stable character trait or disposition, rather than evaluating specific statements or objects. Terms in this cluster are applied to persons or their habitual conduct and imply a moral assessment of character. They are distinct from propositional truth (which evaluates statements) and from deliberate deception (which evaluates specific acts).
+
+**Representative terms:**
+- Georgian: გულწრფელი (gults'rpeli) "sincere/honest," ლიცემერი (lits'emeri) "hypocritical," ნეიმარი (nērmai) — not Georgian; see below
+- Yoruba: ìwà rere "good character," ìwà búburú "bad character," ọmọ òtítọ́ "truthful person," ọkàn tọ́ "straight heart"
+- Finnish: rehellinen "honest," vilpitön "sincere," dürüst — not Finnish; see below
+- Basque: zintzoa "honest/sincere," zintzotasuna "honesty/integrity," zintzoki "honestly"
+- Tamil: nērmai "honesty/integrity," nērmaiyāṉa "honest," nērmaikku māṟāṉa "contrary to honesty"
+- Indonesian: jujur "honest/truthful," kejujuran "honesty," dürüst — not Indonesian; see below
+- Turkish: dürüst "honest/truthful," dürüstlük "honesty/integrity," dürüstçe "honestly"
+- Korean: 정직 (jeongjik) "honesty/integrity," 솔직 (soljik) "frankness/candor," 진심 (jinsim) "sincerity"
+
+**Distribution.** Clearly lexicalized in all eight languages. In most languages this dimension forms a distinct cluster in F3 analyses. The distinction between honesty as a character trait (this dimension) and truthfulness of specific statements (Dimension 1) is maintained across languages, though some terms participate in both. Sincerity of emotional expression (e.g., Georgian გულწრფელი, Korean 진심) is sometimes grouped with this dimension and sometimes treated as a sub-dimension of authenticity.
+
+---
+
+### Dimension 5: Moral Rightness and Justice
+
+**Definition.** This dimension covers terms that evaluate actions, decisions, or situations according to moral or legal standards of rightness, fairness, and justice. It is distinct from propositional truth (which evaluates statements) and from honesty (which evaluates character). Terms in this cluster are applied to actions, decisions, social arrangements, or legal outcomes and imply normative evaluation according to standards of what is right or fair.
+
+**Representative terms:**
+- Georgian: სამართლიანი (samart'liani) "just/fair," მართლმსაჯულება (mart'lmsajuleba) "justice/jurisprudence," უსამართლობა (usamart'loba) "injustice"
+- Yoruba: òdodo "justice/righteousness," ṣe òdodo "to do justice," ìwà rere "good character/conduct"
+- Finnish: oikeudenmukaisuus "justice/fairness," oikeutettu "justified/warranted," oikeuttaa "to justify"
+- Basque: zuzentasuna "correctness/justice/rectitude," zuzenbide "law/jurisprudence," zintzoa "honest/upright"
+- Tamil: niyāyam "justice/fairness," aṟam "virtue/righteousness/dharma," nīti "justice/righteousness"
+- Indonesian: adil "just/fair," keadilan — not in P1 data; pantas "appropriate/deserved"
+- Turkish: hak "right/justice," haklı "justified/in the right," haksız "unjust," adil "just/fair," adalet "justice"
+- Korean: 정당하다 (jeongdanghada) "legitimate/justified," 타당하다 (tadanghada) "valid/reasonable"
+
+**Distribution.** Clearly lexicalized in all eight languages, but the degree of integration with propositional truth varies considerably. Turkish (hak-) and Georgian (mart'l-/samart'l-) show the strongest merger of moral rightness with factual correctness within a single root. Yoruba, Korean, and Finnish keep this dimension more separate from propositional truth. In Basque, zuzen- merges correctness, moral rightness, and legal concepts. The dimension is present everywhere but its lexical organization relative to Dimension 1 is a major point of cross-language variation.
+
+---
+
+### Dimension 6: Reliability and Credibility of Sources
+
+**Definition.** This dimension covers terms used to evaluate whether sources, persons, or information can be trusted or relied upon, independently of whether their specific claims have been verified. It is distinct from propositional truth (which evaluates whether claims are true) and from honesty (which evaluates character). Terms in this cluster are applied to sources, witnesses, or information and assess their trustworthiness or believability as a property that precedes or enables verification.
+
+**Representative terms:**
+- Georgian: სანდო (sando) "reliable/trustworthy," საეჭვო (saech'vo) "doubtful/dubious," დამაჯერებელი (damajerebeli) "convincing/credible"
+- Yoruba: dájú "certain/sure," gbàgbọ́ "to believe/trust," ìgbàgbọ́ "belief/faith/trust"
+- Finnish: luotettava "reliable/trustworthy," uskottava "believable/credible," luotettavuus "reliability"
+- Basque: fidagarria "reliable/trustworthy," sinesgarria "believable/credible," zalantzagarria "doubtful/dubious"
+- Tamil: nampakam "reliability/trustworthiness," nampikkai "trust/belief/faith," cantēkam "doubt/suspicion"
+- Indonesian: güvenilir — not Indonesian; see below; sah "valid" (partially overlaps)
+- Turkish: güvenilir "reliable/trustworthy," güvenilirlik "reliability," inandırıcı "convincing/credible"
+- Korean: 신빙성 (sinbingseong) "credibility/reliability," 그럴듯하다 (geureoldeuthada) "plausible"
+
+**Distribution.** Clearly lexicalized in all eight languages. This dimension consistently forms a distinct cluster in F3 analyses and is consistently kept separate from propositional truth. A key feature across languages is that reliability terms are gradable (credibility can be high or low, can increase or decrease) while core truth predicates resist degree modification in several languages. The distinction between "this source is reliable" and "this claim is true" is maintained across all eight languages.
+
+---
+
+### Dimension 7: Epistemic Certainty and Doubt
+
+**Definition.** This dimension covers terms that express the degree of confidence or certainty a speaker has regarding a claim, independently of whether the claim is actually true. Terms in this cluster mark epistemic stance — how sure the speaker is — rather than the truth-value of the proposition itself. They are distinct from reliability (which evaluates sources) and from propositional truth (which evaluates content).
+
+**Representative terms:**
+- Georgian: ეჭვი (ech'vi) "doubt/suspicion," საეჭვო (saech'vo) "doubtful," უტყუარი (ut'q'uari) "infallible/certain"
+- Yoruba: ìdájú "certainty/assurance," dájú "to be certain," dájúdájú "very certain"
+- Finnish: todennäköinen "probable/likely," todennäköisyys "probability," epätodennäköinen "improbable"
+- Basque: ziurra "certain/sure," ziurtasuna "certainty," zalantzagarria "doubtful"
+- Tamil: uṟuti "certainty/confirmation," cantēkam "doubt/suspicion," teḷivu "clarity"
+- Indonesian: kesin — not Indonesian; see below; şüpheli — not Indonesian; see below
+- Turkish: kesin "certain/definite," kesinlik "certainty," şüpheli "doubtful/suspicious," kuşkulu "doubtful"
+- Korean: 확실하다 (hwaksilhada) "certain/sure," 불확실성 (bulhwaksilseong) "uncertainty," 명백하다 (myeongbaekhada) "obvious/clear"
+
+**Distribution.** Clearly lexicalized in all eight languages, but the degree to which it forms a distinct cluster varies. Finnish, Turkish, and Korean show the most elaborated epistemic certainty vocabulary. Basque groups certainty terms under reliability rather than as a separate cluster. Yoruba's certainty terms (dájú) are closely linked to verification processes. The dimension is present everywhere but its independence from Dimension 6 (reliability) varies across languages.
+
+---
+
+### Dimension 8: Appearance vs. Underlying Reality
+
+**Definition.** This dimension covers terms that distinguish how things appear or seem from how they actually are. Terms in this cluster are used when surface appearances may be misleading or when the underlying reality differs from what is manifest. It is distinct from propositional truth (which evaluates statements) and from authenticity (which evaluates objects) in that it focuses on the gap between surface and depth, or between seeming and being.
+
+**Representative terms:**
+- Georgian: მოჩვენებითი (moch'venebiti) "apparent/seeming," ზედაპირული (zedap'iruli) "superficial," არსებითი (arsebiti) "essential/substantial," ნამდვილი სახე (namdvili sakhe) "true face/real nature"
+- Yoruba: ẹnu ń sọ, ọkàn ò mọ̀ "mouth speaks but heart doesn't know" (proverbial)
+- Finnish: todellinen "real/actual" (vs. apparent), harhaanjohtava "misleading," petollinen "deceptive"
+- Basque: itxurazko "apparent/seeming/ostensible," ageria "evident/manifest," funtsean "fundamentally/essentially," benetakoa "genuine/real"
+- Tamil: uṇmai mukam "true face," poy mukam "false face," māyai "illusion/deception," iyal pu "natural state/essence"
+- Indonesian: sebenarnya "actually/in truth," hakikat "essence/true nature," nyata "real/actual"
+- Turkish: gerçek yüz "true face/real nature," gerçeğe aykırı "contrary to reality," gerçekdışı "unreal/unrealistic"
+- Korean: 진면목 (jinmyeonmok) "true character/real nature," 실체 (silche) "substance/entity/reality," 본질 (bonjil) "essence/nature"
+
+**Distribution.** Clearly lexicalized in all eight languages, but the degree of elaboration varies. Georgian, Basque, and Turkish show the most systematic vocabulary for this dimension. Tamil and Korean show it primarily through metaphorical expressions (true face/false face). Finnish and Indonesian show it through adverbial discourse markers (sebenarnya, tosiasiassa). The dimension is present everywhere but is more elaborated in some languages than others.
+
+---
+
+### Dimension 9: Validity and Legitimacy
+
+**Definition.** This dimension covers terms that evaluate whether actions, documents, arguments, or statuses conform to established rules, legal requirements, or accepted standards — whether they "count" as valid or legitimate. It is distinct from moral rightness (which evaluates ethical quality) and from propositional truth (which evaluates factual content). Terms in this cluster are applied in legal, administrative, logical, and procedural contexts.
+
+**Representative terms:**
+- Georgian: მართებული (mart'ebuli) "justified/well-founded," გამართლება (gamart'leba) "justification/vindication," სამართლებრივი (samart'lebrivi) "legal/juridical"
+- Yoruba: yẹ "to be fitting/appropriate," ó yẹ kó ṣe bẹ́ẹ̀ "it is fitting that it be so"
+- Finnish: oikeutettu "justified/warranted," oikeuttaa "to justify," oikeutus "justification"
+- Basque: zuzenbide "law/jurisprudence," egiaztagiri "certificate/attestation," ziurtagiri "certificate"
+- Tamil: niyāyam "justice/legitimacy," niyāyamāṉa "just/legitimate"
+- Indonesian: sah "valid/legal/legitimate," absah "valid/legitimate," batal "void/invalid," mengesahkan "to validate/legalize"
+- Turkish: geçerli "valid/current/applicable," meşru "legitimate/lawful," meşruiyet "legitimacy"
+- Korean: 정당하다 (jeongdanghada) "legitimate/justified," 타당하다 (tadanghada) "valid/reasonable," 정당성 (jeongdangseong) "legitimacy"
+
+**Distribution.** Clearly lexicalized in all eight languages, but the degree of independence from Dimension 5 (moral rightness) varies. Indonesian shows the most elaborated legal validity cluster. Turkish shows the most elaborated legitimacy vocabulary. In Georgian and Basque, legal validity terms are closely integrated with the correctness/justice root. In Yoruba, appropriateness (yẹ) partially covers this dimension. The dimension is present everywhere but its lexical independence from moral rightness varies.
+
+---
+
+### Dimension 10: Similarity and Correspondence
+
+**Definition.** This dimension covers terms that evaluate how closely things resemble each other or correspond to each other, ranging from exact identity to approximate similarity. It is distinct from propositional truth (which evaluates whether statements match reality) in that it evaluates the relationship between two entities rather than between a statement and a fact. Terms in this cluster appear in comparative, evaluative, and matching contexts.
+
+**Representative terms:**
+- Georgian: მსგავსი (msgavsi) "similar/resembling," ადეკვატური (adek'vat'uri) "adequate/appropriate/fitting," ბერდინი — not Georgian
+- Yoruba: bá mu "to correspond/match," ìbámu "correspondence/agreement," jọ "to resemble," ìjọra "mutual resemblance," àìbámu "non-correspondence"
+- Finnish: (similarity terms present but not forming a distinct F3 group)
+- Basque: antzekoa "similar/resembling," berdina "same/equal/identical," antzetasuna "similarity"
+- Tamil: oppu "similarity/resemblance/comparison"
+- Indonesian: sama "same/equal/identical," mirip "similar/resembling," kesamaan "similarity/equality"
+- Turkish: (similarity terms present but not forming a distinct F3 group)
+- Korean: (similarity terms present but not forming a distinct F3 group)
+
+**Distribution.** Clearly lexicalized in all eight languages, but the degree to which it forms a distinct cluster varies considerably. Yoruba shows the most elaborated correspondence/matching cluster (bá mu, ìbámu, jọ, ìjọra, àìbámu) of any language. Georgian and Basque show distinct similarity groups in F3. Indonesian shows a clear similarity/identity group. Finnish, Turkish, and Korean have relevant vocabulary but do not show a distinct F3 cluster for this dimension. The dimension is present everywhere but its lexical elaboration is uneven.
+
+---
+
+### Dimension 11: Practical Reality vs. Theory or Nominal Status
+
+**Definition.** This dimension covers terms that distinguish what actually exists or occurs in practice from what is planned, theoretical, nominal, or hypothetical. It is distinct from propositional truth (which evaluates whether statements are true) in that it evaluates the gap between actual implementation and theoretical or nominal status. Terms in this cluster are common in administrative, technical, and evaluative contexts.
+
+**Representative terms:**
+- Georgian: რეალური (realuri) "real/actual," ნამდვილი (namdvili) "real/genuine," ნამდვილი ვითარება (namdvili vitareba) "real situation"
+- Yoruba: (present but not forming a distinct cluster)
+- Finnish: tosielämä "real life," tositarina "true story," tosiasiallinen "actual/factual/de facto," tosiasiassa "in fact/actually"
+- Basque: benetako "real/genuine/actual," egiazko egoera "true situation/real state of affairs"
+- Tamil: uṇmai vāḻkkai "real life," uṇmai nikaḻvu "true event/actual occurrence," iyalpu "natural state/essence"
+- Indonesian: nyata "real/actual/tangible," kenyataan "reality/fact," faktual "factual"
+- Turkish: gerçek hayat "real life," gerçek anlamda "in the true sense/in reality"
+- Korean: 실제 (silje) "reality/actuality/practice," 실질 (siljil) "substance/essence/reality," 실천 (silcheon) "practice/implementation," 실현 (silhyeon) "realization/actualization," 실력 (sillyeok) "actual ability"
+
+**Distribution.** Present in all eight languages but with very uneven elaboration. Korean shows the most extensive vocabulary for this dimension (the 실- cluster with dozens of compounds). Finnish shows a distinct cluster (tosielämä, tositarina, tosiasiallinen). Indonesian shows a clear group (nyata, kenyataan, faktual). In other languages the dimension is present but less systematically organized. This is one of the dimensions with the greatest cross-language variation in elaboration.
+
+---
+
+### Dimension 12: Verification and Proof Processes
+
+**Definition.** This dimension covers terms that describe the processes of establishing, confirming, or demonstrating truth through evidence, examination, or systematic inquiry. It is distinct from propositional truth (which evaluates the result) in that it focuses on the process of arriving at or establishing truth. Terms in this cluster appear in legal, scientific, investigative, and administrative contexts.
+
+**Representative terms:**
+- Georgian: დაამტკიცა (daamt'k'itsa) "proved/confirmed," გადაამოწმა (gadaamots'ma) "verified," სანდო წყარო (sando ts'q'aro) "reliable source"
+- Yoruba: ṣe ìwádìí "to investigate," ṣe àyẹ̀wò "to examine/scrutinize," ṣe ìdánilójú "to confirm/verify," fi òtítọ́ hàn "to reveal the truth"
+- Finnish: todistaa "to prove/testify," todiste "proof/evidence," todistaja "witness," todentaa "to verify/authenticate," todistusaineisto "body of evidence"
+- Basque: egiaztatu "to verify/confirm," egiaztapen "verification/confirmation," frogagarria "provable/demonstrable," froga eman "to give proof"
+- Tamil: uṟutipaṭuttu "to confirm," cāṭci "witness/testimony/evidence," uṇmaiyai veḷippaṭuttu "to reveal the truth"
+- Indonesian: membenarkan "to confirm/verify/justify," doğrulamak — not Indonesian; see below; mengesahkan "to validate"
+- Turkish: doğrulamak "to verify/confirm," doğrulama "verification/confirmation," yanlışlamak "to falsify/prove wrong"
+- Korean: 진실을 밝히다 (jinsireul balkhida) "to reveal the truth," 사실을 확인하다 (sasireul hwaginhada) "to verify the facts," 신빙성이 있다 (sinbingseongi itda) "to be credible"
+
+**Distribution.** Clearly lexicalized in all eight languages. Finnish shows the most elaborated verification/proof cluster. Yoruba shows the most elaborated investigation sub-cluster (split into investigation, examination, documentation, and evidence sub-groups). Basque shows a productive verification cluster built on the egiazta- stem. The dimension is present everywhere but its internal organization varies.
+
+---
+
+### Dimension 13: Discourse Marking of Truth Stance
+
+**Definition.** This dimension covers grammaticalized or semi-grammaticalized expressions derived from truth-domain roots that function as discourse markers to introduce corrections, frank statements, factual clarifications, or epistemic qualifications. These expressions have moved beyond their compositional meaning to serve pragmatic functions in discourse management. They are distinct from the truth-domain terms they derive from in that their primary function is discourse-organizational rather than propositional.
+
+**Representative terms:**
+- Georgian: მართლაც (mart'lats) "really/indeed," მართლა? (mart'la?) "really?/is that true?," სიმართლე გითხრა (simart'le git'khra) "to tell you the truth"
+- Yoruba: nitootọ́ "truly/in truth," òtítọ́ ni "it is true/that's the truth"
+- Finnish: totta kai "of course/certainly," totta puhuen "to tell the truth," sebenarnya — not Finnish; see below; tosiaankin "indeed/really"
+- Basque: benetan "truly/really/indeed," egiatan "in truth/truly"
+- Tamil: uṇmaiyil "in truth/actually/in reality," uṇmaiyāka "truly/truthfully," nijamā? "really?/is that so?"
+- Indonesian: sebenarnya "actually/in fact," sesungguhnya "truly/in reality," ternyata "it turns out/apparently"
+- Turkish: gerçekten "really/truly/actually," hakikaten "really/truly/indeed," doğrusunu söylemek "to tell the truth"
+- Korean: 사실은 (sasireun) "actually/in fact/the truth is," 솔직히 (soljiki) "frankly," 진짜야? (jinjjaya?) "really?/for real?"
+
+**Distribution.** Present in all eight languages. This is one of the most robustly attested cross-language patterns in the dataset. The grammaticalization of truth-domain roots into discourse markers appears to be a general tendency. The specific forms vary (adverbials, question particles, fixed phrases) but the functional pattern is consistent. This dimension is not typically identified as a separate semantic group in F3 analyses but emerges from F1 and F2b evidence across all languages.
+
+---
+
+## 3. Summary Table
+
+| Dimension Label | Informal Definition (data-based) | Representative Languages & Terms | Distribution / Notes |
+|-----------------|-----------------------------------|----------------------------------|----------------------|
+| **D1: Propositional Correspondence** | Terms evaluating whether statements or claims match actual states of affairs | All 8 languages: ka სიმართლე/სწორი, yo tọ́/òtítọ́, fi tosi/totuus, eu egia/egiazkoa, ta uṇmai/cari, id benar/salah, tr doğru/yanlış, ko 진실/사실/맞다 | **Strongly supported.** Clearly lexicalized in all 8 languages. Core of the truth domain in every language. Partially merges with D5 (moral rightness) in ka, tr, eu. |
+| **D2: Deliberate Deception vs. Unintentional Error** | Terms distinguishing intentional lying from accidental mistake | All 8 languages: ka ტყუილი vs. მცდარი, yo irọ́/purọ́ vs. àṣìṣe, fi valhe vs. virheellinen, eu gezurra vs. okerra, ta poy vs. tappu, id bohong vs. keliru, tr yalan vs. hatalı/yanılmak, ko 거짓말 vs. 틀리다 | **Strongly supported.** Clearly lexicalized in all 8 languages. Deception terms consistently carry stronger moral valence. Agentive asymmetry (liar lexicalized; truth-teller not) documented in 6+ languages. |
+| **D3: Authenticity of Objects** | Terms evaluating whether objects, documents, or identities are genuine originals vs. fakes or counterfeits | All 8 languages: ka ნამდვილი/ყალბი, yo gidi (no lexical antonym), fi aito/väärennös, eu benetakoa/faltsua, ta acal/pōli, id asli/palsu, tr gerçek/sahte, ko 진짜/가짜/진본/모조품 | **Strongly supported.** Clearly lexicalized in all 8 languages. yo is the only language where the negative pole lacks a dedicated lexical item. Partially overlaps with D1 in ka, tr. |
+| **D4: Honesty and Moral Character** | Terms evaluating truthfulness and integrity as stable character traits of persons | All 8 languages: ka გულწრფელი/ლიცემერი, yo ìwà rere/ọkàn tọ́, fi rehellinen/vilpitön, eu zintzoa, ta nērmai, id jujur, tr dürüst, ko 정직/솔직/진심 | **Strongly supported.** Clearly lexicalized in all 8 languages. Distinct from D1 (statement truth) and D2 (specific deceptive acts). Sincerity of emotion sometimes grouped here, sometimes with D3. |
+| **D5: Moral Rightness and Justice** | Terms evaluating actions, decisions, or situations according to moral or legal standards of rightness and fairness | All 8 languages: ka სამართლიანი/მართლმსაჯულება, yo òdodo, fi oikeudenmukaisuus/oikeutettu, eu zuzentasuna/zuzenbide, ta niyāyam/aṟam/nīti, id adil/pantas, tr hak/haklı/haksız/adil, ko 정당하다/타당하다 | **Strongly supported.** Clearly lexicalized in all 8 languages. Degree of merger with D1 varies: strong merger in ka (mart'l-), tr (hak-), eu (zuzen-); kept more separate in yo, ko, fi. |
+| **D6: Reliability and Credibility of Sources** | Terms evaluating whether sources, persons, or information can be trusted, prior to or independently of verification | All 8 languages: ka სანდო/საეჭვო, yo dájú/gbàgbọ́/ìgbàgbọ́, fi luotettava/uskottava, eu fidagarria/sinesgarria/zalantzagarria, ta nampakam/nampikkai/cantēkam, id (sah partially), tr güvenilir/inandırıcı, ko 신빙성/그럴듯하다 | **Strongly supported.** Clearly lexicalized in all 8 languages. Consistently kept separate from D1. Reliability terms are gradable across languages, unlike core truth predicates. |
+| **D7: Epistemic Certainty and Doubt** | Terms expressing the speaker's degree of confidence or certainty regarding a claim | All 8 languages: ka ეჭვი/უტყუარი, yo ìdájú/dájú, fi todennäköinen/todennäköisyys, eu ziurra/ziurtasuna/zalantzagarria, ta uṟuti/cantēkam/teḷivu, id (kesin — not id; şüpheli — not id), tr kesin/şüpheli/kuşkulu, ko 확실하다/불확실성/명백하다 | **Strongly supported.** Clearly lexicalized in all 8 languages. Degree of independence from D6 varies: eu groups certainty under reliability; yo links certainty to verification. fi, tr, ko show most elaborated epistemic certainty vocabulary. |
+| **D8: Appearance vs. Underlying Reality** | Terms distinguishing surface appearances or seemings from underlying actual states | All 8 languages: ka მოჩვენებითი/ზედაპირული/არსებითი, yo (proverbial), fi harhaanjohtava/petollinen/todellinen, eu itxurazko/ageria/funtsean, ta māyai/uṇmai mukam/iyalpu, id sebenarnya/hakikat/nyata, tr gerçek yüz/gerçeğe aykırı, ko 진면목/실체/본질 | **Strongly supported.** Present in all 8 languages. Degree of elaboration varies: ka, eu, tr most systematic; yo primarily proverbial; fi, id primarily through discourse markers. |
+| **D9: Validity and Legitimacy** | Terms evaluating whether actions, documents, or arguments conform to established rules, legal requirements, or accepted standards | All 8 languages: ka მართებული/სამართლებრივი, yo yẹ (partially), fi oikeutettu/oikeuttaa, eu zuzenbide/egiaztagiri/ziurtagiri, ta niyāyam (partially), id sah/absah/batal/mengesahkan, tr geçerli/meşru/meşruiyet, ko 정당하다/타당하다/정당성 | **Strongly supported.** Clearly lexicalized in all 8 languages. Degree of independence from D5 (moral rightness) varies. id shows most elaborated legal validity cluster. tr shows most elaborated legitimacy vocabulary. |
+| **D10: Similarity and Correspondence** | Terms evaluating degrees of resemblance or matching between entities or between representations and their referents | All 8 languages (unevenly): ka მსგავსი/ადეკვატური, yo bá mu/ìbámu/jọ/ìjọra/àìbámu, fi (present but not distinct F3 group), eu antzekoa/berdina, ta oppu, id sama/mirip/kesamaan, tr (present but not distinct F3 group), ko (present but not distinct F3 group) | **Moderately supported.** Present in all 8 languages but forms a distinct F3 cluster only in ka, yo, eu, id. yo shows most elaborated correspondence cluster. fi, tr, ko have relevant vocabulary but no distinct grouping. |
+| **D11: Practical Reality vs. Theory/Nominal Status** | Terms distinguishing what actually exists or occurs in practice from what is planned, theoretical, or nominal | All 8 languages (unevenly): ka რეალური/ნამდვილი ვითარება, yo (present but not distinct), fi tosielämä/tosiasiallinen/tosiasiassa, eu benetako/egiazko egoera, ta uṇmai vāḻkkai/uṇmai nikaḻvu, id nyata/kenyataan/faktual, tr gerçek hayat/gerçek anlamda, ko 실제/실질/실천/실현/실력 | **Moderately supported.** Present in all 8 languages but with very uneven elaboration. ko shows most extensive vocabulary (실- cluster). fi shows a distinct cluster. In other languages the dimension is present but less systematically organized. |
+| **D12: Verification and Proof Processes** | Terms describing the processes of establishing, confirming, or demonstrating truth through evidence or systematic inquiry | All 8 languages: ka დაამტკიცა/გადაამოწმა, yo ṣe ìwádìí/ṣe àyẹ̀wò/fi òtítọ́ hàn, fi todistaa/todiste/todentaa, eu egiaztatu/egiaztapen/froga eman, ta uṟutipaṭuttu/cāṭci, id membenarkan/mengesahkan, tr doğrulamak/yanlışlamak, ko 진실을 밝히다/사실을 확인하다 | **Strongly supported.** Clearly lexicalized in all 8 languages. fi shows most elaborated proof/evidence cluster. yo shows most elaborated investigation sub-cluster. eu shows productive verification stem (egiazta-). |
+| **D13: Discourse Marking of Truth Stance** | Grammaticalized or semi-grammaticalized expressions derived from truth-domain roots that function as discourse markers | All 8 languages: ka მართლაც/მართლა?, yo nitootọ́/òtítọ́ ni, fi totta kai/totta puhuen, eu benetan/egiatan, ta uṇmaiyil/nijamā?, id sebenarnya/ternyata, tr gerçekten/hakikaten, ko 사실은/솔직히/진짜야? | **Strongly supported.** Present in all 8 languages. Not typically identified as a distinct F3 group but emerges consistently from F1 and F2b evidence. Grammaticalization of truth-domain roots into discourse markers appears to be a cross-linguistically general tendency. |
+
+---
+
+## 4. Assessment of Dimensions
+
+### Strongly Supported Cross-Linguistically
+
+The following dimensions are supported by clearly lexicalized evidence from all eight languages and form distinct clusters in F3 analyses across multiple languages:
+
+- **D1 (Propositional Correspondence)** — universal, core of the truth domain in every language
+- **D2 (Deliberate Deception vs. Unintentional Error)** — universal, with consistent moral valence asymmetry
+- **D3 (Authenticity of Objects)** — universal, though yo lacks a lexical antonym for gidi
+- **D4 (Honesty and Moral Character)** — universal, consistently distinct from D1
+- **D5 (Moral Rightness and Justice)** — universal, though degree of merger with D1 varies
+- **D6 (Reliability and Credibility)** — universal, consistently gradable unlike core truth predicates
+- **D7 (Epistemic Certainty and Doubt)** — universal, though independence from D6 varies
+- **D12 (Verification and Proof Processes)** — universal, with varying internal organization
+- **D13 (Discourse Marking of Truth Stance)** — universal, emerging from grammaticalization pattern
+
+### Moderately Supported (Present in All Languages but Unevenly Elaborated)
+
+- **D8 (Appearance vs. Underlying Reality)** — present in all 8 languages but degree of systematic elaboration varies considerably; ka, eu, tr most systematic; yo primarily proverbial
+- **D9 (Validity and Legitimacy)** — present in all 8 languages but degree of independence from D5 varies; id and tr most elaborated
+- **D10 (Similarity and Correspondence)** — present in all 8 languages but forms a distinct F3 cluster only in ka, yo, eu, id; yo most elaborated
+- **D11 (Practical Reality vs. Theory/Nominal Status)** — present in all 8 languages but very uneven elaboration; ko most extensive, fi distinct cluster, others less systematic
+
+### Dimensions That Split, Merge, or Vary Across Languages
+
+**D1 and D5 merge in ka, tr, eu:** The mart'l- root (ka), hak- root (tr), and zuzen- root (eu) each span both propositional correctness and moral rightness within a single derivational family. In yo, ko, and fi these dimensions are kept more separate.
+
+**D6 and D7 merge in eu:** Basque groups certainty terms (ziurra) under reliability/credibility rather than forming an independent epistemic certainty cluster. In fi, tr, and ko these dimensions are more clearly separated.
+
+**D3 and D1 partially merge in ka and tr:** Georgian ნამდვილი (namdvili) and Turkish gerçek participate in both authenticity of objects and propositional truth contexts. In fi (aito vs. tosi) and yo (gidi vs. tọ́) these dimensions are kept more separate.
+
+**D4 and D3 partially merge in ka:** Georgian გულწრფელი (sincere) is grouped with emotional genuineness in a way that bridges honesty of character and authenticity of feeling. Other languages tend to group sincerity more clearly with D4.
+
+**D9 and D5 partially merge in ka, eu:** Georgian and Basque legal/validity vocabulary is closely integrated with the correctness/justice root. In id and tr these dimensions are more clearly separated.
+
+**D11 is most elaborated in ko:** Korean's 실- cluster represents the most extensive development of the practical reality vs. theory dimension in the dataset. This is a single-language elaboration rather than a cross-linguistic pattern, though the dimension itself is present everywhere.
+
+**D10 is most elaborated in yo:** Yoruba's bá mu/ìbámu/jọ/ìjọra cluster represents the most extensive development of the correspondence/matching dimension. This is a single-language elaboration.
+
+**D2 shows a consistent agentive asymmetry across languages:** The "liar" agentive is lexicalized in all 8 languages; the "truth-teller" agentive is absent or requires periphrastic expression in at least 6 languages. This asymmetry is a cross-linguistically robust pattern within D2.
+
+**Core truth predicates resist degree modification in yo, ko, fi, eu, ta:** Multiple languages treat truth as categorical rather than scalar, which constrains the constructional behavior of D1 terms. This constraint is not universal (ka, id, tr show more gradable uses) but is attested in enough languages to be noted as a recurring pattern.

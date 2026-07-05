@@ -1,0 +1,44 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Finnish (fi)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** — Subject + *olla* + truth-domain adjective (predicative nominative) | *Se on tosi.* | Se on tosi. | "That is true." | [CORE] | The standard copular predication pattern; occurs across all registers from casual speech to formal writing. No observable restriction on which truth-domain adjectives appear in this slot. |
+| **1. ATTRIBUTION** (second example) | *Väite on epätosi.* | Väite on epätosi. | "The claim is false." | [CORE] | More formal than *Se on tosi*; *epätosi* is more characteristic of written and academic registers than spoken Finnish. |
+| **2. NEGATIVE ATTRIBUTION (a)** — *epä-* prefixation, used predicatively | *Lähde on epäluotettava.* | Lähde on epäluotettava. | "The source is unreliable." | [CORE] | Characteristic of written and formal registers; *epä-* forms are fully lexicalized for most truth-domain adjectives. Preferred over periphrastic negation in journalistic and official contexts. |
+| **2. NEGATIVE ATTRIBUTION (b)** — *ei* + adjective | *Kuvaus ei ole todenmukainen.* | Kuvaus ei ole todenmukainen. | "The description is not realistic." | [CORE] | Available for all adjectives; more frequent in spoken registers than *epä-* prefixation. No restriction on truth-domain adjectives in this slot. |
+| **3. ADNOMINAL MODIFICATION** — Attributive adjective preceding noun, agreeing in case and number | *virheellinen tieto* | virheellinen tieto | "incorrect information" | [CORE] | The standard attributive pattern in Finnish; all P1 adjectives occur productively in this position. Agreement throughout the case paradigm is obligatory and not register-restricted. |
+| **3. ADNOMINAL MODIFICATION** (second example) | *luotettava lähde* | luotettava lähde | "a reliable source" | [CORE] | Extremely frequent in journalistic and evaluative contexts. No observable restrictions; agreement in oblique cases (e.g., *luotettavaa lähdettä*, *luotettavassa lähteessä*) is regular. |
+| **4. BECOME / INCHOATIVE (a)** — *osoittautua* + translative | *Väite osoittautui vääräksi.* | Väite osoittautui vääräksi. | "The claim turned out to be false." | [CORE] | The primary construction for expressing that something proves to have a truth-domain property; common in journalistic, legal, and academic registers. The translative complement is obligatory with *osoittautua*. |
+| **4. BECOME / INCHOATIVE (b)** — *todentua* (intransitive) | *Ennuste todentui.* | Ennuste todentui. | "The prediction came true / was verified." | [MARGINAL] | Restricted to subjects that are predictions, expectations, or hypotheses; not interchangeable with *osoittautua*. Less frequent than the translative construction; more characteristic of written registers. |
+| **5. CAUSATIVE (a)** — Morphological causative (*todentaa*, *vääristää*, *väärentää*) | *Viranomaiset todensivat henkilöllisyyden.* | Viranomaiset todensivat henkilöllisyyden. | "The authorities verified the identity." | [CORE] | *Todentaa* is standard in official, legal, and administrative contexts for verification and authentication. Morphological causatives in this domain are fully lexicalized rather than productively derived. |
+| **5. CAUSATIVE (a)** (second example) | *Todistaja väärensi asiakirjan.* | Todistaja väärensi asiakirjan. | "The witness forged the document." | [CORE] | *Väärentää* is the standard legal and journalistic term for forgery and falsification; occurs in formal and official registers. No periphrastic alternative is dominant in this specific sense. |
+| **6. ABSTRACT NOMINALIZATION** — *-uus/-yys* from adjectives | *totuus* | totuus | "truth" | [CORE] | Highly frequent across all registers; *totuus* is the primary abstract noun for truth in Finnish. The *-uus/-yys* pattern is productive for all P1 adjectives in this domain. |
+| **6. ABSTRACT NOMINALIZATION** — *-minen* from verbs | *todistaminen* | todistaminen | "proving, testifying" | [CORE] | The *-minen* nominalization is fully productive and occurs across registers; used for process and event reference. No observable restriction in the truth domain. |
+| **7. AGENTIVE NOMINALIZATION** — Verb stem + *-ja/-jä* | *todistaja* | todistaja | "witness, testifier" | [CORE] | *Todistaja* is institutionally central and highly frequent in legal and journalistic contexts. The *-ja/-jä* suffix is productive, but no direct agentive for "truth-teller" is derived from *tosi/totuus*; the concept of a liar is expressed by *valehtelija* (outside P1 vocabulary). |
+| **7. AGENTIVE NOMINALIZATION** (second example) | *väärentäjä* | väärentäjä | "forger, counterfeiter" | [CORE] | Standard legal and journalistic term; fully lexicalized. *Totuudenetsijä* (truth-seeker) is noted as a compound agentive rather than a direct derivation and is not listed as a primary form. |
+| **8. TRANSLATIVE PREDICATION** — *todistaa* / *osoittaa* / *julistaa* / *katsoa* / *todeta* + NP + translative | *Tuomioistuin julisti sopimuksen pätemättömäksi.* | Tuomioistuin julisti sopimuksen pätemättömäksi. | "The court declared the contract void." | [CORE] | Characteristic of legal and official registers; the translative complement is the primary formal mechanism for result-state attribution in Finnish. The construction is structurally distinct from English object-complement patterns. |
+| **8. TRANSLATIVE PREDICATION** (second example) | *Asiantuntija todisti maalauksen aidoksi.* | Asiantuntija todisti maalauksen aidoksi. | "The expert certified the painting as genuine." | [CORE] | Common in authentication, legal, and journalistic contexts. The range of matrix verbs (*todistaa*, *osoittaa*, *julistaa*, *katsoa*, *todeta*) is attested and not freely extended to all verbs. |
+| **9. ESSIVE PREDICATION** — *pitää* + NP + essive | *Tuomari piti todistajaa luotettavana.* | Tuomari piti todistajaa luotettavana. | "The judge considered the witness reliable." | [CORE] | Standard in legal, journalistic, and evaluative contexts for expressing a stable attributed judgment. Structurally distinct from the translative result construction (Pattern 8); the essive marks stable state rather than change or result. |
+| **9. ESSIVE PREDICATION** (second example) | *Hän piti väitettä virheellisenä.* | Hän piti väitettä virheellisenä. | "She regarded the claim as erroneous." | [CORE] | Common across written registers for epistemic evaluation. No observable restriction on which truth-domain adjectives appear in the essive complement slot with *pitää*. |
+| **10. INESSIVE FIXED PREDICATION** — *olla* + *oikeassa* / *väärässä* | *Olit oikeassa.* | Olit oikeassa. | "You were right." | [CORE] | The standard everyday construction for attributing epistemic correctness to a person; frequent across all spoken and written registers. The inessive here is lexicalized and does not carry locative meaning. |
+| **10. INESSIVE FIXED PREDICATION** (second example) | *Olen väärässä.* | Olen väärässä. | "I am wrong / I am mistaken." | [CORE] | Equally frequent and idiomatic; used for personal epistemic attribution rather than propositional truth attribution. No productive extension to other adjectives in this inessive pattern is documented in P4a. |
+
+---
+
+## Alternate Constructions
+
+| Construction Type | Alternate Construction | Notes |
+|---|---|---|
+| **2. NEGATIVE ATTRIBUTION** | *epä-* prefixation ↔ *ei ole* + adjective | Both strategies are fully grammatical; *epä-* forms tend toward formal/written use, *ei ole* toward spoken registers. Neither is restricted to a subset of truth-domain adjectives. |
+| **4. BECOME / INCHOATIVE** | *osoittautua* + translative ↔ *paljastua* + translative or bare | *Paljastua* is attested as an alternate inchoative specifically for the revelation of hidden truth; it is not interchangeable with *osoittautua* in all contexts. |
+| **5. CAUSATIVE** | Morphological causative ↔ periphrastic *saada* + passive participle | The periphrastic causative with *saada* is noted as existing but is not the dominant pattern in the truth domain; no attested examples are provided in P4a. |
+| **6. ABSTRACT NOMINALIZATION** | *-uus/-yys* ↔ *-minen* ↔ *-us/-ys* | Three nominalization suffixes are attested with distinct semantic functions: *-uus/-yys* for abstract property nouns, *-minen* for process/event nominals, *-us/-ys* for result or act nominals (*todistus*, *oikeutus*, *todiste*). |
+
+---
+
+*End of P4b output.*

@@ -1,0 +1,179 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+## Language: Georgian (ka)
+## Transliteration: ISO 9984 (1996), consistent with prior steps
+
+This step analyzes how the truth-evaluation field encodes **change of state**, **causation**, and **stability**. All vocabulary is drawn strictly from CONTEXT (P1–P5). Auxiliaries, aspect/tense morphology, and function words are added only as structurally required. **Asymmetries documented in P4a/P4b/P5 are preserved and not balanced.** Where no common expression exists, this is stated explicitly.
+
+---
+
+## 1. "X BECOMES [truth-related / genuine / correct state]" — INCHOATIVE (POSITIVE POLE)
+
+### Finding
+**No productive inchoative construction is attested** for the positive-pole truth/genuineness/correctness adjectives. This was already recorded in P4a/P4b #4: change-of-state in the field surfaces only via independent perfective verbs, not a regular Adj→inchoative derivation.
+
+### Attested borderline material
+- სიმართლე გამოვიდა → simartle gamovida → "it turned out to be the truth / it proved true"
+  - Modeled on the **single attested "turn out" frame** (P2b #11 / P4a #4: *ṭq̇uili gamovida* "it turned out a lie"). The *gamovida* "turned/came out" frame is lexical, not a productive inchoative.
+  - **Status:** [MARGINAL] — extrapolated from the one attested *gamovida* frame; only the lie-pole instance (*ṭq̇uili gamovida*) is directly documented in CONTEXT.
+
+### Notes
+- There is **no common "becomes genuine / becomes authentic"** expression in CONTEXT for ნამდვილი / ნაღდი / ავთენტური. P2a explicitly flags namdv- as a low-derivation root with no inchoative.
+- There is **no common "becomes correct / becomes right"** inchoative for სწორი / მართალი as a derived state; the *gamovida* frame attaches to the truth/lie **nouns**, not to these adjectives.
+- **Explicit statement: no productive positive-pole inchoative exists.**
+
+---
+
+## 2. "X BECOMES [false / fake / lie state]" — INCHOATIVE (NEGATIVE POLE)
+
+### Finding
+The only directly attested change-of-state frame in CONTEXT sits at the **negative pole**, via the "turn out / come out" perfective verb.
+
+### Attested expression
+- ტყუილი გამოვიდა → ṭq̇uili gamovida → "it turned out to be a lie / it proved false"
+  - Directly documented (P2b #11, P4a/P4b #4).
+  - **Status:** [MARGINAL] — CONTEXT explicitly classes this as a single borderline lexical frame, **not** a productive inchoative pattern.
+
+### Notes
+- This frame expresses **revealed state** ("turned out to be X") rather than a true transition ("became X"). CONTEXT does not document a genuine "X became false" change-of-state.
+- No "becomes fake / becomes counterfeit" expression is attested for ყალბი as an inchoative; fakeness at the change-of-state level is instead expressed via the **causative** გაყალბება (see §3), i.e., as something *done to* X rather than something X *becomes*.
+
+---
+
+## 3. "Y CAUSES X TO BE [false / fake / deceived state]" — CAUSATIVE (NEGATIVE POLE)
+
+### Finding
+Causation is **robustly and asymmetrically** encoded at the **falsehood/fakeness pole only**, via prefix + root + **-eba** verbs. This is the strongest dynamic pattern in the field (P4a/P4b #5; P5 Opposition 17).
+
+### Attested expressions
+- გაყალბება → gaq̇albeba → "to falsify, to forge" (Y makes X q̇albi)
+  - From ყალბი. Produces participle გაყალბებული (gaq̇albebuli) "falsified, forged" — the resultant state of the caused change.
+  - **Status:** [CORE]
+- მოტყუება → moṭq̇ueba → "to deceive, to cause (someone) to believe a lie"
+  - From the ṭq̇u- root.
+  - **Status:** [CORE]
+- გატყუება → gaṭq̇ueba → "to dupe, to deceive out of"
+  - From the ṭq̇u- root.
+  - **Status:** [CORE]
+
+### Resultant-state expression (caused → state)
+- გაყალბებული დოკუმენტი → gaq̇albebuli doḳumenṭi → "a forged document"
+  - The participle encodes X as having been *caused to be* fake (P2a #8). This is the field's clearest "caused-state" realization.
+  - **Status:** [CORE]
+
+### Notes
+- This pole answers "Y causes X to be false/fake" directly and idiomatically.
+- The act of causing belief-in-falsehood (moṭq̇ueba) targets a **person** (the deceived), while gaq̇albeba targets an **object/record** (the forged thing). CONTEXT supports both targets.
+
+---
+
+## 4. "Y CAUSES X TO BE [true / genuine / correct state]" — CAUSATIVE (POSITIVE POLE)
+
+### Finding
+**No symmetric "make true / make genuine" causative is attested.** This is an explicitly documented asymmetry (P4a/P4b #5; P5 Opposition 17): causative formation is robust on the negative pole and **absent** for the truth/genuineness adjectives.
+
+### Partial / adjacent material from CONTEXT
+There is **no "cause-to-be-true"** verb. The nearest causation-adjacent items in CONTEXT belong to the **correctness/accuracy** sub-field (Group 6) via the sc̣or- and zusṭ- roots, and to credibility via the ǰer- root:
+
+- გასწორება → gasc̣oreba → "to correct, to straighten, to even out" (Y makes X sc̣ori)
+  - From სწორი (P2a #5). This is a genuine causative — "to make correct" — but operates on the **accuracy/correctness** axis, not on truth-value or genuineness.
+  - **Status:** [CORE]
+- გამოსწორება → gamosc̣oreba → "to correct, to improve, to amend" (Y makes X corrected)
+  - From სწორი (P2a #5). Also "make right/correct" on the accuracy axis.
+  - **Status:** [CORE]
+- დაზუსტება → dazusṭeba → "to clarify, to specify more precisely" (Y makes X more zusṭi)
+  - From ზუსტი (P2a #14). A causative-style "make more precise" — the precision axis, not truth/genuineness.
+  - **Status:** [CORE]
+- დამაჯერებელი → damaǰerebeli → "convincing" (lit. "causing to believe")
+  - CONTEXT (P1 #28) analyzes this as a **causative from ǰer- "to believe"** → "causing to believe." It encodes causing *belief*, not causing *truth* — and per P3 Group 10 / P5 Opposition 19, this is explicitly irrespective of actual truth-value.
+  - **Status:** [CORE] (as an adjective; the causation is lexicalized in the stem)
+
+### Notes
+- **Explicit statement:** For the *true/genuine* axis proper (ჭეშმარიტი, სიმართლე, ნამდვილი, მართალი), **no common causative "make X true/genuine" exists in CONTEXT.**
+- The available causatives (gasc̣oreba, gamosc̣oreba, dazusṭeba) belong to the **accuracy/correctness** sub-field (sc̣or-, zusṭ-), where "making something correct/precise" *is* idiomatic. This is a **dimension-restricted** causation: Georgian causativizes *correctness* and *precision*, but not *truth* or *genuineness*, per the data.
+- damaǰerebeli realizes causation of **belief**, not of truth — preserving the P5 Opposition 19 distinction.
+
+---
+
+## 5. "Y CAUSES X TO BE [unjust / corrected-in-the-legal-sense]" — CAUSATIVE WITHIN THE martl- FIELD (FLAGGED)
+
+### Finding
+The martl- root has causative-bearing forms in CONTEXT, but P1b/P3 explicitly flag most as **semantically shifted out of the truth-evaluation field** (to law, governance, repair, fortune). Only the legal-justice senses remain field-adjacent.
+
+### Field-adjacent (justice) material
+- გასამართლება → gasamartleba → "putting on trial; (also) justification" (P1b #12)
+  - Causative-style; belongs to the **justice/legal** edge of the martl- field (P3 ties samartl- to the juridical domain). Field-adjacent via "justice," not core truth.
+  - **Status:** [MARGINAL] (field-adjacent; legal register)
+- გამართლება → gamartleba → "justification, vindication" (P1b #13)
+  - "To justify / vindicate" — to cause X to be held martali (right/justified). Closest martl- causative to the truth field, but P1b also flags a colloquial "it worked out" sense outside the field.
+  - **Status:** [MARGINAL] (field-adjacent; the vindication sense only)
+- გამართლებული → gamartlebuli → "justified, vindicated, acquitted" (P1b #14)
+  - Participle: resultant state of having been caused to be held right/justified.
+  - **Status:** [MARGINAL] (field-adjacent)
+
+### Notes
+- These encode causing X **to be held / declared right (justified, vindicated, acquitted)** — a *judgmental/declarative* causation in the legal sense, distinct from causing X to *be* true.
+- **Explicitly flagged:** the bulk of martl- causatives (გამართვა "fix/arrange," მართვა "drive/govern," etc.) are recorded in P1b/P3 as **outside the truth field** and are **not** counted here.
+
+---
+
+## 6. NEGATION AS DYNAMIC OPERATION (STATE-CONTESTING, NOT STATE-CHANGE)
+
+### Finding
+CONTEXT documents negation frames that **contest/deny** a truth-state but do **not** encode a change of state. Included here because they are the field's main way of dynamically asserting the *opposed* state.
+
+### Attested expressions
+- არ ხარ მართალი → ar xar martali → "you are not right" (sentential negation; P4a/P4b #2, P5 Opp. 10)
+  - **Status:** [MARGINAL]
+- არასანდო → arasando → "untrustworthy" (privative ara-; P2a #12, P5 Opp. 7)
+  - **Status:** [CORE]
+- არასაიმედო → arasaimedo → "undependable" (P2a #13, P5 Opp. 8) — **[MARGINAL]**
+- არაპატიოსანი → arap̣aṭiosani → "dishonest" (P2a #25, P5 Opp. 9) — **[MARGINAL]**
+
+### Notes
+- These assign/deny a state; they are **not** "X becomes not-trustworthy." CONTEXT documents **no inchoative** "becomes untrustworthy / becomes dishonest."
+- The privative **ara-** is explicitly **not uniformly available** (P4a/P4b #2): it works for reliability/honesty items but **not** for the truth/lie or genuineness items, which fall back on sentential negation.
+
+---
+
+## 7. STABILITY / PERSISTENT-STATE EXPRESSIONS
+
+### Finding
+The field's "stable/incontrovertible" notion is lexicalized, not constructed: it is carried by a **privative-on-the-lie-root** adjective rather than by any dynamic construction.
+
+### Attested expression
+- უტყუარი → uṭq̇uari → "unmistakable, infallible, indubitable" (u- + ṭq̇u- + -ari = "lacking falsehood")
+  - Encodes a **stable, non-defeasible** truth-state ("admitting no doubt or falsehood"); P1 #15, P5 Opposition 18.
+  - Collocation: უტყუარი მტკიცებულება → uṭq̇uari mṭḳicebuleba → "incontrovertible evidence" (P2b #15).
+  - **Status:** [MARGINAL] (elevated register)
+
+### Notes
+- უტყუარი expresses **persistence/non-changeability** of a truth-state (immune to falsification), but it does so **lexically** (privative derivation), not via any "remains true" verbal construction.
+- **No common "X remains true / stays genuine / continues to be reliable" verbal construction is attested in CONTEXT.** Stability is otherwise unexpressed in the dynamic sense.
+
+---
+
+## SUMMARY OF DYNAMICS (supported strictly by CONTEXT)
+
+| Dynamic type | Pole | Attested? | Realization | Status |
+|---|---|---|---|---|
+| Inchoative "becomes true/genuine/correct" | positive | **No productive form** | only extrapolated *simartle gamovida* | [MARGINAL]/absent |
+| Inchoative "becomes a lie / turns out false" | negative | Borderline only | *ṭq̇uili gamovida* (lexical "turn out") | [MARGINAL] |
+| Causative "make false / forge / deceive" | negative | **Yes, robust** | gaq̇albeba, moṭq̇ueba, gaṭq̇ueba; partc. gaq̇albebuli | [CORE] |
+| Causative "make true / genuine" | positive | **No** (asymmetry) | — (none) | absent |
+| Causative "make correct / precise" | accuracy axis | Yes | gasc̣oreba, gamosc̣oreba, dazusṭeba | [CORE] |
+| Causative of *belief* (not truth) | — | Yes (lexicalized) | damaǰerebeli "causing to believe" | [CORE] |
+| Causative "justify / vindicate" | martl- justice edge | Field-adjacent | gamartleba, gasamartleba, gamartlebuli | [MARGINAL] |
+| Negation (contest state) | both | Yes | ara- privative; sentential *ar xar martali* | [CORE]/[MARGINAL] |
+| Stability / non-defeasible truth | positive | Lexical only | uṭq̇uari (privative) | [MARGINAL] |
+
+### Key observations (asymmetries preserved, not balanced)
+1. **Causation is overwhelmingly negative-pole.** The only robust, productive causatives in the truth field proper are "make false / forge / deceive" (gaq̇albeba, moṭq̇ueba, gaṭq̇ueba). This directly extends the P4/P5 asymmetry (Opposition 17).
+2. **No positive-pole "make-true / make-genuine" causative exists.** Where Georgian *does* causativize positively, it is on the **adjacent accuracy/precision axis** (sc̣or-, zusṭ-: gasc̣oreba, dazusṭeba), **not** on truth or genuineness — a dimension-restricted pattern.
+3. **Change-of-state (inchoative) is barely grammaticalized in this field.** Only the lexical *gamovida* "turn out" frame is attested (negative-pole instance documented; positive-pole only by extrapolation). There is no productive "become true/false/genuine/fake" construction.
+4. **damaǰerebeli causativizes belief, not truth** — consistent with P5 Opposition 19 (credibility ≠ truth-value).
+5. **Stability is lexical, not constructional:** უტყუარი ("lacking falsehood") names a non-defeasible truth-state; **no "remains/stays true" verbal construction is attested.**
+6. **Negation contests states but does not change them;** the privative **ara-** is restricted to reliability/honesty items (arasando, arasaimedo, arap̣aṭiosani), with sentential negation elsewhere.
+
+---
+
+# END

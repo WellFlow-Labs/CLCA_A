@@ -1,0 +1,318 @@
+## Comparison Table
+
+| Empirical Dimension | Construction | Empirical Result | AOML Prediction | Alignment Type | Notes |
+|---|---|---|---|---|---|
+| Statement truth vs falsehood | Simple Predicative Evaluation | ALLOWED | VER + ATTR = licensed | MATCH | Empirical “statement truth vs falsehood” aligns closely with AOML **VER**. Static truth predication is strongly supported in both. |
+| Statement truth vs falsehood | Negative Predicative Evaluation | ALLOWED | VER + ATTR licensed; CONTR licensed | PARTIAL | AOML licenses attribution and contrast, but does not separately encode negative predication as its own primitive. Empirical matrix shows this as a major recurrent constructional function. |
+| Statement truth vs falsehood | Noun Modification / Classification | ALLOWED | VER + ATTR licensed | DIRECTIONAL | AOML predicts truth as an attributable property; empirical data shows strong adnominal classification (“true story,” etc.). This is compatible but not explicitly singled out in AOML. |
+| Statement truth vs falsehood | Speech / Reporting Action | ALLOWED | VER axis present; operators do not specifically model speech-action packaging | PARTIAL | AOML captures truth-value type, but not the strong empirical preference for “tell the truth / lie” constructions across languages. |
+| Statement truth vs falsehood | Change into State / Inchoative | VARIABLE | VER + BECOME = restricted; R4 positive emergence bias | MATCH | Empirical matrix says variable; AOML predicts restricted rather than fully general licensing, with positive emergence favored over negative. |
+| Statement truth vs falsehood | Causative / Induced Result | VARIABLE | VER + CAUSE = restricted | MATCH | Empirical data shows limited, uneven causatives; AOML predicts restriction rather than full productivity. |
+| Statement truth vs falsehood | Abstract Nominal Evaluation | ALLOWED | VER + ABSTR = licensed | MATCH | Strong support: truth nouns are widespread cross-linguistically and directly predicted. |
+| Statement truth vs falsehood | Person-Labeling | VARIABLE | VER + person-labeling not primitive; ABSTR/ATTR do not guarantee agent nouns | PARTIAL | Empirical variability fits absence of strong AOML commitment here, but AOML does not model asymmetry between liar and truth-teller. |
+| Statement truth vs falsehood | Discourse Framing / Stance | ALLOWED | No dedicated AOML operator for discourse framing | NO ALIGNMENT | Empirical discourse markers (“truth be told,” etc.) are robust but not clearly represented in AOML’s operator set. |
+| Statement truth vs falsehood | Correspondence / Fidelity Construction | VARIABLE | VER default method = observation; correspondence notion compatible | PARTIAL | Some overlap with VER, but empirical fidelity/correspondence often shades into LIFE rather than pure VER. |
+| Statement truth vs falsehood | Basis / Support Construction | VARIABLE | VERIF and validation habitats relevant | PARTIAL | Empirical support/basis sometimes concerns truth, but AOML separates evidential establishment into **VERIF**. Mapping is conditional. |
+| Statement truth vs falsehood | Verification / Authentication Procedure | VARIABLE | VERIF axis distinct from VER | MATCH | Empirical matrix treats verification as variably available for truth claims; AOML explicitly separates **VERIF** from **VER**. |
+| Correctness / rightness of answer, judgment, or procedure | Simple Predicative Evaluation | ALLOWED | Could map to VER, NORM, or VERIF subregions; no dedicated axis | PARTIAL | Empirical correctness is robust, but AOML places “correctness” under Layer 2 subregions (VER factual_truth/correctness; NORM appropriateness). No one-to-one primitive axis. |
+| Correctness / rightness of answer, judgment, or procedure | Negative Predicative Evaluation | ALLOWED | Same as above; ATTR/CONTR licensed | PARTIAL | Compatible, but AOML does not isolate correctness as a primary axis. |
+| Correctness / rightness of answer, judgment, or procedure | Noun Modification / Classification | ALLOWED | ATTR licensed on host axis | PARTIAL | Works if correctness is treated as subregional within VER or NORM, but this loses empirical distinctness. |
+| Correctness / rightness of answer, judgment, or procedure | Change into State / Inchoative | VARIABLE | VER/NORM + BECOME = restricted | DIRECTIONAL | Empirical variability fits restricted AOML becoming, but because correctness is not a primary axis, mapping is indirect. |
+| Correctness / rightness of answer, judgment, or procedure | Causative / Induced Result | VARIABLE | NORM/VER + CAUSE = restricted | DIRECTIONAL | Empirical correction verbs exist but are uneven; AOML predicts restricted causation in relevant axes. |
+| Correctness / rightness of answer, judgment, or procedure | Abstract Nominal Evaluation | ALLOWED | ABSTR licensed on host axis | PARTIAL | Empirical correctness nouns are common; AOML can host them, but only by subsuming correctness under another axis. |
+| Precision / exactness / fine-grained accuracy | Simple Predicative Evaluation | ALLOWED | Could map to VER subregion “correctness” or LIFE subregion “fidelity”; no dedicated axis | PARTIAL | Empirical precision is a strong independent dimension; AOML lacks a primary axis for it. |
+| Precision / exactness / fine-grained accuracy | Negative Predicative Evaluation | ALLOWED | Same indirect mapping | PARTIAL | Compatible but under-modeled. |
+| Precision / exactness / fine-grained accuracy | Noun Modification / Classification | ALLOWED | ATTR licensed on host axis | PARTIAL | AOML can host this only indirectly. |
+| Precision / exactness / fine-grained accuracy | Change into State / Inchoative | VARIABLE | BECOME restricted on host axis | DIRECTIONAL | Empirical variability fits restricted becoming, but precision itself is not cleanly represented as a primitive. |
+| Precision / exactness / fine-grained accuracy | Causative / Induced Result | VARIABLE | CAUSE restricted on host axis | DIRECTIONAL | Similar tendency, but no dedicated precision axis. |
+| Precision / exactness / fine-grained accuracy | Abstract Nominal Evaluation | ALLOWED | ABSTR licensed | PARTIAL | Strong empirical support for “accuracy/precision” nouns, but AOML does not isolate this dimension. |
+| Precision / exactness / fine-grained accuracy | Correspondence / Fidelity Construction | ALLOWED | LIFE + ATTR / CONTR / STRAT licensed | PARTIAL | Some empirical precision cases align with **LIFE** when representational fidelity is involved, but not all precision is lifelikeness. |
+| Credibility / trustworthiness / dependability | Simple Predicative Evaluation | ALLOWED | SINC description includes honesty of intent; Layer 2 SINC includes reliability; VERIF also adjacent | PARTIAL | Empirical credibility often targets sources/reports, not just inner honesty. AOML places reliability under **SINC** subregions, which only partly fits. |
+| Credibility / trustworthiness / dependability | Negative Predicative Evaluation | ALLOWED | SINC + ATTR licensed; R1 blocks causation only | PARTIAL | Static credibility judgments fit, but axis fit is imperfect because empirical credibility is often epistemic/source-based rather than dispositional. |
+| Credibility / trustworthiness / dependability | Noun Modification / Classification | ALLOWED | ATTR licensed | PARTIAL | Compatible structurally, but semantic host axis remains uncertain between SINC and VERIF-adjacent uses. |
+| Credibility / trustworthiness / dependability | Change into State / Inchoative | VARIABLE | SINC + BECOME = restricted; R1 blocks CAUSE, not BECOME | MATCH | Empirical matrix says variable; AOML predicts restricted becoming for dispositional targets. This fits especially where credibility shifts are possible but uneven. |
+| Credibility / trustworthiness / dependability | Causative / Induced Result | VARIABLE | SINC + CAUSE = universally blocked by R1 | CONFLICT | Empirical data allows some causative-like confidence/credibility effects and induced-result patterns, though unevenly. AOML universally blocks CAUSE for SINC/dispositional targets. |
+| Credibility / trustworthiness / dependability | Abstract Nominal Evaluation | ALLOWED | SINC + ABSTR = licensed | MATCH | Reliability/credibility nouns are strongly attested and predicted. |
+| Credibility / trustworthiness / dependability | Person-Labeling | ALLOWED | SINC + ATTR compatible; no explicit person-label primitive | PARTIAL | Empirical person labels exist, but AOML does not specifically model this asymmetry or productivity. |
+| Credibility / trustworthiness / dependability | Basis / Support Construction | VARIABLE | VERIF + evidential support subregion | PARTIAL | Empirical credibility often overlaps with evidential support; AOML splits these into different territories. |
+| Credibility / trustworthiness / dependability | Verification / Authentication Procedure | VARIABLE | VERIF distinct from SINC | PARTIAL | Empirical credibility can be checked/tested; AOML would likely route procedural confirmation through **VERIF**, not SINC. |
+| Honesty / sincerity / truthful character or speech | Simple Predicative Evaluation | ALLOWED | SINC + ATTR = licensed | MATCH | Strong fit: sincerity/honesty is directly modeled by **SINC**. |
+| Honesty / sincerity / truthful character or speech | Negative Predicative Evaluation | VARIABLE | SINC + ATTR licensed; CONTR licensed | PARTIAL | Compatible, though empirical matrix marks variability. |
+| Honesty / sincerity / truthful character or speech | Noun Modification / Classification | ALLOWED | SINC + ATTR = licensed | MATCH | Honest/sincere person/speech fits SINC attribution. |
+| Honesty / sincerity / truthful character or speech | Speech / Reporting Action | ALLOWED | SINC description explicitly concerns stated vs actual belief/intention | MATCH | Strong support: speech honesty is central to SINC. |
+| Honesty / sincerity / truthful character or speech | Change into State / Inchoative | BLOCKED | SINC + BECOME = restricted, not blocked | CONFLICT | Empirical matrix blocks inchoatives here; AOML allows restricted becoming for SINC. |
+| Honesty / sincerity / truthful character or speech | Causative / Induced Result | BLOCKED | SINC + CAUSE = universally blocked by R1 | MATCH | Strong support: empirical matrix blocks causative honesty/sincerity; AOML predicts universal block. |
+| Honesty / sincerity / truthful character or speech | Abstract Nominal Evaluation | VARIABLE | SINC + ABSTR = licensed | PARTIAL | Empirical matrix says variable, but many languages do have honesty/sincerity nouns. AOML predicts licensing; empirical support is present but uneven. |
+| Honesty / sincerity / truthful character or speech | Person-Labeling | ALLOWED | SINC compatible with dispositional character | MATCH | Honest/truthful person labels fit well. |
+| Honesty / sincerity / truthful character or speech | Discourse Framing / Stance | ALLOWED | No dedicated AOML discourse operator | NO ALIGNMENT | Empirical “honestly / to tell the truth” discourse markers are not modeled as such. |
+| Genuineness / authenticity / real identity or object | Simple Predicative Evaluation | ALLOWED | AUTH + ATTR = licensed | MATCH | Strong fit. |
+| Genuineness / authenticity / real identity or object | Negative Predicative Evaluation | ALLOWED | AUTH + ATTR licensed; CONTR licensed | MATCH | Strong fit. |
+| Genuineness / authenticity / real identity or object | Noun Modification / Classification | ALLOWED | AUTH + ATTR = licensed | MATCH | Strong fit for authentic document, genuine product, etc. |
+| Genuineness / authenticity / real identity or object | Change into State / Inchoative | BLOCKED | AUTH + BECOME = restricted; R3 and R4 imply asymmetry | PARTIAL | Empirical matrix blocks broad inchoatives; AOML restricts rather than fully blocks AUTH becoming. |
+| Genuineness / authenticity / real identity or object | Causative / Induced Result | VARIABLE | AUTH + CAUSE restricted; R3 blocks CAUS+ but licenses CAUS− | MATCH | Empirical variability aligns with AOML polarity asymmetry: authenticity is hard to create, easier to destroy/corrupt. |
+| Genuineness / authenticity / real identity or object | Abstract Nominal Evaluation | ALLOWED | AUTH + ABSTR = licensed | MATCH | Strong support. |
+| Genuineness / authenticity / real identity or object | Correspondence / Fidelity Construction | ALLOWED | AUTH and LIFE both relevant | PARTIAL | Some empirical authenticity cases overlap with fidelity/originality rather than pure provenance. |
+| Genuineness / authenticity / real identity or object | Verification / Authentication Procedure | ALLOWED | AUTH default method = PROVENANCE; VERIF also relevant procedurally | MATCH | Strong support: authentication procedures are central in both. |
+| Fake / counterfeit / forged / deceptive imitation | Simple Predicative Evaluation | ALLOWED | AUTH + CONTR licensed; CAUS− on AUTH licensed by R3 | MATCH | Fake/counterfeit is the negative side of authenticity and fits AOML well. |
+| Fake / counterfeit / forged / deceptive imitation | Negative Predicative Evaluation | ALLOWED | AUTH contrast structure | MATCH | Strong fit. |
+| Fake / counterfeit / forged / deceptive imitation | Noun Modification / Classification | ALLOWED | AUTH + ATTR/CONTR | MATCH | Strong fit. |
+| Fake / counterfeit / forged / deceptive imitation | Change into State / Inchoative | BLOCKED | AUTH + BECOME restricted; R4 negative emergence dispreferred | MATCH | Empirical blocking of broad “become fake” aligns with AOML’s negative emergence bias and restricted AUTH becoming. |
+| Fake / counterfeit / forged / deceptive imitation | Causative / Induced Result | ALLOWED | AUTH + CAUS− licensed by R3 | MATCH | Strong support: forgery/falsification is exactly the licensed negative causation side of AUTH. |
+| Fake / counterfeit / forged / deceptive imitation | Person-Labeling | ALLOWED | No dedicated primitive, but compatible with AUTH-related social roles | PARTIAL | Empirical forger/liar labels exist; AOML does not explicitly model counterfeit-agent nouns. |
+| Fake / counterfeit / forged / deceptive imitation | Verification / Authentication Procedure | ALLOWED | AUTH + PROVENANCE / VERIF | MATCH | Strong support. |
+| Verification / checked or officially confirmed status | Simple Predicative Evaluation | ALLOWED | VERIF + ATTR = licensed | MATCH | Strong fit. |
+| Verification / checked or officially confirmed status | Negative Predicative Evaluation | ALLOWED | VERIF + ATTR/CONTR = licensed | MATCH | Strong fit. |
+| Verification / checked or officially confirmed status | Noun Modification / Classification | VARIABLE | VERIF + ATTR licensed | PARTIAL | Some languages have verified/confirmed modifiers; others less so. |
+| Verification / checked or officially confirmed status | Change into State / Inchoative | BLOCKED | VERIF + BECOME = restricted | PARTIAL | Empirical matrix blocks broad inchoatives; AOML allows restricted becoming. |
+| Verification / checked or officially confirmed status | Causative / Induced Result | VARIABLE | VERIF + CAUSE = restricted | MATCH | Empirical variability fits restricted causation. |
+| Verification / checked or officially confirmed status | Basis / Support Construction | ALLOWED | VERIF subregions include proof, confirmation, evidential support | MATCH | Strong fit. |
+| Verification / checked or officially confirmed status | Verification / Authentication Procedure | ALLOWED | VERIF is explicitly this domain | MATCH | Direct match. |
+| Basis / support / evidential grounding | Simple Predicative Evaluation | VARIABLE | VERIF + ATTR licensed | PARTIAL | Some languages predicate support directly; others prefer constructions. |
+| Basis / support / evidential grounding | Negative Predicative Evaluation | ALLOWED | VERIF + CONTR / disconfirmation / evidential support | MATCH | Baseless/unfounded fits VERIF well. |
+| Basis / support / evidential grounding | Noun Modification / Classification | ALLOWED | VERIF subregion “evidential_support” | MATCH | Supported claims/baseless accusations fit. |
+| Basis / support / evidential grounding | Change into State / Inchoative | BLOCKED | VERIF + BECOME = restricted | PARTIAL | Empirical matrix blocks broad inchoatives; AOML only restricts. |
+| Basis / support / evidential grounding | Causative / Induced Result | VARIABLE | VERIF + CAUSE = restricted | MATCH | Fits restricted procedural/evidential causation. |
+| Basis / support / evidential grounding | Abstract Nominal Evaluation | ALLOWED | VERIF + ABSTR = licensed | MATCH | Proof/support/grounds nouns fit well. |
+| Basis / support / evidential grounding | Basis / Support Construction | ALLOWED | VERIF subregion explicitly includes evidential_support | MATCH | Direct match. |
+| Validity / formal standing / admissibility | Simple Predicative Evaluation | ALLOWED | VERIF + ATTR licensed; NORM and AUTH may also overlap | PARTIAL | AOML has no dedicated validity axis; **VERIF** and sometimes **NORM** or **AUTH** share this territory. |
+| Validity / formal standing / admissibility | Negative Predicative Evaluation | ALLOWED | Same indirect mapping | PARTIAL | Compatible but not one-to-one. |
+| Validity / formal standing / admissibility | Noun Modification / Classification | ALLOWED | VERIF/NORM host possible | PARTIAL | Works, but with loss of empirical distinctness. |
+| Validity / formal standing / admissibility | Change into State / Inchoative | VARIABLE | VERIF + BECOME = restricted | MATCH | Empirical variability fits restricted becoming. |
+| Validity / formal standing / admissibility | Causative / Induced Result | ALLOWED | VERIF + CAUSE = restricted | MATCH | Validate/invalidate-type patterns fit restricted causation. |
+| Validity / formal standing / admissibility | Abstract Nominal Evaluation | ALLOWED | VERIF + ABSTR = licensed | MATCH | Strong support. |
+| Validity / formal standing / admissibility | Verification / Authentication Procedure | ALLOWED | VERIF default methods = experiment/statistics/logic | MATCH | Strong fit. |
+| Lawfulness / legitimacy / rightful standing | Simple Predicative Evaluation | ALLOWED | NORM + ATTR = licensed | MATCH | Strong fit. |
+| Lawfulness / legitimacy / rightful standing | Negative Predicative Evaluation | ALLOWED | NORM + ATTR/CONTR = licensed | MATCH | Strong fit. |
+| Lawfulness / legitimacy / rightful standing | Noun Modification / Classification | ALLOWED | NORM + ATTR = licensed | MATCH | Strong fit. |
+| Lawfulness / legitimacy / rightful standing | Change into State / Inchoative | BLOCKED | NORM + BECOME = restricted | PARTIAL | Empirical matrix blocks broad inchoatives; AOML allows restricted becoming for NORM. |
+| Lawfulness / legitimacy / rightful standing | Causative / Induced Result | VARIABLE | NORM + CAUSE = restricted | MATCH | Empirical variability fits restricted causation. |
+| Lawfulness / legitimacy / rightful standing | Abstract Nominal Evaluation | ALLOWED | NORM + ABSTR = licensed | MATCH | Strong support. |
+| Lawfulness / legitimacy / rightful standing | Correspondence / Fidelity Construction | BLOCKED | NORM not defined via fidelity | MATCH | Empirical block fits AOML separation from LIFE. |
+| Justice / fairness / moral rightness | Simple Predicative Evaluation | ALLOWED | NORM + ATTR = licensed | MATCH | Strong fit. |
+| Justice / fairness / moral rightness | Negative Predicative Evaluation | ALLOWED | NORM + ATTR/CONTR = licensed | MATCH | Strong fit. |
+| Justice / fairness / moral rightness | Noun Modification / Classification | ALLOWED | NORM + ATTR = licensed | MATCH | Strong fit. |
+| Justice / fairness / moral rightness | Change into State / Inchoative | BLOCKED | NORM + BECOME = restricted | PARTIAL | Empirical matrix blocks broad inchoatives; AOML allows restricted becoming. |
+| Justice / fairness / moral rightness | Causative / Induced Result | VARIABLE | NORM + CAUSE = restricted | MATCH | Fits restricted causation. |
+| Justice / fairness / moral rightness | Abstract Nominal Evaluation | ALLOWED | NORM + ABSTR = licensed | MATCH | Strong support. |
+| Justice / fairness / moral rightness | Correspondence / Fidelity Construction | BLOCKED | NORM not a fidelity axis | MATCH | Strong fit. |
+| Reality / actuality / what is really the case | Simple Predicative Evaluation | ALLOWED | VER or AUTH or ESS-adjacent; AOML has no dedicated “reality” axis but VER and ESS descriptions touch it | PARTIAL | Empirical reality is robust; AOML distributes it across VER, AUTH, ESS, and LIFE-related distinctions. |
+| Reality / actuality / what is really the case | Negative Predicative Evaluation | ALLOWED | Same distributed mapping | PARTIAL | Compatible but diffuse. |
+| Reality / actuality / what is really the case | Noun Modification / Classification | ALLOWED | Same distributed mapping | PARTIAL | Compatible but not uniquely modeled. |
+| Reality / actuality / what is really the case | Change into State / Inchoative | VARIABLE | VER + BECOME restricted; AUTH/LIFE also restricted | DIRECTIONAL | Similar tendency, but no single AOML axis captures empirical “reality/actuality.” |
+| Reality / actuality / what is really the case | Causative / Induced Result | VARIABLE | Restricted depending on host axis | DIRECTIONAL | Partial fit only. |
+| Reality / actuality / what is really the case | Abstract Nominal Evaluation | ALLOWED | ABSTR licensed on host axes; ESS abstraction restricted | PARTIAL | Reality nouns are common empirically; AOML can host them, but not under one dedicated primitive. |
+| Reality / actuality / what is really the case | Discourse Framing / Stance | ALLOWED | No dedicated discourse operator | NO ALIGNMENT | “In reality / actually” is empirically strong but not directly modeled. |
+| Reality / actuality / what is really the case | Correspondence / Fidelity Construction | ALLOWED | LIFE and VER both relevant | PARTIAL | Some empirical “reality” constructions are about matching reality, which aligns with LIFE; others are plain actuality. |
+| Essence / substance / underlying nature | Simple Predicative Evaluation | VARIABLE | ESS + ATTR = licensed | MATCH | AOML directly predicts essence attribution. Empirical variability reflects language-specific lexicalization. |
+| Essence / substance / underlying nature | Change into State / Inchoative | BLOCKED | ESS + BECOME = blocked by R2 | MATCH | Strong support. |
+| Essence / substance / underlying nature | Causative / Induced Result | BLOCKED | ESS + CAUSE = blocked by R2 | MATCH | Strong support. |
+| Essence / substance / underlying nature | Abstract Nominal Evaluation | ALLOWED | ESS + ABSTR = restricted | PARTIAL | Empirical matrix says allowed; AOML says restricted/marginal. Support exists, but AOML predicts weaker productivity. |
+| Essence / substance / underlying nature | Discourse Framing / Stance | ALLOWED | No dedicated discourse operator; ESS content compatible | PARTIAL | Empirical “in essence / in substance” is strong, but AOML does not model discourse-framing separately. |
+| Essence / substance / underlying nature | Verification / Authentication Procedure | BLOCKED | ESS validated by logic/principle, not verification procedure | MATCH | Strong fit. |
+| Resemblance / correspondence / sameness to an original or model | Noun Modification / Classification | ALLOWED | LIFE + ATTR = licensed | MATCH | Strong fit. |
+| Resemblance / correspondence / sameness to an original or model | Correspondence / Fidelity Construction | ALLOWED | LIFE description explicitly includes fidelity, resemblance, representational adequacy | MATCH | Direct match. |
+| Resemblance / correspondence / sameness to an original or model | Change into State / Inchoative | BLOCKED | LIFE + BECOME = restricted, not blocked | PARTIAL | Empirical matrix blocks broad inchoatives; AOML allows restricted becoming. |
+| Resemblance / correspondence / sameness to an original or model | Causative / Induced Result | BLOCKED | LIFE + CAUSE = restricted | PARTIAL | Empirical matrix blocks broad causatives; AOML allows restricted causation. |
+| Resemblance / correspondence / sameness to an original or model | Abstract Nominal Evaluation | VARIABLE | LIFE + ABSTR = blocked | CONFLICT | Empirical matrix allows variable abstract nominalization; AOML says LIFE nominalization is universally blocked. |
+| Appearance-of-truth / plausibility / seeming real | Simple Predicative Evaluation | ALLOWED | LIFE + ATTR licensed; CONTR with VER possible | PARTIAL | Plausibility/seeming-real partly aligns with LIFE, but AOML LIFE is representational fidelity, not full plausibility. |
+| Appearance-of-truth / plausibility / seeming real | Correspondence / Fidelity Construction | ALLOWED | LIFE + ATTR/CONTR/STRAT licensed | PARTIAL | Some overlap, especially for lifelikeness/verisimilitude, but empirical plausibility also includes believability without resemblance. |
+| Appearance-of-truth / plausibility / seeming real | Change into State / Inchoative | BLOCKED | LIFE + BECOME = restricted | PARTIAL | Empirical matrix blocks broad inchoatives; AOML allows restricted becoming. |
+| Appearance-of-truth / plausibility / seeming real | Causative / Induced Result | BLOCKED | LIFE + CAUSE = restricted | PARTIAL | Same pattern. |
+| Appearance-of-truth / plausibility / seeming real | Verification / Authentication Procedure | BLOCKED | LIFE inadmissible methods exclude provenance/experiment; REVEAL blocked for LIFE | MATCH | Strong support that seeming-real is not the same as verified truth/authenticity. |
+
+---
+
+## Summary
+
+### Confirmed Patterns
+- **Statement truth vs falsehood** aligns well with **VER**, especially for:
+  - simple predication
+  - restricted becoming
+  - abstract nominalization
+  - separation from verification
+- **Honesty / sincerity** aligns strongly with **SINC** for:
+  - predication
+  - speech-related evaluation
+  - person-labeling
+  - causative blocking
+- **Genuineness / authenticity** aligns strongly with **AUTH** for:
+  - predication
+  - noun classification
+  - abstract nominalization
+  - authentication procedures
+  - asymmetry between creating and destroying authenticity
+- **Fake / counterfeit / forged** aligns strongly with the negative side of **AUTH**, especially with:
+  - causative falsification/forgery
+  - authentication contrasts
+- **Verification / confirmed status** aligns strongly with **VERIF**, especially for:
+  - proof/confirmation
+  - support/basis
+  - procedural checking
+- **Lawfulness / legitimacy** and **justice / fairness** align well with **NORM** in their static evaluative uses.
+- **Essence / substance** strongly supports AOML constraints:
+  - attribution allowed
+  - becoming blocked
+  - causation blocked
+- **Resemblance / fidelity** aligns strongly with **LIFE** in correspondence/fidelity constructions.
+
+### Partial or Conditional Matches
+- **Correctness / rightness** only partially aligns because AOML has no dedicated primary axis for it; it is distributed across **VER** and **NORM** subregions.
+- **Precision / exactness** is only partially captured; AOML lacks a dedicated precision axis.
+- **Credibility / trustworthiness** only partially aligns with **SINC**:
+  - some empirical cases are dispositional
+  - others are source-based and epistemic
+  - some overlap with **VERIF**
+- **Reality / actuality** is distributed across **VER**, **AUTH**, **ESS**, and sometimes **LIFE**, so alignment is diffuse.
+- **Appearance-of-truth / plausibility** partially aligns with **LIFE**, but empirical plausibility is broader than representational fidelity.
+- For several dimensions, empirical matrices mark **BLOCKED** where AOML predicts **restricted** rather than impossible, especially for:
+  - inchoatives in authenticity
+  - inchoatives in justice/legitimacy
+  - inchoatives in resemblance/plausibility
+
+### Conflicts
+- **Credibility / trustworthiness + causative / induced result** conflicts with AOML if mapped to **SINC**, because:
+  - empirical data allows some causative-like confidence/credibility effects
+  - AOML universally blocks CAUSE × DISPOSITIONAL
+- **Honesty / sincerity + change into state** conflicts:
+  - empirical matrix marks BLOCKED
+  - AOML gives SINC + BECOME as restricted, not blocked
+- **Resemblance / correspondence / sameness + abstract nominal evaluation** conflicts:
+  - empirical matrix allows VARIABLE
+  - AOML blocks **LIFE + ABSTR**
+- More generally, any empirical credibility cases that are clearly source-evaluative rather than characterological fit AOML only imperfectly if forced into **SINC**.
+
+### Unmodeled Empirical Findings
+- **Correctness** as a robust cross-linguistic dimension distinct from both truth and normativity is not modeled as a primary axis.
+- **Precision / exactness** is also a robust empirical dimension without a dedicated AOML axis.
+- **Discourse framing / stance marking** (“to tell the truth,” “actually,” “in reality,” “in essence”) is strongly recurrent empirically but not represented as an AOML operator or layer.
+- **Interrogative checking** is an empirical constructional function not represented in AOML.
+- **Basis / support** is partly modeled under VERIF, but empirical support-status constructions may deserve stronger independent treatment.
+- Empirical asymmetries such as:
+  - stronger lexicalization of liar/fake/forged than truth-teller/become-genuine
+  - speech-action preference over state-change
+  are not directly encoded in AOML except indirectly through operator restrictions.
+
+### Unattested AOML Structures
+- The **LIFE + ABSTR blocked universally** claim is not clearly supported by the empirical matrix, which gives VARIABLE abstract nominalization for resemblance/correspondence and plausibility domains.
+- The **SINC + BECOME restricted** structure is not clearly supported; empirical matrix suggests stronger blocking for honesty/sincerity inchoatives.
+- The **CAUSE × SINC universally blocked** rule is only partly supported if empirical credibility/trustworthiness causatives are grouped with sincerity.
+- The provisional **REVEAL** operator is not directly comparable to the empirical matrix because G7a does not isolate revelation as a separate constructional column.
+
+---
+
+## Theoretical Discussion
+
+### Where AOML appears strongly supported
+AOML is strongest where the empirical data shows:
+1. **clear semantic partitioning**
+2. **operator asymmetry**
+3. **constructional restriction**
+
+This is especially true for:
+- **AUTH**
+  - empirical data strongly supports a distinct authenticity/fakery domain
+  - positive creation of authenticity is weak
+  - destructive/falsifying causation is strong
+- **ESS**
+  - empirical data strongly supports static essence/substance framing
+  - dynamic becoming and causation are broadly absent
+- **VERIF**
+  - empirical data repeatedly distinguishes truth from checked/confirmed/proved status
+  - support, proof, authentication, and confirmation cluster here well
+- **NORM**
+  - lawfulness, legitimacy, justice, and fairness are clearly not reducible to factual truth
+- **LIFE**
+  - fidelity/resemblance/true-to-life domains are empirically real and distinct from truth proper
+
+### Where AOML may require refinement
+1. **Correctness**
+   - Empirically, correctness/right answer/proper procedure is one of the strongest recurring dimensions.
+   - In AOML it is distributed across subregions rather than treated as a primary axis.
+   - This creates repeated partial matches and loss of empirical granularity.
+
+2. **Precision / exactness**
+   - Empirically robust across many languages.
+   - AOML has no dedicated primitive for this.
+   - Mapping precision into VER or LIFE is often lossy.
+
+3. **Credibility / trustworthiness**
+   - AOML places reliability under **SINC** subregions, but empirical data often distinguishes:
+     - source credibility
+     - evidential reliability
+     - personal honesty
+   - These do not always behave alike constructionally.
+   - The strongest tension is with the universal causation block on dispositional targets.
+
+4. **LIFE abstraction**
+   - AOML states **LIFE + ABSTR** is blocked.
+   - Empirical matrix suggests at least variable support for abstract nominalization in resemblance/plausibility domains.
+   - This may indicate that the empirical resemblance/plausibility field is broader than AOML LIFE, or that the block is too strong.
+
+5. **Discourse framing**
+   - Empirically very strong across languages.
+   - AOML does not model it.
+   - This is not necessarily a contradiction, but it is a major omission relative to the empirical architecture.
+
+### Where empirical findings suggest new dimensions
+Empirical findings suggest at least two candidate dimensions that are stronger than AOML currently reflects:
+
+1. **Correctness**
+   - distinct from factual truth
+   - distinct from normativity
+   - distinct from precision
+   - strongly lexicalized cross-linguistically
+
+2. **Precision / exactness**
+   - distinct from correctness
+   - distinct from truth
+   - often structurally important in measurement, wording, and representation
+
+A third possible candidate is:
+3. **Credibility / evidential trust**
+   - if not reducible to sincerity or verification
+   - especially because many languages lexicalize it separately from both truth and honesty
+
+### Where empirical findings suggest new constructional constraints
+1. **Speech-action preference**
+   - Many languages prefer “tell the truth / lie / answer truthfully” over state-change constructions.
+   - This preference is stronger than AOML currently encodes.
+
+2. **Verification/result over inchoative**
+   - Empirical data repeatedly shows that truth-related change is often expressed as:
+     - proved true
+     - verified
+     - came out
+     - was shown false
+   - rather than by ordinary becoming.
+   - AOML partly captures this through VERIF and RESULT, but the empirical tendency may be stronger than currently stated.
+
+3. **Negative-side lexicalization asymmetry**
+   - Fake/forged/liar terms are often more compact and more productive than positive counterparts.
+   - This asymmetry is visible across languages and could merit stronger formal recognition.
+
+### Where empirical findings suggest revised constraint strength
+- **SINC + BECOME** may need stronger restriction if empirical honesty/sincerity inchoatives are broadly blocked.
+- **LIFE + ABSTR** may need weaker restriction if empirical resemblance/plausibility nominalizations are genuinely recurrent.
+- **CAUSE × SINC** may need refinement if empirical credibility causatives are not actually sincerity causatives but belong to a distinct credibility domain.
+
+## Overall Assessment
+The empirical matrix supports AOML most strongly in its separation of:
+- **truth**
+- **authenticity**
+- **verification**
+- **normativity**
+- **essence**
+- **lifelikeness/fidelity**
+
+It supports AOML less strongly where AOML compresses empirically robust distinctions:
+- **correctness**
+- **precision**
+- **credibility**
+
+And it leaves unmodeled several major empirical constructional facts:
+- discourse framing
+- interrogative checking
+- strong speech-action packaging
+- asymmetries in lexicalization and dynamicity
+
+So the alignment is substantial, but not complete: AOML captures several major high-level partitions and operator asymmetries, while the empirical matrix suggests that some non-primitive subregions in AOML behave more like independent dimensions in actual cross-linguistic structure.

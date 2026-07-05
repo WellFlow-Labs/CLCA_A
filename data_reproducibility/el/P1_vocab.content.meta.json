@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-05-19T06:05:34.458290+00:00",
+  "prompt": "# CLCA Protocol v3.2 \u2014 P1 CORE VOCABULARY COLLECTION\n# Language: Greek (el)\n\nLANGUAGE: {LANGUAGE}\n\nTask\n\nList 15\u201330 lexical items or fixed expressions in {LANGUAGE}\nthat are used in contexts involving evaluation of statements, objects,\npersons, conduct, or representations with respect to accuracy,\ngenuineness, reliability, rightness, resemblance, or what something\nfundamentally is \u2014 including terms found in moral, legal, aesthetic,\nand philosophical contexts where such evaluations arise.\n\nFor each item provide:\n  Form (native script if applicable)\n  Transliteration (if applicable)\n  Literal meaning or morphological breakdown (if known)\n  Typical English translations\n\nUsage description (2\u20133 sentences, grounded in typical usage)\n\nEpistemic status tag (see below)\nEpistemic Status Tags (Required)\n\nFor each item, assign exactly one:\n  [CORE] \u2014 common, widely used, and clearly attested\n  [MARGINAL] \u2014 rare, archaic, domain-specific, or limited in distribution\n  [UNCERTAIN] \u2014 uncertain correctness, form, or usage\n\nIf unsure between categories, prefer [UNCERTAIN].\n\nInclusion Criteria\n  Include single lexical items or conventionalized fixed expressions only\n  Prefer items that participate in productive derivation or compositional patterns, if identifiable\n  Include overlapping or near-synonymous items if they are attested\n  Include edge cases if relevant, but mark them appropriately\n\nExclusion Criteria\nDo NOT include free paraphrases or explanatory sentences\nDo NOT invent forms or extend beyond attested usage\nDo NOT translate English phrases directly unless they are genuinely used that way in the language\n\nImportant Constraints\nDo NOT group, categorize, or cluster the items\nDo NOT assume or impose semantic distinctions in advance\nDo NOT attempt to ensure coverage of predefined categories\nDo NOT introduce theoretical terminology\n\nOnly list items that are attested or strongly supported by the language\n\nTransliteration Standard\nUse a standard, internally consistent transliteration system appropriate to the language\n(e.g., ISO, ALA-LC, Pinyin, or standard academic convention).\n\nDo NOT mix transliteration systems within a single response\n\nIf multiple standards exist, choose one and apply it consistently\n",
+  "model": "claude-sonnet-4-5",
+  "backend": "anthropic",
+  "temperature": 0.2,
+  "usage": {
+    "estimated_input_tokens": 557,
+    "input_tokens": 548,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0
+  },
+  "raw_metadata": {
+    "backend": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "temperature": 0.2,
+    "phase": "P",
+    "long_context_active": false,
+    "cache_enabled": false,
+    "usage": {
+      "estimated_input_tokens": 557,
+      "input_tokens": 548,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0
+    }
+  }
+}

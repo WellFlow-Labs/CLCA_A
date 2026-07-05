@@ -1,0 +1,103 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Korean (ko)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | N이/가 + Adj (predicative); N이/가 + Adj-stem + -한/-ㄴ (adnominal) | 그의 주장이 타당하다; 정확한 정보 | Direct mapping; both predicative and adnominal forms fully attested | None |
+| **ADNOM** | Adj-stem + -(으)ㄴ + N | 정확한 정보; 올바른 판단 | Direct mapping; pre-nominal position only; no postnominal alternative | None |
+| **BECOME** | N이/가 + 되다; N + (으)로 + 판명되다 / 밝혀지다 | 계약이 무효가 되다; 가짜로 판명되다 | Direct mapping for general inchoative (되다); epistemic-result subtype (판명되다) additionally attested | None |
+| **REVELATION** | N을/를 + 밝히다 (V-O collocation) | 진실을 밝히다 | Direct mapping; attested as a fixed V-O collocation under Construction 8; syntactically a transitive verb phrase | None |
+| **CAUSATION (factual)** | N을/를 + -화하다 | 계약을 무효화하다 | Direct mapping for Sino-Korean bases; restricted to Sino-Korean nominal bases only | Partial: native Korean bases excluded (lexical/morphological restriction) |
+| **CAUSATION (character)** | No dedicated construction attested | — | **SUBSTITUTED BY** ATTR + agentive nominalization (위선자; 거짓말쟁이) in characterization contexts | Morphosyntactic gap: no causative-of-character-state construction attested |
+| **VERIFICATION** | N이/가 + 판명되다; N이/가 + 밝혀지다; 신빙성이 있다 | 가짜로 판명되다; 신빙성이 있다 | Partially covered by epistemic-result inchoative (판명되다, 밝혀지다) and scalar possession frame (신빙성이 있다); no single dedicated VERIFICATION construction | Partial: distributed across two construction types |
+| **DISCONFIRMATION** | N이/가 + 아니다; N이/가 + -지 않다; morphological negation (부-, 비-, 무-) | 그것은 사실이 아니다; 그 정보가 정확하지 않다 | Direct mapping via NEGATION constructions; DISCONFIRMATION is expressed through the same constructions as NEGATION | **SUBSTITUTED BY** NEGATION |
+| **NEGATION** | N이/가 + -지 않다 (syntactic); N이/가 + 아니다 (negative copula); 부-/비-/무- prefix (morphological) | 그 정보가 정확하지 않다; 그것은 사실이 아니다 | Direct mapping; three distinct strategies attested | None |
+| **NOMINALIZATION** | Base + -성 (Sino-Korean abstract); Verb-stem + -(으)ㅁ (native Korean); Base + -자 / -쟁이 (agentive) | 정확성을 높이다; 올바름의 기준; 거짓말쟁이; 위선자 | Direct mapping; multiple nominalization strategies attested with differing register and productivity profiles | Partial: -(으)ㅁ nominalizations marginal in everyday use; agentive nominalization asymmetric (negative pole only fully lexicalized) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+REVELATION (진실을 밝히다, "to reveal the truth") and BECOME (가짜로 판명되다, "to be determined to be fake") are structurally distinct in Korean but functionally adjacent in epistemic contexts. The verb 판명되다 and the verb 밝혀지다, both attested under the BECOME construction, describe a change-of-state that results from an epistemic process — that is, something becomes known or determined to be X. This means that in investigative and journalistic contexts, the BECOME construction (판명되다, 밝혀지다) partially overlaps with REVELATION in function: both describe the emergence of a truth-state into public or epistemic accessibility.
+
+The directionality differs: REVELATION (밝히다) is agentive and transitive — an agent reveals something. The epistemic-result BECOME (판명되다, 밝혀지다) is passive-resultative — something is determined or revealed as a result of a process, without necessarily foregrounding an agent. Korean thus distributes the REVELATION semantic space across an agentive transitive construction (밝히다) and a passive-resultative inchoative construction (판명되다, 밝혀지다). These do not substitute for each other but cover complementary aspects of the same functional domain.
+
+### 2.2 DISCONFIRMATION Substituted by NEGATION
+
+Korean does not attest a dedicated DISCONFIRMATION construction separate from NEGATION. The function of disconfirming a claim — asserting that something is not the case, or that a prior assertion is false — is expressed through the same constructions used for NEGATION: syntactic negation (-지 않다), the negative copula (아니다), and morphological negation (부-/비-/무-). There is no construction in the P4a/P4b data that is specifically oriented toward the act of disconfirming a prior claim as distinct from simply negating a predicate. DISCONFIRMATION is therefore **substituted by NEGATION** in Korean as attested.
+
+### 2.3 VERIFICATION Distributed Across Two Construction Types
+
+VERIFICATION — the act or result of confirming that something is true or credible — is not expressed by a single dedicated construction in Korean. Instead, it is distributed across two construction types:
+
+- The epistemic-result inchoative (판명되다, 밝혀지다) expresses the result of a verification process: something is determined or revealed to be X.
+- The scalar possession frame (신빙성이 있다, 신뢰도가 높다) expresses the property of being verifiable or credible, treating verification-related properties as possessed or scalar quantities.
+
+Neither construction is exclusively a VERIFICATION construction; both serve broader functions. The epistemic-result inchoative also covers BECOME; the scalar possession frame also covers ATTR in a scalar mode. VERIFICATION as a distinct operator is therefore only partially available, distributed rather than concentrated.
+
+### 2.4 CAUSATION (factual) Restricted by Base Type
+
+The -화하다 causative pattern, which maps most directly onto CAUSATION (factual) — causing something to become a certain truth-domain state — is restricted to Sino-Korean nominal bases. P4a and P4b both explicitly note that native Korean bases do not participate in this pattern (no *진짜화하다, *옳화하다). This is a morphological restriction, not a conceptual one: the meaning "cause X to become valid/void/legal" is expressible in Korean, but only when the predicate base is Sino-Korean. For native Korean bases, no equivalent morphological causative is attested; the data do not report a productive periphrastic alternative specific to this domain.
+
+### 2.5 CAUSATION (character) Not Attested as a Construction
+
+CAUSATION (character) — constructions that express causing someone to have or acquire a character-related truth-domain property (e.g., "making someone a liar," "causing someone to be seen as untrustworthy") — is not attested as a construction in P4a or P4b. The agentive nominalizations (거짓말쟁이, 위선자) describe persons defined by a character-related truth-domain property, but they are nominal labels, not constructions expressing the causation of that state. No construction of the form "cause X to become a liar" or "render X untrustworthy" is reported. In characterization contexts, the data show ATTR and agentive NOMINALIZATION being used to describe the state, not to express its causation.
+
+### 2.6 Asymmetry in Agentive Nominalization (Negative Pole Only)
+
+P4a and P4b both explicitly report a structural asymmetry in agentive nominalization: the negative/false pole is fully lexicalized (거짓말쟁이, 위선자, 위조범), while the positive/true pole has no parallel lexicalized form. "Truth-teller" requires periphrastic expression (진실을 말하는 사람). This asymmetry is confined to the agentive nominalization construction and does not extend to other construction types, where positive and negative forms are symmetrically available (e.g., 정확하다 / 정확하지 않다; 사실이다 / 사실이 아니다).
+
+### 2.7 Scalar Possession Frame as a Distinct ATTR Subtype
+
+The scalar predicative collocation (신빙성이 있다/없다; 신뢰도가 높다/낮다) functions as a subtype of ATTR but is structurally distinct from the standard predicative attribution pattern (N이/가 + Adj). It treats truth-domain properties as possessed quantities rather than as directly predicated states. P4b notes this construction is restricted to nominal bases denoting assessable properties and is not available for all truth-domain nominals. This means ATTR in Korean is not a single uniform construction but is realized by at least two structurally different patterns depending on the nominal base involved.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **CAUSATION (character):** No construction is attested for expressing the causation of a character-related truth-domain state. The agentive nominalizations that exist describe the resulting state (being a liar, being a hypocrite) but do not encode the causation of that state. This is a morphosyntactic gap: the construction type is absent, not merely the vocabulary.
+
+- **DISCONFIRMATION as distinct from NEGATION:** No construction is attested that is specifically oriented toward disconfirming a prior claim as a distinct speech act. The function is absorbed entirely by the NEGATION constructions. Whether this represents a structural gap or a functional merger cannot be determined from the data alone; it is reported here as an absence of a dedicated construction.
+
+### 3.2 Lexical Gaps
+
+- **Agentive nominalization for "truth-teller":** No single lexicalized agentive form parallel to 거짓말쟁이 exists for the positive/true pole. P4a explicitly identifies this as a lexical gap requiring periphrastic expression (진실을 말하는 사람). This is a lexical gap within an otherwise productive construction type.
+
+- **-화하다 causative with native Korean bases:** The causative construction is lexically unavailable for native Korean bases. The gap is not conceptual (the meaning is expressible) but lexical/morphological: no native Korean base participates in this pattern.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a/P4b data. All major truth-domain concepts (truth, falsity, accuracy, validity, credibility, verification, revelation, negation, causation of states) are expressible in Korean, though through varying construction types and with varying degrees of directness.
+
+### 3.4 Asymmetric Gaps (Only Negative or Only Positive Forms Missing)
+
+- **Agentive nominalization:** Negative-pole agentive forms are fully lexicalized (거짓말쟁이, 위선자, 위조범); positive-pole agentive forms are absent as single lexical items. The gap is on the positive side only.
+
+- **-자 agentive (formal):** P4b notes that -자 agentive forms in this domain tend toward the negative/false pole (위선자, 위조범). No positive-pole -자 agentive form is attested in the data. The gap is on the positive side only, consistent with the pattern for -쟁이.
+
+- **No asymmetry observed** in ATTR, NEGATION, ADNOM, BECOME, NOMINALIZATION (-성), or V-O collocation constructions: positive and negative forms are symmetrically available in all of these.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Two structural subtypes: standard predicative (N이/가 + Adj) and scalar possession (N이/가 있다/없다; N이/가 높다/낮다). Both productive across registers. |
+| **ADNOM** | Fully available | Pre-nominal position only; no postnominal alternative exists. Sino-Korean (-한) and native Korean (-(으)ㄴ) subtypes both fully productive. |
+| **BECOME** | Fully available | General inchoative (되다) and epistemic-result inchoative (판명되다, 밝혀지다) both attested. The epistemic-result subtype is register-restricted (investigative, journalistic, legal). |
+| **REVELATION** | Fully available | Expressed via V-O collocation (진실을 밝히다); syntactically a transitive verb phrase with light-verb-like structure. Agentive and transitive; distinct from the passive-resultative BECOME subtype. |
+| **CAUSATION (factual)** | Partially available | -화하다 productive with Sino-Korean bases; not available with native Korean bases. No periphrastic alternative specific to this domain is reported. |
+| **CAUSATION (character)** | Missing entirely | No construction attested for causing a character-related truth-domain state. Agentive nominalizations describe the state but do not encode its causation. |
+| **VERIFICATION** | Available with substitution | Distributed across epistemic-result BECOME (판명되다, 밝혀지다) and scalar possession ATTR (신빙성이 있다, 신뢰도가 높다). No single dedicated VERIFICATION construction. |
+| **DISCONFIRMATION** | Substituted by NEGATION | No dedicated DISCONFIRMATION construction attested. Function expressed entirely through NEGATION constructions (-지 않다, 아니다, morphological negation). |
+| **NEGATION** | Fully available | Three strategies attested: syntactic (-지 않다), negative copula (아니다), morphological (부-/비-/무-). Syntactic is most broadly productive; morphological is formal/written. |
+| **NOMINALIZATION** | Partially available | -성 (Sino-Korean abstract) fully productive; -(으)ㅁ (native Korean abstract) marginal in everyday use, literary/philosophical register; agentive (-쟁이, -자) productive but asymmetric (negative pole only fully lexicalized). |

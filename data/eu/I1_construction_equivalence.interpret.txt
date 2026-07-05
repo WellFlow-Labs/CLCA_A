@@ -1,0 +1,192 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+# Language: Basque (eu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Predicative copula construction (Pattern 1) | *Hori egia da* "That is truth/true"<br>*Gezurra da* "It is a lie" | Direct equivalence | — |
+| **ADNOM** | Relational adjective + noun (Pattern 3, 12) | *egiazko historia* "true story"<br>*gezurrezko dokumentua* "false document" | Direct equivalence | — |
+| **BECOME** | Periphrastic *bihurtu* construction (Pattern 4) | *egia bihurtu* "to become truth"<br>*gezur bihurtu* "to become a lie" | Marginal; functionally substituted by VERIFICATION verbs in most contexts | Structural preference gap |
+| **REVELATION** | — | — | **MISSING (structural gap)** — No construction for "reveal to be true/false" or "turn out to be X" | Structural gap |
+| **CAUSATION (factual)** | — | — | **SUBSTITUTED BY VERIFICATION** — *egiazkotu* "verify/authenticate", *ziurtatu* "make certain/ensure" serve related functions but are not true causatives | Conceptual gap |
+| **CAUSATION (character)** | — | — | **NO COMMON EXPRESSION** — Morphological causative *-arazi* does not productively combine with truth-domain roots | Structural gap |
+| **VERIFICATION** | Verbal derivations (Pattern 11) | *egiazkotu* "to verify/authenticate"<br>*egiaztatu* "to verify"<br>*ziurtatu* "to make certain/ensure" | Direct equivalence | — |
+| **DISCONFIRMATION** | — | — | **NO COMMON EXPRESSION** — No dedicated verb for "disprove/falsify"; requires circumlocution or negated VERIFICATION | Lexical gap |
+| **NEGATION** | Preverbal negator *ez* (Pattern 2) | *Ez da egia* "It is not true"<br>*Ez da zuzena* "It is not correct" | Direct equivalence (analytic negation) | — |
+| **NOMINALIZATION** | Multiple patterns:<br>- Abstract quality (Pattern 6)<br>- Agentive (Pattern 7)<br>- Action (Pattern 22) | *egiazkotasuna* "truthfulness"<br>*gezurtia* "liar"<br>*egiaztatze* "verification" | Direct equivalence with multiple subtypes | — |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 VERIFICATION Substitutes for CAUSATION (factual)
+
+Basque does not have a productive causative construction meaning "to make X true" or "to cause X to be true." The morphological causative suffix *-arazi* does not combine with truth-domain roots to create causative meanings. Instead, the language uses **verification verbs** (*egiazkotu*, *egiaztatu*, *ziurtatu*) which express establishing, confirming, or ensuring truth rather than causing it. This represents a **conceptual gap**: the language conceptualizes truth-establishment as verification/authentication rather than causation.
+
+### 2.2 BECOME is Marginal; No REVELATION Substitute
+
+The periphrastic inchoative construction with *bihurtu* "become" exists but is **marginal** with abstract truth-domain nouns. Speakers report it sounds less natural than with concrete nouns. Importantly, Basque **lacks a REVELATION construction** (e.g., "turn out to be true," "prove to be false") that might substitute for BECOME. This creates a **structural gap**: the language has limited resources for expressing inchoative change in truth-status. When such meanings are needed, speakers typically use:
+- VERIFICATION verbs (*egiazkotu* "verify")
+- Light verb constructions (*egia atera* "truth come-out" = "truth emerge")
+- Specific verbs for particular contexts (*okertu* "go wrong" for *oker*)
+
+### 2.3 DISCONFIRMATION Requires Circumlocution
+
+While VERIFICATION has multiple dedicated verbs (*egiazkotu*, *egiaztatu*, *ziurtatu*), **DISCONFIRMATION lacks a simple verb**. There is no Basque equivalent of "disprove," "falsify," or "debunk." To express disconfirmation, speakers must use:
+- Negated verification: *ez egiazkotu* "not verify"
+- Circumlocution: *gezurra dela frogatu* "prove that it is a lie"
+- Light verb constructions: *gezurra atera* "bring out the lie"
+
+This represents a **lexical gap** with an asymmetry favoring positive verification over negative disconfirmation.
+
+### 2.4 "To Lie" Requires Light Verb Construction
+
+A significant **lexical gap** exists: there is no simple verb meaning "to lie" (no *\*gezurtu*). The standard expression is the **light verb construction** *gezurra esan* (lit. "tell a lie"). This is obligatory and fully idiomatic. The pattern extends to other speech acts:
+- *egia esan* "tell the truth"
+- *gezurra esan* "tell a lie"
+
+This contrasts with the availability of derived verbs for verification (*egiazkotu*) and correction (*zuzendu*), suggesting a **structural preference** for light verb constructions in speech-act contexts.
+
+### 2.5 Multiple Strategies for Manner Adverbials
+
+The language shows **no substitution** but rather **multiple competing strategies** for manner adverbials, all fully productive:
+- Instrumental case: *egiaz* "truthfully"
+- Adverbial suffix: *egiazki* "truly"
+- Locative case: *benetan* "really/truly"
+
+These are not substitutes for each other but rather stylistic variants with subtle semantic differences (instrumental = manner, locative = emphasis).
+
+### 2.6 Asymmetry in Abstract Nominalization
+
+The abstract quality nominalization pattern (*-tasun*) shows an **asymmetry**:
+- ✓ *egiazkotasuna* "truthfulness/authenticity"
+- ✓ *zintzotasuna* "honesty/sincerity"
+- ✗ *\*gezurtasuna* (not attested in standard usage)
+
+For "falsity/mendacity," speakers use other constructions or the bare noun *gezurra* "lie." This represents a **lexical gap** specific to negative truth-values in abstract nominalization.
+
+### 2.7 Negation is Analytic, Not Morphological
+
+Basque NEGATION is **strictly analytic**: the preverbal particle *ez* is obligatory and cannot be replaced by morphological negation. This contrasts with some languages that allow negative affixes. The pattern is:
+- Affirmative: *egia da* "it is true"
+- Negative: *ez da egia* "it is not true" (never *\*daegia* or similar)
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+1. **REVELATION**: No construction for "turn out to be X," "prove to be X," "reveal itself as X"
+   - No equivalent to English *turn out*, *prove* (intransitive), *emerge as*
+   - Cannot express discovery of truth-status through dedicated construction
+
+2. **CAUSATION (character)**: No productive causative construction
+   - Morphological causative *-arazi* does not combine with truth-domain roots
+   - Cannot express "make X true" or "cause X to be true" directly
+
+3. **BECOME (marginal)**: Periphrastic construction exists but is marginal
+   - *bihurtu* "become" sounds unnatural with abstract truth-domain nouns
+   - Speakers prefer specific verbs or verification constructions
+
+### 3.2 Lexical Gaps
+
+1. **DISCONFIRMATION**: No simple verb for "disprove," "falsify," "debunk"
+   - Must use negated verification or circumlocution
+   - Asymmetry: verification has multiple dedicated verbs, disconfirmation has none
+
+2. **"To lie"**: No simple verb *\*gezurtu*
+   - Obligatory light verb construction: *gezurra esan* "tell a lie"
+   - Contrasts with availability of *zuzendu* "correct," *egiazkotu* "verify"
+
+3. **Abstract nominalization of "falsity"**: No *\*gezurtasuna*
+   - Pattern productive for positive truth-values (*egiazkotasuna*, *zintzotasuna*)
+   - Asymmetry in abstract quality nominalization
+
+### 3.3 Conceptual Gaps
+
+1. **CAUSATION vs. VERIFICATION**: The language conceptualizes truth-establishment as verification/authentication rather than causation
+   - No "make true" construction
+   - VERIFICATION verbs (*egiazkotu*, *ziurtatu*) serve related but distinct functions
+
+2. **Inchoative change in truth-status**: Limited resources for expressing becoming true/false
+   - No REVELATION construction
+   - Marginal BECOME construction
+   - Preference for verification or specific verbs
+
+### 3.4 Asymmetric Gaps
+
+1. **VERIFICATION (✓) vs. DISCONFIRMATION (✗)**
+   - Multiple verification verbs vs. no disconfirmation verb
+   - Positive bias in lexicalization
+
+2. **Abstract nominalization**: Productive for positive values, blocked for *gezur*
+   - *egiazkotasuna* ✓, *zintzotasuna* ✓
+   - *\*gezurtasuna* ✗
+
+3. **Manner adverbs**: Productive for positive values, restricted for negative
+   - *egiazki* ✓, *zintzoki* ✓
+   - *\*gezurki* ✗ (uses *gezurrez* instead)
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+| Operator | Construction Type | Status |
+|----------|------------------|--------|
+| **ATTR** | Predicative copula | [CORE] Fully productive |
+| **ADNOM** | Relational adjective + noun | [CORE] Fully productive |
+| **NEGATION** | Preverbal *ez* | [CORE] Obligatory analytic negation |
+| **VERIFICATION** | Derived verbs (*-tu/-atu*) | [CORE] Multiple productive verbs |
+| **NOMINALIZATION** | Multiple suffixes (*-tasun*, *-ti/-tzaile*, *-tze/-keta/-pen*) | [CORE] Highly productive across subtypes |
+
+### 4.2 Available with Substitution
+
+| Operator | Substitute Construction | Status |
+|----------|------------------------|--------|
+| **CAUSATION (factual)** | VERIFICATION verbs (*egiazkotu*, *ziurtatu*) | [SUBSTITUTED] Conceptual shift from causation to verification |
+| **BECOME** | VERIFICATION verbs or specific verbs | [MARGINAL] Periphrastic *bihurtu* exists but marginal; functionally replaced |
+
+### 4.3 Partially Available
+
+| Operator | Available Form | Gap |
+|----------|---------------|-----|
+| **DISCONFIRMATION** | Circumlocution only | [LEXICAL GAP] No dedicated verb; requires negated verification or periphrasis |
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Type | Notes |
+|----------|----------|-------|
+| **REVELATION** | [STRUCTURAL GAP] | No construction for "turn out to be X," "prove to be X" (intransitive) |
+| **CAUSATION (character)** | [STRUCTURAL GAP] | Morphological causative *-arazi* does not combine with truth-domain roots |
+
+---
+
+## 5. Summary of Constructional Behavior
+
+### Core Operators (Fully Productive)
+- ATTR, ADNOM, NEGATION, VERIFICATION, NOMINALIZATION
+
+### Substituted Operators
+- CAUSATION → VERIFICATION (conceptual shift)
+- BECOME → VERIFICATION or specific verbs (structural preference)
+
+### Gapped Operators
+- REVELATION: structural gap (no construction)
+- CAUSATION (character): structural gap (no productive morphology)
+- DISCONFIRMATION: lexical gap (no dedicated verb)
+
+### Asymmetries
+- Verification ≫ Disconfirmation (multiple verbs vs. none)
+- Positive abstract nominals ≫ Negative (*egiazkotasuna* vs. *\*gezurtasuna*)
+- Positive manner adverbs ≫ Negative (*egiazki* vs. *\*gezurki*)
+
+### Structural Preferences
+- Light verb constructions for speech acts (*gezurra esan* "tell a lie")
+- Verification over causation for truth-establishment
+- Multiple competing strategies for manner adverbials (no single preferred form)

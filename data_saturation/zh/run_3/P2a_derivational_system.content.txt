@@ -1,0 +1,503 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Derivational Morphology in Chinese
+
+Chinese derivational morphology differs substantially from that of Indo-European languages. The primary productive derivational processes attested in the P1 vocabulary are:
+
+- **Suffixation with 性 (-xìng):** nominalizes adjectives/stative verbs to abstract property nouns ("the property of being X")
+- **Suffixation with 化 (-huà):** forms verbs meaning "to become X" or "to make X" (comparable to English -ize/-ify)
+- **Suffixation with 者 (-zhě):** forms agentive nouns ("one who does/is X")
+- **Suffixation with 主义 (-zhǔyì):** forms ideological or doctrinal nouns ("the doctrine/ism of X")
+
+Compounding (the dominant word-formation process in Chinese) is treated in P1b and is not repeated here. Only suffixal and other clearly derivational processes are documented below.
+
+Gaps are preserved. Where no derivation is attested, this is stated explicitly.
+
+---
+
+## DERIVED FORMS
+
+---
+
+### Base: 真实 (zhēnshí)
+
+---
+
+**1.**
+**Base Form:** 真实 (zhēnshí)
+**Derived Form:** 真实性
+**Transliteration:** zhēnshíxìng
+**Literal Breakdown:** true + solid/actual + -ness (nominalizing suffix 性)
+**Natural English Translation:** truthfulness, authenticity, factual accuracy, veracity
+**Usage:** The nominalized abstract property form of 真实. Used in formal, legal, journalistic, and academic contexts to refer to the property of being truthful or factually accurate ("核实其真实性" — to verify its authenticity/accuracy; "新闻的真实性" — the truthfulness of news reporting). Highly productive and extremely common.
+**Epistemic Status:** [CORE]
+
+---
+
+**2.**
+**Base Form:** 真实 (zhēnshí)
+**Derived Form:** 真实化
+**Transliteration:** zhēnshíhuà
+**Literal Breakdown:** true + solid/actual + -ize (verbalizing suffix 化)
+**Natural English Translation:** to make realistic, to render authentic, to bring closer to reality
+**Usage:** Used in aesthetic and media contexts to describe the process of making a representation more realistic or authentic ("角色真实化" — making characters more realistic; "场景真实化" — rendering scenes more authentic). Less common than 真实性 and more restricted in register.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 虚假 (xūjiǎ)
+
+---
+
+**3.**
+**Base Form:** 虚假 (xūjiǎ)
+**Derived Form:** 虚假性
+**Transliteration:** xūjiǎxìng
+**Literal Breakdown:** empty/hollow + false + -ness (nominalizing suffix 性)
+**Natural English Translation:** falseness, fraudulence, the quality of being fictitious or deceptive
+**Usage:** The nominalized abstract property form of 虚假. Used in formal, legal, and analytical contexts to refer to the property of being false or fraudulent ("广告的虚假性" — the fraudulent nature of the advertisement; "陈述的虚假性" — the falseness of the statement). Less common than 真实性 but well attested in legal and regulatory discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 正确 (zhèngquè)
+
+---
+
+**4.**
+**Base Form:** 正确 (zhèngquè)
+**Derived Form:** 正确性
+**Transliteration:** zhèngquèxìng
+**Literal Breakdown:** upright/correct + certain/precise + -ness (nominalizing suffix 性)
+**Natural English Translation:** correctness, accuracy, the property of being right
+**Usage:** The nominalized abstract property form of 正确. Used in philosophical, logical, technical, and everyday contexts to refer to the property of being correct ("验证其正确性" — to verify its correctness; "政策的正确性" — the correctness of the policy). Highly productive and common across registers.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 错误 (cuòwù)
+
+---
+
+**5.**
+**Base Form:** 错误 (cuòwù)
+**Derived Form:** 错误性
+**Transliteration:** cuòwùxìng
+**Literal Breakdown:** wrong/mistaken + error/mistake + -ness (nominalizing suffix 性)
+**Natural English Translation:** erroneousness, the quality of being mistaken or wrong
+**Usage:** The nominalized abstract property form of 错误. Used in formal and analytical contexts to refer to the property of being erroneous ("认识的错误性" — the erroneousness of a cognition). Considerably less common than 正确性; 错误 itself already functions as a noun in many contexts, reducing the need for the 性 form.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 准确 (zhǔnquè)
+
+---
+
+**6.**
+**Base Form:** 准确 (zhǔnquè)
+**Derived Form:** 准确性
+**Transliteration:** zhǔnquèxìng
+**Literal Breakdown:** standard/precise + certain/precise + -ness (nominalizing suffix 性)
+**Natural English Translation:** accuracy, precision, exactness
+**Usage:** The nominalized abstract property form of 准确. Extremely common in scientific, technical, journalistic, and legal contexts to refer to the property of being precise or accurate ("提高准确性" — to improve accuracy; "数据的准确性" — the accuracy of the data). One of the most frequently used 性 nominalizations in this semantic field.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 可靠 (kěkào)
+
+---
+
+**7.**
+**Base Form:** 可靠 (kěkào)
+**Derived Form:** 可靠性
+**Transliteration:** kěkàoxìng
+**Literal Breakdown:** can + lean on/depend on + -ness (nominalizing suffix 性)
+**Natural English Translation:** reliability, dependability, trustworthiness
+**Usage:** The nominalized abstract property form of 可靠. Extremely common in engineering, scientific, and everyday contexts to refer to the property of being reliable ("系统的可靠性" — the reliability of the system; "信息来源的可靠性" — the reliability of the information source). Particularly productive in technical and quality-assurance discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 真 (zhēn)
+
+---
+
+**8.**
+**Base Form:** 真 (zhēn)
+**Derived Form:** 真性
+**Transliteration:** zhēnxìng
+**Literal Breakdown:** true/genuine + -ness (nominalizing suffix 性)
+**Natural English Translation:** genuine nature, true character; (medical) true, genuine (as a classifier)
+**Usage:** Used primarily in medical and technical contexts as a classifier meaning "genuine" or "true" as opposed to a superficially similar but distinct condition ("真性近视" — true myopia, as opposed to pseudomyopia; "真性糖尿病" — true diabetes). Less common as a standalone abstract noun. The compound 原真性 (P1 item 29) represents a more specialized nominalization in heritage discourse.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 合法 (héfǎ)
+
+---
+
+**9.**
+**Base Form:** 合法 (héfǎ)
+**Derived Form:** 合法性
+**Transliteration:** héfǎxìng
+**Literal Breakdown:** conform to + law + -ness (nominalizing suffix 性)
+**Natural English Translation:** legality, legitimacy, lawfulness
+**Usage:** The nominalized abstract property form of 合法. Extremely common in legal, political, and philosophical discourse to refer to the property of being lawful or legitimate ("质疑其合法性" — to question its legitimacy; "政权的合法性" — the legitimacy of the regime). Also used in political philosophy as a translation of "legitimacy" in the Weberian sense.
+**Epistemic Status:** [CORE]
+
+---
+
+**10.**
+**Base Form:** 合法 (héfǎ)
+**Derived Form:** 合法化
+**Transliteration:** héfǎhuà
+**Literal Breakdown:** conform to + law + -ize (verbalizing suffix 化)
+**Natural English Translation:** to legalize, to legitimize; legalization
+**Usage:** Used in legal, political, and social discourse to describe the process of making something legally permissible or officially recognized ("大麻合法化" — legalization of cannabis; "将非正式行为合法化" — to legalize informal practices). Productive and well attested across registers.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 违法 (wéifǎ)
+
+---
+
+**11.**
+**Base Form:** 违法 (wéifǎ)
+**Derived Form:** 违法性
+**Transliteration:** wéifǎxìng
+**Literal Breakdown:** violate + law + -ness (nominalizing suffix 性)
+**Natural English Translation:** illegality, unlawfulness; the quality of being in violation of the law
+**Usage:** The nominalized abstract property form of 违法. Used in legal and analytical contexts to refer to the property of being illegal or unlawful ("行为的违法性" — the illegality of the conduct; "认定违法性" — to determine illegality). A standard term in Chinese legal theory and criminal law doctrine.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 道德 (dàodé)
+
+---
+
+**12.**
+**Base Form:** 道德 (dàodé)
+**Derived Form:** 道德化
+**Transliteration:** dàodéhuà
+**Literal Breakdown:** way/principle + virtue/power + -ize (verbalizing suffix 化)
+**Natural English Translation:** to moralize, to make moral; moralization
+**Usage:** Used in sociological, critical, and everyday contexts to describe the process of framing something in moral terms or imposing moral standards on a domain ("将问题道德化" — to moralize an issue; "过度道德化" — excessive moralization). Carries a somewhat critical connotation in contemporary usage, suggesting inappropriate or excessive application of moral judgment.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 诚实 (chéngshí)
+
+---
+
+**13.**
+**Base Form:** 诚实 (chéngshí)
+**Derived Form:** 诚实性
+**Transliteration:** chéngshíxìng
+**Literal Breakdown:** sincere/honest + solid/real + -ness (nominalizing suffix 性)
+**Natural English Translation:** honesty, the quality of being truthful and sincere
+**Usage:** The nominalized abstract property form of 诚实. Used in formal, ethical, and evaluative contexts to refer to the property of being honest ("诚实性原则" — the principle of honesty; "评估其诚实性" — to assess one's honesty). Less common than 诚实 itself, which already functions as a noun in many contexts.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 欺骗 (qīpiàn)
+
+---
+
+**14.**
+**Base Form:** 欺骗 (qīpiàn)
+**Derived Form:** 欺骗性
+**Transliteration:** qīpiànxìng
+**Literal Breakdown:** deceive + cheat/trick + -ness (nominalizing suffix 性)
+**Natural English Translation:** deceptiveness, the quality of being deceptive or misleading
+**Usage:** The nominalized abstract property form of 欺骗. Used in legal, journalistic, and analytical contexts to characterize the deceptive quality of an act, statement, or practice ("广告的欺骗性" — the deceptiveness of the advertisement; "具有欺骗性" — to be deceptive in nature). Well attested in consumer protection and legal discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 伪造 (wěizào)
+
+---
+
+**15.**
+**Base Form:** 伪造 (wěizào)
+**Derived Form:** 伪造者
+**Transliteration:** wěizàozhě
+**Literal Breakdown:** false/counterfeit + to make/fabricate + agent suffix 者
+**Natural English Translation:** forger, counterfeiter, fabricator
+**Usage:** The agentive nominalization of 伪造, referring to a person who forges or counterfeits documents, currency, or evidence. Used in legal and journalistic contexts ("文件伪造者" — document forger; "货币伪造者" — currency counterfeiter). The 者 suffix is the standard agentive nominalizer in Chinese.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 欺骗 (qīpiàn)
+
+---
+
+**16.**
+**Base Form:** 欺骗 (qīpiàn)
+**Derived Form:** 欺骗者
+**Transliteration:** qīpiànzhě
+**Literal Breakdown:** deceive + cheat/trick + agent suffix 者
+**Natural English Translation:** deceiver, cheat, fraud
+**Usage:** The agentive nominalization of 欺骗, referring to a person who deceives others. Used in moral, legal, and everyday contexts. Less common than 骗子 (piànzi), which is the more colloquial and idiomatic term for a cheat or swindler, but 欺骗者 is used in more formal registers.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 现实 (xiànshí) [from P1b Root 2 expansion]
+
+---
+
+**17.**
+**Base Form:** 现实 (xiànshí)
+**Derived Form:** 现实性
+**Transliteration:** xiànshíxìng
+**Literal Breakdown:** present/manifest + real/actual + -ness (nominalizing suffix 性)
+**Natural English Translation:** reality, realism; the quality of being realistic or feasible
+**Usage:** The nominalized abstract property form of 现实. Used in philosophical, political, and practical contexts to refer to the property of being realistic or grounded in actual conditions ("方案的现实性" — the feasibility/realism of the plan; "黑格尔的现实性概念" — Hegel's concept of actuality). Also used in Marxist philosophical discourse as a translation of "actuality" or "reality."
+**Epistemic Status:** [CORE]
+
+---
+
+**18.**
+**Base Form:** 现实 (xiànshí)
+**Derived Form:** 现实化
+**Transliteration:** xiànshíhuà
+**Literal Breakdown:** present/manifest + real/actual + -ize (verbalizing suffix 化)
+**Natural English Translation:** to realize, to make real, to actualize; to become realistic
+**Usage:** Used to describe the process of bringing something from the realm of possibility or planning into actual existence ("将目标现实化" — to actualize a goal; "理想现实化" — to make ideals real). Less common than 实现 (shíxiàn), which is the standard term for "to realize/achieve," but 现实化 is attested in formal and analytical contexts.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 实际 (shíjì) [from P1b Root 2 expansion]
+
+---
+
+**19.**
+**Base Form:** 实际 (shíjì)
+**Derived Form:** 实际性
+**Transliteration:** shíjìxìng
+**Literal Breakdown:** real/actual + border/boundary/occasion + -ness (nominalizing suffix 性)
+**Natural English Translation:** practicality, the quality of being actual or practical
+**Usage:** The nominalized abstract property form of 实际. Used in formal and analytical contexts to refer to the property of being practical or grounded in reality. Less common than 实际 itself, which already functions as a noun and adverb. Attested primarily in academic and philosophical writing.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 务实 (wùshí) [from P1b Root 2 expansion]
+
+---
+
+**20.**
+**Base Form:** 务实 (wùshí)
+**Derived Form:** 务实性
+**Transliteration:** wùshíxìng
+**Literal Breakdown:** engage in/attend to + real/actual + -ness (nominalizing suffix 性)
+**Natural English Translation:** pragmatism, the quality of being practical and results-oriented
+**Usage:** The nominalized abstract property form of 务实. Used in political, administrative, and analytical contexts to refer to the quality of being pragmatic ("强调务实性" — to emphasize pragmatism; "政策的务实性" — the pragmatic character of the policy). Attested but less common than the base form 务实.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 实用 (shíyòng) [from P1b Root 2 expansion]
+
+---
+
+**21.**
+**Base Form:** 实用 (shíyòng)
+**Derived Form:** 实用性
+**Transliteration:** shíyòngxìng
+**Literal Breakdown:** real/actual + use/function + -ness (nominalizing suffix 性)
+**Natural English Translation:** practicality, utility, usefulness
+**Usage:** The nominalized abstract property form of 实用. Extremely common in design, engineering, consumer, and everyday contexts to refer to the property of being practically useful ("注重实用性" — to emphasize practicality; "产品的实用性" — the utility of the product). One of the most frequently used 性 nominalizations in product and design discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+**22.**
+**Base Form:** 实用 (shíyòng)
+**Derived Form:** 实用主义
+**Transliteration:** shíyòng zhǔyì
+**Literal Breakdown:** real/actual + use/function + doctrine/ism
+**Natural English Translation:** pragmatism (as a philosophical doctrine); utilitarianism (in loose usage)
+**Usage:** The standard Chinese translation of philosophical pragmatism (as in the American philosophical tradition of Peirce, James, and Dewey). Also used more loosely to describe a pragmatic, results-oriented approach to problems. Common in philosophical, political, and intellectual discourse.
+**Epistemic Status:** [CORE]
+
+---
+
+### Base: 写实主义 (xiěshí zhǔyì) [from P1b Root 2 expansion]
+
+---
+
+*Note: 写实主义 is itself a 主义 derivation from 写实. No further productive derivations of 写实主义 are documented here. The base form 写实 does not yield additional attested derivations beyond 写实主义 and 写实性 (see below).*
+
+---
+
+**23.**
+**Base Form:** 写实 (xiěshí) [from P1b Root 2 expansion]
+**Derived Form:** 写实性
+**Transliteration:** xiěshíxìng
+**Literal Breakdown:** depict/write + real/actual + -ness (nominalizing suffix 性)
+**Natural English Translation:** realism, the quality of being realistic (in representation)
+**Usage:** The nominalized abstract property form of 写实. Used in art criticism and literary theory to refer to the quality of realistic depiction ("作品的写实性" — the realism of the work; "强调写实性" — to emphasize realistic representation). Less common than 写实主义 but attested in critical discourse.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 假设 (jiǎshè) [from P1b Root 3 expansion]
+
+---
+
+**24.**
+**Base Form:** 假设 (jiǎshè)
+**Derived Form:** 假设性
+**Transliteration:** jiǎshèxìng
+**Literal Breakdown:** false/hypothetical + set up/establish + -ness (nominalizing suffix 性)
+**Natural English Translation:** hypothetical nature, the quality of being hypothetical or conjectural
+**Usage:** The nominalized abstract property form of 假设. Used in logical, philosophical, and academic contexts to refer to the property of being hypothetical or conjectural ("命题的假设性" — the hypothetical character of the proposition; "具有假设性" — to be hypothetical in nature). Attested in academic writing.
+**Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 合法化 (héfǎhuà) — note on agentive extension
+
+---
+
+*No attested agentive (者) derivation from 合法化 is documented. The form 合法化者 does not appear to be in common use.*
+
+---
+
+### Items with no common derivation identified
+
+The following P1 base items were examined for derivational productivity. No common derivations meeting the attestation standard of this protocol were identified:
+
+---
+
+**真 (zhēn) — standalone root:**
+The root 真 does not yield productive suffixal derivations beyond those already captured in compounds (真实性, 原真性). The form 真性 is documented above (item 8) but is restricted to medical/technical classifier use. No 真化 or 真者 forms are in common use.
+**(no common derivation beyond item 8 identified)**
+
+---
+
+**假 (jiǎ) — standalone root:**
+The root 假 does not yield productive suffixal derivations as a standalone base. Compounds with 假 are documented in P1b. No 假性 (as a standalone abstract noun), 假化, or 假者 forms are in common general use. *Note: 假性 does appear in medical contexts as a classifier meaning "pseudo-" or "false" (e.g., 假性近视 — pseudomyopia), parallel to 真性 (item 8 above), but this is a bound classifier use rather than a productive nominalization.*
+**(no common standalone derivation identified)**
+
+---
+
+**真正 (zhēnzhèng):**
+No common 性, 化, or 者 derivations of 真正 are attested. The form 真正性 does not appear to be in common use; 真实性 serves the nominalization function in this semantic area.
+**(no common derivation identified)**
+
+---
+
+**名副其实 (míng fù qí shí):**
+As a fixed four-character expression (成语), 名副其实 does not participate in suffixal derivation.
+**(no common derivation identified)**
+
+---
+
+**货真价实 (huò zhēn jià shí):**
+As a fixed four-character expression (成语), 货真价实 does not participate in suffixal derivation.
+**(no common derivation identified)**
+
+---
+
+**真伪 (zhēnwěi):**
+No common 性, 化, or 者 derivations of 真伪 are attested as productive forms.
+**(no common derivation identified)**
+
+---
+
+**辨别真伪 (biànbié zhēnwěi):**
+As a conventionalized verb phrase, 辨别真伪 does not participate in suffixal derivation.
+**(no common derivation identified)**
+
+---
+
+**失实 (shīshí):**
+No common 性, 化, or 者 derivations of 失实 are attested.
+**(no common derivation identified)**
+
+---
+
+**属实 (shǔshí):**
+No common 性, 化, or 者 derivations of 属实 are attested.
+**(no common derivation identified)**
+
+---
+
+**如实 (rúshí):**
+As an adverbial expression, 如实 does not participate in suffixal derivation.
+**(no common derivation identified)**
+
+---
+
+**本质 (běnzhì):**
+No common 性, 化, or 者 derivations of 本质 as a compound are attested. *Note: 本质化 appears occasionally in critical and philosophical writing (meaning "to essentialize"), but its attestation is limited and it is not in common general use.*
+**(no common derivation identified)**
+
+---
+
+**实质 (shízhì):**
+No common 性, 化, or 者 derivations of 实质 are attested as productive forms. 实质性 (shízhìxìng — "substantive, of a substantive nature") is attested and used in legal and diplomatic contexts ("实质性进展" — substantive progress), but in this collocation 实质性 functions as an attributive adjective rather than a nominalization of the property of being 实质. It is flagged here for completeness.
+**(derivation 实质性 attested as attributive adjective in fixed collocations; not documented as a full nominalization above)**
+
+---
+
+**名不副实 (míng bù fù shí):**
+As a fixed four-character expression (成语), 名不副实 does not participate in suffixal derivation.
+**(no common derivation identified)**
+
+---
+
+**相符 (xiāngfú):**
+No common 性, 化, or 者 derivations of 相符 are attested.
+**(no common derivation identified)**
+
+---
+
+**逼真 (bīzhēn):**
+No common 性, 化, or 者 derivations of 逼真 are attested as productive forms. The form 逼真性 does not appear to be in common use.
+**(no common derivation identified)**
+
+---
+
+**失真 (shīzhēn):**
+No common 性, 化, or 者 derivations of 失真 are attested.
+**(no common derivation identified)**
+
+---
+
+**确凿 (quèzáo):**
+No common 性, 化, or 者 derivations of 确凿 are attested. 确凿 functions primarily as a bound attributive modifier and does not appear to yield productive derivations.
+**(no common derivation identified)**
+
+---
+
+**原真性 (yuánzhēnxìng):**
+As a 性 nominalization itself (P1 item 29), 原真性 is already a derived form. No further derivations of 原真性 are attested.
+**(no common derivation identified)**
+
+---
+
+## Summary Note on Productivity
+
+The suffix **性 (-xìng)** is the most productive derivational process attested across this vocabulary set, yielding nominalizations from stative verbs and adjectives. It applies most freely to disyllabic bases (真实性, 准确性, 可靠性, 合法性, 违法性, 实用性) and is well attested for bases in the correctness, reliability, and legality domains.
+
+The suffix **化 (-huà)** is attested for bases that describe states amenable to change or process (合法化, 道德化), but is not productive across the full set.
+
+The suffix **者 (-zhě)** is attested only where the base describes an action with a clear human agent (伪造者, 欺骗者), and even there, competing colloquial forms (骗子) may be preferred in informal registers.
+
+The suffix **主义 (-zhǔyì)** is attested only for 实用主义, where it translates an established philosophical doctrine. It does not apply freely across the set.

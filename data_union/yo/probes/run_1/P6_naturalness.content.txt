@@ -1,0 +1,275 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Yoruba (yo)
+
+---
+
+## Preliminary Note
+
+This step documents how Yoruba encodes dynamic meanings — becoming, causing, and maintaining or losing truth-related states — using vocabulary established in P1 through P5. The analysis draws exclusively on attested constructions and vocabulary from the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Where the same construction type applies across multiple terms, this is noted rather than repeated in full for each.
+
+The CONTEXT establishes the following resources for encoding dynamics:
+
+- **Motion-based inchoative:** *padà sí* (return to), *jáde kúrò nínú* (come out from), *di* (become) — documented in P4a Construction 4
+- **Permissive-causative:** *jẹ́ kí* (let/cause) — P4a Construction 5
+- **Instrumental serial verb:** *fi* (use/employ as instrument) — P4a Construction 5
+- **Negative future:** *kò ní* + predicate — P2b constructions 6, 13, 16, 21, 31, 69, 82
+- **Existential pair:** *wà* / *kò sí* — P4a Construction 10
+- **Directional verb:** *dúró sí* (stand by/remain committed to), *dúró nínú* (stand firm in) — P2b constructions 3, 34
+- **Habitual marker:** *ń* — P2b constructions 26, 71, 72, 73
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1a. Becoming truthful / coming into truth
+
+**Pattern:** Motion-directional construction — *padà sí* + truth-domain noun
+
+**Attested example:**
+> *Padà sí ìgbàgbọ́*
+> "Return to faith / come back to belief"
+> (P2b construction 36)
+
+**Notes:** This is the only fully attested inchoative construction in the CONTEXT involving a truth-domain noun as the goal state. The verb *padà* (return) implies a prior state of faith that was lost and is being recovered; it encodes re-entry into a state rather than first entry. No parallel construction *padà sí òtítọ́* (return to truth) is attested in the CONTEXT, though the structural pattern would permit it.
+
+---
+
+**Pattern:** Motion-directional construction — *jáde kúrò nínú* + opposed state
+
+**Attested example:**
+> *Jáde kúrò nínú àìmọ̀*
+> "Come out of ignorance / leave ignorance behind"
+> (P2b construction 32)
+
+**Notes:** This construction encodes transition into knowledge by describing departure from its opposed state (*àìmọ̀*, ignorance). The goal state (knowledge, *ìmọ̀*) is implied rather than named. This is the only attested construction of this type in the CONTEXT. No parallel *jáde kúrò nínú irọ́* (come out of falsehood) or *jáde kúrò nínú ẹ̀ṣẹ̀* (come out of sin) is attested as a fixed expression in the CONTEXT, though *wà ní ẹ̀ṣẹ̀* (be in a state of sin, P2b construction 70) implies the logical possibility of such a departure.
+
+---
+
+**Pattern:** *di* + nominal predicate (become)
+
+**Attested in P4a** as an alternate inchoative construction (Construction 4, alternate row). No example sentence is provided in the CONTEXT for this pattern with any truth-domain noun. P4a notes it as an alternate to the motion-based pattern and rates it [UNCERTAIN] for frequency relative to the motion construction.
+
+**Conclusion:** No attested example of *di* + truth-domain nominal is available in the CONTEXT. This pattern is noted as structurally possible but not documented with truth-domain vocabulary.
+
+---
+
+### 1b. Becoming a non-truth / opposed state
+
+**Pattern:** *wà ní* + opposed state (be in / enter a state)
+
+**Attested example:**
+> *Wà ní ẹ̀ṣẹ̀*
+> "Be in sin / exist in a state of guilt / live in transgression"
+> (P2b construction 70)
+
+**Notes:** *Wà ní* encodes being in a state rather than transition into it; it is a stative-locative construction rather than a strict inchoative. However, P2b documents it in contexts of moral discourse where the state of sin is described as something a person can be in, implying entry and exit are possible. No construction encoding the moment of entering sin (*di alẹ̀ṣẹ̀*, become a sinner) is attested in the CONTEXT.
+
+---
+
+**Pattern:** Proverbial constructions asserting the fate of falsehood and deception
+
+**Attested examples:**
+> *Irọ́ kò ní dúró* — "A lie will not stand" (P2b construction 16)
+> *Irọ́ ò ní gbádùn* — "Falsehood will not prosper" (P2b construction 13)
+> *Ìtànjẹ́ kò ní gbádùn* — "Deception will not prosper" (P2b construction 82)
+
+**Notes:** These constructions encode the dynamic fate of falsehood and deception — their inability to persist or succeed — using the negative future *kò ní* / *ò ní*. They do not describe a moment of becoming but assert that the opposed state (standing, prospering) will not be achieved. They are stability-denying rather than strictly inchoative.
+
+---
+
+## 2. CAUSING A TRUTH-RELATED STATE
+
+### 2a. Causing someone to be in a truth-related state
+
+**Pattern:** *jẹ́ kí* + NP + *jẹ́* + nominal predicate (permissive-causative)
+
+**Attested example:**
+> *Jẹ́ kí òtítọ́ jẹ́ olùdarí rẹ*
+> "Let truth be your guide / cause truth to lead you"
+> (P2b construction 11)
+
+**Notes:** This construction encodes a causative-permissive relationship in which the speaker urges the addressee to allow truth to occupy the role of guide. The subject of the embedded clause is *òtítọ́* (truth) rather than a person, so the construction causes truth to function as an agent rather than causing a person to become truthful. This is the only attested *jẹ́ kí* construction with a truth-domain noun in the CONTEXT.
+
+---
+
+**Pattern:** *dánilójú* — causing certainty in a person's mind
+
+**Attested example:**
+> *Fún ní ìdánilójú*
+> "Give assurance to / provide confirmation to / convince"
+> (P2b construction 87)
+
+**Notes:** The verbal base *dánilójú* (P2a item 44) is documented as meaning "to make one certain, to convince" — its morphological analysis is *dá* (make/establish) + *ni* (person/one) + *lójú* (in the eye/certain). This is the most direct causative construction in the truth domain: it encodes the act of establishing certainty in another person. The ditransitive *fún ní ìdánilójú* is the attested constructional frame.
+
+---
+
+**Pattern:** *fi* + truth-domain noun + verb (instrumental causation of manner)
+
+**Attested example:**
+> *Fi òtítọ́ sọ̀rọ̀*
+> "Speak with truth / speak truthfully"
+> (P2b construction 8)
+
+**Notes:** The *fi* instrumental construction encodes truth as the instrument or manner of speaking rather than as a caused state. P4a notes that this construction "encodes manner rather than strict causation." It is included here because it describes a person deploying truth as a means, which is a weak causative relationship between the speaker's choice and the truth-character of their speech.
+
+---
+
+### 2b. Causing someone to know / causing knowledge
+
+**Pattern:** *fún ní ìtọ́ni* (give guidance to)
+
+**Attested example:**
+> *Fún ní ìtọ́ni*
+> "Give guidance to / provide direction to / instruct"
+> (P2b construction 60)
+
+**Notes:** This construction encodes the act of causing another person to be directed toward what is correct. The causal agent provides *ìtọ́ni* (guidance/correction) to a recipient. It is a causative of correctness-orientation rather than of propositional knowledge, but it belongs to the same domain.
+
+---
+
+**Pattern:** *pín ìmọ̀* (share knowledge)
+
+**Attested example:**
+> *Pín ìmọ̀*
+> "Share knowledge / distribute understanding"
+> (P2b construction 25)
+
+**Notes:** This construction encodes the transmission of knowledge from one person to others. It is a weak causative in that the sharer causes others to have knowledge, but the construction does not encode the recipient's resulting state explicitly.
+
+---
+
+### 2c. Causing a false or opposed state
+
+**Pattern:** *tànjẹ́ ẹni* (deceive a person)
+
+**Attested example:**
+> *Tànjẹ́ ẹni*
+> "Deceive a person / defraud someone / trick one"
+> (P2b construction 81)
+
+**Notes:** This is the most direct causative construction for producing a false epistemic state in another person: the deceiver causes the deceived person to hold a false belief. The verbal base *tànjẹ́* takes a person as its direct object, encoding the person as the target of the caused state.
+
+---
+
+**Pattern:** *gbọ́ irọ́* (believe a lie / be taken in by a lie)
+
+**Attested example:**
+> *Gbọ́ irọ́*
+> "Believe a lie / accept a falsehood / be taken in by a lie"
+> (P2b construction 17)
+
+**Notes:** This construction encodes the result state of successful deception from the perspective of the deceived person. It is not strictly causative in form but describes the state that deception causes: the person has come to accept a false statement as true. P2b notes it "appears in moral warnings and in assessments of gullibility or deception."
+
+---
+
+## 3. STABILITY AND PERSISTENCE OF TRUTH-RELATED STATES
+
+### 3a. Stability of truth
+
+**Pattern:** *dúró sí* + truth-domain noun (stand by / remain committed to)
+
+**Attested example:**
+> *Dúró sí òtítọ́*
+> "Stand by the truth / hold to the truth / remain committed to the truth"
+> (P2b construction 3)
+
+**Notes:** This construction encodes the maintenance of a commitment to truth under conditions that might otherwise cause departure from it. The verb *dúró* (to stand, to remain) encodes stability and resistance to change. P2b notes it is "used in moral and legal contexts to describe steadfast commitment to truthfulness under pressure."
+
+---
+
+**Pattern:** *dúró nínú* + truth-domain noun (stand firm in)
+
+**Attested example:**
+> *Dúró nínú ìgbàgbọ́*
+> "Stand firm in faith / remain in belief / hold fast to conviction"
+> (P2b construction 34)
+
+**Notes:** Structurally parallel to *dúró sí òtítọ́* but with the locative *nínú* (in/within) rather than the directional *sí* (toward/by). Both encode persistence in a truth-related state. P2b notes this is "used in religious discourse to urge steadfastness in faith."
+
+---
+
+**Pattern:** Negative future *kò ní kú* (will not die) — permanence of truth
+
+**Attested example:**
+> *Òtítọ́ kò ní kú*
+> "Truth will not die / truth is imperishable"
+> (P2b construction 6)
+
+**Notes:** This proverbial construction asserts the absolute stability of truth using the negative future *kò ní* + *kú* (die). It encodes truth as a state that cannot be destroyed or ended. P2b notes it "appears in moral discourse and in legal contexts to assert that the truth will eventually emerge."
+
+---
+
+### 3b. Instability and impermanence of falsehood and deception
+
+**Pattern:** Negative future *kò ní* + persistence verb — falsehood cannot endure
+
+**Attested examples:**
+> *Irọ́ kò ní dúró* — "A lie will not stand" (P2b construction 16)
+> *Irọ́ ò ní gbádùn* — "Falsehood will not prosper" (P2b construction 13)
+> *Ìtànjẹ́ kò ní gbádùn* — "Deception will not prosper" (P2b construction 82)
+> *Òdodo kò gbọdọ̀ kú* — "Justice must not die" (P2b construction 21, normative rather than descriptive)
+
+**Notes:** The negative future construction *kò ní* is the primary grammatical resource for asserting the instability of falsehood and deception. It is used with *dúró* (stand/endure) and *gbádùn* (prosper/succeed) to deny that these states can persist. The construction with *òdodo* (P2b construction 21) is normative (*kò gbọdọ̀*, must not) rather than predictive (*kò ní*, will not), encoding a different modal force — obligation rather than prediction.
+
+---
+
+### 3c. Stability of sin and its consequences
+
+**Pattern:** *ẹ̀ṣẹ̀ kò ní yọ̀* (sin will not escape / go unpunished)
+
+**Attested example:**
+> *Ẹ̀ṣẹ̀ kò ní yọ̀*
+> "Sin will not go unpunished / guilt will not escape / offense will not be overlooked"
+> (P2b construction 69)
+
+**Notes:** This construction uses *kò ní* + *yọ̀* (escape/slip away) to assert that the consequences of sin are stable and inescapable. It encodes the persistence of moral consequence rather than the persistence of the sin-state itself.
+
+---
+
+### 3d. Stability of error and commitment to non-recurrence
+
+**Pattern:** *àṣìṣe kò ní ṣẹlẹ̀ mọ́* (the error will not happen again)
+
+**Attested example:**
+> *Àṣìṣe kò ní ṣẹlẹ̀ mọ́*
+> "The error will not happen again / the mistake will not recur"
+> (P2b construction 64)
+
+**Notes:** This construction uses *kò ní* + *ṣẹlẹ̀* (happen/occur) + *mọ́* (again/anymore) to assert the non-recurrence of a past error. It encodes a commitment to change — the error-state will not be re-entered. P2b notes it "appears in legal and interpersonal discourse" in contexts of apology and reform.
+
+---
+
+## 4. SUMMARY OF PATTERNS
+
+| Dynamic Type | Construction | Attested Example | Term(s) Involved |
+|---|---|---|---|
+| Becoming (re-entry into state) | *padà sí* + noun | *padà sí ìgbàgbọ́* | *ìgbàgbọ́* |
+| Becoming (departure from opposed state) | *jáde kúrò nínú* + noun | *jáde kúrò nínú àìmọ̀* | *àìmọ̀* / *ìmọ̀* |
+| Being in a state (stative-locative) | *wà ní* + noun | *wà ní ẹ̀ṣẹ̀* | *ẹ̀ṣẹ̀* |
+| Causing certainty in another | *dánilójú* / *fún ní ìdánilójú* | *fún ní ìdánilójú* | *ìdánilójú* |
+| Causing correct orientation | *fún ní ìtọ́ni* | *fún ní ìtọ́ni* | *ìtọ́ni* |
+| Causing false belief in another | *tànjẹ́ ẹni* | *tànjẹ́ ẹni* | *ìtànjẹ́* |
+| Permissive-causative | *jẹ́ kí* + NP + *jẹ́* + nominal | *jẹ́ kí òtítọ́ jẹ́ olùdarí rẹ* | *òtítọ́* |
+| Instrumental manner | *fi* + noun + verb | *fi òtítọ́ sọ̀rọ̀* | *òtítọ́* |
+| Stability (commitment to truth) | *dúró sí* + noun | *dúró sí òtítọ́* | *òtítọ́* |
+| Stability (standing firm in faith) | *dúró nínú* + noun | *dúró nínú ìgbàgbọ́* | *ìgbàgbọ́* |
+| Stability (truth imperishable) | *kò ní kú* | *òtítọ́ kò ní kú* | *òtítọ́* |
+| Instability (falsehood cannot endure) | *kò ní dúró* / *kò ní gbádùn* | *irọ́ kò ní dúró* | *irọ́*, *ìtànjẹ́* |
+| Non-recurrence of error | *kò ní ṣẹlẹ̀ mọ́* | *àṣìṣe kò ní ṣẹlẹ̀ mọ́* | *àṣìṣe* |
+| Inescapability of consequence | *kò ní yọ̀* | *ẹ̀ṣẹ̀ kò ní yọ̀* | *ẹ̀ṣẹ̀* |
+
+---
+
+## 5. TERMS FOR WHICH NO DYNAMIC EXPRESSION IS ATTESTED
+
+The following truth-domain terms from P1 do not appear in any attested dynamic construction in the CONTEXT:
+
+- *òdodo* (justice/righteousness): The construction *òdodo kò gbọdọ̀ kú* (P2b construction 21) is normative rather than dynamic; no inchoative or causative construction is attested.
+- *ẹ̀rí* and its compounds: No construction encoding becoming evidence, causing evidence to exist, or evidence persisting is attested beyond the existential pair *ẹ̀rí tó péye wà* / *ẹ̀rí kò sí*.
+- *gidi* and *ojúlówó*: No dynamic construction is attested; both appear only in attributive and identificational constructions.
+- *ìjọra* and *dọ̀gba*: No dynamic construction is attested in the CONTEXT.
+- *ìmúrasílẹ̀*: Flagged [UNCERTAIN] in P1; no dynamic construction is attested.
+
+---
+
+*End of P6 Change, Causation, and Stability*

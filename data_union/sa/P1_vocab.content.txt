@@ -1,0 +1,423 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Sanskrit (sa)
+
+Transliteration standard: IAST (International Alphabet of Sanskrit Transliteration), applied consistently throughout.
+
+---
+
+**1.**
+**Form:** सत्य
+**Transliteration:** satya
+**Literal meaning:** from *sat* (being, existing, real) + adjectival suffix *-ya*; "that which is"
+**Typical English translations:** truth, truthfulness, reality, the real, the true
+**Usage:** Used across Vedic, epic, and philosophical literature to denote both the property of a statement's correspondence with reality and the moral virtue of speaking truthfully. Applied to speech acts (truthful utterance), to persons (one who speaks truly), and to metaphysical states (ultimate reality). Appears in legal and ritual contexts as an oath-formula and in philosophical contexts as a metaphysical category (e.g., *satyam brahma*). Participates in extensive derivation: *satyatā*, *satyavādin*, *satyavrata*, *satyāgraha*, etc.
+**Epistemic status:** [CORE]
+
+---
+
+**2.**
+**Form:** ऋत
+**Transliteration:** ṛta
+**Literal meaning:** from root *ṛ-* (to go, to fit, to be in order); "that which has gone rightly," cosmic order
+**Typical English translations:** cosmic order, truth, right, the fitting, the correct
+**Usage:** A Vedic term designating the ordered functioning of the cosmos and the moral-ritual rightness aligned with it; statements and acts conforming to this order are *ṛta*. Contrasted with *anṛta* (disorder, falsehood). In the Ṛgveda it functions as a standard against which actions and utterances are evaluated for rightness. Closely related to *satya* in early texts but with stronger cosmological and ritual connotations. Less productive in post-Vedic derivation than *satya*; usage is largely confined to Vedic and archaic contexts.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**3.**
+**Form:** यथार्थ
+**Transliteration:** yathārtha
+**Literal meaning:** *yathā* (as, according to) + *artha* (meaning, object, purpose); "as the object/meaning is"
+**Typical English translations:** accurate, true to the object, literal, correct, realistic, real
+**Usage:** Used to characterize cognitions, statements, representations, or names that correspond accurately to their referent or intended meaning as those objects actually are. Common in philosophical, epistemological, and grammatical literature to evaluate whether a word, description, or account faithfully represents its referent. Also used in aesthetic and practical contexts to mean "appropriate" or "fitting." Appears as both adjective and adverb.
+**Epistemic status:** [CORE]
+
+---
+
+**4.**
+**Form:** अयथार्थ
+**Transliteration:** ayathārtha
+**Literal meaning:** *a-* (negation) + *yathārtha* (accurate, as the object is)
+**Typical English translations:** inaccurate, not corresponding to the object, false
+**Usage:** The negation of *yathārtha*; used in epistemological contexts to characterize cognitions or statements that fail to represent their objects correctly. Less frequent than *yathārtha* but attested in commentarial literature.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**5.**
+**Form:** प्रमाण
+**Transliteration:** pramāṇa
+**Literal meaning:** *pra-* (forth, correctly) + *māṇa* (measuring, from root *mā-*, to measure); "correct measure"
+**Typical English translations:** valid cognition, means of knowledge, proof, authority, standard, criterion
+**Usage:** The central epistemological term across nearly all Sanskrit philosophical schools, denoting a reliable means of arriving at true cognition (perception, inference, testimony, etc.). Also used in legal and practical contexts for an authoritative standard, evidence, or text. Applied to persons, texts, and instruments regarded as authoritative standards. Generates a large derivational family: *pramātṛ* (knower), *prameya* (object of valid cognition), *pramā*, *apramāṇa*, *pramāṇatā* (the property of being a valid means), *aprāmāṇika* (lacking authority).
+**Epistemic status:** [CORE]
+
+---
+
+**6.**
+**Form:** प्रमा
+**Transliteration:** pramā
+**Literal meaning:** *pra-* + *mā-* (to measure); "correct measuring/cognition"
+**Typical English translations:** valid cognition, true knowledge, correct apprehension, valid knowledge
+**Usage:** The result or product of a *pramāṇa*; a cognition that accurately apprehends its object as it is. Distinguished in epistemological literature from *apramā* (erroneous cognition), *saṃśaya* (doubt), and from mere belief. Used in *Nyāyasūtra* and commentarial traditions. Primarily a technical philosophical term.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**7.**
+**Form:** अप्रमा
+**Transliteration:** apramā
+**Literal meaning:** *a-* (negation) + *pramā*; "non-valid cognition"
+**Typical English translations:** erroneous cognition, invalid apprehension, false knowledge
+**Usage:** The counterpart to *pramā*, designating cognition that fails to apprehend its object correctly, including illusion, doubt, and memory in some classifications. Used in epistemological analysis to demarcate the boundary of reliable knowledge. Primarily technical.
+**Epistemic status:** [CORE]
+
+---
+
+**8.**
+**Form:** सत्
+**Transliteration:** sat
+**Literal meaning:** present participle of root *as-* (to be); "being, existing, real"
+**Typical English translations:** being, real, existent, good, true, genuine
+**Usage:** Used both ontologically (what truly exists) and evaluatively (what is genuine or good). In compounds such as *sat-puruṣa* (a genuine/good man) and *sat-karman* (right action), it marks authenticity or moral worth. In Vedāntic contexts it names the ultimate reality. The evaluative and ontological senses are not always sharply distinguished in usage. Foundational to the *satya* family of terms.
+**Epistemic status:** [CORE]
+
+---
+
+**9.**
+**Form:** असत्
+**Transliteration:** asat
+**Literal meaning:** *a-* (negation) + *sat*; "non-being, unreal"
+**Typical English translations:** unreal, non-existent, false, bad, spurious
+**Usage:** The negation of *sat*, used both ontologically for what lacks genuine existence and evaluatively for what is false, spurious, or morally bad. Appears in philosophical debate about the status of the phenomenal world and in ethical contexts contrasting genuine virtue with its absence. In Vedāntic literature, central to discussions of appearance versus reality.
+**Epistemic status:** [CORE]
+
+---
+
+**10.**
+**Form:** तथ्य
+**Transliteration:** tathya
+**Literal meaning:** from *tathā* (thus, so, in that way) + *-ya*; "that which is as it is said to be / that which is thus"
+**Typical English translations:** true, factual, real, actual fact, a fact
+**Usage:** Used to characterize statements or accounts that correspond to how things actually are. Appears in legal and narrative contexts to evaluate testimony or report, meaning "factual" or "the truth of the matter." Somewhat less philosophically loaded than *satya* and more oriented toward factual accuracy in specific cases.
+**Epistemic status:** [CORE]
+
+---
+
+**11.**
+**Form:** मिथ्या
+**Transliteration:** mithyā
+**Literal meaning:** from *mithā* (wrongly, alternately, mutually) + adverbial/adjectival use; "wrongly, falsely, in a contrary manner"
+**Typical English translations:** false, erroneous, illusory, wrong, spurious, in vain, erroneously
+**Usage:** Applied as adverb and adjective to statements, cognitions, and objects that are false, mistaken, or illusory. In Advaita Vedānta, *mithyā* has a specific technical sense: neither absolutely real (*sat*) nor absolutely unreal (*asat*), but of indeterminate ontological status. Also used in everyday and logical contexts for "falsely," "mistaken," or "in vain." Appears in compounds: *mithyājñāna* (false knowledge), *mithyāvāda* (false doctrine).
+**Epistemic status:** [CORE]
+
+---
+
+**12.**
+**Form:** अनृत
+**Transliteration:** anṛta
+**Literal meaning:** *an-* (negation) + *ṛta*; "contrary to cosmic order/right"
+**Typical English translations:** untruth, falsehood, wrong, lie, disorder, the unreal
+**Usage:** The negation of *ṛta* and its standard antonym in Vedic and later literature; used for falsehood or moral wrongness, especially in speech, and for cosmic disorder. In later literature used more narrowly for falsehood or lying, particularly in legal and moral contexts. Appears in Dharmaśāstra contexts as a category of wrongful speech. Contrasted with *satya* in many texts. Less common than *asatya* in post-Vedic prose but attested in verse and legal literature.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**13.**
+**Form:** असत्य
+**Transliteration:** asatya
+**Literal meaning:** *a-* + *satya*; "non-truth"
+**Typical English translations:** untruth, falsehood, lie, false
+**Usage:** The direct negation of *satya*, used widely in ethical, legal, and philosophical contexts for false statements or the quality of being untrue. Common in Dharmaśāstra as a category of wrongful speech and in philosophical debate as the opposite of truth. Appears in lists of vices and in discussions of testimony (*pramāṇa*) as a disqualifying property of a witness. More straightforwardly evaluative than *mithyā*.
+**Epistemic status:** [CORE]
+
+---
+
+**14.**
+**Form:** वास्तव
+**Transliteration:** vāstava
+**Literal meaning:** from *vastu* (thing, real object, substance) + *-va* (adjectival suffix); "pertaining to the real object"
+**Typical English translations:** real, actual, genuine, factual
+**Usage:** Used to characterize what pertains to or corresponds with actual things or states of affairs, as opposed to what is imagined, conventional, or merely apparent. Appears in philosophical, commentarial, and literary contexts to distinguish genuine properties from attributed or conventional ones. Also used in ordinary language to mean "actual" or "real," and in later Sanskrit and Sanskrit-influenced registers of modern Indian languages.
+**Epistemic status:** [CORE]
+
+---
+
+**15.**
+**Form:** वस्तु
+**Transliteration:** vastu
+**Literal meaning:** from root *vas-* (to dwell, to be); "thing, real entity, substance"
+**Typical English translations:** real thing, object, substance, the actual matter, actual state of affairs
+**Usage:** Denotes a real, existing thing or the actual substance of a matter, as opposed to mere appearance, name, concept, or verbal designation. In philosophical and epistemological contexts, *vastu* is what cognition must correspond to for the cognition to be valid; used to ask what something *really* is (*vastu-svarūpa*). In legal and practical contexts, it refers to the actual matter at issue or the subject matter of a dispute.
+**Epistemic status:** [CORE]
+
+---
+
+**16.**
+**Form:** वस्तुतः
+**Transliteration:** vastutaḥ
+**Literal meaning:** *vastu* (real thing) + ablative/adverbial suffix *-taḥ*; "from the standpoint of the real thing"
+**Typical English translations:** in reality, actually, truly, in fact
+**Usage:** An adverbial expression used to signal that what follows is an assessment of how things actually are, as opposed to how they appear or are conventionally described. Common in philosophical commentary and argumentation to introduce a corrective or deeper evaluation.
+**Epistemic status:** [CORE]
+
+---
+
+**17.**
+**Form:** आभास
+**Transliteration:** ābhāsa
+**Literal meaning:** *ā-* (toward, resembling) + *bhāsa* (shining, appearance, from root *bhās-*, to shine); "semblance, mere appearance, apparent shining"
+**Typical English translations:** semblance, appearance, fallacy, pseudo-, spurious instance, apparent (but not real)
+**Usage:** Used in epistemological and logical contexts for something that has the appearance of a thing without being that thing — a fallacious inference (*hetvābhāsa*, fallacy of the reason), a spurious instance, or an illusory appearance. Marks something as resembling the genuine article without being it; also used for *pramāṇābhāsa* (pseudo-valid means of knowledge). In Kashmiri Śaiva philosophy, *ābhāsa* has a more specific technical sense for the manifestation of appearances within consciousness. Common in Nyāya and Vedāntic literature.
+**Epistemic status:** [CORE]
+
+---
+
+**18.**
+**Form:** हेत्वाभास
+**Transliteration:** hetvābhāsa
+**Literal meaning:** *hetu* (reason, logical ground) + *ābhāsa* (semblance); "semblance of a reason"
+**Typical English translations:** fallacy, pseudo-reason, spurious logical ground
+**Usage:** A fixed technical expression in Sanskrit logic (Nyāya and related schools) for a reason in an inference that appears valid but fails to meet the conditions for genuine probative force. Several subtypes are enumerated in logical literature (*savyabhicāra*, *viruddha*, *satpratipakṣa*, etc.). Widely attested across logical treatises.
+**Epistemic status:** [CORE]
+
+---
+
+**19.**
+**Form:** भ्रम
+**Transliteration:** bhrama
+**Literal meaning:** from root *bhram-* (to wander, to be confused); "wandering, confusion, error"
+**Typical English translations:** error, illusion, mistaken cognition, confusion
+**Usage:** Denotes erroneous cognition in which something is apprehended as other than it is; the classic example is the rope mistaken for a snake. Central to epistemological discussions of illusion and error across Nyāya, Mīmāṃsā, and Vedānta. Contrasted with *pramā* (valid cognition). Also used in non-technical contexts for confusion or dizziness.
+**Epistemic status:** [CORE]
+
+---
+
+**20.**
+**Form:** भ्रान्ति
+**Transliteration:** bhrānti
+**Literal meaning:** from root *bhram-* (to wander, to be confused); "wandering, confusion, error"
+**Typical English translations:** error, illusion, mistaken cognition, confusion
+**Usage:** Standard term for cognitive error or illusion in epistemological literature; the classic example is mistaking a rope for a snake (*rajju-sarpa-bhrānti*). Used to evaluate a cognition as failing to accurately represent its object. Participates in derivation: *bhrānta* (erroneous, confused). Distinguished from *viparyaya* in some technical usages.
+**Epistemic status:** [CORE]
+
+---
+
+**21.**
+**Form:** विपर्यय
+**Transliteration:** viparyaya
+**Literal meaning:** *vi-* (apart, wrongly) + *paryaya* (going around, reversal); "reversal, inversion"
+**Typical English translations:** erroneous cognition, misapprehension, wrong knowledge, inversion, contrary knowledge
+**Usage:** Used in Sāṃkhya, Yoga, and other philosophical systems for a category of false or inverted cognition; one of the five types of mental modification (*vṛtti*) in Patañjali's Yogasūtra. Denotes cognition that takes something to be what it is not, the inversion of correct apprehension. Distinguished from *saṃśaya* (doubt) and *vikalpa* (conceptual construction), and from *bhrānti* in some technical usages. Primarily a technical philosophical term.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**22.**
+**Form:** प्रतिभास
+**Transliteration:** pratibhāsa
+**Literal meaning:** *prati-* (against, back, in return) + *bhāsa* (shining, appearance, from root *bhās-*); "counter-appearance, mere appearance"
+**Typical English translations:** appearance, semblance, illusory appearance, seeming
+**Usage:** Used in epistemological and Vedāntic literature to designate how something appears, particularly when the appearance may not correspond to reality. Contrasted with *tattva* or *vastu* to mark the distinction between how things seem and what they are. Central in discussions of perceptual error (*bhrānti*).
+**Epistemic status:** [CORE]
+
+---
+
+**23.**
+**Form:** प्रतिरूप
+**Transliteration:** pratirūpa
+**Literal meaning:** *prati-* (against, corresponding to) + *rūpa* (form, appearance); "corresponding form, counterpart"
+**Typical English translations:** resemblance, likeness, counterpart, imitation, semblance
+**Usage:** Used to describe something that resembles or corresponds to an original form, sometimes with the implication of being a copy or imitation rather than the genuine article. Appears in philosophical and legal contexts to evaluate whether something is the real thing or merely a semblance. Can carry a slightly negative connotation of being a substitute or counterfeit.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**24.**
+**Form:** औचित्य
+**Transliteration:** aucitya
+**Literal meaning:** from *ucita* (fitting, appropriate, from root *vac-/uc-*) + abstract suffix *-ya*; "fittingness, appropriateness"
+**Typical English translations:** propriety, fittingness, appropriateness, decorum
+**Usage:** A key term in Sanskrit aesthetics (*alaṃkāraśāstra*), especially in Kṣemendra's *Aucityavicāracarcā*, where it designates the quality of being fitting or appropriate in a literary composition — the right word, image, or sentiment in the right place. Also used in ethical and social contexts for conduct that is appropriate to one's role, circumstances, or situation. Evaluates rightness as a matter of fit rather than correspondence.
+**Epistemic status:** [CORE]
+
+---
+
+**25.**
+**Form:** धर्म
+**Transliteration:** dharma
+**Literal meaning:** from root *dhṛ-* (to hold, to sustain) + *-ma*/*-man* suffix; "that which holds/sustains"
+**Typical English translations:** duty, right conduct, law, righteousness, moral order, nature/property (in logic)
+**Usage:** One of the most semantically broad terms in Sanskrit, covering right conduct, moral and legal duty, the sustaining order of society and cosmos, and (in philosophical logic) the property or characteristic of a thing. In legal texts (*Dharmaśāstra*) it functions as the standard against which actions are judged right or wrong. In Buddhist and Jain usage, also designates the teaching or ultimate constituents of experience. Evaluations of conduct as right or wrong, and of things as having certain properties, both invoke *dharma*.
+**Epistemic status:** [CORE]
+
+---
+
+**26.**
+**Form:** अधर्म
+**Transliteration:** adharma
+**Literal meaning:** *a-* + *dharma*; "contrary to dharma"
+**Typical English translations:** unrighteousness, wrong conduct, violation of duty, moral wrong, moral disorder
+**Usage:** The negation of *dharma* in its moral and legal senses, designating conduct that violates right order, duty, or law. Widely attested in epic, Purāṇic, and Dharmaśāstra literature as the evaluative opposite of *dharma*. Also used in Vaiśeṣika as a category of unseen moral force (*adṛṣṭa*) generated by wrong action.
+**Epistemic status:** [CORE]
+
+---
+
+**27.**
+**Form:** न्याय
+**Transliteration:** nyāya
+**Literal meaning:** *ni-* (down, into) + root *i-* (to go); "going into, proper procedure, rule, right method"
+**Typical English translations:** rule, method, right reasoning, justice, logical argument, the Nyāya philosophical school
+**Usage:** Used in legal contexts to mean a rule or principle of justice, and in philosophical contexts as the name of the school of logic and epistemology (*Nyāya*). Evaluates whether reasoning or procedure is correct and valid. Also used in the sense of a maxim or illustrative rule (*nyāya* as a standard example). In the name of the *Nyāya* philosophical school, refers to the discipline of correct reasoning and valid inference.
+**Epistemic status:** [CORE]
+
+---
+
+**28.**
+**Form:** युक्त
+**Transliteration:** yukta
+**Literal meaning:** past passive participle of root *yuj-* (to join, to yoke); "joined, fitted, appropriate"
+**Typical English translations:** appropriate, fitting, right, proper, reasonable, correct
+**Usage:** Used to evaluate whether an action, statement, or object is appropriate or fitting to its context, purpose, or standard. Common in philosophical, legal, and literary texts to express that something is well-reasoned or proper. Contrasted with *ayukta* (inappropriate, unfitting).
+**Epistemic status:** [CORE]
+
+---
+
+**29.**
+**Form:** उचित
+**Transliteration:** ucita
+**Literal meaning:** past passive participle of root *vac-/uc-* (to be accustomed, to be fit); "that which is fitting, customary"
+**Typical English translations:** appropriate, fitting, proper, right, suitable
+**Usage:** Evaluates conduct, speech, or objects as fitting or appropriate to a given context, person, or standard. Frequently used in literary and ethical texts to assess whether behavior conforms to expected norms. Overlaps with *yukta* but tends more toward social and contextual appropriateness.
+**Epistemic status:** [CORE]
+
+---
+
+**30.**
+**Form:** साधु
+**Transliteration:** sādhu
+**Literal meaning:** from root *sādh-* (to accomplish, to go straight to a goal, to be effective); "going straight, accomplishing, effective"
+**Typical English translations:** correct, proper, good, virtuous, well-formed (of speech); also a noun: a holy person
+**Usage:** Used in grammatical contexts to evaluate whether a linguistic form is correct or well-formed (*sādhu śabda*, a correct word) — in Pāṇinian grammar, *sādhu* is the standard term for a grammatically correct or well-formed expression. In ethical contexts, characterizes a person of good character or conduct, or an action as virtuous or good. Also used as an exclamation of approval. The evaluative range covers both linguistic and moral rightness.
+**Epistemic status:** [CORE]
+
+---
+
+**31.**
+**Form:** असाधु
+**Transliteration:** asādhu
+**Literal meaning:** *a-* (negation) + *sādhu* (correct, good)
+**Typical English translations:** incorrect, bad, improper; (in grammar) an ill-formed expression
+**Usage:** Antonym of *sādhu* in both grammatical and ethical registers. In grammar, marks a form as violating Pāṇinian rules. In ethical literature, characterizes a person or act as bad or improper. The dual usage illustrates the overlap between correctness and goodness in Sanskrit evaluative vocabulary.
+**Epistemic status:** [CORE]
+
+---
+
+**32.**
+**Form:** अपशब्द
+**Transliteration:** apaśabda
+**Literal meaning:** *apa-* (away from, deviant) + *śabda* (word, sound); "deviant word"
+**Typical English translations:** incorrect word, solecism, ungrammatical form, corrupt usage, barbarism
+**Usage:** Used in grammatical literature for a word or form that deviates from the standard of correct Sanskrit usage (*sādhu*), i.e., a form not sanctioned by grammar. Evaluates linguistic forms with respect to correctness. Contrasted with *sādhu śabda* or *śiṣṭaprayoga* (usage of the learned). The opposite of *sādhu* in the grammatical sense.
+**Epistemic status:** [MARGINAL]
+
+---
+
+**33.**
+**Form:** सादृश्य
+**Transliteration:** sādṛśya
+**Literal meaning:** from *sadṛśa* (similar, resembling) + *-ya*; "similarity, resemblance"
+**Typical English translations:** resemblance, similarity, likeness
+**Usage:** Used in epistemological contexts as the basis of analogical cognition (*upamāna*) and in aesthetic contexts to evaluate how closely a representation or description resembles its object. In discussions of portraiture, metaphor, and analogy, *sādṛśya* is the criterion by which the accuracy of a likeness is judged. Participates in derivation: *sādṛśyavāda*, etc.
+**Epistemic status:** [CORE]
+
+---
+
+**34.**
+**Form:** औपचारिक
+**Transliteration:** aupacārika
+**Literal meaning:** from *upacāra* (approach, figurative use, courtesy) + *-ika*; "pertaining to figurative/secondary use"
+**Typical English translations:** figurative, secondary, metaphorical, conventional (as opposed to primary/literal)
+**Usage:** Used in Mīmāṃsā and grammatical-philosophical literature to characterize a use of a term that is secondary or figurative rather than primary and literal (*mukhya*). Evaluates whether a predication or designation is genuine/direct or merely conventional/transferred. Contrasted with *mukhya* (primary, literal).
+**Epistemic status:** [MARGINAL]
+
+---
+
+**35.**
+**Form:** मुख्य
+**Transliteration:** mukhya
+**Literal meaning:** from *mukha* (face, front, primary) + *-ya*; "primary, foremost"
+**Typical English translations:** primary, literal, principal, direct
+**Usage:** In Mīmāṃsā and philosophical grammar, *mukhya* designates the primary or literal meaning of a term, as opposed to secondary (*aupacārika*, *gauṇa*, or *lakṣaṇā*) uses. Evaluating whether a term is used in its *mukhya* sense is central to Mīmāṃsā interpretation of Vedic injunctions. Also used more broadly for what is primary or chief.
+**Epistemic status:** [CORE]
+
+---
+
+**36.**
+**Form:** गौण
+**Transliteration:** gauṇa
+**Literal meaning:** from *guṇa* (quality, secondary element) + *-a*; "pertaining to a secondary quality"
+**Typical English translations:** secondary, figurative, subordinate, non-primary
+**Usage:** Designates a secondary or figurative use of a term, based on some quality (*guṇa*) shared between the primary referent and the secondary one. In grammatical and Mīmāṃsā analysis, *gauṇa* use is distinguished from *mukhya* (primary) use as a mode of non-literal predication. Relevant to evaluating whether a statement is literally or only figuratively true.
+**Epistemic status:** [CORE]
+
+---
+
+**37.**
+**Form:** स्वरूप
+**Transliteration:** svarūpa
+**Literal meaning:** *sva* (own, self) + *rūpa* (form, appearance); "own form, intrinsic nature"
+**Typical English translations:** own nature, intrinsic form, essential character, what something really is, true form, real nature
+**Usage:** Used across philosophical, grammatical, and legal contexts to refer to the intrinsic or essential nature of something, as opposed to what it merely appears to be or is called by convention. Evaluating something *svarūpataḥ* (according to its own nature) is a mode of assessment that bypasses conventional or relational characterizations. In *Dharmaśāstra*, used to determine the true character of an act or object for purposes of evaluation. Widely attested and derivationally productive.
+**Epistemic status:** [CORE]
+
+---
+
+**38.**
+**Form:** तत्त्व
+**Transliteration:** tattva
+**Literal meaning:** *tat* (that) + *-tva* (abstract suffix); "that-ness, the being of that"
+**Typical English translations:** truth, reality, true nature, principle, essence, what something really is
+**Usage:** Denotes the true or essential nature of something — what it fundamentally is. Used in philosophical inquiry (*tattvajijñāsā*, inquiry into the real nature of things) and in evaluative contexts where one asks what something truly is as opposed to how it appears. The expression *tattvataḥ* / *tattvatah* ("in truth, in reality, according to the real nature") is used to signal an assessment of what something really is. Also used as a technical term for the fundamental categories or principles of reality in Sāṃkhya, Śaiva, and other systems.
+**Epistemic status:** [CORE]
+
+---
+
+**39.**
+**Form:** निर्णय
+**Transliteration:** nirṇaya
+**Literal meaning:** *nis-* (out, completely) + *naya* (leading, from root *nī-*, to lead); "leading out to a conclusion, determination"
+**Typical English translations:** determination, ascertainment, conclusion, verdict, decision
+**Usage:** Used in epistemological contexts for the definitive ascertainment of a matter after inquiry or deliberation, and in legal contexts for a verdict or judicial determination. In Nyāya, *nirṇaya* is the outcome of debate (*kathā*) when doubt is resolved. Evaluates the epistemic status of a conclusion as settled and determined rather than merely probable or disputed.
+**Epistemic status:** [CORE]
+
+---
+
+**40.**
+**Form:** परमार्थ
+**Transliteration:** paramārtha
+**Literal meaning:** *parama* (highest, ultimate) + *artha* (meaning, object, purpose); "ultimate object/meaning"
+**Typical English translations:** ultimate truth, highest reality, absolute sense, true meaning
+**Usage:** Used in Buddhist and Hindu philosophical literature to distinguish the ultimate or absolute level of truth from the conventional (*saṃvṛti* or *vyavahāra*) level. Evaluates whether a statement or claim holds at the highest level of analysis. Central to Madhyamaka Buddhist epistemology and Advaita Vedānta.
+**Epistemic status:** [CORE]
+
+---
+
+**41.**
+**Form:** व्यावहारिक
+**Transliteration:** vyāvahārika
+**Literal meaning:** from *vyavahāra* (transaction, conventional practice, usage) + *-ika*; "pertaining to conventional practice"
+**Typical English translations:** conventional, practical, empirical, transactional
+**Usage:** Denotes the level of truth or validity that holds within conventional or practical usage, as opposed to the ultimate (*pāramārthika*) level. Used in philosophical literature to evaluate claims as conventionally valid without being ultimately real. Also used in legal literature to pertain to transactions and practical affairs.
+**Epistemic status:** [CORE]
+
+---
+
+**42.**
+**Form:** शुद्ध
+**Transliteration:** śuddha
+**Literal meaning:** past passive participle of root *śudh-* (to be pure, to be cleansed); "purified, clean"
+**Typical English translations:** pure, correct, unadulterated, genuine, unmixed, clean
+**Usage:** Used to evaluate objects, texts, persons, or substances as free from contamination, error, or admixture. In textual criticism and grammar, *śuddha pāṭha* denotes a correct or uncorrupted reading; *śuddha* can mark a form as correct or uncontaminated. In ritual and moral contexts, evaluates purity of conduct or substance. In philosophical contexts, used to characterize pure or unmixed states (e.g., *ś

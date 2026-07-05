@@ -1,0 +1,308 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Hebrew (he)
+
+---
+
+**Transliteration standard:** Academic/SBL-style transliteration, applied consistently throughout. Shva na rendered as *e*, tsere as *e*, holem as *o*, qamats as *a*, patah as *a*, hiriq as *i*, shuruq/qibbuts as *u*. Dagesh forte indicated by consonant doubling where phonologically relevant.
+
+---
+
+**1.**
+**Form:** אֱמֶת
+**Transliteration:** ʾemet
+**Literal meaning:** truth, faithfulness; root א-מ-ת (ʾ-m-t), related to firmness, reliability
+**Typical English translations:** truth, truthfulness, authenticity, faithfulness
+**Usage:** The most central and widely used Hebrew term for truth, applied across moral, legal, religious, and everyday contexts. It can describe a statement that accurately reflects reality, a person who is trustworthy, or a quality of genuine reliability. Appears in fixed expressions such as *ʾemet ve-ʾemuna* ("truth and faithfulness") and *le-ʾamet* (to verify/confirm).
+**Epistemic status:** [CORE]
+
+---
+
+**2.**
+**Form:** אמין
+**Transliteration:** ʾamin
+**Literal meaning:** reliable, trustworthy; root א-מ-נ (ʾ-m-n), same root family as *ʾemet*
+**Typical English translations:** reliable, trustworthy, credible, dependable
+**Usage:** Used to describe persons, sources, witnesses, or systems that can be trusted to be accurate or consistent. Common in modern Hebrew in contexts such as journalism, law, and everyday evaluation of people. Contrasts with *lo ʾamin* (unreliable).
+**Epistemic status:** [CORE]
+
+---
+
+**3.**
+**Form:** נכון
+**Transliteration:** nakhon
+**Literal meaning:** correct, right, established; root כ-ו-נ (k-w-n), to be established, prepared, firm
+**Typical English translations:** correct, right, accurate, true
+**Usage:** The everyday word for "correct" in modern Hebrew, used to evaluate statements, answers, facts, and procedures. It is the standard response to confirm that something is accurate or has been done properly. Less philosophically weighted than *ʾemet* but extremely frequent.
+**Epistemic status:** [CORE]
+
+---
+
+**4.**
+**Form:** מדויק
+**Transliteration:** meduyaq
+**Literal meaning:** precise, exact; root ד-י-ק (d-y-q), related to fineness, exactness; Pi'el passive participle
+**Typical English translations:** accurate, precise, exact
+**Usage:** Used to evaluate the degree of correspondence between a representation, measurement, or statement and the reality it describes. Common in scientific, technical, and journalistic contexts. Implies a higher standard of exactness than *nakhon*.
+**Epistemic status:** [CORE]
+
+---
+
+**5.**
+**Form:** אותנטי
+**Transliteration:** ʾotenti
+**Literal meaning:** authentic; loanword from Greek/Latin *authenticus* via European languages
+**Typical English translations:** authentic, genuine
+**Usage:** Used in modern Hebrew to describe objects, artworks, documents, or persons evaluated as genuinely what they claim to be, not imitations or forgeries. Common in cultural, aesthetic, and commercial contexts. Functions as a direct parallel to English "authentic."
+**Epistemic status:** [CORE]
+
+---
+
+**6.**
+**Form:** מקורי
+**Transliteration:** meqori
+**Literal meaning:** original; derived from מָקוֹר (*maqor*, source, origin); root ק-ו-ר (q-w-r)
+**Typical English translations:** original, genuine, authentic
+**Usage:** Describes something that is the original rather than a copy or imitation, and by extension something that is genuinely creative or not derivative. Used in aesthetic, legal, and commercial evaluation. Overlaps with *ʾotenti* but emphasizes origin rather than genuineness per se.
+**Epistemic status:** [CORE]
+
+---
+
+**7.**
+**Form:** אמיתי
+**Transliteration:** ʾamiti
+**Literal meaning:** true, real, genuine; adjectival form derived from *ʾemet*
+**Typical English translations:** true, real, genuine, authentic
+**Usage:** The adjectival form of *ʾemet*, used to describe persons, feelings, objects, or states as genuinely what they appear to be. Frequently used in everyday speech to distinguish the real from the fake or the sincere from the performative. Slightly more colloquial than *ʾemet* itself.
+**Epistemic status:** [CORE]
+
+---
+
+**8.**
+**Form:** אמינות
+**Transliteration:** ʾaminut
+**Literal meaning:** reliability, trustworthiness; abstract noun from *ʾamin*; root א-מ-נ
+**Typical English translations:** reliability, credibility, trustworthiness
+**Usage:** The abstract noun denoting the property of being reliable or credible, applied to persons, institutions, sources, and testimony. Central in legal and journalistic discourse when evaluating the weight to be given to a witness or source. Frequently appears in the phrase *behinat ha-ʾaminut* ("examination of credibility").
+**Epistemic status:** [CORE]
+
+---
+
+**9.**
+**Form:** מהימן
+**Transliteration:** meheyман
+**Transliteration (corrected):** meheyман → *mehiman*
+**Literal meaning:** trustworthy, reliable; root א-מ-נ (ʾ-m-n), Hif'il or Pu'al form
+**Typical English translations:** reliable, trustworthy, credible
+**Usage:** Used especially in legal and formal contexts to describe witnesses, testimony, or sources deemed credible. Slightly more formal than *ʾamin* and more common in written legal Hebrew. The noun form *mehimanut* also occurs.
+**Epistemic status:** [CORE]
+
+---
+
+**10.**
+**Form:** כנות
+**Transliteration:** kanut
+**Literal meaning:** sincerity, honesty; abstract noun from כָּן (*kan*, sincere, honest); root כ-נ-נ or כ-ו-נ
+**Typical English translations:** sincerity, honesty, genuineness
+**Usage:** Refers to the quality of being sincere or honest in one's expressions, intentions, or conduct. Used in moral and interpersonal evaluation. Contrasts with *shav* (false, vain) or *sheker* (falsehood) in moral discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**11.**
+**Form:** שֶׁקֶר
+**Transliteration:** sheqer
+**Literal meaning:** falsehood, lie; root ש-ק-ר (sh-q-r)
+**Typical English translations:** falsehood, lie, deception, fraud
+**Usage:** The primary Hebrew term for falsehood or lying, used across moral, legal, and religious contexts. Appears in the biblical prohibition *midvar sheqer tirḥaq* ("distance yourself from falsehood") and in modern Hebrew to describe lies, false testimony, and fraudulent representations. Defines the negative pole against which *ʾemet* is measured.
+**Epistemic status:** [CORE]
+
+---
+
+**12.**
+**Form:** זיוף
+**Transliteration:** ziyyuf
+**Literal meaning:** forgery, falsification; root ז-י-פ (z-y-p), to falsify, counterfeit
+**Typical English translations:** forgery, falsification, counterfeit, fraud
+**Usage:** Refers specifically to the act or product of falsifying documents, artworks, currency, or other representations. Used in legal and commercial contexts. The verb *lezayef* means "to forge" or "to falsify," and *mezuyaf* means "forged" or "counterfeit."
+**Epistemic status:** [CORE]
+
+---
+
+**13.**
+**Form:** מזויף
+**Transliteration:** mezuyaf
+**Literal meaning:** forged, falsified, counterfeit; passive participle of *ziyyuf* root ז-י-פ
+**Typical English translations:** forged, fake, counterfeit, falsified
+**Usage:** The adjectival/participial form describing something that has been falsified or is not genuine. Applied to documents, signatures, artworks, currency, and credentials. Directly contrasts with *meqori* (original) and *ʾotenti* (authentic).
+**Epistemic status:** [CORE]
+
+---
+
+**14.**
+**Form:** צֶדֶק
+**Transliteration:** tsedeq
+**Literal meaning:** justice, righteousness; root צ-ד-ק (ts-d-q)
+**Typical English translations:** justice, righteousness, rightness
+**Usage:** A central term in Hebrew moral and legal discourse, referring to the quality of being right, just, or in conformity with a moral or legal standard. Used in evaluating conduct, judgments, and social arrangements. Closely related to *tsaddiq* (righteous person) and *tsedaqa* (righteousness, charity).
+**Epistemic status:** [CORE]
+
+---
+
+**15.**
+**Form:** צדיק
+**Transliteration:** tsaddiq
+**Literal meaning:** righteous, just person; root צ-ד-ק (ts-d-q); intensive adjectival form
+**Typical English translations:** righteous, just, upright
+**Usage:** Describes a person whose conduct conforms to moral and religious standards of rightness. A key evaluative term in biblical, rabbinic, and modern Hebrew moral discourse. Can also be used more loosely in modern Hebrew to describe someone who is blameless in a particular situation.
+**Epistemic status:** [CORE]
+
+---
+
+**16.**
+**Form:** ישר
+**Transliteration:** yashar
+**Literal meaning:** straight, upright, honest; root י-ש-ר (y-sh-r)
+**Typical English translations:** upright, honest, straightforward, just
+**Usage:** Used to evaluate persons and conduct as morally straight or honest, without deception or deviation. Appears in the biblical phrase *ha-yashar be-ʿeynav* ("what is right in his eyes") and in modern Hebrew to describe honest, direct persons. The noun *yosher* means uprightness or integrity.
+**Epistemic status:** [CORE]
+
+---
+
+**17.**
+**Form:** יושר
+**Transliteration:** yosher
+**Literal meaning:** uprightness, integrity, honesty; abstract noun from *yashar*; root י-ש-ר
+**Typical English translations:** integrity, uprightness, honesty, fairness
+**Usage:** The abstract quality of being morally straight or honest. Used in legal contexts (e.g., *yosher* as a principle of equity or good faith) and in everyday moral evaluation. Appears in legal Hebrew in the phrase *yosher lev* ("integrity of heart") and in modern contract law discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**18.**
+**Form:** תקין
+**Transliteration:** taqin
+**Literal meaning:** proper, in order, functioning correctly; root ת-ק-נ (t-q-n), to fix, correct, regulate
+**Typical English translations:** proper, correct, in order, functioning correctly
+**Usage:** Used to evaluate whether something is operating or structured as it should be — a machine, a procedure, a document, or conduct. Common in administrative, technical, and legal contexts. Implies conformity to a standard or norm rather than moral rightness per se.
+**Epistemic status:** [CORE]
+
+---
+
+**19.**
+**Form:** חוקי
+**Transliteration:** ḥuqi
+**Literal meaning:** legal, lawful; derived from חוֹק (*ḥoq*, law, statute); root ח-ק-ק (ḥ-q-q)
+**Typical English translations:** legal, lawful, legitimate
+**Usage:** Evaluates whether an action, document, or status conforms to law. Used in legal and administrative contexts to distinguish what is permitted or valid under law from what is not. Contrasts with *bilti ḥuqi* (illegal, unlawful).
+**Epistemic status:** [CORE]
+
+---
+
+**20.**
+**Form:** לגיטימי
+**Transliteration:** legitimmi
+**Transliteration (corrected):** *legitimmi* → *legitimi*
+**Literal meaning:** legitimate; loanword from Latin/European *legitimus*
+**Typical English translations:** legitimate, valid, justified
+**Usage:** Used in political, legal, and moral discourse to evaluate whether a claim, authority, action, or representation is justified or valid according to recognized standards. Functions as a direct parallel to English "legitimate" and is common in modern Hebrew public discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**21.**
+**Form:** תקף
+**Transliteration:** taqef
+**Literal meaning:** valid, in force; root ת-ק-פ (t-q-p), strength, force
+**Typical English translations:** valid, in force, effective
+**Usage:** Used in legal and administrative contexts to describe documents, contracts, licenses, or decisions that are currently in force and legally effective. Contrasts with *lo taqef* (invalid, expired). The noun *toquef* means validity or force.
+**Epistemic status:** [CORE]
+
+---
+
+**22.**
+**Form:** מהות
+**Transliteration:** mahut
+**Literal meaning:** essence, nature; derived from מָה (*ma*, what); philosophical term
+**Typical English translations:** essence, nature, substance, what something fundamentally is
+**Usage:** Used in philosophical and analytical contexts to refer to what something fundamentally is, its essential nature. Appears in discussions of identity, definition, and classification. The adjective *mahuti* means "essential" or "substantive."
+**Epistemic status:** [CORE]
+
+---
+
+**23.**
+**Form:** עצם
+**Transliteration:** ʿetsem
+**Literal meaning:** bone, essence, self, very; root ע-צ-מ (ʿ-ts-m), strength, selfhood
+**Typical English translations:** essence, the very thing itself, substance
+**Usage:** Used in philosophical and legal Hebrew to indicate the essential or intrinsic nature of something, or to emphasize identity (*be-ʿatsmo*, "in itself," "by itself"). In legal Hebrew, *ʿetsem ha-ʿinyan* means "the substance of the matter." Less common as a standalone philosophical term than *mahut*.
+**Epistemic status:** [CORE]
+
+---
+
+**24.**
+**Form:** דומה
+**Transliteration:** dome
+**Literal meaning:** similar, resembling; root ד-מ-ה (d-m-h), to resemble, liken
+**Typical English translations:** similar, resembling, like
+**Usage:** Used to evaluate the degree of resemblance between two things. Common in everyday and legal contexts (e.g., evaluating whether a copy resembles an original, or whether cases are analogous). The noun *dimyon* means resemblance or similarity.
+**Epistemic status:** [CORE]
+
+---
+
+**25.**
+**Form:** דיוק
+**Transliteration:** diyyuq
+**Literal meaning:** precision, exactness; root ד-י-ק (d-y-q), fineness, exactness
+**Typical English translations:** precision, accuracy, exactness
+**Usage:** Refers to the quality of being exact or precise in a statement, measurement, or representation. Used in scientific, legal, and everyday contexts to evaluate how closely something corresponds to what it describes. The verb *ledayeq* means "to be precise" or "to examine closely."
+**Epistemic status:** [CORE]
+
+---
+
+**26.**
+**Form:** הגון
+**Transliteration:** hagun
+**Literal meaning:** decent, proper, fitting; root ה-ג-נ (h-g-n), related to propriety
+**Typical English translations:** decent, proper, respectable, fitting
+**Usage:** Used to evaluate persons or conduct as conforming to standards of decency and propriety. Common in everyday moral evaluation. Contrasts with *lo hagun* (improper, indecent, not fitting), which is also a common fixed expression.
+**Epistemic status:** [CORE]
+
+---
+
+**27.**
+**Form:** לא הגון
+**Transliteration:** lo hagun
+**Literal meaning:** not decent, not fitting; negation of *hagun*
+**Typical English translations:** improper, indecent, unfair, not right
+**Usage:** A fixed negative evaluative expression used to describe conduct, treatment, or persons that fall below standards of decency or fairness. Extremely common in everyday moral and social evaluation. Functions as a conventionalized expression rather than a free negation.
+**Epistemic status:** [CORE]
+
+---
+
+**28.**
+**Form:** כשר
+**Transliteration:** kasher
+**Literal meaning:** fit, proper, valid; root כ-ש-ר (k-sh-r), fitness, suitability
+**Typical English translations:** fit, proper, valid, kosher (in religious law)
+**Usage:** In religious law, evaluates whether food, objects, or persons meet the required standards of fitness. In broader modern Hebrew usage, *kasher* can describe any person or thing that is legitimate, proper, or above suspicion. The noun *kashrut* refers to the state of being fit or valid.
+**Epistemic status:** [CORE]
+
+---
+
+**29.**
+**Form:** פסול
+**Transliteration:** pasul
+**Literal meaning:** disqualified, invalid, unfit; root פ-ס-ל (p-s-l), to disqualify, to hew away
+**Typical English translations:** invalid, disqualified, unfit, inadmissible
+**Usage:** Used in legal, religious, and general contexts to evaluate something or someone as failing to meet required standards and therefore invalid or inadmissible. Contrasts directly with *kasher*. In legal Hebrew, *edut pesula* means "inadmissible testimony."
+**Epistemic status:** [CORE]
+
+---
+
+**30.**
+**Form:** סביר
+**Transliteration:** savir
+**Literal meaning:** reasonable, plausible; root ס-ב-ר (s-b-r), to think, suppose, consider
+**Typical English translations:** reasonable, plausible, credible
+**Usage:** Used to evaluate whether a claim, explanation, or course of action is reasonable or plausible given available evidence or norms. Central in legal discourse (e.g., *adam savir*, "reasonable person" standard). Also used in everyday contexts to assess whether something makes sense or is believable.
+**Epistemic status:** [CORE]

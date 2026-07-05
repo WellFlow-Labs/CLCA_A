@@ -1,0 +1,101 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tagalog (tl)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicate-initial: [truth-domain adj] + *ang* + NP | *Totoo ang balita.* / *Tama ang sagot mo.* | Direct mapping; fully productive across P1 inventory | None |
+| **ADNOM** | [truth-domain adj] + *na* + N (prenominal preferred) | *Tunay na kaibigan* / *Huwad na dokumento* | Direct mapping; prenominal order strongly preferred | None |
+| **BECOME** | *Maging* + [truth-domain adj] (+ *sa* + goal) | *Maging tapat ka sa akin.* / *Maging totoo ka.* | Direct mapping for *tapat*, *totoo*; MARGINAL for *huwad*, *peke* | Partial: *maging* + object-property adjectives (*huwad*, *peke*) is marginal — **morphosyntactic gap** for those items |
+| **REVELATION** | Not attested as a distinct construction in P4a/P4b | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | *Patunayan* (*pa-* + *tunay* + *-an*); *i-* prefix forms (*itama*, *iwasto*) | *Patunayan mo ang iyong sinasabi.* / *Itama ang iyong mga pagkakamali.* | **SUBSTITUTED BY VERIFICATION** (*patunayan*) and **SUBSTITUTED BY CORRECTION** (*itama*, *iwasto*); lexically specific, not a single productive causative | Lexical gap: no single productive causative morpheme across full P1 inventory |
+| **CAUSATION (character)** | Not attested as a distinct construction in P4a/P4b | — | **NO COMMON EXPRESSION — circumlocution required** | Structural gap |
+| **VERIFICATION** | *Patunayan* (causative-verificational verbal form); *sa katunayan* (discourse frame) | *Patunayan mo ang iyong sinasabi.* / *Sa katunayan, …* | Direct mapping for *tunay*-based forms; lexically restricted | Lexical gap: *patunayan* is attested; equivalent forms for *tama*, *tapat* are not reported as a productive pattern |
+| **DISCONFIRMATION** | *Hindi* + [truth-domain adj] + *ang* + NP (analytic negation); *mukhang* + [adj] + corrective clause (*pero peke pala*) | *Hindi totoo ang alegasyon.* / *Mukhang totoo ang produkto pero peke pala.* | NEGATION construction covers propositional disconfirmation; APPEARANCE/EVIDENTIAL FRAMING covers appearance-vs-reality disconfirmation | No dedicated DISCONFIRMATION construction; **SUBSTITUTED BY NEGATION** and **SUBSTITUTED BY EVIDENTIAL FRAMING** |
+| **NEGATION** | *Hindi* + [truth-domain adj] (analytic); *di-* clitic prefix (formal/written) | *Hindi totoo ang alegasyon.* / *di-tunay*, *di-lehitimo* | Direct mapping; analytic (*hindi*) is primary; morphological (*di-*) is register-restricted | None for analytic form; *di-* is register-restricted (formal written only) |
+| **NOMINALIZATION** | *Ka-...-an* circumfix (abstract state); *pag-* prefix (action nominalization) | *Ang katotohanan ay mahalaga.* / *Ang pagtapat niya ay nagulat sa lahat.* | Direct mapping; both patterns productive across P1 inventory | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 VERIFICATION substitutes for CAUSATION (factual)
+
+The P4a/P4b data do not attest a single productive causative morpheme that applies across the full P1 truth-domain inventory. Instead, causative-factual meaning is expressed through lexically specific forms: *patunayan* (from *tunay*, "to cause to be verified/proven") and *itama*/*iwasto* (from *tama*/*wastó*, "to cause to be correct/rectified"). These forms are conventionalized and high-frequency in their respective domains (argumentative/legal for *patunayan*; instructional/editorial for *itama*, *iwasto*), but they do not constitute a single productive pattern. The VERIFICATION function (*patunayan*) and the CORRECTION function (*itama*, *iwasto*) together cover the semantic space that a unified CAUSATION (factual) operator would occupy in other languages. No equivalent causative form is reported for *tapat*, *huwad*, or *peke*.
+
+### 2.2 NEGATION and EVIDENTIAL FRAMING substitute for DISCONFIRMATION
+
+No dedicated DISCONFIRMATION construction is attested. The function is distributed across two constructions:
+
+- **Propositional disconfirmation** (asserting that a claim is false) is handled by the NEGATION construction: *Hindi totoo ang alegasyon.* The *hindi* negator applies to the predicative truth-domain adjective and directly denies the truth of the proposition.
+- **Appearance-vs-reality disconfirmation** (asserting that something appeared true but is not) is handled by the APPEARANCE/EVIDENTIAL FRAMING construction: *Mukhang totoo ang produkto pero peke pala.* The *mukhang* evidential marker establishes an appearance, and the corrective clause (*pero peke pala*) resolves it against the truth-domain standard. P4b notes that this co-occurrence pattern (*mukhang* + corrective *pero pala*) is specifically attested in this function.
+
+These two constructions are formally distinct and occupy different syntactic positions, but together they cover the functional range of DISCONFIRMATION.
+
+### 2.3 REVELATION is not attested as a distinct construction
+
+No construction in P4a/P4b corresponds to a REVELATION operator (a construction expressing that a truth-domain property is discovered or comes to light, with the subject as experiencer rather than agent). The BECOME construction (*maging*) expresses entry into a state by a volitional subject, not the discovery or revelation of a pre-existing state. The APPEARANCE/EVIDENTIAL FRAMING construction (*mukhang*, *parang*) expresses appearance without commitment to truth, and its corrective variant approaches revelation in meaning, but it is not structurally equivalent to a dedicated REVELATION construction. No substitution is reported; the gap is structural.
+
+### 2.4 BECOME is restricted by adjective type
+
+The BECOME construction (*maging* + truth-domain adjective) is [CORE] for *tapat* and *totoo*, which describe states that a person can enter volitionally. It is [MARGINAL] for *huwad* and *peke*, which P4b characterizes as describing object properties rather than states a person adopts. This restriction is reported as a distributional asymmetry within the BECOME construction, not as a separate construction type.
+
+### 2.5 DISCOURSE-FRAMING constructions are asymmetric across truth-domain polarity
+
+The DISCOURSE-FRAMING constructions (*sa totoo lang*, *ang totoo*, *ang totoo nito*, *sa katunayan*) are attested only for positive truth-domain items (*totoo*, *katunayan*). No equivalent discourse-framing construction is attested for *mali*, *huwad*, or *peke*. P4b reports this asymmetry as observed without explanation. The positive-polarity frames function as candor markers (*sa totoo lang*) or corrective operators (*ang totoo*, *ang totoo nito*); no parallel negative-polarity frame (e.g., a conventionalized sentence-initial marker meaning "to tell you it's false" or "the falsehood of the matter is") is attested.
+
+### 2.6 NEGATION: analytic form is primary; morphological form is register-restricted
+
+The primary NEGATION strategy is analytic: *hindi* precedes the predicative truth-domain adjective. The morphological clitic *di-* (hyphenated before the adjective: *di-tunay*, *di-lehitimo*) is restricted to formal written registers. These are not two competing constructions of equal status; the analytic form is the default across all registers, and the morphological form is a register variant. Both are [CORE] in their respective registers per P4b.
+
+### 2.7 AGENTIVE NOMINALIZATION is lexically suppletive, not morphologically productive
+
+The AGENTIVE NOMINALIZATION slot is filled by a lexicalized root (*sinungaling*, "liar") that is not transparently derived from any P1 truth-domain adjective, and by a compound construction (*tagapagtanggol ng katotohanan*, "defender of truth") that uses the *taga-* agentive prefix on a verbal base. No productive agentive morpheme deriving "truth-teller," "deceiver," or "verifier" directly from P1 roots is attested. This is reported as a lexical gap within an otherwise morphologically productive system.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+*(No construction of any kind is attested for this operator)*
+
+- **REVELATION**: No construction expressing the discovery or coming-to-light of a truth-domain property is attested in P4a/P4b. The BECOME construction (*maging*) is not equivalent: it requires a volitional subject entering a state. The EVIDENTIAL FRAMING construction (*mukhang* + corrective clause) approaches this function in specific contexts but is not structurally equivalent to a REVELATION operator.
+- **CAUSATION (character)**: No construction expressing the causing of a person to become honest, truthful, or genuine (as a character-directed causative, distinct from the factual/verificational causative) is attested.
+
+### 3.2 Lexical Gaps
+*(The construction type exists but specific lexical items are missing)*
+
+- **CAUSATION (factual)**: The causative-verificational function is covered by *patunayan* (from *tunay*) and the correction function by *itama*/*iwasto* (from *tama*/*wastó*), but no equivalent causative forms are attested for *tapat*, *huwad*, or *peke*. The gap is in the lexical inventory, not in the construction type itself.
+- **AGENTIVE NOMINALIZATION**: No productive agentive morpheme derives agent nouns from P1 truth-domain roots. *Sinungaling* is lexicalized; *tagapagtanggol ng katotohanan* is a compound. The agentive nominalization slot exists in Tagalog morphology (*taga-* prefix) but is not productively filled across the P1 inventory.
+- **VERIFICATION**: *Patunayan* is attested for *tunay*-based verification. No equivalent verificational verbal form is reported for *tama*, *tapat*, or other P1 items.
+
+### 3.3 Conceptual Gaps
+*(No evidence of the conceptual operation being available in any form)*
+
+- None identified on the basis of P4a/P4b data alone. All gaps identified above are structural or lexical; no operation is blocked at the conceptual level on the available evidence.
+
+### 3.4 Asymmetric Gaps
+*(Only one polarity — positive or negative — is attested)*
+
+- **DISCOURSE-FRAMING (positive only)**: Conventionalized sentence-initial truth-framing constructions (*sa totoo lang*, *ang totoo*, *ang totoo nito*, *sa katunayan*) are attested only for positive truth-domain items. No equivalent construction is attested for *mali*, *huwad*, or *peke*. The asymmetry is in the positive direction: positive-polarity discourse frames exist; negative-polarity discourse frames do not.
+- **BECOME (partial asymmetry by adjective type)**: *Maging* + truth-domain adjective is [CORE] for person-state adjectives (*tapat*, *totoo*) and [MARGINAL] for object-property adjectives (*huwad*, *peke*). This is an asymmetry within the BECOME construction rather than a full gap.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Predicate-initial construction; productive across full P1 inventory; [CORE] in all registers |
+| **ADNOM** | **Fully available** | *Na*-linker modification; prenominal order strongly preferred; productive across full P1 inventory |
+| **NEGATION** | **Fully available** | Analytic (*hindi*) is primary and fully productive; morphological (*di-*) is a formal written register variant |
+| **NOMINALIZATION** | **Fully available** | *Ka-...-an* (abstract state) and *pag-* (action) nominalizations; both productive across P1 inventory |
+| **BECOME** | **Partially available** | [CORE] for *tapat*, *totoo*; [MARGINAL] for *huwad*, *peke*; restricted by adjective type (person-state vs. object-property) |
+| **VERIFICATION** | **Available with substitution** | Covered by *patunayan* (lexically specific to *tunay*-base); no productive verificational form across full P1 inventory; **SUBSTITUTED BY** lexically specific causative-verificational forms |
+| **CAUSATION (factual)** | **Available with substitution** | No single productive causative morpheme; **SUBSTITUTED BY** *patunayan* (verification) and *itama*/*iwasto* (correction); lexically restricted |
+| **DISCONFIRMATION** | **Available with substitution** | No dedicated construction; **SUBSTITUTED BY** NEGATION (*hindi* + adj) for propositional disconfirmation and **SUBSTITUTED BY** EVIDENTIAL FRAMING (*mukhang* + corrective clause) for appearance-vs-reality disconfirmation |
+| **REVELATION** | **Missing entirely** | No attested construction; BECOME and EVIDENTIAL FRAMING are not structural equivalents; **MISSING (structural gap)** |
+| **CAUSATION (character)** | **Missing entirely** | No attested construction of any kind; **MISSING (structural gap)** |

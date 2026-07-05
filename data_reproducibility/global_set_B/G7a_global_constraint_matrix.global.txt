@@ -1,0 +1,181 @@
+# G7a — Data-Derived Global Constraint Matrix
+
+---
+
+## Preliminary Notes on Methodology
+
+The dimensions and constructional functions below are derived from patterns documented in F1–F6 tables and G1–G6 summaries. No external theoretical framework is applied. Where dimensions appear merged or split across languages, this is noted explicitly. Where evidence is insufficient, this is stated rather than inferred.
+
+The matrix covers 17 semantic dimensions (from G3) and 17 constructional functions (from G4–G5). Classification codes:
+
+- **ALLOWED** — broadly attested across 5+ languages, consistently rated natural or core
+- **BLOCKED** — broadly resisted, absent, or consistently unnatural across 4+ languages; or explicitly noted as a structural gap
+- **VARIABLE** — attested in some languages but not others, or restricted within languages that have it
+- **INSUFFICIENT DATA** — too little evidence for a reliable judgment
+
+---
+
+## Semantic Dimensions (from G3)
+
+| Code | Label |
+|------|-------|
+| D1 | Correspondence to Fact/Reality |
+| D2 | Authenticity/Genuineness of Entities |
+| D3 | Correctness of Judgment/Action |
+| D4 | Sincerity/Honesty of Persons |
+| D5 | Deliberate Deception/Lying |
+| D6 | Unintentional Error/Mistake |
+| D7 | Reliability/Trustworthiness of Sources |
+| D8 | Epistemic Certainty/Doubt |
+| D9 | Validity/Legitimacy (Formal/Institutional) |
+| D10 | Moral Rightness/Justice |
+| D11 | Substance vs. Appearance/Essence vs. Surface |
+| D12 | Precision/Accuracy of Measurement |
+| D13 | Resemblance/Similarity (with epistemic hedging function) |
+| D14 | Epistemic Source/Evidence Type |
+| D15 | Completeness/Sufficiency |
+| D16 | Objectivity vs. Subjectivity |
+| D17 | Rights/Entitlements |
+
+## Constructional Functions (from G4–G5)
+
+| Code | Label |
+|------|-------|
+| C1 | Attribution (copula + truth-domain predicate) |
+| C2 | Negative Attribution (negation of truth-domain predicate) |
+| C3 | Adnominal Modification (truth-domain adjective + noun) |
+| C4 | Inchoative — Positive (become true/correct/genuine) |
+| C5 | Inchoative — Negative (become false/wrong/invalid) |
+| C6 | Causative — Verification (make true/verify/authenticate) |
+| C7 | Causative — Falsification (make false/falsify/invalidate) |
+| C8 | Causative — Correction (correct an error/fix) |
+| C9 | Abstract Nominalization (quality noun: truthfulness, correctness) |
+| C10 | Agentive Nominalization — Negative (liar, deceiver) |
+| C11 | Agentive Nominalization — Positive (truth-teller, honest person) |
+| C12 | Manner Adverbial (truthfully, honestly, correctly) |
+| C13 | Propositional Complement (it is true that…) |
+| C14 | Intensification/Degree (absolutely true, very correct) |
+| C15 | Comparison (more true/accurate than) |
+| C16 | Evidential Marking (source of claim: direct/hearsay/inference) |
+| C17 | Discourse Marker (to be honest, the truth is that…) |
+
+---
+
+## Global Constraint Matrix
+
+| Dimension | C1 Attribution | C2 Neg. Attribution | C3 Adnominal | C4 Inchoative+ | C5 Inchoative− | C6 Caus. Verify | C7 Caus. Falsify | C8 Caus. Correct | C9 Abstr. Nom. | C10 Agent Neg. | C11 Agent Pos. | C12 Manner Adv. | C13 Prop. Compl. | C14 Intensif. | C15 Comparison | C16 Evidential | C17 Disc. Marker |
+|-----------|---------------|---------------------|--------------|----------------|----------------|-----------------|------------------|------------------|----------------|----------------|----------------|-----------------|------------------|---------------|----------------|----------------|-----------------|
+| **D1 Correspondence to Fact/Reality** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | BLOCKED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED |
+| **D2 Authenticity/Genuineness of Entities** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE |
+| **D3 Correctness of Judgment/Action** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE |
+| **D4 Sincerity/Honesty of Persons** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | BLOCKED | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED |
+| **D5 Deliberate Deception/Lying** | ALLOWED | ALLOWED | ALLOWED | BLOCKED | INSUFFICIENT DATA | BLOCKED | VARIABLE | INSUFFICIENT DATA | ALLOWED | ALLOWED | INSUFFICIENT DATA | ALLOWED | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D6 Unintentional Error/Mistake** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D7 Reliability/Trustworthiness of Sources** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | VARIABLE |
+| **D8 Epistemic Certainty/Doubt** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | VARIABLE | ALLOWED | ALLOWED |
+| **D9 Validity/Legitimacy (Formal/Institutional)** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | ALLOWED | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D10 Moral Rightness/Justice** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D11 Substance vs. Appearance** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D12 Precision/Accuracy of Measurement** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | VARIABLE | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | VARIABLE |
+| **D13 Resemblance/Similarity** | ALLOWED | ALLOWED | ALLOWED | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | ALLOWED | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **D14 Epistemic Source/Evidence Type** | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE |
+| **D15 Completeness/Sufficiency** | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | ALLOWED | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+| **D16 Objectivity vs. Subjectivity** | VARIABLE | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA |
+| **D17 Rights/Entitlements** | ALLOWED | ALLOWED | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | INSUFFICIENT DATA | INSUFFICIENT DATA | ALLOWED | VARIABLE | VARIABLE | INSUFFICIENT DATA | INSUFFICIENT DATA | VARIABLE |
+
+---
+
+## Narrative Analysis
+
+### Strongly Recurrent Constraints (ALLOWED across most dimensions)
+
+**C1 (Attribution), C2 (Negative Attribution), C3 (Adnominal Modification), and C9 (Abstract Nominalization) are ALLOWED for all 17 dimensions.** Every semantic dimension in the truth domain can be predicated of a subject via copula, negated, used to modify a noun, and nominalized into an abstract quality noun. This is the most robust finding in the matrix: the basic predicative, attributive, and nominalization functions are universally available across all truth-domain dimensions and all languages in the corpus. No dimension resists these three constructional functions.
+
+**C12 (Manner Adverbial) is ALLOWED for most dimensions (14 of 17).** Truth-domain terms across nearly all dimensions can be converted to manner adverbials. The three exceptions (D14 Epistemic Source, D16 Objectivity/Subjectivity, D17 Rights/Entitlements) are rated VARIABLE or INSUFFICIENT DATA rather than BLOCKED, reflecting limited documentation rather than clear resistance. The manner adverbial function appears to be nearly universal across the truth domain.
+
+**C13 (Propositional Complement) is ALLOWED for most dimensions (12 of 17).** Constructions of the form "it is [truth-domain predicate] that [clause]" are broadly attested. The exceptions are dimensions where propositional complementation is less documented (D10, D11, D15, D17) or where the dimension itself is less propositional in character (D14, D16). No dimension clearly blocks propositional complementation.
+
+**C6 (Causative — Verification) is ALLOWED for D1, D2, D3, D9, D12, D15.** Causative constructions for establishing truth, verifying, authenticating, or validating are broadly attested across the dimensions where they are most relevant. This is one of the most consistently productive constructional functions in the corpus.
+
+**C10 (Agentive Nominalization — Negative) is ALLOWED for D1, D3, D4, D5, D6.** Agent nouns for liars, deceivers, and error-makers are broadly attested across the dimensions most directly concerned with truth-telling and honesty. This is consistent with the finding from G4 and G6 that negative agentives are consistently more elaborated than positive agentives.
+
+### Likely Prohibitions or Avoidance Patterns (BLOCKED)
+
+**C7 (Causative — Falsification) is BLOCKED for D1 (Correspondence to Fact/Reality) and D4 (Sincerity/Honesty of Persons).** This is the most clearly supported prohibition in the matrix. The causative construction for making something false — as opposed to verifying it — is absent or marginal in at least five languages (Quechua, Tagalog, Hebrew, Sanskrit, and partially Swahili). Quechua F4 explicitly marks this as a structural gap. Greek F6 rates "make something false" constructions as UNNATURAL. Hebrew F6 rates parallel constructions as MARGINAL. The asymmetry between C6 (ALLOWED) and C7 (BLOCKED) for D1 is the strongest single constraint finding in the matrix.
+
+For D4 (Sincerity/Honesty of Persons), C7 is also BLOCKED: no language in the corpus shows a productive causative for "making someone insincere" or "causing dishonesty" in the same way that verification causatives work. The concept is expressed through deception verbs (pantachiy in Quechua, mislead in English) but these belong to D5 (Deliberate Deception) rather than D4.
+
+**C5 (Inchoative — Negative) is BLOCKED for D5 (Deliberate Deception/Lying).** The construction "become a lie" or "become deceptive" is consistently unnatural or absent across multiple languages. Greek F6 explicitly rates γίνεται ψέμα as UNNATURAL. Quechua F6 notes the absence of *llullayay (become false). Hebrew F6 rates "the thing became false" as MARGINAL. The conceptual frame of deception/lying resists inchoative framing — lies are not things that come into being through a process of becoming; they are acts or states that are revealed or exposed. This is consistent with the finding from G5 that revelation verbs substitute for inchoative constructions in several languages.
+
+**C6 (Causative — Verification) is BLOCKED for D5 (Deliberate Deception/Lying).** One cannot "verify" a lie in the same sense that one verifies a truth claim. The causative verification function is semantically incompatible with the deception dimension. This is a semantic rather than purely grammatical constraint.
+
+**C11 (Agentive Nominalization — Positive) is VARIABLE rather than BLOCKED overall**, but the data consistently show that positive agentives are less elaborated, more likely to be periphrastic, and more likely to be marginal or literary than negative agentives. This is not a prohibition but a strong asymmetry: the positive agentive function is available but consistently underelaborated relative to the negative agentive function across all dimensions where both are relevant (D1, D3, D4, D5).
+
+### Important Divergences, Substitutions, and Asymmetries
+
+**The C4/C5 asymmetry (positive vs. negative inchoative).** C4 (Inchoative — Positive) is ALLOWED for D3 (Correctness), D9 (Validity), and D15 (Completeness), but VARIABLE for D1 (Correspondence to Fact/Reality) and D2 (Authenticity). C5 (Inchoative — Negative) is VARIABLE for D9 and D15 but BLOCKED for D5. This asymmetry — positive inchoatives more broadly available than negative inchoatives — is documented in G5 and G6 as a moderate recurrent pattern. The data do not support calling C5 universally BLOCKED, but the pattern of restriction is consistent enough to note.
+
+**The C6/C7 asymmetry (verification vs. falsification causative).** This is the strongest asymmetry in the matrix. C6 is ALLOWED for six dimensions; C7 is BLOCKED for D1 and D4, VARIABLE for D2 and D3, and INSUFFICIENT DATA for most other dimensions. The asymmetry is documented across unrelated language families (Quechuan, Austronesian, Semitic, Indo-European) and is explicitly noted as a structural gap in at least one language (Quechua). The data support treating this as a genuine cross-linguistic constraint rather than a sampling artifact.
+
+**The C10/C11 asymmetry (negative vs. positive agentive).** C10 is ALLOWED for D1, D3, D4, D5, D6; C11 is VARIABLE for D1, D3, D4 and INSUFFICIENT DATA for D5, D6. This asymmetry is documented in all eight languages and across all language families. The positive agentive function is not blocked — satyavādin (Sanskrit), chiqanchaq (Quechua), and mwenye kweli (Swahili) are attested — but it is consistently less elaborated, less colloquial, and more likely to require periphrastic expression.
+
+**Revelation verbs as substitutes for C4 (Inchoative — Positive) in D1.** In Hebrew, Greek, and Chinese, verbs of revealing or uncovering (hitgalah, βγαίνει η αλήθεια, 真相大白) substitute for direct inchoative constructions when expressing truth coming to light. This substitution is documented in G5 and reflected in the VARIABLE rating for C4 × D1. The substitution suggests a conceptual frame where truth is revealed rather than created, which is consistent with the C7 BLOCKED finding.
+
+**D16 (Objectivity vs. Subjectivity) is VARIABLE or INSUFFICIENT DATA across all constructional functions.** This dimension is clearly lexicalized only in Chinese and English. For all other languages, the dimension is absent or marginal as a distinct cluster. The matrix reflects this by rating all cells for D16 as VARIABLE or INSUFFICIENT DATA. This is the most language-specific dimension in the corpus.
+
+**D14 (Epistemic Source/Evidence Type) shows a unique pattern.** C16 (Evidential Marking) is ALLOWED for D14, but the realization differs radically: Quechua grammaticalizes it as obligatory morphology (-mi/-si/-cha), Sanskrit lexicalizes it through the pramāṇa system, and other languages express it constructionally or through isolated items. The ALLOWED rating for C16 × D14 reflects functional availability across languages, not structural uniformity.
+
+**D9 (Validity/Legitimacy) is the most symmetric dimension in the matrix.** C4, C5, C6, C7, and C8 are all ALLOWED for D9. This reflects the finding from G5 that legal/administrative validity is the domain where both positive and negative causatives (validate/invalidate, certify/cancel) are most consistently attested. Greek (βεβαιώνω/ακυρώνω), English (validate/invalidate), and Swahili (thibitisha/batilisha) all show productive causative pairs for this dimension.
+
+**D5 (Deliberate Deception/Lying) has the most BLOCKED cells.** C4 (Inchoative+), C6 (Causative Verify), and C7 (Causative Falsify) are all BLOCKED for D5. This reflects the semantic character of deception: lies are not things that become true, cannot be verified in the same sense as truth claims, and the concept of "making something a lie" is semantically anomalous. The deception dimension is the most constructionally restricted in the matrix.
+
+**D13 (Resemblance/Similarity) has the most INSUFFICIENT DATA cells.** This dimension is attested in 7 of 8 languages but is less consistently documented across constructional functions. The epistemic hedging function (domeh li she- in Hebrew, dómeh she- in Greek) is well-documented for C13 (Propositional Complement), but other constructional functions are less systematically documented for this dimension.
+
+---
+
+## Confidence Assessment
+
+### Strong Evidence (ALLOWED or BLOCKED ratings with high confidence)
+
+- **C1, C2, C3, C9 ALLOWED across all dimensions:** Supported by consistent documentation across all 8 languages and all language families. No counterexamples found.
+- **C7 BLOCKED for D1:** Supported by explicit structural gap documentation in Quechua (F4), UNNATURAL ratings in Greek (F6), MARGINAL ratings in Hebrew (F6), and absence in Tagalog and Sanskrit. Attested across 5 of 8 languages across unrelated families.
+- **C5 BLOCKED for D5:** Supported by UNNATURAL rating in Greek (F6), absence in Quechua (F6), MARGINAL rating in Hebrew (F6). Attested across 3 of 8 languages; not universal but consistent across unrelated families.
+- **C10 ALLOWED for D1, D3, D4, D5, D6:** Supported by documentation in all 8 languages.
+- **C11 VARIABLE (consistently underelaborated relative to C10):** Supported by documentation in all 8 languages showing the asymmetry.
+- **C6 ALLOWED for D1, D3, D9, D12:** Supported by documentation in all 8 languages.
+- **C12 ALLOWED for D1, D3, D4, D5, D6, D8, D9, D10, D12:** Supported by documentation in all 8 languages.
+
+### Moderate Evidence (VARIABLE ratings with reasonable confidence)
+
+- **C4 VARIABLE for D1, D2:** The positive inchoative is attested in all 8 languages but with restrictions in Hebrew (revelation verbs preferred), Greek (marginal for core truth terms), and Quechua (less productive for propositional truth than for goodness/correctness). The VARIABLE rating reflects genuine cross-language variation rather than a universal constraint.
+- **C5 VARIABLE for D1, D2, D3, D9:** The negative inchoative is attested in Chinese, Swahili, and English but restricted in Greek, Hebrew, and Quechua. The VARIABLE rating reflects the moderate pattern documented in G6.
+- **C7 VARIABLE for D2 (Authenticity), D3 (Correctness):** Falsification causatives are attested for these dimensions in Greek (ακυρώνω, νοθεύω) and English (falsify, invalidate) but absent in Quechua, Tagalog, and Hebrew. The VARIABLE rating reflects genuine cross-language variation.
+- **C16 ALLOWED for D8, D14:** Evidential marking is attested across all 8 languages for certainty/doubt and epistemic source, but the realization varies from grammaticalized morphology (Quechua) to lexical items (Sanskrit) to constructional expressions (Hebrew, Chinese). The ALLOWED rating reflects functional availability; the realization variation is noted.
+- **C17 ALLOWED for D1, D4, D8:** Discourse markers grammaticalized from truth vocabulary are documented in 7 of 8 languages for these dimensions. Sanskrit shows less documentation of this pattern.
+
+### Weak Evidence or Insufficient Data
+
+- **D16 (Objectivity vs. Subjectivity) across all constructional functions:** This dimension is clearly lexicalized only in Chinese and English. All ratings for D16 are VARIABLE or INSUFFICIENT DATA. No strong cross-language claims can be made.
+- **D17 (Rights/Entitlements) across most constructional functions:** This dimension is most elaborated in Swahili and secondarily in Hebrew. Most constructional functions for D17 are rated INSUFFICIENT DATA due to limited documentation in other languages.
+- **D14 (Epistemic Source/Evidence Type) across most constructional functions:** The dimension is attested in all 8 languages but the realization varies so dramatically (grammaticalized in Quechua, lexicalized in Sanskrit, constructional elsewhere) that most cells are rated VARIABLE or INSUFFICIENT DATA.
+- **C15 (Comparison) across most dimensions:** Comparative constructions with truth-domain adjectives are documented but less systematically than other constructional functions. Several languages show restrictions (Sanskrit -tara marginal with truth adjectives; Quechua lacks morphological comparative). Most C15 cells are rated VARIABLE or INSUFFICIENT DATA.
+- **C7 (Causative — Falsification) for D4, D6, D7, D8, D10, D11, D13, D14, D15, D16, D17:** These cells are rated BLOCKED or INSUFFICIENT DATA. The BLOCKED ratings for D4 and D1 are well-supported; the INSUFFICIENT DATA ratings for other dimensions reflect genuine gaps in the documentation rather than clear evidence of blocking.
+- **C11 (Agentive Nominalization — Positive) for D2, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17:** Most of these cells are rated VARIABLE or INSUFFICIENT DATA. The positive agentive function is documented for D1, D3, D4 but less systematically for other dimensions.
+
+---
+
+## Summary of Key Findings
+
+1. **Universal availability:** Attribution (C1), negative attribution (C2), adnominal modification (C3), and abstract nominalization (C9) are available for all 17 semantic dimensions across all 8 languages. These are the most robustly cross-linguistic constructional functions in the truth domain.
+
+2. **The verification/falsification asymmetry is the strongest constraint:** Causative verification (C6) is broadly available; causative falsification (C7) is blocked or absent for the core truth dimension (D1) across at least 5 languages. This asymmetry is documented across unrelated language families and is explicitly noted as a structural gap in at least one language.
+
+3. **The positive/negative inchoative asymmetry is a moderate constraint:** Positive inchoatives (C4) are more broadly available than negative inchoatives (C5), particularly for the deception dimension (D5) where C5 is blocked. The asymmetry is not universal but is documented across unrelated families.
+
+4. **The positive/negative agentive asymmetry is a strong recurrent pattern:** Negative agentives (C10) are consistently more elaborated than positive agentives (C11) across all 8 languages. This is not a prohibition on C11 but a consistent underelaboration relative to C10.
+
+5. **D5 (Deliberate Deception/Lying) is the most constructionally restricted dimension:** It blocks C4 (positive inchoative), C6 (verification causative), and C7 (falsification causative). Deception resists the constructional frames most associated with truth-establishment.
+
+6. **D9 (Validity/Legitimacy) is the most constructionally symmetric dimension:** Both positive and negative causatives (C6 and C7) are available, reflecting the legal/administrative domain where both validation and invalidation are institutionally recognized operations.
+
+7. **D16 (Objectivity vs. Subjectivity) is the most language-specific dimension:** It is clearly lexicalized only in Chinese and English and generates insufficient cross-language evidence for reliable constraint classification.

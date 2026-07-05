@@ -1,0 +1,109 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **N(이/가) 사실이다 / 진실이다 / 정확하다 / 옳다 / 유효하다** | 그것은 사실이다. / 네 말이 옳다. | Direct match to attribution. Predication is carried by copular or descriptive predicate forms. | None |
+| ADNOM | **A-(으)ㄴ N / N인 N / 관형형: 진정한, 진실한, 정확한, 정당한, 타당한, 유효한** | 진정한 사랑 / 정확한 정보 | Direct match to adnominal modification. These behave syntactically as adnominal modifiers before nouns. | None |
+| BECOME | **N(이/가) 되다 / A-게 되다 / N으로 드러나다** | 계약이 무효가 되었다. / 그 주장은 거짓으로 드러났다. | Available, but part of this domain is also expressed by **REVELATION** via **드러나다**. | Available with substitution |
+| REVELATION | **N을/를 밝히다 / 확인하다 / 규명하다 / N 여부를 확인하다**; also **N으로 드러나다 / 실체가 드러나다** | 진실을 밝히다. / 그 조직의 실체가 드러났다. | Directly available. Revelation is expressed both by lexical verbs and by **드러나다**. | None |
+| CAUSATION (factual) | **N을/를 밝히다 / 확인하다 / 무효로 하다 / 정정하다** | 사실을 확인하다. / 결정을 무효로 했다. | No dedicated morphological causative pattern for this domain; factual effect is expressed periphrastically with lexical verb + complement, often with light verb **하다**. Verification/revelation verbs often serve instead of a dedicated “make true/false/valid” operator. | NO COMMON EXPRESSION - circumlocution required |
+| CAUSATION (character) | (no common expression identified in P4a/P4b) | 거짓말쟁이 / 정직한 사람 | No construction in the provided materials for “make someone truthful / make someone a liar” as a truth-domain operator. Agentive labels are attested, but not causation of character. | **MISSING (structural gap)** |
+| VERIFICATION | **N을/를 확인하다 / N 여부를 확인하다**; also procedural overlap with **밝히다 / 규명하다** | 사실을 확인하다. / 정품 여부를 확인하다. | Directly available. Often overlaps with revelation/discovery-style verbs. | None |
+| DISCONFIRMATION | **사실과 다르다 / 허위이다 / 거짓으로 드러나다 / 정정하다** | 그 보도는 사실과 다르다. / 그 주장은 거짓으로 드러났다. | No single dedicated disconfirmation construction is isolated; the function is expressed through negative attribution, mismatch, revelation of falsity, or correction. | Available with substitution |
+| NEGATION | **N(이/가) 아니다 / A-지 않다 / 사실과 다르다 / 허위이다** | 그 말은 사실이 아니다. / 그 보도는 사실과 다르다. | Negation is primarily analytic, using **아니다** and **-지 않다**; also lexical mismatch/falsity expressions. | None |
+| NOMINALIZATION | **A-ㅁ/음 / N+성 / N+도**; clausal nominalization in **-는 것은 사실이다** | 정확성이 중요하다. / 그의 진실성이 느껴진다. / 그가 떠난 것은 사실이다. | Directly available. Abstract nominalization is productive with **-성**, **-도**; **-ㅁ/음** is more limited. Clausal nominalization is also attested. | None |
+
+## 2. Substitution Patterns (Narrative)
+
+### Revelation replacing Becoming
+Korean has a direct BECOME pattern with **되다**, as in **계약이 무효가 되었다**. However, in truth/falsity contexts, the language also uses **드러나다**, as in **그 주장은 거짓으로 드러났다** and **그 조직의 실체가 드러났다**. In the provided materials, **드러나다** does not simply mark change of state; it presents the status as becoming known or exposed. Descriptively, REVELATION often substitutes for BECOME when the relevant meaning is “turned out to be” rather than simple status change.
+
+### Verification replacing Causation
+The materials explicitly note that there is no single productive causative morphology dedicated to “make true/false/valid” across this domain. Instead, Korean uses lexical verbs such as **확인하다, 밝히다, 규명하다, 무효로 하다, 정정하다**. This means that where a canonical CAUSATION operator might be expected, Korean often uses VERIFICATION or REVELATION constructions instead, especially with **확인하다** and **밝히다**. Descriptively, verification/discovery procedures frequently stand in for dedicated factual causation.
+
+### Negation: analytic rather than morphological
+NEGATION is described as usually formed analytically with **아니다** or **-지 않다**. The examples **그 말은 사실이 아니다** and the note on **A-지 않다** show this clearly. Korean also uses lexical alternatives such as **사실과 다르다** and **허위이다**, but these are not described as dedicated morphological negation. So the negative operator is primarily analytic.
+
+### Verification and Disconfirmation overlap
+VERIFICATION is clearly expressed by **확인하다**, including **N 여부를 확인하다**. DISCONFIRMATION does not appear as a single dedicated construction in the materials. Instead, it is expressed through:
+- analytic negation: **사실이 아니다**
+- mismatch: **사실과 다르다**
+- formal falsity labeling: **허위이다**
+- revelation of falsity: **거짓으로 드러나다**
+- correction/invalidation: **정정하다**, **무효로 하다**
+
+So VERIFICATION and DISCONFIRMATION do not share one single construction, but they do overlap procedurally through the same lexical field of checking, revealing, and correcting.
+
+### Positive/negative asymmetry
+There is a clear asymmetry between positive and negative forms:
+- Positive attribution is straightforward: **사실이다, 옳다, 정확하다, 유효하다**
+- Negative meanings have several routes: **아니다, -지 않다, 사실과 다르다, 허위이다**
+This makes the negative side more differentiated by register and discourse function.
+
+### Agentive asymmetry
+The materials explicitly note a lexicalized negative agent noun **거짓말쟁이** “liar,” but no equally standard productive positive counterpart meaning “truth-teller.” Positive meanings are expressed descriptively with **정직한 사람**, **진실한 사람**. This is a lexical asymmetry, not a complete absence of positive description.
+
+### Multi-word expression normalization
+Several operators are carried by multi-word expressions rather than single lexical items:
+- **무효로 하다**: complement + light verb **하다**; functions verbally as causative invalidation
+- **사실과 다르다**: noun phrase + comparative/mismatch predicate; functions as predicate of disconfirmation/negative attribution
+- **부인할 수 없는 사실이다**: clausal/adnominal modifier + noun + copula; functions as assertive evidential attribution
+- **N 여부를 확인하다**: nominal complement + lexical verb; functions verbally as verification
+- **거짓으로 드러나다**: complement + intransitive revelation verb; functions verbally, often substituting for becoming/disconfirmation
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **CAUSATION (character)**: **MISSING (structural gap)**
+  - No construction is provided for causing someone to become truthful/deceptive as a truth-domain operator.
+- No other canonical category is fully absent in the provided materials.
+
+### Lexical Gaps
+- No equally standard productive positive counterpart to **거짓말쟁이**
+  - P4a explicitly notes no equally standard truth-domain counterpart meaning “truth-teller.”
+  - Positive alternatives are descriptive phrases: **정직한 사람**, **진실한 사람**.
+- No single productive lexical causative meaning “make true/false/valid” across the domain
+  - Instead, Korean uses several lexical/periphrastic verbs: **밝히다, 확인하다, 무효로 하다, 정정하다**.
+
+### Conceptual Gaps
+- No dedicated operator in the provided materials for “cause truth/falsity as character” distinct from descriptive labeling.
+- No dedicated single disconfirmation operator isolated from negation, mismatch, revelation, and correction; the function is distributed across several constructions.
+
+### Asymmetric Gaps
+- Negative agentive is lexicalized: **거짓말쟁이**
+- Positive agentive counterpart is not equally lexicalized; only descriptive phrases are given.
+- Positive attribution has direct simple predicates; negative/disconfirming meanings are spread across several analytic and lexical constructions.
+- BECOME is available with **되다**, but falsity/truth often appears through **드러나다**, creating an asymmetry toward revelation in contested truth contexts.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **REVELATION**
+- **VERIFICATION**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **BECOME**
+  - Available via **되다**
+  - Frequently substituted by **드러나다** when the meaning is “turn out / be revealed as”
+- **DISCONFIRMATION**
+  - Expressed through **사실과 다르다**, **허위이다**, **거짓으로 드러나다**, **정정하다**, and analytic negation
+  - No single dedicated construction isolated in the materials
+
+### Partially available
+- **CAUSATION (factual)**
+  - Expressed through circumlocution and lexical/periphrastic verbs: **밝히다, 확인하다, 무효로 하다, 정정하다**
+  - No dedicated productive causative morphology for this semantic domain
+
+### Missing entirely
+- **CAUSATION (character)**
+  - **MISSING (structural gap)** in the provided materials
+
+### Final normalized list
+- **Fully available:** ATTR, ADNOM, REVELATION, VERIFICATION, NEGATION, NOMINALIZATION
+- **Available with substitution:** BECOME, DISCONFIRMATION
+- **Partially available:** CAUSATION (factual)
+- **Missing entirely:** CAUSATION (character)

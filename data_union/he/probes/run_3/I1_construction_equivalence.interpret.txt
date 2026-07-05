@@ -1,0 +1,120 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Postnominal adjective with gender/number/definiteness agreement (P4a §1); construct-state noun + noun (smikhut) as attributive alternative | חָבֵר אֲמִתִּי (ḥaver ʾamitī, "a true friend"); עֵדוּת שֶׁקֶר (ʿedut sheqer, "false testimony") | No substitution required; two distinct structural patterns both serve attributive function | None |
+| **ADNOM** | Adjective + prepositional scope phrase (le-); noun + shel-genitive phrase; noun + שֶׁ- relative clause (noted as alternate in P4a §3) | נָכוֹן לְהַיּוֹם (nakhon le-hayom, "correct as of today"); גַּרְעִין שֶׁל אֱמֶת (garʿin shel ʾemet, "a kernel of truth") | No substitution required | None |
+| **BECOME** | Periphrastic construction: הָפַךְ לְ- (hafakh le-) or נַעֲשָׂה (naʿasah) + nominal/adjectival complement | זֶה הָפַךְ לְאֱמֶת (ze hafakh le-ʾemet, "this became truth"); הַחוֹזֶה הָפַךְ לְבָטֵל (ha-ḥoze hafakh le-batel, "the contract became void") | No substitution noted; BECOME is expressed periphrastically, not morphologically | None — construction is present; morphosyntactic gap: no dedicated inchoative morphology for truth-domain adjectives |
+| **REVELATION** | Not attested as a distinct construction in P4a or P4b | — | **MISSING (structural gap)** — no construction specifically encoding "it was revealed/turned out to be true" is identified; the BECOME construction (הָפַךְ לְאֱמֶת) covers change-of-state but is not described as encoding revelation or discovery specifically | **MISSING (structural gap)** |
+| **CAUSATION (factual)** | Hifʿil binyan morphological causative on relevant roots (P4a §5) | לְהַטְעוֹת (lehatʿot, "to mislead/cause to err"); לְהַצְדִּיק (lehatsdiq, "to justify/vindicate") | P4a explicitly notes that a direct causative "to make [something] true" (e.g., *lehaʾemet) is not productive; the Hifʿil causative operates on persons, not propositions | **Partial gap**: causation directed at propositions (making a proposition true/false) is **MISSING (structural gap)**; causation directed at persons is fully attested |
+| **CAUSATION (character)** | Hifʿil binyan (same morphological pattern as above); agentive -an nominalization encodes the resulting characterological agent | לְהַטְעוֹת (lehatʿot, "to mislead"); שַׁקְרָן (shaqran, "habitual liar") as the nominalized character-type output | Hifʿil causative covers the verbal dimension; -an agentive covers the resulting agent characterization | None for the negative pole; **Asymmetric gap**: positive character-causation agent ("one who causes to be truthful," "truth-teller") is not lexicalized with -an; served periphrastically (מִי שֶׁאוֹמֵר אֱמֶת) or by participial נֶאֱמָן |
+| **VERIFICATION** | Not attested as a distinct labeled construction in P4a or P4b | — | **MISSING (structural gap)** — no construction specifically encoding "to verify / to confirm as true" is identified in the dataset | **MISSING (structural gap)** |
+| **DISCONFIRMATION** | Not attested as a distinct labeled construction in P4a or P4b | — | **MISSING (structural gap)** — no construction specifically encoding "to disconfirm / to show to be false" is identified in the dataset | **MISSING (structural gap)** |
+| **NEGATION** | (a) Analytic/predicative: לֹא + adjective in predicative position; (b) Nominal: חוֹסֶר + abstract noun; (c) Morphological prefix: אִי- + -ut nominalization | זֶה לֹא נָכוֹן (ze lo nakhon, "that is not correct"); חוֹסֶר כַּנּוּת (ḥoser kannut, "lack of sincerity"); אִי-אֲמִינוּת (ʾi-ʾaminut, "unreliability") | Three distinct patterns; analytic negation (לֹא) is primary for predicative position; morphological prefix (אִי-) is restricted to -ut nominalizations and does not attach to adjectives directly | Partial morphosyntactic gap: no productive negative attributive prefix on adjectives; attributive negation requires nominal circumlocution (חוֹסֶר + noun) or predicative reframing |
+| **NOMINALIZATION** | (a) Abstract: Adj + -ut suffix; (b) Agentive: Root + -an suffix; (c) Verbal/action nouns via mishqal patterns (e.g., זִיּוּף, דִּיּוּק, סְתִירָה) | אֲמִינוּת (ʾaminut, "reliability"); סְבִירוּת (sevirut, "reasonableness"); שַׁקְרָן (shaqran, "liar"); דַּיְקָן (dayqan, "precise person"); זִיּוּף (ziyyuf, "forgery/falsification") | No substitution required; three parallel nominalization systems are all attested and productive | **Asymmetric gap**: -an agentive is productive for negative characterological agents only; no lexicalized positive agentive counterpart ("truth-teller") via -an |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME and REVELATION
+
+The BECOME operator is attested via periphrastic constructions (הָפַךְ לְ-, נַעֲשָׂה). These constructions encode change-of-state and are described in P4a and P4b as compositional and non-lexicalized. No construction specifically labeled or described as encoding REVELATION (i.e., the epistemic event of something being discovered or revealed to be true) is present in the dataset. The BECOME construction (זֶה הָפַךְ לְאֱמֶת) covers the result of a change-of-state but is not described as encoding the epistemic dimension of discovery or revelation. Based on the data, REVELATION is a structural gap; there is no evidence that BECOME substitutes for REVELATION or vice versa, because REVELATION itself is not attested.
+
+### 2.2 CAUSATION (factual) and CAUSATION (character)
+
+Both CAUSATION types are served by the same morphological mechanism — the Hifʿil binyan — but with a documented asymmetry in scope. P4a §5 explicitly states that the Hifʿil causative in the truth domain operates on persons (causing someone to err, to believe, to be justified) rather than on propositions. A direct propositional causative ("to make [something] true") is described as unproductive. This means:
+
+- **CAUSATION (character)** — causing a person to err, believe, or be justified — is fully attested via Hifʿil.
+- **CAUSATION (factual)** — making a proposition true or false — is a structural gap at the morphological level. No periphrastic alternate is described as productive for this function.
+
+The -an agentive nominalization (שַׁקְרָן, דַּיְקָן) extends CAUSATION (character) into the domain of stable characterological labeling, but this is a nominalization of the resulting agent-type, not a causative construction per se.
+
+### 2.3 VERIFICATION and DISCONFIRMATION
+
+Neither VERIFICATION nor DISCONFIRMATION appears as a labeled or described construction in P4a or P4b. The concessive/epistemic frame construction (P4a §9) — נָכוֹן שֶׁ..., סָבִיר שֶׁ... — presupposes truth or reasonableness of a proposition but does not encode the act of verifying or disconfirming it. The ADNOM construction (נָכוֹן לְהַיּוֹם) specifies temporal scope of a truth-claim but does not encode verification as an act. Based strictly on the data, both VERIFICATION and DISCONFIRMATION are structural gaps.
+
+### 2.4 NEGATION: Analytic vs. Morphological
+
+Hebrew truth-domain negation operates through three distinct patterns, each with different distributional constraints:
+
+- **Predicative analytic negation** (לֹא + adjective): primary pattern, available in predicative position only. Not available in attributive position directly.
+- **Nominal negation** (חוֹסֶר + abstract noun): serves as the attributive-equivalent negation for abstract qualities; common in formal and written registers.
+- **Morphological prefix negation** (אִי- + -ut nominalization): productive but restricted to -ut nominalizations; does not attach to adjectives directly.
+
+The result is that attributive negation of adjectives requires a structural workaround — either a shift to nominal form (חוֹסֶר כַּנּוּת) or a shift to predicative position. This is a morphosyntactic gap: there is no productive negative attributive prefix on adjectives.
+
+### 2.5 Positive/Negative Asymmetry in Agentive Nominalization
+
+P4a §7 and P4b both document that the -an agentive suffix is productive for negative or characterological evaluations (שַׁקְרָן "liar," בַּטְלָן "idler") but that no symmetric positive agentive ("truth-teller") is lexicalized with -an. The positive function is served periphrastically (מִי שֶׁאוֹמֵר אֱמֶת, "one who tells the truth") or by the participial form נֶאֱמָן ("faithful/trustworthy one"), which is not derived via the -an suffix. This asymmetry is explicitly noted in the data and is consistent across both P4a and P4b.
+
+### 2.6 Pragmatic Extension of Prepositional Adverbials
+
+The prepositional adverbial construction (בְּ- + truth-domain noun) is described in P4a §8 and P4b as having undergone pragmatic extension beyond compositional meaning, particularly for בֶּאֱמֶת (discourse particle, sincerity marker) and בְּדִיּוּק ("exactly," with pragmatic precision-marking functions). This is not a substitution for another operator but represents a functional expansion of the ADNOM-adjacent adverbial pattern into discourse-level functions. These items behave syntactically as adverbs in their extended uses.
+
+### 2.7 Concessive Frame and Epistemic Frame as Distinct Sub-functions
+
+P4a §9 and P4b distinguish two sub-functions within the same construction type (truth-adjective + שֶׁ- clause):
+
+- **Concessive frame** (נָכוֹן שֶׁ..., אֲבָל...): acknowledges a true premise before a counterpoint; strongly associated with the adversative connector אֲבָל.
+- **Epistemic frame** (סָבִיר שֶׁ...): expresses probability or reasonableness of a proposition without the concessive function.
+
+Both sub-functions use the same surface construction but differ in discourse function and in the specific adjective that heads the construction. This is a within-construction functional split, not a substitution between operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+*(The construction type is absent; the meaning cannot be expressed through any attested construction without circumlocution)*
+
+- **REVELATION**: No construction encoding the epistemic event of something being revealed or discovered to be true is attested in P4a or P4b. The BECOME construction covers change-of-state results but is not described as encoding revelation.
+- **VERIFICATION**: No construction encoding the act of verifying or confirming a proposition as true is attested.
+- **DISCONFIRMATION**: No construction encoding the act of disconfirming or showing a proposition to be false is attested.
+- **CAUSATION (factual) — propositional target**: The Hifʿil causative does not productively target propositions ("to make [something] true"); this is explicitly noted in P4a §5 as an unproductive form (*lehaʾemet). No periphrastic alternate is described as filling this gap.
+
+### 3.2 Lexical Gaps
+*(The construction type exists but specific lexical items are missing)*
+
+- **Positive agentive nominalization**: The -an agentive suffix is productive for negative characterological agents (שַׁקְרָן, "liar") but no lexicalized positive counterpart ("truth-teller") exists via this suffix. The gap is lexical within an otherwise productive morphological pattern.
+- **Direct inchoative morphology for truth-domain adjectives**: No dedicated inchoative morphological form exists; BECOME is expressed periphrastically. The periphrastic construction is available, so this is a morphological lexical gap rather than a full structural gap.
+
+### 3.3 Morphosyntactic Gaps
+*(The construction type exists in some positions but is blocked in others)*
+
+- **Attributive negation of adjectives**: Predicative negation (לֹא + adjective) is fully productive but is not available in attributive position. Attributive-equivalent negation requires a shift to nominal form (חוֹסֶר + abstract noun) or to the אִי- prefix on -ut nominalizations. The gap is positional: attributive adjectival negation is morphosyntactically blocked.
+- **אִי- prefix on adjectives**: The אִי- negative prefix is productive on -ut nominalizations but does not attach directly to adjectives. This is a morphosyntactic distributional restriction.
+
+### 3.4 Conceptual Gaps
+*(Based strictly on the data: no construction exists and no circumlocution is described)*
+
+- No conceptual gaps are identifiable beyond those already listed as structural gaps (REVELATION, VERIFICATION, DISCONFIRMATION), because P4a and P4b do not describe any circumlocutory expressions for these operators either. The data does not provide evidence that these concepts are expressed through any available means within the truth domain as documented.
+
+### 3.5 Asymmetric Gaps
+*(One pole of a positive/negative or truth/falsity opposition is present; the other is absent or underrepresented)*
+
+- **Agentive nominalization — negative pole present, positive pole absent**: שַׁקְרָן ("liar") is lexicalized; no symmetric "truth-teller" agentive via -an is lexicalized. Positive function is served periphrastically or by a participial form (נֶאֱמָן) from a different morphological pattern.
+- **CAUSATION — person-directed present, proposition-directed absent**: The Hifʿil causative operates on persons (causing someone to err, believe, be justified) but not productively on propositions (making a proposition true/false). The person-directed causative is fully attested; the proposition-directed causative is a structural gap.
+- **Negation — predicative position fully attested, attributive position structurally constrained**: לֹא + adjective is available predicatively; attributive adjectival negation requires nominal or prefix-based workarounds.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two attested patterns: postnominal adjective with agreement; construct-state noun + noun (smikhut). Both are [CORE]. |
+| **ADNOM** | **Fully available** | Two attested patterns: adjective + prepositional scope phrase (le-); noun + shel-genitive. Relative clause with שֶׁ- noted as alternate. All [CORE]. |
+| **BECOME** | **Available with substitution** | Expressed periphrastically via הָפַךְ לְ- or נַעֲשָׂה; no dedicated inchoative morphology for truth-domain adjectives. Construction is present and [CORE] but morphologically periphrastic. |
+| **REVELATION** | **Missing entirely** | No construction encoding revelation or discovery of truth is attested in P4a or P4b. **MISSING (structural gap)**. |
+| **CAUSATION (factual)** | **Partially available** | Hifʿil causative is fully productive for person-directed causation. Proposition-directed causation ("to make [something] true") is explicitly noted as unproductive. **Structural gap for propositional target**. |
+| **CAUSATION (character)** | **Available with substitution** | Hifʿil causative covers verbal dimension; -an agentive covers resulting agent characterization. Asymmetric: negative pole (שַׁקְרָן) lexicalized; positive pole ("truth-teller") served periphrastically or by participial form (נֶאֱמָן). |
+| **VERIFICATION** | **Missing entirely** | No construction encoding the act of verifying a proposition as true is attested. **MISSING (structural gap)**. |
+| **DISCONFIRMATION** | **Missing entirely** | No construction encoding the act of disconfirming a proposition as false is attested. **MISSING (structural gap)**. |
+| **NEGATION** | **Partially available** | Three patterns attested: predicative analytic (לֹא + adjective), nominal (חוֹסֶר + noun), morphological prefix (אִי- + -ut nominalization). Attributive adjectival negation is morphosyntactically blocked; requires nominal or prefix-based workaround. |
+| **NOMINALIZATION** | **Fully available** | Three productive systems: abstract -ut suffix, agentive -an suffix, verbal/action mishqal patterns. All [CORE]. Asymmetric gap in -an agentive (negative pole only lexicalized). |

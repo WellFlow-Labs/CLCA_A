@@ -1,0 +1,302 @@
+# G1 — Cross-Language Summary of Observed Semantic Organization
+
+## 1. Language Inventory
+
+The context contains complete F-phase analysis for **eight languages**:
+
+- **ka (Georgian)** — Kartvelian family; agglutinative morphology with rich case system and extensive verbal derivation
+- **yo (Yoruba)** — Niger-Congo family; isolating morphology with tonal distinctions and serial verb constructions
+- **fi (Finnish)** — Uralic family; agglutinative with extensive case system (15 cases) and vowel harmony
+- **eu (Basque)** — Language isolate; agglutinative with ergative-absolutive alignment and extensive case marking
+- **ta (Tamil)** — Dravidian family; agglutinative with diglossic variation and extensive compounding
+- **id (Indonesian)** — Austronesian family; isolating/weakly agglutinative with productive affixation and reduplication
+- **tr (Turkish)** — Turkic family; agglutinative with vowel harmony, SOV word order, and extensive suffixation
+- **ko (Korean)** — Koreanic family; agglutinative with honorific system and extensive Sino-Korean vocabulary
+
+---
+
+## 2. Per-Language Semantic Sketch
+
+### Georgian (ka)
+
+**Main lexical distinctions**: Georgian organizes truth-related vocabulary around the root **მართ-** (mart'-) "right/straight/correct," which extends across factual correctness (სიმართლე "truth"), moral rightness (სამართლიანი "just"), legal domains (სამართალი "law"), religious orthodoxy (მართლმადიდებელი "Orthodox"), and even governance (მართვა "management"). A second major root **ჭეშმარიტ-** (ch'eshmarit'-) emphasizes genuineness and authenticity. The language distinguishes **ტყუილი** (t'q'uili) "lie" (verbal deception) from **ყალბი** (q'albi) "fake/counterfeit" (object inauthenticity).
+
+**Morphological patterns**: Highly productive derivation using prefixes (სა-, უ-, გა-) and suffixes (-ობა, -ებული, -იანი). The privative prefix უ- creates systematic oppositions (სამართლო/უსამართლო "just/unjust"). Extensive compounding with abstract nouns (მართლზომიერი "moderate" = right-measure-having). The root მართ- shows exceptional productivity across semantic domains.
+
+**Constructional patterns**: Zero copula in present tense affirmative; explicit copula არის (aris) in formal contexts. Negation uses არ (ar) + copula. Revelation constructions prefer passive forms (გამოვლინდა "was revealed"). Light verb constructions with გახდომა (gakhd-) "become" for inchoatives, though these are less natural than revelation verbs for truth-domain terms.
+
+**Oppositional structures**: Strong lexical oppositions (სიმართლე/ტყუილი, ჭეშმარიტი/ყალბი) supplemented by productive morphological oppositions using privative უ-. F5 documents 15 core oppositions, mixing lexical and morphological strategies.
+
+### Yoruba (yo)
+
+**Main lexical distinctions**: Yoruba centers on the root **tọ́** "be straight/correct/true," which extends to factual correctness (òtítọ́ "truth"), directional guidance (tọ́ ẹsẹ̀ "direct one's steps"), proper care (tọ́jú "care for"), and even orthography (tọ́ ẹnu "speak correctly"). The language distinguishes **irọ́** "lie" (noun) from **purọ́** "to lie" (verb), and contrasts simple lying with **ẹ̀tàn** "cunning deception/trickery."
+
+**Morphological patterns**: Productive nominalization with ì- prefix (ìtọ́ "correctness," ìpurọ́ "lying," ìgbàgbọ́ "belief") and ò- prefix (òtítọ́ "truth"). Agentive formation with a- prefix (apurọ́ "liar"). Extensive serial verb constructions and ideophonic modification (gidigidi "firmly," déédé "correctly"). Negation with àì- prefix (àìtọ́ "incorrectness").
+
+**Constructional patterns**: Zero copula in present affirmative; **ni** copula for emphasis. Negation with **kò** before verb. Truth-domain predicates freely combine with aspectual markers (ń progressive, máa habitual, tán completive). Extensive light verb constructions with **ṣe** "do" and **jẹ́** "be/affirm." Serial verb constructions common (bá mu "correspond" = meet + hold).
+
+**Oppositional structures**: Strong lexical oppositions (òtítọ́/irọ́, tọ́/purọ́) with limited morphological negation (àì- prefix). F5 documents primarily lexical and constructional oppositions rather than morphological ones. Notable asymmetry: no common agentive noun for "truth-teller" (only apurọ́ "liar" is lexicalized).
+
+### Finnish (fi)
+
+**Main lexical distinctions**: Finnish distinguishes **tosi** "true" (general truth, also colloquial intensifier), **totuus** "truth" (abstract noun), **todellinen** "real/actual" (ontological reality), **oikea** "right/correct" (correctness, also directional "right" vs. "left"), and **aito** "genuine/authentic" (authenticity). The language separates **valhe** "lie" (deliberate falsehood) from **virhe** "error/mistake" (unintentional error). Register variation: native **tosi** vs. borrowed **faktual** "factual."
+
+**Morphological patterns**: Highly productive derivation with -uus/-yys (abstract nouns: totuus, todellisuus, rehellisyys), -llinen (adjectival: todellinen, virheellinen), -sti (adverbial: todennäköisesti). Privative prefix epä- creates systematic oppositions (tosi/epätosi, todellinen/epätodellinen, rehellinen/epärehellinen). Extensive compounding (totuudenmukainen "truthful" = truth-according-to, paikkansapitävä "accurate" = place-holding).
+
+**Constructional patterns**: Copula **olla** required in all tenses. Partitive case **totta** obligatory in general truth statements (se on totta "it is true"). Translative case marks result states (todeksi "into true state"). Illative case marks basis (perustuu tosiasioihin "based on facts"). Passive voice extremely common in formal registers. Fixed expression **pitää paikkaansa** "to hold/be accurate" (literally "hold its place").
+
+**Oppositional structures**: Systematic morphological oppositions using epä- prefix documented in F5 (9 core pairs). Lexical oppositions (totuus/valhe, oikea/väärä) supplemented by constructional oppositions (olla totta / ei ole totta). Notable asymmetry: no dedicated copular construction for falsity parallel to **olla totta** (falsity expressed through negation or alternative predicates).
+
+### Basque (eu)
+
+**Main lexical distinctions**: Basque centers on **egia** "truth" with derived forms **egiazkoa** "true/genuine" and **egiazkotu** "to verify." The language distinguishes **gezurra** "lie" from **gezurrezko** "false/fake," and contrasts **zuzena** "straight/correct/just" (polysemous across physical, epistemic, and moral domains) with **okerra** "crooked/wrong/unjust." Additional terms: **benetakoa** "real/genuine," **itxurazko** "apparent/seeming."
+
+**Morphological patterns**: Productive derivation with -zko/-ezko (relational adjectives: egiazkoa, gezurrezko), -tasun (abstract nouns: egiazkotasuna "truthfulness"), -tu (verbs: egiazkotu "verify"), -zale (enthusiast: egiazale "truth-lover"). Extensive compounding (egia-maila "truth-level," gezur-sare "web of lies"). Postpositional phrases with genitive case (egiaren bila "in search of truth").
+
+**Constructional patterns**: Copula **da** in present affirmative; explicit copula in other tenses and negation. Postpositional phrases with genitive case very productive (egiaren bila "in search of truth," egiaren alde "on side of truth"). Light verb constructions with **egin** "do," **izan** "be," **esan** "say." Reduplication for emphasis (zuzen-zuzen "very straight"). Appearance vs. reality contrast systematically marked (itxurazko vs. egiazkoa).
+
+**Oppositional structures**: Strong lexical oppositions (egia/gezurra, egiazkoa/gezurrezko, zuzena/okerra) documented in F5 (14 core pairs). Morphological support through privative suffixes (-gabe "without"). Constructional oppositions through negation and contrasting postpositions (egiaren alde "for truth" / egiaren kontra "against truth"). Asymmetry: emphatic reduplication (zuzen-zuzen) only for positive pole, not negative.
+
+### Tamil (ta)
+
+**Main lexical distinctions**: Tamil distinguishes **உண்மை** (uṇmai) "truth/reality" (from root "exist," everyday register), **மெய்** (mey) "truth/body/reality" (elevated/literary register), **சத்தியம்** (cattiyam) "truth/oath" (Sanskrit loan, religious/legal), and **நிஜம்** (nijam) "truth/reality" (colloquial, Persian/Sanskrit loan). The language separates **பொய்** (poy) "lie/falsehood" from **தப்பு** (tappu) "mistake/error," and **சரி** (cari) "correct" from **நேர்மை** (nērmai) "honesty/integrity."
+
+**Morphological patterns**: Productive compounding with truth-domain roots (உண்மைக்கதை "true story," பொய்க்கதை "false story," உண்மைத்தன்மை "truthfulness"). Extensive derivation with -ஆன (-āṉa) adjectival suffix, -ஆக (-āka) manner adverbial, -தன்மை (-taṉmai) abstract quality nouns. Classical negative formation with privative ஆமை (-āmai): பொய்யாமை "truthfulness" = "non-falsehood" (defines truth as absence of lying).
+
+**Constructional patterns**: Zero copula in present affirmative; copula இருக்கிறது (irukkiṟatu) "exists/is" in formal contexts. Negation with இல்லை (illai) "not exist." Extensive light verb constructions (சொல் "say," பேசு "speak," வெளிப்படுத்து "reveal," மறை "hide"). Accusative case marking on truth-domain objects. Revelation constructions highly developed (வெளிப்படு "come out," தெரி "become known").
+
+**Oppositional structures**: Strong lexical oppositions (உண்மை/பொய், சரி/தப்பு, மெய்/பொய்) documented in F5 (10 core pairs). Classical construction பொய்யாமை "truthfulness" defines truth negatively as absence of falsehood. Constructional oppositions through contrasting verbs (வெளிப்படுத்து "reveal" / மறை "hide," ஏற்று "accept" / மறு "deny").
+
+### Indonesian (id)
+
+**Main lexical distinctions**: Indonesian distinguishes **benar** "true/correct" (general correctness), **betul** "correct/true" (colloquial variant), **jujur** "honest" (moral character), **bohong** "lie" (deliberate falsehood), **salah** "wrong/mistake" (error), **palsu** "fake/counterfeit" (inauthenticity), and **asli** "genuine/original" (authenticity). Register variation: **dusta** (formal/literary) vs. **bohong** (colloquial) for "lie."
+
+**Morphological patterns**: Productive affixation with meN- (active voice), di- (passive voice), -kan/-i (causative/applicative), ke-...-an (abstract nouns: kebenaran "truth," kejujuran "honesty"), peN- (agentive nouns: pembohong "liar"), -an (result nouns). Reduplication for intensification (benar-benar "really," sungguh-sungguh "earnestly"). Privative prefix tidak- incorporated in nominalizations (ketidakjujuran "dishonesty").
+
+**Constructional patterns**: Zero copula in present affirmative; copula **adalah** for emphasis. Categorical negation distinction: **tidak** (adjectives/verbs) vs. **bukan** (nouns). Passive voice (di-) strongly preferred in formal registers. Extensive light verb constructions with **membuat** "make," **menjadi** "become," **menjadi** highly productive for inchoatives. Softened negation with **kurang** "less/lacking" for politeness (kurang benar "not quite correct").
+
+**Oppositional structures**: Strong lexical oppositions (benar/salah, jujur/bohong, asli/palsu) documented in F5 (20 core pairs). Morphological support through negation prefixes (bu-, tidak-). Constructional oppositions through negation and contrasting verbs. Asymmetry: **salah** forms many specialized compounds (salah paham "misunderstand," salah guna "misuse," salah kaprah "common error") while **benar** does not show parallel productivity.
+
+### Turkish (tr)
+
+**Main lexical distinctions**: Turkish distinguishes **doğru** "true/correct/straight" (polysemous across factual, moral, and spatial domains), **gerçek** "real/genuine" (ontological reality), **hak** "right/truth/due" (moral-legal-theological), **sahih** "authentic/valid" (religious/legal), and **hakikat** "truth/essence" (philosophical/religious). The language separates **yanlış** "wrong/false" from **sahte** "fake/counterfeit." Register variation: native **doğru** vs. Arabic/Persian loans for abstract/religious concepts.
+
+**Morphological patterns**: Highly productive suffixation with vowel harmony: -lık/-lik (abstract nouns: doğruluk, gerçeklik), -leş/-laş (inchoative: gerçekleşmek "become real"), -lı/-li (possessive adjectives: haklı "justified"), -sız/-siz (privative: haksız "unjust"), -ca/-ça (manner adverbs: hakça "fairly"). Causative -tir/-dir stacks on inchoatives (gerçekleştirmek "realize/accomplish"). Extensive compounding.
+
+**Constructional patterns**: Zero copula in present affirmative; negative copula **değil** in negation. Extensive light verb constructions with **olmak** "be," **etmek** "do," **çıkmak** "turn out," **bulmak** "find." Postpositional phrases grammaticalized from **hak** root (hakkında "about"). Fixed collocations with reduplication (doğru dürüst "proper"). Revelation constructions use **ortaya çıkmak** "come to light" (literally "emerge into the open").
+
+**Oppositional structures**: Strong lexical oppositions (doğru/yanlış, gerçek/sahte, haklı/haksız) documented in F5 (25+ pairs). Systematic morphological oppositions using -lı/-sız suffixes. Constructional oppositions through copula negation and contrasting light verbs. Asymmetry: revelation verbs (ortaya çıkmak) more developed than concealment verbs; **hak** shows exceptional polysemy across truth, rights, and deservingness.
+
+### Korean (ko)
+
+**Main lexical distinctions**: Korean shows extensive register stratification with **진실** (jinsil) "truth" (Sino-Korean, formal), **사실** (sasil) "fact" (Sino-Korean, objective), **진짜** (jinjja) "real/genuine" (native + Sino-Korean, colloquial), and **참** (cham) "true" (pure native, literary). The language separates **거짓** (geojit) "falsehood" from **거짓말** (geojinmal) "lie" (speech-specific), and **가짜** (gajja) "fake" from **위조** (wijo) "forgery" (deliberate fabrication).
+
+**Morphological patterns**: Extensive Sino-Korean compounding (진실성 "truthfulness," 사실관계 "facts of case," 진위여부 "whether true or false"). Productive suffixation: -성 (-seong) for abstract qualities, -적 (-jeok) for adjectival forms, -하다 (-hada) for verb formation. Negation prefix 부-/불- (bu-/bul-) creates systematic oppositions (정확/부정확 "accurate/inaccurate," 정직/부정직 "honest/dishonest").
+
+**Constructional patterns**: Copula -이다 (-ida) in present affirmative (often dropped in casual speech). Negation with 아니다 (anida) for nouns, 않다 (anta) for verbs. Extensive light verb constructions (되다 "become," 하다 "do," 말하다 "say"). Revelation constructions strongly prefer passive forms (밝혀지다 "be revealed," 드러나다 "come to light") over simple inchoatives. Evidential marker 드러나다 specialized for discovered truth.
+
+**Oppositional structures**: Strong lexical oppositions (진실/거짓, 진짜/가짜, 맞다/틀리다) documented in F5 (20+ pairs). Morphological support through negation prefixes (부-/불-). Internal oppositional compounds (진위 "truth-or-falsehood," 허실 "empty-or-real"). Asymmetry: no agentive noun for "truth-teller" (only 거짓말쟁이 "liar" is lexicalized); color metaphors for lie types (새빨간 거짓말 "blatant lie" = red lie, 새하얀 거짓말 "white lie").
+
+---
+
+## 3. Cross-Language Summary
+
+### Recurring Convergences
+
+**1. Core truth/falsehood lexical opposition**: All eight languages show a fundamental lexical contrast between truth and falsehood terms, functioning as primary antonyms:
+- Georgian: სიმართლე/ტყუილი (simart'le/t'q'uili)
+- Yoruba: òtítọ́/irọ́
+- Finnish: totuus/valhe
+- Basque: egia/gezurra
+- Tamil: உண்மை/பொய் (uṇmai/poy)
+- Indonesian: benar/salah, kebenaran/kebohongan
+- Turkish: doğru/yanlış, gerçek/sahte (two parallel systems)
+- Korean: 진실/거짓 (jinsil/geojit), 사실/허위 (sasil/heowi)
+
+**2. Genuine/fake distinction for objects**: All eight languages show dedicated lexical contrasts for object authenticity separate from statement truth:
+- Georgian: ნამდვილი/ყალბი (namdvili/q'albi)
+- Yoruba: gidi/[expressed through negation or context]
+- Finnish: aito/vale- (prefix), aito/väärennös
+- Basque: egiazkoa/gezurrezko, benetakoa/faltsua
+- Tamil: அசல்/பொய்ப்பொருள் (acal/poypporuḷ)
+- Indonesian: asli/palsu
+- Turkish: asıl/sahte, özgün/sahte
+- Korean: 진품/위조품 (jinpum/wijopum), 진짜/가짜 (jinjja/gajja)
+
+**3. Honest character vs. lying behavior distinction**: All eight languages distinguish moral honesty (character trait) from lying (speech act):
+- Georgian: [character terms less developed; focus on truth-telling vs. lying acts]
+- Yoruba: òdodo ọkàn "righteousness of heart" / apurọ́ "liar"
+- Finnish: rehellinen "honest" / valehtelija "liar"
+- Basque: zintzoa "honest" / gezurtia "liar"
+- Tamil: நேர்மை (nērmai) "honesty" / பொய்யன் (poyyan) "liar"
+- Indonesian: jujur "honest" / pembohong "liar"
+- Turkish: dürüst "honest" / yalancı "liar"
+- Korean: 정직하다 (jeongjikada) "honest" / 거짓말쟁이 (geojinmaljaengi) "liar"
+
+**4. Productive abstract nominalization**: All eight languages show productive patterns for creating abstract quality nouns from truth-domain roots:
+- Georgian: -ობა suffix (სამართლიანობა "justice," ჭეშმარიტება "truth")
+- Yoruba: ì- prefix (ìgbàgbọ́ "belief," ìpurọ́ "lying")
+- Finnish: -uus/-yys suffix (totuus "truth," rehellisyys "honesty")
+- Basque: -tasun suffix (egiazkotasuna "truthfulness," zintzotasuna "honesty")
+- Tamil: -தன்மை (-taṉmai) suffix (உண்மைத்தன்மை "truthfulness")
+- Indonesian: ke-...-an circumfix (kebenaran "truth," kejujuran "honesty")
+- Turkish: -lık/-lik suffix (doğruluk "truth," gerçeklik "reality")
+- Korean: -성 (-seong) suffix (진실성 "truthfulness," 정직성 "honesty")
+
+**5. Verification/authentication vocabulary**: All eight languages show dedicated vocabulary for establishing truth through evidence or procedure:
+- Georgian: დადასტურება (dadast'ureba) "confirmation," გამოვლინდა (gamovlinda) "was revealed"
+- Yoruba: ìfẹ̀sẹ̀múlẹ̀ "confirmation," ẹ̀rí "witness/evidence," jẹ́rìí "to testify"
+- Finnish: todistaa "to prove," todentaa "to verify," todiste "evidence"
+- Basque: egiazkotu "to verify," egiaztagiri "certificate," egiaztatze "verification"
+- Tamil: மெய்ப்பு (meyppu) "proof," உண்மைப்படுத்து (uṇmaippaṭuttu) "to verify"
+- Indonesian: membenarkan "to confirm," validasi "validation," memvalidasi "to validate"
+- Turkish: doğrulamak "to verify," tasdik etmek "to authenticate," kanıt "evidence"
+- Korean: 확인하다 (hwaginhada) "to verify," 증명하다 (jeungmyeonghada) "to prove"
+
+**6. Revelation/discovery constructions**: All eight languages show specialized constructions for truth coming to light or being revealed, often preferring passive or intransitive forms:
+- Georgian: გამოვლინდა (gamovlinda) "was revealed" (passive preferred)
+- Yoruba: purọ́ jáde "lie emerged," rí òtítọ́ "find truth" (active forms)
+- Finnish: paljastua "to be revealed," tulla ilmi "come to light" (intransitive preferred)
+- Basque: egia atera "truth came out," erakutsi "to show" (both active and intransitive)
+- Tamil: உண்மை வெளிப்படு (uṇmai veḷippaṭu) "truth comes out" (intransitive preferred)
+- Indonesian: ternyata "it turns out," terungkap "be revealed" (ter- prefix marks discovery)
+- Turkish: ortaya çıkmak "come to light," açığa çıkmak "be exposed" (intransitive preferred)
+- Korean: 드러나다 (deureonada) "come to light," 밝혀지다 (balkhyeojida) "be revealed" (passive strongly preferred)
+
+**7. Polysemy of correctness/straightness terms**: Six of eight languages show polysemy in "correct/straight/right" terms spanning factual, moral, and spatial domains:
+- Georgian: მართალი (mart'ali) "right/correct/just/straight"
+- Yoruba: tọ́ "be straight/correct/true/direct"
+- Finnish: oikea "right/correct/straight" (also directional "right" vs. "left")
+- Basque: zuzena "straight/correct/just"
+- Tamil: சரி (cari) "correct/right/equal"
+- Turkish: doğru "true/correct/straight/direct"
+
+(Indonesian and Korean lack this specific polysemy pattern, using separate terms for spatial and epistemic correctness.)
+
+**8. Privative morphology for oppositions**: Seven of eight languages show productive privative affixation creating systematic oppositions:
+- Georgian: უ- prefix (სამართლო/უსამართლო "just/unjust")
+- Yoruba: àì- prefix (tọ́/àìtọ́ "correct/incorrect") [less productive than others]
+- Finnish: epä- prefix (tosi/epätosi, rehellinen/epärehellinen)
+- Basque: -gabe suffix (kள்ளம் கபடம் இல்லாத in Tamil shows similar pattern)
+- Tamil: -ஆமை (-āmai) classical privative (பொய்யாமை "non-falsehood" = truthfulness)
+- Indonesian: tidak- prefix in nominalizations (ketidakjujuran "dishonesty")
+- Turkish: -sız/-siz suffix (haklı/haksız, tutarlı/tutarsız)
+- Korean: 부-/불- (bu-/bul-) prefix (정확/부정확, 확실/불확실)
+
+**9. Light verb constructions**: All eight languages use light verb constructions extensively in truth-domain:
+- Georgian: გახდომა (gakhd-) "become," ყოფნა (q'op'na) "be"
+- Yoruba: ṣe "do," jẹ́ "be/affirm," bá mu "correspond"
+- Finnish: olla "be," pitää "hold," käydä "go/become"
+- Basque: izan "be," egin "do," esan "say"
+- Tamil: இரு (iru) "be," சொல் (col) "say," ஆகு (āku) "become"
+- Indonesian: menjadi "become," membuat "make," adalah "be"
+- Turkish: olmak "be," etmek "do," çıkmak "turn out," bulmak "find"
+- Korean: 되다 (doeda) "become," 하다 (hada) "do," 이다 (ida) "be"
+
+**10. Agentive nominalization asymmetry**: Seven of eight languages show systematic asymmetry in agentive nominalization:
+- **"Liar" lexicalized**: Georgian ტყუარა (t'q'uara), Yoruba apurọ́, Finnish valehtelija, Basque gezurtia, Tamil பொய்யன் (poyyan), Indonesian pembohong, Turkish yalancı, Korean 거짓말쟁이 (geojinmaljaengi)
+- **"Truth-teller" absent or periphrastic**: All languages except Tamil lack dedicated agentive nouns (Tamil has உண்மைவாதி uṇmaivāti "truth-advocate" but it's less common than liar terms)
+- This asymmetry appears cross-linguistically stable: languages readily lexicalize agents of negative behaviors but not positive ones.
+
+### Major Divergences
+
+**1. Copula requirements and negation strategies**: Languages show fundamental differences in copula patterns:
+- **Zero copula in present affirmative**: Georgian, Yoruba, Turkish, Korean, Indonesian (colloquial), Basque
+- **Obligatory copula in all tenses**: Finnish (olla required)
+- **Negative copula distinct from verbal negation**: Finnish (ei + verb vs. ei ole), Indonesian (tidak vs. bukan categorical distinction), Turkish (değil), Korean (아니다 vs. 않다), Basque (ez da)
+- **Negative particle before verb**: Yoruba (kò), Georgian (არ ar)
+
+**2. Case marking for truth-domain objects**: Languages with case systems show different patterns:
+- **Partitive for general truth**: Finnish (olla totta uses partitive; nominative for specific truths)
+- **Accusative for truth objects**: Tamil, Korean, Basque (standard object marking)
+- **No morphological case distinction**: Indonesian, Turkish (accusative not overtly marked)
+- **Locative/instrumental for manner**: Basque (-tan, -z), Tamil (-ஆக -āka), Turkish (-ca/-ça, -le/-la), Korean (-으로 -euro)
+
+**3. Register stratification depth**: Languages vary dramatically in register-based lexical variation:
+- **Minimal stratification**: Yoruba (native vocabulary throughout), Georgian (primarily native roots)
+- **Moderate stratification**: Finnish (native vs. borrowed terms), Indonesian (colloquial vs. formal variants), Basque (native with some Romance loans)
+- **Extensive stratification**: Tamil (native vs. Sanskrit loans, literary vs. colloquial), Korean (native vs. Sino-Korean, formal vs. casual), Turkish (native vs. Arabic/Persian loans for abstract/religious terms)
+
+**4. Inchoative "become true" naturalness**: Languages show different naturalness patterns for truth-domain inchoatives:
+- **Highly natural with dedicated verbs**: Turkish (gerçekleşmek "become real"), Indonesian (menjadi benar "become true")
+- **Natural but requires context**: Georgian (requires specific contexts), Finnish (käydä toteen "come true" restricted to predictions)
+- **Marked or semantically odd**: Korean (진실이 되다 marginal; speakers prefer revelation verbs), Tamil (requires explicit causation), Basque (marked construction)
+- **Revelation verbs preferred over inchoatives**: Korean, Finnish, Tamil, Georgian (all prefer "be revealed" over "become true")
+
+**5. Passive voice preference in revelation contexts**: Languages differ in voice preferences for truth revelation:
+- **Passive strongly preferred**: Finnish (passive dominant in formal registers), Korean (밝혀지다 preferred over active forms)
+- **Intransitive preferred**: Basque (egia atera "truth came out"), Tamil (வெளிப்படு veḷippaṭu "come out")
+- **Active and passive both common**: Georgian, Indonesian, Turkish
+- **Active preferred**: Yoruba (passive less grammaticalized)
+
+**6. Philosophical vs. everyday truth vocabulary**: Languages vary in whether they maintain distinct philosophical/religious truth terms:
+- **Distinct philosophical/religious terms**: Tamil (மெய் mey elevated, உண்மை uṇmai everyday; சத்தியம் cattiyam religious), Korean (진리 jilli philosophical, 사실 sasil factual), Turkish (hakikat philosophical/religious, gerçek everyday), Georgian (ჭეშმარიტება ch'eshmarit'eba elevated, სიმართლე simart'le everyday)
+- **Less differentiation**: Yoruba, Indonesian (same terms across registers), Finnish (totuus serves both), Basque (egia serves both)
+
+**7. Directness/straightness polysemy presence**: Six languages show polysemy between physical straightness and epistemic/moral correctness; two do not:
+- **Polysemous**: Georgian მართალი, Yoruba tọ́, Finnish oikea, Basque zuzena, Tamil சரி, Turkish doğru
+- **Separate terms**: Indonesian (lurus "straight" vs. benar "correct"), Korean (곧다 "straight" vs. 맞다 "correct")
+
+**8. Reduplication for intensification**: Productive in some languages, absent or limited in others:
+- **Productive**: Indonesian (benar-benar, sungguh-sungguh), Turkish (doğru dürüst), Korean (진짜 진짜), Basque (zuzen-zuzen)
+- **Limited or absent**: Georgian, Yoruba (uses ideophones instead), Finnish, Tamil
+
+**9. Borrowed vs. native vocabulary dominance**: Languages vary in reliance on borrowed terms:
+- **Heavily borrowed**: Tamil (Sanskrit loans for formal/philosophical terms), Korean (Sino-Korean dominates formal registers), Turkish (Arabic/Persian for abstract/religious terms)
+- **Moderately borrowed**: Finnish (some Latin/European loans), Indonesian (Dutch/English loans in technical domains)
+- **Primarily native**: Georgian (native roots dominate), Yoruba (native vocabulary throughout), Basque (native roots with some Romance loans)
+
+**10. Specialized compounds with "salah/wrong"**: Indonesian shows exceptional productivity:
+- Indonesian **salah** forms numerous specialized compounds: salah paham "misunderstand," salah guna "misuse," salah kaprah "common error," salah tingkah "awkward," salah langkah "misstep," salah jalan "wrong way," salah alamat "wrong address," salah urus "mismanagement," salah tafsir "misinterpret," salah ucap "slip of tongue," salah tulis "typo," salah hitung "miscalculation," salah lihat "see wrongly," salah dengar "mishear"
+- No other language shows comparable productivity with error/wrongness terms
+
+### Asymmetries, Gaps, and Irregularities
+
+**1. Agentive "truth-teller" gap**: Seven of eight languages lack dedicated agentive nouns for truth-tellers while all have lexicalized "liar" terms:
+- **Gap present**: Georgian, Yoruba, Finnish, Basque, Indonesian, Turkish, Korean
+- **Partial exception**: Tamil has உண்மைவாதி (uṇmaivāti) "truth-advocate" but it's marked and less frequent than பொய்யன் (poyyan) "liar"
+- This represents a strong cross-linguistic asymmetry: negative agent roles are more readily lexicalized than positive ones
+
+**2. Inchoative blocking with abstract truth terms**: Most languages show resistance to simple "become true" constructions with abstract truth nouns:
+- **Blocked or marginal**: Korean (진실이 되다 semantically odd), Tamil (requires causation), Georgian (requires specific contexts), Basque (marked), Finnish (restricted to predictions)
+- **Substitution strategy**: Revelation/discovery verbs preferred (Korean 드러나다, Finnish paljastua, Tamil வெளிப்படு, Georgian გამოვლინდა)
+- **Exception**: Indonesian (menjadi benar natural), Turkish (gerçekleşmek lexicalized for "become real/happen")
+
+**3. Privative "without falsehood" = "truthful"**: Classical/literary construction in only two languages:
+- **Attested**: Tamil பொய்யாமை (poyyāmai) "non-falsehood" = truthfulness (classical Tamil ethical literature), Basque vilpitön "without deceit" = sincere
+- **Not attested**: Georgian, Yoruba, Finnish, Indonesian, Turkish, Korean
+- These languages define truth positively rather than as absence of falsehood
+
+**4. Copular construction for falsity**: Asymmetry in dedicated falsity predication:
+- **No dedicated construction**: Finnish (no *olla epätotta parallel to olla totta; falsity expressed through negation or alternative predicates)
+- **Lexical alternatives available**: All other languages can predicate falsity directly (Georgian ტყუილია, Yoruba irọ́ ni, Basque gezurra da, Tamil பொய், Indonesian bohong, Turkish yanlış, Korean 거짓이다)
+
+**5. Passive voice productivity in formal registers**: Languages differ in passive voice preference:
+- **Passive strongly preferred in formal contexts**: Finnish (passive dominant), Korean (passive revelation verbs preferred), Indonesian (di- passive in formal registers)
+- **Active and passive both common**: Georgian, Turkish, Basque, Tamil
+- **Passive less developed**: Yoruba (passive constructions less grammaticalized)
+
+**6. Evidential/mirative grammaticalization**: Some languages have grammaticalized evidential markers for discovered truth:
+- **Dedicated evidential markers**: Indonesian (ternyata "it turns out"), Turkish (ternyata borrowed from Indonesian), Korean (드러나다 deureonada specialized for revelation)
+- **No dedicated evidential markers**: Georgian, Yoruba, Finnish, Basque, Tamil (use general revelation verbs without grammaticalized evidential function)
+
+**7. Degree modification of truth**: Languages differ in whether truth-domain terms accept degree modification:
+- **Freely accepts degree adverbs**: Indonesian (sangat benar "very true"), Korean (매우 정확하다 "very accurate" with adjectival forms)
+- **Restricted or marked**: Finnish (tosi can be intensified but totuus resists degree modification), Georgian (requires specific constructions)
+- **Blocked for core nominals**: Korean (*매우 진실 ungrammatical; only adjectival forms accept degree modification), Tamil (similar restrictions)
+
+**8. Softened/polite negation strategies**: Some languages show dedicated politeness strategies for negation:
+- **Dedicated softening**: Indonesian (kurang benar "not quite correct" using kurang "less/lacking"), Korean (similar patterns)
+- **No dedicated softening**: Georgian, Yoruba, Finnish, Basque, Tamil, Turkish (use standard negation; politeness expressed through other means)
+
+**9. Internal oppositional compounds**: Only two languages show compounds that internally encode truth/falsehood opposition:
+- **Attested**: Korean (진위 jinwi "truth-or-falsehood," 허실 heosil "empty-or-real"), Turkish (doğru yanlış "true-false" as fixed pair)
+- **Not attested**: Georgian, Yoruba, Finnish, Basque, Tamil, Indonesian (these languages pair terms syntactically but don't create single-word oppositional compounds)
+
+**10. Revelation verb specialization**: Languages differ in whether they have verbs specialized for truth revelation vs. general revelation:
+- **Specialized truth revelation verbs**: Korean (드러나다 deureonada, 밝혀지다 balkhyeojida strongly associated with truth/facts), Georgian (გამოვლინდა gamovlinda common in truth contexts)
+- **General revelation verbs**: Finnish (paljastua general), Indonesian (terungkap general), Turkish (ortaya çıkmak general), Basque (atera general), Tamil (வெளிப்படு general), Yoruba (jáde general)
+
+---
+
+**Summary**: The eight languages show strong convergence in core lexical oppositions (truth/falsehood, genuine/fake, honest/lying), productive abstract nominalization, and verification/revelation vocabulary. Major divergences appear in copula patterns, case marking strategies, register stratification, passive voice preferences, and the naturalness of inchoative constructions. Systematic asymmetries include the cross-linguistic gap in "truth-teller" agentive nouns and the blocking of simple "become true" constructions with abstract truth terms in most languages.

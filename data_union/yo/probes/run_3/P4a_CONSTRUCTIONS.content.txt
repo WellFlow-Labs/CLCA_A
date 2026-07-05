@@ -1,0 +1,178 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Yoruba (yo)
+
+---
+
+**Preliminary note:** Yoruba is an SVO, isolating-analytic language with post-nominal modification. "Derivation" in the morphological sense is largely limited to prefixal nominalization. Most of the patterns below are syntactic rather than morphological. Tone marks follow standard Yoruba orthography throughout.
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[NOUN] + [EVALUATIVE NOUN/ADJECTIVE]
+Post-nominal modifier; no copula required in attributive position.
+
+### Examples
+- **ènìyàn òtítọ́** → *ènìyàn òtítọ́* → "a truthful person / a person of truth"
+- **ohun ojúlówó** → *ohun ojúlówó* → "a genuine thing / the real article"
+
+### Notes
+Yoruba attributive modification is strictly post-nominal. The modifier (*òtítọ́*, *ojúlówó*, *gidi*, *burúkú*, etc.) follows the head noun directly with no intervening morphology. This pattern is productive across the truth-domain vocabulary: *ọ̀rẹ́ gidi* ("a true friend"), *ìdájọ́ tọ́* ("a correct judgment").
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+[NOUN] + **kò** + **jẹ́** + [EVALUATIVE NOUN/ADJECTIVE]
+or
+[NOUN] + **kò** + [STATIVE PREDICATE]
+Negation via preverbal *kò*; copula *jẹ́* used for nominal predicates.
+
+### Examples
+- **Kò jẹ́ ohun ojúlówó.** → *Kò jẹ́ ohun ojúlówó.* → "It is not a genuine thing. / It is not authentic."
+- **Ìdájọ́ náà kò tọ́.** → *Ìdájọ́ náà kò tọ́.* → "The judgment is not correct / just."
+
+### Notes
+For nominal predicates (*ohun ojúlówó*, *ènìyàn gidi*), negation requires the copula *jẹ́* preceded by *kò*. For stative verbal predicates (*tọ́* "to be correct", *dára* "to be good"), *kò* precedes the verb directly with no copula. The two sub-patterns are structurally distinct.
+
+---
+
+## 3. ADNOMINAL MODIFICATION (Genitive / Relational)
+
+### Pattern
+[HEAD NOUN] + [MODIFIER NOUN]
+Juxtaposition; the second noun restricts or specifies the first. No genitive particle is required for close compounds; the associative linker **ti** / **tí** appears in relative-clause modification.
+
+### Examples
+- **ẹ̀rí ojú** → *ẹ̀rí ojú* → "eyewitness evidence" (lit. "evidence of the eye")
+- **ìwádìí òtítọ́** → *ìwádìí òtítọ́* → "investigation of the truth / fact-finding"
+
+### Notes
+Yoruba adnominal modification by juxtaposition is the primary means of forming domain-specific compounds across the truth vocabulary: *ẹ̀tọ́ ènìyàn* ("human rights"), *ẹ̀rí àkọsílẹ̀* ("documentary evidence"), *ìjẹ́rìísí ìbí* ("birth certificate"). The pattern [HEAD + MODIFIER] is right-headed in the sense that the first noun names the category and the second specifies the domain.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**di** + [NOUN/ADJECTIVE]
+The verb *di* ("to become") introduces an inchoative predicate.
+
+### Examples
+- **Ó di ènìyàn òtítọ́.** → *Ó di ènìyàn òtítọ́.* → "He/she became a truthful person."
+- **Ìgbàgbọ́ rẹ̀ di lágbára.** → *Ìgbàgbọ́ rẹ̀ di lágbára.* → "His/her belief became strong."
+
+### Notes
+*di* is the standard inchoative/change-of-state verb in Yoruba and combines freely with nominal and adjectival predicates. It is not specific to the truth domain but applies across it. No dedicated inchoative morphology exists; the construction is fully periphrastic.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**mú** + [NOUN/CLAUSE] + **wá** (serial verb: "bring about")
+or
+**jẹ́ kí** + [CLAUSE] (permissive/causative: "cause/let it be that")
+or
+**fi** + [INSTRUMENT NOUN] + [VERB PHRASE] (instrumental causative)
+
+No dedicated causative morpheme exists. Causation is expressed periphrastically via serial verb constructions or instrumental *fi*.
+
+### Examples
+- **Wọ́n fi ìtànjẹ́ gbà owó rẹ̀.** → *Wọ́n fi ìtànjẹ́ gbà owó rẹ̀.* → "They used deception to take his/her money." (instrumental: deception as means)
+- **Ìdánwò ló fi ìwà ẹni hàn.** → *Ìdánwò ló fi ìwà ẹni hàn.* → "It is testing that causes a person's character to be revealed." (focus + instrumental causative)
+
+### Notes
+Yoruba has no morphological causative. The instrumental construction **fi** + [NOUN] + [VERB] is the most productive causative-adjacent pattern in the truth domain, expressing that one thing is the means by which another is brought about. The serial verb construction **mú...wá** ("bring") also functions causatively in some contexts.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**ì-** + [VERBAL BASE] (most productive)
+**ò-** + [VERBAL BASE/ROOT]
+**ẹ̀-** + [VERBAL BASE]
+**à-** + [VERBAL BASE]
+
+Prefixal nominalization is the primary derivational process. The prefix selects for the verbal base and produces an abstract nominal.
+
+### Examples
+- **ìmọ̀** → *ìmọ̀* → "knowledge" (from *mọ̀* "to know"; *ì-* + *mọ̀*)
+- **òtítọ́** → *òtítọ́* → "truth, truthfulness" (from root *tọ* "to be straight/correct"; *ò-* + *tí* + *tọ́*)
+
+### Notes
+The *ì-* prefix is the most productive nominalizer across the truth-domain vocabulary: *ìgbàgbọ́* (belief), *ìgbẹ́kẹ̀lé* (trust), *ìjẹ́rìísí* (testimony), *ìtànjẹ́* (deception), *ìdánwò* (testing), *ìdájọ́* (judgment), *ìfọwọ́sí* (authentication), *ìfarahàn* (appearance/manifestation). The *ẹ̀-* prefix produces *ẹ̀rí* (evidence) and *ẹ̀tọ́* (right/correctness). The *à-* prefix produces *àṣìṣe* (error/wrongdoing) with a resultant-state or negative-outcome reading. Negation of nominalized forms is achieved via the prefix **àì-**: *àìmọ̀* (ignorance), *àìgbàgbọ́* (unbelief), *àìgbẹ́kẹ̀lé* (unreliability).
+
+---
+
+## 7. AGENTIVE NOMINALIZATION (liar, truth-teller, witness)
+
+### Pattern
+**ẹni** + [NOUN] → contracted form **ẹlẹ́-** + [NOUN]
+or
+**ènìyàn** + [EVALUATIVE NOUN] (periphrastic; no contraction)
+
+Two sub-patterns: (a) a contracted agentive form via *ẹni* ("person/one") + noun fusion, attested specifically for *ẹ̀rí*; (b) a periphrastic pattern [*ènìyàn* + evaluative noun] used more broadly.
+
+### Examples
+- **ẹlẹ́rìí** → *ẹlẹ́rìí* → "witness" (lit. "person of evidence"; from *ẹni* + *ẹ̀rí*, contracted)
+- **ènìyàn irọ́** → *ènìyàn irọ́* → "a lying person / a liar"
+
+### Notes
+The contracted agentive form **ẹlẹ́-** + noun is attested specifically for *ẹ̀rí* → *ẹlẹ́rìí* ("witness") and extends to *ẹlẹ́rìí ojú* ("eyewitness"). This contraction is lexicalized rather than fully productive. For other truth-domain agents (liar, truthful person, deceiver), the periphrastic pattern *ènìyàn* + [noun] is used: *ènìyàn òtítọ́* ("truthful person"), *ènìyàn irọ́* ("liar"), *ènìyàn ìtànjẹ́* ("a deceptive/fraudulent person"). No single productive agentive suffix exists across the domain.
+
+---
+
+## 8. PROPOSITIONAL BELIEF / EPISTEMIC COMPLEMENT CONSTRUCTION
+
+### Pattern
+**ní ìgbàgbọ́ pé** + [CLAUSE] ("have the belief/conviction that")
+or
+**mọ̀ pé** + [CLAUSE] ("know that")
+or
+**gbàgbọ́ pé** + [CLAUSE] ("believe that")
+
+The complementizer **pé** ("that") introduces an embedded propositional clause. This is the standard construction for expressing propositional attitudes toward truth claims.
+
+### Examples
+- **Ó ní ìgbàgbọ́ pé òtítọ́ ni.** → *Ó ní ìgbàgbọ́ pé òtítọ́ ni.* → "He/she has the conviction that it is the truth."
+- **Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀.** → *Mo mọ̀ dájúdájú pé ó ṣẹlẹ̀.* → "I know for certain that it happened."
+
+### Notes
+The complementizer *pé* is obligatory in propositional belief and knowledge constructions. The epistemic intensifier *dájúdájú* ("certainly, definitely") inserts between the matrix verb and *pé*, as in *mo mọ̀ dájúdájú pé...*. Negation of propositional belief uses *kò gbàgbọ́ pé...* ("does not believe that..."). This construction type is not covered by patterns 1–7 but is highly productive in the truth domain.
+
+---
+
+## 9. EXISTENTIAL AFFIRMATION / DENIAL OF TRUTH-DOMAIN ENTITIES
+
+### Pattern
+**wà** + [LOCATIVE/CONTEXT] ("there is / it exists")
+**kò sí** + [NOUN PHRASE] ("there is no / it does not exist")
+
+The existential verb *wà* affirms presence; the negative existential *kò sí* denies it. Both are used productively to assert or deny the existence of truth, evidence, rights, or resemblance.
+
+### Examples
+- **Kò sí ẹ̀rí tó tó.** → *Kò sí ẹ̀rí tó tó.* → "There is no sufficient evidence."
+- **Ẹ̀rí wà tó fi hàn pé...** → *Ẹ̀rí wà tó fi hàn pé...* → "There is evidence that shows that..."
+
+### Notes
+This construction is the standard means of asserting or denying the existence of evidence (*ẹ̀rí*), truth (*òtítọ́*), resemblance (*ìjọra*), testimony (*ìjẹ́rìísí*), and entitlement (*ẹ̀tọ́*) in legal, moral, and everyday discourse. The emphatic particle *kankan* ("at all, whatsoever") reinforces total negation: *kò sí ìjọra kankan* ("there is no resemblance at all").
+
+---
+
+## 10. FOCUS CONSTRUCTION FOR TRUTH-DOMAIN ASSERTIONS
+
+### Pattern
+[FOCUSED ELEMENT] + **ló** (focus marker, from *ni* + *ó*) + [PREDICATE]
+
+The focus marker *ló* (a fusion of the copula *ni* and subject pronoun *ó*) fronts the element identified as the cause, agent, or defining factor. This construction is highly frequent in moral and epistemic assertions in the truth domain.
+
+### Examples
+- **Òtítọ́ ló ń gbani lọ́wọ́.** → *Òtítọ́ ló ń gbani lọ́wọ́.* → "It is truth that saves one."
+- **Ìwà rere ló ń gbani lọ́wọ́.** → *Ìwà rere ló ń gbani lọ́wọ́.* → "It is good character that saves one."
+
+### Notes
+The focus construction is pervasive in Yoruba proverbial and moral discourse and is not specific to the truth domain, but it is the standard form for asserting the primacy or causal role of truth (*òtítọ́*), knowledge (*ìmọ̀*), good character (*ìwà rere*), and testing (*ìdánwò*) in moral and epistemic contexts. It is structurally distinct from simple predication and warrants separate documentation.

@@ -1,0 +1,505 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Chinese encodes dynamic truth-related meanings: change of state (becoming true/false/accurate/distorted), causation of such states, and resistance to change (stability). The analysis draws exclusively on vocabulary documented in P1, P1b, P2a, P2b, P3, P4a, P4b, and P5. Where a dynamic expression is not attested for a given item, this is stated explicitly. Items are treated separately where their behavior differs.
+
+The primary resources available from the context for encoding dynamics are:
+
+- **Inchoative/change-of-state:** 变得 + adjective + 了; result-complement constructions (V + 成/为); the lexicalized 弄假成真; aspect marker 了
+- **Causative:** 使/让 + NP + predicate; verb + result-complement; 导致 (to lead to); 造成 (to cause/create)
+- **Stability/resistance:** 真金不怕火炼; 颠扑不破; 坚持; 经得起
+- **Completion of a process:** 经过 + process noun; 真相大白; 坐实; 属实
+
+Each subsection below addresses one dynamic type, with items treated individually where behavior differs.
+
+---
+
+## Section 1: "X becomes [truth-related state]" — Inchoative / Change of State
+
+### 1.1 General inchoative frame: 变得 + adjective + 了
+
+**Pattern:** [Subject NP] + 变得 + [truth-predicate adjective] + 了
+
+This is the general syntactic inchoative construction available for adjectival truth-predicates. As noted in P4a item 4, it is "syntactically well-formed but less common than direct predication" and is "more natural with negative-outcome predicates (失实, 失真) than with positive ones."
+
+---
+
+**Item: 失实 (shīshí)**
+
+- **Example:** 报道变得失实了。
+- **Transliteration:** Bàodào biàn de shīshí le.
+- **Translation:** "The reporting has become inaccurate / has departed from the facts."
+- **Notes:** Attested and natural. 失实 is a lexicalized negative compound encoding the change of state directly (失 = to lose/depart from; 实 = factual reality), so the inchoative meaning is already partially encoded in the item itself. The 变得…了 frame adds explicit marking of the transition. Common in journalistic and legal evaluative discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 失真 (shīzhēn)**
+
+- **Example:** 录音变得失真了。/ 历史记录变得失真了。
+- **Transliteration:** Lùyīn biàn de shīzhēn le. / Lìshǐ jìlù biàn de shīzhēn le.
+- **Translation:** "The recording has become distorted." / "The historical record has become distorted."
+- **Notes:** Attested and natural in both technical (audio/visual) and evaluative (historical, journalistic) contexts. Like 失实, the morphology of 失真 already encodes departure from a prior state (失 = to lose; 真 = genuineness/fidelity), making it particularly compatible with inchoative framing.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 真实 (zhēnshí)**
+
+- **Example:** 这部电影变得越来越真实了。
+- **Transliteration:** Zhè bù diànyǐng biàn de yuèláiyuè zhēnshí le.
+- **Translation:** "This film has become more and more realistic."
+- **Notes:** Attested in aesthetic contexts (真实感, sense of realism). The inchoative frame with 真实 is less common than with 失实/失真 because 真实 describes a positive property that is typically asserted rather than acquired. The construction is more natural with a degree modifier (越来越, more and more) than as a bare change-of-state assertion. The bare form 变得真实了 is grammatical but infrequent.
+- **Epistemic status:** [MARGINAL]
+
+---
+
+**Item: 正确 (zhèngquè)**
+
+- **Example:** 他的判断变得正确了。
+- **Transliteration:** Tā de pànduàn biàn de zhèngquè le.
+- **Translation:** "His judgment has become correct."
+- **Notes:** Grammatically well-formed but pragmatically unusual. Correctness is typically evaluated as a static property of a statement or judgment at a given moment rather than as something that changes over time. The construction is more natural in contexts of learning or revision (e.g., after correction). Not a high-frequency pattern.
+- **Epistemic status:** [MARGINAL]
+
+---
+
+**Item: 可靠 (kěkào)**
+
+- **Example:** 这个消息来源变得可靠了。
+- **Transliteration:** Zhège xiāoxi láiyuán biàn de kěkào le.
+- **Translation:** "This information source has become reliable."
+- **Notes:** Grammatically well-formed and pragmatically plausible in contexts where a source's reliability has improved over time. Not a high-frequency pattern; reliability is more typically evaluated as a stable property. Attested in contexts of institutional development or reputation change.
+- **Epistemic status:** [MARGINAL]
+
+---
+
+**Item: 诚实 (chéngshí)**
+
+- **Example:** 他变得诚实了。
+- **Transliteration:** Tā biàn de chéngshí le.
+- **Translation:** "He has become honest."
+- **Notes:** Attested and natural in moral and narrative contexts describing character change. The inchoative frame is compatible with 诚实 because honesty is understood as a character trait that can be acquired or lost. Common in moral education and narrative discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Items with no attested inchoative form:**
+
+- **真理 (zhēnlǐ):** 变得真理了 is ungrammatical; 真理 is a noun denoting an abstract principle, not an adjectival property that can be acquired. No inchoative form exists.
+- **真相 (zhēnxiàng):** 变得真相了 is ungrammatical; 真相 is a noun. The relevant dynamic for 真相 is revelation or concealment (揭露真相, 掩盖真相), not change of state. See Section 3.
+- **虚假 (xūjiǎ):** 变得虚假了 is grammatically possible but rare; 虚假 is more typically used as a static attributive modifier in legal and regulatory contexts rather than as a predicate in inchoative constructions.
+- **错误 (cuòwù):** 变得错误了 is grammatically marginal; 错误 functions primarily as a noun (an error) or attributive adjective rather than as a predicate in inchoative constructions. The relevant dynamic is 犯错误 (to commit an error) rather than becoming erroneous.
+
+---
+
+### 1.2 Lexicalized inchoative: 弄假成真
+
+**Pattern:** 弄假成真 (fixed expression)
+
+- **Example:** 两人本是演戏，没想到弄假成真，真的相爱了。
+- **Transliteration:** Liǎng rén běn shì yǎnxì, méi xiǎngdào nòng jiǎ chéng zhēn, zhēn de xiāng'ài le.
+- **Translation:** "The two were only acting, but unexpectedly what started as pretense became real — they genuinely fell in love."
+- **Notes:** Documented in P1b (Root 3, item 6), P2b item 4, and P4a item 4 as the only conventionalized inchoative form in the domain. The 成 complement encodes the result state (真, genuine/real); 弄假 encodes the initiating condition (performing or feigning something false). This is a lexicalized 成语 and is not syntactically productive; no parallel forms (e.g., *弄真成假) are attested as standard expressions.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.3 Result-complement constructions encoding change to a truth-related state
+
+**Pattern:** [Verb] + 成/为 + [truth-related noun/adjective]
+
+---
+
+**Item: 真 (zhēn) as result state**
+
+- **Example:** 假戏真做，竟然做成真的了。
+- **Transliteration:** Jiǎxì zhēn zuò, jìngrán zuò chéng zhēn de le.
+- **Translation:** "Playing a false role in earnest, it actually turned into the real thing."
+- **Notes:** The result complement 成真 (become real/genuine) is productive and attested in everyday and literary discourse. It encodes the transition from a non-genuine to a genuine state. 成真 also appears in the fixed expression 梦想成真 (dreams come true), though this is outside the strict truth-evaluation domain.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 假 (jiǎ) as result state**
+
+- **Example:** 真的东西被做成假的了。
+- **Transliteration:** Zhēn de dōngxi bèi zuò chéng jiǎ de le.
+- **Translation:** "The genuine item has been made into a fake."
+- **Notes:** Grammatically well-formed and attested in contexts of counterfeiting and falsification. The passive 被 frame is natural here because the change is typically caused by an external agent. Less common as a spontaneous change-of-state construction.
+- **Epistemic status:** [CORE]
+
+---
+
+### 1.4 Aspect marker 了 with lexicalized change-of-state compounds
+
+Several items from the context encode change of state directly in their morphology (失 = to lose/depart from), making them inherently inchoative when used as predicates with 了:
+
+- **失实了** (shīshí le): "has become inaccurate / has departed from the facts" — the 了 marks the completion of the departure.
+- **失真了** (shīzhēn le): "has become distorted / has lost fidelity" — parallel to 失实了.
+
+These are the most natural and frequent inchoative expressions in the domain because the change of state is lexically encoded rather than syntactically constructed.
+
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 2: "X becomes [non-truth / opposed state]" — Inchoative into Negative States
+
+This section addresses the specific case of transition from a truth-positive to a truth-negative state, which is the more commonly expressed direction in the data (consistent with P4a's observation that inchoative framing is "more natural with negative-outcome predicates").
+
+---
+
+### 2.1 Distortion and departure from fidelity
+
+**Items: 失真 (shīzhēn), 失实 (shīshí)**
+
+As documented in Section 1.4 above, these items lexicalize the negative inchoative directly. The following constructions are attested:
+
+- **Example:** 信号在传输过程中失真了。
+- **Transliteration:** Xìnhào zài chuánshū guòchéng zhōng shīzhēn le.
+- **Translation:** "The signal became distorted during transmission."
+- **Notes:** 失真 is used here in its technical sense (audio/signal distortion). The temporal frame 在…过程中 (during the process of) specifies when the change occurred.
+- **Epistemic status:** [CORE]
+
+---
+
+- **Example:** 事件经过多次转述后严重失实。
+- **Transliteration:** Shìjiàn jīngguò duō cì zhuǎnshù hòu yánzhòng shīshí.
+- **Translation:** "After being retold multiple times, the account of the event became seriously inaccurate."
+- **Notes:** The temporal frame 经过…后 (after) specifies the process leading to the change. 严重 (seriously) is a degree modifier attested in P2b and P5. This construction is common in journalistic and historical discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.2 Transition from genuine to counterfeit: 以假乱真
+
+**Item: 以假乱真 (yǐ jiǎ luàn zhēn)**
+
+- **Example:** 市场上出现了以假乱真的仿冒品，消费者难以辨别。
+- **Transliteration:** Shìchǎng shàng chūxiàn le yǐ jiǎ luàn zhēn de fǎngmào pǐn, xiāofèizhě nányǐ biànbié.
+- **Translation:** "Counterfeit products that pass off the fake as genuine have appeared on the market; consumers find it difficult to distinguish them."
+- **Notes:** Documented in P1b (Root 3, item 13) and P3 Group 1. This expression describes a dynamic process in which the fake is used to displace or confuse the genuine, representing a kind of epistemic change of state in the perceiver (from knowing what is genuine to being confused about it) rather than an ontological change in the object itself.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.3 Transition from honest to deceptive conduct
+
+**Item: 欺骗 (qīpiàn)**
+
+- **Example:** 他开始说真话，后来却开始欺骗大家。
+- **Transliteration:** Tā kāishǐ shuō zhēnhuà, hòulái què kāishǐ qīpiàn dàjiā.
+- **Translation:** "He started by telling the truth, but later began to deceive everyone."
+- **Notes:** The transition from honest to deceptive conduct is expressed through the temporal contrast 开始…后来 (at first…later) rather than through a morphological change-of-state marker. 欺骗 is a verbal item and does not take inchoative morphology; the change is expressed syntactically.
+- **Epistemic status:** [CORE]
+
+---
+
+### 2.4 No attested inchoative for 真理, 真相, 本质, 实质
+
+These are nouns denoting abstract entities or states of affairs rather than properties that can be acquired or lost. The relevant dynamics for these items are not inchoative but rather revelatory (truth coming to light) or concealment-based (truth being hidden). These are documented in Section 3 below.
+
+---
+
+## Section 3: "Y causes X to be [truth-related state]" — Causative Constructions
+
+### 3.1 General causative frame: 使/让 + NP + predicate
+
+**Pattern:** [Causal agent/event] + 使/让 + [NP] + [truth-predicate]
+
+As documented in P4a item 5, this is the standard periphrastic causative construction. 使 is formal; 让 is more colloquial.
+
+---
+
+**Item: 失真 (shīzhēn)**
+
+- **Example:** 反复压缩使音频严重失真。
+- **Transliteration:** Fǎnfù yāsuō shǐ yīnpín yánzhòng shīzhēn.
+- **Translation:** "Repeated compression caused the audio to become severely distorted."
+- **Notes:** Attested in technical contexts. The causal agent (反复压缩, repeated compression) is an event or process rather than a person. 使 is the appropriate formal causative coverb here. Documented in P4a item 5 as the primary attested example of causative framing in this domain.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 失实 (shīshí)**
+
+- **Example:** 主观臆断使报道严重失实。
+- **Transliteration:** Zhǔguān yìduàn shǐ bàodào yánzhòng shīshí.
+- **Translation:** "Subjective speculation caused the report to become seriously inaccurate."
+- **Notes:** Attested in journalistic and media criticism contexts. The causal agent is a cognitive or methodological failure (主观臆断, subjective speculation) rather than a deliberate act of deception.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 真实 (zhēnshí)**
+
+- **Example:** 大量第一手资料使这部纪录片更加真实。
+- **Transliteration:** Dàliàng dìyī shǒu zīliào shǐ zhè bù jìlùpiàn gèngjiā zhēnshí.
+- **Translation:** "Extensive first-hand materials made this documentary more truthful/realistic."
+- **Notes:** Attested in journalistic and aesthetic contexts. The causative frame with 真实 is more natural with a degree modifier (更加, more) than as a bare causative assertion, consistent with the observation in Section 1.1 that 真实 is more naturally modified by degree expressions in dynamic contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 可靠 (kěkào)**
+
+- **Example:** 多方核实使这一消息更加可靠。
+- **Transliteration:** Duō fāng héshí shǐ zhè yī xiāoxi gèngjiā kěkào.
+- **Translation:** "Verification from multiple sources made this piece of information more reliable."
+- **Notes:** Attested in journalistic and investigative contexts. The causal agent is a verification process (多方核实, verification from multiple sources), which is consistent with P3 Group 4's characterization of 可靠 as focused on consistency and dependability established through evidence.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 诚实 (chéngshí)**
+
+- **Example:** 良好的家庭教育使他养成了诚实的品格。
+- **Transliteration:** Liánghǎo de jiātíng jiàoyù shǐ tā yǎngchéng le chéngshí de pǐngé.
+- **Translation:** "A good family upbringing caused him to develop an honest character."
+- **Notes:** Attested in moral and educational discourse. The causative frame with 诚实 is natural because honesty is understood as a character trait that can be cultivated through upbringing or education. The result-complement 养成 (to cultivate/develop) is more specific than bare 使…诚实.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.2 Causative concealment: causing truth NOT to be known
+
+**Pattern:** [Agent] + 掩盖/隐瞒 + 真相
+
+As documented in P2b items 21 and P5 Opposition 21, the causative concealment of truth is expressed through specific verbs rather than through the 使/让 frame:
+
+---
+
+**Item: 真相 (zhēnxiàng)**
+
+- **Example:** 相关部门掩盖了真相，导致公众长期不知情。
+- **Transliteration:** Xiāngguān bùmén yǎngài le zhēnxiàng, dǎozhì gōngzhòng chángjī bù zhīqíng.
+- **Translation:** "The relevant authorities covered up the truth, causing the public to remain uninformed for a long time."
+- **Notes:** The causative chain here is: agent (相关部门) → action (掩盖真相, cover up the truth) → result (公众不知情, public uninformed). The verb 导致 (to lead to, to cause) links the concealment action to its downstream effect. This is a common construction in investigative journalism and political accountability discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+- **Example:** 谎言掩盖了真相。
+- **Transliteration:** Huǎngyán yǎngài le zhēnxiàng.
+- **Translation:** "Lies concealed the truth."
+- **Notes:** The causal agent is an abstract entity (谎言, lies) rather than a person. The 了 marks completion of the concealment. This is a common construction in moral and journalistic discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.3 Causative falsification: causing something to become false or fraudulent
+
+**Items: 伪造 (wěizào), 作假 (zuòjiǎ), 造假 (zàojiǎ)**
+
+These verbal items are themselves causative in meaning: they describe the deliberate act of causing something to be false or counterfeit. They do not require an additional causative frame.
+
+- **Example:** 他伪造了证据，使案件走向了错误的方向。
+- **Transliteration:** Tā wěizào le zhèngjù, shǐ ànjiàn zǒuxiàng le cuòwù de fāngxiàng.
+- **Translation:** "He forged the evidence, causing the case to go in the wrong direction."
+- **Notes:** 伪造 is the primary causative action; 使…走向错误的方向 expresses the downstream causal consequence. The construction chains two causative events: the forgery causes the misdirection.
+- **Epistemic status:** [CORE]
+
+---
+
+- **Example:** 数据造假导致研究结论严重失实。
+- **Transliteration:** Shùjù zàojiǎ dǎozhì yánjiū jiélùn yánzhòng shīshí.
+- **Translation:** "Data fabrication caused the research conclusions to become seriously inaccurate."
+- **Notes:** 造假 (data fabrication) is the causal event; 导致…失实 expresses the result. This construction is common in academic integrity and scientific fraud discourse. The verb 导致 (to lead to, to cause) is the standard connector between a causative event and its truth-related outcome.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.4 Causative verification: causing truth to be established or confirmed
+
+**Items: 核实 (héshí), 鉴定 (jiàndìng), 坐实 (zuòshí)**
+
+These items describe processes that cause a truth-related state to be established or confirmed.
+
+---
+
+**Item: 核实 (héshí)**
+
+- **Example:** 记者通过多方核实，最终确认了消息的真实性。
+- **Transliteration:** Jìzhě tōngguò duō fāng héshí, zuìzhōng quèrèn le xiāoxi de zhēnshíxìng.
+- **Translation:** "Through verification from multiple sources, the journalist ultimately confirmed the truthfulness of the information."
+- **Notes:** The verification process (核实) causes the establishment of a truth-related state (确认真实性, confirmed truthfulness). The prepositional frame 通过…核实 (through verification) is the standard way to express the causal role of verification in establishing truth.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 坐实 (zuòshí)**
+
+- **Example:** 新的证据坐实了之前的怀疑。
+- **Transliteration:** Xīn de zhèngjù zuòshí le zhīqián de huáiyí.
+- **Translation:** "New evidence confirmed the previous suspicions as true / nailed down the suspicions as fact."
+- **Notes:** Documented in P1b Root 2 (item 29) as a colloquial and journalistic expression meaning "to confirm or establish something as definitively true." The causal agent is evidence (证据); the result is the establishment of a previously uncertain claim as fact. 坐实 encodes both the causative action and the resulting state in a single verb.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 鉴定 (jiàndìng)**
+
+- **Example:** 经专家鉴定，该画作被确认为真迹。
+- **Transliteration:** Jīng zhuānjiā jiàndìng, gāi huàzuò bèi quèrèn wéi zhēnjì.
+- **Translation:** "Following expert authentication, the painting was confirmed as a genuine original."
+- **Notes:** The authentication process (经专家鉴定) causes the establishment of the genuine status of the object (确认为真迹). The prepositional frame 经…鉴定 (following/through appraisal) is the standard way to express the causal role of expert authentication in establishing genuineness. Documented in P2b item 82.
+- **Epistemic status:** [CORE]
+
+---
+
+### 3.5 Causative deception: causing someone to believe something false
+
+**Item: 欺骗 (qīpiàn)**
+
+- **Example:** 他用虚假信息欺骗了消费者，使他们误以为产品是真品。
+- **Transliteration:** Tā yòng xūjiǎ xìnxī qīpiàn le xiāofèizhě, shǐ tāmen wù yǐwéi chǎnpǐn shì zhēnpǐn.
+- **Translation:** "He used false information to deceive consumers, causing them to mistakenly believe the products were genuine."
+- **Notes:** The causative chain: agent (他) → instrument (虚假信息) → action (欺骗消费者) → result (使…误以为…是真品). The 使…误以为 frame expresses the epistemic result of the deception: the victim comes to hold a false belief about genuineness. This construction is common in consumer protection and legal discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+**Item: 伪装 (wěizhuāng)**
+
+- **Example:** 他伪装成记者，使相关人员误以为他有采访资格。
+- **Transliteration:** Tā wěizhuāng chéng jìzhě, shǐ xiāngguān rényuán wù yǐwéi tā yǒu cǎifǎng zīgé.
+- **Translation:** "He disguised himself as a journalist, causing the relevant personnel to mistakenly believe he had press credentials."
+- **Notes:** The causative chain: agent → action (伪装成记者) → result (使…误以为). The 伪装成 construction (documented in P2b item 84) is the standard way to express the adoption of a false identity; the downstream epistemic effect on others is expressed by 使…误以为.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 4: Stability and Resistance to Change
+
+This section documents expressions from the context that encode the stability of truth-related states — resistance to falsification, distortion, or challenge.
+
+---
+
+### 4.1 真金不怕火炼 (zhēnjīn bù pà huǒ liàn)
+
+- **Example:** 真金不怕火炼，他的清白终将得到证明。
+- **Transliteration:** Zhēnjīn bù pà huǒ liàn, tā de qīngbái zhōng jiāng dédào zhèngmíng.
+- **Translation:** "True gold fears no fire — his innocence will ultimately be proven."
+- **Notes:** Documented in P1b (Root 1, item 19) and P5 Opposition 36 as a proverb asserting that what is genuinely good or authentic will prove itself under scrutiny or adversity. The stability encoded here is ontological: genuine quality is inherently resistant to tests that would expose counterfeits. Used in moral, legal, and commercial discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.2 颠扑不破的真理 (diānpū bùpò de zhēnlǐ)
+
+- **Example:** 实践是检验真理的唯一标准，这是颠扑不破的真理。
+- **Transliteration:** Shíjiàn shì jiǎnyàn zhēnlǐ de wéiyī biāozhǔn, zhè shì diānpū bùpò de zhēnlǐ.
+- **Translation:** "Practice is the sole criterion for testing truth — this is an indestructible truth."
+- **Notes:** Documented in P2b item 28 as a fixed attributive construction asserting that a principle is absolutely and permanently valid. The stability encoded here is epistemic and logical: the truth-principle cannot be overturned by argument or evidence. Common in political and philosophical rhetoric.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.3 坚持真理 (jiānchí zhēnlǐ)
+
+- **Example:** 即使面对压力，他依然坚持真理，不肯妥协。
+- **Transliteration:** Jíshǐ miànduì yālì, tā yīrán jiānchí zhēnlǐ, bù kěn tuǒxié.
+- **Translation:** "Even under pressure, he still upheld the truth and refused to compromise."
+- **Notes:** Documented in P2b item 27 as a verb-object collocation describing the commitment to maintaining a position that is objectively correct under pressure. The stability here is agentive: a person actively maintains their commitment to truth against forces that would cause them to abandon it.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.4 真实性经得起检验
+
+- **Example:** 这份报告的真实性经得起任何检验。
+- **Transliteration:** Zhè fèn bàogào de zhēnshíxìng jīng de qǐ rènhé jiǎnyàn.
+- **Translation:** "The truthfulness of this report can withstand any scrutiny."
+- **Notes:** The construction 经得起 + [test/scrutiny] (to be able to withstand, to stand up to) expresses resistance to challenge. Applied to 真实性 (truthfulness as a property), it asserts that the property is stable under examination. This construction is productive with truth-domain property nouns (真实性, 可靠性) and parallels the proverb 真金不怕火炼 in its logic.
+- **Epistemic status:** [CORE]
+
+---
+
+### 4.5 准确无误 (zhǔnquè wúwù)
+
+- **Example:** 经过反复核查，数据准确无误。
+- **Transliteration:** Jīngguò fǎnfù héchá, shùjù zhǔnquè wúwù.
+- **Translation:** "After repeated checking, the data is accurate and without error."
+- **Notes:** Documented in P2b item 41 as a fixed compound predicate meaning "completely accurate and free from error." The 无误 component (without error) encodes the absence of any deviation from accuracy, implying stability of the accurate state. Common in technical, legal, and administrative contexts.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 5: Completion and Revelation — Truth Coming to Light
+
+This section documents expressions from the context that encode the completion of a process by which truth becomes known or established, which is a distinct dynamic type from simple change of state or causation.
+
+---
+
+### 5.1 真相大白 (zhēnxiàng dàbái)
+
+- **Example:** 经过长达三年的调查，案件真相终于大白。
+- **Transliteration:** Jīngguò cháng dá sān nián de diàochá, ànjiàn zhēnxiàng zhōngyú dàbái.
+- **Translation:** "After an investigation lasting three years, the truth of the case finally came to light."
+- **Notes:** Documented in P1b (Root 1, item 6) and P5 Opposition 30 as a fixed phrase describing the moment when concealed facts are fully exposed. The temporal frame 经过…后/终于 (after…finally) is the standard way to express the completion of the revelatory process. The 大白 component encodes both the completeness (大, greatly) and the clarity (白, clear/white) of the revelation.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.2 真相大白 vs. 真相不明 (dynamic contrast)
+
+- **Example:** 事发初期真相不明，经过调查后真相大白。
+- **Transliteration:** Shì fā chūqī zhēnxiàng bù míng, jīngguò diàochá hòu zhēnxiàng dàbái.
+- **Translation:** "In the early stages after the incident, the truth was unclear; after investigation, the truth came to light."
+- **Notes:** This construction explicitly encodes the dynamic transition from epistemic uncertainty (真相不明) to epistemic clarity (真相大白) through an intervening process (经过调查, through investigation). Documented in P5 Opposition 30 as a contrasting pair. The construction is common in journalistic narrative of investigative processes.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.3 属实 as completion marker
+
+- **Example:** 经调查，举报内容属实。
+- **Transliteration:** Jīng diàochá, jǔbào nèiróng shǔshí.
+- **Translation:** "Following investigation, the content of the report has been confirmed as accurate."
+- **Notes:** Documented in P1b Root 2 (item 26) as a legal and administrative predicate meaning "confirmed as factually accurate." The prepositional frame 经…(调查/核实/鉴定) (following/through investigation/verification/appraisal) is the standard way to express the completion of a verification process that results in the establishment of a truth-related state. 属实 encodes the completed outcome.
+- **Epistemic status:** [CORE]
+
+---
+
+### 5.4 坐实 as completion of confirmation
+
+- **Example:** 随着更多证据浮出水面，之前的怀疑被彻底坐实。
+- **Transliteration:** Suízhe gèng duō zhèngjù fúchū shuǐmiàn, zhīqián de huáiyí bèi chèdǐ zuòshí.
+- **Translation:** "As more evidence came to the surface, the previous suspicions were completely confirmed as fact."
+- **Notes:** Documented in P1b Root 2 (item 29). The passive 被 frame is natural here because the confirmation is caused by external evidence rather than by the agent's own action. 彻底 (completely, thoroughly) is a degree modifier that intensifies the completeness of the confirmation. Common in journalistic and investigative discourse.
+- **Epistemic status:** [CORE]
+
+---
+
+## Section 6: Summary of Dynamic Patterns
+
+| Dynamic Type | Primary Expressions | Items Most Productive | Items with No Attested Form |
+|---|---|---|---|
+| **Inchoative (syntactic)** | 变得 + adjective + 了 | 失实, 失真, 诚实 | 真理, 真相, 本质, 实质 |
+| **Inchoative (lexicalized)** | 失实了, 失真了; 弄假成真; 成真 | 失实, 失真, 真 (as result state) | 正确, 错误, 虚假 |
+| **Causative (使/让 frame)** | 使/让 + NP + predicate | 失真, 失实, 真实, 可靠, 诚实 | 真理, 真相 (as direct objects of 使) |
+| **Causative falsification** | 伪造, 造假, 作假 + 导致/使 | 伪造, 造假, 作假 | — |
+| **Causative concealment** | 掩盖/隐瞒 + 真相 + 导致 | 真相 | — |
+| **Causative verification** | 经过核实/鉴定; 坐实; 通过…确认 | 核实, 鉴定, 坐实 | — |
+| **Causative deception** | 欺骗/伪装 + 使…误以为 | 欺骗, 伪装 | — |
+| **Stability/resistance** | 真金不怕火炼; 颠扑不破; 坚持真理; 经得起检验; 准确无误 | 真理, 真实性, 可靠性 | — |
+| **Completion/revelation** | 真相大白; 属实; 坐实; 经过…后 | 真相, 核实, 鉴定 | — |
+
+---
+
+## Cross-cutting Observations
+
+**1. Asymmetry between positive and negative inchoative.** The data consistently supports the observation from P4a that inchoative framing is more natural with negative-outcome predicates (失实, 失真) than with positive ones (真实, 正确). This asymmetry reflects a general pattern: truth-positive states are typically asserted as static properties, while their loss or departure is more commonly expressed as a dynamic event. The morphology of 失实 and 失真 (失 = to lose/depart from) directly encodes this asymmetry.
+
+**2. Causative constructions are more productive than inchoative ones.** The data shows a richer set of causative expressions than inchoative ones. This reflects the domain's strong orientation toward agency: truth is typically revealed, concealed, verified, or falsified by agents, rather than simply changing state spontaneously. The verb 导致 (to lead to, to cause) is the standard connector between a causative event and its truth-related outcome.
+
+**3. Stability expressions are concentrated in the 真理 and 真实性 domains.** Expressions of resistance to change (颠扑不破, 真金不怕火炼, 经得起检验) cluster around abstract truth-principles (真理) and truth-as-property (真实性, 可靠性) rather than around specific factual claims. This reflects the philosophical and rhetorical function of stability claims: they are made about principles and properties, not about individual statements.
+
+**4. Completion expressions are concentrated in the investigative domain.** Expressions encoding the completion of a truth-establishing process (真相大白, 属实, 坐实, 经过核实) cluster around the investigative and verification domain (P3 Group 7). This reflects the domain's strong association with journalistic, legal, and forensic processes in which the establishment of truth is a procedural outcome rather than a simple assertion.
+
+**5. The 经过 + process noun frame is the standard way to express the causal role of a process in establishing a truth-related state.** This frame (经过核实, 经过鉴定, 经过调查) appears across multiple dynamic types (causative verification, completion/revelation) and is the most productive single construction for encoding the relationship between a truth-establishing process and its outcome.

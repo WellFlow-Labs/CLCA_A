@@ -1,0 +1,112 @@
+# CLCA Protocol v3.4 — Construction Equivalence & Missingness Analysis
+# Language: Georgian (ka)
+# Step: I1
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Prenominal adjective + noun (case-agreeing); predicative adjective + enclitic copula -a / full copula aris | ჭეშმარიტი ამბავი (č̣ešmariti ambavi, "a true account"); მართალია (martalia, "it is true"); ყალბი დოკუმენტი (q̇albi dokumenti, "a forged document") | Fully attested; both attributive and predicative sub-patterns documented | None |
+| **ADNOM** | Genitive nominal (-is/-s suffix) + head noun; resultative participial adjective (-ebul-) in attributive position | სიმართლის დადგენა (simarṭlis dadgena, "establishment of the truth"); დადასტურებული (dadasturebuli, "confirmed, verified") | Fully attested; genitive pattern is the most productive multi-word construction in this domain | None |
+| **BECOME** | Predicative result verb (gamodga, aġmočnda); inchoative -deba suffix on mart- root; completive preverb ga- + -deba | მართალი გამოდგა (martali gamodga, "turned out to be right"); ის მართლდება (is martldeba, "he is being vindicated"); გამართლდება (gamartldeba, "will be vindicated") | Partially attested; -deba inchoative restricted to mart- root; gamodga/aġmočnda cover other adjectives | Partial: inchoative morphology not productive across full adjective class (namdvili, q̇albi, č̣ešmariti lack -deba forms) |
+| **REVELATION** | Idiomatic event verb construction: simartle + gamovida; resultative verb gamoašk'aravda with truth/falsity subject | სიმართლე გამოვიდა (simartle gamovida, "the truth came out"); სიყალბე გამოაშკარავდა (siq̇albe gamoašk'aravda, "the fraud was exposed") | **SUBSTITUTED BY REVELATION** for BECOME where inchoative morphology is absent; gamovida and gamoašk'aravda are the primary expressions for truth/falsity transitioning from hidden to known | Substitution documented; no morphological gap where substitution is available |
+| **CAUSATION (factual)** | Preverb ga-/da- + root + -eba verbal noun / finite transitive verb; ergative agent | მან დოკუმენტი გაყალბა (man dokumenti gaq̇alba, "he falsified the document"); დაზუსტება (dazusteba, "making precise"); გაყალბება (gaq̇albeba, "forgery, the act of falsifying") | Attested for q̇alb- and zust- roots via lexicalized preverb formations; not a productive causative pattern applied to truth-domain adjectives as a class | Partial: no synchronically productive causative morpheme across the full adjective class; attested forms are lexicalized |
+| **CAUSATION (character)** | Agentive nominals: mt'q̇uari / mt̕q̇uani ("liar"); gamaq̇albebeli ("forger"); tvaltmaqci ("deceiver"); predicative use of martali as nominal | ის მტყუანია (is mt̕q̇uania, "he is a liar"); გამაყალბებელი (gamaq̇albebeli, "forger, falsifier"); თვალთმაქცი (tvaltmaqci, "deceiver, hypocrite") | Attested for falsity/deception roles; no common lexicalized agentive nominal for "truth-teller"; concept expressed through martali used nominally or verbal periphrasis (simartle ambobs) | Asymmetric lexical gap: falsity/deception roles have dedicated agentive nominals; truth-telling role does not |
+| **VERIFICATION** | Resultative participial attribution (-ebul-): dadasturebuli, damt'k'icebuli; genitive modification: mt'k'icebis t'virti; predicative truth-assertion: simarṭles vambob | დადასტურებული (dadasturebuli, "confirmed, verified"); მტკიცების ტვირთი (mt'k'icebis t'virti, "burden of proof"); სიმართლეს ვამბობ (simarṭles vambob, "I am telling the truth") | Attested through resultative participial and genitive nominal constructions; no dedicated single-word verification verb documented in P4a/P4b data | Lexical gap: no dedicated single-word verification verb; construction-level expression available |
+| **DISCONFIRMATION** | Analytic negation: ar aris + adjective/nominal; ara- prefix on adjective; resultative participial of falsification: gaq̇albebuli | დამაჯერებელი არ არის (damajerebeliˈ ar aris, "it is not convincing"); არასწორი პასუხი (arasc̣ori pasuxi, "an incorrect answer"); გაყალბებული (gaq̇albebuli, "falsified, forged") | Attested; analytic negation (ar aris) and morphological negation (ara-) both available; gaq̇albebuli encodes the resultant state of disconfirmation through falsification | No gap; VERIFICATION and DISCONFIRMATION do not share the same construction (see §2) |
+| **NEGATION** | Morphological: ara- prefix (compositional); u-...-o / u- privative prefix (lexicalized); Analytic: ar + aris (predicative negation) | არასწორი (arasc̣ori, "incorrect"); უზუსტო (uzusto, "inaccurate"); უტყუარი (uẗq̇uari, "infallible, lit. without lie"); სიცრუე არ არის (sicrue ar aris, "it is not a lie") | Both morphological and analytic strategies fully attested; the two morphological strategies (ara- vs. u-) are non-interchangeable: ara- yields compositional negations, u- yields lexicalized forms; enclitic -a copula categorically excluded under negation | None; both strategies documented as productive |
+| **NOMINALIZATION** | si-...-e circumfix (simartle, siq̇albe, sizuste, sicrue); -eba suffix (č̣ešmariteba, gaq̇albeba, gamartleba); -oba suffix (namdviloba, gulc̣rpelobaˈ, avtentiuroba) | სიმართლე (simartle, "truth"); ჭეშმარიტება (č̣ešmariteba, "truthfulness, veracity"); ნამდვილობა (namdviloba, "authenticity") | Fully attested across three non-interchangeable patterns; register differentiation documented (si-...-e: colloquial/everyday; -eba: formal/philosophical/legal; -oba: formal/technical, property-of-entity reading) | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+The data show that Georgian does not have a single grammaticalized inchoative construction covering the full truth-domain adjective class. The -deba inchoative suffix is attested only on the mart- root (martldeba, gamartldeba). For the remaining truth-domain adjectives (namdvili, q̇albi, č̣ešmariti) and for the abstract noun simartle, the language uses revelation-type constructions instead: simartle gamovida ("the truth came out") and siq̇albe gamoašk'aravda ("the fraud was exposed"). These constructions encode the transition from a hidden or unknown state to a known or visible one, which is the functional equivalent of "X becomes known to be true/false." They are not morphologically inchoative but function as the primary expressions for this semantic role. The substitution is systematic: where -deba is unavailable, a revelation verb fills the slot.
+
+The adessive + motion verb construction (siq̇albeze c̣asvla, "resorting to falsehood") covers a distinct sub-case: volitional entry into a state of falsity. This is rated [MARGINAL] and is restricted to contexts of deliberate deceptive behavior. It does not substitute for BECOME in the same way as the revelation constructions.
+
+### 2.2 DISCOVERY does not substitute for CAUSATION
+
+No evidence in the P4a/P4b data indicates that a discovery-type construction substitutes for CAUSATION in Georgian. The causative-resultative formations (gaq̇albeba, gasc̣oreba, dazusteba, gamarṭleba) are lexicalized preverb + root + -eba forms that encode caused change of state directly. The agent is marked in the ergative case in the aorist series. These are not discovery constructions. The absence of a productive causative morpheme across the full adjective class is noted, but the individual lexicalized forms cover the most semantically central causative meanings in this domain.
+
+### 2.3 NEGATION: analytic vs. morphological
+
+Georgian employs both analytic and morphological negation strategies in this domain, and they are not freely interchangeable. The morphological strategies divide into two non-interchangeable sub-types:
+
+- **ara- prefix**: productive, compositional negation of adjectives (arasc̣ori, aragulc̣rpeli). Yields negations whose meanings are predictable from the components.
+- **u-...-o / u- privative prefix**: produces lexicalized adjectives with meanings that are not fully predictable from the components (uẗq̇uari "infallible" rather than simply "not lying"; usamart̕lo "unjust" rather than simply "without justice").
+
+The analytic strategy (ar + aris) is obligatory in predicative negation. The enclitic -a copula, which is the default in affirmative predicative constructions, is categorically excluded under negation. This is a morphosyntactic restriction documented in P4b as applying across all truth-domain predicates without exception.
+
+### 2.4 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is expressed primarily through the resultative participial pattern (-ebul-: dadasturebuli, damt'k'icebuli) and through genitive nominal constructions (mt'k'icebis t'virti). DISCONFIRMATION is expressed through analytic negation (ar aris), morphological negation (ara-), and the resultative participial of falsification (gaq̇albebuli). The two operators use structurally distinct constructions. The resultative participial pattern (-ebul-) is shared in the sense that both dadasturebuli (verification) and gaq̇albebuli (disconfirmation through falsification) use the same morphological template, but they apply to different verbal bases and encode opposite semantic outcomes.
+
+### 2.5 Asymmetry between truth-domain and falsity-domain constructions
+
+Several asymmetries are observable in the data:
+
+**Discourse-framing constructions** are attested only for simartle (simartle rom vt̕q̇vat̕; simartle isaa, rom...). No structural parallel in the falseness domain is documented. This is an asymmetry in the discourse-framing operator: the truth side has dedicated parenthetical and framing constructions; the falsity side does not.
+
+**The concessive formula** (martalia, magram...) is specific to martali. Neither č̣ešmariteba nor simartle participates in this formula, and no parallel falsity-domain concessive formula is attested.
+
+**Agentive nominals** are more developed on the falsity/deception side: mt'q̇uari, mt̕q̇uani, gamaq̇albebeli, and tvaltmaqci are all attested as common lexicalized agentive nominals. On the truth side, no common single-word agentive nominal for "truth-teller" is documented; the concept requires either the adjective martali used nominally or a verbal periphrasis (simartle ambobs, "tells the truth"; simartlis mtqveli, "one who tells the truth").
+
+**Inchoative morphology** is attested only for the mart- root (-deba forms). No inchoative morphological forms are attested for namdvili, q̇albi, or č̣ešmariti. The revelation constructions (gamovida, gamoašk'aravda) cover both truth and falsity sides, partially compensating for this asymmetry.
+
+### 2.6 Light verbs as semantic carriers
+
+In the predicative truth-assertion constructions, the speech verb (ambobs, tkva) functions as a light verb carrying the assertion operator, while the truth-domain nominal (simarṭle in the dative) carries the semantic content. The construction simarṭles vambob ("I am telling the truth") is syntactically a verb + dative object construction, but functionally it operates as a first-person truth-assertion predicate. The dative case on the truth noun is structurally obligatory and is not interchangeable with other cases in this construction.
+
+Similarly, in the genitive modification constructions (simarṭlis dadgena, mt'k'icebis t'virti), the head nominal (dadgena "determination," t'virti "burden") functions as the syntactic head while the truth-domain genitive nominal specifies the semantic content. These multi-word expressions behave syntactically as noun phrases.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **BECOME (full class)**: The inchoative -deba construction is structurally available but restricted to the mart- root. No productive inchoative morphological construction applies across the full truth-domain adjective class (namdvili, q̇albi, č̣ešmariti lack attested -deba forms). This is a partial structural gap: the construction exists but is not generalized.
+
+- **CAUSATION (productive morphological pattern across adjective class)**: No synchronically productive causative morpheme or construction applies to truth-domain adjectives as a class. The attested causative-resultative forms (gaq̇albeba, gasc̣oreba, dazusteba, gamarṭleba) are lexicalized items, not instances of a productive rule. Rated [UNCERTAIN] in P4b. This is a partial structural gap at the class level; individual lexical items cover the most central meanings.
+
+### 3.2 Lexical Gaps
+
+- **"Truth-teller" agentive nominal**: No common single-word lexicalized agentive nominal for the role of "truth-teller" is attested. The concept is expressed through martali used nominally or through verbal periphrasis (simartle ambobs; simartlis mtqveli). This is a lexical gap on the truth side of the agentive nominal paradigm.
+
+- **Dedicated single-word verification verb**: No dedicated single-word verification verb is documented in the P4a/P4b data. Verification meaning is expressed through the resultative participial construction (dadasturebuli) and genitive nominal constructions (mt'k'icebis t'virti). This is a lexical gap at the verb level; construction-level expression is available.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from the P4a/P4b data. All ten CLCA operators are expressible in Georgian, either through direct constructions or through documented substitutions. No operator is blocked at the conceptual level.
+
+### 3.4 Asymmetric Gaps
+
+- **Discourse-framing constructions**: Attested only for simartle (truth side). No parallel construction documented for the falsity domain. This is an asymmetric gap: the truth side has dedicated discourse-framing operators; the falsity side does not.
+
+- **Concessive formula**: Attested only for martali. No parallel falsity-domain concessive formula is documented. Asymmetric gap on the truth side (only one truth-domain adjective participates; no falsity-domain parallel).
+
+- **Agentive nominals**: Multiple common lexicalized agentive nominals attested for falsity/deception roles (mt'q̇uari, mt̕q̇uani, gamaq̇albebeli, tvaltmaqci). No common lexicalized agentive nominal for the truth-telling role. Asymmetric lexical gap on the truth side.
+
+- **Inchoative morphology**: -deba inchoative attested only for mart- root. No inchoative morphological forms attested for namdvili, q̇albi, or č̣ešmariti. Asymmetric partial structural gap: mart- root has inchoative morphology; other truth-domain adjectives do not.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Both prenominal attributive and predicative sub-patterns attested; productive across all truth-domain adjectives; no register restriction on core forms |
+| **ADNOM** | **Fully available** | Genitive modification is the most productive multi-word construction in this domain; resultative participial (-ebul-) also available for attributive use |
+| **BECOME** | **Available with substitution** | -deba inchoative morphologically available but restricted to mart- root; REVELATION constructions (gamovida, gamoašk'aravda) substitute for BECOME across the remaining adjective class |
+| **REVELATION** | **Fully available** | Attested through gamovida (truth coming out) and gamoašk'aravda (fraud exposed); covers both truth and falsity sides; functions as primary expression for truth/falsity transitioning from hidden to known |
+| **CAUSATION (factual)** | **Partially available** | Lexicalized preverb + root + -eba forms cover the most central meanings (gaq̇albeba, gasc̣oreba, dazusteba, gamarṭleba); no productive causative morpheme applies across the full adjective class |
+| **CAUSATION (character)** | **Available with substitution** | Falsity/deception roles: fully available through lexicalized agentive nominals (mt'q̇uari, mt̕q̇uani, gamaq̇albebeli, tvaltmaqci); truth-telling role: **NO COMMON EXPRESSION — circumlocution required** (martali used nominally or verbal periphrasis) |
+| **VERIFICATION** | **Partially available** | Expressed through resultative participial (-ebul-: dadasturebuli, damt'k'icebuli) and genitive nominal constructions (mt'k'icebis t'virti); no dedicated single-word verification verb documented |
+| **DISCONFIRMATION** | **Fully available** | Analytic negation (ar aris), morphological negation (ara-), and resultative participial of falsification (gaq̇albebuli) all attested; constructions are structurally distinct from VERIFICATION constructions |
+| **NEGATION** | **Fully available** | Both morphological (ara- compositional; u- lexicalized) and analytic (ar aris) strategies attested; the two morphological strategies are non-interchangeable; enclitic -a copula categorically excluded under negation |
+| **NOMINALIZATION** | **Fully available** | Three non-interchangeable patterns attested (si-...-e circumfix; -eba suffix; -oba suffix) with documented register and semantic differentiation; all three productive in the truth domain |

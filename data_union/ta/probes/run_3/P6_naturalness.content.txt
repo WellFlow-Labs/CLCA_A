@@ -1,0 +1,406 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Tamil (ta)
+
+---
+
+**Transliteration standard:** ISO 15919 (applied consistently throughout)
+
+**Scope note:** This step documents how Tamil encodes dynamic meanings — becoming, causing, maintaining, and losing truth-related states — using only vocabulary attested in the CONTEXT. Each truth-domain term is treated separately where behavior differs. Where no common expression exists, this is stated explicitly. Auxiliary verbs, aspect markers, tense suffixes, and function words are added as needed to form natural finite constructions.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 Truth / *uṇmai* — becoming known, becoming established
+
+**Pattern:** *uṇmai* + motion-perception verb (*veḷippaṭu*, *teriya va*)
+
+The CONTEXT documents two conventionalized constructions for truth transitioning from concealment to disclosure. These are the primary Tamil expressions for "truth becoming [known/revealed]."
+
+**Attested expressions:**
+
+- **உண்மை வெளிப்பட்டது** / *uṇmai veḷippaṭṭatu*
+  "The truth came to light / The truth became revealed"
+  [CORE] — P2b Construction 1.3; P3 Group 2; P5 Opposition 12
+  *veḷippaṭu* (to emerge, become visible) is the most conventionalized verb for this meaning.
+
+- **உண்மை தெரிய வந்தது** / *uṇmai teriya vantatu*
+  "The truth became known / The truth came out"
+  [CORE] — P2b Construction 1.5; P3 Group 2
+  Slightly more colloquial than *veḷippaṭṭatu*; the purposive-resultative pattern *teri* + *va* expresses the coming-to-be-known of truth.
+
+**Note on *-āka āku*:** The general inchoative pattern *X-āka āku* (to become X) is available in Tamil but is documented in P4a (§4) as "less idiomatic for this semantic field." No attested example of *uṇmaiyāka āṉatu* (it became true) as a common expression appears in the CONTEXT. The motion-perception constructions above are the natural forms.
+
+---
+
+### 1.2 Falsehood / *poy* — no common "becoming false" expression identified
+
+The CONTEXT does not document a conventionalized expression for something "becoming false" or "becoming a lie." The *poy* vocabulary is used to characterize existing states (something *is* false) or ongoing actions (someone *is lying*), not transitions into falsity.
+
+**(no common expression for "X becomes false / becomes a lie" identified in the CONTEXT)**
+
+---
+
+### 1.3 Honesty / *nērmai* — no common inchoative expression identified
+
+The CONTEXT documents *nērmai* in evaluative, adverbial, and privative constructions but does not document a conventionalized expression for a person or conduct "becoming honest." The concept would be expressed periphrastically (e.g., *nērmayāka māṟiṉāṉ* — he changed to being honest, using the general change verb *māṟu*), but no such form appears in the CONTEXT as an attested expression.
+
+**(no common inchoative expression for *nērmai* identified in the CONTEXT)**
+
+---
+
+### 1.4 Justice / *niyāyam* — prevailing as a dynamic state
+
+**Pattern:** *niyāyam* + *vel* (to win, prevail)
+
+- **நியாயம் வெல்லும்** / *niyāyam vellum*
+  "Justice will prevail / Right will triumph"
+  [CORE] — P2b Construction 14.4; P5 Opposition 20
+  This is the primary dynamic expression for justice transitioning to a state of triumph or establishment. *vel* (to win, prevail) encodes the movement from a contested state to a victorious one.
+
+**Note:** The contrasting expression *நியாயம் கிடைக்கவில்லை* / *niyāyam kiṭaikkavil̲l̲ai* (justice was not obtained) encodes the failure of this transition — justice not arriving at the state of being received. See §3.2 below.
+
+---
+
+### 1.5 Trust / *nampikkai* — trust being instilled (inchoative-causative)
+
+The CONTEXT documents one expression that encodes the coming-into-being of trust as a state:
+
+- **நம்பிக்கை ஊட்டுதல்** / *nampikkai ūṭṭutal*
+  "Instilling confidence, inspiring trust, building faith"
+  [CORE] — P1b Root 2, item 18
+  The verb *ūṭṭu* (to instill, feed) encodes the causation of a trust-state coming into being in another person. This is simultaneously a causative and an inchoative expression; see §2.3 below.
+
+---
+
+### 1.6 Correctness / *cari* — something being corrected (transition from wrong to right)
+
+**Pattern:** *tavaṟu* + *tiruttu* (to correct, rectify)
+
+- **தவறை திருத்திக்கொண்டான்** / *tavaṟai tiruttikkōṇṭāṉ*
+  "He corrected his mistake / He rectified the error"
+  [CORE] — P2b Construction 6.3
+  The reflexive *-kkō* indicates self-directed correction; the transition is from a state of error (*tavaṟu*) to a state of correctness (*cari*). The verb *tiruttu* encodes the change.
+
+- **சரி செய்துவிட்டார்கள்** / *cari ceytuviṭṭārkaḷ*
+  "They have fixed it / They have corrected it / They have set it right"
+  [CORE] — P2b Construction 5.4
+  The completive *viṭu* signals that the transition to correctness is finished. The light verb *cey* (to do/make) with *cari* as nominal encodes the bringing-about of a correct state.
+
+---
+
+## 2. CAUSING A TRUTH-RELATED STATE
+
+### 2.1 Causing truth to be established / authenticated — *uṇmaippaṭuttu*
+
+**Pattern:** *uṇmai* + causative *-paṭuttu-*
+
+- **உண்மைப்படுத்துதல்** / *uṇmaippaṭuttutal*
+  "Authentication, verification, substantiation" (the act of causing something to be established as true)
+  [MARGINAL] — P1 item 24; P2a item 1.6; P4a §5
+  The causative suffix *-paṭuttu-* (from *paṭu* — to undergo/become) encodes causing a state of truth or genuineness to be established. Restricted to formal and administrative registers; attested specifically for *uṇmai* but not productive across the broader truth-domain vocabulary.
+
+- **ஆதாரத்தை உண்மைப்படுத்து** / *ātāratai uṇmaippaṭuttu*
+  "Authenticate / substantiate the evidence"
+  [MARGINAL] — P2a item 1.7; P4a §5
+  The finite verb form used in administrative and legal instructions.
+
+- **உண்மைப்படுத்தப்பட்ட ஆவணம்** / *uṇmaippaṭuttap-paṭṭa āvaṇam*
+  "An authenticated document"
+  [MARGINAL] — P2a item 24.1
+  Passive past participial: the document has been caused to be in a state of established genuineness.
+
+**Note:** The CONTEXT explicitly states (P4a §5) that this causative pattern is **not productive across the full truth-domain vocabulary**. No common *poyppaṭuttu*, *nērmaipaṭuttu*, or *niyāyappaṭuttu* is attested.
+
+---
+
+### 2.2 Causing truth to be concealed — *maṟai*, *mūṭu*
+
+**Pattern:** Agent + *uṇmaiyai* (accusative) + *maṟai* / *mūṭi maṟai*
+
+- **உண்மை மறைக்கப்பட்டது** / *uṇmai maṟaikkap-paṭṭatu*
+  "The truth was concealed / The truth was suppressed" (passive)
+  [CORE] — P2b Construction 1.4; P3 Group 2; P5 Opposition 12
+  The passive encodes that an agent caused the truth to be in a concealed state.
+
+- **உண்மையை மூடி மறைத்தார்கள்** / *uṇmaiyai mūṭi maṟaittārkaḷ*
+  "They covered up the truth / They concealed the truth (by covering it)"
+  [CORE] — P2b Construction 1.7
+  The compound verb *mūṭu* + *maṟai* (cover + conceal) encodes thoroughness of the causation of concealment. Active construction with explicit agent.
+
+---
+
+### 2.3 Causing trust to come into being — *nampikkai ūṭṭu*
+
+**Pattern:** Agent + *nampikkai* + *ūṭṭu* (to instill, feed)
+
+- **மக்களுக்கு நம்பிக்கை ஊட்டுதல்** / *makkaḷukku nampikkai ūṭṭutal*
+  "Instilling confidence in the people / Building trust among the people"
+  [CORE] — P1b Root 2, item 18
+  The verb *ūṭṭu* (to instill, feed) encodes the causation of a trust-state in a recipient. The dative *-kku* marks the person in whom trust is caused to arise.
+
+---
+
+### 2.4 Causing trust to be placed — *nampikkai vai*
+
+**Pattern:** Agent + *nampikkai* + *vai* (to place, put) + locative/dative of recipient
+
+- **அவனில் நம்பிக்கை வைத்தேன்** / *avaṉil nampikkai vaittēṉ*
+  "I placed my trust in him / I reposed confidence in him"
+  [CORE] — P1b Root 2, item 16
+  The verb *vai* (to place, put) encodes the deliberate causation of a trust-relation. The locative *-il* marks the person trusted.
+
+---
+
+### 2.5 Causing justice to be obtained — *niyāyam kiṭai* (causative absent; obtaining framed as reception)
+
+The CONTEXT does not document a causative construction for justice in the sense of "causing justice to exist." The relevant constructions frame justice as something obtained (*kiṭai* — to be obtained, to get) or demanded (*kēṭku* — to ask/demand) rather than caused:
+
+- **நியாயம் கேட்கிறேன்** / *niyāyam kēṭkiṟēṉ* — "I am asking for / demanding justice" [CORE] — P2b Construction 14.2
+- **நியாயம் கிடைக்கவில்லை** / *niyāyam kiṭaikkavil̲l̲ai* — "Justice was not obtained" [CORE] — P2b Construction 14.3
+
+**(no causative construction "causing justice to exist/be done" identified in the CONTEXT beyond the demand/reception frame)**
+
+---
+
+### 2.6 Causing deception — *vañcakam cey*, *kaḷḷam vai*
+
+**Pattern:** Agent + *vañcakam* / *kaḷḷam* + light verb
+
+- **வஞ்சகம் செய்தான்** / *vañcakam ceytāṉ*
+  "He committed treachery / He acted deceitfully"
+  [CORE] — P2b Construction 13.1
+  The light verb *cey* (to do) with *vañcakam* as nominal encodes the deliberate bringing-about of a state of deception or betrayal.
+
+- **மனதில் கள்ளம் வைத்திருக்கிறான்** / *maṉatil kaḷḷam vaittirukkirāṉ*
+  "He harbors deceit in his heart / He keeps deceit in his mind"
+  [CORE] — P2b Construction 12.3
+  The verb *vai* (to place, keep) + durative *iru* encodes the maintenance of a deceptive internal state. This is simultaneously a causative (placing deceit) and a stability expression (keeping it there); see §3.3 below.
+
+---
+
+### 2.7 Causing a mistake / error — *tavaṟu cey*
+
+**Pattern:** Agent + *tavaṟu* + *cey* (to do/make)
+
+- **தவறு செய்துவிட்டேன்** / *tavaṟu ceytuviṭṭēṉ*
+  "I have made a mistake / I have done wrong"
+  [CORE] — P2b Construction 6.1
+  The light verb *cey* with *tavaṟu* encodes the bringing-about of an error-state. The completive *viṭu* adds a sense of regret or irreversibility.
+
+---
+
+### 2.8 Causing a forged document to exist — *pōli āvaṇam tayāri*
+
+**Pattern:** Agent + *pōli āvaṇam* + *tayāri* (to prepare, produce)
+
+- **போலி ஆவணம் தயாரித்தான்** / *pōli āvaṇam tayārittāṉ*
+  "He prepared a forged document / He fabricated a fake document"
+  [CORE] — P2b Construction 11.1
+  The verb *tayāri* (to prepare, produce) encodes the causation of a fake document coming into existence.
+
+- **போலி நாணயம் புழக்கத்தில் விட்டான்** / *pōli nāṇayam puḻakkattil viṭṭāṉ*
+  "He put counterfeit coins into circulation"
+  [CORE] — P2b Construction 11.2
+  The phrase *puḻakkattil viṭu* (to release into circulation) encodes the causation of a fake object entering a social/economic state.
+
+---
+
+## 3. MAINTAINING OR LOSING A TRUTH-RELATED STATE
+
+### 3.1 Maintaining honesty — *nērmai kaṭaippiṭi*
+
+**Pattern:** Agent + *nērmai* + *kaṭaippiṭi* (to follow, adhere to, observe)
+
+- **நேர்மை கடைப்பிடிக்கிறார்** / *nērmai kaṭaippiṭikkiṟār*
+  "He/she adheres to honesty / He/she maintains integrity"
+  [CORE] — P2b Construction 3.3; P1b Root 3, item 11
+  The verb *kaṭaippiṭi* (to follow, adhere to, observe) specifically encodes the sustained maintenance of a practice or quality over time. This is the primary Tamil expression for maintaining honesty as an ongoing state.
+
+- **நேர்மை கடைப்பிடித்தல்** / *nērmai kaṭaippiṭittal*
+  "Adhering to honesty, maintaining integrity, upholding principles"
+  [CORE] — P1b Root 3, item 11 (verbal noun form)
+
+---
+
+### 3.2 Losing trust — *nampikkai iḻa*
+
+**Pattern:** Agent + *nampikkai* + *iḻa* (to lose)
+
+- **நம்பிக்கை இழத்தல்** / *nampikkai iḻattal*
+  "Losing trust, losing faith, losing confidence"
+  [CORE] — P1b Root 2, item 20
+  The verb *iḻa* (to lose) encodes the transition from a state of trust to its absence.
+
+- **அரசின் மேல் நம்பிக்கை இழத்தல்** / *araciṉ mēl nampikkai iḻattal*
+  "Losing faith in the government"
+  [CORE] — P1b Root 2, item 20
+  The postposition *mēl* (on, over) marks the object of trust that is lost.
+
+- **நம்பிக்கை இழப்பு** / *nampikkai iḻappu*
+  "Loss of trust, loss of faith, loss of confidence" (nominal)
+  [CORE] — P1b Root 2, item 8
+  The nominal *iḻappu* (loss) encodes the result-state of the losing process.
+
+---
+
+### 3.3 Maintaining deception — *kaḷḷam vaittiru*
+
+**Pattern:** Agent + locative + *kaḷḷam* + *vai* + durative *iru*
+
+- **மனதில் கள்ளம் வைத்திருக்கிறான்** / *maṉatil kaḷḷam vaittirukkirāṉ*
+  "He harbors deceit in his heart / He keeps deceit in his mind"
+  [CORE] — P2b Construction 12.3
+  The durative *iru* (to be, to remain) combined with *vai* (to place, keep) encodes the ongoing maintenance of a deceptive internal state. The construction *X vaittiru* (to keep X placed) is a productive Tamil pattern for expressing the sustained holding of a state.
+
+---
+
+### 3.4 Maintaining trust — *nampikkai vaittiru*, *nampikkai koḷ*
+
+**Pattern:** Agent + *nampikkai* + *vai* + durative *iru* / *koḷ* (to hold, take)
+
+- **நம்பிக்கை வைத்தல்** / *nampikkai vaitttal*
+  "Placing trust, reposing confidence"
+  [CORE] — P1b Root 2, item 16
+  The act of placing trust; the durative *iru* extension (*nampikkai vaittirukkirēṉ* — I am keeping/maintaining trust) encodes its ongoing maintenance.
+
+- **நம்பிக்கை கொள்ளுதல்** / *nampikkai koḷḷutal*
+  "Holding trust, having faith, maintaining confidence"
+  [CORE] — P1b Root 2, item 17
+  The verb *koḷ* (to take, hold) encodes the active holding or maintenance of a trust-state. Used in religious and moral discourse for sustained faith.
+
+---
+
+### 3.5 Betrayal of trust — *nampikkai turōkam*
+
+**Pattern:** Nominal construction encoding the destruction of a trust-state
+
+- **நம்பிக்கை துரோகம்** / *nampikkai turōkam*
+  "Betrayal of trust, breach of faith"
+  [CORE] — P1b Root 2, item 15
+  The compound *nampikkai turōkam* (trust + betrayal/treachery) encodes the destruction of a trust-state through deliberate violation. This is the primary nominal expression for the transition from trust to its betrayal.
+
+---
+
+### 3.6 Losing quality / standard — *taram kuṟai*
+
+**Pattern:** *taram* + *kuṟai* (to decrease, diminish)
+
+- **தரம் குறைந்த** / *taram kuṟainta*
+  "Of reduced/inferior quality" (past participial, attributive)
+  [CORE] — P1 item 25, usage note
+  The verb *kuṟai* (to decrease, diminish) encodes the transition from a higher to a lower standard. The compound nominal *tarakkuṟaivu* (decline in quality) is also documented in P1 item 25.
+
+---
+
+### 3.7 Tolerating / refusing to tolerate injustice — *anyāyam poṟu* (negative)
+
+**Pattern:** Agent + *anyāyam* + *poṟu* (to bear, tolerate, endure) + negative modal
+
+- **அன்யாயம் பொறுக்கமாட்டேன்** / *anyāyam poṟukkamaṭṭēṉ*
+  "I will not tolerate injustice / I cannot bear this injustice"
+  [CORE] — P2b Construction 16.2
+  The negative modal *-maṭṭēṉ* (I will not / cannot) encodes the refusal to maintain a state of enduring injustice. This is a dynamic expression of resistance to the continuation of an unjust state.
+
+---
+
+## 4. ADDITIONAL DYNAMIC EXPRESSIONS
+
+### 4.1 Truth being sought — *uṇmai tēṭu*
+
+**Pattern:** Agent + *uṇmaiyai* (accusative) + *tēṭu* (to seek, search)
+
+- **உண்மை தேடுதல்** / *uṇmai tēṭutal*
+  "Seeking the truth, the search for truth"
+  [CORE] — P1b Root 1, item 25
+  The verb *tēṭu* (to seek, search) encodes an ongoing dynamic process directed toward establishing truth. Used in philosophical, journalistic, and legal contexts.
+
+---
+
+### 4.2 Truth being admitted — *uṇmaiyai ottukkō*
+
+**Pattern:** Agent + *uṇmaiyai* (accusative) + *ottukkō* (to admit, acknowledge, concede)
+
+- **உண்மையை ஒத்துக்கொண்டான்** / *uṇmaiyai ottukkōṇṭāṉ*
+  "He admitted the truth / He acknowledged the truth"
+  [CORE] — P2b Construction 1.12
+  The verb *ottukkō* encodes a transition from a state of denial or concealment to one of acknowledgment. The CONTEXT notes this construction "implies prior concealment or denial."
+
+---
+
+### 4.3 Mistake being admitted — *tavaṟai ottukkō*
+
+**Pattern:** Agent + *tavaṟai* (accusative) + *ottukkō*
+
+- **தவறை ஒத்துக்கொண்டான்** / *tavaṟai ottukkōṇṭāṉ*
+  "He admitted the mistake / He acknowledged the error"
+  [CORE] — P2b Construction 6.2
+  Parallel to 4.2; the same verb *ottukkō* encodes the transition from denial to acknowledgment of an error-state.
+
+---
+
+### 4.4 Learning from mistakes — *tavaṟiliruntu paṭi*
+
+**Pattern:** Ablative *tavaṟiliruntu* (from the mistake) + *paṭi* (to learn)
+
+- **தவறிலிருந்து படிக்கணும்** / *tavaṟiliruntu paṭikkaṇum*
+  "One must learn from mistakes / One should learn from errors"
+  [CORE] — P2b Construction 6.6
+  The ablative *-iliruntu* (from) encodes the mistake as a source from which a new state of knowledge is derived. This is a dynamic expression of transition from error to learning.
+
+---
+
+### 4.5 Raising one's voice against injustice — *anyāyattirku etirāka kural koṭu*
+
+**Pattern:** Agent + *anyāyattirku etirāka* (against injustice) + *kural koṭu* (to give voice, speak out)
+
+- **அன்யாயத்திற்கு எதிராக குரல் கொடுத்தான்** / *anyāyattirku etirāka kural koṭuttāṉ*
+  "He raised his voice against injustice / He spoke out against the injustice"
+  [CORE] — P2b Construction 16.3
+  The expression *kural koṭu* (to give voice) encodes the initiation of a dynamic act of resistance against an ongoing unjust state.
+
+---
+
+## 5. SUMMARY TABLE
+
+| Dynamic type | Expression | Transliteration | Translation | Term involved | Rating |
+|---|---|---|---|---|---|
+| Becoming known | உண்மை வெளிப்பட்டது | *uṇmai veḷippaṭṭatu* | The truth came to light | *uṇmai* | [CORE] |
+| Becoming known | உண்மை தெரிய வந்தது | *uṇmai teriya vantatu* | The truth became known | *uṇmai* | [CORE] |
+| Prevailing | நியாயம் வெல்லும் | *niyāyam vellum* | Justice will prevail | *niyāyam* | [CORE] |
+| Causing to be established (auth.) | உண்மைப்படுத்துதல் | *uṇmaippaṭuttutal* | Authentication, substantiation | *uṇmai* | [MARGINAL] |
+| Causing to be concealed | உண்மை மறைக்கப்பட்டது | *uṇmai maṟaikkap-paṭṭatu* | The truth was concealed | *uṇmai* | [CORE] |
+| Causing to be concealed (thorough) | உண்மையை மூடி மறைத்தார்கள் | *uṇmaiyai mūṭi maṟaittārkaḷ* | They covered up the truth | *uṇmai* | [CORE] |
+| Causing trust to arise | நம்பிக்கை ஊட்டுதல் | *nampikkai ūṭṭutal* | Instilling confidence | *nampikkai* | [CORE] |
+| Causing trust to be placed | அவனில் நம்பிக்கை வைத்தேன் | *avaṉil nampikkai vaittēṉ* | I placed my trust in him | *nampikkai* | [CORE] |
+| Causing deception | வஞ்சகம் செய்தான் | *vañcakam ceytāṉ* | He committed treachery | *vañcakam* | [CORE] |
+| Causing error | தவறு செய்துவிட்டேன் | *tavaṟu ceytuviṭṭēṉ* | I have made a mistake | *tavaṟu* | [CORE] |
+| Causing fake to exist | போலி ஆவணம் தயாரித்தான் | *pōli āvaṇam tayārittāṉ* | He prepared a forged document | *pōli* | [CORE] |
+| Correcting (transition to right) | தவறை திருத்திக்கொண்டான் | *tavaṟai tiruttikkōṇṭāṉ* | He corrected his mistake | *tavaṟu* / *cari* | [CORE] |
+| Maintaining honesty | நேர்மை கடைப்பிடிக்கிறார் | *nērmai kaṭaippiṭikkiṟār* | He/she adheres to honesty | *nērmai* | [CORE] |
+| Maintaining trust | நம்பிக்கை கொள்ளுதல் | *nampikkai koḷḷutal* | Holding / maintaining faith | *nampikkai* | [CORE] |
+| Maintaining deception | மனதில் கள்ளம் வைத்திருக்கிறான் | *maṉatil kaḷḷam vaittirukkirāṉ* | He harbors deceit in his heart | *kaḷḷam* | [CORE] |
+| Losing trust | நம்பிக்கை இழத்தல் | *nampikkai iḻattal* | Losing trust / faith | *nampikkai* | [CORE] |
+| Betraying trust | நம்பிக்கை துரோகம் | *nampikkai turōkam* | Betrayal of trust | *nampikkai* | [CORE] |
+| Declining quality | தரம் குறைந்த | *taram kuṟainta* | Of reduced/inferior quality | *taram* | [CORE] |
+| Seeking truth | உண்மை தேடுதல் | *uṇmai tēṭutal* | Seeking the truth | *uṇmai* | [CORE] |
+| Admitting truth | உண்மையை ஒத்துக்கொண்டான் | *uṇmaiyai ottukkōṇṭāṉ* | He admitted the truth | *uṇmai* | [CORE] |
+| Admitting error | தவறை ஒத்துக்கொண்டான் | *tavaṟai ottukkōṇṭāṉ* | He admitted the mistake | *tavaṟu* | [CORE] |
+| Learning from error | தவறிலிருந்து படிக்கணும் | *tavaṟiliruntu paṭikkaṇum* | One must learn from mistakes | *tavaṟu* | [CORE] |
+| Resisting injustice | அன்யாயம் பொறுக்கமாட்டேன் | *anyāyam poṟukkamaṭṭēṉ* | I will not tolerate injustice | *anyāyam* | [CORE] |
+
+---
+
+## 6. STRUCTURAL OBSERVATIONS
+
+The following observations are drawn directly from patterns in the data above and in the CONTEXT. No external framework is applied.
+
+**6.1 Asymmetry between *uṇmai* and *poy* in dynamic expressions.** The CONTEXT documents multiple conventionalized dynamic expressions for *uṇmai* (truth coming to light, being concealed, being sought, being admitted, being authenticated). No parallel conventionalized dynamic expressions for *poy* becoming, being caused, or being maintained are attested. *poy* vocabulary is used to characterize states and actions but not to encode transitions in the same way.
+
+**6.2 The causative *-paṭuttu-* is restricted to *uṇmai*.** As noted in P4a (§5) and confirmed here, the morphological causative *-paṭuttu-* is attested only for *uṇmai* in the truth domain, and only in formal/administrative registers. All other causative meanings in this domain are expressed through light verb constructions (*cey*, *tayāri*, *ūṭṭu*, *vai*, *maṟai*).
+
+**6.3 *nampikkai* has the richest set of dynamic expressions.** The trust vocabulary (*nampikkai*) is documented with expressions for instilling, placing, holding, losing, and betraying trust — a fuller dynamic profile than any other single term in the domain. This reflects the relational nature of trust, which inherently involves transitions between states.
+
+**6.4 *nērmai* has limited dynamic expression.** The honesty vocabulary is documented primarily in static evaluative constructions (characterizing persons and conduct). The one dynamic expression attested — *nērmai kaṭaippiṭi* (adhering to / maintaining honesty) — encodes maintenance rather than change. No common expression for becoming honest or losing honesty is attested in the CONTEXT.
+
+**6.5 *tavaṟu* participates in a correction cycle.** The error vocabulary encodes a full cycle: causing an error (*tavaṟu cey*), admitting it (*tavaṟai ottukkō*), correcting it (*tavaṟai tiruttu*), and learning from it (*tavaṟiliruntu paṭi*). This cycle is more fully documented than the corresponding cycle for any other truth-domain term.

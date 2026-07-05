@@ -1,0 +1,102 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tamil (ta)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Nominal predicate + zero copula (§1); Nominal + *-āka* predicative (§8) | *atu uṇmai* ("That is true"); *itu uṇmaiyāka irukku* ("This is genuinely the case") | Direct mapping; two surface forms (zero copula and *-āka irukku*) serve the same operator | None |
+| **ADNOM** | *-āṉa* adjectival suffix (§3); *-āka* adverbial suffix (§8) | *nampakamāṉa ātāram* ("reliable source"); *nērmayāka pēcu* ("speak honestly") | *-āṉa* maps to adnominal modification of nouns; *-āka* maps to adverbial modification of verbs; both are direct | None |
+| **BECOME** | Motion-perception verb constructions: *veḷippaṭu*, *teriya va* (§4) | *uṇmai veḷippaṭṭatu* ("the truth came to light"); *uṇmai teriya vantatu* ("the truth became known") | **SUBSTITUTED BY REVELATION** — the inchoative is expressed through revelation-type motion-perception verbs rather than a neutral change-of-state verb | None (substitution is systematic, not a gap) |
+| **REVELATION** | *veḷippaṭu* (become visible/emerge), *teriya va* (come to be known) (§4) | *uṇmai veḷippaṭṭatu*; *uṇmai teriya vantatu* | Direct mapping; these are the primary and most conventionalized forms for this semantic field | None |
+| **CAUSATION (factual)** | *-paṭuttu-* morphological causative (§5); light verb *col*, *cey* (§10) | *uṇmaippaṭuttutal* ("authentication/substantiation"); *uṇmai collu* ("tell the truth") | Morphological causative (*-paṭuttu*) is restricted to *uṇmai* in formal/administrative registers; light verb constructions fill the broader slot | **Partially available** — morphological form restricted to *uṇmai*; other nominals require periphrasis |
+| **CAUSATION (character)** | Light verb constructions: *nērmai kāṭṭu*, *nērmai kaṭaippiṭi* (§10) | *nērmai kāṭṭu* ("show integrity"); *nērmai kaṭaippiṭi* ("adhere to honesty") | **SUBSTITUTED BY LIGHT VERB CONSTRUCTION** — no morphological causative of character-type; light verbs carry the operator | None (substitution is systematic) |
+| **VERIFICATION** | *-paṭuttu-* causative on *uṇmai* (§5); light verb *cey* with *uṇmai* (§10) | *ātāratai uṇmaippaṭuttu* ("authenticate/substantiate the evidence") | Restricted to formal/administrative register; no general-register dedicated verification construction is attested | **Partially available** — restricted to *uṇmai* + formal register; no productive general construction |
+| **DISCONFIRMATION** | Negative attribution with *illai* (§2); privative modification *-aṟṟa* / *illāta* (§9) | *atu poyyillai* ("that is not false"); *ātāramillāta kuṟṟaccāṭṭu* ("baseless accusation") | *illai* negation operates at the predication level; privative forms operate at the modifier level; neither is a dedicated disconfirmation operator | **SUBSTITUTED BY NEGATION** — disconfirmation is expressed through negative attribution and privative modification, not through a distinct construction |
+| **NEGATION** | Nominal + *illai* (§2); privative *-aṟṟa* participial (§9); privative *illāta* participial (§9) | *atu poyyillai*; *nērmaiyaṟṟa naṭatai*; *ātāramillāta kuṟṟaccāṭṭu* | Analytic (*illai*, *illāta*) and morphological (*-aṟṟa*) forms both attested; full predication vs. attributive modifier distinction is structural | None — both analytic and morphological forms present |
+| **NOMINALIZATION** | *-mai* suffix (§6); *taṉmai* compound (§6); *-tal* verbal noun (§5); agentive suffixes *-aṉ*, *-ar*, *-āḷar* (§7) | *poymai* ("falsehood"); *nampakat-taṉmai* ("reliability"); *uṇmaippaṭuttutal* ("authentication"); *poyyaṉ* ("liar"); *nērmayāḷar* ("person of integrity") | Multiple nominalization strategies present; abstract quality nominals (*-mai*, *taṉmai*) are register-marked [MARGINAL]; agentive nominals are [CORE]; verbal noun *-tal* is restricted to the *-paṭuttu* causative context | Partially available — abstract nominals are register-restricted; no lexicalized agentive for "truth-teller" on *uṇmai* base |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+The CLCA BECOME operator — a neutral change-of-state predication — is not expressed in Tamil through a dedicated inchoative morpheme or a neutral *-āka āku* construction for the truth domain. Instead, the inchoative meaning is systematically expressed through motion-and-perception verbs: *veḷippaṭu* (to become visible, to emerge) and *teriya va* (to come to be known). Both verbs encode not merely a change of state but specifically a change involving perceptibility or discoverability. The P4a and P4b data describe *uṇmai veḷippaṭṭatu* as the most conventionalized form for "truth coming to light," and *uṇmai teriya vantatu* as a fully natural alternant. The *-āka āku* pattern is noted as available but marked [MARGINAL] for this semantic field. The substitution is systematic and domain-specific: BECOME in the truth domain is realized as REVELATION.
+
+### 2.2 LIGHT VERB CONSTRUCTION substitutes for morphological verbal derivation
+
+Tamil does not productively derive verbs from truth-domain nominals through morphological processes (with the narrow exception of *uṇmaippaṭuttu* in formal registers). The functional slot occupied by verbal derivation in other languages is filled entirely by light verb constructions: *uṇmai collu* (tell the truth), *poy pēcu* (speak falsely/lie), *tavaṟu cey* (do wrong/make a mistake), *niyāyam kēṭku* (demand justice), *nērmai kāṭṭu* (show integrity), *vañcakam cey* (commit deception). This substitution applies across CAUSATION (factual), CAUSATION (character), and the expression of truth-domain verbal meanings generally. The light verb carries tense, aspect, and agreement; the nominal carries the semantic content of the operator.
+
+### 2.3 DISCONFIRMATION is expressed through NEGATION, not a distinct operator
+
+No dedicated disconfirmation construction — a construction specifically asserting that a claim is false or that evidence undermines a proposition — is attested in the P4a or P4b data. The closest available forms are negative attribution (*atu poyyillai* — "that is not false/a lie") and privative modification (*ātāramillāta kuṟṟaccāṭṭu* — "baseless accusation"). These are NEGATION constructions applied to truth-domain nominals, not a structurally distinct DISCONFIRMATION operator. DISCONFIRMATION is therefore expressed through NEGATION in Tamil as described in the data.
+
+### 2.4 VERIFICATION is restricted and partially substituted
+
+The morphological causative *-paṭuttu* on *uṇmai* (*uṇmaippaṭuttu* — "authenticate, substantiate") is the closest attested form to a VERIFICATION operator. However, P4a and P4b both note that this form is restricted to *uṇmai* in formal and administrative registers, and is not productive across the truth-domain vocabulary. No *poyppaṭuttu*, *nērmaipaṭuttu*, or *niyāyappaṭuttu* is attested. For other truth-domain nominals, verification-type meanings are expressed periphrastically through light verb constructions. VERIFICATION is therefore partially available through a restricted morphological form and partially substituted by light verb constructions.
+
+### 2.5 Asymmetry between positive and negative agentive nominals
+
+The agentive nominalization pattern (§7) shows an asymmetry: *poyyaṉ* ("liar") and *vañcakaṉ* ("deceiver") are lexicalized agentive nominals, while no equivalent lexicalized agentive for "truth-teller" built on *uṇmai* is attested. The concept is expressed periphrastically as *uṇmai pēcukiṟavaṉ* ("one who speaks the truth"). The negative-domain agentive (liar, deceiver) is lexically available; the positive-domain agentive (truth-teller) is a lexical gap requiring circumlocution.
+
+### 2.6 Two surface forms for ATTR
+
+The ATTR operator is expressed by two surface constructions: the zero-copula nominal predicate (*atu uṇmai*) and the *-āka irukku* predicative (*itu uṇmaiyāka irukku*). P4b notes these are available without change in meaning, with *irukku* appearing optionally in spoken registers. Both map to the same ATTR operator; the distinction is register-conditioned rather than semantic.
+
+### 2.7 Analytic and morphological NEGATION coexist
+
+Tamil expresses truth-domain negation through both analytic and morphological means. The analytic forms are *illai* (negative existential for full predication) and *illāta* (negative participial for attributive modification). The morphological form is the privative participial *-aṟṟa*. P4b notes that *illāta* is marginally more common in spoken registers while *-aṟṟa* is slightly more formal or literary. Both are [CORE] and fully productive across truth-domain nominals. The two forms are in free variation for attributive modification; only *illai* is available for full predication.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No structural gaps are identified. All ten CLCA operators can be expressed in Tamil, either through a direct construction or through a systematic substitution. The language does not lack a construction type for any operator; it may lack a dedicated construction for some operators, but a structural means of expression is always available.
+
+### 3.2 Lexical Gaps
+
+**Identified lexical gap:**
+- No lexicalized agentive nominal meaning "truth-teller" built on *uṇmai* is attested. The concept requires the periphrastic expression *uṇmai pēcukiṟavaṉ* ("one who speaks the truth"). This is a lexical gap within the agentive nominalization pattern: the pattern itself is productive, but the specific lexical item is absent.
+
+**Identified lexical restriction:**
+- The morphological causative *-paṭuttu* is lexically restricted to *uṇmai* within the truth domain. No *poyppaṭuttu*, *nērmaipaṭuttu*, or *niyāyappaṭuttu* is attested. This is a lexical gap in the causative paradigm: the morphological pattern exists but is not lexically extended across the domain.
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified from the data. All truth-domain operations — attribution, modification, becoming, revelation, causation, verification, disconfirmation, negation, and nominalization — are expressible in Tamil. No operation appears to be blocked or unavailable as a conceptual category.
+
+### 3.4 Asymmetric Gaps
+
+**Agentive nominalization — positive/negative asymmetry:**
+- Negative-domain agentives are lexicalized: *poyyaṉ* ("liar"), *vañcakaṉ* ("deceiver").
+- Positive-domain agentive for "truth-teller" on *uṇmai* is not lexicalized; circumlocution is required.
+- The *-āḷar* honorific agentive *nērmayāḷar* ("person of integrity") is lexicalized on the positive side for *nērmai*, but not for *uṇmai*.
+
+**Abstract nominalization — register asymmetry:**
+- *-mai* and *taṉmai* abstract nominals are available but marked [MARGINAL] in everyday use; they are not absent but are register-restricted.
+- No equivalent register restriction is noted for agentive nominals or light verb constructions, which are [CORE].
+
+**Causative — lexical asymmetry:**
+- The morphological causative *-paṭuttu* is attested only for *uṇmai* (truth/authentication); it is absent for *poy* (falsehood), *nērmai* (honesty), *niyāyam* (justice), and other truth-domain nominals.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Zero-copula and *-āka irukku* forms; [CORE]; no register restriction |
+| **ADNOM** | **Fully available** | *-āṉa* adjectival suffix; [CORE]; fully productive across all truth-domain nominals |
+| **BECOME** | **Available with substitution** | Expressed through REVELATION constructions (*veḷippaṭu*, *teriya va*); *-āka āku* available but [MARGINAL] for this domain |
+| **REVELATION** | **Fully available** | *veḷippaṭu* and *teriya va* constructions; [CORE]; most conventionalized forms in the truth domain |
+| **CAUSATION (factual)** | **Partially available** | Morphological *-paṭuttu* restricted to *uṇmai* in formal registers; light verb constructions fill the broader slot |
+| **CAUSATION (character)** | **Available with substitution** | Expressed through light verb constructions (*nērmai kāṭṭu*, *nērmai kaṭaippiṭi*); no morphological form; [CORE] via light verbs |
+| **VERIFICATION** | **Partially available** | *uṇmaippaṭuttu* attested in formal/administrative register for *uṇmai* only; no productive general construction; light verb constructions serve as partial substitutes |
+| **DISCONFIRMATION** | **Available with substitution** | **SUBSTITUTED BY NEGATION** — expressed through *illai* negative attribution and privative modification; no dedicated disconfirmation construction |
+| **NEGATION** | **Fully available** | Both analytic (*illai*, *illāta*) and morphological (*-aṟṟa*) forms; [CORE]; productive across all truth-domain nominals |
+| **NOMINALIZATION** | **Partially available** | Agentive nominals [CORE]; abstract *-mai* and *taṉmai* nominals [MARGINAL] (register-restricted); verbal noun *-tal* restricted to *-paṭuttu* context; lexical gap for "truth-teller" agentive on *uṇmai* |

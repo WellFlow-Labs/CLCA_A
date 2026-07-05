@@ -1,0 +1,432 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Sanskrit (sa)
+
+Transliteration standard: IAST, consistent with P1–P5.
+
+---
+
+## Preliminary Note on Scope and Method
+
+This section examines how Sanskrit encodes dynamic relationships — becoming, causing, and maintaining — involving the truth-related vocabulary documented in P1–P5. Sanskrit has several distinct strategies for expressing change of state and causation, and these do not apply uniformly across the truth-domain vocabulary. Each term is treated separately where its behavior differs. Absence of attested expressions is stated explicitly. All vocabulary is drawn from the CONTEXT.
+
+A structural observation governs the analysis: the truth-domain vocabulary of Sanskrit divides into two broad behavioral classes with respect to dynamic expression.
+
+**Class A** consists of terms that denote *cognitive states or events* — primarily *pramā*, *bhrama*, *viparyaya*, and related epistemological terms. These participate freely in inchoative constructions (documented in P4a Construction 4) and in causative constructions, because cognitive states are understood as arising, being produced, and being removed.
+
+**Class B** consists of terms that denote *properties of statements, persons, actions, or objects* — *satya*, *yukta*, *ucita*, *dharma*, *śuddha*, *sādhu*, and related terms. These participate in change-of-state and causative constructions differently: the change is typically expressed as verification, purification, correction, or establishment rather than as a direct predicate-change.
+
+A third pattern, **Class C**, consists of terms that denote *levels of reality* — *paramārtha*, *vyāvahārika*, *sat*, *asat*, *tattva*. These participate in dynamic expressions primarily through the discourse-marking adverbial constructions documented in P4a (Construction 8) and through ontological formulas about arising and non-arising, rather than through change-of-state predicates applied to individuals.
+
+---
+
+## Section 1: "X becomes [truth-related state]"
+
+### 1.1 Cognitive states (Class A)
+
+The inchoative construction documented in P4a (Construction 4) — truth-domain nominal as subject of *jā-* (to arise) or *utpad-* (to be produced) — is the primary expression for the arising of a cognitive state. This construction is attested for both valid and erroneous cognition.
+
+---
+
+**Expression 1.1.1**
+
+1. Expression type: becoming / inchoative (valid cognition)
+2. Example: प्रमा उत्पद्यते
+3. Transliteration: *pramā utpadyate*
+4. English translation: valid cognition arises / correct apprehension is produced
+5. Usage notes: Documented in P2b (item 5) and P4a (Construction 4) as the standard construction for the arising of valid cognition in epistemological literature. *Utpad-* (passive of *ut-pad-*, to step forth, to be produced) takes the arising cognitive state as grammatical subject. The construction describes the outcome of a successful cognitive process without specifying an agent; the arising is presented as an event rather than an action.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 1.1.2**
+
+1. Expression type: becoming / inchoative (erroneous cognition)
+2. Example: भ्रमः जायते
+3. Transliteration: *bhramaḥ jāyate*
+4. English translation: error arises / mistaken cognition comes about
+5. Usage notes: Documented in P2b (item 11) and P4a (Construction 4) as structurally parallel to *pramā utpadyate* and explicitly contrasted with it in epistemological texts. *Jā-* (to be born, to arise) is interchangeable with *utpad-* in this construction. The arising of error is presented as an event in the same grammatical frame as the arising of valid cognition.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 1.1.3**
+
+1. Expression type: becoming / inchoative (erroneous cognition, alternate form)
+2. Example: भ्रान्तिः जायते / भ्रान्तिः उत्पद्यते
+3. Transliteration: *bhrāntiḥ jāyate* / *bhrāntiḥ utpadyate*
+4. English translation: error arises / the state of being mistaken comes about
+5. Usage notes: *Bhrānti* (documented in P2a, item 11, as a near-synonym of *bhrama* emphasizing the state of being in error) participates in the same inchoative construction. No difference in construction behavior from *bhrama* is documented in the CONTEXT.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 1.1.4**
+
+1. Expression type: becoming / inchoative (erroneous cognition, Sāṃkhya-Yoga register)
+2. Example: विपर्ययः जायते
+3. Transliteration: *viparyayaḥ jāyate*
+4. English translation: erroneous cognition (of the inverted type) arises
+5. Usage notes: *Viparyaya* (P1, item 12) is documented in P2b (item 12) in the construction *viparyayaḥ na bhavati* ("there is no erroneous cognition here"), which implies the positive form *viparyayaḥ bhavati* / *jāyate* as its presupposed counterpart. The inchoative construction is consistent with the Class A pattern but is confined to Sāṃkhya-Yoga philosophical discourse.
+6. Epistemic status: [MARGINAL]
+
+---
+
+### 1.2 Properties of statements, persons, or objects (Class B)
+
+For Class B terms, the "becoming" relation is not typically expressed through a direct inchoative predicate applied to the term itself. Instead, the CONTEXT documents two strategies:
+
+**(a) Verification / authentication:** A statement or document *becomes* verified through the *satyāpana* / *satyāpita* formation (P2a, item 1) and the *pramāṇīkaraṇa* formation (P2a, item 4). These are the primary attested expressions for a Class B item entering a truth-related state through a process.
+
+**(b) The *pramāṇabhūta* construction:** The CONTEXT documents *pramāṇabhūta* (P2a, item 4) — "having become a *pramāṇa*" — as a construction in which a person or source *becomes* an authority. This is the clearest attested example of a "becoming" construction applied to a Class B truth-related property.
+
+---
+
+**Expression 1.2.1**
+
+1. Expression type: becoming / inchoative (becoming an authority)
+2. Example: प्रमाणभूतः (भवति)
+3. Transliteration: *pramāṇabhūtaḥ (bhavati)*
+4. English translation: (one) has become / becomes a valid authority
+5. Usage notes: Documented in P2a (item 4) and P1b (root 2, item 20) as a construction in which a person or source attains the status of a valid means of cognition. The *bhūta* element (past passive participle of *bhū-*, to become) encodes the change-of-state meaning. The CONTEXT notes this is used in Buddhist epistemological literature, particularly in Dharmakīrti's characterization of the Buddha as *pramāṇabhūta*. The construction is lexicalized as a compound but retains its "become" semantics transparently.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 1.2.2**
+
+1. Expression type: becoming / result of verification (statement becomes verified)
+2. Example: (वचनम्) सत्यापितम् भवति
+3. Transliteration: *(vacanam) satyāpitam bhavati*
+4. English translation: (the statement) becomes verified / is confirmed
+5. Usage notes: *Satyāpita* (documented in P2a, item 1, as the past passive participle of the causative formation on *satya* via *āp-*) combined with *bhavati* expresses the resultant state of a statement that has undergone verification. The CONTEXT documents *satyāpita* as appearing "on official documents to indicate that a statement has been verified." The full periphrastic construction with *bhavati* is the natural expression of the resultant state.
+6. Epistemic status: [CORE]
+
+---
+
+### 1.3 Levels of reality (Class C)
+
+For Class C terms, the "becoming" relation is expressed through ontological formulas about arising and non-arising, documented in P2b. These are not change-of-state predicates applied to individuals but philosophical claims about the conditions under which things come to be.
+
+---
+
+**Expression 1.3.1**
+
+1. Expression type: ontological arising (from being)
+2. Example: सतः जायते
+3. Transliteration: *sataḥ jāyate*
+4. English translation: it arises from being / it comes into existence from what is real
+5. Usage notes: Documented in P2b (item 6) as part of the philosophical formula *sataḥ na asataḥ jāyate* ("the world arises from being, not from non-being"). The ablative *sataḥ* marks the source of arising; the construction expresses an ontological principle rather than a change of state in an individual. Confined to Vedāntic and Upaniṣadic philosophical discourse.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 1.3.2**
+
+1. Expression type: ontological non-arising (from non-being)
+2. Example: असतः न जायते
+3. Transliteration: *asataḥ na jāyate*
+4. English translation: it does not arise from non-being / existence does not come from non-existence
+5. Usage notes: The negated counterpart of Expression 1.3.1, documented in P2b (item 7) as part of the formula *asataḥ sat jāyate iti na* ("it is not the case that being arises from non-being"). The construction denies the possibility of a specific kind of ontological arising.
+6. Epistemic status: [CORE]
+
+---
+
+## Section 2: "X becomes [non-truth / opposed state]"
+
+### 2.1 Cognitive states (Class A)
+
+The removal or cessation of a cognitive state is expressed through verbs of removal, cessation, and dispelling, with the cognitive state as grammatical subject.
+
+---
+
+**Expression 2.1.1**
+
+1. Expression type: cessation / removal of error
+2. Example: भ्रमः निवर्तते
+3. Transliteration: *bhramaḥ nivartate*
+4. English translation: error is removed / mistaken cognition ceases
+5. Usage notes: Documented in P2b (item 11) as a construction describing "the removal or dispelling of erroneous cognition." *Nivṛt-* (to turn back, to cease, to be removed) takes the erroneous cognitive state as subject. Used in Vedāntic and epistemological literature to describe the cognitive effect of correct knowledge or philosophical insight.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 2.1.2**
+
+1. Expression type: cessation / removal of error (alternate verb)
+2. Example: भ्रमः निरस्यते
+3. Transliteration: *bhramaḥ nirasyate*
+4. English translation: error is dispelled / mistaken cognition is refuted
+5. Usage notes: Documented in P2b (item 11) as an alternate to *bhramaḥ nivartate*; *niras-* (to throw out, to dispel, to refute) takes the erroneous cognitive state as subject. The CONTEXT also documents the compound *bhramanirasā* (P2a, item 11) — "removal of error" — as a standard expression in philosophical commentary for the refutation of an erroneous position.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 2.1.3**
+
+1. Expression type: becoming free from error
+2. Example: निर्भ्रान्तः भवति
+3. Transliteration: *nirbhrāntaḥ bhavati*
+4. English translation: (one) becomes free from error / (one) becomes undeluded
+5. Usage notes: *Nirbhrānta* (documented in P2a, item 11, as *nir-* + *bhrānta*, "free from error") combined with *bhavati* expresses the change-of-state meaning for a cognizer who moves from an erroneous to a correct cognitive state. The CONTEXT notes this appears "in descriptions of liberated or enlightened states."
+6. Epistemic status: [MARGINAL]
+
+---
+
+### 2.2 Properties of statements, persons, or objects (Class B)
+
+For Class B terms, the transition to a non-truth state is expressed primarily through the prefixal negation constructions documented in P4a (Construction 2) and P5, and through constructions describing deviation from a standard.
+
+---
+
+**Expression 2.2.1**
+
+1. Expression type: deviation from truth (person deviates from truth)
+2. Example: सत्यात् विचलति
+3. Transliteration: *satyāt vicalati*
+4. English translation: (one) deviates from truth / (one) swerves from truth
+5. Usage notes: Documented in P2b (item 1) as a construction using the ablative *satyāt* (from truth) with the verb *vical-* (to deviate, to swerve) expressing departure from a truth-related standard. The CONTEXT documents this in its negated form (*satyāt na vicalati*, "does not swerve from truth") as a characterization of virtuous heroes in epic literature; the positive form expresses the opposed state.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 2.2.2**
+
+1. Expression type: deviation from dharma (person deviates from right conduct)
+2. Example: धर्मात् चलति
+3. Transliteration: *dharmāt calati*
+4. English translation: (one) deviates from *dharma* / (one) departs from right conduct
+5. Usage notes: Documented in P2b (item 13) in its negated form (*dharmāt na calati*, "does not deviate from *dharma*"), parallel in structure to *satyāt na calati*. The positive form expresses the transition to a state of non-conformity with *dharma*. The ablative construction with verbs of motion is the standard pattern for expressing departure from a normative standard.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 2.2.3**
+
+1. Expression type: appearing as illusory / false (phenomenal world)
+2. Example: मिथ्या प्रतिभाति
+3. Transliteration: *mithyā pratibhāti*
+4. English translation: (it) appears as false / (it) appears as illusory
+5. Usage notes: Documented in P2b (item 10) as a construction using *mithyā* adverbially with the verb *pratibhā-* (to appear, to seem). In Advaita Vedānta this describes the phenomenal world as appearing in a false or illusory manner — a dynamic expression of the world's *mithyātva* (illusoriness). The construction describes an ongoing apparent state rather than a punctual change of state.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 2.2.4**
+
+1. Expression type: appearing as non-existent
+2. Example: असत् इव प्रतिभाति
+3. Transliteration: *asat iva pratibhāti*
+4. English translation: (it) appears as if non-existent / (it) seems unreal
+5. Usage notes: Documented in P2b (item 7) as a construction using *asat* with the comparative particle *iva* (as if, like) and *pratibhā-*; used in Vedāntic literature to describe the phenomenal world as appearing to be unreal from the ultimate perspective. The *iva* particle marks the appearance as a semblance rather than a genuine state.
+6. Epistemic status: [MARGINAL]
+
+---
+
+## Section 3: "Y causes X to be [truth-related state]"
+
+### 3.1 Causation of valid cognition (Class A)
+
+---
+
+**Expression 3.1.1**
+
+1. Expression type: causation of valid cognition (by a valid means)
+2. Example: प्रमाणेन प्रमा उत्पद्यते
+3. Transliteration: *pramāṇena pramā utpadyate*
+4. English translation: valid cognition is produced by a valid means of cognition
+5. Usage notes: The instrumental *pramāṇena* (by a *pramāṇa*) combined with the inchoative construction *pramā utpadyate* expresses the causal relationship between a valid means of cognition and the valid cognition it produces. This construction is implicit in the standard triadic analysis (*pramātṛ / pramāṇa / prameya*) documented throughout P1 and P2, and is the foundational causal claim of Sanskrit epistemology. The CONTEXT documents the construction *pramāṇena siddham* ("established by a valid means of cognition") in P2b (item 4) as a related formula.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 3.1.2**
+
+1. Expression type: causation of accurate knowledge (by correspondence)
+2. Example: यथार्थज्ञानम् उत्पद्यते
+3. Transliteration: *yathārthajñānam utpadyate*
+4. English translation: accurate knowledge arises / knowledge that corresponds to its object is produced
+5. Usage notes: Documented in P2b (item 3) as a construction describing the arising of accurate cognition. The causal agent is not specified in this construction; the arising is presented as an event. The CONTEXT notes this is "functionally equivalent to *pramā utpadyate* in many contexts."
+6. Epistemic status: [CORE]
+
+---
+
+### 3.2 Causation of erroneous cognition (Class A)
+
+---
+
+**Expression 3.2.1**
+
+1. Expression type: causation of error (something causes error in a cognizer)
+2. Example: (किञ्चित्) भ्रामकम् भवति
+3. Transliteration: *(kiñcit) bhrāmakam bhavati*
+4. English translation: (something) is misleading / (something) causes error
+5. Usage notes: *Bhrāmaka* (documented in P2a, item 11, as *bhrama* + adjectival suffix *-ka* with *vṛddhi*, "causing error, misleading") combined with *bhavati* expresses the property of being a cause of erroneous cognition. The CONTEXT describes *bhrāmaka* as applied "to statements, appearances, or situations that lead to mistaken cognition." This is the primary adjectival expression for a cause of error.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 3.2.2**
+
+1. Expression type: causation of error (apprehension through error)
+2. Example: भ्रमेण गृह्यते
+3. Transliteration: *bhramaṇa gṛhyate*
+4. English translation: it is apprehended through error / it is grasped by mistake
+5. Usage notes: Documented in P2b (item 11) as a construction using the instrumental *bhramaṇa* (by error) with the verb *grah-* (to grasp, to apprehend). The instrumental marks error as the means or instrument of a mistaken cognitive act. The CONTEXT rates this [MARGINAL] in P2b.
+6. Epistemic status: [MARGINAL]
+
+---
+
+### 3.3 Causation of verification and authentication (Class B)
+
+---
+
+**Expression 3.3.1**
+
+1. Expression type: causation of verification (agent verifies a statement)
+2. Example: (कश्चित्) वचनं सत्यापयति
+3. Transliteration: *(kaścit) vacanaṃ satyāpayati*
+4. English translation: (someone) verifies a statement / (someone) authenticates a claim
+5. Usage notes: *Satyāpayati* is the causative formation on *satya* via *āp-*, documented in P2a (item 1) as *satyāpana* (the act of verification) and *satyāpita* (the verified result). The CONTEXT documents this in legal and administrative contexts. This is the primary morphological causative in the truth-domain vocabulary, and the CONTEXT notes in P4a (Construction 5) that "a direct morphological causative of a truth-predicate adjective is not a productive pattern in Sanskrit" generally — *satyāpayati* is the exception rather than the rule.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 3.3.2**
+
+1. Expression type: causation of authentication (making into a *pramāṇa*)
+2. Example: (किञ्चित्) प्रमाणीक्रियते
+3. Transliteration: *(kiñcit) pramāṇīkriyate*
+4. English translation: (something) is made into a valid authority / (something) is authenticated
+5. Usage notes: The *pramāṇīkaraṇa* formation (documented in P2a, item 4, as *pramāṇa* + *-īkaraṇa*, "making into a *pramāṇa*") yields the passive *pramāṇīkriyate* as the expression for a document or statement being authenticated. The CONTEXT documents this in "legal and administrative contexts" as "the act of authenticating or validating a document, statement, or claim."
+6. Epistemic status: [CORE]
+
+---
+
+### 3.4 Causation of faults and their removal (Class B)
+
+---
+
+**Expression 3.4.1**
+
+1. Expression type: causation of a fault (in an opponent's position)
+2. Example: (एतत्) दोषम् आपादयति
+3. Transliteration: *(etat) doṣam āpādayati*
+4. English translation: (this) brings about a fault / (this) introduces a defect (in the position)
+5. Usage notes: Documented in P2b (item 26) and P4a (Construction 5) as the standard periphrastic causative construction for introducing a fault into an opponent's argument. *Āpādayati* (causative of *āpad-*, to arrive at, to bring about) takes *doṣa* in the accusative as the caused state. The CONTEXT describes this as "used in philosophical argumentation to charge that an opponent's position leads to a fault or unacceptable consequence."
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 3.4.2**
+
+1. Expression type: removal of a fault (fault does not arise / attach)
+2. Example: दोषः न आपतति
+3. Transliteration: *doṣaḥ na āpatati*
+4. English translation: the fault does not arise / the defect does not attach
+5. Usage notes: Documented in P2b (item 26) as a construction using *doṣa* as the subject of *āpat-* (to fall upon, to arise) with negation; used in philosophical argumentation to deny that a particular objection applies. The construction expresses the non-occurrence of a causal event (the fault arising) rather than the removal of an already-present fault.
+6. Epistemic status: [CORE]
+
+---
+
+### 3.5 Causation of establishment (Class B and C)
+
+---
+
+**Expression 3.5.1**
+
+1. Expression type: establishment by a valid means (claim is established)
+2. Example: प्रमाणेन सिद्धम्
+3. Transliteration: *pramāṇena siddham*
+4. English translation: established by a valid means of cognition / proven by evidence
+5. Usage notes: Documented in P2b (item 4) as "a standard formula in philosophical argumentation to assert that a claim has been validly established." The instrumental *pramāṇena* marks the valid means as the causal instrument; *siddha* (past passive participle of *sidh-*, to be accomplished, to be established) expresses the resultant state. This is the most frequent causative-resultative formula in Sanskrit epistemological argumentation.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 3.5.2**
+
+1. Expression type: establishment by reasoning
+2. Example: न्यायेन सिद्धम्
+3. Transliteration: *nyāyena siddham*
+4. English translation: established by reasoning / proven by logical argument
+5. Usage notes: Documented in P2b (item 14) as a construction parallel to *pramāṇena siddham*, using the instrumental *nyāyena* (by reasoning, by the rule) with *siddha*. The CONTEXT describes this as used "in philosophical and legal argumentation to assert that a claim has been established through correct reasoning or procedure."
+6. Epistemic Status: [CORE]
+
+---
+
+**Expression 3.5.3**
+
+1. Expression type: non-establishment (claim is contradicted by evidence)
+2. Example: प्रमाणविरुद्धम्
+3. Transliteration: *pramāṇaviruddham*
+4. English translation: contrary to valid cognition / contradicted by evidence
+5. Usage notes: Documented in P2b (item 4) as a construction "characterizing a claim or position as contradicted by valid means of cognition." *Viruddha* (past passive participle of *virudh-*, to obstruct, to contradict) expresses the resultant state of a claim that has been causally undermined by evidence. The CONTEXT notes this is "used in philosophical argumentation to reject a position as epistemically untenable."
+6. Epistemic status: [CORE]
+
+---
+
+## Section 4: Stability — Expressions of Maintaining a Truth-Related State
+
+The CONTEXT documents a distinct set of constructions expressing the *maintenance* of a truth-related state against deviation. These are not inchoative or causative but express ongoing adherence to a standard.
+
+---
+
+**Expression 4.1**
+
+1. Expression type: stability / non-deviation (person maintains truth)
+2. Example: सत्यात् न चलति / सत्यात् न विचलति
+3. Transliteration: *satyāt na calati* / *satyāt na vicalati*
+4. English translation: does not deviate from truth / does not swerve from truth
+5. Usage notes: Documented in P2b (item 1) as a construction using the ablative *satyāt* with verbs of motion (*cal-*, *vical-*) and negation, expressing steadfast adherence to truth. The CONTEXT notes this is "common in epic literature as a characterization of virtuous heroes." The ablative marks truth as the standard from which no deviation occurs; the negated motion verb expresses stability relative to that standard.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 4.2**
+
+1. Expression type: stability / non-deviation (person maintains dharma)
+2. Example: धर्मात् न चलति
+3. Transliteration: *dharmāt na calati*
+4. English translation: does not deviate from *dharma* / does not depart from right conduct
+5. Usage notes: Documented in P2b (item 13) as structurally parallel to *satyāt na calati*; the ablative *dharmāt* marks *dharma* as the standard from which no deviation occurs. The CONTEXT describes this as used "in epic and legal literature to characterize steadfast adherence to duty."
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 4.3**
+
+1. Expression type: stability / binding to truth (person is bound to truth)
+2. Example: सत्यसंधः (भवति)
+3. Transliteration: *satyasaṃdhaḥ (bhavati)*
+4. English translation: (one) is / becomes bound to truth / (one) is faithful to one's pledge
+5. Usage notes: *Satyasaṃdha* (documented in P2a, item 1, as *satya* + *saṃdha*, "bound to truth") expresses a stable dispositional state of being committed to truth. The CONTEXT describes this as "used in epic literature as an epithet for heroes who keep their oaths and promises" and as evaluating "a person's reliability and integrity in fulfilling commitments." The compound encodes stability as a character property rather than as a momentary state.
+6. Epistemic status: [CORE]
+
+---
+
+**Expression 4.4**
+
+1. Expression type: stability / non-contradiction (cognition does not mislead)
+2. Example: (ज्ञानम्) अविसंवादि भवति
+3. Transliteration: *(jñānam) avisaṃvādi bhavati*
+4. English translation: (the cognition) is non-contradictory / (the cognition) does not mislead with respect to its object
+5. Usage notes: *Avisaṃvādin* (documented in P1, item 30, as "not contradicting, not discordant") combined with *bhavati* expresses the stable property of a cognition that reliably does not mislead. The CONTEXT documents this in Buddhist *pramāṇa* theory (Dignāga, Dharmakīrti) as "a criterion of reliability or validity" — a cognition is *avisaṃvādin* "if acting on it leads to successful engagement with its object." This is a stability criterion rather than a change-of-state expression.
+6. Epistemic status: [MARGINAL]
+
+---
+
+## Section 5: Summary of Behavioral Patterns
+
+The following patterns are supported by the data documented above.
+
+**5.1 Asymmetry between arising and removal.** The inchoative construction (*jā-* / *utpad-*) applies symmetrically to both valid cognition (*pramā utpadyate*) and erroneous cognition (*bhramaḥ jāyate*). However, the removal of error is expressed through a distinct set of verbs (*nivṛt-*, *niras-*) that do not apply to valid cognition. No construction of the form "valid cognition is removed" is documented in the CONTEXT; the asymmetry reflects the evaluative orientation of the vocabulary.
+
+**5.2 Restricted morphological causative.** The CONTEXT documents only one productive morphological causative in the truth-domain: *satyāpayati* (to verify, to authenticate), derived from *satya* via *āp-*. All other causative expressions in this domain are periphrastic (*doṣam āpādayati*, *pramāṇena siddham*, *pramāṇīkriyate*). This is consistent with the observation in P4a (Construction 5) that "a direct morphological causative of a truth-predicate adjective is not a productive pattern in Sanskrit."
+
+**5.3 Ablative as deviation marker.** The ablative case (*satyāt*, *dharmāt*) combined with verbs of motion (*cal-*, *vical-*) is the standard construction for expressing deviation from a truth-related or normative standard. The negated form of this construction (*satyāt na calati*) is the standard expression for stability or steadfastness. No parallel construction using other truth-domain terms in the ablative with motion verbs is documented in the CONTEXT.
+
+**5.4 Instrumental as causal marker.** The instrumental case (*pramāṇena*, *nyāyena*, *bhramaṇa*) is the standard construction for marking the means or instrument by which a truth-related state is caused or through which a cognitive act is performed. This is consistent with the general Sanskrit use of the instrumental for means and instrument.
+
+**5.5 *Pramāṇabhūta* as the primary "becoming" construction for Class B.** Among Class B terms (properties of statements, persons, or objects), *pramāṇabhūta* is the clearest attested example of a "becoming" construction. The *bhūta* element (past passive participle of *bhū-*, to become) encodes the change-of-state meaning directly. No parallel *X-bhūta* construction is documented for other Class B truth-domain terms (*satyabhūta*, *dharmabhūta*, etc.) in the CONTEXT.
+
+**5.6 Absence of direct "become true" predicate for statements.** No construction of the form "statement X becomes true" (with *satya* or *tathya* as a predicate in a change-of-state construction) is documented in the CONTEXT. The closest attested expressions are the verification constructions (*satyāpita bhavati*, "becomes verified") and the establishment formula (*pramāṇena siddham*, "established by evidence"), which express the epistemic status of a statement rather than a change in its truth-value.

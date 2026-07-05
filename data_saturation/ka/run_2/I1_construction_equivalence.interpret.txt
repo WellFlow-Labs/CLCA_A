@@ -1,0 +1,100 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + Adjective + Copula (-a / aris); Subject + Adjective + არ არის (negated) | სიმართლე მწარეა; დამაჯერებელი არ არის | Direct mapping. Affirmative uses enclitic -a; negation requires full copula aris. Two formally distinct sub-patterns. | None |
+| **ADNOM** | Adjective + Noun (prenominal, case-parallel inflection) | ყალბი დოკუმენტი; ჭეშმარიტი სიყვარული | Direct mapping. Fully productive across all truth-domain adjectives. | None |
+| **BECOME** | Stem + -დება (ongoing inchoative); Preverb გა- + stem + -დება (completive inchoative) | ის მართლდება; გამართლდება | Direct mapping for mart- root only. Not attested for namdvili, q̇albi, or č̣ešmariti. | Partial — lexically restricted |
+| **REVELATION** | Idiomatic motion construction: simartle + preverb გამო- + motion verb | სიმართლე გამოვიდა | **SUBSTITUTED BY REVELATION** for "truth becomes known." Functions as the primary expression of truth transitioning from concealed to revealed. Structurally distinct from -deba inchoative. | None for REVELATION itself; BECOME is partially substituted by this |
+| **CAUSATION (factual)** | Preverb გა- + root + -ება (causative-resultative, aorist series, ergative agent) | მან დოკუმენტი გაყალბა; სასამართლომ იგი გაამართლა | Direct mapping for q̇alb- and mart- roots. No dedicated causative morpheme; preverb გა- with verbal stem carries causative-resultative meaning. | Partial — lexically restricted (not attested for č̣ešmariti or sarwmuno) |
+| **CAUSATION (character)** | No dedicated construction attested | — | **NO COMMON EXPRESSION — circumlocution required.** No construction in P4a/P4b encodes "causing someone to be (or become) a truth-teller or deceiver" as a character-level operation distinct from factual causation. | Morphosyntactic gap |
+| **VERIFICATION** | No dedicated construction attested | — | **MISSING (structural gap).** No construction in P4a/P4b maps to a verification operator (confirming that a proposition or entity is true/genuine through an explicit checking procedure). | Structural gap |
+| **DISCONFIRMATION** | No dedicated construction attested | — | **MISSING (structural gap).** No construction in P4a/P4b maps to a disconfirmation operator (establishing that a proposition or entity is false through an explicit checking procedure). | Structural gap |
+| **NEGATION** | (a) Analytic: Subject + Adjective + არ არის; (b) Morphological: უ- prefix + stem; (c) Morphological: არა- prefix + stem | დამაჯერებელი არ არის; უტყუარი; უსამართლო; arasando | Both analytic and morphological strategies are attested. Analytic negation (ar aris) operates at the predication level. Morphological negation (u-, ara-) operates at the lexeme level. The two morphological prefixes are not interchangeable: u- produces lexicalized forms, ara- produces compositional negations. | None — multiple strategies present |
+| **NOMINALIZATION** | (a) სი-...-ე circumfix; (b) -ობა suffix; (c) -ება suffix | სიმართლე; ნამდვილობა; ჭეშმარიტება | Direct mapping. Three formally distinct sub-patterns, documented as non-interchangeable in P4a. Additionally, agentive nominalization is attested (მტყუანი, თვალთმაქცი). | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME in the truth domain
+
+The morphological inchoative (-deba) is attested only for the mart- root within this domain. For the semantically central noun simartle ("truth"), the transition from concealed to revealed is expressed not through the inchoative suffix but through the idiomatic motion construction სიმართლე გამოვიდა ("the truth came out"). P4a explicitly identifies this as the closest natural equivalent for "truth becomes known" while noting it is not morphologically inchoative. The substitution is therefore systematic for simartle: where a BECOME operator might be expected, the language uses a REVELATION-type motion construction instead. The two constructions are not in free variation; the motion construction is the attested form for simartle, and the -deba inchoative is the attested form for mart-.
+
+### 2.2 Asymmetry between truth and falsity in BECOME and CAUSATION
+
+The inchoative (-deba) and causative-resultative (ga-...-eba) constructions are both attested for the mart- root (becoming justified, causing to be vindicated) and the q̇alb- root (causing to be falsified). However, no inchoative form is attested for q̇albi, namdvili, or č̣ešmariti. This means the BECOME operator is available for the "truth/justification" side of the domain (mart-) but not for the "genuine/authentic" or "philosophically true" sides. The CAUSATION (factual) operator is attested on both the truth side (gamartleba) and the falsity side (gaq̇albeba), but not for č̣ešmariti or sarwmuno. The asymmetry is lexical rather than structural: the morphological patterns are productive in principle, but the attested data does not confirm their extension to all roots.
+
+### 2.3 Positive/negative formal asymmetry in ATTR
+
+The affirmative ATTR construction uses the enclitic copula -a, while the negative ATTR construction requires the full copula aris preceded by the negation particle ar. This is a categorical morphosyntactic restriction documented in P4a and P4b: the enclitic -a is unavailable under negation. The two sub-patterns of ATTR are therefore formally non-parallel, though they map to the same semantic operator.
+
+### 2.4 NEGATION operates at two distinct levels
+
+Analytic negation (ar aris) operates at the level of predication and is the mechanism for negative ATTR. Morphological negation (u-, ara-) operates at the level of the lexeme and produces new adjectives or nouns. The two strategies are not interchangeable: ar aris negates a predication, while u- and ara- produce new lexical items. Within morphological negation, u- and ara- are themselves not interchangeable: u- yields lexicalized forms with meanings not fully predictable from components (uẗq̇uari, "infallible," not simply "without lie"), while ara- yields compositional negations (arasando, "not trustworthy"). This three-way distinction (analytic predication negation, lexicalized privative, compositional privative) is supported by the P4a and P4b data.
+
+### 2.5 VERIFICATION and DISCONFIRMATION: no attested constructions
+
+Neither VERIFICATION nor DISCONFIRMATION is represented by a dedicated construction in the P4a/P4b data. The concessive construction (martalia, magram...) comes closest to acknowledging the truth of a proposition, but it predicates truth of an implicit prior proposition rather than encoding a checking or testing procedure. The discourse-framing constructions (simartle rom vt̕q̇vat̕; simartle isaa, rom...) frame a speaker's assertion as honest but do not encode verification of an external claim. No construction in the data encodes the operation of checking whether something is true or false and arriving at a result.
+
+### 2.6 CAUSATION (character) is not distinguished from CAUSATION (factual)
+
+The causative-resultative construction (ga-...-eba) encodes causing a document to be falsified or causing a person to be vindicated. These are factual causation events. No construction in the data encodes causing a person to become a liar or a truth-teller as a character-level operation. The agentive nominals (mt̕q̇uani, t̕valt̕maq̇c̕i) name the character role but do not participate in a causative construction in the attested data.
+
+### 2.7 Discourse-framing constructions are lexically restricted to simartle
+
+Both discourse-framing constructions (simartle rom vt̕q̇vat̕; simartle isaa, rom...) are specific to simartle and have no parallel with č̣ešmariteba or other truth-domain nouns, and no parallel in the falseness domain. This is an asymmetry between the truth side and the falsity side of the domain: the language has grammaticalized epistemic framing constructions around simartle that are not available for other truth-domain lexemes.
+
+### 2.8 The concessive construction is lexically restricted to martali
+
+The concessive formula (martalia, magram...) is specific to the adjective martali and does not extend to simartle or č̣ešmariteba. This means the concessive operator, to the extent it constitutes a distinct construction, is available only through one lexeme in the truth domain.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **VERIFICATION**: No construction in the P4a/P4b data encodes a verification operation (checking whether a proposition or entity is true/genuine and arriving at a confirmed result). This is a structural gap: the absence is not a matter of missing vocabulary but of a missing constructional pattern.
+- **DISCONFIRMATION**: No construction in the P4a/P4b data encodes a disconfirmation operation (checking whether a proposition or entity is false and arriving at a disconfirmed result). This is a structural gap for the same reason.
+- **CAUSATION (character)**: No construction encodes causing a person to acquire or lose a truth-related character property (becoming a liar, being made honest). The causative-resultative construction is attested only for factual/event causation (falsifying a document, vindicating a person in a legal sense), not for character-level change. This is a structural gap in the attested data.
+
+### 3.2 Lexical Gaps
+
+- **Agentive nominal for "truth-teller"**: P4a explicitly notes that a dedicated agentive nominal parallel to mt̕q̇uani ("liar") is not a common lexicalized form. The concept is expressed through martali used nominally or through verbal constructions (simartle ambobs). This is a lexical gap: the morphological pattern for agentive nominalization is available, but the specific lexeme is not conventionalized.
+- **Inchoative forms for namdvili, q̇albi, č̣ešmariti**: The -deba inchoative is attested only for the mart- root. No inchoative forms are attested for the other truth-domain adjectives. This is a lexical gap within a productive morphological pattern.
+- **Causative forms for č̣ešmariti and sarwmuno**: The causative-resultative pattern is attested for mart- and q̇alb- roots but not for č̣ešmariti or sarwmuno. This is a lexical gap within a productive morphological pattern.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a/P4b data alone. The absence of VERIFICATION and DISCONFIRMATION constructions could reflect a conceptual gap, but the data does not provide sufficient evidence to distinguish a conceptual gap from a structural or lexical one. This analysis does not assert a conceptual gap on the basis of available data.
+
+### 3.4 Asymmetric Gaps
+
+- **BECOME**: Attested for mart- (truth/justification side) only. Not attested for q̇albi (falsity side) or for namdvili, č̣ešmariti. The truth side has both a morphological inchoative and an idiomatic REVELATION substitute; the falsity side has neither.
+- **REVELATION-type construction**: Attested only for simartle (სიმართლე გამოვიდა). No parallel construction is attested for falsity becoming known or for č̣ešmariteba becoming revealed. The REVELATION construction is asymmetrically available on the truth side.
+- **Discourse-framing constructions**: Attested only for simartle. No parallel on the falsity side and no parallel for other truth-domain nouns. This is an asymmetric gap: the epistemic framing function is available for simartle but not for the rest of the domain.
+- **Concessive construction**: Attested only for martali. Not available for simartle or č̣ešmariteba. This is an asymmetric gap within the truth side of the domain.
+- **Morphological negation (u-)**: Attested examples (uẗq̇uari, usamart̕lo) are on the truth/justice side. No u- forms are documented for the falsity side (no *u-q̇albi type form is attested in the data). This may be an asymmetric gap or a gap in the attested data; the analysis does not go beyond what is documented.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two formally distinct sub-patterns (affirmative enclitic -a; negative ar aris). Both are core, productive, and unrestricted across truth-domain adjectives. |
+| **ADNOM** | **Fully available** | Prenominal adjective with case-parallel inflection. Fully productive across all truth-domain adjectives. No restrictions attested. |
+| **BECOME** | **Partially available** | Morphological inchoative (-deba, ga-...-deba) attested for mart- root only. Not attested for namdvili, q̇albi, or č̣ešmariti. Lexically restricted. |
+| **REVELATION** | **Available with substitution** | The idiomatic motion construction (simartle gamovida) substitutes for BECOME in the specific context of truth transitioning from concealed to revealed. Attested for simartle only; no parallel for falsity or other truth-domain nouns. |
+| **CAUSATION (factual)** | **Partially available** | Causative-resultative (ga-...-eba, ergative agent, aorist series) attested for mart- and q̇alb- roots. Not attested for č̣ešmariti or sarwmuno. Lexically restricted. |
+| **CAUSATION (character)** | **Missing entirely** | No construction in the attested data encodes causing a person to acquire or lose a truth-related character property. Structural gap in the attested data. |
+| **VERIFICATION** | **Missing entirely** | No dedicated construction attested. Structural gap. |
+| **DISCONFIRMATION** | **Missing entirely** | No dedicated construction attested. Structural gap. |
+| **NEGATION** | **Fully available** | Three distinct strategies: analytic predication negation (ar aris); lexicalized privative morphological negation (u-); compositional morphological negation (ara-). All three are attested and documented as non-interchangeable. |
+| **NOMINALIZATION** | **Fully available** | Three formally distinct abstract nominalization patterns (si-...-e, -oba, -eba) plus agentive nominalization (m-...-i, compound agentive). All are attested and productive within the domain, with the noted lexical gap for a conventionalized "truth-teller" agentive. |

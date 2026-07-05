@@ -1,0 +1,84 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **NP + ni + kweli / uongo / sahihi / batili / halali / haramu / dhahiri** | **Ni kweli.**; **Hii ni sahihi.** | Direct match to predicative attribution | None |
+| ADNOM | **Noun + adjective/descriptive form**; also **N + wa/ya/za + ukweli / uongo / asili** | **taarifa sahihi**; **dawa bandia**; **habari za uongo**; **bidhaa ya asili** | Direct modification is available; genitive quality construction also functions as adnominal qualification | None |
+| BECOME | **ku- + root + -ika** only clearly attested with **-amini- → -aminika** | **Taarifa hii inaaminika.**; **Chanzo hicho hakiaminiki.** | Available only for credibility/trustworthiness, not generally for **kweli / uongo / sahihi** | Partial morphosyntactic gap |
+| REVELATION | **(no construction listed in P4a/P4b)** | — | **MISSING (structural gap)** | Structural gap |
+| CAUSATION (factual) | **(no common expression identified)** | — | **NO COMMON EXPRESSION - circumlocution required** | Morphosyntactic gap |
+| CAUSATION (character) | Periphrastic **kutia imani** | **Hotuba yake ilitia imani.**; **Kiongozi huyo anatia imani.** | Causation-like expression limited to causing confidence/trust, not directly “make true/correct” | Partial; circumlocution only |
+| VERIFICATION | **NP + ni + kweli / sahihi / dhahiri**; also clausal complement with **ni dhahiri kwamba** | **Ni kweli.**; **Hii ni sahihi.**; **Ni dhahiri kwamba ni uongo.** | Expressed through attribution/evidential assessment rather than a distinct verification construction | **SUBSTITUTED BY ATTR** |
+| DISCONFIRMATION | **si + predicate**; also stronger **ni uongo / ni batili** | **Si kweli.**; **Jibu hili si sahihi.** | Expressed through negated attribution or negative-value attribution | **SUBSTITUTED BY NEGATION / ATTR** |
+| NEGATION | Analytic **si + predicate**; also positive predication with negative-value noun/adjective | **Si kweli.**; **Jibu hili si sahihi.**; also **ni uongo / ni batili** as noted in P4a/P4b | Negation is analytic, with an additional lexicalized rejection strategy | None |
+| NOMINALIZATION | Abstract **u- + stem**; agentive **m-/mw- + stem** | **ukweli**; **usahihi wa taarifa**; **mwongo**; **mkweli** | Direct nominalization available for abstract qualities and person roles | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Swahili shows clear direct support for **attribution**, **adnominal modification**, **negation**, and **nominalization** in the truth domain.
+
+For **BECOME**, the attested construction is narrow. The only clearly identified pattern is **-aminika** ‘be credible, be trustworthy’, as in **Taarifa hii inaaminika.** and **Chanzo hicho hakiaminiki.** P4a explicitly states that no equally common inchoative was identified for **kweli**, **uongo**, or **sahihi**. So BECOME is only partially available and is lexically restricted.
+
+No **REVELATION** construction is listed in P4a or P4b. On the supplied evidence, this category is structurally missing. There is therefore no basis here for saying that revelation replaces become.
+
+For **CAUSATION (factual)**, P4a explicitly says **(no common expression identified)**. The only nearby form is **kutia imani**, illustrated by **Hotuba yake ilitia imani.** and **Kiongozi huyo anatia imani.** P4b marks this as marginal and restricts it to causing confidence, not making something true or correct. So factual causation is not directly expressed by an attested productive construction.
+
+For **CAUSATION (character)**, **kutia imani** functions as a periphrastic causation-like expression. Syntactically, it is a verb phrase with a light verb carrier (**-tia**) plus the noun **imani**. It does not directly encode truth or correctness, but rather the causing of confidence/trust.
+
+**VERIFICATION** is not represented by a distinct construction in the supplied material. Instead, truth confirmation is expressed through ordinary attribution or evidential predication: **Ni kweli.**, **Hii ni sahihi.**, **Ni dhahiri kwamba ni uongo.** Descriptively, verification is therefore substituted by **ATTR**.
+
+**DISCONFIRMATION** is likewise not given as a separate operator. Swahili uses either analytic negation (**Si kweli.**, **Jibu hili si sahihi.**) or stronger negative-value attribution (**ni uongo**, **ni batili**). Descriptively, disconfirmation is expressed through **NEGATION** and through ordinary attribution with a negative lexical predicate.
+
+There is a clear asymmetry between positive and negative forms. Plain rejection is strongly represented by **si + predicate**, and stronger rejection can be expressed by **ni uongo / ni batili**. By contrast, positive inchoative or causative formations for “become true/correct” or “make true/correct” are not identified.
+
+Negation is clearly **analytic**, not morphological, in the core predicative pattern: **si + predicate**. In the BECOME examples, polarity also appears analytically in the clause, as in **hakiaminiki**, but P4a/P4b do not present this as a general truth-domain negation operator; the core negation pattern identified is **si + predicate**.
+
+**VERIFICATION** and **DISCONFIRMATION** do not share one dedicated construction. Both are instead distributed across attributional patterns: positive attribution for verification-like meanings, and negated or negative-value attribution for disconfirmation-like meanings.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION**: **MISSING (structural gap)**
+- No distinct attested construction for **VERIFICATION** as a separate operator: **SUBSTITUTED BY ATTR**
+- No distinct attested construction for **DISCONFIRMATION** as a separate operator: **SUBSTITUTED BY NEGATION / ATTR**
+
+### Lexical Gaps
+- No equally common inchoative lexical/constructional expression identified for **kweli**, **uongo**, or **sahihi** under BECOME
+- No dedicated causative lexical expression identified for “make true/correct”
+
+### Conceptual Gaps
+- No conceptual gap is explicitly established in P4a/P4b; the missingness described is constructional or lexical, not stated as inability to express the meanings altogether
+
+### Asymmetric Gaps
+- **BECOME** is available only for credibility/trustworthiness via **-aminika**, not broadly across truth/correctness predicates
+- **CAUSATION** is only marginally represented by **kutia imani**, which targets confidence/trust rather than truth/correctness
+- Negative evaluation is better represented than positive inchoative/causative derivation: **si kweli**, **si sahihi**, **ni uongo**, **ni batili** are attested, while no parallel productive “become true/correct” or “make true/correct” construction is identified
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **VERIFICATION** — **SUBSTITUTED BY ATTR**
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION / ATTR**
+
+### Partially available
+- **BECOME** — available only in the restricted credibility/trustworthiness pattern **-aminika**
+- **CAUSATION (character)** — only via marginal periphrastic **kutia imani**
+
+### Missing entirely
+- **REVELATION**
+- **CAUSATION (factual)**
+
+### Normalized notes on multi-word expressions
+- **ni kweli / ni sahihi / ni dhahiri / ni uongo / ni batili**: predicative attribution constructions
+- **si kweli / si sahihi**: analytic negation of predication
+- **taarifa sahihi / dawa bandia**: postnominal adjectival/descriptive modification
+- **habari za uongo / bidhaa ya asili**: genitive adnominal qualification
+- **sema ukweli / alisema uongo**: light-verb construction, with **sema/kusema** as the verbal carrier and **ukweli/uongo** as the semantic object
+- **kutia imani**: periphrastic light-verb construction, with **-tia** as the verbal carrier and **imani** as the semantic object
+- **kwamba**-clauses: propositional complement construction used with belief/evidential predicates, not a separate truth-operator construction in the supplied data

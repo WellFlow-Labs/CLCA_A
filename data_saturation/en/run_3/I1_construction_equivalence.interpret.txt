@@ -1,0 +1,101 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+**Language: English (en)**
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copular predication: Subject + BE + truth-domain adjective | *The account is accurate.* / *His testimony was truthful.* | Direct; no substitution required | None |
+| **ADNOM** | Prenominal attributive adjective + noun | *a credible witness* / *fraudulent misrepresentation* | Direct; no substitution required | None |
+| **BECOME** | *become* + adjective (grammatical but marginal) | *The rumor became true.* | **SUBSTITUTED BY REVELATION** (*prove* + adjective; *turn out to be* + adjective) | Morphosyntactic gap: no dedicated inchoative morpheme or construction; the available frame is [MARGINAL] |
+| **REVELATION** | (a) PROVE + adjective; (b) TURN OUT TO BE + adjective | *The rumor proved true.* / *The document turned out to be fraudulent.* | Substitutes for BECOME; adds evidential/discovery meaning | None as a revelation frame; functions as the primary inchoative-evidential strategy |
+| **CAUSATION (factual)** | (a) Derivational verbal causative (*validate*, *authenticate*, *verify*, *legitimize*, *correct*, *falsify*); (b) MAKE + NP + adjective [MARGINAL] | *The expert authenticated the painting.* / *New evidence validated the hypothesis.* | Direct for items with derivational verbs; periphrastic fallback is marginal | Lexical gap: derivational causatives are not available for all adjectives (*\*genuinize*, *\*accuratize*); periphrastic *make X true/valid* is [MARGINAL] |
+| **CAUSATION (character)** | No dedicated construction attested | — | **NO COMMON EXPRESSION — circumlocution required** (e.g., *he is known to be truthful*; *she has a reputation for honesty*) | Structural gap: no construction specifically encoding the attribution of a truth-domain property as a stable character trait is documented in P4a or P4b |
+| **VERIFICATION** | Derivational verbal causatives (*verify*, *authenticate*, *validate*) + near-synonymous verbs (*confirm*, *establish*, *demonstrate*) | *The verification of the claim took three days.* / *The expert authenticated the painting.* | Partially overlaps with CAUSATION (factual); *verify* and *authenticate* are the closest dedicated forms | None for the core items; lexical gap for adjectives lacking derivational verb forms |
+| **DISCONFIRMATION** | (a) *falsify* (derivational); (b) *not genuine* / *inauthentic* (negation); (c) lexically distinct antonyms (*fake*, *bogus*, *counterfeit*) | *The document turned out to be fraudulent.* / *The claim is not genuine.* | **SUBSTITUTED BY NEGATION + REVELATION** in combination; no single dedicated disconfirmation construction | Lexical gap: *falsify* covers only a subset of the domain; no parallel derivational verb to *verify* exists for all adjectives |
+| **NEGATION** | (a) Prefixed negative adjective (*in-*, *un-*, *im-*, *il-*); (b) NOT + adjective (periphrastic); (c) lexically distinct antonym (*fake*, *bogus*, *counterfeit*) | *The document is inauthentic.* / *The claim is not genuine.* / *The claim is fake.* | Both morphological (a) and analytic (b, c) strategies attested; (b) is the universal fallback | Asymmetric gap: prefixed negation is not available for all items (e.g., *\*not-genuine* requires periphrasis or antonym substitution) |
+| **NOMINALIZATION** | Multiple suffixes: *-ity*, *-ness*, *-cy*, *-tion*, *-ude*, *-th* | *The authenticity of the document was disputed.* / *The verification of the claim took three days.* | Direct; multiple competing forms; suffix selection is lexically determined | Lexical gap: suffix selection is not predictable; some bases have competing nominalizations with distinct register or meaning (*truthfulness* vs. *truth*; *exactness* vs. *exactitude*) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for BECOME
+
+English lacks a dedicated inchoative morpheme or construction for the truth domain. The frame *become + adjective* is grammatically available but is documented in P4b as [MARGINAL] and uncommon in natural usage. In practice, the BECOME function is carried by two REVELATION constructions: *prove + adjective* (evidential, retrospective, formal) and *turn out to be + adjective* (discovery-oriented, often implying surprise, neutral to informal). These two constructions do not merely encode change of state; they additionally encode the speaker's epistemic relationship to the discovery. The substitution is therefore not semantically neutral: REVELATION adds an evidential layer that bare BECOME does not require. The fixed idiom *come true* is attested but is restricted to wishes, predictions, and fears and does not function as a productive BECOME frame.
+
+### 2.2 VERIFICATION and CAUSATION (factual) share the same construction set
+
+The derivational verbal causatives (*verify*, *authenticate*, *validate*, *legitimize*, *correct*, *falsify*) serve both the CAUSATION (factual) and VERIFICATION operators. No structural distinction separates the two functions in English: *The expert authenticated the painting* can be read as causing the painting to be authentic (CAUSATION) or as establishing that it is authentic (VERIFICATION). The near-synonymous verbs *confirm*, *establish*, and *demonstrate* are documented in P4b as functioning in the same slot. This overlap means that VERIFICATION does not have a construction set independent of CAUSATION (factual) in English; the two operators share their surface forms and are distinguished only by context and pragmatics.
+
+### 2.3 DISCONFIRMATION is expressed through combinations of NEGATION and REVELATION
+
+No single dedicated disconfirmation construction is attested. The closest available form is *falsify*, but this covers only a subset of the domain (it applies to claims, hypotheses, and documents, not to agents or character). In practice, disconfirmation is expressed by combining a REVELATION construction with a NEGATION strategy: *The document turned out to be fraudulent* (REVELATION + lexical antonym); *The claim proved not to be genuine* (REVELATION + periphrastic negation); *The account was shown to be inaccurate* (near-synonymous causative-evidential + prefixed negation). DISCONFIRMATION is therefore **SUBSTITUTED BY REVELATION + NEGATION** in combination.
+
+### 2.4 NEGATION is both morphological and analytic, with asymmetric coverage
+
+English employs three negation strategies in the truth domain, and they are not interchangeable. Prefixed negation (*in-*, *un-*, *im-*, *il-*) is morphological and available for a subset of adjectives (*inaccurate*, *incorrect*, *invalid*, *insincere*, *implausible*, *unreliable*, *illegitimate*, *inauthentic*, *untruthful*, *unsound*). Periphrastic negation (NOT + adjective) is analytic and universally available as a fallback. Lexically distinct antonyms (*fake*, *bogus*, *counterfeit*, *spurious*) are a third strategy that carries additional semantic content (typically implying deliberate deception or material forgery) not present in simple negation. The three strategies are not in free variation: register, availability of prefixed forms, and semantic nuance determine which is used. The asymmetry is directional: morphological negation is available only for a proper subset of the domain, while analytic negation covers the whole domain.
+
+### 2.5 Positive and negative agent nominalization are asymmetric
+
+As documented in P4a §7 and P4b §7, the deception and fraud cluster has richer and more productive agentive morphology (*faker*, *counterfeiter*, *fraudster*, *con man*, *defrauder*) than the positive honest-agent cluster, where the compound *truth-teller* is the preferred form and no suffixed equivalent is standard. This asymmetry is consistent across the P2a lexical data and the P4a/P4b constructional data and is not an artifact of a single construction type.
+
+### 2.6 CAUSATION (character) has no attested construction
+
+No construction in P4a or P4b is documented as encoding the attribution of a truth-domain property as a stable character trait through a dedicated frame. The agentive nominalizations (*truth-teller*, *fraudster*) encode character indirectly through agent-role labeling, but this is not a CAUSATION (character) construction in the sense of a frame that takes an agent and assigns a truth-domain character property. Circumlocution is required.
+
+### 2.7 Light verbs as semantic carriers
+
+In the REVELATION constructions, *prove* and *turn out* function as light-verb-like carriers of the evidential/discovery meaning, with the truth-domain adjective carrying the propositional content. In the CAUSATION constructions, *make* functions as a light verb in the periphrastic frame (*make X valid*), though this frame is [MARGINAL]. The derivational causative verbs (*authenticate*, *validate*, *verify*) are not light verbs; they are lexically full. In the EVIDENTIAL AND DISCOURSE-MARKING constructions (P4a §8), *tell* in *truth be told* and *to tell the truth* functions as a light verb within a frozen idiom; the truth-domain element (*truth*) is the semantic head.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **BECOME**: No dedicated inchoative construction for the truth domain. The grammatically available *become + adjective* frame is [MARGINAL]. The function is structurally covered by REVELATION constructions, which add evidential meaning not present in a bare inchoative.
+- **CAUSATION (character)**: No construction is documented in P4a or P4b that encodes the assignment of a truth-domain property as a stable character trait through a dedicated syntactic frame. **MISSING (structural gap)**.
+- **DISCONFIRMATION**: No single dedicated disconfirmation construction. The function requires a combination of REVELATION + NEGATION constructions. **NO COMMON EXPRESSION — circumlocution required** for a single-operator disconfirmation frame.
+
+### 3.2 Lexical Gaps
+
+- **CAUSATION (factual) / VERIFICATION**: Derivational causative verbs are not available for all truth-domain adjectives. *\*Genuinize*, *\*accuratize*, *\*plausibilize*, and parallel forms are unattested. Items lacking a derivational verb must use the [MARGINAL] periphrastic *make X adjective* or a near-synonymous non-derived verb (*confirm*, *establish*).
+- **NEGATION (morphological)**: Prefixed negation is not available for all adjectives. *Genuine*, *bona fide*, *plausible* (partially), and others lack productive prefixed negatives and require periphrastic negation or lexical antonyms.
+- **NOMINALIZATION**: Suffix selection is lexically determined and not predictable from the base form. Some bases lack a nominalization in a given suffix class (e.g., no *\*genuinity* alongside *genuineness*). Competing nominalizations with distinct register or meaning exist for several items (*truth* vs. *truthfulness*; *exactness* vs. *exactitude*).
+- **AGENTIVE NOMINALIZATION (positive)**: No suffixed agentive form for the positive honest-agent role is standard. *\*Truther* (in the neutral sense) is unattested; *truth-teller* (compound) is the preferred form.
+- **DISCONFIRMATION**: *Falsify* covers only a subset of the domain; no parallel derivational verb to *verify* exists for all truth-domain adjectives.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a and P4b data alone. All documented absences are either structural or lexical in character. The absence of CAUSATION (character) as a construction type may reflect a structural gap rather than a conceptual one, since the concept is expressible through circumlocution.
+
+### 3.4 Asymmetric Gaps
+
+- **Positive vs. negative agent nominalization**: The negative/deceptive agent cluster has richer morphological expression than the positive/honest agent cluster. The positive side shows a lexical gap (no productive suffixed agentive) where the negative side does not.
+- **Morphological negation**: Available for a proper subset of truth-domain adjectives; the positive (non-negated) forms are universally available in the copular attribution frame, but their morphological negatives are not uniformly available.
+- **Verbal idioms**: The idiom cluster (*ring true/false*, *hold true*, *come true*, *stand corrected*, *prove true*) is concentrated around the base form *true*. No parallel idiom set is documented for *accurate*, *credible*, *authentic*, *valid*, or other truth-domain adjectives. This is an asymmetric lexical gap favoring *true* over the rest of the domain.
+- **REVELATION constructions**: *Prove + adjective* is most natural with *true*, *false*, *correct*, *accurate*, *valid* (P4b §4); it is less available for the full range of truth-domain adjectives. *Turn out to be + adjective* has wider coverage. This is a partial asymmetry within the REVELATION category.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Copular predication with BE + truth-domain adjective; no restrictions across the domain. |
+| **ADNOM** | **Fully available** | Prenominal attributive adjective + noun; dominant and unmarked order; some lexicalized collocations. |
+| **BECOME** | **Available with substitution** | Bare *become + adjective* is [MARGINAL]; function is carried by REVELATION constructions (*prove*, *turn out to be*), which add evidential meaning. |
+| **REVELATION** | **Fully available** | Two constructions (*prove + adjective*; *turn out to be + adjective*) cover the function; *prove* has narrower adjective range than *turn out to be*. |
+| **CAUSATION (factual)** | **Partially available** | Derivational causative verbs available for a subset of the domain; lexical gaps for items without derivational verbs; periphrastic fallback is [MARGINAL]. |
+| **CAUSATION (character)** | **Missing entirely** | No dedicated construction documented in P4a or P4b; circumlocution required. |
+| **VERIFICATION** | **Partially available** | Shares construction set with CAUSATION (factual); dedicated verbs (*verify*, *authenticate*, *validate*) available for a subset; lexical gaps parallel those in CAUSATION (factual). |
+| **DISCONFIRMATION** | **Available with substitution** | No single dedicated construction; expressed through REVELATION + NEGATION in combination; *falsify* covers a subset only. |
+| **NEGATION** | **Fully available** | Three strategies (morphological prefix, analytic NOT, lexical antonym); analytic NOT is the universal fallback; morphological prefix has asymmetric coverage across the domain. |
+| **NOMINALIZATION** | **Fully available** | Multiple competing suffixes (*-ity*, *-ness*, *-cy*, *-tion*, *-ude*, *-th*); suffix selection is lexically determined; some lexical gaps in specific suffix classes for specific bases. |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — English (en)*

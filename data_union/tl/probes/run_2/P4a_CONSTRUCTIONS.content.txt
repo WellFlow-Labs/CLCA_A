@@ -1,0 +1,148 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Tagalog (tl)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Predicate-initial verbless clause: **[truth-adjective] + [ang-phrase / pronoun]**
+
+Tagalog is predicate-initial; the truth-evaluating adjective or nominal occupies the predicate position, and the subject follows marked by *ang* (topic marker) or a pronoun.
+
+### Examples
+- *Totoo iyan.* → Totoo iyan → "That is true."
+- *Mali ang sagot.* → Mali ang sagot → "The answer is wrong / incorrect."
+
+### Notes
+The copula is absent; the adjective alone constitutes the predicate. The topic marker *ang* introduces the subject NP. This is the unmarked structure for all attributive truth-predications in Tagalog.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**Hindi + [truth-adjective] + [ang-phrase / pronoun]**
+
+The negator *hindi* precedes the predicate adjective. No other element of the clause structure changes.
+
+### Examples
+- *Hindi totoo iyan.* → Hindi totoo iyan → "That is not true / That is false."
+- *Hindi mali ang ginawa mo.* → Hindi mali ang ginawa mo → "What you did was not wrong."
+
+### Notes
+*Hindi* is the standard negator for non-verbal predicates. The construction *hindi mali* frequently carries a hedging or defensive nuance beyond simple negation, as noted in P2b.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[truth-adjective] + *na* / *-ng* (linker) + [noun]**
+
+Attributive modifiers precede the noun they modify and are connected to it by the linker *na* (after consonants) or its enclitic form *-ng* (after vowels). This is the standard adnominal construction in Tagalog.
+
+### Examples
+- *totoong kwento* → totoong kwento → "true story / real story"
+- *maling impormasyon* → maling impormasyon → "wrong information / misinformation"
+
+### Notes
+The linker *na* / *-ng* is obligatory between modifier and head noun. The pattern *[adjective]-ng [noun]* is fully productive; *tunay na kaibigan* ("true friend"), *huwad na dokumento* ("forged document"), and *kredibleng saksi* ("credible witness") all follow the same structure.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**[truth-adjective / nominal] + *na* (change-of-state particle)**
+
+The discourse particle *na* attached after a predicate signals a change of state or the onset of a new situation. No separate inchoative verb is required.
+
+### Examples
+- *Totoo na.* → Totoo na → "It's become real. / It's actually happening now."
+- *Sigurado na ako.* → Sigurado na ako → "I'm certain now. / I've made sure of it."
+
+### Notes
+This is a particle-based inchoative rather than a morphologically derived one. The same *na* marks completion or current relevance in other contexts; the inchoative reading arises from the combination with a stative predicate. No dedicated inchoative prefix for this semantic field is attested.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+***i-* + [truth/correctness adjective]** (instrumental-causative verb)
+
+The prefix *i-* applied to a correctness adjective generates a verb meaning "to cause [the referent] to be [adjective]; to correct toward [adjective]."
+
+### Examples
+- *Itama ang pagkakamali.* → Itama ang pagkakamali → "Correct the mistake."
+- *Iwasto ang mali.* → Iwasto ang mali → "Set the wrong right. / Correct the error."
+
+### Notes
+This causative pattern is productive for correctness adjectives (*tama* → *itama*; *wasto* → *iwasto*; *akma* → *iakma*) but is not attested for truth-predicate adjectives (*totoo*, *tunay*). For the verification/proof domain, the causative is formed differently: *pa-* + *tunay* + *-an* → *patunayan* ("to cause to be proven; to prove to someone"), a distinct morphological pattern.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**Circumfix *ka-* … *-an* / *-han* + [root]**
+
+This circumfix is the primary mechanism for forming abstract nouns from adjectival roots in this semantic field. It derives a noun denoting the state, quality, or instance of the root meaning.
+
+### Examples
+- *katotohanan* → katotohanan → "truth / the truth / reality" (from *totoo*)
+- *kasinungalingan* → kasinungalingan → "lie / falsehood / untruth" (from *sinungaling*)
+
+### Notes
+The pattern is highly consistent across the field: *katunayan* (genuineness/proof, from *tunay*), *katapatan* (honesty/faithfulness, from *tapat*), *kamalian* (error/mistake, from *mali*), *kawastuhan* (correctness/propriety, from *wasto*), *kasiguruhan* (certainty, from *siguro*), *katumpakan* (precision, from *tumpak*), *kaangkupan* (appropriateness, from *angkop*). The circumfix applies to both indigenous roots and integrated borrowings.
+
+A second nominalization pattern, **pag- + [verbal stem]**, produces action nominals: *pagpapatunay* ("the act of verifying/proving"), *pagsisinungaling* ("the act of lying"), *pagwawasto* ("the act of correcting"), *pagkakamali* ("a specific instance of error").
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**Root form used directly as noun** (for "liar")
+
+*Sinungaling* functions as both noun ("liar") and adjective ("lying, false") without additional affixation. No parallel agentive form for "truth-teller" is attested as a single lexicalized item.
+
+### Examples
+- *Sinungaling ka.* → Sinungaling ka → "You are a liar."
+- *Huwag kang maging sinungaling.* → Huwag kang maging sinungaling → "Don't be a liar."
+
+### Notes
+The agentive for "liar" is lexically supplied by *sinungaling* itself rather than derived by a productive agentive affix. No parallel lexicalized agentive for "truth-teller" (e.g., *\*katotohanin*, *\*tagapagsabi ng katotohanan* as a stable single word) is attested in the data; the concept is expressed periphrastically (*ang nagsasabi ng katotohanan* — "one who tells the truth"). The *taga-* prefix can form agentives (*tagapagtanggol ng katotohanan* — "defender of truth") but these are not lexicalized as stable single-word items in this field.
+
+---
+
+## 8. EXISTENTIAL CONSTRUCTION (PRESENCE / ABSENCE OF TRUTH OR PROOF)
+
+### Pattern
+***May* / *Wala* + *(-ng)* + [truth/proof nominal]**
+
+The existential verb *may* ("there is/are; has") and its negative *wala* ("there is none; lacks") combine with truth and proof nominals to assert the presence or absence of truth, evidence, or trust.
+
+### Examples
+- *Walang pruweba.* → Walang pruweba → "There is no proof."
+- *May katotohanan iyan.* → May katotohanan iyan → "There is truth in that. / That has some truth."
+
+### Notes
+This construction is highly productive across the proof/evidence cluster (*walang ebidensya*, *walang katunayan*, *may katunayan*, *may tiwala*) and the truth cluster (*walang katotohanan*, *may katotohanan*). The negative *wala* requires the linker *-ng* before a following noun (*walang pruweba*). This construction is the standard formula for asserting evidentiary sufficiency or insufficiency in legal and argumentative discourse.
+
+---
+
+## 9. GRAMMATICALIZED DISCOURSE CONNECTOR
+
+### Pattern
+***Sa* + [truth/proof nominal]** used as sentence-initial pragmatic marker
+
+The prepositional phrase *sa* + abstract truth or proof nominal has grammaticalized into a fixed discourse connector introducing corrections, clarifications, or factual emphasis.
+
+### Examples
+- *Sa katotohanan, hindi ko alam.* → Sa katotohanan, hindi ko alam → "In truth, I don't know."
+- *Sa katunayan, mas mataas ang bilang.* → Sa katunayan, mas mataas ang bilang → "In fact, the count is higher."
+
+### Notes
+*Sa katotohanan* and *sa katunayan* are the two primary grammaticalized connectors in this field. A third pattern, *Ang totoo...* ("The truth is..."), uses the topic-marked nominalized form of *totoo* as a sentence-initial frame. These connectors function analogously to English "in truth," "in fact," and "the truth is," and their pragmatic force (correction, emphasis, concession) is not fully predictable from their compositional meanings.

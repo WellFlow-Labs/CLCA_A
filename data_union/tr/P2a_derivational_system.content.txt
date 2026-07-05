@@ -1,0 +1,623 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Turkish (tr)
+# Layer: P2a_derivational_system
+
+---
+
+## Preliminary Note on Scope
+
+This step documents attested derivational morphology for the lexical items identified in P1. The P1b root expansion has already established derivational families for the three central roots (*doğr-*, *gerçek-*, *hak-/hakk-*). This step therefore focuses on:
+
+1. Derivations from P1 items not already covered in P1b
+2. Any derivations from P1b items that extend the system further and are independently attested
+3. Explicit notation of gaps where derivation does not occur or is not attested
+
+Forms already fully documented in P1b are cross-referenced rather than repeated in full.
+
+---
+
+## DERIVED FORMS BY BASE
+
+---
+
+### Base: **doğru**
+
+*Core derivations already documented in P1b: doğruluk, doğrulamak, doğrulama, doğrulanmak, doğrulatmak, doğrultmak, doğrultu, doğrudan, doğrusal, doğrulayıcı, doğrulanabilir, doğrulanabilirlik.*
+
+---
+
+**Derived Form 1**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğruluk
+3. **Transliteration:** doğruluk
+4. **Literal Breakdown:** *doğru* + *-luk* (abstract noun suffix)
+5. **Natural English translation:** truth, correctness, accuracy, integrity, truthfulness
+6. **Usage:** Names the property of being true, correct, or morally upright. Used in philosophical, moral, and everyday contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 2**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulamak
+3. **Transliteration:** doğrulamak
+4. **Literal Breakdown:** *doğru* + *-la-* (factitive/denominative verbalizer) + *-mak* (infinitive)
+5. **Natural English translation:** to verify, to confirm, to validate
+6. **Usage:** The primary verbal derivative; used in administrative, journalistic, legal, and scientific registers for the act of establishing the truth or validity of a claim or document.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 3**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulama
+3. **Transliteration:** doğrulama
+4. **Literal Breakdown:** *doğru* + *-la-* + *-ma* (verbal noun)
+5. **Natural English translation:** verification, confirmation, authentication, validation
+6. **Usage:** Nominalized form of *doğrulamak*; standard in technical, administrative, and journalistic registers. *Kimlik doğrulama* ("identity verification") is a fixed technical term.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 4**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulanmak
+3. **Transliteration:** doğrulanmak
+4. **Literal Breakdown:** *doğru* + *-la-* + *-n-* (passive) + *-mak*
+5. **Natural English translation:** to be verified, to be confirmed
+6. **Usage:** Passive form; used in scientific and journalistic registers when the claim or document is the grammatical subject. *İddia henüz doğrulanmadı.* ("The claim has not yet been confirmed.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 5**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulanabilir
+3. **Transliteration:** doğrulanabilir
+4. **Literal Breakdown:** *doğru* + *-la-* + *-n-* + *-abil-* (potential suffix) + *-ir*
+5. **Natural English translation:** verifiable
+6. **Usage:** Technical term in philosophy of science and empirical methodology.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 6**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulanabilirlik
+3. **Transliteration:** doğrulanabilirlik
+4. **Literal Breakdown:** *doğrulanabilir* + *-lik*
+5. **Natural English translation:** verifiability
+6. **Usage:** Technical term in philosophy of science; used in Turkish discussions of logical positivism.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 7**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulayıcı
+3. **Transliteration:** doğrulayıcı
+4. **Literal Breakdown:** *doğrula-* + *-yıcı* (agentive/adjectival suffix)
+5. **Natural English translation:** verifying, confirmatory; a verifier
+6. **Usage:** Describes a person, mechanism, or process that performs verification. *Doğrulayıcı kod* ("verification code") is standard in digital contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 8**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrultmak
+3. **Transliteration:** doğrultmak
+4. **Literal Breakdown:** *doğru* + *-lt-* (causative) + *-mak*
+5. **Natural English translation:** to straighten, to correct, to aim, to direct
+6. **Usage:** Used in physical contexts (straightening an object) and figurative contexts (correcting a course of action or aiming an instrument).
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 9**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulmak
+3. **Transliteration:** doğrulmak
+4. **Literal Breakdown:** *doğru* + *-l-* (intransitive/reflexive) + *-mak*
+5. **Natural English translation:** to straighten up, to sit up straight, to rise upright
+6. **Usage:** Used in physical contexts to describe a person or object becoming upright. *Yataktan doğruldu.* ("He/she sat up in bed.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 10**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrultu
+3. **Transliteration:** doğrultu
+4. **Literal Breakdown:** nominal derivative of *doğrultmak*; *doğru* + *-ltu* (deverbal/denominal noun suffix)
+5. **Natural English translation:** direction, alignment, line of direction
+6. **Usage:** Used in technical, navigational, and spatial contexts to denote a line or direction of orientation. *Kuzey doğrultusunda* ("in the direction of north").
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 11**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrudan
+3. **Transliteration:** doğrudan
+4. **Literal Breakdown:** *doğru* + *-dan* (ablative, lexicalized as adverb)
+5. **Natural English translation:** directly, straight, without intermediary
+6. **Usage:** High-frequency adverb used across all registers. *Doğrudan konuya gelelim.* ("Let's get straight to the point.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 12**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrusal
+3. **Transliteration:** doğrusal
+4. **Literal Breakdown:** *doğru* + *-sal* (adjectival suffix for scientific/technical use)
+5. **Natural English translation:** linear, rectilinear
+6. **Usage:** Technical term in mathematics, physics, and engineering. *Doğrusal denklem* ("linear equation").
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 13**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğruca
+3. **Transliteration:** doğruca
+4. **Literal Breakdown:** *doğru* + *-ca* (adverbial/manner suffix)
+5. **Natural English translation:** straightforwardly, directly, honestly
+6. **Usage:** Used as an adverb to indicate that something is done in a direct or straightforward manner, without detour or evasion. *Doğruca eve gitti.* ("He/she went straight home.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 14**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrucu
+3. **Transliteration:** doğrucu
+4. **Literal Breakdown:** doğru (correct/true) + -cu (agentive/habitual suffix)
+5. **Natural English translation:** truth-teller, one who always tells the truth
+6. **Usage:** Used to describe a person habitually committed to telling the truth; can carry a slightly ironic or naive connotation in colloquial speech. *Doğrucu Davut* is a proverbial figure name for someone who tells uncomfortable truths.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 15**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrucuk
+3. **Transliteration:** doğrucuk
+4. **Literal Breakdown:** doğru + -cuk (diminutive suffix)
+5. **Natural English translation:** a small truth, a little bit true
+6. **Usage:** A diminutive form used in colloquial and affective speech, often in addressing children or in softened assertions. *Doğrucuk söylüyorum* (I'm telling a little truth / I'm being honest, said softly). Not common in formal registers.
+7. **Epistemic status:** [MARGINAL]
+
+---
+
+**Derived Form 16**
+
+1. **Base Form:** doğru
+2. **Derived Form:** doğrulaştırmak
+3. **Transliteration:** doğrulaştırmak
+4. **Literal Breakdown:** doğru + -laş- (inchoative verbalizer) + -tır- (causative) + -mak (infinitive)
+5. **Natural English translation:** to make more accurate, to render correct
+6. **Usage:** Used in technical and editorial contexts to describe the process of improving the accuracy or correctness of something. Less common than *doğrulamak* and tends to appear in more specialized registers.
+7. **Epistemic status:** [MARGINAL]
+
+---
+
+**Derived Form 17**
+
+1. **Base Form:** doğrulamak
+2. **Derived Form:** doğrulayamamak
+3. **Transliteration:** doğrulayamamak
+4. **Literal Breakdown:** *doğrula-* + *-ya-* (buffer) + *-ma-* (negative) + *-mak* (with ability suffix *-abil-* negated: *-ama-*)
+5. **Natural English translation:** to be unable to verify, to fail to confirm
+6. **Usage:** Used in journalistic and legal contexts to describe the failure or inability to confirm a claim. *Haberi doğrulayamadık.* ("We were unable to verify the news.")
+7. **Epistemic status:** [CORE]
+
+---
+
+> **Note on gaps:** No commonly attested negative privative form *\*doğrusuz* is in common use; negation is typically expressed through *yanlış* or *hatalı* rather than a privative derivative of *doğru*. No commonly attested agentive noun *doğrulayıcı* functioning as a personal title (e.g., "a verifier" as a job title) has been identified beyond its adjectival and technical uses.
+
+---
+
+### Base: **doğruluk**
+
+*Already documented as a derivation of doğru in P1b. The following are derivations that take doğruluk itself as a base, or compound expressions with doğruluk as a base element.*
+
+---
+
+**Derived Form 1**
+
+1. **Base Form:** doğruluk
+2. **Derived Form:** doğruluk payı
+3. **Transliteration:** doğruluk payı
+4. **Literal Breakdown:** doğruluk (truthfulness/accuracy) + payı (share/portion of)
+5. **Natural English translation:** grain of truth, element of truth, degree of accuracy
+6. **Usage:** Used in evaluative discourse to acknowledge that a claim contains some truth even if not entirely accurate. *Bu iddiada bir doğruluk payı var.* ("There is a grain of truth in this claim.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 2**
+
+1. **Base Form:** doğruluk
+2. **Derived Form:** doğruluk değeri
+3. **Transliteration:** doğruluk değeri
+4. **Literal Breakdown:** doğruluk (truth) + değeri (value of)
+5. **Natural English translation:** truth value
+6. **Usage:** A technical term in logic and philosophy of language.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 3**
+
+1. **Base Form:** doğruluk
+2. **Derived Form:** doğruluk koşulu
+3. **Transliteration:** doğruluk koşulu
+4. **Literal Breakdown:** doğruluk (truth) + koşulu (condition of)
+5. **Natural English translation:** truth condition
+6. **Usage:** A technical term in formal semantics.
+7. **Epistemic status:** [CORE]
+
+---
+
+> **Note:** No further morphological derivation from *doğruluk* as a base is attested beyond the compound expressions listed above.
+
+---
+
+### Base: **yanlış**
+
+---
+
+**Derived Form 1**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlık
+3. **Transliteration:** yanlışlık
+4. **Literal Breakdown:** yanlış (wrong/incorrect) + -lık (nominal suffix)
+5. **Natural English translation:** error, mistake, incorrectness, wrongness
+6. **Usage:** Names the quality or instance of being wrong or incorrect. *Yanlışlık yapmak* (to make a mistake) is a common collocation in everyday and formal speech.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 2**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlamak
+3. **Transliteration:** yanlışlamak
+4. **Literal Breakdown:** yanlış (wrong) + -la- (verbalizer) + -mak (infinitive)
+5. **Natural English translation:** to falsify, to show to be wrong, to refute, to disprove
+6. **Usage:** Used in philosophical, scientific, and argumentative contexts to describe demonstrating that a claim is incorrect. Associated with Popperian falsificationism in Turkish academic discourse: *bir hipotezi yanlışlamak* (to falsify a hypothesis).
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 3**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlama
+3. **Transliteration:** yanlışlama
+4. **Literal Breakdown:** yanlış + -la- + -ma (verbal noun)
+5. **Natural English translation:** falsification, refutation
+6. **Usage:** The nominalized process of falsifying or refuting. Used in philosophy of science: *yanlışlama ilkesi* (the principle of falsification). Directly parallels *doğrulama* in structure and register.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 4**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlanabilir
+3. **Transliteration:** yanlışlanabilir
+4. **Literal Breakdown:** yanlış + -la- + -n- (passive) + -abilir (potential suffix)
+5. **Natural English translation:** falsifiable
+6. **Usage:** Used in philosophy of science to describe claims that are in principle capable of being shown to be false. *Yanlışlanabilir hipotez* (falsifiable hypothesis). Directly parallels *doğrulanabilir* in structure and domain.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 5**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlanabilirlik
+3. **Transliteration:** yanlışlanabilirlik
+4. **Literal Breakdown:** yanlış + -la- + -n- + -abilir + -lik (nominal suffix)
+5. **Natural English translation:** falsifiability
+6. **Usage:** The abstract property of being falsifiable. Used in philosophy of science: *yanlışlanabilirlik ölçütü* (the criterion of falsifiability, associated with Popper). Directly parallels *doğrulanabilirlik*.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 6**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlanmak
+3. **Transliteration:** yanlışlanmak
+4. **Literal Breakdown:** yanlış + -la- + -n- (passive) + -mak
+5. **Natural English translation:** to be falsified, to be shown to be wrong
+6. **Usage:** Passive form; used when a claim or hypothesis is demonstrated to be incorrect by evidence or argument. *Hipotez yanlışlandı* (the hypothesis was falsified). *Bu teori yanlışlanamaz.* ("This theory cannot be falsified.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 7**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışlıkla
+3. **Transliteration:** yanlışlıkla
+4. **Literal Breakdown:** yanlış + -lık + -la (instrumental/adverbial suffix, lexicalized as adverb)
+5. **Natural English translation:** by mistake, accidentally, erroneously
+6. **Usage:** An extremely common adverbial expression used to indicate that an action was performed in error rather than intentionally. *Yanlışlıkla gönderdi* (he sent it by mistake). *Yanlışlıkla sildim.* ("I deleted it by mistake.") Used across all registers.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 8**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlışça
+3. **Transliteration:** yanlışça
+4. **Literal Breakdown:** *yanlış* + *-ca* (adverbial/manner suffix)
+5. **Natural English translation:** wrongly, incorrectly, mistakenly
+6. **Usage:** An adverbial form used to describe actions or judgments carried out in an incorrect or mistaken manner. *Yanlışça anlamak* (to misunderstand, to understand incorrectly). Attested but less frequent than the predicative use of *yanlış* and less frequent than *yanlışlıkla*.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 9**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlış anlamak
+3. **Transliteration:** yanlış anlamak
+4. **Literal Breakdown:** yanlış (wrong) + anlamak (to understand)
+5. **Natural English translation:** to misunderstand
+6. **Usage:** A standard collocation for misunderstanding. *Beni yanlış anladın* (you misunderstood me). Extremely common in everyday speech and writing.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 10**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlış anlaşılmak
+3. **Transliteration:** yanlış anlaşılmak
+4. **Literal Breakdown:** yanlış + anlaşılmak (to be understood, passive)
+5. **Natural English translation:** to be misunderstood
+6. **Usage:** Passive form of *yanlış anlamak*; used when a person or statement is the object of misunderstanding. *Yanlış anlaşılmak istemiyorum* (I don't want to be misunderstood).
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 11**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlış bilgi
+3. **Transliteration:** yanlış bilgi
+4. **Literal Breakdown:** yanlış (wrong/incorrect) + bilgi (information/knowledge)
+5. **Natural English translation:** misinformation, incorrect information
+6. **Usage:** Used in journalistic, educational, and administrative contexts to describe information that is factually incorrect. *Yanlış bilgi yaymak* (to spread misinformation). Distinct from *dezenformasyon* (disinformation) in not necessarily implying intent.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 12**
+
+1. **Base Form:** yanlış
+2. **Derived Form:** yanlış yapmak
+3. **Transliteration:** yanlış yapmak
+4. **Literal Breakdown:** yanlış (wrong/error) + yapmak (to do/make)
+5. **Natural English translation:** to make a mistake, to do something wrong
+6. **Usage:** A basic collocation for committing an error or doing something incorrectly. *Yanlış yaptım* (I made a mistake / I did something wrong). Ubiquitous across all registers.
+7. **Epistemic status:** [CORE]
+
+---
+
+> **Note on gaps:** No commonly attested agentive noun *\*yanlışlayıcı* (one who falsifies) has been identified in standard usage beyond highly technical or ad hoc contexts. The concept of "one who makes errors" is expressed through *hata yapan* or *yanılan* rather than a derivation of *yanlış*.
+
+---
+
+### Base: **gerçek**
+
+*Core derivations already documented in P1b: gerçeklik, gerçekten, gerçek dışı, gerçekçi, gerçekçilik, gerçekleşmek, gerçekleştirmek, gerçekleşme, gerçek zamanlı, gerçeküstücülük, sanal gerçeklik, artırılmış gerçeklik.*
+
+---
+
+**Derived Form 1**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçeklik
+3. **Transliteration:** gerçeklik
+4. **Literal Breakdown:** *gerçek* + *-lik* (abstract noun suffix)
+5. **Natural English translation:** reality, realness, actuality, genuineness
+6. **Usage:** Names the condition or property of being real; used in philosophical, psychological, and everyday contexts. *Sanal gerçeklik* ("virtual reality") is a standard technical compound.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 2**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekleşmek
+3. **Transliteration:** gerçekleşmek
+4. **Literal Breakdown:** *gerçek* + *-leş-* (inchoative) + *-mek*
+5. **Natural English translation:** to come true, to materialize, to happen, to be realized
+6. **Usage:** Describes events or plans that are actualized. *Hayali gerçekleşti.* ("His/her dream came true.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 3**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekleştirmek
+3. **Transliteration:** gerçekleştirmek
+4. **Literal Breakdown:** *gerçek* + *-leş-* + *-tir-* (causative) + *-mek*
+5. **Natural English translation:** to realize, to carry out, to accomplish
+6. **Usage:** Used in formal and everyday contexts for bringing something into reality. *Projeyi gerçekleştirdiler.* ("They carried out the project.")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 4**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekleşme
+3. **Transliteration:** gerçekleşme
+4. **Literal Breakdown:** *gerçek* + *-leş-* + *-me* (verbal noun)
+5. **Natural English translation:** realization, materialization, occurrence
+6. **Usage:** Nominalized form of *gerçekleşmek*; used in formal and journalistic registers.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 5**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekçi
+3. **Transliteration:** gerçekçi
+4. **Literal Breakdown:** *gerçek* + *-çi* (agentive/adjectival suffix)
+5. **Natural English translation:** realistic, realist; a realist
+6. **Usage:** Describes persons, attitudes, or representations grounded in reality. Used in aesthetic contexts (realist art or literature) and in everyday evaluation of attitudes. *Gerçekçi bir yaklaşım* ("a realistic approach").
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 6**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekçilik
+3. **Transliteration:** gerçekçilik
+4. **Literal Breakdown:** *gerçekçi* + *-lik*
+5. **Natural English translation:** realism (as a philosophical, artistic, or political position)
+6. **Usage:** Names the doctrine or attitude of engaging with reality as it is; used in aesthetic, philosophical, and political contexts.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 7**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekten
+3. **Transliteration:** gerçekten
+4. **Literal Breakdown:** *gerçek* + *-ten* (ablative used adverbially)
+5. **Natural English translation:** really, truly, genuinely, indeed
+6. **Usage:** Extremely common adverb in everyday speech asserting or emphasizing that something is genuinely the case. *Gerçekten mi?* ("Really?")
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 8**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçek dışı
+3. **Transliteration:** gerçek dışı
+4. **Literal Breakdown:** *gerçek* + *dışı* (outside of, beyond — postpositional)
+5. **Natural English translation:** unreal, surreal, fictitious
+6. **Usage:** Describes something that does not conform to or exist within ordinary reality. *Gerçek dışı bir durum* ("an unreal situation").
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 9**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekdışılık
+3. **Transliteration:** gerçek dışılık
+4. **Literal Breakdown:** *gerçek dışı* + *-lık* (nominal suffix)
+5. **Natural English translation:** unreality, surreality, fictiveness, the quality of being contrary to fact
+6. **Usage:** Names the abstract property of being unreal or contrary to fact. Used in philosophical, psychological, literary, and legal discourse, though less common than *gerçek dışı* as an adjectival phrase. *Beyanın gerçekdışılığı* (the fictiveness/falsity of the declaration).
+7. **Epistemic status:** [MARGINAL]
+
+---
+
+**Derived Form 10**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçeküstü
+3. **Transliteration:** gerçeküstü
+4. **Literal Breakdown:** *gerçek* (real) + *üstü* (above, beyond)
+5. **Natural English translation:** surreal, surrealistic
+6. **Usage:** Used in aesthetic and literary contexts to describe surrealist qualities or the Surrealist movement.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 11**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçeküstücülük
+3. **Transliteration:** gerçeküstücülük
+4. **Literal Breakdown:** *gerçeküstü* + *-cü-* (agentive) + *-lük* (abstract noun)
+5. **Natural English translation:** Surrealism (as an artistic/literary movement)
+6. **Usage:** Standard term in Turkish art history and literary criticism for the Surrealist movement.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 12**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçekçice
+3. **Transliteration:** gerçekçice
+4. **Literal Breakdown:** *gerçekçi* + *-ce* (adverbial/manner suffix)
+5. **Natural English translation:** realistically, in a realistic manner
+6. **Usage:** An adverbial form used to describe actions or representations carried out in a realistic manner. *Gerçekçice değerlendirmek* (to assess realistically). Attested in formal and journalistic registers.
+7. **Epistemic status:** [CORE]
+
+---
+
+**Derived Form 13**
+
+1. **Base Form:** gerçek
+2. **Derived Form:** gerçek ötesi
+3. **Transliteration:** gerçek ötesi
+4. **Literal Breakdown:** gerçek (truth/reality) + ötesi (beyond)
+5. **Natural English translation:** post-truth
+6. **Usage:** A recent coinage used in political and media discourse to describe an environment in which objective facts are less influential than emotional appeals. *Gerçek ötesi siyaset* (post-truth politics). Calqued from English "post-truth."
+7. **Epistemic status:** [MARGINAL]
+
+---
+
+> **Note on gaps:** No commonly attested negative privative form *\*gerçeksiz* has been identified; the concept of "not real" is expressed through *gerçek dışı* or *gerçek olmayan* rather than a privative suffix. No agentive personal noun *\*gerçekçi* in the sense of "a person who tells the truth" (as opposed to "a realist") is attested; the adjectival/aesthetic sense dominates.
+
+---
+
+### Base: **gerçek dışı**
+
+*Note: gerçek dışı is a compositional phrase rather than a morphologically simple base; its derivational productivity is limited. The primary attested extension is the fixed legal collocation gerçek dışı beyan. No further independent derivations from this phrase as a base are identified.*
+
+---
+
+**Derived Form 1**
+
+1. **Base Form:** gerçek dışı
+2. **Derived Form:** gerçek dışı beyan
+3. **Transliteration:** gerçek dışı beyan
+4. **Literal Breakdown:** gerçek dışı (contrary to fact) + beyan (declaration)
+5. **Natural English translation:** false declaration, fictitious statement
+6. **Usage:** A fixed legal expression for a declaration that does not correspond to reality.
+7. **Epistemic status:** [CORE]
+
+---
+
+### Base: **hakikat**
+
+---
+
+**

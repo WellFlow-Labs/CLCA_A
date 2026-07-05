@@ -1,0 +1,103 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | Predicative adjective construction: **X doğru / gerçek / haklı / geçerli / güvenilir (olmak)**; also negative predication with **değil** or lexical negatives | *Bu bilgi doğru.*; *Bu belge geçerli değil.* | Direct match to canonical attribution | None |
+| ADNOM | Adnominal adjective before noun: **[Adj + N]** | *güvenilir kaynak*; *sahte belge* | Direct match to canonical adnominal modification | None |
+| BECOME | Change-of-state with light verb **olmak**: **Adj/N + ol-**; limited inchoative **-leş-** | *Hikâye daha inandırıcı oldu.*; *İlişkileri zamanla sahteleşti.* | Direct match, but mainly through **olmak**; **-leş-** is marginal/lexically restricted | None |
+| REVELATION | Verbal truth-object construction: **[Truth noun/accusative] + söylemek / yansıtmak / çarpıtmak / gizlemek** | *Bana gerçeği söyle.*; *Bu açıklama gerçeği çarpıtıyor.* | Expressed through speech/reporting verbs rather than a dedicated “reveal/become true” construction | Available with substitution |
+| CAUSATION (factual) | Lexical verb of verification/confirmation: **X-i doğrulamak**; limited causative **Adj + -leştir-** | *Haberi henüz doğrulamadılar.*; *Bu söylem olayı sahteleştiriyor.* | Mostly realized through **VERIFICATION** rather than a general “make true” construction | SUBSTITUTED BY VERIFICATION |
+| CAUSATION (character) | Limited derived causative **-leştir-** with evaluative adjectives | *Bu söylem olayı sahteleştiriyor.* | Only restricted lexical/derived forms attested; no general operator across the domain | NO COMMON EXPRESSION - circumlocution required |
+| VERIFICATION | Lexical verb **doğrulamak** | *Haberi henüz doğrulamadılar.* | Direct match; central factual-checking construction | None |
+| DISCONFIRMATION | Negative verification via negated **doğrulamak**; also negative truth attribution and lexical falsity terms in broader domain | *Haberi henüz doğrulamadılar.*; *Bu iddia doğru değil.*; *Bu haber asılsız.* | No separate dedicated disconfirmation construction identified; expressed through negated verification or negative attribution | Available with substitution |
+| NEGATION | Analytic negation with **değil**; lexical negative adjectives **sahte / asılsız / geçersiz / haksız** | *Bu iddia doğru değil.*; *Bu haber asılsız.* | Both analytic and lexical; not a single morphological negation pattern | None |
+| NOMINALIZATION | Abstract nominalization with **-lık/-lik/-luk/-lük**; lexical nouns | *Raporun doğruluğu tartışılıyor.*; *Ölçümün güvenilirliği düşük.* | Direct match; productive nominalization | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Turkish shows several clear descriptive asymmetries in this dataset.
+
+For **BECOME**, the regular construction is not a dedicated morphological inchoative but the light-verb pattern **Adj/N + olmak**, as in *Hikâye daha inandırıcı oldu.* P4a explicitly states that this is the productive strategy. The **-leş-** pattern exists, as in *İlişkileri zamanla sahteleşti.*, but P4a/P4b describe it as limited and marginal. So the semantic operator is often carried by the light verb **olmak**.
+
+For **REVELATION**, the dataset does not give a dedicated “be revealed / come out true” construction. Instead, truth is commonly expressed as the object of speech/report verbs: *Bana gerçeği söyle.* and *Bu açıklama gerçeği çarpıtıyor.* This means revelation-like meanings are handled by **veridical speech/reporting**, not by the same construction as **BECOME**. Therefore, REVELATION does not substitute for BECOME; it is expressed through a different verbal operator.
+
+For **CAUSATION (factual)**, P4a explicitly says there is no single general causative “make true” construction across the domain. Instead, Turkish uses lexical verbs, especially **doğrulamak** ‘verify/confirm’. In the canonical mapping, this means factual causation is largely **substituted by VERIFICATION**. The attested example *Haberi henüz doğrulamadılar.* is central, while causatives like *Bu söylem olayı sahteleştiriyor.* are more restricted and stylistically marked.
+
+For **CAUSATION (character)**, only limited derived causatives in **-leştir-** are attested. P4a/P4b do not show a broad productive pattern covering the truth-domain adjectives generally. So this operator is only partially available and often would require circumlocution.
+
+For **NEGATION**, Turkish uses two strategies:
+- **analytic negation** with **değil**, as in *Bu iddia doğru değil.*
+- **lexical negative adjectives**, as in *Bu haber asılsız.*
+
+So negation is not represented by one uniform morphological operator. The negative side of the domain is somewhat richer lexically in institutional and falsity contexts, since P4a notes that lexical negatives are especially common there.
+
+For **VERIFICATION** and **DISCONFIRMATION**, the dataset does not provide a separate dedicated disconfirmation construction parallel to **doğrulamak**. Instead, disconfirmation is expressed either by negating verification (*Haberi henüz doğrulamadılar.*) or by negative attribution (*Bu iddia doğru değil.* / *Bu haber asılsız.*). So VERIFICATION and DISCONFIRMATION do **not** share one symmetric dedicated construction; disconfirmation is expressed through negation of verification or through separate negative predicates.
+
+There is also a positive/negative asymmetry:
+- positive factual establishment is strongly centered on **doğrulamak**
+- negative evaluation has both **analytic** and **lexical** options (*doğru değil*, *asılsız*, *geçersiz*, *sahte*)
+
+This makes the negative side lexically more differentiated in the attested material.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **CAUSATION (factual)**: no single general causative “make true” construction across the domain; **SUBSTITUTED BY VERIFICATION**
+- **DISCONFIRMATION**: no separate dedicated construction identified; expressed through negated verification or negative attribution
+- No dedicated REVELATION construction distinct from speech/reporting verbs is identified in P4a/P4b
+
+### Lexical Gaps
+- **AGENTIVE positive counterpart**: P4a notes no strongly lexicalized central agentive pair comparable to English *truth-teller*; positive meanings use phrases like *dürüst biri* and *doğruyu söyleyen kişi*
+- For causative truth-domain meanings, there is no single lexical item covering all adjectives; instead Turkish uses item-specific verbs such as **doğrulamak** and limited **-leştir-** forms
+
+### Conceptual Gaps
+- No conceptual gap in attribution, adnominal modification, negation, or nominalization
+- No evidence in P4a/P4b for a fully generalized operator “make X true” across the whole truth domain
+- No evidence for a dedicated disconfirmation operator independent of negation/negative attribution
+
+### Asymmetric Gaps
+- **Positive vs. negative**: negative evaluation is available both analytically and lexically (*doğru değil*, *asılsız*, *geçersiz*, *sahte*), while positive factual causation is not matched by an equally general productive causative construction
+- **BECOME** is broadly available through **olmak**, but morphological inchoatives in **-leş-** are only marginal/restricted
+- **Agentive nominalization** is asymmetric: *yalancı* is lexicalized, but a compact equally central positive counterpart is not identified
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+  - Predicative adjectives
+- **ADNOM**
+  - Adjective + noun
+- **BECOME**
+  - Mainly via **Adj/N + olmak**
+- **VERIFICATION**
+  - Mainly via **doğrulamak**
+- **NEGATION**
+  - Analytic **değil** plus lexical negatives
+- **NOMINALIZATION**
+  - Productive **-lık/-lik/-luk/-lük** and lexical nouns
+
+### Available with substitution
+- **REVELATION**
+  - Expressed through veridical speech/reporting verbs: **gerçeği söylemek**, **gerçeği çarpıtmak**, etc.
+- **CAUSATION (factual)**
+  - **SUBSTITUTED BY VERIFICATION**
+- **DISCONFIRMATION**
+  - Expressed through negated verification or negative attribution
+
+### Partially available
+- **CAUSATION (character)**
+  - Limited **-leştir-** causatives such as *sahteleştiriyor*
+- **BECOME** as morphological inchoative
+  - Limited **-leş-** forms; not general
+
+### Missing entirely
+- No category is completely absent at the broad semantic level, but the following are missing as dedicated general constructions:
+  - general factual causative “make true” construction
+  - dedicated disconfirmation construction
+  - dedicated revelation construction separate from speech/reporting
+
+### Normalized operator notes
+- **Adjectival operators**: ATTR, ADNOM, many NEGATION forms
+- **Verbal operators**: REVELATION, VERIFICATION, much of DISCONFIRMATION
+- **Light verb carrier**: **olmak** is the main carrier for BECOME
+- **Derived morphology**: **-leş-** and **-leştir-** exist but are restricted, not domain-wide general operators

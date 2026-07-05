@@ -1,0 +1,199 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Tamil (ta)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Zero copula; X + இருக்கு (irukku) | அது உண்மை (atu uṇmai) "that is true"; அது உண்மை இருக்கு (atu uṇmai irukku) "that is true (emphatic)" | Direct equivalence. Zero copula is unmarked default; explicit copula for emphasis/non-present. | None |
+| **ADNOM** | TERM + ஆன (āṉa); Bare noun compounds | உண்மையான கதை (uṇmaiyāṉa katai) "true story"; உண்மை கதை (uṇmai katai) "true story" | Direct equivalence. Two freely alternating strategies: derivational (-ஆன) and compounding. | None |
+| **BECOME** | TERM + ஆகு (āku) "become"; TERM + வரு (varu) "come" | பொய் அம்பலமாகு (poy ampalamāku) "lie becomes exposed"; உண்மை தெரிய வரு (uṇmai teriya varu) "truth comes to be known" | **PARTIALLY SUBSTITUTED BY REVELATION**: வரு "come" constructions overlap with revelation semantics. Both inchoative and revelatory readings available. | None (but see functional overlap with REVELATION) |
+| **REVELATION** | TERM + வெளிப்படு (veḷippaṭu) "emerge/be revealed"; TERM + வெளிச்சத்திற்கு வரு (veḷiccattiṟku varu) "come to light"; TERM + என்று தெரிகிறது (eṉṟu terikiṟatu) "appears that" | உண்மை வெளிப்படு (uṇmai veḷippaṭu) "truth is revealed"; உண்மை வெளிச்சத்திற்கு வரு (uṇmai veḷiccattiṟku varu) "truth comes to light"; உண்மை என்று தெரிகிறது (uṇmai eṉṟu terikiṟatu) "it appears to be true" | Direct equivalence with multiple lexical realizations. Evidential construction (தெரிகிறது) functions as epistemic revelation. **OVERLAPS WITH BECOME** via வரு "come" constructions. | None |
+| **CAUSATION (factual)** | TERM + accusative + வெளிப்படுத்து (veḷippaṭuttu) "reveal-CAUS"; தெளிவுபடுத்து (teḷivupaṭuttu) "clarify" | உண்மையை வெளிப்படுத்து (uṇmaiyai veḷippaṭuttu) "reveal the truth"; தெளிவுபடுத்து (teḷivupaṭuttu) "make clear" | Direct equivalence. Causative morphology (-உத்து) on revelation verbs. Productive pattern: NOUN + படுத்து "cause to become X." | None |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION - circumlocution required** | Periphrastic: உண்மை பேசுபவர் (uṇmai pēcupavar) "truth-speaking person" (lit. "person who speaks truth") | **MISSING (structural gap)**: Agentive nominalization restricted to பொய் only (பொய்யன் "liar"). No productive derivation for "truth-teller" or character-based causation. Requires multi-word periphrasis. | **Structural gap** (agentive derivation non-productive for உண்மை) |
+| **VERIFICATION** | சரி பார் (cari pār) "check/verify" (imperative); உறுதிப்படுத்து (uṟutipaṭuttu) "confirm" | சரி பார் (cari pār) "Check it! Verify!"; உறுதிப்படுத்து (uṟutipaṭuttu) "confirm, make certain" | Direct equivalence. Uses சரி "correct" rather than உண்மை "truth" as base. Causative pattern: உறுதி "certainty" + படுத்து "cause to become." | None (but note lexical base is சரி not உண்மை) |
+| **DISCONFIRMATION** | பொய் பிடிபடு (poy piṭipaṭu) "lie is caught/discovered"; பொய் வெளியாகு (poy veḷiyāku) "lie becomes exposed" | பொய் பிடிபடு (poy piṭipaṭu) "lie is caught"; பொய் வெளியாகு (poy veḷiyāku) "lie becomes exposed" | **ASYMMETRIC**: Disconfirmation constructions specifically target பொய் "lie/falsehood." No parallel "truth is caught" construction. Uses resultative verbs (பிடிபடு "be caught," வெளியாகு "become exposed"). | **Asymmetric gap** (applies to falsehood only, not truth) |
+| **NEGATION** | TERM + இல்லை (illai) "not"; TERM + அற்ற (aṟṟa) "without" | அது உண்மை இல்லை (atu uṇmai illai) "that is not true"; உண்மையற்ற (uṇmaiyaṟṟa) "without truth, untrue" | Direct equivalence with two strategies: (1) **Analytic negation** via இல்லை negative copula/existential; (2) **Morphological negation** via -அற்ற "without" suffix creating negative adjectives. Both productive. | None |
+| **NOMINALIZATION** | TERM + மை (-mai) "abstract quality" (classical); TERM + தன்மை (-taṉmai) "quality" (modern formal); TERM + இன்மை (-iṉmai) "absence" | பொய்மை (poymai) "falsehood" (classical); உண்மைத்தன்மை (uṇmaittaṉmai) "truthfulness"; உண்மையின்மை (uṇmaiyiṉmai) "absence of truth" | Direct equivalence with register variation: -மை classical/literary; -தன்மை modern formal; -இன்மை formal/literary for absence. **Note**: Base terms (உண்மை, பொய்) already function as nominals; these suffixes create meta-level abstractions. | None (but -மை and -இன்மை marginal in colloquial speech) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME ↔ REVELATION Overlap
+
+The language shows **functional overlap** between BECOME and REVELATION operators, particularly through the verb வரு (varu) "come":
+
+- **உண்மை தெரிய வரு** (uṇmai teriya varu) "truth comes to be known" can be analyzed as either:
+  - BECOME: "truth comes into a state of being known" (inchoative)
+  - REVELATION: "truth is revealed/becomes apparent" (epistemic emergence)
+
+The construction is ambiguous between pure inchoative change-of-state and epistemic revelation. This suggests that **Tamil does not sharply distinguish becoming-true from being-revealed** in certain constructions.
+
+Additionally:
+- Pure BECOME uses ஆகு (āku): **பொய் அம்பலமாகு** "lie becomes exposed"
+- Pure REVELATION uses வெளிப்படு (veḷippaṭu): **உண்மை வெளிப்படு** "truth is revealed"
+- Overlapping construction uses வரு (varu): **உண்மை வெளிச்சத்திற்கு வரு** "truth comes to light" (both inchoative and revelatory)
+
+**Pattern**: REVELATION constructions frequently incorporate inchoative semantics; BECOME constructions with வரு frequently incorporate epistemic/revelatory semantics. The boundary is permeable.
+
+### 2.2 VERIFICATION Uses சரி "Correct" Not உண்மை "Truth"
+
+The VERIFICATION operator systematically uses **சரி** (cari) "correct, right" rather than **உண்மை** (uṇmai) "truth":
+
+- **சரி பார்** (cari pār) "check, verify" (lit. "see correct")
+- **உறுதிப்படுத்து** (uṟutipaṭuttu) "confirm" (lit. "cause to become certain")
+
+This represents a **lexical substitution**: verification operations target correctness/certainty rather than truth per se. The language does not have a common expression *"உண்மை பார்" for "verify truth" — instead, it "checks correctness" or "confirms certainty."
+
+**Pattern**: VERIFICATION domain prefers சரி and உறுதி over உண்மை.
+
+### 2.3 DISCONFIRMATION Asymmetry: Applies to Falsehood Only
+
+DISCONFIRMATION constructions are **asymmetrically restricted to பொய்** (poy) "lie/falsehood":
+
+- **பொய் பிடிபடு** (poy piṭipaṭu) "lie is caught"
+- **பொய் வெளியாகு** (poy veḷiyāku) "lie becomes exposed"
+
+There are **no parallel constructions** for "truth is caught" or "truth is exposed" — these would be semantically anomalous. The metaphor of "catching" or "exposing" applies specifically to hidden falsehoods, not to truths.
+
+**Pattern**: DISCONFIRMATION is conceptually restricted to negative truth-values. The language does not support symmetric disconfirmation of truth.
+
+### 2.4 Agentive Nominalization: Productive Only for "Liar"
+
+Agentive derivation (CAUSATION-character) shows **severe asymmetry**:
+
+- **பொய்யன்** (poyyan) "liar" — productive agentive nominalization from பொய் "lie"
+- **NO FORM** for "truth-teller" from உண்மை — requires periphrasis: **உண்மை பேசுபவர்** (uṇmai pēcupavar) "person who speaks truth"
+
+This is a **structural gap**: the agentive nominalization pattern (TERM + person marker) is restricted to பொய் and does not extend to உண்மை. The language lacks a morphological strategy for deriving "truth-teller" and must use multi-word circumlocution.
+
+**Pattern**: Character-based causation (habitual truth-telling/lying) is morphologically available only for negative pole (lying).
+
+### 2.5 NEGATION: Dual Strategy (Analytic + Morphological)
+
+Tamil employs **two parallel negation strategies** without functional distinction:
+
+1. **Analytic negation**: TERM + இல்லை (illai) — predicative
+   - **அது உண்மை இல்லை** (atu uṇmai illai) "that is not true"
+
+2. **Morphological negation**: TERM + அற்ற (aṟṟa) — attributive
+   - **உண்மையற்ற** (uṇmaiyaṟṟa) "untrue, without truth"
+
+The choice depends on **syntactic position**: இல்லை for predicates, -அற்ற for attributive adjectives. Both are fully productive and freely available.
+
+**Pattern**: NEGATION is not a single construction but a syntactically conditioned alternation between analytic and morphological strategies.
+
+### 2.6 Emphatic Particle Stacking
+
+Tamil shows a **productive emphatic intensification pattern** not directly mappable to CLCA operators but pervasive across truth-domain constructions:
+
+- **உண்மையிலேயே** (uṇmaiyi-l-ē-y-ē) "truly indeed, really and truly"
+- **நிஜமாகவே** (nijamāka-v-ē) "really indeed"
+
+This involves **particle stacking** (-ஏ emphatic, -ய்/-வ் euphonic) and is extremely frequent in colloquial speech. It functions as an **intensification operator** applicable to multiple base constructions (locative, adverbial, etc.).
+
+**Pattern**: Emphasis/intensification is a productive cross-cutting operation, not a discrete CLCA category but a modifier applicable to ATTR, ADNOM, and other operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**CAUSATION (character) — Agentive nominalization for "truth-teller"**
+- **Gap**: No productive morphological derivation for agent nouns from உண்மை "truth"
+- **Evidence**: Agentive pattern (TERM + person marker) restricted to பொய் only: பொய்யன் "liar" exists, but *உண்மையன் "truth-teller" does not
+- **Circumlocution required**: உண்மை பேசுபவர் (uṇmai pēcupavar) "person who speaks truth" (multi-word periphrasis)
+- **Type**: Morphosyntactic gap — the derivational pattern exists but is lexically restricted
+
+### 3.2 Lexical Gaps
+
+**None identified**. All core CLCA operators have lexical realizations in Tamil, though some show restricted productivity (see structural gaps above).
+
+### 3.3 Conceptual Gaps
+
+**DISCONFIRMATION of truth (symmetric to disconfirmation of falsehood)**
+- **Gap**: No construction for "catching" or "exposing" truth parallel to பொய் பிடிபடு "lie is caught"
+- **Evidence**: Disconfirmation metaphors (catching, exposing) apply only to பொய் "lie/falsehood," not to உண்மை "truth"
+- **Reason**: Conceptual asymmetry — truths are revealed/discovered, not "caught" or "exposed" (which presuppose hiddenness or deception)
+- **Type**: Conceptual gap — the operation is semantically blocked for positive truth-values
+
+### 3.4 Asymmetric Gaps
+
+**3.4.1 Agentive Nominalization (CAUSATION-character)**
+- **Available for**: பொய் "lie" → பொய்யன் "liar"
+- **Missing for**: உண்மை "truth" → *உண்மையன் (unattested)
+- **Asymmetry type**: Morphological productivity restricted to negative pole
+
+**3.4.2 Disconfirmation**
+- **Available for**: பொய் "lie" → பொய் பிடிபடு "lie is caught"
+- **Missing for**: உண்மை "truth" → *உண்மை பிடிபடு (semantically anomalous)
+- **Asymmetry type**: Conceptual restriction to negative truth-values
+
+**3.4.3 Locative/Discourse Marker Productivity**
+- **Highly productive for**: உண்மையில் (uṇmaiyil) "in truth, actually" — extremely frequent
+- **Marginal for**: பொய்யில் (poyyil) "in falsehood" — literary/formal only
+- **Asymmetry type**: Frequency/register asymmetry favoring positive pole
+
+### 3.5 Register-Based Marginal Availability
+
+**Classical/Literary Nominalizations**
+- **-மை (-mai) abstract nominalization**: பொய்மை (poymai) "falsehood" — classical/literary, marginal in colloquial
+- **-இன்மை (-iṉmai) absence nominalization**: உண்மையின்மை (uṇmaiyiṉmai) "absence of truth" — formal/literary, less common than -அற்ற alternative
+
+**Type**: Not true gaps, but register-restricted availability. Modern colloquial Tamil prefers -தன்மை (-taṉmai) for abstractions and -அற்ற (-aṟṟa) for negation.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+| Operator | Construction(s) | Notes |
+|----------|----------------|-------|
+| **ATTR** | Zero copula; X + இருக்கு (irukku) | Unmarked zero copula default; explicit copula for emphasis |
+| **ADNOM** | TERM + ஆன (āṉa); Bare noun compounds | Two freely alternating strategies |
+| **BECOME** | TERM + ஆகு (āku); TERM + வரு (varu) | Productive inchoative; வரு overlaps with REVELATION |
+| **REVELATION** | வெளிப்படு (veḷippaṭu); வெளிச்சத்திற்கு வரு (veḷiccattiṟku varu); என்று தெரிகிறது (eṉṟu terikiṟatu) | Multiple lexical realizations; overlaps with BECOME |
+| **CAUSATION (factual)** | வெளிப்படுத்து (veḷippaṭuttu); தெளிவுபடுத்து (teḷivupaṭuttu) | Productive causative morphology (-உத்து) |
+| **NEGATION** | TERM + இல்லை (illai); TERM + அற்ற (aṟṟa) | Dual strategy: analytic (predicative) + morphological (attributive) |
+| **NOMINALIZATION** | TERM + மை (-mai); TERM + தன்மை (-taṉmai); TERM + இன்மை (-iṉmai) | Register variation: classical vs. modern formal |
+
+### 4.2 Available with Substitution
+
+| Operator | Substitution Pattern | Notes |
+|----------|---------------------|-------|
+| **VERIFICATION** | Uses சரி "correct" instead of உண்மை "truth" | சரி பார் "check/verify"; உறுதிப்படுத்து "confirm" — lexical substitution to correctness/certainty domain |
+| **DISCONFIRMATION** | Applies to பொய் "lie" only, not உண்மை "truth" | பொய் பிடிபடு "lie is caught" — conceptually restricted to negative truth-values |
+
+### 4.3 Partially Available
+
+| Operator | Restriction | Circumlocution |
+|----------|------------|----------------|
+| **CAUSATION (character)** | Agentive nominalization productive only for பொய் "lie" | Requires periphrasis for உண்மை: உண்மை பேசுபவர் "person who speaks truth" |
+
+### 4.4 Missing Entirely
+
+**None**. All CLCA operators have some realization in Tamil, though CAUSATION (character) requires circumlocution for positive pole and DISCONFIRMATION is conceptually restricted to negative pole.
+
+---
+
+## 5. Summary of Key Findings
+
+1. **BECOME ↔ REVELATION overlap**: வரு (varu) "come" constructions blur the boundary between inchoative and epistemic emergence.
+
+2. **VERIFICATION lexical substitution**: Uses சரி "correct" and உறுதி "certainty" rather than உண்மை "truth."
+
+3. **Asymmetric productivity**:
+   - Agentive nominalization: productive for பொய் "lie" (பொய்யன் "liar"), not for உண்மை "truth"
+   - Disconfirmation: applies to பொய் only (பொய் பிடிபடு "lie is caught")
+   - Locative discourse marker: உண்மையில் highly frequent, பொய்யில் marginal
+
+4. **Dual negation strategy**: Analytic (இல்லை) for predicates, morphological (-அற்ற) for attributive adjectives.
+
+5. **No true structural gaps**: All operators realized, but some require circumlocution (CAUSATION-character for உண்மை) or show conceptual restrictions (DISCONFIRMATION for உண்மை).
+
+6. **Register stratification**: Classical patterns (-மை, -இன்மை) marginal in colloquial speech; modern patterns (-தன்மை, -அற்ற) preferred.

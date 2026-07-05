@@ -1,0 +1,530 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Hebrew (he)
+
+---
+
+**Methodological note:** The following documents how Hebrew encodes dynamic processes — becoming, causing, losing, maintaining — involving the truth-related vocabulary established in P1–P5. All vocabulary is drawn exclusively from the CONTEXT. Auxiliary verbs, aspect markers, copulas, and function words are added only as needed for grammatical well-formedness. Where no common expression exists for a given dynamic type with a given item, this is stated explicitly rather than filled by inference. Items are grouped by the type of dynamic process; within each section, behavior is documented per relevant P1 item or semantic group where the data supports differentiation.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE ("X becomes [truth-related state]")
+
+### 1.1 General pattern
+
+The primary strategies for encoding inchoative change in this domain, as documented in P4a (Construction 4), are:
+
+- **הָפַךְ לְ-** (*hafakh le-*) — "became" + predicate: the general inchoative verb, unrestricted across registers
+- **נִמְצָא** (*nimtsa*) + predicate adjective — "was found to be / turned out to be": common in legal and evaluative discourse, recording a change in assessed status
+- **הִתְגַּלָּה כְּ-** (*hitgalla ke-*) — "was revealed as / turned out to be": used when the change involves a disclosure or discovery
+
+These three strategies are not interchangeable; their distribution across items is documented below.
+
+---
+
+### 1.2 Becoming credible / trustworthy
+
+**Item: אָמִין (*ʾamin*), מְהֵימָן (*mehiman*), נֶאֱמָן (*neʾeman*)**
+
+**הַמָּקוֹר הָפַךְ לְאָמִין**
+*ha-maqor hafakh le-ʾamin*
+"The source became reliable / credible"
+**Notes:** *hafakh le-* is the natural inchoative construction here. The change described is a shift in assessed credibility, typically following new evidence or a track record of accuracy. Common in journalistic and evaluative discourse.
+**Epistemic status:** [CORE]
+
+**הָעֵד נִמְצָא מְהֵימָן**
+*ha-ʿed nimtsa mehiman*
+"The witness was found to be credible / turned out to be credible"
+**Notes:** *nimtsa* + predicate adjective is the standard legal formula for recording a court's finding on credibility, as documented in P2b (items 9.4–9.5) and P5 (Opposition 10). This construction encodes a change in legal status — from unassessed to assessed — rather than a change in the underlying property.
+**Epistemic status:** [CORE]
+
+**הוּא הָפַךְ לְנֶאֱמָן לְ-**
+*hu hafakh le-neʾeman le-*
+"He became loyal / faithful to"
+**Notes:** *neʾeman le-* (faithful to) takes *hafakh le-* as its inchoative. The change described is a shift in relational loyalty, not merely in assessed credibility. Less common than the static attribution *hu neʾeman le-* but attested in narrative and political discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Becoming correct / true
+
+**Item: נָכוֹן (*nakhon*), אֱמֶת (*ʾemet*)**
+
+**זֶה הָפַךְ לְנָכוֹן**
+*ze hafakh le-nakhon*
+"That became correct / turned out to be correct"
+**Notes:** Used when a statement that was previously incorrect or uncertain is subsequently confirmed as accurate — for example, a prediction that proved true, or a claim that was later verified. Common in everyday and journalistic discourse.
+**Epistemic status:** [CORE]
+
+**הַתַּחֲזִית הִתְגַּלְּתָה כְּנְכוֹנָה**
+*ha-taḥazit hitgaleta ke-nekhona*
+"The forecast turned out to be correct / was revealed to be accurate"
+**Notes:** *hitgalla ke-* is used here when the correctness of a prediction or claim is revealed by subsequent events. The feminine agreement (*nekhona*) reflects the gender of *taḥazit* (forecast, feminine noun). This construction emphasizes the revelatory aspect of the change.
+**Epistemic status:** [CORE]
+
+**Note on *ʾemet*:** The construction *ze hafakh le-ʾemet* ("that became the truth") is grammatically possible but uncommon in everyday Hebrew. *ʾemet* as a predicate in inchoative constructions is less natural than *nakhon*, because *ʾemet* typically describes a stable property of a statement rather than a state that something transitions into. The more natural expression for a claim being confirmed as true uses *leʾammet* (to verify/authenticate) or *nimtsa nakhon* (was found to be correct) rather than an inchoative with *ʾemet* itself.
+
+---
+
+### 1.4 Becoming justified / warranted
+
+**Item: מוּצְדָּק (*mutsdddaq*)**
+
+**הַהַחְלָטָה הָפְכָה לְמוּצְדֶּקֶת**
+*ha-haḥlata hafekha le-mutsdddeqet*
+"The decision became justified / warranted"
+**Notes:** *hafakh le-* with *mutsdddaq* (feminine *mutsdddeqet* in agreement with *haḥlata*, decision, feminine) is the natural inchoative. Used in legal and moral discourse when a decision that was initially questionable is subsequently shown to be warranted by events or evidence.
+**Epistemic status:** [CORE]
+
+**הַבִּיקֹּרֶת נִמְצֵאת מוּצְדֶּקֶת**
+*ha-biqqoret nimtset mutsdddeqet*
+"The criticism was found to be justified"
+**Notes:** *nimtsa* + *mutsdddaq* is attested in P1b (Root צ-ד-ק, item 6), where the example *ha-biqqoret mutsdddaq* is given. The *nimtsa* construction adds the sense of a finding or determination, common in evaluative and legal contexts.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 Becoming valid / in force
+
+**Item: תָּקֵף (*taqef*)**
+
+**הַחֹזֶה הָפַךְ לְתָקֵף**
+*ha-ḥoze hafakh le-taqef*
+"The contract became valid / came into force"
+**Notes:** *hafakh le-taqef* is the natural inchoative for legal validity. Used in legal and administrative discourse to describe the moment at which a document, contract, or decision acquires legal force. Closely related to the verb *letaqqef* (to validate, to ratify), documented in P2a (item 21.3).
+**Epistemic status:** [CORE]
+
+**הַחֹזֶה נִכְנַס לְתֹקֶף**
+*ha-ḥoze nikhnas le-toqef*
+"The contract entered into force / came into effect"
+**Notes:** The construction *nikhnas le-toqef* (entered into force) uses the abstract noun *toqef* (validity, legal force), documented in P2a (item 21.1), with the verb *nikhnas* (entered). This is a more idiomatic and institutionally fixed expression for the coming-into-force of a legal instrument than *hafakh le-taqef*, and is the standard phrase in Israeli legal and administrative discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.6 Becoming authentic / original
+
+**Item: אוֹתֶנְטִי (*ʾotenti*), מְקוֹרִי (*meqori*)**
+
+**Note:** No common inchoative construction for *ʾotenti* or *meqori* has been identified in the data. Authenticity and originality are typically treated as stable properties of objects rather than states that objects transition into. The relevant dynamic in this domain is not "becoming authentic" but rather "being found to be authentic" or "being authenticated," which is expressed through the verification vocabulary (*leʾammet*, *immut*, *meʾummat*) documented in P2a (items 1.3–1.5) and P3 (Group 8).
+
+**הַמִּסְמָךְ אֻמַּת**
+*ha-mismakh ummat*
+"The document was authenticated / verified"
+**Notes:** The Pi'el passive (*ummat*, Pu'al perfect of *leʾammet*) expresses the result of an authentication process. This is not strictly an inchoative of *ʾotenti* but is the natural expression for the process by which a document acquires verified authentic status.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.7 Becoming reasonable / plausible
+
+**Item: סָבִיר (*savir*)**
+
+**הַהַסְבֵּר הָפַךְ לְסָבִיר**
+*ha-hasber hafakh le-savir*
+"The explanation became plausible / reasonable"
+**Notes:** *hafakh le-savir* is the natural inchoative. Used in everyday and legal discourse when an explanation or claim that initially seemed implausible becomes credible in light of new information.
+**Epistemic status:** [CORE]
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE ("X becomes [opposed state]")
+
+### 2.1 General pattern
+
+The same inchoative strategies apply: *hafakh le-* + negated predicate, or *hafakh le-* + lexical antonym. The *ʾi-* prefix nominals (e.g., *ʾi-sevirut*, *ʾi-ḥuqiyyut*) do not typically appear as predicates in *hafakh le-* constructions; the adjectival negations (*lo savir*, *bilti ḥuqi*) are used instead.
+
+---
+
+### 2.2 Becoming unreliable / untrustworthy
+
+**Item: אָמִין (*ʾamin*), מְהֵימָן (*mehiman*), נֶאֱמָן (*neʾeman*)**
+
+**הַמָּקוֹר הָפַךְ לְלֹא אָמִין**
+*ha-maqor hafakh le-lo ʾamin*
+"The source became unreliable"
+**Notes:** This construction is explicitly documented in P4a (Construction 4) as the example for the inchoative pattern. *hafakh le-lo ʾamin* is the standard expression for a source losing credibility.
+**Epistemic status:** [CORE]
+
+**הוּא הָפַךְ לְלֹא נֶאֱמָן**
+*hu hafakh le-lo neʾeman*
+"He became untrustworthy / disloyal"
+**Notes:** *hafakh le-lo neʾeman* is the natural inchoative for the loss of loyalty or trustworthiness. Used in political and interpersonal discourse to describe a person who was previously trusted but is no longer.
+**Epistemic status:** [CORE]
+
+**אֱמוּן הַצִּבּוּר הִתְמוֹטֵט**
+*ʾemun ha-tsibbur hitmotet*
+"Public trust collapsed"
+**Notes:** The verb *hitmotet* (collapsed, Hitpa'el of מ-ו-ט) is the natural expression for the sudden loss of trust at an institutional level. This is more specific than *hafakh le-lo ʾamin* and is the standard phrase in political and journalistic discourse for a trust collapse, closely related to *mashber ʾemun* (crisis of trust), documented in P1b (Root א-מ-נ, item 28) and P2b (item 8.6).
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 Becoming incorrect / false
+
+**Item: נָכוֹן (*nakhon*)**
+
+**הַמֵּידָע הָפַךְ לְלֹא נָכוֹן**
+*ha-meyda hafakh le-lo nakhon*
+"The information became incorrect / ceased to be accurate"
+**Notes:** Used in administrative and journalistic contexts when information that was previously accurate is superseded by new facts. Closely related to the temporal constructions *nakhon leʿakhshav* (correct as of now) and *nakhon letaʾarikh* (correct as of [date]), documented in P2b (items 3.6–3.7), which implicitly acknowledge that correctness can lapse.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 Becoming forged / falsified
+
+**Item: מְזוּיָּף (*mezuyaf*)**
+
+**הַמִּסְמָךְ נִמְצָא מְזוּיָּף**
+*ha-mismakh nimtsa mezuyaf*
+"The document was found to be forged / turned out to be forged"
+**Notes:** This construction is documented in P2b (item 13.5) and P5 (Opposition 49) as a common legal formula. As noted in P4a (Construction 4), *nimtsa* + predicate adjective is particularly frequent in legal discourse for recording a change in assessed status. The construction encodes the discovery of forgery rather than a process of becoming forged.
+**Epistemic status:** [CORE]
+
+**Note on *hafakh le-mezuyaf*:** The construction *hafakh le-mezuyaf* ("became forged") is grammatically possible but semantically anomalous in most contexts, because forgery is typically a completed act rather than a gradual transition. The natural expression for the act of falsification uses the verb *lezayyef* (to forge), documented in P2a (item 12.1).
+
+---
+
+### 2.5 Becoming invalid / expired
+
+**Item: תָּקֵף (*taqef*)**
+
+**הָרִשָּׁיוֹן פָּקַע**
+*ha-rishyon paqa*
+"The license expired / lapsed"
+**Notes:** The verb *paqa* (expired, lapsed) is the most natural and idiomatic expression for a document or license losing its validity through expiration. It is more specific than *hafakh le-lo taqef* and is the standard term in administrative and legal discourse for the lapsing of validity.
+**Epistemic status:** [CORE]
+
+**הָרִשָּׁיוֹן הָפַךְ לְלֹא תָּקֵף**
+*ha-rishyon hafakh le-lo taqef*
+"The license became invalid / ceased to be in force"
+**Notes:** *hafakh le-lo taqef* is also attested and is used when the invalidity results from a decision or event rather than simple expiration. Less idiomatic than *paqa* for expiration specifically, but natural for invalidity resulting from a ruling or change in circumstances.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.6 Becoming unjustified / unwarranted
+
+**Item: מוּצְדָּק (*mutsdddaq*)**
+
+**הָעֹנֶשׁ הָפַךְ לְלֹא מוּצְדָּק**
+*ha-ʿonesh hafakh le-lo mutsdddaq*
+"The punishment became unjustified / ceased to be warranted"
+**Notes:** *hafakh le-lo mutsdddaq* is the natural inchoative for the loss of justification. Used in legal and moral discourse when a sanction or decision that was initially warranted is no longer so in light of changed circumstances.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.7 Becoming illegal / unlawful
+
+**Item: חוּקִי (*ḥuqi*)**
+
+**הַפְּעֻלָּה הָפְכָה לְבִלְתִּי חוּקִית**
+*ha-peʿulla hafekha le-bilti ḥuqit*
+"The action became illegal / unlawful"
+**Notes:** *hafakh le-bilti ḥuqi* (feminine *bilti ḥuqit* in agreement with *peʿulla*, action, feminine) is the natural inchoative for the loss of legal status. Used in legal and administrative discourse when an action that was previously permitted is subsequently prohibited by law.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.8 Becoming unreasonable
+
+**Item: סָבִיר (*savir*)**
+
+**הַדָּרִישָׁה הָפְכָה לְבִלְתִּי סְבִירָה**
+*ha-darisha hafekha le-bilti sevira*
+"The demand became unreasonable"
+**Notes:** *hafakh le-bilti savir* (feminine *bilti sevira*) is the natural inchoative. Used in legal and everyday discourse when a demand, condition, or expectation that was initially reasonable becomes excessive or implausible in changed circumstances.
+**Epistemic status:** [CORE]
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE ("Y causes X to be [truth-related state]")
+
+### 3.1 General pattern
+
+Hebrew encodes causation in this domain through three main strategies, as documented in P4a (Construction 5) and P2a:
+
+- **Hif'il binyan** of the relevant root, where attested (e.g., *lehatsddiq*, *lehakhshir*, *letaqqef*, *lehaʾamin*)
+- **Pi'el binyan** for verification/authentication (e.g., *leʾammet*, *lezayyef*)
+- **Periphrastic causative** with *legaram* (לְגָרֹם, "to cause") + infinitive, for roots without a productive causative binyan in this domain
+
+P4b notes that the Hif'il causative/declarative is productive only for roots with an attested Hif'il in this domain, and that coverage is uneven. This unevenness is documented below per item.
+
+---
+
+### 3.2 Causing something to be verified / authenticated
+
+**Item: אֱמֶת (*ʾemet*) → *leʾammet* (Pi'el)**
+
+**הַנּוֹטָרְיוֹן אִמֵּת אֶת הַמִּסְמָךְ**
+*ha-notaryon immet et ha-mismakh*
+"The notary authenticated / verified the document"
+**Notes:** *leʾammet* (Pi'el of root א-מ-ת) is the standard verb for the act of authentication or verification, documented in P2a (item 1.3). The subject is typically an authorized person or institution; the object is a document, identity, or claim. This is the primary causative construction in the authentication subdomain.
+**Epistemic status:** [CORE]
+
+**הַמַּחְשֵׁב מְאַמֵּת אֶת הַזֶּהוּת**
+*ha-maḥshev meʾammet et ha-zehut*
+"The computer authenticates / verifies the identity"
+**Notes:** The Pi'el participle *meʾammet* (authenticating) is used in digital and administrative contexts for automated verification processes. *immut zehut* (identity verification) is documented in P1b (Root א-מ-ת, item 6) and P2a (item 1.5) as the standard phrase for this process.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 Causing something to be justified / declared righteous
+
+**Item: צֶדֶק (*tsedeq*) → *lehatsddiq* (Hif'il)**
+
+**בֵּית הַמִּשְׁפָּט הִצְדִּיק אֶת הַהַחְלָטָה**
+*bet ha-mishpat hitsddiq et ha-haḥlata*
+"The court justified / upheld the decision"
+**Notes:** *lehatsddiq* (Hif'il of root צ-ד-ק) is documented in P2a (item 14.3) and P1b (Root צ-ד-ק, item 4) as the standard verb for justifying or vindicating. The subject is typically a person, court, or argument; the object is an action, decision, or person. This is one of the most productive causative constructions in the domain.
+**Epistemic status:** [CORE]
+
+**הַתּוֹצָאוֹת הִצְדִּיקוּ אֶת הַאֶמְצָעִים**
+*ha-totsa'ot hitsddiqo et ha-ʾemtsaʾim*
+"The results justified the means"
+**Notes:** A common construction in moral and political discourse. *lehatsddiq* takes a wide range of objects: decisions, actions, means, persons. The construction is unrestricted in register.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.4 Causing something to be certified as fit / qualified
+
+**Item: כָּשֵׁר (*kasher*) → *lehakhshir* (Hif'il)**
+
+**הָרַב הִכְשִׁיר אֶת הַמִּטְבָּח**
+*ha-rav hikhshir et ha-mitbaḥ*
+"The rabbi certified the kitchen as kosher / fit"
+**Notes:** *lehakhshir* (Hif'il of root כ-ש-ר) is documented in P2a (item 28.2) as the standard verb for certifying something as fit or valid. In religious law, the subject is a rabbinic authority; the object is food, a kitchen, or a ritual object.
+**Epistemic status:** [CORE]
+
+**הַוַּעֲדָה הִכְשִׁירָה אֶת הַמּוּעָמָד**
+*ha-vaʿada hikhshira et ha-muʿamad*
+"The committee qualified / certified the candidate"
+**Notes:** In administrative and professional contexts, *lehakhshir* means to qualify or authorize a person for a role. The subject is an authorizing body; the object is a person or institution. Documented in P2a (item 28.2).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.5 Causing something to be validated / ratified
+
+**Item: תָּקֵף (*taqef*) → *letaqqef* (Pi'el)**
+
+**הַכְּנֶסֶת תִּקְּפָה אֶת הַחֹזֶה**
+*ha-kneset tiqqefa et ha-ḥoze*
+"The Knesset ratified / validated the agreement"
+**Notes:** *letaqqef* (Pi'el of root ת-ק-פ) is documented in P2a (item 21.3) as the verb for formally validating or ratifying something — giving it legal force. The subject is a legislative or authorizing body; the object is an agreement, decision, or document.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.6 Causing something to be disqualified / invalidated
+
+**Item: פָּסוּל (*pasul*) → *lifsol* (Qal)**
+
+**הַשּׁוֹפֵט פָּסַל אֶת הָעֵדוּת**
+*ha-shofet pasal et ha-ʿedut*
+"The judge ruled the testimony inadmissible / disqualified the testimony"
+**Notes:** *lifsol* (Qal of root פ-ס-ל) is documented in P2a (item 29.2) as "the standard verb for disqualifying or invalidating something or someone." The subject is a judicial or authorizing body; the object is testimony, a candidate, or a document. This is the causative construction for the *pasul* state.
+**Epistemic status:** [CORE]
+
+**הַוַּעֲדָה פָּסְלָה אֶת הַמּוּעָמָד**
+*ha-vaʿada pasela et ha-muʿamad*
+"The committee disqualified the candidate"
+**Notes:** *lifsol* takes a wide range of objects in legal and administrative contexts. The construction is unrestricted in register within formal discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.7 Causing something to be forged / falsified
+
+**Item: זִיּוּף (*ziyyuf*) → *lezayyef* (Pi'el)**
+
+**הוּא זִיֵּף אֶת הַחֲתִימָה**
+*hu ziyyef et ha-ḥatima*
+"He forged the signature"
+**Notes:** *lezayyef* (Pi'el of root ז-י-פ) is documented in P2a (item 12.1) as "the standard verb for forging or falsifying documents, artworks, currency, or other representations." The subject is a person acting deliberately; the object is a document, signature, or other representation. This is the primary causative construction for the *mezuyaf* state.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.8 Causing someone to believe / trust
+
+**Item: אֱמוּנָה (*ʾemuna*), אֱמוּן (*ʾemun*) → *lehaʾamin* (Hif'il)**
+
+**הוּא גָּרַם לִי לְהַאֲמִין לוֹ**
+*hu garam li lehaʾamin lo*
+"He caused me to believe him / made me trust him"
+**Notes:** The Hif'il *lehaʾamin* (to believe, to trust) is documented in P1b (Root א-מ-נ, item 5) as "the standard verb for 'to believe' in Hebrew." The periphrastic causative *garam le-* (caused to) + infinitive is used here because the Hif'il of א-מ-נ is itself the belief verb, not a causative of it; causing someone to believe requires the periphrastic strategy.
+**Epistemic status:** [CORE]
+
+**הַנְּאוּם שִׁכְנַע אֶת הַקָּהָל לְהַאֲמִין**
+*ha-neʾum shikhnea et ha-qahal lehaʾamin*
+"The speech persuaded the audience to believe"
+**Notes:** *leshakhnea* (to persuade, Pi'el of ש-כ-נ-ע) + *lehaʾamin* is a common construction for causing belief through persuasion. The subject is a communicative act or person; the object is a person or group. This is the most natural expression for induced belief in everyday and rhetorical discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.9 Causing a loss of trust / credibility
+
+**Item: אֲמִינוּת (*ʾaminut*), אֱמוּן (*ʾemun*)**
+
+**הַשַּׁחֲרוּר פָּגַע בָּאֲמִינוּת שֶׁלּוֹ**
+*ha-shaḥarur pagaʿ ba-ʾaminut shello*
+"The disclosure damaged his credibility"
+**Notes:** *pagaʿ be-* (damaged, harmed) + *ʾaminut* is documented in P2b (item 8.2) as a common construction for describing an action that undermines credibility. The subject is an event, disclosure, or action; the object is a person's or institution's credibility.
+**Epistemic status:** [CORE]
+
+**הַשַּׁחֲרוּר פָּגַע בָּאֱמוּן הַצִּבּוּר**
+*ha-shaḥarur pagaʿ be-ʾemun ha-tsibbur*
+"The disclosure damaged public trust"
+**Notes:** The same *pagaʿ be-* construction applies to *ʾemun ha-tsibbur* (public trust), documented in P1b (Root א-מ-נ, item 30) and P2b (item 8.6). The construction is productive across both the personal credibility (*ʾaminut*) and institutional trust (*ʾemun*) domains.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.10 Causing distortion of truth
+
+**Item: אֱמֶת (*ʾemet*) → *leʿavvet* (Pi'el)**
+
+**הוּא עִוֵּת אֶת הָאֱמֶת**
+*hu ʿivvet et ha-ʾemet*
+"He distorted the truth"
+**Notes:** *leʿavvet et ha-ʾemet* (to distort the truth) is documented in P2b (item 1.28) as a common verbal construction. The subject is a person acting deliberately or negligently; the object is *ha-ʾemet* (the truth). This is the primary causative construction for the *ʿiyyut ha-ʾemet* (distortion of truth) state documented in P1b (Root א-מ-ת, item 28).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.11 Causing concealment of truth
+
+**Item: אֱמֶת (*ʾemet*) → *lehastir* (Hif'il)**
+
+**הֵם הִסְתִּירוּ אֶת הָאֱמֶת**
+*hem histiru et ha-ʾemet*
+"They hid / concealed the truth"
+**Notes:** *lehastir et ha-ʾemet* (to hide the truth) is documented in P2b (item 1.26) as a common verbal construction. The subject is a person or institution acting deliberately; the object is *ha-ʾemet*. This is the causative construction for the concealment state that opposes *gilluy ha-ʾemet* (disclosure of truth), as documented in P5 (Oppositions 34–35).
+**Epistemic status:** [CORE]
+
+---
+
+### 3.12 Causing disclosure of truth
+
+**Item: אֱמֶת (*ʾemet*) → *legallot* (Pi'el)**
+
+**הַחֲקִירָה גִּלְּתָה אֶת הָאֱמֶת**
+*ha-ḥaqira gilleta et ha-ʾemet*
+"The investigation revealed / disclosed the truth"
+**Notes:** *legallot et ha-ʾemet* (to reveal the truth) is documented in P2b (item 1.25) as a common verbal construction. The subject is an investigative process, person, or event; the object is *ha-ʾemet*. This is the causative construction for the *gilluy ha-ʾemet* (disclosure of truth) state documented in P1b (Root א-מ-ת, item 27).
+**Epistemic status:** [CORE]
+
+---
+
+## 4. MAINTAINING A TRUTH-RELATED STATE (stability expressions)
+
+### 4.1 General pattern
+
+Hebrew encodes the maintenance of truth-related states primarily through:
+
+- **נֶאֱמָן לְ-** (*neʾeman le-*) — "faithful/loyal to": the primary expression for maintained fidelity to a person, principle, or commitment
+- **שָׁמַר עַל** (*shamar ʿal*) — "maintained, kept": used with abstract nouns to describe the preservation of a state
+- **עָמַד בְּ-** (*ʿamad be-*) — "stood by, held to": used for maintaining a position or commitment
+
+---
+
+### 4.2 Maintaining loyalty / faithfulness
+
+**Item: נֶאֱמָן (*neʾeman*), נֶאֱמָנוּת (*neʾemanut*)**
+
+**הוּא נִשְׁאַר נֶאֱמָן לְעַמְדָּתוֹ**
+*hu nishʾar neʾeman le-ʿamdato*
+"He remained faithful / loyal to his position"
+**Notes:** *nishʾar neʾeman le-* (remained faithful to) is the natural expression for maintained loyalty. *nishʾar* (remained, Nif'al of ש-א-ר) + *neʾeman le-* combines the stative *neʾeman le-* collocation (documented in P1b, Root א-מ-נ, item 17, and P2b, item 16.3) with a continuative verb. Common in political and moral discourse.
+**Epistemic status:** [CORE]
+
+**הוּא שָׁמַר עַל נֶאֱמָנוּתוֹ**
+*hu shamar ʿal neʾemanutо*
+"He maintained his loyalty / faithfulness"
+**Notes:** *shamar ʿal* (maintained, kept) + *neʾemanut* (loyalty) is a common construction for the active preservation of fidelity. The subject is a person; the object is their own loyalty or faithfulness as an abstract quality.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.3 Maintaining a commitment / covenant
+
+**Item: אֲמָנָה (*ʾamana*)**
+
+**הַצְּדָדִים עָמְדוּ בָּאֲמָנָה**
+*ha-tsedadim ʿamdu ba-ʾamana*
+"The parties stood by / honored the agreement"
+**Notes:** *ʿamad be-* (stood by, honored) + *ʾamana* (agreement, covenant) is the natural expression for maintaining a formal commitment. Documented in P1b (Root א-מ-נ, item 10), where *ʾamana* is described as "a binding commitment grounded in mutual trust."
+**Epistemic status:** [CORE]
+
+---
+
+### 4.4 Maintaining public trust
+
+**Item: אֱמוּן הַצִּבּוּר (*ʾemun ha-tsibbur*)**
+
+**הַמֶּמְשָׁלָה שָׁמְרָה עַל אֱמוּן הַצִּבּוּר**
+*ha-memshala shamra ʿal ʾemun ha-tsibbur*
+"The government maintained public trust"
+**Notes:** *shamar ʿal ʾemun ha-tsibbur* (maintained public trust) is the natural expression for the preservation of institutional credibility. *ʾemun ha-tsibbur* (public trust) is documented in P1b (Root א-מ-נ, item 30) and P2b (item 8.6) as a fixed phrase in political and journalistic discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.5 Maintaining validity
+
+**Item: תָּקֵף (*taqef*)**
+
+**הַחֹזֶה נִשְׁאַר בְּתֹקְפּוֹ**
+*ha-ḥoze nishʾar be-toqfo*
+"The contract remained in force / continued to be valid"
+**Notes:** *nishʾar be-toqfo* (remained in its force/validity) uses the abstract noun *toqef* (validity, legal force), documented in P2a (item 21.1), with the possessive suffix and the preposition *be-*. This is the standard expression in legal and administrative discourse for the continued validity of a document or agreement.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.6 Maintaining faithfulness to truth
+
+**Item: אֱמֶת (*ʾemet*)**
+
+**הוּא נִשְׁאַר נֶאֱמָן לָאֱמֶת**
+*hu nishʾar neʾeman la-ʾemet*
+"He remained faithful to the truth"
+**Notes:** *neʾeman la-ʾemet* (faithful to the truth) is documented in P1b (Root א-מ-נ, item 17) as a productive collocation. The addition of *nishʾar* (remained) creates the stability expression. Used in moral and journalistic discourse to describe a person who maintains truthfulness under pressure.
+**Epistemic status:** [CORE]
+
+---
+
+## 5. SUMMARY OF PATTERNS AND GAPS
+
+### 5.1 Patterns observed
+
+- **The *hafakh le-* inchoative** is the most general and productive strategy for encoding change into or out of truth-related states. It is attested with *ʾamin*, *neʾeman*, *nakhon*, *mutsdddaq*, *taqef*, *ḥuqi*, *savir*, and their negations. It is unrestricted in register.
+
+- **The *nimtsa* + predicate adjective construction** is the primary legal formula for recording a change in assessed status. It is attested with *mehiman*, *mutsdddaq*, and *mezuyaf*, and is institutionally fixed in judicial discourse. It encodes the discovery or determination of a state rather than a gradual transition into it.
+
+- **The Hif'il binyan** is the primary morphological causative strategy, productive for roots צ-ד-ק (*lehatsddiq*), כ-ש-ר (*lehakhshir*), and א-מ-ת (*lehaʾamin*). Coverage is uneven across the domain, as documented in P4b.
+
+- **The Pi'el binyan** serves as the causative for authentication (*leʾammet*), forgery (*lezayyef*), and validation (*letaqqef*). These are the primary causative constructions in the document-authenticity subdomain.
+
+- **The *pagaʿ be-* construction** (damaged, harmed) is the standard expression for causing a loss of credibility or trust, attested with both *ʾaminut* and *ʾemun ha-tsibbur*.
+
+- **The *shamar ʿal* construction** (maintained, kept) is the primary expression for stability and preservation of truth-related states, attested with *neʾemanut*, *ʾemun ha-tsibbur*, and *toqef*.
+
+- **The *nishʾar* + predicate construction** (remained) is the primary expression for continued possession of a truth-related state, attested with *neʾeman le-* and *be-toqfo*.
+
+### 5.2 Gaps explicitly noted
+
+- **No common inchoative for *ʾotenti* or *meqori*** has been identified. Authenticity and originality are treated as stable properties; the relevant dynamic is expressed through the verification vocabulary (*leʾammet*, *meʾummat*) rather than through inchoative constructions.
+
+- **No common *hafakh le-mezuyaf*** construction is attested as natural. Forgery is encoded as a completed act (*lezayyef*) rather than a gradual transition.
+
+- **No Hif'il causative for *ʾemet* or *sheqer* directly** is in common use, as documented in P4a (Construction 5). Causing truth-telling uses *ledabber ʾemet* or *lomar et ha-ʾemet*; causing lying uses *leshaqer*. No morphological causative of these items is attested.
+
+- **No parallel positive *nimtsa* + authenticity formula** (e.g., *nimtsa meqori*, *nimtsa ʾotenti*) is documented in the data as a standard legal formula, as noted in P5 (Opposition 49, [UNCERTAIN]).
+
+- **No common inchoative for *kanut* (sincerity)** has been identified. Sincerity is treated as a stable character property; no expression for "becoming sincere" using *kanut* vocabulary is attested in the data.

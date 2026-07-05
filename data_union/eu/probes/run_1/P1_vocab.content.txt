@@ -1,0 +1,302 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Basque (eu)
+
+---
+
+**1. egia**
+- **Form:** egia
+- **Transliteration:** N/A (Latin script)
+- **Literal meaning:** truth; morphologically opaque root with nominal suffix *-a* (definite article)
+- **Typical English translations:** truth, true thing
+- **Usage:** The primary Basque noun for truth, used across everyday, philosophical, and legal registers. Appears in constructions such as *egia esan* ("to tell the truth") and *egia da* ("it is true"). Participates in productive derivation: *egiazko*, *egiaztatu*, *egiari*.
+- **[CORE]**
+
+---
+
+**2. egiazko**
+- **Form:** egiazko
+- **Transliteration:** N/A
+- **Literal meaning:** *egia* (truth) + *-zko* (adjectival/relational suffix) — "of truth," "pertaining to truth"
+- **Typical English translations:** true, genuine, real, authentic
+- **Usage:** Adjectival form derived from *egia*, used to describe statements, objects, or persons as genuinely corresponding to reality or being what they claim to be. Contrasts with *faltsuko* or *gezurrezko* in evaluative contexts. Common in both spoken and written Basque.
+- **[CORE]**
+
+---
+
+**3. egiaztatu**
+- **Form:** egiaztatu
+- **Transliteration:** N/A
+- **Literal meaning:** *egia* (truth) + *-zta-* (verbalizing infix) + *-tu* (perfective suffix) — "to make true," "to verify"
+- **Typical English translations:** to verify, to confirm, to authenticate, to certify
+- **Usage:** A transitive verb used in legal, administrative, and everyday contexts to denote the act of checking or confirming the accuracy or authenticity of something. Frequently appears in official documents and journalistic language. The nominal form *egiaztatze* refers to the process of verification.
+- **[CORE]**
+
+---
+
+**4. gezur**
+- **Form:** gezur
+- **Transliteration:** N/A
+- **Literal meaning:** lie, falsehood (root form; definite: *gezurra*)
+- **Typical English translations:** lie, falsehood, untruth
+- **Usage:** The primary Basque term for a lie or false statement, functioning as the direct semantic opposite of *egia*. Used in moral, interpersonal, and legal contexts to evaluate statements as deliberately or factually false. Participates in compounds such as *gezurrezko* ("false, lying") and *gezurtatu* ("to falsify, to give the lie to").
+- **[CORE]**
+
+---
+
+**5. gezurrezko**
+- **Form:** gezurrezko
+- **Transliteration:** N/A
+- **Literal meaning:** *gezur* (lie) + *-rezko* (adjectival/relational suffix) — "of falsehood"
+- **Typical English translations:** false, lying, counterfeit, fake
+- **Usage:** Adjectival form used to characterize statements, documents, or representations as false or deceptive. Appears in legal and moral evaluative contexts, often in contrast with *egiazko*. Productive in nominal modification.
+- **[CORE]**
+
+---
+
+**6. benetako**
+- **Form:** benetako
+- **Transliteration:** N/A
+- **Literal meaning:** *benetan* (truly, really, in earnest) + *-ko* (adjectival suffix) — "of the real, genuine kind"
+- **Typical English translations:** genuine, real, authentic, true
+- **Usage:** Widely used adjective expressing authenticity or genuineness of persons, objects, feelings, or situations. Differs from *egiazko* in that it more strongly emphasizes sincerity and non-artificiality rather than factual correspondence. Common in everyday speech and literary language.
+- **[CORE]**
+
+---
+
+**7. benetan**
+- **Form:** benetan
+- **Transliteration:** N/A
+- **Literal meaning:** *bene-* (root, possibly related to sincerity/earnestness) + *-tan* (locative/adverbial suffix) — "in truth," "in earnest"
+- **Typical English translations:** truly, really, genuinely, in earnest, seriously
+- **Usage:** Adverb used to assert the sincerity or reality of a claim, action, or state. Functions as an intensifier of truthfulness in both spoken and written registers. Often used to distinguish genuine intent or fact from pretense.
+- **[CORE]**
+
+---
+
+**8. ziur**
+- **Form:** ziur
+- **Transliteration:** N/A
+- **Literal meaning:** certain, sure (adjective; probable loanword from Latin *securus* via Romance)
+- **Typical English translations:** certain, sure, definite
+- **Usage:** Used to express epistemic certainty about the truth or reliability of a proposition or state of affairs. Appears in constructions such as *ziur egon* ("to be sure/certain") and *ziur nago* ("I am sure"). Also used to describe reliable persons or things.
+- **[CORE]**
+
+---
+
+**9. ziurtatu**
+- **Form:** ziurtatu
+- **Transliteration:** N/A
+- **Literal meaning:** *ziur* (certain) + *-ta-* (verbalizing infix) + *-tu* (perfective suffix) — "to make certain"
+- **Typical English translations:** to certify, to assure, to make sure, to confirm
+- **Usage:** Transitive verb used in administrative, legal, and everyday contexts to denote the act of making something certain or officially confirmed. Related to *egiaztatu* but with a stronger emphasis on assurance rather than verification of factual content. The nominal *ziurtasun* ("certainty") is also widely used.
+- **[CORE]**
+
+---
+
+**10. ziurtasun**
+- **Form:** ziurtasun
+- **Transliteration:** N/A
+- **Literal meaning:** *ziur* (certain) + *-tasun* (abstract nominal suffix) — "the quality of being certain"
+- **Typical English translations:** certainty, sureness, assurance, reliability
+- **Usage:** Abstract noun denoting the state or quality of being certain or reliable. Used in philosophical, legal, and everyday discourse to evaluate the epistemic status of claims or the trustworthiness of persons and institutions.
+- **[CORE]**
+
+---
+
+**11. fidagarri**
+- **Form:** fidagarri
+- **Transliteration:** N/A
+- **Literal meaning:** *fida-* (to trust, from Romance *fiar*) + *-garri* (adjectival suffix indicating capacity or worthiness) — "worthy of trust"
+- **Typical English translations:** reliable, trustworthy, dependable, credible
+- **Usage:** Adjective used to evaluate persons, sources, institutions, or information as deserving of trust. Common in journalistic, legal, and everyday evaluative contexts. The negative *fidaezin* or *fidagaitz* expresses unreliability.
+- **[CORE]**
+
+---
+
+**12. sinesgarri**
+- **Form:** sinesgarri
+- **Transliteration:** N/A
+- **Literal meaning:** *sines-* (to believe, *sinets-*) + *-garri* (adjectival suffix) — "worthy of belief"
+- **Typical English translations:** believable, credible, plausible, convincing
+- **Usage:** Adjective used to evaluate whether a statement, person, or account merits belief. Distinct from *fidagarri* in that it focuses on the believability of content rather than the trustworthiness of a source, though the two overlap. Used in legal testimony contexts and everyday speech.
+- **[CORE]**
+
+---
+
+**13. baliozko**
+- **Form:** baliozko
+- **Transliteration:** N/A
+- **Literal meaning:** *balio* (value, validity) + *-zko* (adjectival/relational suffix) — "of value," "having validity"
+- **Typical English translations:** valid, legitimate, of value
+- **Usage:** Adjective used in legal and administrative contexts to describe documents, acts, or claims as legally or formally valid. Also used more broadly to evaluate whether something has genuine worth or standing. Related to *baliozkotu* ("to validate").
+- **[CORE]**
+
+---
+
+**14. baliozkotu**
+- **Form:** baliozkotu
+- **Transliteration:** N/A
+- **Literal meaning:** *baliozko* (valid) + *-tu* (perfective/verbalizing suffix) — "to make valid"
+- **Typical English translations:** to validate, to ratify, to authenticate
+- **Usage:** Transitive verb used in legal and administrative registers to denote the formal act of conferring validity on a document, decision, or act. Less common in everyday speech than in official or written language.
+- **[MARGINAL]**
+
+---
+
+**15. zuzen**
+- **Form:** zuzen
+- **Transliteration:** N/A
+- **Literal meaning:** straight, direct, correct, right (adjective/adverb; also noun meaning "right, justice")
+- **Typical English translations:** correct, right, just, straight, fair
+- **Usage:** Highly polysemous term covering correctness of statements or actions, moral rightness, and legal justice. Used in evaluative contexts ranging from grammatical correctness (*zuzen idatzi*, "to write correctly") to moral and legal rightness (*zuzen jokatu*, "to act rightly"). Also functions as a noun meaning "right" or "justice" in legal contexts.
+- **[CORE]**
+
+---
+
+**16. zuzentasun**
+- **Form:** zuzentasun
+- **Transliteration:** N/A
+- **Literal meaning:** *zuzen* (correct, right, just) + *-tasun* (abstract nominal suffix) — "the quality of being right/just"
+- **Typical English translations:** correctness, justice, fairness, rectitude
+- **Usage:** Abstract noun derived from *zuzen*, used in moral, legal, and philosophical discourse to denote the quality of being correct, just, or fair. Appears in discussions of both epistemic correctness and moral or legal justice.
+- **[CORE]**
+
+---
+
+**17. oker**
+- **Form:** oker
+- **Transliteration:** N/A
+- **Literal meaning:** crooked, wrong, mistaken (adjective/adverb; antonym of *zuzen*)
+- **Typical English translations:** wrong, mistaken, incorrect, crooked
+- **Usage:** The primary antonym of *zuzen*, used to evaluate statements, actions, or judgments as incorrect or morally wrong. Appears in constructions such as *oker egon* ("to be wrong/mistaken") and *oker ibili* ("to go wrong, to be on the wrong track"). Common across all registers.
+- **[CORE]**
+
+---
+
+**18. faltsu**
+- **Form:** faltsu
+- **Transliteration:** N/A
+- **Literal meaning:** false, fake (loanword from Romance *falso*)
+- **Typical English translations:** false, fake, counterfeit, insincere
+- **Usage:** Adjective used to evaluate objects, documents, persons, or statements as false, counterfeit, or insincere. Overlaps with *gezurrezko* for statements and with *faltsifikatu* in the domain of forgery. Common in everyday and legal registers.
+- **[CORE]**
+
+---
+
+**19. faltsifikatu**
+- **Form:** faltsifikatu
+- **Transliteration:** N/A
+- **Literal meaning:** *faltsu* (false) + *-fika-* (verbalizing element, from Romance) + *-tu* (perfective suffix) — "to make false"
+- **Typical English translations:** to falsify, to forge, to counterfeit
+- **Usage:** Transitive verb used primarily in legal and administrative contexts to denote the deliberate falsification of documents, data, or representations. Less common in everyday speech; predominantly a written and formal register term.
+- **[MARGINAL]**
+
+---
+
+**20. egiazkotasun**
+- **Form:** egiazkotasun
+- **Transliteration:** N/A
+- **Literal meaning:** *egiazko* (true, genuine) + *-tasun* (abstract nominal suffix) — "the quality of being true/genuine"
+- **Typical English translations:** truthfulness, genuineness, authenticity, veracity
+- **Usage:** Abstract noun used in philosophical and formal discourse to denote the property of being true or genuine. Less frequent in everyday speech than *egia* or *benetakotasun*, but attested in written and academic Basque.
+- **[MARGINAL]**
+
+---
+
+**21. benetakotasun**
+- **Form:** benetakotasun
+- **Transliteration:** N/A
+- **Literal meaning:** *benetako* (genuine, real) + *-tasun* (abstract nominal suffix) — "the quality of being genuine"
+- **Typical English translations:** authenticity, genuineness, realness
+- **Usage:** Abstract noun used to denote the quality of being authentic or genuine, particularly of persons, feelings, or cultural expressions. More common in literary, philosophical, and cultural discourse than in legal contexts. Overlaps with *egiazkotasun* but emphasizes sincerity and non-artificiality.
+- **[MARGINAL]**
+
+---
+
+**22. itxurazko**
+- **Form:** itxurazko
+- **Transliteration:** N/A
+- **Literal meaning:** *itxura* (appearance, semblance) + *-zko* (adjectival/relational suffix) — "of appearance," "seeming"
+- **Typical English translations:** apparent, seeming, superficial, ostensible
+- **Usage:** Adjective used to characterize something as having the appearance or semblance of a quality without necessarily possessing it genuinely. Used in evaluative contexts to contrast surface appearance with underlying reality. Relevant in discussions of deception, pretense, and resemblance.
+- **[CORE]**
+
+---
+
+**23. itxura**
+- **Form:** itxura
+- **Transliteration:** N/A
+- **Literal meaning:** appearance, semblance, form, look (noun)
+- **Typical English translations:** appearance, semblance, look, form, pretense
+- **Usage:** Noun used to refer to the outward appearance or semblance of something, often implying a contrast with inner reality. Appears in evaluative contexts involving resemblance, pretense, or the distinction between appearance and reality. Common in everyday and literary language.
+- **[CORE]**
+
+---
+
+**24. antzeko**
+- **Form:** antzeko
+- **Transliteration:** N/A
+- **Literal meaning:** *antze* (resemblance, likeness) + *-ko* (adjectival suffix) — "of resemblance," "similar"
+- **Typical English translations:** similar, resembling, alike, like
+- **Usage:** Adjective used to evaluate the degree of resemblance between two entities. Relevant in aesthetic and legal contexts where similarity or likeness is at issue, such as in assessments of imitation or resemblance to an original. Common across registers.
+- **[CORE]**
+
+---
+
+**25. berdintsu**
+- **Form:** berdintsu
+- **Transliteration:** N/A
+- **Literal meaning:** *berdin* (equal, same) + *-tsu* (approximative/attenuating suffix) — "roughly equal," "more or less the same"
+- **Typical English translations:** similar, roughly equal, much the same, equivalent
+- **Usage:** Adjective expressing approximate equality or similarity, used in evaluative comparisons. Less precise than *berdin* ("equal, identical") and overlaps with *antzeko* in expressing resemblance, though *berdintsu* emphasizes degree of equality more than qualitative likeness.
+- **[CORE]**
+
+---
+
+**26. zintzo**
+- **Form:** zintzo
+- **Transliteration:** N/A
+- **Literal meaning:** honest, upright, faithful, well-behaved (adjective)
+- **Typical English translations:** honest, upright, faithful, sincere, well-behaved
+- **Usage:** Adjective used to evaluate persons as honest, sincere, and morally upright. Common in everyday moral evaluation, particularly of children and adults in interpersonal contexts. Also used to describe faithful or conscientious conduct. Overlaps with *leial* in the domain of faithfulness.
+- **[CORE]**
+
+---
+
+**27. leial**
+- **Form:** leial
+- **Transliteration:** N/A
+- **Literal meaning:** loyal, faithful (loanword from Romance *leal*)
+- **Typical English translations:** loyal, faithful, true
+- **Usage:** Adjective used to evaluate persons as loyal or faithful to a person, cause, or commitment. Used in moral and interpersonal evaluative contexts. The abstract noun *lealtasun* ("loyalty, faithfulness") is also attested.
+- **[CORE]**
+
+---
+
+**28. garden**
+- **Form:** garden
+- **Transliteration:** N/A
+- **Literal meaning:** transparent, clear (adjective; also used figuratively)
+- **Typical English translations:** transparent, clear, open, candid
+- **Usage:** Adjective used both literally (of physical transparency) and figuratively to evaluate persons, institutions, or processes as open, candid, and free from concealment. Increasingly common in administrative and political discourse in the sense of institutional transparency. The noun *gardentasun* ("transparency") is widely used.
+- **[CORE]**
+
+---
+
+**29. gardentasun**
+- **Form:** gardentasun
+- **Transliteration:** N/A
+- **Literal meaning:** *garden* (transparent) + *-tasun* (abstract nominal suffix) — "the quality of being transparent"
+- **Typical English translations:** transparency, openness, candor
+- **Usage:** Abstract noun used in administrative, political, and ethical discourse to denote the quality of openness and absence of concealment in conduct or information. Particularly prominent in discussions of institutional accountability and honest governance.
+- **[CORE]**
+
+---
+
+**30. sasi-**
+- **Form:** sasi-
+- **Transliteration:** N/A
+- **Literal meaning:** *sasi* (bramble, thicket; also "false, pseudo, spurious" as prefix) — "false, pseudo, spurious"
+- **Typical English translations:** pseudo-, false, spurious, sham (as prefix)
+- **Usage:** Productive prefix attached to nouns and adjectives to indicate that something is falsely or spuriously presented as what it claims to be (e.g., *sasi-jakintsu*, "pseudo-scholar"; *sasi-zientzia*, "pseudo-science"). Used in critical and evaluative contexts to expose misrepresentation of identity or quality. Attested across written and spoken registers.
+- **[CORE]**

@@ -1,0 +1,85 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Attribution (Construction 1): adjective/nominal + cliticized copula **-a** / **aris** | მართალია (*martalia*, "it is true"); სიცრუეა (*sicruea*, "it is a lie") | Direct mapping; no substitution required | None |
+| **ADNOM** | Adnominal modification (Construction 3): invariant attributive adjective preceding head noun, taking same case suffix as head | ყალბი დოკუმენტი (*q̇albi dok'ument'i*, "forged document"); სარწმუნო მოწმე (*sarcmuno mc̣me*, "credible witness") | Direct mapping; also partially covered by Construction 9 (resultative participial attribution) for completed-state readings | None |
+| **BECOME** | Inchoative adessive + motion verb (Construction 4, marginal): truth-domain nominal in **-ze** + **წასვლა** (*c̣asvla*) | სიყალბეზე წასვლა (*siq̇albeze c̣asvla*, "resorting to falsehood") | Partially available; volitional transition only; **SUBSTITUTED BY REVELATION** for non-volitional becoming | Partial — volitional BECOME only; non-volitional BECOME expressed via REVELATION construction |
+| **REVELATION** | Resultative inchoative verb (Construction 4, core): truth-domain nominal subject + **გამოაშკარავდა** (*gamoašk'aravda*) | სიყალბე გამოაშკარავდა (*siq̇albe gamoašk'aravda*, "the fraud was exposed / came to light") | Substitutes for non-volitional BECOME; no agent required; subject is the truth-domain nominal | None — REVELATION is fully attested; it also covers the non-volitional BECOME slot |
+| **CAUSATION (factual)** | No productive morphological causative pattern attested for truth-domain adjectives as a class (Construction 5, uncertain); lexical formations only: **გაყალბება** (*gaq̇albeba*, "to falsify"), **გასწორება** (*gasc̣oreba*, "to correct") | *(no example attested as a productive pattern)* | **NO COMMON EXPRESSION — circumlocution required** via lexical verbal formations; these are not instances of a synchronically productive causative applied to truth-domain adjectives | Morphosyntactic gap — no productive causative construction; lexical items exist but do not constitute a construction class |
+| **CAUSATION (character)** | Agentive nominalization (Construction 7): root + **-ari**; preverb **ga-** + **ma-...-ebeli** | მტყუარი (*mt'q̇uari*, "liar"); გამაყალბებელი (*gamaq̇albebeli*, "forger, falsifier") | Agentive nominals encode the agent of causation (lying, falsifying) but do not constitute a causative predicate construction; character attribution is expressed through ATTR + agentive nominal | **SUBSTITUTED BY ATTR + AGENTIVE NOMINALIZATION** — no dedicated CAUSATION (character) predicate construction; the agentive nominal is used predicatively via Construction 1 |
+| **VERIFICATION** | Resultative participial attribution (Construction 9): preverb + root + **-ebul-** + **-i**; genitive modification (Construction 8) | დადასტურებული (*dadasturebuli*, "confirmed, verified, attested"); მტკიცების ტვირთი (*mt'k'icebis t'virti*, "burden of proof"); სიმართლის დადგენა (*simartlis dadgena*, "establishing the truth") | Direct mapping via two constructions: resultative participial for adjectival/attributive verification; genitive modification for nominal/process-denoting verification | None — both constructions are [CORE] |
+| **DISCONFIRMATION** | Resultative participial attribution (Construction 9) for falsification outcomes; genitive modification (Construction 8) for falsification processes | გაყალბებული (*gaq̇albebuli*, "falsified, forged"); *(genitive modification with falsity nominal)* | VERIFICATION and DISCONFIRMATION share the same constructional patterns (Constructions 8 and 9); differentiation is lexical (verification vs. falsification root), not constructional | None — same constructions as VERIFICATION; no constructional asymmetry |
+| **NEGATION** | Analytic negation (Construction 2): **ar aris** + nominal predicate; morphological negation (Construction 2): privative **u-...-o** | სიცრუე არ არის (*sicrue ar aris*, "it is not a lie"); უზუსტო (*uzusto*, "inaccurate") | Both analytic and morphological negation are fully attested; analytic negation applies to all nominal predicates; morphological privative applies to adjectival bases | None — both strategies are [CORE] |
+| **NOMINALIZATION** | Abstract nominalization (Construction 6): **si-...-e/le** circumfix (colloquial); **-eba/-oba** suffix (formal); agentive nominalization (Construction 7): **-ari**, **ma-...-ebeli** | სიმართლე (*simartle*, "truth"); ჭეშმარიტება (*č̣ešmariteba*, "truth, truthfulness"); მტყუარი (*mt'q̇uari*, "liar"); გამაყალბებელი (*gamaq̇albebeli*, "forger") | Direct mapping; two distinct abstract nominalization patterns differentiated by register; two agentive nominalization patterns differentiated by derivational base and register | None — all patterns are [CORE] |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substitutes for non-volitional BECOME
+
+The BECOME operator is only partially covered in Georgian. The adessive + motion verb construction (*siq̇albeze c̣asvla*, "resorting to falsehood") expresses volitional, agentive transition into a state of falsity or deception, and is rated [MARGINAL] in P4b. For non-volitional becoming — the coming-to-light of a hidden truth or fraud without an expressed agent — Georgian uses the REVELATION construction (*siq̇albe gamoašk'aravda*, "the fraud was exposed / came to light"), which is rated [CORE]. The two constructions are not interchangeable: the adessive + motion verb requires a volitional agent, while the resultative verb construction takes the truth-domain nominal itself as subject with no agent expressed. The REVELATION construction therefore systematically covers the non-volitional portion of the BECOME semantic space.
+
+### 2.2 AGENTIVE NOMINALIZATION + ATTR substitutes for CAUSATION (character)
+
+No dedicated predicate construction for CAUSATION (character) — that is, a construction that predicates of a person that they habitually or characteristically cause a truth-domain state — is attested. Instead, Georgian uses agentive nominals (*mt'q̇uari*, "liar"; *gamaq̇albebeli*, "forger") in the ATTR construction (Construction 1) to assign a character-level truth-domain property to a person. The agentive nominal encodes the agent of the relevant action, and the copular predication assigns that characterization to the subject. This is a two-step substitution: AGENTIVE NOMINALIZATION (Construction 7) + ATTR (Construction 1) together cover the CAUSATION (character) slot.
+
+### 2.3 VERIFICATION and DISCONFIRMATION share constructions; differentiation is lexical
+
+VERIFICATION and DISCONFIRMATION are not distinguished constructionally in Georgian. Both are expressed through the same two constructions: resultative participial attribution (Construction 9) and genitive modification (Construction 8). The distinction between confirming/verifying and falsifying/disconfirming is carried entirely by the choice of lexical root (verification root vs. falsification root), not by any difference in construction type, morphological pattern, or syntactic frame. This is a lexical differentiation within a shared constructional template.
+
+### 2.4 Asymmetry in agentive nominalization: truth-teller vs. liar
+
+A lexical asymmetry is noted within the AGENTIVE NOMINALIZATION construction. A single lexicalized agentive nominal for "liar" (*mt'q̇uari*) is attested, but no parallel single-word agentive nominal for "truth-teller" is attested. The concept of a habitual truth-teller is expressed periphrastically (*simartlis mtqveli*, "one who tells the truth"), which is a genitive modification + participial construction rather than a root-derived agentive nominal. This asymmetry is lexical, not morphosyntactic: the **-ari** pattern is productive and could in principle generate such a form, but no such form is attested in the data.
+
+### 2.5 Register asymmetry in NOMINALIZATION
+
+Within the NOMINALIZATION construction, the **si-...-e/le** and **-eba/-oba** patterns are not in free variation. The **si-...-e/le** pattern (*simartle*, *siq̇albe*, *sizuste*) is associated with colloquial and everyday registers, while the **-eba/-oba** pattern (*č̣ešmariteba*, *k'anoniereba*) is associated with formal, philosophical, and legal registers. Both patterns are [CORE] and syntactically equivalent (both serve as subjects, objects, and genitive bases), but they are not interchangeable across registers. This is a register-internal differentiation within a single CLCA operator slot, not a gap.
+
+### 2.6 NEGATION: both analytic and morphological strategies are available without restriction
+
+Georgian supports both analytic negation (*sicrue ar aris*, "it is not a lie") and morphological privative negation (*uzusto*, "inaccurate") within the NEGATION operator. The analytic strategy applies to all nominal predicates and is not domain-restricted. The morphological privative (**u-...-o**) applies to adjectival bases and is productive across the truth domain. The two strategies are not in simple complementary distribution: both are available for adjectival bases, but only the analytic strategy is available for nominal predicates. No asymmetry between positive and negative polarity is noted at the constructional level.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps (missing constructions)
+
+- **CAUSATION (factual):** No synchronically productive morphological or syntactic causative construction applied to truth-domain adjectives as a class is attested. The lexical verbal formations (*gaq̇albeba*, *gasc̣oreba*) exist but are individual lexical items, not instances of a productive causative pattern. This is a **morphosyntactic gap**: the construction type is absent, though individual lexical items cover some of the semantic ground.
+
+### 3.2 Lexical Gaps (missing words)
+
+- **Agentive nominal for "truth-teller":** No single lexicalized agentive nominal parallel to *mt'q̇uari* ("liar") is attested for the positive-polarity agent. The concept requires periphrastic expression (*simartlis mtqveli*). This is a **lexical gap** within an otherwise productive morphological pattern.
+
+### 3.3 Conceptual Gaps (blocked operations)
+
+- No conceptual gaps are identifiable from the data. All major truth-domain semantic operations (attribution, modification, becoming, revelation, verification, disconfirmation, negation, nominalization, agent characterization) are expressible in Georgian, though some require substitution or circumlocution.
+
+### 3.4 Asymmetric Gaps (only one polarity attested)
+
+- **BECOME (volitional):** The adessive + motion verb construction (*siq̇albeze c̣asvla*) is attested only for the falsity/deception pole (transition into falsehood). No parallel construction for volitional transition into truth or truthfulness is attested in the data. This is an **asymmetric gap** within the BECOME construction: the falsity-directed form is marginal but attested; the truth-directed form is unattested.
+- **Agentive nominalization polarity:** As noted in 3.2, the **-ari** agentive nominal is attested for the falsity/lying pole (*mt'q̇uari*) but not for the truth/truth-telling pole. This is an **asymmetric lexical gap**.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Core construction; copula cliticization productive; no register restriction |
+| **ADNOM** | **Fully available** | Core construction; invariant attributive adjective; supplemented by resultative participial for completed-state readings |
+| **BECOME** | **Partially available** | Volitional transition (adessive + motion verb) is marginal and attested only for falsity pole; non-volitional BECOME is covered by REVELATION |
+| **REVELATION** | **Fully available** | Core construction; resultative verb with truth-domain nominal subject; covers non-volitional BECOME slot |
+| **CAUSATION (factual)** | **Missing entirely** | No productive causative construction for truth-domain adjectives as a class; individual lexical verbal formations exist but do not constitute a construction |
+| **CAUSATION (character)** | **Available with substitution** | Substituted by AGENTIVE NOMINALIZATION (Construction 7) + ATTR (Construction 1); no dedicated predicate construction |
+| **VERIFICATION** | **Fully available** | Covered by resultative participial attribution (Construction 9) and genitive modification (Construction 8); both [CORE] |
+| **DISCONFIRMATION** | **Fully available** | Shares constructions with VERIFICATION; differentiation is lexical only |
+| **NEGATION** | **Fully available** | Both analytic (**ar aris**) and morphological privative (**u-...-o**) strategies are [CORE]; analytic applies to all nominal predicates; morphological applies to adjectival bases |
+| **NOMINALIZATION** | **Fully available** | Two abstract nominalization patterns (**si-...-e/le** colloquial; **-eba/-oba** formal) and two agentive nominalization patterns (**-ari**; **ma-...-ebeli**) are all [CORE]; register differentiation is internal to the operator |

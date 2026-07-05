@@ -1,0 +1,104 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | **[Predicate adjective/noun] + ang/si NP**; **[Predicate] + pronoun/clitic** | **Totoo iyan.**; **Tumpak ang sinabi mo.** | Direct match to attribution/evaluation of truth, correctness, certainty, falsity | None |
+| ADNOM | **Modifier + linker (-ng / na) + noun** | **totoong balita**; **pekeng dokumento** | Direct match to adnominal truth-domain modification | None |
+| BECOME | **magka-/nagka- + totoo** | **Sana magkatotoo ang hiling mo.**; **Nagkatotoo ang kanyang hinala.** | Direct match, but specifically attested with the *totoo* root | None at construction level; lexical restriction noted |
+| REVELATION | **(no attested construction in P4a/P4b)** | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| CAUSATION (factual) | **(no common expression identified)** | — | **NO COMMON EXPRESSION - circumlocution required**; nearby note: *wastuhin* is corrective, not established as general causative truth-construction | Morphosyntactic gap |
+| CAUSATION (character) | **(no attested construction in P4a/P4b)** | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| VERIFICATION | **beripikahin + object**; **beripikadong + noun** | **Beripikahin ang impormasyon bago ito ibahagi.**; **Beripikadong impormasyon lamang ang ilalathala.** | Direct match for procedural confirmation/authentication | None |
+| DISCONFIRMATION | **walang saligan + ang NP** | **Walang saligan ang paratang.** | **SUBSTITUTED BY NEGATION / BASIS-SUPPORT operator** rather than a distinct disconfirmation construction | Conceptual/operational substitution |
+| NEGATION | **Hindi + predicate + ang/si NP**; fixed predicative **walang saligan + ang NP** | **Hindi pa tiyak ang resulta.**; **Walang saligan ang paratang.** | Direct match; negation is analytic with *hindi*, and also expressed through predicative absence (*walang saligan*) in support/basis contexts | None |
+| NOMINALIZATION | **ka- + root + -han**; lexical noun | **katotohanan**; **saligan** | Direct match to abstract nominalization | None |
+| NOMINALIZATION (agentive) | **(no common expression identified)** | — | **MISSING (structural gap)** for this truth-domain subtype | Lexical + morphosyntactic gap |
+
+## 2. Substitution Patterns (Narrative)
+
+Tagalog shows clear direct constructions for **ATTR**, **ADNOM**, **BECOME**, **VERIFICATION**, **NEGATION**, and **abstract NOMINALIZATION**.
+
+For **REVELATION**, no construction is provided in P4a/P4b. There is therefore no attested basis here for saying that revelation substitutes for becoming. The available inchoative/resultative meaning is expressed directly by **magkatotoo / nagkatotoo**, so **BECOME is not replaced by REVELATION in the provided material**.
+
+For **CAUSATION (factual)**, P4a/P4b explicitly state **no common expression identified**. The note mentions *wastuhin* only as a nearby corrective verb and explicitly says it is **not** established as a general causative truth-construction. Therefore this category is best treated as **NO COMMON EXPRESSION - circumlocution required**, not as filled by a productive attested construction.
+
+For **CAUSATION (character)**, no relevant construction is attested. P4b also notes that the source favors property terms such as *tapat, matapat, mapagkakatiwalaan*, but these are not presented as a causative construction. So this operator is simply absent in the provided material.
+
+For **DISCONFIRMATION**, there is no separate dedicated construction labeled as such. Instead, the language material uses:
+- ordinary analytic negation: **Hindi + predicate**
+- support/basis denial: **walang saligan + ang NP**
+
+So in this dataset, **DISCONFIRMATION is functionally expressed through NEGATION and BASIS/SUPPORT denial**, not through a distinct operator. This is an asymmetry: positive truth evaluation has simple predicate forms like **Totoo iyan**, while negative unsupportedness is often expressed with the separate predicative expression **Walang saligan ang paratang**, rather than just a negated positive adjective.
+
+**NEGATION is analytic, not morphological**, in the attested core pattern: **Hindi + predicate + ang/si NP**. The fixed expression **walang saligan** is also analytic/predicative rather than inflectional.
+
+**VERIFICATION and DISCONFIRMATION do not share the same construction**. Verification uses the borrowed procedural family:
+- **beripikahin + object**
+- **beripikadong + noun**
+
+Disconfirmation, by contrast, is expressed through:
+- **Hindi + predicate**
+- **walang saligan + ang NP**
+
+So the two functions are constructionally distinct in the provided material.
+
+Multi-word expressions normalize as follows:
+- **walang saligan**: predicative expression functioning like a predicate of unsupportedness/baselessness.
+- **sa totoo lang**, **sa katotohanan**: clause-initial discourse-marking frames, not core operators in the canonical list.
+- **beripikahin**: verb carrying the verification operator directly.
+- **beripikadong**: adnominal modifier.
+- **magkatotoo / nagkatotoo**: verbal inchoative/resultative forms carrying the become operator directly.
+- No light-verb causative carrier is attested in the provided material.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION**: **MISSING (structural gap)**
+- **CAUSATION (character)**: **MISSING (structural gap)**
+- **Agentive NOMINALIZATION (liar, truth-teller)**: **MISSING (structural gap)**
+
+### Lexical Gaps
+- No common agentive nominalization specifically meaning **‘truth-teller’** or **‘liar’** is provided.
+- **BECOME** is attested specifically with the *totoo* root; broader lexical coverage is not established in P4a/P4b.
+
+### Conceptual Gaps
+- **CAUSATION (factual)** is not established as a productive truth-domain operation: **NO COMMON EXPRESSION - circumlocution required**
+- **DISCONFIRMATION** is not represented by a distinct operator; it is **SUBSTITUTED BY NEGATION / BASIS-SUPPORT denial**
+
+### Asymmetric Gaps
+- Positive attribution is straightforward: **Totoo iyan.**, **Tumpak ang sinabi mo.**
+- Negative unsupportedness often uses a different predicative operator: **Walang saligan ang paratang.**
+- Thus there is an asymmetry between:
+  - simple positive truth/correctness predicates, and
+  - negative lack-of-basis expressions built from **saligan**
+- Verification is directly attested, but corresponding factual causation is not; this is another asymmetry:
+  - **VERIFICATION** = available
+  - **CAUSATION (factual)** = no common expression identified
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **VERIFICATION**
+- **NEGATION**
+- **NOMINALIZATION** (abstract)
+
+### Available with substitution
+- **DISCONFIRMATION** — **SUBSTITUTED BY NEGATION / BASIS-SUPPORT operator**
+  - **Hindi pa tiyak ang resulta.**
+  - **Walang saligan ang paratang.**
+
+### Partially available
+- **NOMINALIZATION** overall is only partially available if agentive subtypes are included:
+  - abstract nominalization: available
+  - agentive nominalization: missing
+- **BECOME** is constructionally available, but only specifically attested with *totoo*
+
+### Missing entirely
+- **REVELATION**
+- **CAUSATION (character)**
+
+### No common expression / circumlocution required
+- **CAUSATION (factual)**

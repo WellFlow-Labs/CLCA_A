@@ -1,0 +1,177 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | X 是 Y (copular) | 这是真的 (zhè shì zhēn de) "This is true" | Direct mapping | None |
+| **ADNOM** | Y 的 X (attributive particle) | 真实的情况 (zhēnshí de qíngkuàng) "the true situation" | Direct mapping | None |
+| **BECOME** | 变(得) Y (change verb) | 变得不正常 (biàn de bù zhèngcháng) "become abnormal" | Direct mapping (marginal productivity with truth-domain) | Partial gap: low productivity |
+| **REVELATION** | N/A | N/A | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | Resultative compounds V-正/V-实 | 改正 (gǎizhèng) "correct", 证实 (zhèngshí) "verify" | **SUBSTITUTED BY resultative verb compounds** | Periphrastic causatives marginal |
+| **CAUSATION (character)** | N/A | N/A | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | A-not-A question pattern | 是不是真的? (shì bu shì zhēn de?) "Is it true or not?" | Direct mapping | None |
+| **DISCONFIRMATION** | A-not-A question pattern (same as verification) | 是不是真的? (shì bu shì zhēn de?) "Is it true or not?" | **SHARED WITH VERIFICATION** | No distinct construction |
+| **NEGATION** | 不是 Y / 不 Y (analytic negation) | 这不是真的 (zhè bù shì zhēn de) "This is not true" | Direct mapping (analytic) | None |
+| **NOMINALIZATION (abstract)** | Y-性 / Y-度 (suffixation) | 真实性 (zhēnshíxìng) "authenticity" | Direct mapping | None |
+| **NOMINALIZATION (agentive)** | N/A | N/A | **NO COMMON EXPRESSION - circumlocution required** (说真话的人 "person who tells truth") | Morphological gap |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 Resultative Compounds Replace Periphrastic Causation
+
+Chinese strongly prefers **resultative verb compounds** (Construction 14) over periphrastic causative constructions (Construction 5) for expressing factual causation in the truth domain. While periphrastic causatives using 使/让 (shǐ/ràng) "make/cause" are grammatically possible, actual usage favors lexicalized compounds where truth-domain roots function as resultative complements:
+
+- **改正** (gǎizhèng) "correct" = 改 "change" + 正 "correct" (result state)
+- **证实** (zhèngshí) "verify/confirm" = 证 "prove" + 实 "solid/real" (result state)
+- **落实** (luòshí) "implement/actualize" = 落 "fall/settle" + 实 "solid/real" (result state)
+
+The P4b notes explicitly state: "Resultative verb compounds (改正, 纠正) are more common than periphrastic causatives for truth-domain terms" and "Resultative verb compounds without periphrastic causative...are strongly preferred in actual usage."
+
+This represents a **systematic substitution** where the morphological causative pattern (V + truth-root as complement) replaces the syntactic causative pattern (causative verb + complement clause).
+
+### 2.2 Verification and Disconfirmation Share Construction
+
+The A-not-A question pattern (Construction 8) serves **both verification and disconfirmation** functions without formal distinction. The same construction 是不是真的? (shì bu shì zhēn de?) can function as:
+- Neutral verification: "Is it true (or not)?"
+- Disconfirmation-seeking: "It's not true, is it?"
+
+Context and intonation determine pragmatic function, but no structural difference exists. This represents **constructional merger** rather than substitution.
+
+### 2.3 Become Construction Shows Limited Productivity
+
+While the 变(得) Y pattern exists and maps to BECOME, P4b rates it as [MARGINAL] for truth-domain terms, noting: "The bare 变 + Adj pattern is productive but less common with truth-domain terms than with other semantic domains. Most attestations involve lexicalized idioms (弄假成真)."
+
+The construction is **structurally available but pragmatically restricted** in this semantic domain. Truth-domain state changes are more commonly expressed through:
+- Resultative compounds (弄假成真 "pretense becomes real" - lexicalized idiom)
+- The 变得 + Adj variant (rated [CORE])
+
+This represents **partial availability** rather than complete gap or substitution.
+
+### 2.4 No Revelation Construction
+
+Chinese lacks a dedicated construction for REVELATION (the coming-to-light of hidden truth). P4a does not identify any pattern corresponding to "turn out to be true/false" or "prove to be X." 
+
+Truth-domain revelations must be expressed through:
+- Resultative compounds with evidential verbs: 证实 "verify/confirm"
+- Periphrastic constructions: 结果是真的 "the result is that it's true"
+- Discourse markers with attribution: 原来是真的 "it turns out to be true"
+
+None of these constitute a grammaticalized REVELATION operator. This is a **structural gap**.
+
+### 2.5 No Character Causation Construction
+
+Chinese lacks a construction for CAUSATION (character) - making someone truthful/honest as a dispositional change. While factual causation (making statements true/false) is expressed through resultative compounds, character causation requires circumlocution:
+
+- Periphrastic: 让他变得诚实 "make him become honest" (using BECOME + CAUSATIVE)
+- Resultative with action verbs: 培养诚实 "cultivate honesty"
+
+No dedicated morphosyntactic pattern exists for this operator. This is a **structural gap**.
+
+### 2.6 Agentive Nominalization Requires Circumlocution
+
+While abstract nominalization is highly productive (真实性 "authenticity", 准确度 "accuracy"), agentive nominalization lacks morphological support. P4a explicitly states: "Chinese lacks productive agentive derivation specific to truth-domain terms."
+
+Agent nouns require **periphrastic expression**:
+- 说真话的人 "person who tells truth" (literally: "speak-truth DE person")
+- 欺骗者 "deceiver" (uses general agentive -者, not truth-domain specific)
+
+This represents a **morphological gap** - the semantic function exists but lacks dedicated morphology.
+
+### 2.7 Negation is Purely Analytic
+
+Chinese expresses NEGATION through analytic constructions (不是 Y, 不 Y) without morphological negation of truth-domain roots. No negative adjectives like *un-true or *in-correct exist as single morphological units. 
+
+Two analytic patterns exist:
+- Copular negation: 不是 + Adj+的
+- Direct negation: 不 + Adj
+
+Both are fully productive [CORE] constructions. This represents **analytic rather than synthetic** strategy, not a gap.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**REVELATION**: No grammaticalized construction for truth coming to light or being discovered. The language lacks a dedicated operator for "turn out to be true/false" or "prove to be X." Expressed through circumlocution using resultative compounds (证实) or discourse markers (原来).
+
+**CAUSATION (character)**: No construction for making someone truthful/honest as a dispositional change. Character causation requires periphrastic expression combining BECOME + CAUSATIVE constructions.
+
+**DISCONFIRMATION (distinct form)**: No separate construction from VERIFICATION. Both functions share the A-not-A question pattern without formal distinction.
+
+### 3.2 Morphological Gaps
+
+**AGENTIVE NOMINALIZATION**: No productive morphological pattern for deriving agent nouns from truth-domain roots. The general agentive suffix -者 (-zhě) exists but does not productively combine with truth-domain terms. Requires periphrastic expression (说真话的人 "truth-teller").
+
+**PERIPHRASTIC CAUSATION (factual)**: While grammatically possible, periphrastic causatives (使/让 X Y) are marginal in actual usage for truth-domain state changes. Functionally replaced by resultative verb compounds, creating a **usage gap** rather than absolute structural gap.
+
+### 3.3 Lexical Gaps
+
+None identified at the constructional level. Individual lexical items may be missing (see P2a analysis), but all major construction types that exist are lexically populated.
+
+### 3.4 Conceptual Gaps
+
+None identified. All missing constructions appear to be **structural/morphological** rather than conceptual. The semantic functions (revelation, character causation, agentive nominalization) can be expressed through circumlocution, indicating the concepts are accessible but lack dedicated grammatical encoding.
+
+### 3.5 Asymmetric Gaps
+
+**BECOME construction productivity**: Asymmetry exists between truth-domain and other semantic domains. The 变 Y pattern is productive generally but shows **restricted productivity** with truth-domain terms, preferring lexicalized idioms or the 变得 Y variant.
+
+**Resultative complement productivity**: Truth-domain roots (正, 实, 真) are highly productive as **resultative complements** but not as main predicates in causative constructions. This creates asymmetry where the roots appear more freely in compound-final position than in syntactically independent causative frames.
+
+No positive/negative asymmetries identified - both positive and negative forms are equally available across constructions.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+✓ **ATTR** (Attribution): X 是 Y copular construction - [CORE] status, extremely common
+✓ **ADNOM** (Adnominal): Y 的 X attributive construction - [CORE] status, highly productive
+✓ **NEGATION**: 不是 Y / 不 Y analytic negation - [CORE] status, fully productive
+✓ **NOMINALIZATION (abstract)**: Y-性 / Y-度 suffixation - [CORE] status, productive with disyllabic bases
+✓ **VERIFICATION**: A-not-A question pattern - [CORE] status, extremely common
+
+### 4.2 Available with Substitution
+
+⊕ **CAUSATION (factual)**: Available through **resultative verb compounds** (V-正, V-实) rather than periphrastic causatives - [CORE] status for compounds, [MARGINAL] for periphrastic forms
+
+⊕ **DISCONFIRMATION**: Available through **shared construction with VERIFICATION** (A-not-A pattern) - [CORE] status, no formal distinction
+
+### 4.3 Partially Available
+
+◐ **BECOME**: 变(得) Y construction exists but shows **restricted productivity** in truth-domain - [MARGINAL] for bare 变 + Adj, [CORE] for 变得 + Adj variant
+
+### 4.4 Missing Entirely
+
+✗ **REVELATION**: No dedicated construction - **structural gap**, requires circumlocution
+
+✗ **CAUSATION (character)**: No dedicated construction - **structural gap**, requires periphrastic combination of BECOME + CAUSATIVE
+
+✗ **NOMINALIZATION (agentive)**: No productive morphological pattern - **morphological gap**, requires circumlocution (Adj+的人 "person who is Adj")
+
+---
+
+## 5. Summary of Constructional Strategy
+
+Chinese employs a **mixed strategy** for truth-domain constructions:
+
+1. **Analytic syntax** for core operations (attribution, negation, modification)
+2. **Productive suffixation** for abstract nominalization
+3. **Resultative compounding** as preferred strategy for causation
+4. **Question reduplication** (A-not-A) for verification/disconfirmation
+5. **Circumlocution** for agentive nominalization and revelation
+6. **Structural avoidance** of character causation as distinct operator
+
+The language shows **high productivity** in core attributive and modificational constructions, **moderate productivity** in state-change constructions (BECOME), and **systematic gaps** in revelation and agentive derivation. The preference for resultative compounds over periphrastic causatives represents a characteristic typological feature extending beyond the truth domain.
+
+---
+
+**END OF I1 CONSTRUCTION EQUIVALENCE & MISSINGNESS ANALYSIS**

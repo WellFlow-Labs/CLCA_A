@@ -1,0 +1,662 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Chinese (zh)
+
+## PRELIMINARY NOTE ON CHINESE DERIVATIONAL MORPHOLOGY
+
+Chinese derivational morphology differs fundamentally from Indo-European patterns. The language primarily uses:
+1. **Compounding** (combining morphemes/characters)
+2. **Affixation** (limited productive affixes)
+3. **Reduplication** (limited patterns)
+
+Most P1 items are already compounds (e.g., 真实 = 真 + 实). "Derivation" in Chinese typically means:
+- Adding productive affixes (化, 性, 者, etc.)
+- Forming new compounds with the base
+- Verbal/nominal conversions (often zero-marked)
+
+The P1b expansion already documented most productive compounding. This section focuses on **additional derivational patterns** not covered in P1b.
+
+---
+
+## DERIVATIONAL PATTERNS IDENTIFIED
+
+### PATTERN 1: Nominalization with -性 (-xìng) "quality, -ness, -ity"
+
+This suffix derives abstract nouns denoting qualities or properties.
+
+#### From 真 (zhēn)
+
+**真实性 (zhēnshíxìng)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: true-actual-QUALITY = authenticity, truthfulness
+- Translation: authenticity, truthfulness, veracity
+- Usage: Abstract noun referring to the quality of being authentic or true. Common in academic and analytical discourse evaluating the authenticity of claims, documents, or representations.
+- [CORE]
+
+**真正性 (zhēnzhèngxìng)**
+- Base: 真正 (zhēnzhèng) "genuine, real"
+- Literal: true-correct-QUALITY = genuineness
+- Translation: genuineness, authenticity
+- Usage: Abstract noun for the quality of being genuine. Less common than 真实性, used in formal contexts.
+- [MARGINAL]
+
+#### From 实 (shí)
+
+**真实性** (see above - derived from compound 真实)
+
+**现实性 (xiànshíxìng)**
+- Base: 现实 (xiànshí) "reality, realistic" [not in P1 but common compound with 实]
+- Literal: appear-actual-QUALITY = reality, practicality
+- Translation: reality, practicality, feasibility
+- Usage: Abstract noun referring to realistic quality or practical feasibility. Common in evaluating whether plans or ideas are realistic.
+- [CORE]
+
+**实际性 (shíjìxìng)**
+- Base: 实际 (shíjì) "actual, practical"
+- Literal: actual-boundary-QUALITY = practicality, actuality
+- Usage: Abstract noun for practical or actual quality. Used in formal contexts evaluating practical aspects.
+- [MARGINAL]
+
+**实用性 (shíyòngxìng)**
+- Base: 实用 (shíyòng) "practical, functional"
+- Literal: actual-use-QUALITY = practicality, utility
+- Translation: practicality, utility, usefulness
+- Usage: Abstract noun for practical utility or usefulness. Very common in product evaluation and design contexts.
+- [CORE]
+
+#### From 假 (jiǎ)
+
+**虚假性 (xūjiǎxìng)**
+- Base: 虚假 (xūjiǎ) "false, fake"
+- Literal: empty-false-QUALITY = falsity, falseness
+- Translation: falsity, falseness, fraudulence
+- Usage: Abstract noun for the quality of being false or fraudulent. Used in formal analysis of deceptive claims or materials.
+- [CORE]
+
+#### From 对 (duì)
+
+**正确性 (zhèngquèxìng)**
+- Base: 正确 (zhèngquè) "correct, right"
+- Literal: correct-exact-QUALITY = correctness, validity
+- Translation: correctness, validity, rightness
+- Usage: Abstract noun for the quality of being correct. Common in academic and technical contexts evaluating validity of statements or methods.
+- [CORE]
+
+#### From 错 (cuò)
+
+**错误性 (cuòwùxìng)**
+- Base: 错误 (cuòwù) "error, mistake" [错 + 误]
+- Literal: wrong-mistake-QUALITY = erroneousness
+- Translation: erroneousness, incorrectness
+- Usage: Abstract noun for the quality of being erroneous. Used in formal analysis of errors or mistakes.
+- [MARGINAL]
+
+#### From 准确 (zhǔnquè)
+
+**准确性 (zhǔnquèxìng)**
+- Base: 准确 (zhǔnquè) "accurate, precise"
+- Literal: standard-exact-QUALITY = accuracy, precision
+- Translation: accuracy, precision, exactness
+- Usage: Abstract noun for accuracy or precision. Very common in technical, scientific, and informational contexts.
+- [CORE]
+
+#### From 可靠 (kěkào)
+
+**可靠性 (kěkàoxìng)**
+- Base: 可靠 (kěkào) "reliable, dependable"
+- Literal: can-rely-QUALITY = reliability, dependability
+- Translation: reliability, dependability, trustworthiness
+- Usage: Abstract noun for reliability. Extremely common in technical, scientific, and quality assessment contexts.
+- [CORE]
+
+#### From 客观 (kèguān)
+
+**客观性 (kèguānxìng)**
+- Base: 客观 (kèguān) "objective"
+- Literal: object-observe-QUALITY = objectivity
+- Translation: objectivity, impartiality
+- Usage: Abstract noun for objectivity. Common in academic, scientific, and analytical discourse about unbiased evaluation.
+- [CORE]
+
+#### From 主观 (zhǔguān)
+
+**主观性 (zhǔguānxìng)**
+- Base: 主观 (zhǔguān) "subjective"
+- Literal: subject-observe-QUALITY = subjectivity
+- Translation: subjectivity, personal bias
+- Usage: Abstract noun for subjectivity. Common in academic and analytical contexts discussing bias or personal perspectives.
+- [CORE]
+
+---
+
+### PATTERN 2: Nominalization with -度 (-dù) "degree, extent"
+
+This suffix derives nouns indicating measurable degree or extent.
+
+#### From 真 (zhēn)
+
+**真实度 (zhēnshídù)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: true-actual-DEGREE = degree of authenticity
+- Translation: degree of authenticity, level of truthfulness
+- Usage: Measurable degree of authenticity or truthfulness. Common in technical contexts evaluating how authentic or realistic something is.
+- [CORE]
+
+#### From 准确 (zhǔnquè)
+
+**准确度 (zhǔnquèdù)**
+- Base: 准确 (zhǔnquè) "accurate, precise"
+- Literal: standard-exact-DEGREE = degree of accuracy
+- Translation: degree of accuracy, accuracy level, precision
+- Usage: Measurable degree of accuracy. Very common in technical, scientific, and measurement contexts.
+- [CORE]
+
+#### From 可靠 (kěkào)
+
+**可靠度 (kěkàodù)**
+- Base: 可靠 (kěkào) "reliable"
+- Literal: can-rely-DEGREE = degree of reliability
+- Translation: degree of reliability, reliability level
+- Usage: Measurable degree of reliability. Common in technical and quality assessment contexts.
+- [CORE]
+
+#### From 诚 (chéng)
+
+**诚信度 (chéngxìndù)**
+- Base: 诚信 (chéngxìn) "integrity, honesty" [诚 + 信]
+- Literal: sincere-trust-DEGREE = degree of integrity
+- Translation: degree of integrity, credibility level
+- Usage: Measurable degree of integrity or credibility. Common in business and social credit contexts.
+- [CORE]
+
+---
+
+### PATTERN 3: Verbalization with -化 (-huà) "-ize, -ify"
+
+This suffix derives verbs indicating transformation or process.
+
+#### From 真 (zhēn)
+
+**真实化 (zhēnshíhuà)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: true-actual-IFY = make real, realize, authenticate
+- Translation: make real, realize, authenticate
+- Usage: Process of making something real or authentic. Used in contexts of authentication or making representations realistic.
+- [MARGINAL]
+
+#### From 实 (shí)
+
+**实际化 (shíjìhuà)**
+- Base: 实际 (shíjì) "actual, practical"
+- Literal: actual-boundary-IFY = actualize, make practical
+- Translation: actualize, make practical, implement
+- Usage: Process of making something practical or actual. Used in contexts of implementation or practical application.
+- [MARGINAL]
+
+**实体化 (shítǐhuà)**
+- Base: 实体 (shítǐ) "entity, physical object"
+- Literal: actual-body-IFY = materialize, embody, instantiate
+- Translation: materialize, embody, instantiate, reify
+- Usage: Process of making something material or concrete. Used in philosophical and technical contexts about reification or instantiation.
+- [CORE]
+
+#### From 客观 (kèguān)
+
+**客观化 (kèguānhuà)**
+- Base: 客观 (kèguān) "objective"
+- Literal: object-observe-IFY = objectify, make objective
+- Translation: objectify, make objective
+- Usage: Process of making something objective or treating it objectively. Used in academic and analytical contexts.
+- [CORE]
+
+---
+
+### PATTERN 4: Agent nominalization with -者 (-zhě) "person who, -er"
+
+This suffix derives agent nouns.
+
+#### From 诚 (chéng)
+
+**诚实者 (chéngshízhě)**
+- Base: 诚实 (chéngshí) "honest"
+- Literal: sincere-actual-PERSON = honest person
+- Translation: honest person, truthful person
+- Usage: Person characterized by honesty. Formal or literary usage.
+- [MARGINAL]
+
+#### From 欺骗 (qīpiàn)
+
+**欺骗者 (qīpiànzhě)**
+- Base: 欺骗 (qīpiàn) "deceive, cheat"
+- Literal: deceive-cheat-PERSON = deceiver, cheater
+- Translation: deceiver, cheater, fraud
+- Usage: Person who deceives or cheats. Common in formal or legal contexts.
+- [CORE]
+
+---
+
+### PATTERN 5: Adverbialization with -地 (-de) [adverbial marker]
+
+This particle marks adverbial usage. Note: Many adjectives in P1 can function adverbially without overt marking, but -地 makes the adverbial function explicit.
+
+#### From 真 (zhēn)
+
+**真正地 (zhēnzhèng de)**
+- Base: 真正 (zhēnzhèng) "genuine, real"
+- Literal: true-correct-ADV = genuinely, really, truly
+- Translation: genuinely, really, truly
+- Usage: Adverbial form emphasizing genuine manner. Common in both speech and writing.
+- [CORE]
+
+**真实地 (zhēnshí de)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: true-actual-ADV = truly, really, authentically
+- Translation: truly, really, authentically
+- Usage: Adverbial form emphasizing authentic manner. Common in narrative and descriptive contexts.
+- [CORE]
+
+**真诚地 (zhēnchéng de)**
+- Base: 真诚 (zhēnchéng) "sincere"
+- Literal: true-sincere-ADV = sincerely, genuinely
+- Translation: sincerely, genuinely
+- Usage: Adverbial form emphasizing sincere manner. Common in expressing sincere attitudes or actions.
+- [CORE]
+
+**真心地 (zhēnxīn de)**
+- Base: 真心 (zhēnxīn) "sincere, wholehearted"
+- Literal: true-heart-ADV = sincerely, wholeheartedly
+- Translation: sincerely, wholeheartedly
+- Usage: Adverbial form emphasizing wholehearted manner. Very common in everyday speech.
+- [CORE]
+
+#### From 实 (shí)
+
+**实际地 (shíjì de)**
+- Base: 实际 (shíjì) "actual, practical"
+- Literal: actual-boundary-ADV = actually, practically, in practice
+- Translation: actually, practically, in practice
+- Usage: Adverbial form emphasizing actual or practical manner. Common in contrasting theory with practice.
+- [CORE]
+
+**实在地 (shízài de)**
+- Base: 实在 (shízài) "really, truly"
+- Literal: actual-exist-ADV = really, truly, honestly
+- Translation: really, truly, honestly
+- Usage: Adverbial form emphasizing genuine or honest manner. Common in everyday speech.
+- [CORE]
+
+#### From 假 (jiǎ)
+
+**假装地 (jiǎzhuāng de)**
+- Base: 假装 (jiǎzhuāng) "pretend"
+- Literal: false-pretend-ADV = pretendingly, feignedly
+- Translation: pretendingly, feignedly, in pretense
+- Usage: Adverbial form indicating pretense. Less common than bare 假装.
+- [MARGINAL]
+
+#### From 诚 (chéng)
+
+**诚实地 (chéngshí de)**
+- Base: 诚实 (chéngshí) "honest"
+- Literal: sincere-actual-ADV = honestly, truthfully
+- Translation: honestly, truthfully
+- Usage: Adverbial form emphasizing honest manner. Common in both speech and writing.
+- [CORE]
+
+#### From 客观 (kèguān)
+
+**客观地 (kèguān de)**
+- Base: 客观 (kèguān) "objective"
+- Literal: object-observe-ADV = objectively
+- Translation: objectively, impartially
+- Usage: Adverbial form emphasizing objective manner. Common in academic and analytical discourse.
+- [CORE]
+
+#### From 主观 (zhǔguān)
+
+**主观地 (zhǔguān de)**
+- Base: 主观 (zhǔguān) "subjective"
+- Literal: subject-observe-ADV = subjectively
+- Translation: subjectively, from a personal perspective
+- Usage: Adverbial form emphasizing subjective manner. Common in academic and analytical discourse.
+- [CORE]
+
+---
+
+### PATTERN 6: Reduplication patterns
+
+Chinese uses limited reduplication for intensification or distribution.
+
+#### AABB Pattern (intensification/vividness)
+
+**真真实实 (zhēnzhēn shíshí)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: true-true-actual-actual = very real, absolutely true
+- Translation: very real, absolutely true, completely genuine
+- Usage: Intensified form emphasizing complete authenticity. Common in emphatic speech.
+- [CORE]
+
+**实实在在 (shíshí zàizài)**
+- Base: 实在 (shízài) "real, honest"
+- Literal: actual-actual-exist-exist = very real, absolutely genuine
+- Translation: very real, absolutely genuine, down-to-earth
+- Usage: Intensified form emphasizing complete genuineness or honesty. Very common in everyday speech.
+- [CORE]
+
+**老老实实 (lǎolǎo shíshí)**
+- Base: 老实 (lǎoshi) "honest, well-behaved"
+- Literal: old-old-actual-actual = very honest, obediently
+- Translation: very honest, obediently, dutifully
+- Usage: Intensified form emphasizing complete honesty or obedience. Common in everyday speech about behavior.
+- [CORE]
+
+**认认真真 (rènrèn zhēnzhēn)**
+- Base: 认真 (rènzhēn) "serious, conscientious"
+- Literal: recognize-recognize-true-true = very seriously, very conscientiously
+- Translation: very seriously, very conscientiously, meticulously
+- Usage: Intensified form emphasizing extreme seriousness or care. Very common in describing work attitude.
+- [CORE]
+
+**踏踏实实 (tàtà shíshí)**
+- Base: 踏实 (tāshi) "steady, dependable"
+- Literal: step-step-actual-actual = very steady, very dependable
+- Translation: very steady, very dependable, down-to-earth
+- Usage: Intensified form emphasizing complete steadiness or reliability. Common in describing character or work style.
+- [CORE]
+
+---
+
+### PATTERN 7: Negation with 不 (bù) "not"
+
+While negation is grammatical rather than derivational, some negated forms have lexicalized meanings.
+
+#### From 真 (zhēn)
+
+**不真 (bùzhēn)**
+- Base: 真 (zhēn) "true, real"
+- Literal: not-true = untrue, false
+- Translation: untrue, false, not genuine
+- Usage: Simple negation indicating lack of truth or genuineness. Less common than positive antonyms like 假.
+- [MARGINAL]
+
+**不真实 (bù zhēnshí)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: not-true-actual = unreal, untrue
+- Translation: unreal, untrue, inauthentic
+- Usage: Negation indicating lack of reality or truth. Common in evaluative contexts.
+- [CORE]
+
+#### From 实 (shí)
+
+**不实 (bùshí)**
+- Base: 实 (shí) "actual, real"
+- Literal: not-actual = untrue, false, inaccurate
+- Translation: untrue, false, inaccurate, unfounded
+- Usage: Indicates lack of factual basis. Common in formal contexts, especially legal and journalistic (不实报道 = false report).
+- [CORE]
+
+**不实际 (bù shíjì)**
+- Base: 实际 (shíjì) "actual, practical"
+- Literal: not-actual-boundary = impractical, unrealistic
+- Translation: impractical, unrealistic
+- Usage: Indicates lack of practicality or realism. Common in evaluating plans or ideas.
+- [CORE]
+
+#### From 对 (duì)
+
+**不对 (bùduì)**
+- Base: 对 (duì) "correct, right"
+- Literal: not-correct = wrong, incorrect, amiss
+- Translation: wrong, incorrect, amiss, something's wrong
+- Usage: Very common negation indicating incorrectness or that something is wrong. Used in everyday speech.
+- [CORE]
+
+#### From 准确 (zhǔnquè)
+
+**不准确 (bù zhǔnquè)**
+- Base: 准确 (zhǔnquè) "accurate"
+- Literal: not-standard-exact = inaccurate, imprecise
+- Translation: inaccurate, imprecise, inexact
+- Usage: Indicates lack of accuracy. Common in technical and informational contexts.
+- [CORE]
+
+#### From 可靠 (kěkào)
+
+**不可靠 (bù kěkào)**
+- Base: 可靠 (kěkào) "reliable"
+- Literal: not-can-rely = unreliable, undependable
+- Translation: unreliable, undependable, untrustworthy
+- Usage: Indicates lack of reliability. Common in evaluating sources, people, or information.
+- [CORE]
+
+#### From 诚实 (chéngshí)
+
+**不诚实 (bù chéngshí)**
+- Base: 诚实 (chéngshí) "honest"
+- Literal: not-sincere-actual = dishonest, untruthful
+- Translation: dishonest, untruthful, insincere
+- Usage: Indicates lack of honesty. Common in moral evaluation.
+- [CORE]
+
+---
+
+### PATTERN 8: Resultative complements
+
+Some truth-domain items form resultative verb compounds.
+
+#### With 真 (zhēn)
+
+**看真 (kànzhēn)**
+- Base: 看 (kàn) "look, see" + 真 (zhēn) "true, clear"
+- Literal: look-true = see clearly, look carefully
+- Translation: see clearly, look carefully, make sure
+- Usage: Resultative compound indicating seeing something clearly or accurately. Common in Cantonese-influenced Mandarin.
+- [MARGINAL]
+
+**弄真 (nòngzhēn)**
+- Base: 弄 (nòng) "do, make" + 真 (zhēn) "true"
+- Literal: make-true = make real, verify
+- Translation: make real, verify, confirm
+- Usage: Resultative compound indicating making something real or verifying it. Less common.
+- [MARGINAL]
+
+#### With 实 (shí)
+
+**坐实 (zuòshí)**
+- Base: 坐 (zuò) "sit" + 实 (shí) "solid, actual"
+- Literal: sit-solid = confirm, establish as fact
+- Translation: confirm, establish as fact, substantiate
+- Usage: Resultative compound meaning to confirm or establish something as fact. Common in legal and investigative contexts.
+- [CORE]
+
+**落实 (luòshí)**
+- Base: 落 (luò) "fall, settle" + 实 (shí) "actual"
+- Literal: fall-actual = implement, carry out, ascertain
+- Translation: implement, carry out, ascertain, put into practice
+- Usage: Very common resultative compound meaning to implement or put into practice. Extremely frequent in administrative and organizational contexts.
+- [CORE]
+
+**查实 (cháshí)**
+- Base: 查 (chá) "investigate" + 实 (shí) "actual"
+- Literal: investigate-actual = verify, ascertain
+- Translation: verify, ascertain, confirm through investigation
+- Usage: Resultative compound meaning to verify through investigation. Common in investigative and legal contexts.
+- [CORE]
+
+**核实 (héshí)**
+- Base: 核 (hé) "check, examine" + 实 (shí) "actual"
+- Literal: check-actual = verify, check, confirm
+- Translation: verify, check, confirm
+- Usage: Resultative compound meaning to verify or confirm facts. Very common in administrative and journalistic contexts.
+- [CORE]
+
+**证实 (zhèngshí)**
+- Base: 证 (zhèng) "prove, evidence" + 实 (shí) "actual"
+- Literal: prove-actual = confirm, verify, prove
+- Translation: confirm, verify, prove, substantiate
+- Usage: Resultative compound meaning to confirm or prove. Very common in all contexts requiring verification.
+- [CORE]
+
+**属实 (shǔshí)**
+- Base: 属 (shǔ) "belong to, be" + 实 (shí) "actual"
+- Literal: belong-actual = be true, be factual
+- Translation: be true, be factual, be the case
+- Usage: Resultative compound indicating that something is factually true. Common in formal verification contexts.
+- [CORE]
+
+#### With 对 (duì)
+
+**说对 (shuōduì)**
+- Base: 说 (shuō) "say, speak" + 对 (duì) "correct"
+- Literal: say-correct = say correctly, get it right
+- Translation: say correctly, get it right
+- Usage: Resultative compound indicating saying something correctly. Common in everyday speech.
+- [CORE]
+
+**做对 (zuòduì)**
+- Base: 做 (zuò) "do, make" + 对 (duì) "correct"
+- Literal: do-correct = do correctly, get right
+- Translation: do correctly, get right
+- Usage: Resultative compound indicating doing something correctly. Very common in everyday speech.
+- [CORE]
+
+**猜对 (cāiduì)**
+- Base: 猜 (cāi) "guess" + 对 (duì) "correct"
+- Literal: guess-correct = guess correctly, guess right
+- Translation: guess correctly, guess right
+- Usage: Resultative compound indicating guessing correctly. Common in everyday speech.
+- [CORE]
+
+#### With 错 (cuò)
+
+**说错 (shuōcuò)**
+- Base: 说 (shuō) "say" + 错 (cuò) "wrong"
+- Literal: say-wrong = say wrongly, misspeak
+- Translation: say wrongly, misspeak, say incorrectly
+- Usage: Resultative compound indicating saying something incorrectly. Very common in everyday speech.
+- [CORE]
+
+**做错 (zuòcuò)**
+- Base: 做 (zuò) "do" + 错 (cuò) "wrong"
+- Literal: do-wrong = do wrongly, make a mistake
+- Translation: do wrongly, make a mistake, do incorrectly
+- Usage: Resultative compound indicating doing something incorrectly. Very common in everyday speech.
+- [CORE]
+
+**看错 (kàncuò)**
+- Base: 看 (kàn) "look, see" + 错 (cuò) "wrong"
+- Literal: look-wrong = see wrongly, misread
+- Translation: see wrongly, misread, misjudge
+- Usage: Resultative compound indicating seeing or judging incorrectly. Common in everyday speech.
+- [CORE]
+
+**认错 (rèncuò)**
+- Base: 认 (rèn) "recognize, admit" + 错 (cuò) "wrong"
+- Literal: recognize-wrong = admit mistake, apologize
+- Translation: admit mistake, apologize, acknowledge error
+- Usage: Resultative compound meaning to admit one's mistake. Very common in everyday speech.
+- [CORE]
+
+---
+
+### PATTERN 9: Potential complements with 得/不得 (de/bude)
+
+These forms indicate possibility or impossibility of achieving a result.
+
+#### With 真 (zhēn)
+
+**看得真 (kàn de zhēn)**
+- Base: 看 (kàn) "see" + 得 (de) [potential] + 真 (zhēn) "clear"
+- Literal: see-can-clear = can see clearly
+- Translation: can see clearly
+- Usage: Potential form indicating ability to see clearly. Regional usage.
+- [MARGINAL]
+
+#### With 对 (duì)
+
+**说得对 (shuō de duì)**
+- Base: 说 (shuō) "say" + 得 (de) + 对 (duì) "correct"
+- Literal: say-can-correct = say correctly, be right in saying
+- Translation: say correctly, be right in saying
+- Usage: Potential form indicating correctness of what is said. Very common in everyday speech.
+- [CORE]
+
+**做得对 (zuò de duì)**
+- Base: 做 (zuò) "do" + 得 (de) + 对 (duì) "correct"
+- Literal: do-can-correct = do correctly, do right
+- Translation: do correctly, do right
+- Usage: Potential form indicating correctness of action. Common in everyday speech.
+- [CORE]
+
+---
+
+### PATTERN 10: Comparative constructions with 更 (gèng) "more"
+
+While grammatical, some forms are conventionalized.
+
+#### From 真 (zhēn)
+
+**更真实 (gèng zhēnshí)**
+- Base: 真实 (zhēnshí) "real, true"
+- Literal: more-true-actual = more real, more authentic
+- Translation: more real, more authentic, truer
+- Usage: Comparative form. Common in evaluative contexts.
+- [CORE]
+
+**更真诚 (gèng zhēnchéng)**
+- Base: 真诚 (zhēnchéng) "sincere"
+- Literal: more-true-sincere = more sincere
+- Translation: more sincere, more genuine
+- Usage: Comparative form. Common in evaluative contexts.
+- [CORE]
+
+#### From 准确 (zhǔnquè)
+
+**更准确 (gèng zhǔnquè)**
+- Base: 准确 (zhǔnquè) "accurate"
+- Literal: more-standard-exact = more accurate
+- Translation: more accurate, more precise
+- Usage: Comparative form. Very common in technical and informational contexts.
+- [CORE]
+
+---
+
+## SUMMARY OF PRODUCTIVE PATTERNS
+
+### Highly Productive Patterns:
+1. **-性 (-xìng)** nominalization: Applies broadly to adjectives in truth domain
+2. **-度 (-dù)** degree nominalization: Applies to gradable qualities
+3. **-地 (-de)** adverbialization: Applies to most adjectives
+4. **AABB reduplication**: Limited to specific bases but productive within those
+5. **Resultative complements with 实**: Very productive (落实, 查实, 核实, 证实, etc.)
+6. **Resultative complements with 对/错**: Highly productive with action verbs
+7. **Negation with 不**: Applies broadly
+
+### Moderately Productive Patterns:
+1. **-化 (-huà)** verbalization: Selective application
+2. **-者 (-zhě)** agent nominalization: Limited to certain bases
+
+### Limited Productivity:
+1. **Resultative complements with 真**: Regional or restricted usage
+2. **Potential complements**: Grammatical rather than derivational
+
+### No Common Derivation Identified:
+- **虚 (xū)**: While it appears in compounds (虚假, 虚伪), it does not show productive derivational patterns beyond those already documented in P1b
+- **似 (sì)**: Functions primarily in comparative constructions; no clear derivational patterns
+- **像 (xiàng)**: Functions primarily as verb/preposition; no clear derivational patterns
+- **谎言 (huǎngyán)**: Already a compound; no further derivation attested
+- **本质 (běnzhì)**: Shows 本质上 (essentially) but this is grammatical rather than derivational
+
+---
+
+## NOTES ON METHODOLOGY
+
+1. **Distinction from P1b**: P1b documented productive compounding with the three main roots. This section focuses on affixal derivation and other morphological processes.
+
+2. **Grammatical vs. Derivational**: Chinese has fuzzy boundaries between grammar and derivation. Patterns included here show some degree of lexicalization or conventionalization beyond pure syntax.
+
+3. **Productivity Assessment**: Based on:
+   - Frequency of attested forms
+   - Range of bases accepting the pattern
+   - Conventionalization of meaning
+
+4. **Gaps Preserved**: Not all P1 items show derivational patterns. This asymmetry is preserved rather than forcing paradigmatic completeness.

@@ -1,0 +1,178 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Swahili (sw)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Copula *ni* + truth-domain predicate nominal/adjective. Subject (noun phrase or pronoun) + *ni* + {*kweli* / *sahihi* / *halisi* / *halali* / *uongo* / *dhahiri*}.
+
+### Examples
+- *Habari hii ni kweli.* → Habari hii ni kweli. → "This news is true."
+- *Hati hii ni halisi.* → Hati hii ni halisi. → "This document is genuine."
+
+### Notes
+*Ni* is an invariant copula; it does not agree with noun class. The predicate item (*kweli*, *sahihi*, *halisi*, etc.) follows directly. Negation replaces *ni* with *si* (see §2).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negative copula *si* + truth-domain predicate. Subject + *si* + {*kweli* / *sahihi* / *halisi* / *halali*}.
+
+### Examples
+- *Hii si kweli.* → Hii si kweli. → "This is not true."
+- *Bidhaa hizi si halisi; ni bandia.* → Bidhaa hizi si halisi; ni bandia. → "These goods are not genuine; they are fake."
+
+### Notes
+*Si* is the invariant negative copula, directly parallel to *ni*. The contrastive pairing *halisi … bandia* is a characteristic pattern in commercial and legal discourse.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Head noun + post-nominal modifier (no agreement morphology on the modifier itself; a genitive linker *wa/ya/la/za* etc. is used when the modifier is a noun phrase rather than a bare adjective).
+
+**3a. Bare adjective-type modifier** (no linker): Noun + {*kweli* / *sahihi* / *halisi* / *halali* / *bandia*}
+
+**3b. Genitive modifier** (with linker): Noun + *wa/ya* + {*asili* / *uongo* / *haki* / *kweli*}
+
+### Examples
+- *Dhahabu halisi* → Dhahabu halisi → "Genuine gold." *(3a)*
+- *Shahidi wa uongo* → Shahidi wa uongo → "A false witness." *(3b)*
+
+### Notes
+Swahili truth-domain adjectives (*halisi*, *sahihi*, *bandia*, *halali*) follow the head noun without a linker. Noun-headed modifiers require the appropriate noun-class genitive linker (*wa*, *ya*, *la*, *za*, etc.) agreeing with the head noun's class.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Stative/intransitive verb derived by suffix *-ika* or *-eka* on the verb stem, expressing the process of coming to be in a truth-relevant state. Also: *kudhihirika* (to become evident), *kudanganyika* (to become deceived/be taken in).
+
+### Examples
+- *Ukweli ulidhihirika baada ya uchunguzi.* → Ukweli ulidhihirika baada ya uchunguzi. → "The truth became evident after the investigation."
+- *Alidanganyika kwa urahisi.* → Alidanganyika kwa urahisi. → "He/she was easily taken in / became deceived."
+
+### Notes
+The suffix *-ika/-eka* attaches to the verb stem and produces an intransitive stative or inchoative reading. No external agent is expressed; the change of state is presented as self-occurring. This pattern is attested for *dhahiri* and *danganya* in the truth domain; it is not attested for *kweli* or *halisi* directly.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Causative suffix *-sha* or *-isha* attached to a base stem, producing a transitive verb meaning "to make X" or "to cause X to be the case."
+
+Attested forms: *kusahihisha* (to correct/validate), *kudhihirisha* (to demonstrate/make evident), *kuhalalisha* (to legitimize/make lawful), *kuthibitisha* (to confirm/verify — the *-isha* is part of the borrowed stem but functions causatively in Swahili).
+
+### Examples
+- *Mwalimu alisahihisha makosa ya wanafunzi.* → Mwalimu alisahihisha makosa ya wanafunzi. → "The teacher corrected the students' errors."
+- *Serikali inahalalisha mkataba huo.* → Serikali inahalalisha mkataba huo. → "The government is legitimizing that contract."
+
+### Notes
+The causative suffix is productive across the truth domain for bases that admit an external agent bringing about a state. No causative from *kweli* itself (*kukwelisha*) is attested; the causative function for truth-making is carried by *kuthibitisha*.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Prefix *u-* (noun class 11/14, abstract) + base → abstract noun denoting the property or state.
+
+Attested: *ukweli* (truth/truthfulness), *uhalisi* (reality/genuineness), *uhalali* (legitimacy/lawfulness), *uaminifu* (trustworthiness), *usahihi* (correctness/accuracy), *udanganyifu* (deceptiveness), *udhahiri* (obviousness), *uasili* (originality/nativeness), *ubandia* (fakeness).
+
+### Examples
+- *Ukweli wa jambo hili haujulikani.* → Ukweli wa jambo hili haujulikani. → "The truth of this matter is not known."
+- *Uhalali wa uchaguzi unapingwa mahakamani.* → Uhalali wa uchaguzi unapingwa mahakamani. → "The legitimacy of the election is being contested in court."
+
+### Notes
+The *u-* prefix is highly productive across this domain. The resulting nominals take class 11 subject-agreement prefixes (*u-* in present, *u-* stative). They appear as heads of genitive phrases specifying the domain of the property (*ukweli wa mambo*, *uhalali wa kisheria*).
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**7a. Person prefix *m-/mw-* + stem (+ optional suffix *-fu*):** produces a noun denoting a person characterized by the relevant property.
+
+Attested: *muongo* (liar), *mwaminifu* (trustworthy/faithful person), *mwamini* (believer), *mdanganyifu* (deceiver), *mheshimiwa* (honored/respected person), *shahidi* (witness — from Arabic but functions as an agentive nominal in Swahili).
+
+**7b. Relative clause construction** *mtu wa ku-VERB-wa*: used where no lexicalized agentive nominal exists.
+
+Attested: *mtu wa kuaminiwa* (a person to be trusted), *mtu anayesema kweli* (a person who tells the truth — no single-word form for "truth-teller" is attested).
+
+### Examples
+- *Yeye ni muongo wa hali ya juu.* → Yeye ni muongo wa hali ya juu. → "He/she is a consummate liar." *(7a)*
+- *Tunahitaji mtu wa kuaminiwa.* → Tunahitaji mtu wa kuaminiwa. → "We need a trustworthy person / a person to be trusted." *(7b)*
+
+### Notes
+No single lexicalized agentive nominal meaning "truth-teller" (*mkweli* or similar) is attested as a common form; the function is expressed periphrastically via *7b*. The *-fu* suffix in *mwaminifu* and *mdanganyifu* marks a habitual or characterological quality rather than a momentary act. Plural is formed by replacing *m-/mw-* with *wa-* (*waongo*, *waaminifu*, *wadanganyifu*).
+
+---
+
+## 8. PASSIVE CONSTRUCTION
+
+### Pattern
+Passive suffix *-wa* attached to the verb stem. Used extensively in the truth domain to express that a claim, document, or person has been verified, confirmed, corrected, or deceived by an external agent.
+
+Attested: *kuthibitishwa* (to be confirmed/verified), *kusahihishwa* (to be corrected/validated), *kuhalalishwa* (to be legitimized), *kudanganywa* (to be deceived), *kuaminiwa* (to be trusted), *kuheshimiwa* (to be respected).
+
+### Examples
+- *Habari imethibitishwa na vyanzo vingi.* → Habari imethibitishwa na vyanzo vingi. → "The news has been confirmed by multiple sources."
+- *Nilidanganywa na maneno yake.* → Nilidanganywa na maneno yake. → "I was deceived by his/her words."
+
+### Notes
+The agent is introduced by *na* (by). The passive is highly productive across all causative and transitive truth-domain verbs. It is the standard construction in journalistic and legal discourse for reporting verification outcomes.
+
+---
+
+## 9. ADVERBIAL TRUTH-ASSERTING PHRASE
+
+### Pattern
+Preposition *kwa* + truth-domain noun → adverbial phrase functioning as a sentence modifier asserting the manner or sincerity of a claim.
+
+Attested: *kwa kweli* (in truth/honestly), *kwa kweli kweli* (truly and sincerely), *kwa haki* (justly/rightly/in truth), *kwa dhahiri* (evidently/clearly).
+
+Reduplication intensifies: *kwa kweli* → *kwa kweli kweli*.
+
+### Examples
+- *Kwa kweli, sikujua chochote.* → Kwa kweli, sikujua chochote. → "Honestly, I knew nothing."
+- *Kwa dhahiri, tatizo hili ni kubwa.* → Kwa dhahiri, tatizo hili ni kubwa. → "Evidently, this problem is serious."
+
+### Notes
+These phrases are sentence-initial or sentence-medial and scope over the entire proposition. They are not morphologically integrated into the verb complex. *Kwa kweli* and *kwa kweli kweli* function as sincerity markers; *kwa dhahiri* functions as an evidential marker of self-evidence.
+
+---
+
+## 10. EVIDENTIAL / SELF-EVIDENCE PREDICATE
+
+### Pattern
+*Ni dhahiri kwamba* + complement clause: "It is evident/clear that…"
+
+Also: *inaonekana kwamba* (it appears that…) as a weaker evidential, though this falls outside the core truth-domain items.
+
+### Examples
+- *Ni dhahiri kwamba alikosea.* → Ni dhahiri kwamba alikosea. → "It is evident that he/she erred."
+- *Ni dhahiri kabisa kwamba ushahidi unatosha.* → Ni dhahiri kabisa kwamba ushahidi unatosha. → "It is absolutely clear that the evidence is sufficient."
+
+### Notes
+*Ni dhahiri* functions as a raising predicate taking a *kwamba*-complement clause. The intensifier *kabisa* (absolutely/completely) may be inserted between *dhahiri* and *kwamba*. This construction is characteristic of argumentative and legal discourse where the speaker presents a conclusion as requiring no further support.
+
+---
+
+## 11. PERIPHRASTIC VERBAL CONSTRUCTION (truth-domain actions)
+
+### Pattern
+General-purpose verb (*sema*, *toa*, *tafuta*, *ficha*, *potosha*, *kukusanya*, *pinga*) + truth-domain noun as direct object. No single derived verb exists for many of these actions.
+
+### Examples
+- *Kusema ukweli daima ni wajibu.* → Kusema ukweli daima ni wajibu. → "To always tell the truth is a duty."
+- *Walikusanya ushahidi kwa miezi mingi.* → Walikusanya ushahidi kwa miezi mingi. → "They gathered evidence for many months."
+
+### Notes
+This pattern compensates for the absence of lexicalized single-word verbs for "to truth-tell," "to evidence," and "to seek-truth." The object noun (*ukweli*, *ushahidi*, *makosa*) carries the semantic content; the light verb specifies the action type (speaking, providing, seeking, hiding, distorting, gathering, contesting). The pattern is productive and not restricted to fixed collocations.

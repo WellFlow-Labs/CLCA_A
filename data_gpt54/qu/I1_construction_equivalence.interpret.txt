@@ -1,0 +1,109 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | Predicative adjective/participle, optionally with enclitic | **allinmi**, **pantasqa** | Direct match to attributive evaluation | None attested |
+| ADNOM | Modifier + noun | **llulla runa**, **llulla simi**, **chiqaq simi** | Direct match to adnominal characterization | None attested |
+| BECOME | No common expression identified | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| REVELATION | No construction provided in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| CAUSATION (factual) | Error-causative verb; directional/light-verb periphrasis | **pantachiy**, **pantayman churay** | Expressed only in the error domain; no truth-establishing causative given | Partial availability; lexical asymmetry |
+| CAUSATION (character) | No construction provided for ‘make into liar / truthful person’ | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| VERIFICATION | No construction provided in P4a/P4b | — | **MISSING (structural gap)** | Morphosyntactic gap |
+| DISCONFIRMATION | Negative attribution only, not a dedicated disconfirmative operator | **mana allin**, **mana chiqaq** | **SUBSTITUTED BY NEGATION** | Structural gap for dedicated operator |
+| NEGATION | Analytic negation with preverbal/preadjectival particle | **mana allin**, **mana chiqaq** | Direct negation; analytic, not morphological | None attested |
+| NOMINALIZATION | Abstract nominalization; lexical abstract noun; agentive nominalization | **chiqaq kay**, **hucha**, **llullaq** | Direct nominalization domain, though internally heterogeneous | None attested |
+
+## 2. Substitution Patterns (Narrative)
+
+The dataset shows clear support for **ATTR**, **ADNOM**, **NEGATION**, and parts of **NOMINALIZATION**.
+
+**BECOME** is explicitly absent: P4a states “no common expression identified,” and P4b repeats that no clear common inchoative construction is attested. There is therefore no basis here for saying that **REVELATION** replaces **BECOME**, because **REVELATION** is also not attested.
+
+For **CAUSATION**, the available material is restricted to the **error** domain:
+- **pantachiy** is a compact causative verb.
+- **pantayman churay** is a multi-word periphrastic construction, with **churay** functioning as a light verb/carrier and **pantayman** supplying the directional/error content.
+
+This means causation is only partially represented, and only for causing error or misleading. No corresponding truth-establishing causative is given, and no character-changing causative is given.
+
+**DISCONFIRMATION** does not have a dedicated construction in the supplied material. Instead, rejection of truth/correctness is expressed through **NEGATION**, especially **mana allin** and more uncertainly **mana chiqaq**. So in this dataset, disconfirmative meaning is descriptively **substituted by negation**, not by a separate operator.
+
+There is no evidence that **DISCOVERY** substitutes for **CAUSATION**, because no discovery/revelation/verification construction is provided at all.
+
+**NEGATION** is clearly **analytic**, using the separate particle **mana** before the adjective. No morphological negative marking is given in P4a/P4b for this domain.
+
+**VERIFICATION** and **DISCONFIRMATION** do not share the same construction, because **VERIFICATION** is unattested, while **DISCONFIRMATION** is only indirectly represented through analytic negation.
+
+There are also asymmetries:
+- **Truth/falsity speech expressions** are better represented on the falsehood side: **llulla simi** is [CORE], while **chiqaq simi** is only [MARGINAL].
+- **Agentive person reference** is available for the liar/deception side: **llullaq**, **llulla runa**. No equally secure truth-teller counterpart is provided.
+- **Causation** is available for causing error, but not for causing truth or causing truthful character.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **BECOME**: **MISSING (structural gap)**
+- **REVELATION**: **MISSING (structural gap)**
+- **CAUSATION (character)**: **MISSING (structural gap)**
+- **VERIFICATION**: **MISSING (structural gap)**
+- Dedicated **DISCONFIRMATION** operator: **SUBSTITUTED BY NEGATION**
+
+### Lexical Gaps
+- No attested truth-teller counterpart to **llullaq** / **llulla runa**
+- No attested positive truth-causative counterpart to **pantachiy**
+- No attested inchoative lexeme/construction for ‘become true’, ‘become mistaken’, or ‘become a liar’
+
+### Conceptual Gaps
+- None can be established from P4a/P4b alone. The materials show missing or unattested constructions, but do not state that these meanings are conceptually blocked.
+
+### Asymmetric Gaps
+- **Negative vs. positive**: negative evaluation is clearly available via **mana allin**, while no dedicated verification operator is given on the positive side.
+- **Truth vs. falsity**: falsity/deception is better represented than truth in agentive and causative domains.
+- **Speech domain**: **llulla simi** is core, while **chiqaq simi** is marginal.
+- **Character domain**: liar expressions are attested; no parallel truth-teller expression is securely attested.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+  - **allinmi**
+  - **pantasqa**
+- **ADNOM**
+  - **llulla runa**
+  - **llulla simi**
+  - **chiqaq simi**
+- **NEGATION**
+  - **mana allin**
+  - **mana chiqaq**
+- **NOMINALIZATION**
+  - Abstract: **chiqaq kay**
+  - Lexical abstract noun: **hucha**
+  - Agentive: **llullaq**
+
+### Available with substitution
+- **DISCONFIRMATION**
+  - **SUBSTITUTED BY NEGATION**
+  - Expressed through **mana allin**, **mana chiqaq**, not by a dedicated disconfirmative construction
+
+### Partially available
+- **CAUSATION (factual)**
+  - **pantachiy**
+  - **pantayman churay**
+  - Only attested for causing error/misleading
+- **NOMINALIZATION** internally mixed
+  - productive-looking abstract pattern: **chiqaq kay**
+  - lexical noun: **hucha**
+  - agentive derivation: **llullaq**
+
+### Missing entirely
+- **BECOME** — **MISSING (structural gap)**
+- **REVELATION** — **MISSING (structural gap)**
+- **VERIFICATION** — **MISSING (structural gap)**
+- **CAUSATION (character)** — **MISSING (structural gap)**
+
+### Normalized behavior of multi-word expressions
+- **mana allin**, **mana chiqaq**: analytic negative predicative/adjectival expressions; **mana** is a separate negation particle.
+- **llulla runa**, **llulla simi**, **chiqaq simi**: noun phrases with a modifier preceding the noun; syntactically adnominal.
+- **chiqaq kay**: abstract nominal expression; **kay** serves as the nominalizing element in the attested pattern.
+- **pantayman churay**: periphrastic verbal construction; **churay** is the light verb/carrier, while **pantayman** contributes the error-goal meaning.
+
+If you want, I can also convert this into a stricter “operator-by-operator audit” format with one bullet per category.

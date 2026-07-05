@@ -1,0 +1,527 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Derivational Morphology in Chinese
+
+Chinese morphology is predominantly compounding-based rather than affixational. Productive derivational affixes are few and their status as "derivational morphology" proper (as opposed to compounding) is a matter of ongoing linguistic debate. The following documents only those affixational and quasi-affixational processes that are genuinely attested and broadly recognized in the literature on Chinese word formation. Compounding, which is the dominant word-formation strategy and has been extensively documented in P1b, is not repeated here. The derivational processes identified below are:
+
+1. **Nominalization via -性 (-xìng)**
+2. **Nominalization via -化 (-huà)**
+3. **Nominalization/agentivization via -者 (-zhě)**
+4. **Nominalization via -感 (-gǎn)**
+5. **Negation via 非- (fēi-)**
+6. **Negation via 不- (bù-) in lexicalized forms**
+7. **Negation via 无- (wú-) in lexicalized forms**
+8. **Degree/intensification via 最- (zuì-) in lexicalized forms**
+
+Each is assessed for productivity across the P1 base items. Gaps and asymmetries are preserved and noted.
+
+---
+
+## Section 1: Nominalization via -性 (-xìng)
+
+**Suffix description:** -性 derives abstract property nouns from adjectives or noun-adjective compounds, roughly equivalent to English *-ness*, *-ity*, or *-hood*. It is highly productive in academic, legal, and technical registers. Not all adjectives or compounds accept -性; acceptability is partly lexically conditioned.
+
+---
+
+**1.**
+- **Base Form:** 真实 (zhēnshí)
+- **Derived Form:** 真实性
+- **Transliteration:** zhēnshíxìng
+- **Literal Breakdown:** true + solid/real + -ness
+- **Natural English Translation:** truthfulness; authenticity; factual accuracy (as a property)
+- **Usage:** The nominalized form of 真实, used in academic, legal, journalistic, and heritage discourse to refer to the abstract property of being in accordance with reality. Appears in constructions such as 新闻的真实性 (the truthfulness of news reporting) and 证据的真实性 (the authenticity of evidence). Already documented in P1b (Root 1, item 5) and P1 (item 23 cross-reference); confirmed here as a productive derivational output.
+- **Epistemic Status:** [CORE]
+
+---
+
+**2.**
+- **Base Form:** 正确 (zhèngquè)
+- **Derived Form:** 正确性
+- **Transliteration:** zhèngquèxìng
+- **Literal Breakdown:** correct/right + -ness
+- **Natural English Translation:** correctness; accuracy (as a property)
+- **Usage:** Refers to the abstract property of being correct or accurate, used in logical, mathematical, scientific, and evaluative discourse (e.g., 论证的正确性, the correctness of an argument; 结论的正确性, the correctness of a conclusion). Widely attested in academic and technical writing.
+- **Epistemic Status:** [CORE]
+
+---
+
+**3.**
+- **Base Form:** 准确 (zhǔnquè)
+- **Derived Form:** 准确性
+- **Transliteration:** zhǔnquèxìng
+- **Literal Breakdown:** precise/accurate + -ness
+- **Natural English Translation:** accuracy; precision (as a property)
+- **Usage:** Refers to the abstract property of being precise or exact, used in scientific, statistical, and technical discourse (e.g., 测量的准确性, the accuracy of measurement; 翻译的准确性, the accuracy of a translation). Highly productive and widely attested.
+- **Epistemic Status:** [CORE]
+
+---
+
+**4.**
+- **Base Form:** 可靠 (kěkào)
+- **Derived Form:** 可靠性
+- **Transliteration:** kěkàoxìng
+- **Literal Breakdown:** can + lean on/depend on + -ness
+- **Natural English Translation:** reliability; dependability (as a property)
+- **Usage:** Refers to the abstract property of being reliable or trustworthy, used in engineering, statistics, legal, and evaluative discourse (e.g., 数据的可靠性, the reliability of data; 证人的可靠性, the reliability of a witness). Extremely common in technical and academic registers.
+- **Epistemic Status:** [CORE]
+
+---
+
+**5.**
+- **Base Form:** 虚假 (xūjiǎ)
+- **Derived Form:** 虚假性
+- **Transliteration:** xūjiǎxìng
+- **Literal Breakdown:** empty/hollow + false + -ness
+- **Natural English Translation:** falseness; fictitious character; fraudulent nature (as a property)
+- **Usage:** Refers to the abstract property of being false or fraudulent, used in legal and analytical discourse (e.g., 陈述的虚假性, the falseness of a statement). Less common than 真实性 but attested in legal and academic writing.
+- **Epistemic Status:** [CORE]
+
+---
+
+**6.**
+- **Base Form:** 诚实 (chéngshí)
+- **Derived Form:** 诚实性
+- **Transliteration:** chéngshíxìng
+- **Literal Breakdown:** sincere/honest + solid/real + -ness
+- **Natural English Translation:** honesty; sincerity (as a property)
+- **Usage:** Refers to the abstract property of being honest or sincere. Attested in academic and ethical discourse, though less frequent than 诚实 alone or the compound 诚信 in everyday usage.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**7.**
+- **Base Form:** 本质 (běnzhì)
+- **Derived Form:** 本质性
+- **Transliteration:** běnzhìxìng
+- **Literal Breakdown:** root/origin + substance/nature + -ness
+- **Natural English Translation:** essential character; fundamentality (as a property)
+- **Usage:** Refers to the property of being essential or fundamental, used in philosophical and analytical discourse (e.g., 本质性差异, an essential difference; 本质性变化, a fundamental change). Attested but less common than 本质 alone.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**8.**
+- **Base Form:** 实质 (shízhì)
+- **Derived Form:** 实质性
+- **Transliteration:** shízhìxìng
+- **Literal Breakdown:** solid/real + substance + -ness
+- **Natural English Translation:** substantive character; substantiality (as a property); substantive
+- **Usage:** Widely used as an attributive adjective meaning "substantive" or "of substance" (e.g., 实质性进展, substantive progress; 实质性问题, a substantive issue). Functions both as a derived property noun and as an attributive modifier. Highly productive in legal, diplomatic, and analytical discourse.
+- **Epistemic Status:** [CORE]
+
+---
+
+**9.**
+- **Base Form:** 原真性 (yuánzhēnxìng)
+- **Derived Form:** — (already a -性 nominalization; no further -性 derivation)
+- **Note:** 原真性 is itself the product of -性 nominalization from 原真 (original + true). No further derivation via -性 is applicable. **(no further derivation identified)**
+
+---
+
+**10.**
+- **Base Form:** 真 (zhēn)
+- **Derived Form:** 真实性 (see item 1 above; direct derivation from 真 alone via -性 is not standard)
+- **Note:** 真性 exists as a compound (e.g., 真性近视, true myopia, as opposed to pseudomyopia) but functions as a bound modifier in medical terminology rather than as a general abstract property nominalization. It is not a productive general derivation of 真 via -性 in the truth-evaluation domain.
+- **Epistemic Status of 真性 in medical usage:** [MARGINAL] (domain-restricted)
+
+---
+
+**Gaps noted for -性:**
+- 假 (jiǎ) alone does not productively take -性 to yield **假性 as a general abstract noun; 假性 exists only as a bound medical modifier (e.g., 假性近视, pseudomyopia), parallel to 真性 above, and is domain-restricted.
+- 错误 (cuòwù) does not commonly take -性 to yield 错误性; the property of being erroneous is typically expressed by 错误 itself or by 错误率 (error rate).
+- 欺骗 (qīpiàn), 伪造 (wěizào), 假冒 (jiǎmào), 仿冒 (fǎngmào), 鉴定 (jiàndìng), 核实 (héshí), 伪装 (wěizhuāng) do not productively take -性 in standard usage.
+- The four-character expressions (成语) 名副其实, 名不副实, 表里如一, 货真价实, 真相大白, etc. do not take -性.
+
+---
+
+## Section 2: Nominalization/Verbalization via -化 (-huà)
+
+**Suffix description:** -化 derives verbs meaning "to become X" or "to make X" and corresponding process nouns, roughly equivalent to English *-ize/-ization* or *-ify/-ification*. It is highly productive in academic, political, and technical registers. Its applicability to the P1 items is assessed below.
+
+---
+
+**1.**
+- **Base Form:** 正确 (zhèngquè)
+- **Derived Form:** 正确化
+- **Transliteration:** zhèngquèhuà
+- **Literal Breakdown:** correct/right + -ize
+- **Natural English Translation:** to make correct; correction; rectification
+- **Usage:** Attested in administrative and educational discourse to mean the process of making something correct or bringing it into conformity with a standard (e.g., 答案正确化, making answers correct). Less common than 纠正 (to correct) for the same meaning; 正确化 is more formal and process-oriented.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**2.**
+- **Base Form:** 虚假 (xūjiǎ)
+- **Derived Form:** 虚假化
+- **Transliteration:** xūjiǎhuà
+- **Literal Breakdown:** empty/hollow + false + -ize
+- **Natural English Translation:** to become falsified; falsification (as a process)
+- **Usage:** Attested in critical and analytical discourse to describe a process by which something becomes false or is rendered fraudulent (e.g., 信息虚假化, the falsification of information). Not highly frequent but attested in journalistic and academic writing.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**3.**
+- **Base Form:** 本质 (běnzhì)
+- **Derived Form:** 本质化
+- **Transliteration:** běnzhìhuà
+- **Literal Breakdown:** root/origin + substance/nature + -ize
+- **Natural English Translation:** to essentialize; essentialization
+- **Usage:** Used in critical theory and social science discourse to describe the act of treating contingent or constructed characteristics as essential or fixed (e.g., 对文化的本质化理解, an essentialized understanding of culture). Corresponds to the English critical theory term "essentialize/essentialization."
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**4.**
+- **Base Form:** 现实 (xiànshí) [from P1b Root 2]
+- **Derived Form:** 现实化
+- **Transliteration:** xiànshíhuà
+- **Literal Breakdown:** present/manifest + solid/real + -ize
+- **Natural English Translation:** to make real; to realize; to actualize; actualization
+- **Usage:** Used to describe the process of making something concrete or actual, as opposed to keeping it at the level of abstraction or ideal (e.g., 将计划现实化, to actualize a plan). Overlaps with 实现 (to realize/achieve) but emphasizes the process of concretization.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**Gaps noted for -化:**
+- 真 (zhēn), 假 (jiǎ), 真实 (zhēnshí), 可靠 (kěkào), 准确 (zhǔnquè), 诚实 (chéngshí), 错误 (cuòwù), 欺骗 (qīpiàn), 伪造 (wěizào), 假冒 (jiǎmào), 鉴定 (jiàndìng), 核实 (héshí), 伪装 (wěizhuāng), 失真 (shīzhēn), 失实 (shīshí) do not productively take -化 in standard usage to yield commonly used derived forms in the truth-evaluation domain.
+- The four-character expressions do not take -化.
+- **造假化, 欺骗化, 伪造化** are not attested as standard forms.
+
+---
+
+## Section 3: Agentive/Participant Nominalization via -者 (-zhě)
+
+**Suffix description:** -者 derives nouns denoting persons who perform an action or hold a role, roughly equivalent to English *-er*, *-or*, or *one who*. It attaches primarily to verbs and verbal compounds. It is productive in formal and written registers.
+
+---
+
+**1.**
+- **Base Form:** 欺骗 (qīpiàn)
+- **Derived Form:** 欺骗者
+- **Transliteration:** qīpiànzhě
+- **Literal Breakdown:** deceive + cheat + -er
+- **Natural English Translation:** deceiver; one who deceives
+- **Usage:** Refers to a person who engages in deception. Used in moral, legal, and analytical discourse. Less common than 骗子 (piànzi, swindler/cheat) in everyday speech but attested in formal and written contexts.
+- **Epistemic Status:** [CORE]
+
+---
+
+**2.**
+- **Base Form:** 伪造 (wěizào)
+- **Derived Form:** 伪造者
+- **Transliteration:** wěizàozhě
+- **Literal Breakdown:** false/spurious + make/fabricate + -er
+- **Natural English Translation:** forger; fabricator; one who forges
+- **Usage:** Refers to a person who forges documents, signatures, or objects. Used in legal discourse. Attested in legal texts and journalistic reporting on forgery cases.
+- **Epistemic Status:** [CORE]
+
+---
+
+**3.**
+- **Base Form:** 核实 (héshí)
+- **Derived Form:** 核实者
+- **Transliteration:** héshízhě
+- **Literal Breakdown:** verify/check + solid/real + -er
+- **Natural English Translation:** verifier; one who verifies
+- **Usage:** Refers to a person responsible for verification. Attested in administrative, journalistic, and legal contexts, though less common than circumlocutions such as 负责核实的人 (the person responsible for verification).
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**4.**
+- **Base Form:** 鉴定 (jiàndìng)
+- **Derived Form:** 鉴定者
+- **Transliteration:** jiàndìngzhě
+- **Literal Breakdown:** appraise/distinguish + determine/fix + -er
+- **Natural English Translation:** appraiser; authenticator; one who appraises
+- **Usage:** Refers to a person who performs authentication or appraisal. Attested in legal and art authentication contexts, though 鉴定人 (jiàndìngrén) is more common in legal usage for the same meaning.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**5.**
+- **Base Form:** 伪装 (wěizhuāng)
+- **Derived Form:** 伪装者
+- **Transliteration:** wěizhuāngzhě
+- **Literal Breakdown:** false/spurious + dress/disguise + -er
+- **Natural English Translation:** one who disguises; impostor; masquerader
+- **Usage:** Refers to a person who conceals their true identity or nature through disguise or pretense. Attested in literary, military, and political discourse.
+- **Epistemic Status:** [CORE]
+
+---
+
+**6.**
+- **Base Form:** 假冒 (jiǎmào)
+- **Derived Form:** 假冒者
+- **Transliteration:** jiǎmàozhě
+- **Literal Breakdown:** false/fake + pass off as + -er
+- **Natural English Translation:** impersonator; one who passes off fakes as genuine
+- **Usage:** Refers to a person who impersonates another or passes off counterfeit goods as genuine. Attested in legal and consumer protection discourse.
+- **Epistemic Status:** [CORE]
+
+---
+
+**Gaps noted for -者:**
+- 真 (zhēn), 假 (jiǎ), 真实 (zhēnshí), 虚假 (xūjiǎ), 正确 (zhèngquè), 错误 (cuòwù), 准确 (zhǔnquè), 可靠 (kěkào), 诚实 (chéngshí), 本质 (běnzhì), 实质 (shízhì) do not productively take -者 to yield standard agentive nouns. These items are primarily adjectival or nominal rather than verbal, and -者 does not attach productively to adjectives.
+- 失真者, 失实者, 相符者 are not attested as standard forms.
+- The four-character expressions do not take -者.
+
+---
+
+## Section 4: Experiential/Sensory Nominalization via -感 (-gǎn)
+
+**Suffix description:** -感 derives nouns denoting a subjective sense, feeling, or impression of a quality, roughly equivalent to English *sense of X*, *feeling of X*, or *impression of X*. It attaches to nouns and adjectives. It is productive in aesthetic, psychological, and evaluative discourse.
+
+---
+
+**1.**
+- **Base Form:** 真实 (zhēnshí)
+- **Derived Form:** 真实感
+- **Transliteration:** zhēnshígǎn
+- **Literal Breakdown:** true + solid/real + sense/feeling
+- **Natural English Translation:** sense of realism; feeling of authenticity; impression of reality
+- **Usage:** Used in aesthetic and critical discourse to evaluate whether a literary, cinematic, or artistic work produces a convincing impression of reality. Already documented in P1b (Root 1, item 16); confirmed here as a productive derivational output of -感 on 真实.
+- **Epistemic Status:** [CORE]
+
+---
+
+**2.**
+- **Base Form:** 可靠 (kěkào)
+- **Derived Form:** 可靠感
+- **Transliteration:** kěkàogǎn
+- **Literal Breakdown:** can + lean on/depend on + sense/feeling
+- **Natural English Translation:** sense of reliability; feeling of trustworthiness
+- **Usage:** Refers to the subjective impression or feeling that something or someone is reliable. Used in psychological, design, and interpersonal discourse (e.g., 产品给人可靠感, the product gives people a sense of reliability).
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**3.**
+- **Base Form:** 诚实 (chéngshí)
+- **Derived Form:** 诚实感
+- **Transliteration:** chéngshígǎn
+- **Literal Breakdown:** sincere/honest + solid/real + sense/feeling
+- **Natural English Translation:** sense of honesty; impression of sincerity
+- **Usage:** Refers to the subjective impression that a person or communication is honest. Attested in interpersonal and communication studies discourse, though less common than 真实感.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**Gaps noted for -感:**
+- 正确 (zhèngquè), 准确 (zhǔnquè), 错误 (cuòwù), 虚假 (xūjiǎ), 假 (jiǎ), 真 (zhēn) alone, 本质 (běnzhì), 实质 (shízhì), 欺骗 (qīpiàn), 伪造 (wěizào), 假冒 (jiǎmào), 鉴定 (jiàndìng), 核实 (héshí), 伪装 (wěizhuāng), 失真 (shīzhēn), 失实 (shīshí) do not productively take -感 to yield standard derived forms in the truth-evaluation domain.
+- 错误感 and 虚假感 are not attested as standard forms.
+
+---
+
+## Section 5: Negation via 非- (fēi-)
+
+**Prefix description:** 非- is a formal negation prefix meaning "non-" or "not," attaching primarily to nouns and nominal compounds in formal, legal, academic, and technical registers. It is distinct from the adverb 不 (bù) and the adjective 假 (jiǎ) in that it forms lexicalized compound nouns and attributive modifiers rather than syntactic negations.
+
+---
+
+**1.**
+- **Base Form:** 真实 (zhēnshí)
+- **Derived Form:** 非真实
+- **Transliteration:** fēizhēnshí
+- **Literal Breakdown:** non- + true + solid/real
+- **Natural English Translation:** non-real; unreal; not truthful
+- **Usage:** Attested in philosophical, logical, and media studies discourse to characterize representations or states that do not correspond to reality (e.g., 非真实陈述, a non-truthful statement; 非真实世界, a non-real world). Less common than 虚假 or 不真实 for the same meaning; 非真实 is more formal and analytical.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**2.**
+- **Base Form:** 正确 (zhèngquè)
+- **Derived Form:** 非正确
+- **Transliteration:** fēizhèngquè
+- **Literal Breakdown:** non- + correct/right
+- **Natural English Translation:** incorrect; not correct
+- **Usage:** Attested in logical and formal discourse as a technical negation (e.g., in logic, 非正确推理, non-valid reasoning). Less common than 不正确 or 错误 in everyday usage; 非正确 is more restricted to formal logical or analytical contexts.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**3.**
+- **Base Form:** 真伪 (zhēnwěi)
+- **Derived Form:** — **(no common derivation identified)**
+- **Note:** 非真伪 is not attested as a standard form. The binomial 真伪 does not productively take 非-.
+
+---
+
+**4.**
+- **Base Form:** 诚实 (chéngshí)
+- **Derived Form:** 非诚实
+- **Transliteration:** fēichéngshí
+- **Literal Breakdown:** non- + sincere/honest + solid/real
+- **Natural English Translation:** dishonest; not honest
+- **Usage:** Attested in formal ethical and legal discourse (e.g., 非诚实行为, dishonest conduct). Less common than 不诚实 in everyday usage; 非诚实 is more formal.
+- **Epistemic Status:** [MARGINAL]
+
+---
+
+**Gaps noted for 非-:**
+- 假 (jiǎ), 虚假 (xūjiǎ), 错误 (cuòwù), 准确 (zhǔnquè), 可靠 (kěkào), 本质 (běnzhì), 实质 (shízhì), 欺骗 (qīpiàn), 伪造 (wěizào), 假冒 (jiǎmào), 鉴定 (jiàndìng), 核实 (héshí), 伪装 (wěizhuāng), 失真 (shīzhēn), 失实 (shīshí), 如实 (rúshí), 相符 (xiāngfú) do not productively take 非- to yield standard lexicalized forms.
+- The four-character expressions do not take 非-.
+- **非假, 非错误, 非准确** are not attested as standard forms.
+
+---
+
+## Section 6: Negation via 不- (bù-) in Lexicalized Forms
+
+**Note on scope:** 不 (bù) is primarily a syntactic negation adverb in Chinese and does not in general constitute derivational morphology. However, a small number of 不- + adjective/verb combinations have become lexicalized as fixed compound forms with their own entries and usage patterns distinct from syntactic negation. Only such lexicalized forms are documented here. Syntactic negations (e.g., 不真实 used as a predicate in a sentence) are not included.
+
+---
+
+**1.**
+- **Base Form:** 正确 (zhèngquè)
+- **Derived Form:** 不正确
+- **Transliteration:** bùzhèngquè
+- **Literal Breakdown:** not + correct/right
+- **Natural English Translation:** incorrect; wrong; not correct
+- **Usage:** While syntactically transparent, 不正确 functions as a lexicalized attributive adjective in Chinese, appearing in fixed collocations (e.g., 不正确的做法, an incorrect approach; 不正确的观点, an incorrect view). It is the standard antonym of 正确 and is listed in dictionaries as a lexical item. Extremely common across all registers.
+- **Epistemic Status:** [CORE]
+
+---
+
+**2.**
+- **Base Form:** 准确 (zhǔnquè)
+- **Derived Form:** 不准确
+- **Transliteration:** bùzhǔnquè
+- **Literal Breakdown:** not + precise/accurate
+- **Natural English Translation:** inaccurate; imprecise; not accurate
+- **Usage:** Functions as the standard antonym of 准确, used across scientific, journalistic, and everyday contexts (e.g., 数据不准确, the data is inaccurate; 不准确的描述, an inaccurate description). Lexicalized as a standard attributive adjective.
+- **Epistemic Status:** [CORE]
+
+---
+
+**3.**
+- **Base Form:** 可靠 (kěkào)
+- **Derived Form:** 不可靠
+- **Transliteration:** bùkěkào
+- **Literal Breakdown:** not + can + lean on/depend on
+- **Natural English Translation:** unreliable; untrustworthy; not dependable
+- **Usage:** The standard antonym of 可靠, used in evaluations of sources, persons, equipment, and information (e.g., 消息来源不可靠, the source is unreliable). Lexicalized as a standard attributive adjective and predicate.
+- **Epistemic Status:** [CORE]
+
+---
+
+**4.**
+- **Base Form:** 诚实 (chéngshí)
+- **Derived Form:** 不诚实
+- **Transliteration:** bùchéngshí
+- **Literal Breakdown:** not + sincere/honest + solid/real
+- **Natural English Translation:** dishonest; not honest; insincere
+- **Usage:** The standard antonym of 诚实, used in moral and everyday evaluations of character and conduct (e.g., 不诚实的行为, dishonest behavior). Lexicalized as a standard attributive adjective.
+- **Epistemic Status:** [CORE]
+
+---
+
+**5.**
+- **Base Form:** 真实 (zhēnshí)
+- **Derived Form:** 不真实
+- **Transliteration:** bùzhēnshí
+- **Literal Breakdown:** not + true + solid/real
+- **Natural English Translation:** unreal; not truthful; not in accordance with reality
+- **Usage:** Used to characterize representations, statements, or depictions that do not correspond to reality. Attested in legal, journalistic, and everyday discourse (e.g., 不真实的报道, untruthful reporting). Functions as a lexicalized attributive adjective.
+- **Epistemic Status:** [CORE]
+
+---
+
+**6.**
+- **Base Form:** 相符 (xiāngfú)
+- **Derived Form:** 不相符
+- **Transliteration:** bùxiāngfú
+- **Literal Breakdown:** not + mutually + conform/match
+- **Natural English Translation:** inconsistent with; not matching; not in conformity with
+- **Usage:** Used in legal, administrative, and documentary contexts to indicate that two things do not correspond or match (e.g., 与事实不相符, not consistent with the facts). Functions as a lexicalized predicate and attributive.
+- **Epistemic Status:** [CORE]
+
+---
+
+**Gaps noted for 不- lexicalization:**
+- 假 (jiǎ): 不假 exists but means "not false" = "true/indeed" in a colloquial, emphatic sense (e.g., 此言不假, this statement is not false/is indeed true). This is a lexicalized form but functions as an affirmation of truth rather than a derivation in the standard sense. It is noted here but not listed as a primary derivation.
+- 错误 (cuòwù): 不错误 is not a standard lexicalized form; the antonym of 错误 is 正确, not 不错误. Note: 不错 (bùcuò) is a highly common colloquial expression meaning "not bad; pretty good," but this is a separate lexicalization of 错 (wrong) rather than of 错误 as a compound.
+- 欺骗 (qīpiàn), 伪造 (wěizào), 假冒 (jiǎmào), 鉴定 (jiàndìng), 核实 (héshí), 伪装 (wěizhuāng), 失真 (shīzhēn), 失实 (shīshí), 如实 (rúshí), 本质 (běnzhì), 实质 (shízhì), 真伪 (zhēnwěi), 仿冒 (fǎngmào) do not yield standard lexicalized 不- forms.
+
+---
+
+## Section 7: Negation via 无- (wú-) in Lexicalized Forms
+
+**Prefix description:** 无- (meaning "without, lacking") forms lexicalized compound adjectives and nouns in formal and written registers, roughly equivalent to English *un-*, *-less*, or *without*. Its applicability to P1 items is limited.
+
+---
+
+**1.**
+- **Base Form:** 可靠 (kěkào)
+- **Derived Form:** — **(no common derivation identified)**
+- **Note:** 无可靠 is not a standard form; the negation of 可靠 is expressed by 不可靠 (see Section 6).
+
+---
+
+**2.**
+- **Base Form:** 诚实 (chéngshí)
+- **Derived Form:** — **(no common derivation identified)**
+- **Note:** 无诚实 is not a standard form.
+
+---
+
+**3.**
+- **Base Form:** 欺骗 (qīpiàn)
+- **Derived Form:** 无欺
+- **Transliteration:** wúqī
+- **Literal Breakdown:** without + deceive
+- **Note on base:** 无欺 derives from 欺 (qī, to deceive) rather than from the full compound 欺骗. It is documented here because 欺 is the first morpheme of the P1 item 欺骗 and 无欺 is a lexicalized form in the same semantic domain.
+- **Natural English Translation:** without deception; honest dealing; free from fraud
+- **Usage:** A formal and literary expression used in commercial and moral contexts to assert the absence of deception (e.g., 童叟无欺, no cheating of children or the elderly — a traditional commercial motto asserting honest dealing with all customers). Appears in fixed expressions rather than as a productive derivation.
+- **Epistemic Status:** [CORE] (within fixed expressions)
+
+---
+
+**General gap note for 无-:** The P1 items in this domain are predominantly verbal, adjectival, or nominal in ways that do not productively combine with 无- to yield standard lexicalized forms. The negation of most P1 items is expressed through 不-, 非-, or antonymous compounds rather than 无-.
+
+---
+
+## Section 8: Reduplication
+
+**Note:** Reduplication is a morphological process in Chinese, but its applicability to the P1 items in this domain is highly restricted. Monosyllabic adjectives can sometimes reduplicate for intensification (e.g., 好好 from 好), but this process does not apply productively to the P1 items here. The one attested case from P1b is noted:
+
+---
+
+**1.**
+- **Base Form:** 真假 (zhēnjiǎ) [from P1b]
+- **Derived Form:** 真真假假
+- **Transliteration:** zhēnzhēn jiǎjiǎ
+- **Literal Breakdown:** true-true + false-false (AABB reduplication pattern)
+- **Natural English Translation:** a mixture of true and false; ambiguously real and fake
+- **Usage:** Already documented in P1b (Root 3, item 7). The AABB reduplication of the binomial 真假 yields an expression denoting a confusing mixture of genuine and fabricated elements. This is a productive pattern for binomial expressions in Chinese but is not a general derivational rule applicable across the P1 items.
+- **Epistemic Status:** [CORE]
+
+---
+
+**General gap note for reduplication:** No other P1 items productively reduplicate to yield standard derived forms in the truth-evaluation domain.
+
+---
+
+## Summary of Derivational Productivity
+
+| Derivational Process | Most Productive Base Items | Gaps / Non-productive Items |
+|---|---|---|
+| -性 nominalization | 真实性, 正确性, 准确性, 可靠性, 实质性, 虚假性 | 假, 错误, 欺骗, 伪造, 假冒, 四字成语 |
+| -化 verbalization | 本质化, 现实化 (marginal) | 真, 假, 真实, 可靠, 准确, 诚实, 错误 |
+| -者 agentivization | 欺骗者, 伪造者, 伪装者, 假冒者 | 真, 假, 真实, 正确, 错误, 准确, 可靠 |
+| -感 experiential nominalization | 真实感 | 正确, 准确, 错误, 虚假, 假, 欺骗 |
+| 非- negation | 非真实, 非正确, 非诚实 (all marginal) | 假, 错误, 准确, 可靠, 欺骗, 伪造 |
+| 不- lexicalized negation | 不正确, 不准确, 不可靠, 不诚实, 不真实, 不相符 | 错误, 欺骗, 伪造, 假冒, 失真, 失实 |
+| 无- negation | 无欺 (fixed expression only) | Nearly all P1 items |
+| Reduplication | 真真假假 (AABB pattern) | Nearly all P1 items |
+
+---
+
+## Cross-cutting Observation
+
+The most derivationally productive items in this domain are those that function primarily as **adjectives or property-denoting compounds** (真实, 正确, 准确, 可靠, 诚实, 实质), which accept -性 nominalization and 不- lexicalized negation most readily. Items that are primarily **verbal** (欺骗, 伪造, 假冒, 核实, 鉴定, 伪装) accept -者 agentivization but resist -性 and -感. Items that are primarily **nominal or binomial** (真相, 真理, 真伪, 本质, 四字成语) resist most derivational processes. This asymmetry is directly supported by the usage patterns documented in P1 and P1b and reflects the general constraint in Chinese that derivational affixes are sensitive to the grammatical category of their base.

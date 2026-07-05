@@ -1,0 +1,460 @@
+# CLCA Protocol v3.4 — P6 NATURALNESS: CHANGE, CAUSATION, AND STABILITY
+# Language: Sanskrit (sa)
+
+---
+
+## 1. BECOMING TRUE / ACQUIRING TRUTH-STATUS
+
+### 1.1 "X becomes true/real" (satya)
+
+**Construction:** NOUN[nom] + satyam + bhavati
+**Example:** तत् सत्यं भवति (tat satyaṃ bhavati)
+**Translation:** "that becomes true" / "that turns out to be true"
+**Naturalness:** [CORE]
+**Usage notes:** Standard construction for something acquiring truth-status or being verified. Common in narrative contexts where claims are confirmed or predictions fulfilled. Bhavati serves inchoative function ("becomes") rather than simple copular ("is"). Context disambiguates stative versus dynamic reading.
+
+**Construction:** NOUN[nom] + satyam + jāyate
+**Example:** वचनं सत्यं जायते (vacanaṃ satyaṃ jāyate)
+**Translation:** "the statement becomes true" / "the utterance is fulfilled"
+**Naturalness:** [MARGINAL]
+**Usage notes:** Jāyate emphasizes origination or coming-into-being. Less common than bhavati for truth-acquisition. Restricted to contexts emphasizing fulfillment or realization of predictions/promises. Carries connotation of truth emerging or manifesting.
+
+**Construction:** NOUN[nom] + satyī-bhavati (compound verb)
+**Example:** (no common expression identified)
+**Translation:** —
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** Compound verb satyī-bhū theoretically possible but not attested in corpus. Sanskrit strongly prefers predicative adjective + bhavati over compound verb formation for truth-domain terms.
+
+### 1.2 "X becomes factual/accurate" (tathya, yathārtha)
+
+**Construction:** NOUN[nom] + tathyam + bhavati
+**Example:** कथा तथ्यं भवति (kathā tathyaṃ bhavati)
+**Translation:** "the account becomes factual" / "the narrative turns out to be accurate"
+**Naturalness:** [CORE]
+**Usage notes:** Used when narrative, testimony, or claim is verified as factual. Emphasizes correspondence to actual events or states of affairs. Common in contexts of verification or confirmation.
+
+**Construction:** NOUN[nom] + yathārtham + bhavati
+**Example:** ज्ञानं यथार्थं भवति (jñānaṃ yathārthaṃ bhavati)
+**Translation:** "knowledge becomes accurate" / "cognition corresponds to reality"
+**Naturalness:** [CORE]
+**Usage notes:** Describes cognition or representation achieving correspondence to reality. Used in epistemological contexts for successful knowledge acquisition. Yathārtha functions adverbially or predicatively.
+
+### 1.3 "X becomes valid knowledge" (pramā)
+
+**Construction:** NOUN[nom] + pramā + jāyate
+**Example:** ज्ञानं प्रमा जायते (jñānaṃ pramā jāyate)
+**Translation:** "knowledge becomes valid cognition" / "cognition arises as pramā"
+**Naturalness:** [CORE]
+**Usage notes:** Standard epistemological construction for genesis of valid cognition. Jāyate preferred over bhavati for epistemic states, emphasizing production or origination. Common in pramāṇa-śāstra discussions of knowledge-generation.
+
+**Construction:** NOUN[nom] + pramā + bhavati
+**Example:** बुद्धिः प्रमा भवति (buddhiḥ pramā bhavati)
+**Translation:** "cognition becomes valid knowledge"
+**Naturalness:** [CORE]
+**Usage notes:** Alternative to jāyate construction. Bhavati emphasizes result or state rather than process of origination. Both constructions productive; choice often stylistic or contextual.
+
+---
+
+## 2. BECOMING FALSE / ACQUIRING FALSITY-STATUS
+
+### 2.1 "X becomes false/untrue" (asatya, mithyā)
+
+**Construction:** NOUN[nom] + asatyam + bhavati
+**Example:** वचनम् असत्यं भवति (vacanam asatyaṃ bhavati)
+**Translation:** "the statement becomes false" / "the utterance turns out to be untrue"
+**Naturalness:** [CORE]
+**Usage notes:** Describes statement or claim being revealed as false. Common in contexts of refutation or discovery of falsehood. Parallel construction to satyaṃ bhavati.
+
+**Construction:** NOUN[nom] + mithyā + bhavati
+**Example:** ज्ञानं मिथ्या भवति (jñānaṃ mithyā bhavati)
+**Translation:** "knowledge becomes false" / "cognition is revealed as illusory"
+**Naturalness:** [CORE]
+**Usage notes:** Particularly common in Vedāntic contexts where empirical knowledge is characterized as ultimately illusory. Mithyā emphasizes illusoriness or unreality rather than simple factual incorrectness.
+
+**Construction:** NOUN[nom] + mithyā + pratīyate
+**Example:** जगत् मिथ्या प्रतीयते (jagat mithyā pratīyate)
+**Translation:** "the world appears as illusory" / "the world is cognized as false"
+**Naturalness:** [CORE]
+**Usage notes:** Passive construction emphasizing appearance or cognition of falsity/illusoriness. Common in Advaita Vedānta for characterizing empirical reality. Pratīyate focuses on cognitive apprehension rather than ontological change.
+
+### 2.2 "X becomes erroneous" (bhrama, apramā)
+
+**Construction:** NOUN[nom] + bhramaḥ + bhavati
+**Example:** ज्ञानं भ्रमः भवति (jñānaṃ bhramaḥ bhavati)
+**Translation:** "knowledge becomes error" / "cognition turns out to be mistaken"
+**Naturalness:** [CORE]
+**Usage notes:** Describes cognition being revealed as erroneous. Common in epistemological discussions of error-detection. Bhrama emphasizes cognitive mistake rather than ontological falsity.
+
+**Construction:** NOUN[nom] + apramā + bhavati
+**Example:** बुद्धिः अप्रमा भवति (buddhiḥ apramā bhavati)
+**Translation:** "cognition becomes invalid knowledge"
+**Naturalness:** [CORE]
+**Usage notes:** Technical epistemological construction for cognition failing to achieve validity. Parallel to pramā bhavati but with negative result. Used in analysis of failed knowledge-attempts.
+
+### 2.3 "X becomes inaccurate" (ayathārtha)
+
+**Construction:** NOUN[nom] + ayathārtham + bhavati
+**Example:** प्रत्ययः अयथार्थं भवति (pratyayaḥ ayathārthaṃ bhavati)
+**Translation:** "the cognition becomes inaccurate" / "the belief fails to correspond to reality"
+**Naturalness:** [CORE]
+**Usage notes:** Describes cognition or representation losing or lacking correspondence to reality. Used in epistemological contexts for failed accuracy. Parallel to yathārthaṃ bhavati.
+
+---
+
+## 3. CAUSATION OF TRUTH-STATUS
+
+### 3.1 Causing something to be true/verified (satya)
+
+**Construction:** AGENT[nom] + OBJECT[acc] + satyam + karoti
+**Example:** स तद् वचनं सत्यं करोति (sa tad vacanaṃ satyaṃ karoti)
+**Translation:** "he makes that statement true" / "he fulfills that utterance"
+**Naturalness:** [CORE]
+**Usage notes:** Karoti "makes, does" serves as general causative. Used for fulfilling promises, realizing predictions, or verifying claims through action. Emphasizes agent's role in bringing about truth-status.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + satyī-karoti (compound causative)
+**Example:** स प्रतिज्ञां सत्यीकरोति (sa pratijñāṃ satyīkaroti)
+**Translation:** "he makes the promise true" / "he fulfills the vow"
+**Naturalness:** [CORE]
+**Usage notes:** Compound causative satyī-karoti (satya + -ī- + karoti) more emphatic than simple karoti construction. Common for promise-fulfillment and vow-keeping. Modern usage extends to "verify, authenticate."
+
+**Construction:** AGENT[nom] + OBJECT[acc] + sādhayati
+**Example:** स वचनं साधयति (sa vacanaṃ sādhayati)
+**Translation:** "he accomplishes/proves the statement" / "he validates the claim"
+**Naturalness:** [CORE]
+**Usage notes:** Sādhayati (causative of √sidh "succeed") means "accomplish, prove, establish." Used for proving claims or establishing truth through demonstration. Emphasizes successful validation.
+
+**Construction:** MEANS[instrumental] + OBJECT[nom] + satyam + gamyate/sidhyate
+**Example:** प्रमाणेन तत् सत्यं सिध्यते (pramāṇena tat satyaṃ sidhyate)
+**Translation:** "that is established as true by valid means" / "that is proven through pramāṇa"
+**Naturalness:** [CORE]
+**Usage notes:** Passive construction with instrumental agent/means. Sidhyate "is established, is proven" common for truth-verification. Gamyate "is reached, is known" alternative. Emphasizes epistemic warrant rather than agentive causation.
+
+### 3.2 Causing something to be false/illusory (mithyā, asatya)
+
+**Construction:** AGENT[nom] + OBJECT[acc] + mithyā + karoti
+**Example:** (no common expression identified)
+**Translation:** —
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** While theoretically possible, construction not commonly attested. Falsification typically expressed through negation (na satyaṃ karoti "does not make true") or through verbs of deception rather than direct causation of falsity-status.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + asatyam + karoti
+**Example:** (no common expression identified)
+**Translation:** —
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** Similarly rare. Causing falsity not typically expressed through direct causative construction with asatya. Deception verbs (vañcayati "deceives") or negation preferred.
+
+### 3.3 Causing valid knowledge (pramā)
+
+**Construction:** MEANS[instrumental] + OBJECT[nom] + pramā + jāyate
+**Example:** प्रत्यक्षेण ज्ञानं प्रमा जायते (pratyakṣeṇa jñānaṃ pramā jāyate)
+**Translation:** "through perception, knowledge arises as valid cognition"
+**Naturalness:** [CORE]
+**Usage notes:** Standard epistemological construction. Instrumental case marks epistemic means (pramāṇa) causing valid cognition. Jāyate emphasizes production/genesis. No agentive subject; pramāṇa itself is causal means.
+
+**Construction:** PRAMĀṆA[nom] + OBJECT[acc] + janayati
+**Example:** प्रत्यक्षं प्रमां जनयति (pratyakṣaṃ pramāṃ janayati)
+**Translation:** "perception generates valid knowledge"
+**Naturalness:** [MARGINAL]
+**Usage notes:** Active causative with pramāṇa as grammatical subject. Less common than instrumental + jāyate construction. Janayati "generates, produces" emphasizes causal production. Somewhat personifies pramāṇa as agent.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + pramāṇena + jñāpayati
+**Example:** आचार्यः शिष्यं प्रमाणेन ज्ञापयति (ācāryaḥ śiṣyaṃ pramāṇena jñāpayati)
+**Translation:** "the teacher causes the student to know through valid means"
+**Naturalness:** [CORE]
+**Usage notes:** Causative of √jñā "know" with instrumental pramāṇa. Used for pedagogical contexts where teacher facilitates student's knowledge acquisition. Emphasizes human agency in knowledge-transmission.
+
+### 3.4 Causing error/illusion (bhrama)
+
+**Construction:** CAUSE[nom/instrumental] + OBJECT[nom] + bhramaḥ + jāyate
+**Example:** अविद्यया भ्रमः जायते (avidyayā bhramaḥ jāyate)
+**Translation:** "through ignorance, error arises"
+**Naturalness:** [CORE]
+**Usage notes:** Instrumental case marks cause of error (typically avidyā, doṣa "defect"). Standard construction in epistemology for explaining error-genesis. No agentive subject; causal factor expressed instrumentally.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + bhramayati
+**Example:** मायिनः जनं भ्रमयति (māyinaḥ janaṃ bhramayati)
+**Translation:** "the magician causes people to err" / "the illusionist deceives people"
+**Naturalness:** [CORE]
+**Usage notes:** Causative verb bhramayati (from √bhram) means "cause to wander/err, deceive, confuse." Used for intentional deception or causing confusion. Emphasizes agentive causation of error.
+
+---
+
+## 4. CAUSATION OF MORAL/ETHICAL STATES
+
+### 4.1 Causing righteousness (dharma)
+
+**Construction:** AGENT[nom] + OBJECT[acc] + dharme + sthāpayati
+**Example:** राजा प्रजां धर्मे स्थापयति (rājā prajāṃ dharme sthāpayati)
+**Translation:** "the king establishes the people in dharma"
+**Naturalness:** [CORE]
+**Usage notes:** Sthāpayati "establishes, places" with locative dharme. Common in political/ethical discourse for rulers establishing righteous order. Emphasizes placement in state of righteousness.
+
+**Construction:** AGENT[nom] + dharmam + ācārayati/śikṣayati
+**Example:** गुरुः शिष्यं धर्मम् आचारयति (guruḥ śiṣyaṃ dharmam ācārayati)
+**Translation:** "the teacher causes the student to practice dharma" / "the guru instructs the disciple in dharma"
+**Naturalness:** [CORE]
+**Usage notes:** Causative verbs ācārayati "causes to practice" or śikṣayati "teaches, instructs." Used in pedagogical contexts for moral instruction. Emphasizes transmission of righteous conduct.
+
+### 4.2 Causing unrighteousness (adharma)
+
+**Construction:** AGENT[nom] + OBJECT[acc] + adharmam + prayojayati
+**Example:** (no common expression identified)
+**Translation:** —
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** Direct causation of adharma rarely expressed through simple causative construction. Moral corruption typically described through verbs of leading astray (bhramayati, vañcayati) or through passive constructions (adharme patati "falls into unrighteousness").
+
+---
+
+## 5. CAUSATION OF KNOWLEDGE/IGNORANCE
+
+### 5.1 Causing knowledge (vidyā, jñāna)
+
+**Construction:** AGENT[nom] + OBJECT[acc] + jñāpayati
+**Example:** आचार्यः शिष्यं तत्त्वं ज्ञापयति (ācāryaḥ śiṣyaṃ tattvaṃ jñāpayati)
+**Translation:** "the teacher causes the student to know the truth" / "the guru imparts knowledge of reality to the disciple"
+**Naturalness:** [CORE]
+**Usage notes:** Jñāpayati (causative of √jñā "know") standard for causing knowledge. Common in pedagogical and soteriological contexts. Double accusative construction (person + thing known).
+
+**Construction:** AGENT[nom] + OBJECT[acc] + bodhayati
+**Example:** गुरुः शिष्यं बोधयति (guruḥ śiṣyaṃ bodhayati)
+**Translation:** "the guru awakens/enlightens the disciple"
+**Naturalness:** [CORE]
+**Usage notes:** Bodhayati (causative of √budh "awaken, know") emphasizes awakening or enlightenment. Common in spiritual contexts for causing realization. Metaphor of awakening from ignorance-sleep.
+
+**Construction:** AGENT[nom] + OBJECT[dat] + vidyām + dadāti/pradāti
+**Example:** आचार्यः शिष्याय विद्यां ददाति (ācāryaḥ śiṣyāya vidyāṃ dadāti)
+**Translation:** "the teacher gives knowledge to the student"
+**Naturalness:** [CORE]
+**Usage notes:** Dadāti/pradāti "gives, bestows" with dative recipient. Common metaphor of knowledge-transmission as gift-giving. Emphasizes teacher's generosity and student's reception.
+
+### 5.2 Causing ignorance (avidyā)
+
+**Construction:** CAUSE[instrumental] + avidyā + jāyate
+**Example:** (no common expression identified with specific cause)
+**Translation:** —
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** Avidyā typically treated as beginningless (anādi) in Vedāntic philosophy, not caused by specific agent or event. When causation discussed, expressed through passive constructions or metaphysical explanations rather than simple causative verbs.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + moham + āpādayati
+**Example:** माया जनं मोहम् आपादयति (māyā janaṃ moham āpādayati)
+**Translation:** "māyā causes delusion in people"
+**Naturalness:** [CORE]
+**Usage notes:** Āpādayati "causes to fall into, brings about" with moha "delusion" (related to avidyā). Used for causing confusion or delusion. Māyā (cosmic illusion) common subject.
+
+---
+
+## 6. REMOVAL/CESSATION OF STATES
+
+### 6.1 Removal of falsity/error
+
+**Construction:** AGENT[nom] + OBJECT[acc] + mithyātvam/bhramam + nivartayati/nāśayati
+**Example:** ज्ञानं भ्रमं नाशयति (jñānaṃ bhramaṃ nāśayati)
+**Translation:** "knowledge destroys error"
+**Naturalness:** [CORE]
+**Usage notes:** Nāśayati "destroys, removes" or nivartayati "causes to cease" used for removing error or falsity. Knowledge (jñāna, vidyā) common subject causing removal of error/ignorance.
+
+**Construction:** MEANS[instrumental] + ERROR[nom] + nivartate/naśyati
+**Example:** प्रमाणेन भ्रमः नश्यति (pramāṇena bhramaḥ naśyati)
+**Translation:** "through valid means, error is destroyed"
+**Naturalness:** [CORE]
+**Usage notes:** Passive/intransitive construction with instrumental means. Naśyati "is destroyed, perishes" or nivartate "ceases, is removed." Common in epistemological discourse about error-correction.
+
+### 6.2 Removal of ignorance (avidyā)
+
+**Construction:** AGENT[nom] + avidyām + nivartayati/nāśayati
+**Example:** ज्ञानम् अविद्यां नाशयति (jñānam avidyāṃ nāśayati)
+**Translation:** "knowledge destroys ignorance"
+**Naturalness:** [CORE]
+**Usage notes:** Standard soteriological construction. Jñāna/vidyā as subject destroying avidyā. Central to Vedāntic liberation doctrine. Nāśayati emphasizes complete destruction; nivartayati emphasizes cessation.
+
+**Construction:** MEANS[instrumental] + avidyā + nivartate/naśyati
+**Example:** विद्यया अविद्या नश्यति (vidyayā avidyā naśyati)
+**Translation:** "through knowledge, ignorance is destroyed"
+**Naturalness:** [CORE]
+**Usage notes:** Instrumental construction emphasizing means of removal. Passive/intransitive verb. Common formulation in Upaniṣadic and Vedāntic texts about path to liberation.
+
+**Construction:** avidyā-nivṛtti (compound nominalization)
+**Example:** अविद्यानिवृत्तौ मोक्षः (avidyānivṛttau mokṣaḥ)
+**Translation:** "upon cessation of ignorance, [there is] liberation"
+**Naturalness:** [CORE]
+**Usage notes:** Nominal compound avidyā-nivṛtti "cessation of ignorance" used in locative absolute constructions. Common in soteriological discourse linking ignorance-removal to liberation.
+
+---
+
+## 7. STABILITY AND PERSISTENCE
+
+### 7.1 Remaining/being established in truth (satya)
+
+**Construction:** AGENT[nom] + satye + tiṣṭhati/sthitaḥ
+**Example:** सः सत्ये तिष्ठति (saḥ satye tiṣṭhati)
+**Translation:** "he stands firm in truth" / "he remains established in truth"
+**Naturalness:** [CORE]
+**Usage notes:** Tiṣṭhati "stands, remains" with locative satye. Common in moral discourse for steadfast commitment to truth. Sthitaḥ (past participle) alternative for established state.
+
+**Construction:** AGENT[nom] + satyāt + na + calati/cyavate
+**Example:** सः सत्यात् न चलति (saḥ satyāt na calati)
+**Translation:** "he does not deviate from truth"
+**Naturalness:** [CORE]
+**Usage notes:** Ablative construction with negated motion verb. Calati "moves, deviates" or cyavate "falls from, departs." Common in prescriptive discourse about maintaining truthfulness.
+
+### 7.2 Remaining in dharma
+
+**Construction:** AGENT[nom] + dharme + tiṣṭhati/sthitaḥ
+**Example:** राजा धर्मे तिष्ठति (rājā dharme tiṣṭhati)
+**Translation:** "the king stands firm in dharma" / "the ruler remains righteous"
+**Naturalness:** [CORE]
+**Usage notes:** Parallel to satye tiṣṭhati. Common in political and ethical discourse for maintaining righteous conduct. Particularly used for rulers' duty to uphold dharma.
+
+**Construction:** AGENT[nom] + dharmāt + na + calati
+**Example:** धर्मात् न चलेत् (dharmāt na calet)
+**Translation:** "one should not deviate from dharma"
+**Naturalness:** [CORE]
+**Usage notes:** Optative construction expressing moral obligation. Common prescriptive formula in dharmaśāstra literature. Emphasizes steadfastness in righteous conduct.
+
+### 7.3 Persistence of truth/reality
+
+**Construction:** SUBJECT[nom] + satyam + eva + bhavati/asti
+**Example:** तत् सत्यम् एव भवति (tat satyam eva bhavati)
+**Translation:** "that alone is/remains true" / "that is truly real"
+**Naturalness:** [CORE]
+**Usage notes:** Emphatic particle eva stresses exclusive or persistent truth. Used for asserting enduring truth or ultimate reality. Common in philosophical discourse distinguishing permanent truth from temporary appearance.
+
+**Construction:** SUBJECT[nom] + nityam + satyam
+**Example:** ब्रह्म नित्यं सत्यम् (brahma nityaṃ satyam)
+**Translation:** "Brahman is eternally true/real"
+**Naturalness:** [CORE]
+**Usage notes:** Nityam "eternally, always" modifies satya to emphasize permanence. Common in Vedāntic discourse about eternal reality versus temporary phenomena. Contrasts with changing empirical world.
+
+---
+
+## 8. VERIFICATION AND CONFIRMATION
+
+### 8.1 Verifying/confirming truth
+
+**Construction:** AGENT[nom] + OBJECT[acc] + satyāpayati
+**Example:** अधिकारी तथ्यं सत्यापयति (adhikārī tathyaṃ satyāpayati)
+**Translation:** "the official verifies the facts"
+**Naturalness:** [CORE]
+**Usage notes:** Modern administrative term satyāpayati (satya + āpayati causative) "verifies, authenticates, confirms." Used in legal and bureaucratic contexts for official verification. Extension of classical vocabulary into modern usage.
+
+**Construction:** AGENT[nom] + OBJECT[acc] + pramāṇīkaroti
+**Example:** समितिः दस्तावेजं प्रमाणीकरोति (samitiḥ dastāvejaṃ pramāṇīkaroti)
+**Translation:** "the committee authenticates the document"
+**Naturalness:** [CORE]
+**Usage notes:** Modern term pramāṇīkaroti (pramāṇa + -ī- + karoti) "authenticates, certifies, validates." Used in administrative and legal contexts. Parallel formation to satyīkaroti.
+
+**Construction:** MEANS[instrumental] + OBJECT[nom] + satyam + sidhyati
+**Example:** प्रमाणेन तत् सत्यं सिध्यति (pramāṇena tat satyaṃ sidhyati)
+**Translation:** "through valid means, that is established as true"
+**Naturalness:** [CORE]
+**Usage notes:** Sidhyati "is established, is proven" with instrumental pramāṇa. Common in epistemological and legal discourse for establishing truth through evidence or proof.
+
+---
+
+## 9. TRANSFORMATION BETWEEN LEVELS OF TRUTH
+
+### 9.1 From conventional to ultimate perspective
+
+**Construction:** SUBJECT[nom] + vyavahāre + satyam + paramārthe + mithyā
+**Example:** जगत् व्यवहारे सत्यं परमार्थे मिथ्या (jagat vyavahāre satyaṃ paramārthe mithyā)
+**Translation:** "the world is true at the conventional level, false at the ultimate level"
+**Naturalness:** [CORE]
+**Usage notes:** Dual locative construction contrasting truth-status at different levels. Central to two-truths doctrine. Not strictly transformation but relativization of truth-value to analytical framework.
+
+**Construction:** SUBJECT[nom] + vyavahārataḥ + satyam + paramārthataḥ + mithyā
+**Example:** रूपं व्यवहारतः सत्यं परमार्थतः मिथ्या (rūpaṃ vyavahārataḥ satyaṃ paramārthataḥ mithyā)
+**Translation:** "form is true from the conventional standpoint, false from the ultimate standpoint"
+**Naturalness:** [CORE]
+**Usage notes:** Ablative construction marking perspective. Parallel to locative construction but emphasizes standpoint/viewpoint. Common in Madhyamaka and Advaita texts.
+
+### 9.2 Sublation (bādha)
+
+**Construction:** HIGHER-KNOWLEDGE[nom] + LOWER-KNOWLEDGE[acc] + bādhate
+**Example:** परमार्थज्ञानं व्यावहारिकं ज्ञानं बाधते (paramārthajñānaṃ vyāvahārikaṃ jñānaṃ bādhate)
+**Translation:** "ultimate knowledge sublates conventional knowledge"
+**Naturalness:** [CORE]
+**Usage notes:** Technical Vedāntic term bādhate "sublates, cancels, contradicts." Used for higher knowledge negating or superseding lower knowledge without completely destroying it. Central to Advaita epistemology.
+
+**Construction:** SUBJECT[nom] + bādhyate
+**Example:** व्यवहारः परमार्थेन बाध्यते (vyavahāraḥ paramārthena bādhyate)
+**Translation:** "conventional reality is sublated by ultimate reality"
+**Naturalness:** [CORE]
+**Usage notes:** Passive construction with instrumental agent. Bādhyate "is sublated, is cancelled." Common in discussions of how ultimate knowledge supersedes conventional understanding.
+
+---
+
+## 10. EXPRESSIONS NOT COMMONLY ATTESTED
+
+### 10.1 Direct causation of falsity
+
+**Construction:** AGENT[nom] + OBJECT[acc] + mithyā/asatyam + karoti
+**Translation:** "X makes Y false"
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** While grammatically possible, not commonly attested in corpus. Falsification typically expressed through:
+- Negation: na satyaṃ karoti "does not make true"
+- Deception verbs: vañcayati "deceives", bhramayati "causes to err"
+- Refutation: dūṣayati "refutes", khaṇḍayati "refutes, breaks"
+
+### 10.2 Causative of ṛta/anṛta
+
+**Construction:** AGENT[nom] + OBJECT[acc] + ṛtam/anṛtam + karoti
+**Translation:** "X makes Y ṛta/anṛta"
+**Naturalness:** [UNCERTAIN]
+**Usage notes:** Vedic terms ṛta/anṛta rarely appear in causative constructions. Cosmic order (ṛta) not typically subject to human causation. When causation discussed, expressed through dharma vocabulary instead.
+
+### 10.3 Becoming similar/dissimilar
+
+**Construction:** SUBJECT[nom] + OBJECT[dat/gen] + sadṛśam + bhavati
+**Example:** पुत्रः पित्रे सदृशं भवति (putraḥ pitre sadṛśaṃ bhavati)
+**Translation:** "the son becomes similar to the father"
+**Naturalness:** [CORE]
+**Usage notes:** Sadṛśa with dative or genitive of comparison. Common for describing acquisition of similarity. Not specifically truth-domain but uses sadṛśa from P1 vocabulary.
+
+---
+
+## SUMMARY OBSERVATIONS
+
+### High Productivity Patterns:
+
+1. **Bhavati constructions**: Highly productive for "becoming X" across all truth-domain terms (satyaṃ bhavati, mithyā bhavati, pramā bhavati, etc.)
+
+2. **Jāyate constructions**: Productive specifically for epistemic states (pramā jāyate, bhramaḥ jāyate), emphasizing origination
+
+3. **Instrumental causation**: Standard pattern for expressing epistemic means (pramāṇena, vidyayā, avidyayā + passive verb)
+
+4. **Karoti causatives**: Productive for fulfillment/verification (satyaṃ karoti, satyīkaroti) but not for causing falsity
+
+5. **Removal constructions**: Standard patterns with nāśayati/nivartayati for removing error/ignorance
+
+6. **Stability constructions**: Productive locative (satye tiṣṭhati) and ablative (satyāt na calati) patterns
+
+### Lexical Gaps:
+
+1. **No common causatives for falsity**: Direct causation of mithyā/asatya status not standardly expressed through simple causative constructions
+
+2. **Limited ṛta/anṛta dynamics**: Vedic terms show restricted participation in change/causation constructions
+
+3. **Asymmetry in causation**: Causing truth/knowledge well-attested; causing falsity/ignorance less standardly expressed
+
+### Semantic Patterns:
+
+1. **Knowledge as destroyer**: Jñāna/vidyā standardly appears as agent destroying avidyā/bhrama
+
+2. **Pramāṇa as means not agent**: Epistemic instruments expressed instrumentally, rarely as grammatical subjects
+
+3. **Two-truths relativization**: Truth-status relativized to analytical level rather than transformed
+
+4. **Verification vs. causation**: Modern administrative vocabulary (satyāpayati, pramāṇīkaroti) extends classical patterns into verification domain
+
+### Register Distribution:
+
+1. **Classical philosophical**: Pramā jāyate, bādhate, avidyā-nivṛtti constructions
+2. **Moral/prescriptive**: Satye tiṣṭhati, dharmāt na calet formulas
+3. **Modern administrative**: Satyāpayati, pramāṇīkaroti verification terms
+4. **Soteriological**: Vidyā-avidyā causation and removal constructions
+
+### Naturalness Ratings Summary:
+
+- [CORE]: 45+ constructions across all categories
+- [MARGINAL]: 3-4 constructions (jāyate with satya, janayati with pramā)
+- [UNCERTAIN]: 5-6 constructions (compound verbs, direct falsity causation, ṛta causatives)

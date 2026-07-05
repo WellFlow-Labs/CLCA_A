@@ -1,0 +1,145 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Tagalog (tl)
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Predicate-initial or topic-initial with **ay** | *Tama ang sagot mo.* "Your answer is correct." / *Ang balita ay totoo.* "The news is true." | Direct mapping; both word orders available | — |
+| **ADNOM** | Truth-domain term + linker **-ng/-na** + noun | *tunay na pagmamahal* "true love" / *tamang sagot* "correct answer" | Direct mapping | — |
+| **BECOME** | **Mag-ka-** + root (inchoative) | *Magkatotoo ang pangarap ko.* "My dream came true." / *Nagkamali ako.* "I made a mistake." | Direct mapping | — |
+| **REVELATION** | **MISSING (structural gap)** | — | No dedicated construction; meaning expressed through BECOME or periphrastic means | **MISSING (structural gap)** |
+| **CAUSATION (factual)** | **Pa-...-an** or **i-** causative | *Patunayan mo ang sinabi mo.* "Prove what you said." / *Itama mo ang pagkakamali.* "Correct the mistake." | Direct mapping; causative morphology marks "make X true/correct" | — |
+| **CAUSATION (character)** | **Mag-** + root (reciprocal/mutual with **-an**) | *Magtapatan na tayo.* "Let's be honest with each other." | Partial mapping; reciprocal construction used for mutual honesty/character contexts | Restricted to interpersonal honesty terms |
+| **VERIFICATION** | **Pa-...-an** causative (same as CAUSATION) | *Patunayan mo!* "Prove it!" / *Ano ang katunayan mo?* "What is your proof?" | **SUBSTITUTED BY CAUSATION (factual)**; no distinct verification construction | Merged with CAUSATION |
+| **DISCONFIRMATION** | **Hindi** + truth-domain term (analytic negation) | *Hindi totoo ang sinabi niya.* "What he/she said is not true." | **SUBSTITUTED BY NEGATION**; no distinct disconfirmation construction | Merged with NEGATION |
+| **NEGATION** | **Hindi** + predicate (analytic) / **Walang** + nominalization | *Hindi totoo ang sinabi niya.* "What he/she said is not true." / *Walang katotohanan ang balita.* "The news has no truth." | Direct mapping; two strategies available (predicate negation vs. existential negation) | — |
+| **NOMINALIZATION** | **Ka-...-an** circumfix (abstract) | *katotohanan* "truth" / *katapatan* "honesty" | Direct mapping | — |
+| **NOMINALIZATION (agentive)** | Limited/lexicalized forms only | *sinungaling* "liar" | **NO COMMON EXPRESSION** for truth-tellers; agentive pattern not productive | **Lexical gap** for positive agentive |
+
+## 2. Substitution Patterns (Narrative)
+
+### VERIFICATION → CAUSATION Merger
+Tagalog does not distinguish between causative constructions for making something true and constructions for verifying/proving truth. The **pa-...-an** causative pattern serves both functions:
+- *Patunayan mo ang sinabi mo.* can mean both "Make what you said verified" (causation) and "Prove what you said" (verification)
+- The nominalized form *katunayan* "proof, evidence" derives from the same root but functions specifically in the verification domain
+- This represents a systematic merger where verification is conceptualized as causation of truth-status
+
+### DISCONFIRMATION → NEGATION Merger
+There is no dedicated construction for disconfirmation distinct from simple negation. Disconfirming a claim uses the same structures as negating it:
+- **Hindi** + truth-domain predicate: *Hindi totoo ang sinabi niya.* "What he/she said is not true."
+- **Walang** + nominalization: *Walang katotohanan ang balita.* "The news has no truth."
+- The language does not grammatically distinguish between "X is not true" (negation) and "X has been shown to be false" (disconfirmation)
+
+### REVELATION Gap
+Tagalog lacks a dedicated construction for revelation (coming to know/discover truth). This semantic domain is expressed through:
+- BECOME constructions: *Magkatotoo ang pangarap ko.* "My dream came true" (achievement of truth-state)
+- Periphrastic expressions with knowledge verbs: *Nalaman ko ang katotohanan.* "I learned/discovered the truth" (using knowledge verb + nominalization)
+- The language does not grammaticalize the distinction between becoming true and being revealed as true
+
+### Asymmetry in Agentive Nominalization
+A striking asymmetry exists in agentive forms:
+- **Negative agentive exists**: *sinungaling* "liar" (lexicalized)
+- **Positive agentive missing**: No single-word equivalent for "truth-teller"; requires periphrasis (*taong nagsasabi ng totoo* "person who tells the truth")
+- This represents a lexical gap rather than a structural gap, as the morphological pattern for agentive nominalization is not productive in the truth domain
+
+### Reciprocal Construction Restrictions
+The **mag-...-an** reciprocal pattern shows semantic restrictions:
+- **Productive with character terms**: *Magtapatan na tayo.* "Let's be honest with each other." / *Magbulaan sila.* "They lie to each other."
+- **Not used with factual truth terms**: *totoo* "true" does not occur in this pattern
+- This suggests the reciprocal construction is specialized for interpersonal honesty/dishonesty rather than factual truth claims
+
+### Discourse Marker Grammaticalization
+Several truth-domain constructions have grammaticalized into discourse markers, shifting from truth-predication to epistemic/evidential functions:
+- *Sa totoo lang* "to be honest" (epistemic framing)
+- *Ang totoo* "the truth is / actually" (correction marker)
+- *Tama na* "that's enough" (sufficiency marker, semantic shift from correctness)
+- These represent functional extensions beyond the core truth-domain semantics
+
+### Negation Strategies
+Tagalog employs two distinct negation strategies with different pragmatic effects:
+- **Hindi** (predicate negation): Standard, neutral negation
+- **Walang** + nominalization (existential negation): Stronger, more categorical negation implying complete absence
+- Both are fully productive, but *walang* constructions carry additional emphatic force
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **REVELATION**: No dedicated construction for "come to be known as true" or "be revealed as true"
+   - Meaning expressed through BECOME constructions or periphrastic knowledge verbs
+   - The language does not grammaticalize the epistemic transition distinct from state transition
+
+2. **VERIFICATION (as distinct from CAUSATION)**: No separate construction for verification/proof distinct from causative
+   - VERIFICATION merged with CAUSATION (factual) through **pa-...-an** pattern
+   - Lexical specialization exists (*katunayan* "proof") but no distinct grammatical construction
+
+3. **DISCONFIRMATION (as distinct from NEGATION)**: No separate construction for showing something to be false
+   - DISCONFIRMATION merged with NEGATION
+   - Both use **hindi** or **walang** patterns without grammatical distinction
+
+### Lexical Gaps
+1. **Positive agentive nominalization**: No common single-word term for "truth-teller"
+   - *Sinungaling* "liar" exists as lexicalized form
+   - Positive equivalent requires periphrasis: *taong nagsasabi ng totoo* "person who tells the truth"
+   - Represents asymmetry favoring negative characterization
+
+### Conceptual Gaps
+None identified. All truth-domain concepts can be expressed, though some require periphrasis or substitution by related operators.
+
+### Asymmetric Gaps
+1. **Agentive nominalization asymmetry**:
+   - Negative form (liar): lexicalized single word
+   - Positive form (truth-teller): no single word, circumlocution required
+   - Pattern not productive for either polarity, but lexicalization favors negative
+
+2. **Reciprocal construction restriction**:
+   - Available for character/honesty terms (*tapat*, *bulaán*)
+   - Not available for factual truth terms (*totoo*)
+   - Represents semantic rather than structural restriction
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Both predicate-initial and topic-initial word orders; unrestricted productivity
+- **ADNOM**: Linker construction fully productive across all truth-domain terms
+- **BECOME**: **Mag-ka-** inchoative fully productive; regular aspect marking
+- **CAUSATION (factual)**: **Pa-...-an** and **i-** causatives fully productive
+- **NEGATION**: Both **hindi** (predicate negation) and **walang** (existential negation) fully productive
+- **NOMINALIZATION (abstract)**: **Ka-...-an** circumfix fully productive
+
+### Available with Substitution
+- **VERIFICATION**: Expressed through CAUSATION (factual) constructions
+  - No distinct grammatical marking
+  - Lexical specialization in *katunayan* "proof" but uses same morphology as abstract nominalization
+  
+- **DISCONFIRMATION**: Expressed through NEGATION constructions
+  - No distinct grammatical marking for evidential disconfirmation vs. simple negation
+  
+- **CAUSATION (character)**: Partially expressed through reciprocal **mag-...-an** construction
+  - Restricted to interpersonal honesty contexts
+  - Not available for factual truth domain
+
+### Partially Available
+- **NOMINALIZATION (agentive)**: 
+  - Negative form lexicalized (*sinungaling* "liar")
+  - Positive form requires periphrasis
+  - Pattern not productive
+
+### Missing Entirely
+- **REVELATION**: No dedicated construction
+  - Meaning expressed through BECOME or periphrastic knowledge verbs
+  - No grammaticalization of epistemic discovery distinct from state change
+
+---
+
+## Summary Statement
+
+Tagalog exhibits a relatively complete inventory of truth-domain constructions with three notable characteristics:
+
+1. **Merger patterns**: VERIFICATION merges with CAUSATION, and DISCONFIRMATION merges with NEGATION, suggesting the language does not grammatically distinguish evidential operations from their corresponding state-change or negation operations.
+
+2. **Structural gap**: REVELATION lacks a dedicated construction, with the semantic domain covered by BECOME constructions or lexical verbs of knowledge.
+
+3. **Asymmetric lexicalization**: Agentive nominalization shows a negative bias, with a lexicalized term for "liar" but no equivalent single-word term for "truth-teller."
+
+All other canonical operators are fully supported through productive morphological or syntactic patterns.

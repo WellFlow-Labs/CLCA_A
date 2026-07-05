@@ -1,0 +1,91 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicate-adjective with null copula or *-dır*; NP + [truth-domain adjective] (+ ∅ / *-dır*) | *Bu haber doğru.* / *İddia asılsız.* | Direct mapping; fully attested | None |
+| **ADNOM** | Pre-nominal adjective + head noun (head-final); modifier invariant, inflection on head | *Sahte belgeyle yakalandı.* / *Güvenilir bir kaynaktan aldım.* | Direct mapping; fully attested | None |
+| **BECOME** | (a) Morphological: [adjective] + *-leş-* + tense; (b) Periphrastic: [adjective] + *olmak* | *Hareket zamanla meşrulaştı.* / *geçerli olmak* | Direct mapping; both strategies attested | None |
+| **REVELATION** | No construction identified in P4a or P4b | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | (a) Morphological: [adjective] + *-leş-tir-* + infinitive; (b) Periphrastic: [adjective] + *kılmak*; (c) Factitive: [noun] + *-la-* + *-mak* | *Şiddeti meşrulaştırmak mümkün değil.* / *Bu durum müdahaleyi haklı kılar.* / *İddiayı kanıtlamak güçtür.* | Direct mapping; multiple strategies attested; *kılmak* form is [MARGINAL] (formal register only) | None (register restriction on one sub-strategy) |
+| **CAUSATION (character)** | No construction identified in P4a or P4b | — | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | Factitive verbalization: [noun] + *-la-* + *-mak* with passive and potential stacking | *İddiayı kanıtlamak güçtür.* / *doğrulamak*, *kanıtlamak*, *ispatlamak* | Direct mapping via factitive verbalization; passive (*doğrulanabilir*) and potential (*kanıtlanmış*) forms also attested | None |
+| **DISCONFIRMATION** | Factitive verbalization: *yanlışlamak* ([noun/adjective] + *-la-* + *-mak*) | *Hipotezi yanlışlamak mümkün olmalıdır.* | Direct mapping via same factitive construction as VERIFICATION; [MARGINAL] — register-restricted (academic/philosophical) | Lexical gap in everyday register |
+| **NEGATION** | Analytic: NP + [truth-domain adjective] + *değil* | *Bu belge gerçek değil.* / *İddia doğru değil.* | Direct mapping; analytic strategy only in predicate slot; morphological privatives (*asılsız*, *geçersiz*) are lexical items, not a productive negation construction | None |
+| **NOMINALIZATION** | (a) Property: [adjective] + *-lık/-lik/-luk/-lük*; (b) Process: [verb stem] + *-ma/-me*; (c) Agentive (deceptive side): [base] + *-ci/-çi* | *Dürüstlük her zaman ödüllendirilmez.* / *Kimlik doğrulama zorunludur.* / *Sahteci mahkemede yargılandı.* | Direct mapping for property and process nominalization; agentive nominalization is asymmetric (deceptive side lexicalized, truth-telling side periphrastic only) | Asymmetric gap (agentive) |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION vs. BECOME
+
+No REVELATION construction is identified in P4a or P4b. The data contain no construction expressing the pattern "X turned out to be true" or "it was revealed/discovered that X" as a distinct grammatical operator. The BECOME operator is fully attested through two strategies (*-leş-* morphological and *olmak* periphrastic), but these express a change-of-state reading, not a discovery or revelation reading. No substitution of REVELATION by BECOME is documented in the data; the REVELATION slot is simply absent from the attested inventory.
+
+### 2.2 VERIFICATION and DISCONFIRMATION sharing a construction
+
+Both VERIFICATION and DISCONFIRMATION are expressed through the same factitive verbalization construction: [truth-domain noun or adjective] + *-la-/-le-* + *-mak*. The examples *doğrulamak* (to verify) and *yanlışlamak* (to falsify/disconfirm) are morphologically parallel and syntactically identical. The construction is therefore shared. The asymmetry between them is not constructional but lexical and register-based: *doğrulamak*, *kanıtlamak*, and *ispatlamak* are in common use across registers, while *yanlışlamak* in the Popperian sense is restricted to academic and philosophical registers and is rated [MARGINAL] in P4b. The construction itself is the same; the restriction is on the specific lexical item *yanlışlamak*, not on the construction type.
+
+### 2.3 NEGATION: analytic vs. morphological
+
+NEGATION in the predicate slot is exclusively analytic: the invariant particle *değil* follows the predicate adjective. No morphological negation construction operates in the predicate slot. Morphological privative forms (*asılsız*, *geçersiz*, *kanıtsız*) exist but are documented in P4a and P4b as lexicalized items that occupy the ATTR and ADNOM slots directly, not as a productive negation construction alternating with *değil*. The negation operator is therefore fully analytic in its constructional behavior.
+
+### 2.4 Asymmetry in agentive nominalization
+
+A consistent asymmetry is documented in P4a and P4b: agentive nouns are lexicalized on the deceptive or negative side of the truth domain (*sahteci*, *taklitçi*, *sahtekâr*), while the truth-telling or verifying side has no lexicalized agentive noun in common use. The concept "one who tells the truth" is expressed through participial relative clauses (*doğruyu söyleyen biri*) or through character-evaluation adjectives (*dürüst biri*). This asymmetry is explicitly noted in P4a as a documented feature of the domain. The agentive nominalization construction itself is available; the gap is in the lexicalization of a specific semantic role on the positive side.
+
+### 2.5 CAUSATION (factual): three overlapping strategies
+
+Three strategies cover the CAUSATION (factual) slot, and they are not fully interchangeable. The morphological *-leş-tir-* form is available only where *-leş-* is already conventionalized on the base. The periphrastic *kılmak* form covers formal registers where morphological causative is unavailable or stylistically inappropriate. The factitive *-la-* verbalization covers cases where the base is a noun rather than an adjective. P4a notes these as related but distinct patterns; P4b rates the *kılmak* construction as [MARGINAL] due to its restriction to formal and literary registers. No single construction covers the full CAUSATION (factual) range.
+
+### 2.6 CAUSATION (character): absent
+
+No construction expressing "X makes someone honest/truthful" or "X causes a person to acquire a truth-related character property" is identified in P4a or P4b. The CAUSATION (factual) constructions documented apply to propositions, documents, actions, and states, not to the induction of character traits. This is a structural gap, not a lexical one: no construction type for this operator is described.
+
+### 2.7 Positive vs. negative form asymmetries
+
+Beyond the agentive asymmetry noted above, the data show that privative adjectives (*asılsız*, *geçersiz*, *kanıtsız*) are lexicalized items occupying ATTR and ADNOM slots, while their positive counterparts (*asıllı*, *geçerli*, *kanıtlı*) may or may not be equally frequent or lexicalized. P4a does not document this as a systematic asymmetry, so no further claim is made here. The correspondence postpositional construction (Construction 9) shows a symmetric pair: *gerçeğe aykırı* (contrary to fact) and *gerçeğe uygun* (conforming to fact) are both attested as fixed legal phrases.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **REVELATION**: No construction expressing "X turned out to be true / it was revealed that X" is identified in P4a or P4b. The slot is absent from the attested inventory. **MISSING (structural gap).**
+- **CAUSATION (character)**: No construction expressing "X causes a person to become honest/truthful" or "X instills a truth-related character property" is identified in P4a or P4b. **MISSING (structural gap).**
+
+### 3.2 Lexical Gaps
+
+- **DISCONFIRMATION in everyday register**: The construction for DISCONFIRMATION (*yanlışlamak*) is grammatical and morphologically regular, but the specific lexical item is restricted to academic and philosophical registers. In everyday speech, disconfirmation of a claim would require circumlocution or a different expression not documented in P4a. This is a lexical gap in the everyday register, not a structural gap in the construction.
+- **Agentive noun for truth-teller/verifier**: No lexicalized agentive noun meaning "one who tells the truth" or "verifier" as a personal title is in common use. The construction type (agentive *-ci*) is available; the specific lexical item is absent. This is a lexical gap, not a morphosyntactic one.
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the P4a and P4b data alone. All documented absences can be described as structural or lexical gaps without invoking conceptual unavailability.
+
+### 3.4 Asymmetric Gaps
+
+- **Agentive nominalization**: Deceptive-side agentive nouns are lexicalized (*sahteci*, *taklitçi*, *sahtekâr*); truth-telling-side agentive nouns are not lexicalized in common use. The positive agentive slot is expressed periphrastically. **Asymmetric gap: positive (truth-telling) agentive form absent as a lexicalized item.**
+- **CAUSATION (factual) register restriction**: The *kılmak* periphrastic causative is available only in formal registers; the morphological *-leş-tir-* causative is available only where *-leş-* is conventionalized. Neither strategy covers the full range of bases across all registers. This is a partial asymmetry in coverage, not a total gap.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Null-copula and *-dır* variants; both [CORE]; no restrictions within the truth domain. |
+| **ADNOM** | **Fully available** | Pre-nominal invariant modifier; [CORE]; fully productive across all truth-domain adjectives documented in P4a. |
+| **BECOME** | **Fully available** | Two strategies: morphological *-leş-* and periphrastic *olmak*; both [CORE]; coverage is complete across the truth domain through the combination of the two strategies. |
+| **REVELATION** | **Missing entirely** | No construction identified in P4a or P4b. Structural gap. |
+| **CAUSATION (factual)** | **Fully available** | Three overlapping strategies (*-leş-tir-*, *kılmak*, *-la-*); combined coverage is complete; *kılmak* is register-restricted ([MARGINAL]) but the operator is not absent. |
+| **CAUSATION (character)** | **Missing entirely** | No construction identified in P4a or P4b. Structural gap. |
+| **VERIFICATION** | **Fully available** | Factitive verbalization (*doğrulamak*, *kanıtlamak*, *ispatlamak*); [CORE]; passive and potential stacking attested. |
+| **DISCONFIRMATION** | **Partially available** | Same construction as VERIFICATION (*yanlışlamak*); grammatical and morphologically regular; [MARGINAL] due to register restriction of the primary lexical item to academic/philosophical use. Lexical gap in everyday register. |
+| **NEGATION** | **Fully available** | Analytic *değil* construction; [CORE]; sole strategy in predicate slot; fully productive. |
+| **NOMINALIZATION** | **Available with substitution** | Property nominalization (*-lık*) and process nominalization (*-ma*) are fully available [CORE]; agentive nominalization is asymmetric — deceptive-side forms are lexicalized, truth-telling-side agentive is expressed periphrastically (participial relative clause). The nominalization operator is available but with a documented asymmetric lexical gap on the positive agentive side. |

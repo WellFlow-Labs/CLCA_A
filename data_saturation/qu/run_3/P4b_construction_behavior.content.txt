@@ -1,0 +1,105 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Predicate-nominal / predicate-adjectival with *-mi/-m* | `Cheqam kay.` | cheqa-m kay | "This is true." | [CORE] | Standard assertive construction across all registers; the direct evidential clitic *-mi/-m* is obligatory in assertive contexts. No copula is used. |
+| Predicate-nominal / predicate-adjectival with *-mi/-m* | `Llullam chay.` | llulla-m chay | "That is a lie / That is false." | [CORE] | Same pattern as above; attested for *cheqa*, *cheqaq*, *llulla*, *chiqan*, *allin*, *sut'i*, and *kikin*. No restriction on predicate position relative to subject. |
+
+**Attested alternate constructions:** None documented beyond the forms listed in P4a for this construction type.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *Mana* + predicate + *-chu* | `Mana cheqachu.` | mana cheqa-chu | "It is not true. / That is not the case." | [CORE] | Standard negation pattern in Southern Quechua; applies to truth-domain predicates without any special construction. The evidential clitic may be absent. |
+| *Mana* + predicate + *-mi* + *-chu* | `Mana chiqanmi chay ruway.` | mana chiqan-mi chay ruway | "That action is not right/just." | [CORE] | Same *mana … -chu* frame; here *-mi* attaches to the predicate rather than to *mana*. Both placements of the evidential are attested; no restriction documented between them. |
+
+**Attested alternate constructions:** Evidential clitic may attach to *mana* rather than to the predicate; both are noted in P4a as attested options.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| [truth-domain adjective] + [head noun], modifier-head order | `Cheqaq runám pay.` | cheqaq runa-m pay | "He/she is an honest person." | [CORE] | Prenominal, uninflected modifier; the evidential clitic attaches to the predicate of the larger clause, not to the modifier within the NP. Fully productive pattern. |
+| [truth-domain adjective] + [head noun], modifier-head order | `Llulla qelqam chay.` | llulla qelqa-m chay | "That is a false document / forged writing." | [CORE] | Same prenominal pattern; *llulla* functions as modifier without agreement morphology. The same forms serve as both standalone predicates (§1) and prenominal modifiers; clause structure distinguishes the two uses. |
+
+**Attested alternate constructions:** None documented beyond the forms listed in P4a for this construction type.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| [truth-domain adjective] + *tukuy* | `Chiqan tukun.` | chiqan tuku-n | "He/she/it becomes correct / becomes just." | [UNCERTAIN] | Structurally regular following the general *[adjective] + tukuy* pattern; limited specific attestation for truth-domain items. Tense and person inflection carried by *tukuy*. |
+| [truth-domain adjective] + *tukuy* | `Cheqaq tukun.` | cheqaq tuku-n | "He/she becomes truthful / turns out to be genuine." | [UNCERTAIN] | Same pattern and same caveat as above; both examples flagged as uncertain in prior steps due to limited specific attestation, not structural irregularity. |
+
+**Attested alternate constructions:** None documented for truth-domain items beyond the forms listed in P4a.
+
+---
+
+## 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Morphological causative: root + *-chay/-chiy* | `Kay pantasqata chiqanchay tiyan.` | kay pantasqa-ta chiqancha-y tiyan | "This mistake needs to be corrected." | [CORE] | Productive morphological pattern; *-chay/-chiy* applies directly to the adjectival/nominal root to produce a transitive verb. Attested for *cheqaqchay*, *chiqanchay*, and *llullachiy*. |
+| Morphological causative: root + *-chay/-chiy* | `Llullachirqan payta.` | llullachiqa-n pay-ta | "He/she deceived him/her / caused him/her to believe a lie." | [CORE] | Same morphological strategy; *llullachiy* is the most specifically attested form among truth-domain causatives. Periphrastic causative is noted in P4a but not separately documented for truth-domain items beyond *llullachiy*. |
+
+**Attested alternate constructions:** Periphrastic causative with *-chiy* on a verbal stem is noted in P4a as a general Quechua strategy but is not separately documented for truth-domain items beyond *llullachiy*.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Bare root used as nominal + bare infinitive nominalization | `Cheqaqta rimay allinmi.` | cheqaqta rimay allin-mi | "Speaking the truth is good." | [CORE] | Bare infinitive nominalization; *cheqaqta* functions adverbially/nominally here. Quechua has no single abstract-nominalization suffix parallel to English *-ness*; bare root use is the primary strategy for abstract meanings. |
+| *-sqa* + possessive + case (nominalized clause) | `Llullakusqanmantam p'enqakun.` | llullakusqa-n-manta-m p'enqa-ku-n | "He/she is ashamed of having lied." | [CORE] | Productive strategy for nominalizing events or states as clause arguments; *-sqa* plus possessive suffix plus case marker. Attested in a wide range of clause-argument contexts, not restricted to truth-domain vocabulary. |
+
+**Attested alternate constructions:** P4a documents two strategies (bare root nominal; *-sqa* + possessive + case); no additional strategies are documented for truth-domain items.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Adjectival root + *-q* (*llullaq*) | `Llullaqtam ama iñiychu.` | llullaq-ta-m ama iñiy-chu | "Do not believe a liar." | [CORE] | Agentive nominal derived directly from the adjectival root; attested in everyday and moral-injunctive contexts. *Llullaq* and *llullakuq* are near-synonymous; the former derives from the adjectival root. |
+| Possessive-agentive: stem + *-niyuq* (*cheqaqniyuq*) | `Cheqaqniyuqmi pay.` | cheqaqniyuq-mi pay | "He/she is a person of truthfulness / one who possesses honesty." | [MARGINAL] | The *-niyuq* ("possessing") form is the attested pattern for "truthful person" rather than a bare *cheqaq + -q* form; this suggests the bare agentive *-q* is not freely applicable to all truth-domain roots. Restricted to this specific lexicalized form in available sources. |
+
+**Attested alternate constructions:** *Llullakuq* (from verbal stem *llullakuy* + *-q*) is noted in P4a as near-synonymous with *llullaq* and attested alongside it; no alternate is documented for *cheqaqniyuq*.
+
+---
+
+## 8. ADVERBIAL TRUTH ASSERTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *Cheqaqta* (accusative/adverbial *-ta*) + verb | `Cheqaqta rimay.` | cheqaqta rimay | "Speak the truth." | [CORE] | Pre-verbal adverb modifying verbs of speaking, knowing, or reporting; attested in testimonial and legal discourse. No parallel construction is documented for *llulla* in P4a. |
+| *Cheqaqtam* (*cheqaqta* + direct evidential *-mi*) + verb | `Cheqaqtam yachani.` | cheqaqta-m yacha-ni | "I truly know. / I know for certain." | [CORE] | Addition of direct evidential *-mi* to the adverbial form adds the speaker's epistemic commitment; widely attested in testimonial contexts. Restricted to *cheqaq*; no parallel in the *llulla* paradigm is documented. |
+
+**Attested alternate constructions:** None documented beyond the two forms listed in P4a for this construction type.
+
+---
+
+## 9. PROHIBITIVE MORAL INJUNCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *Ama* + nominal form (no *-chu*) — triadic formula | `Ama llulla, ama suwa, ama qella.` | ama llulla, ama suwa, ama qella | "Do not lie, do not steal, do not be lazy." | [CORE] | Fixed formulaic expression; widely attested across Andean cultural and educational contexts. The nominal form omits *-chu*; this is a feature of the triadic formula specifically. |
+| *Ama* + verbal form + *-chu* | `Ama llullakuychu.` | ama llullakuy-chu | "Do not lie." | [CORE] | Fuller verbal prohibitive; *-chu* is required with the verbal stem. Attested exclusively with *llulla* and *llullakuy* among truth-domain items; no parallel prohibitive is documented for *cheqa*, *chiqan*, or *allin* in available sources. |
+
+**Attested alternate constructions:** The nominal form (without *-chu*) and the verbal form (with *-chu*) are both attested and documented in P4a as distinct variants of the same prohibitive pattern; no further alternates are documented.
+
+---
+
+*End of P4b Construction Usage & Constraints — Quechua (qu)*

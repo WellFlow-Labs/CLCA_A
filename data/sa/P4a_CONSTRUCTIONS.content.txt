@@ -1,0 +1,215 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Sanskrit (sa)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Copular construction: NOUN[nom] + ADJ/NOUN[nom] + bhavati/asti ("is")
+Alternative: Predicative adjective without copula in nominal sentences
+
+### Examples
+- सत्यं भवति (satyaṃ bhavati) → "is true"
+- मिथ्या भवति (mithyā bhavati) → "is false/illusory"
+
+### Notes
+Sanskrit uses copular verb bhavati or asti for explicit predication, but frequently omits copula in present tense nominal sentences. Predicative adjectives agree in gender/number with subject.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Copular construction with negation: NOUN[nom] + na + ADJ/NOUN[nom] + bhavati/asti
+Alternative: Negative prefix a-/an- on adjective
+
+### Examples
+- सत्यं न भवति (satyaṃ na bhavati) → "is not true"
+- असत्यं भवति (asatyaṃ bhavati) → "is untrue/false"
+
+### Notes
+Sanskrit employs both syntactic negation (na + verb) and morphological negation (a-/an- prefix). The prefixed forms (asatya, ayathārtha) function as independent lexical items rather than purely compositional negations.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Compound formation (tatpuruṣa, bahuvrīhi): ADJ + NOUN or NOUN + NOUN
+Genitive construction: NOUN[gen] + NOUN[nom]
+
+### Examples
+- सत्यवचनम् (satyavacanam) → "true statement" (tatpuruṣa compound)
+- सत्यस्य वचनम् (satyasya vacanam) → "utterance of truth" (genitive)
+
+### Notes
+Sanskrit strongly prefers nominal compounding over phrasal modification. Compounds are highly productive in the truth domain (satyavādin "truth-speaker", mithyājñāna "false knowledge"). Genitive constructions provide analytical alternative.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Verb bhū (bhavati) "become" + predicative adjective/noun
+Alternative: Verb jāyate "arise, be produced" for cognitive states
+
+### Examples
+- मिथ्या भवति (mithyā bhavati) → "becomes false/illusory"
+- प्रमा जायते (pramā jāyate) → "valid knowledge arises"
+
+### Notes
+The verb bhū serves both copular ("is") and inchoative ("becomes") functions. For epistemic states, jāyate emphasizes genesis or production of cognition. Context disambiguates stative versus inchoative reading.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+(no common expression identified)
+
+### Examples
+(no common expression identified)
+
+### Notes
+Sanskrit possesses productive causative morphology (NIC suffix), but truth-domain terms rarely appear in causative constructions. Causation of epistemic states typically expressed through instrumental case (pramāṇena jñāyate "is known by means of pramāṇa") rather than causative verbs.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Suffix -tā (feminine) or -tva (neuter) added to adjective/noun base
+
+### Examples
+- सत्यता (satyatā) → "truthfulness, truth, reality"
+- मिथ्यात्व (mithyātva) → "falsity, illusoriness"
+
+### Notes
+The suffixes -tā and -tva are highly productive for forming abstract nouns across the truth domain. Distribution shows some lexical preferences (satyatā more common than satyatva), but both suffixes remain productive. These abstracts denote qualities, states, or properties.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Suffix -in (masculine) or compound with agent noun (vādin, jña, etc.)
+
+### Examples
+- सत्यवादिन् (satyavādin) → "truth-speaker, truthful person"
+- मिथ्यावादिन् (mithyāvādin) → "liar, one who speaks falsely"
+
+### Notes
+Agent nouns formed through -in suffix or compounds with vādin "speaker" (from √vad), jña "knower" (from √jñā), or other agent bases. Highly productive pattern for characterizing persons by epistemic or moral relationship to truth.
+
+---
+
+## 8. INSTRUMENTAL MEANS CONSTRUCTION
+
+### Pattern
+NOUN[instrumental] + VERB (typically jñāyate "is known")
+
+### Examples
+- प्रमाणेन ज्ञायते (pramāṇena jñāyate) → "is known through valid means"
+- प्रत्यक्षेण ज्ञायते (pratyakṣeṇa jñāyate) → "is known by perception"
+
+### Notes
+Instrumental case highly productive for expressing epistemic means or manner. Standard construction in epistemological discourse for specifying how knowledge is acquired. Extends to causal expressions (avidyayā "through ignorance").
+
+---
+
+## 9. ABLATIVE STANDPOINT CONSTRUCTION
+
+### Pattern
+NOUN + suffix -taḥ (ablative) indicating perspective or basis
+
+### Examples
+- परमार्थतः (paramārthataḥ) → "from the ultimate standpoint, ultimately"
+- व्यवहारतः (vyavahārataḥ) → "from the conventional standpoint, practically"
+
+### Notes
+Specialized construction using ablative suffix -taḥ to mark epistemic or metaphysical perspective. Particularly productive in two-truths framework distinguishing conventional (vyavahāra) from ultimate (paramārtha) levels of analysis.
+
+---
+
+## 10. LOCATIVE DOMAIN CONSTRUCTION
+
+### Pattern
+NOUN[locative] indicating level, domain, or circumstance
+
+### Examples
+- व्यवहारे सत्यम् (vyavahāre satyam) → "true at the conventional level"
+- परमार्थे सत्यम् (paramārthe satyam) → "true at the ultimate level"
+
+### Notes
+Locative case marks domain or level of truth-evaluation. Central to two-truths doctrine where same proposition may be evaluated differently at conventional versus ultimate levels. Also used for circumstantial contexts (bhrame sati "when error exists").
+
+---
+
+## 11. IMPERATIVE EXHORTATION
+
+### Pattern
+NOUN[accusative] + VERB[imperative]
+
+### Examples
+- सत्यं वद (satyaṃ vada) → "speak truth!"
+- धर्मं चर (dharmaṃ cara) → "practice dharma!"
+
+### Notes
+Direct imperative construction common in moral and religious instruction. Accusative object + imperative verb. Often appears in gnomic or prescriptive contexts (Upaniṣadic injunctions, dharmaśāstra rules).
+
+---
+
+## 12. OPTATIVE OBLIGATION
+
+### Pattern
+NOUN[accusative] + VERB[optative] expressing moral obligation
+
+### Examples
+- सत्यं ब्रूयात् (satyaṃ brūyāt) → "one should speak truth"
+- असत्यं न वक्तव्यम् (asatyaṃ na vaktavyam) → "falsehood should not be spoken"
+
+### Notes
+Optative mood expresses moral obligation or prescription. Alternative construction uses gerundive (vaktavya "to be spoken") for deontic modality. Both patterns frequent in ethical and legal discourse.
+
+---
+
+## 13. DUAL CONTRAST CONSTRUCTION
+
+### Pattern
+NOUN₁ + NOUN₂ in dual genitive/locative expressing binary opposition
+
+### Examples
+- सत्यासत्ययोः (satyāsatyayoḥ) → "of truth and falsehood"
+- व्यवहारपरमार्थयोः (vyavahāraparamārthayoḥ) → "of conventional and ultimate [truth]"
+
+### Notes
+Dual number construction highly productive for expressing fundamental binary oppositions in truth domain. Genitive dual common for "between X and Y" contexts. Reflects philosophical emphasis on paired contrasts (truth/falsity, knowledge/ignorance, appearance/reality).
+
+---
+
+## 14. INTERROGATIVE CHALLENGE
+
+### Pattern
+Interrogative pronoun + NOUN[nominative] (kim + NOUN)
+
+### Examples
+- किं प्रमाणम् (kiṃ pramāṇam) → "what is the proof?"
+- को धर्मः (ko dharmaḥ) → "what is dharma?"
+
+### Notes
+Interrogative construction standard in philosophical debate for challenging epistemic warrant or ethical determination. Kim "what" for neuter nouns, kaḥ "who/what" for masculine. Functions as demand for justification or clarification.
+
+---
+
+## 15. EMPHATIC AFFIRMATION
+
+### Pattern
+NOUN + eva (emphatic particle) + VERB
+
+### Examples
+- सत्यमेव जयते (satyam eva jayate) → "truth alone conquers"
+- मिथ्यैव (mithyaiva) → "merely false, only illusory"
+
+### Notes
+Particle eva provides emphatic or exclusive force ("alone, only, indeed"). Highly productive with truth-domain terms for strong assertions. Can combine with copula (mithyaiva bhavati) or stand independently as predicate.

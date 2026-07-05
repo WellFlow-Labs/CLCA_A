@@ -1,0 +1,373 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Chinese encodes dynamic truth-related meanings: processes by which something comes to be true/genuine/accurate, processes by which something ceases to be so, and causative structures that bring about or undermine truth-related states. All vocabulary is drawn exclusively from the CONTEXT (P1–P5 and I1). Where a dynamic expression is not attested for a given term, this is stated explicitly. Absence is preserved as data.
+
+The analysis is organized by semantic type (becoming, ceasing, causing, resisting change) rather than by individual lexical item, since many items participate in more than one dynamic type. Cross-references to P4a/P4b constructions are provided where relevant.
+
+---
+
+## Section 1: Expressions of Becoming — X Enters a Truth-Related State
+
+### 1.1 真相大白 — The truth comes to light (inchoative: hidden truth becomes known)
+
+**Form:** 真相大白
+**Transliteration:** zhēnxiàng dàbái
+**Literal Breakdown:** true-state-of-affairs + become-fully-clear
+**English Translation:** The truth has come to light; the facts are now clear.
+**Structure:** 真相 (subject) + 大白 (resultative predicate: become fully clear/revealed)
+**Source:** P2b Construction 39; P4a Construction 9
+**Usage Notes:** This is the primary lexicalized inchoative in the domain. 大白 functions as a resultative complement expressing the transition from a state of concealment to a state of full revelation. The subject is always 真相; no parallel construction is attested with 事实 or 真实 as subject. The construction describes a change of state in the epistemic availability of truth, not in truth itself.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.2 弄假成真 — Pretense becomes real (inchoative: false state transitions to genuine)
+
+**Form:** 弄假成真
+**Transliteration:** nòng jiǎ chéng zhēn
+**Literal Breakdown:** play-with/manipulate + false + become + true/genuine
+**English Translation:** What started as a pretense becomes real; fiction becomes fact.
+**Structure:** 弄假 (manipulate the false) + 成真 (become genuine); 成 is the inchoative marker
+**Source:** P1b Root 3a #11; P2b Construction 11; P4a Construction 4; P5 Opposition 25
+**Usage Notes:** The verb 成 encodes the transition from one state (假) to another (真). This is a lexicalized inchoative expressing an unintended or emergent process rather than a deliberate act. The construction is not decomposable as a productive open pattern; it is a fixed four-character expression. No productive morphological inchoative exists for the 假→真 transition.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.3 假戏真做 — Fiction enacted as real (inchoative-performative: pretense is performed as genuine)
+
+**Form:** 假戏真做
+**Transliteration:** jiǎ xì zhēn zuò
+**Literal Breakdown:** false + drama/role + true/genuine + do/perform
+**English Translation:** To play a fake role as if it were real; to act out a fiction as though it were genuine.
+**Structure:** 假戏 (false drama) + 真做 (do/perform genuinely); 真 functions as an adverbial modifier on 做, indicating the manner of performance
+**Source:** P2b Construction 6; P4a Construction 4
+**Usage Notes:** Distinct from 弄假成真 in that the performative frame is maintained even as the execution becomes genuine. The transition here is in the mode of performance rather than in the ontological status of the thing itself. Also a fixed four-character expression; not a productive open construction.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.4 变得 + truth-domain adjective — Gradual becoming (periphrastic inchoative)
+
+**Form:** 变得 + [准确 / 可靠 / 客观 / 真实]
+**Transliteration:** biàn de + [zhǔnquè / kěkào / kèguān / zhēnshí]
+**English Translation:** to become [more accurate / more reliable / more objective / more truthful]
+**Structure:** 变得 (become, change to) + gradable truth-domain adjective
+**Source:** P4a Construction 4; P4b
+**Usage Notes:** The periphrastic inchoative 变得 applies to gradable truth-domain adjectives. It is semantically natural with 准确 (accuracy can increase), 可靠 (reliability can improve), 客观 (objectivity can be cultivated), and 真实 (a representation can become more faithful). It is semantically odd with categorical 真/假, which do not readily admit of becoming in standard usage — one does not normally say 变得真 or 变得假 of an object or claim. The construction is productive but not restricted to this domain.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.5 落实 — Plans/commitments become concrete (inchoative: nominal becomes actual)
+
+**Form:** 落实
+**Transliteration:** luòshí
+**Literal Breakdown:** fall/land + solid/real
+**English Translation:** to be implemented, to be put into effect, to follow through
+**Structure:** Verb; the 实 component encodes the transition from a planned or nominal state to an actual, concrete one
+**Source:** P1b Root 2 #16; P3 (ungrouped items)
+**Usage Notes:** 落实 encodes a specific type of becoming: the transition from a plan, policy, or commitment that exists only nominally to one that is concretely realized. The contrast is not with falsity but with unexecuted plans. Common in administrative and political discourse: 政策落实了 (the policy has been implemented). This is a domain-specific inchoative for the 实 root in its administrative register.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.6 实现 — Goals/potentials become actual (inchoative: potential becomes real)
+
+**Form:** 实现
+**Transliteration:** shíxiàn
+**Literal Breakdown:** solid/real + appear/manifest
+**English Translation:** to realize, to achieve, to actualize
+**Structure:** Verb; encodes the transition from potential or planned to actual
+**Source:** P1b Root 2 #4
+**Usage Notes:** 实现 encodes the becoming-actual of something previously only potential or planned: 梦想实现了 (the dream has been realized). The 实 component contributes the sense of becoming concretely real. Distinct from 落实 in that 实现 applies to goals and aspirations, while 落实 applies to policies and commitments. Both encode a transition from nominal/potential to actual.
+**Epistemic Status:** [CORE]
+
+---
+
+### 1.7 属实 — A claim becomes confirmed as true (inchoative: unverified becomes verified)
+
+**Form:** 经查属实 / 情况属实
+**Transliteration:** jīng chá shǔshí / qíngkuàng shǔshí
+**Literal Breakdown:** after investigation + belong-to/be + real; situation + belong-to/be + real
+**English Translation:** verified upon investigation; the situation is confirmed as true
+**Structure:** 属实 functions as a resultative predicate; 经查 (after investigation) introduces the process that produces the result
+**Source:** P1b Root 2 #23; P3 Group 2
+**Usage Notes:** 属实 describes the outcome of a verification process: a claim transitions from unverified to confirmed-as-true. The construction 经查属实 makes the process explicit. This is a formal/legal inchoative expressing the epistemic transition from uncertain to verified. No parallel construction for the opposite transition (verified → disconfirmed) is attested in the CONTEXT using 属实.
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 2: Expressions of Ceasing — X Exits a Truth-Related State
+
+### 2.1 失真 — A representation loses fidelity (privative: genuine becomes distorted)
+
+**Form:** 失真 / 报道失真 / 信号失真
+**Transliteration:** shīzhēn / bàodào shīzhēn / xìnhào shīzhēn
+**Literal Breakdown:** lose + true/genuine
+**English Translation:** to become distorted; the report becomes inaccurate; the signal becomes distorted
+**Structure:** 失 (lose, privative prefix-like element) + 真 (genuine/true); the compound encodes the loss of a truth-related property
+**Source:** P1 #17; P2b Constructions 59–61; P4a; P5 Oppositions 30–31
+**Usage Notes:** 失真 is the primary privative expression in the domain, encoding the transition from a state of fidelity to a state of distortion. It applies to representations (reports, accounts), signals (audio, image), and depictions. The subject undergoes the change: 报道失真 (the report has become distorted), 信号失真 (the signal has become distorted). The process may be gradual (measured by 失真度) or abrupt. No agentive subject is required; the construction is compatible with both agentless and agentive readings.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.2 失实 — A report loses factual correspondence (privative: accurate becomes inaccurate)
+
+**Form:** 失实 / 报道失实 / 内容失实 / 严重失实
+**Transliteration:** shīshí / bàodào shīshí / nèiróng shīshí / yánzhòng shīshí
+**Literal Breakdown:** lose + fact/reality
+**English Translation:** to become inaccurate; the report misrepresents the facts; seriously inaccurate
+**Structure:** 失 (lose) + 实 (fact/reality); parallel to 失真 but applied specifically to factual correspondence of statements and reports
+**Source:** P1 #29; P2b Constructions 84–86; P5 Opposition 3
+**Usage Notes:** 失实 encodes the loss of factual correspondence in a statement or report. Unlike 失真, it does not extend to technical signal distortion. The degree modifier 严重 (serious) is attested (严重失实), indicating that the privative state admits of degree. The construction does not require deliberate intent; 失实 may be inadvertent, distinguishing it from 虚假 (which implies deliberate deception).
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.3 弄虚作假 — Genuine conduct becomes falsified (privative-agentive: honest practice becomes fraudulent)
+
+**Form:** 弄虚作假
+**Transliteration:** nòng xū zuò jiǎ
+**Literal Breakdown:** manipulate + empty/hollow + make + false
+**English Translation:** to engage in fraud and falsification; to turn honest practice into deception
+**Structure:** Fixed four-character expression; encodes the deliberate introduction of falsity into what should be genuine conduct
+**Source:** P1 #23; P2b Constructions 90–91; P3 Group 7; P4a Construction 8
+**Usage Notes:** Unlike 失真 and 失实, which describe a loss of truth-related properties without necessarily implying agency, 弄虚作假 is inherently agentive and deliberate. It describes the active transformation of conduct from genuine to fraudulent. The prohibitive construction (严禁弄虚作假) presupposes that the transition is avoidable and subject to normative control.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.4 造假 / 作假 — Data or records become falsified (privative-agentive: genuine becomes fabricated)
+
+**Form:** 造假 / 作假 / 数据造假 / 账目作假
+**Transliteration:** zào jiǎ / zuò jiǎ / shùjù zào jiǎ / zhàngmù zuò jiǎ
+**Literal Breakdown:** make/manufacture + false; do/engage-in + false
+**English Translation:** to fabricate; to falsify; data fabrication; falsifying accounts
+**Structure:** Verb + 假; the object (data, accounts) undergoes the transition from genuine to falsified
+**Source:** P2b Constructions 11, 13; P3 Group 7
+**Usage Notes:** 造假 and 作假 both encode the agentive transformation of genuine records or data into false ones. 造假 emphasizes manufacture (creating something false from scratch); 作假 emphasizes procedural falsification (manipulating existing records). Both are inherently agentive. The subject of the change is the data or record, not the agent.
+**Epistemic Status:** [CORE]
+
+---
+
+### 2.5 掺假 — Genuine goods become adulterated (privative: pure becomes mixed with false)
+
+**Form:** 掺假 / 食品掺假
+**Transliteration:** chān jiǎ / shípǐn chān jiǎ
+**Literal Breakdown:** mix-in/adulterate + false
+**English Translation:** to adulterate; to mix in fake or inferior material; food adulteration
+**Structure:** 掺 (to mix in) + 假 (false/fake); encodes the introduction of inauthentic material into genuine goods
+**Source:** P2b Construction 12; P3 Group 3
+**Usage Notes:** 掺假 encodes a specific type of privative change: genuine goods lose their purity by having false or inferior material mixed in. The result is a hybrid state rather than complete falsification. This distinguishes it from 造假 (complete fabrication) and 假冒 (complete substitution).
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 3: Expressions of Causation — Y Causes X to Be or Become a Truth-Related State
+
+### 3.1 使/让 + NP + 失真 — Causing distortion (periphrastic causative)
+
+**Form:** 这种做法使报道失真。
+**Transliteration:** Zhè zhǒng zuòfǎ shǐ bàodào shīzhēn.
+**English Translation:** This practice causes the reporting to become distorted.
+**Structure:** Causer (这种做法) + 使/让 + Undergoer (报道) + Result (失真)
+**Source:** P4a Construction 5; P4b
+**Usage Notes:** The periphrastic causative 使/让 + NP + result is the productive construction for expressing causation of truth-related state changes. 使 is more formal than 让 in this domain. The construction applies naturally to 失真 (cause distortion), and by extension to other privative changes: 使报道失实 (cause the report to become inaccurate), 使判断失准 (cause the judgment to become imprecise). The causer is typically a practice, method, or condition rather than a person.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.2 使/让 + NP + 更客观/更准确/更可靠 — Causing improvement in truth-related properties
+
+**Form:** 让判断更客观 / 使数据更准确 / 使来源更可靠
+**Transliteration:** ràng pànduàn gèng kèguān / shǐ shùjù gèng zhǔnquè / shǐ láiyuán gèng kěkào
+**English Translation:** to make the judgment more objective / to make the data more accurate / to make the source more reliable
+**Structure:** 使/让 + Undergoer + 更 (more) + gradable truth-domain adjective
+**Source:** P4a Construction 5; P4b
+**Usage Notes:** The same periphrastic causative applies to positive-direction changes in truth-related properties. The degree adverb 更 (more) marks the comparative improvement. This construction applies to gradable adjectives (客观, 准确, 可靠, 真实) but not to categorical 真/假. The causer may be a person, method, or process.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.3 以假乱真 — Using fakes to cause confusion of the genuine (causative: false causes epistemic disruption)
+
+**Form:** 以假乱真
+**Transliteration:** yǐ jiǎ luàn zhēn
+**Literal Breakdown:** using + false + to confuse/disorder + genuine
+**English Translation:** to use fakes to confuse what is genuine; to pass off the fake as genuine
+**Structure:** 以假 (using the false, instrumental) + 乱真 (cause confusion of the genuine); 乱 is the causative verb
+**Source:** P1b Root 3a #12; P2b Construction 12; P4a Construction 5; P5 Oppositions 24–25
+**Usage Notes:** This fixed expression encodes a deliberate causative act: the agent uses false items as instruments to cause the genuine to become unrecognizable or confused. The causative verb 乱 (to disorder, to confuse) takes 真 as its object. The construction is lexicalized and not a productive open pattern, but it is the primary lexicalized causative in the authenticity sub-domain.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.4 歪曲事实 / 掩盖真相 — Causing distortion or concealment of facts (causative-agentive)
+
+**Form:** 歪曲事实 / 掩盖真相 / 颠倒是非 / 混淆是非
+**Transliteration:** wāiqū shìshí / yǎngài zhēnxiàng / diāndǎo shìfēi / hùnxiáo shìfēi
+**English Translation:** to distort the facts / to cover up the truth / to invert right and wrong / to confuse right and wrong
+**Structure:** Agentive verb + truth-noun object; the agent causes the truth-related state of the object to be undermined
+**Source:** P2b Constructions 37, 43, 81, 82; P4a Construction 9; P5 Oppositions 13–15
+**Usage Notes:** These verb-object collocations encode agentive causation of negative truth-related changes. The agent acts on 事实, 真相, or 是非 to produce a distorted, concealed, or confused state. These are not morphologically causative but are semantically causative: the agent brings about a change in the epistemic status of truth. They contrast with the revealing/establishing set (揭露真相, 尊重事实) documented in Section 4 below.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.5 制造虚假繁荣 — Causing a false state to appear (causative: agent manufactures false appearance)
+
+**Form:** 制造虚假繁荣 / 制造假象
+**Transliteration:** zhìzào xūjiǎ fánróng / zhìzào jiǎxiàng
+**English Translation:** to manufacture a false prosperity; to create a false impression
+**Structure:** 制造 (to manufacture, to create) + 虚假/假 + noun; the agent causes a false state to come into existence
+**Source:** P2b Constructions 21; P1b Root 3a #9
+**Usage Notes:** The verb 制造 (to manufacture) combined with 虚假 or 假象 encodes the deliberate creation of a false state or appearance. The agent brings into existence something that did not previously exist. This is distinct from 歪曲事实 (distorting existing facts) in that 制造虚假 involves creating a false state from nothing rather than distorting an existing true state.
+**Epistemic Status:** [CORE]
+
+---
+
+### 3.6 经过验证 — A process causes a claim to become verified (causative-processual)
+
+**Form:** 经过验证，信息可靠。/ 经专家鉴定
+**Transliteration:** jīngguò yànzhèng, xìnxī kěkào / jīng zhuānjiā jiàndìng
+**English Translation:** After verification, the information is reliable. / After expert authentication.
+**Structure:** 经过/经 (after, through, by means of) + process noun (验证, 鉴定) + result predication; the process causes the truth-related state to be established
+**Source:** P2b Constructions 33, 75; P3 Group 2
+**Usage Notes:** The construction 经过 + process + result encodes the causal role of a verification or authentication process in establishing a truth-related state. The process (验证, 鉴定) is the cause; the result (可靠, 属实, authenticated) is the effect. This is a processual causative rather than an agentive one: the process itself, rather than a specific agent, is foregrounded as the cause.
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 4: Expressions of Maintaining or Restoring Truth-Related States
+
+### 4.1 揭露真相 / 查明真相 / 还原真相 — Restoring truth to visibility (restorative)
+
+**Form:** 揭露真相 / 查明真相 / 还原事件真相
+**Transliteration:** jiēlù zhēnxiàng / chámíng zhēnxiàng / huányuán shìjiàn zhēnxiàng
+**English Translation:** to expose the truth / to investigate and establish the truth / to reconstruct the true facts of an incident
+**Structure:** Restorative verb (揭露, 查明, 还原) + 真相; the agent acts to reverse a prior state of concealment or distortion
+**Source:** P2b Constructions 35–38; P4a Construction 9; P5 Opposition 12
+**Usage Notes:** These constructions encode the restoration of truth to an accessible or known state after it has been concealed or obscured. They presuppose a prior state of concealment (掩盖真相) and describe its reversal. 还原 specifically encodes reconstruction of an original state; 查明 encodes the investigative process; 揭露 encodes the act of public exposure. All three are restorative rather than simply descriptive.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.2 保持客观 — Maintaining an ongoing truth-related state (continuative)
+
+**Form:** 保持客观 / 保持客观公正
+**Transliteration:** bǎochí kèguān / bǎochí kèguān gōngzhèng
+**English Translation:** to remain objective; to maintain objectivity
+**Structure:** 保持 (to maintain, to keep) + truth-domain adjective; encodes the effort to sustain a truth-related property against potential deviation
+**Source:** P2b Construction 62; P3 Group 8
+**Usage Notes:** 保持 encodes the maintenance of an existing state against the possibility of change. In this domain it applies to 客观 (objectivity) and by extension to other evaluative properties (保持准确, 保持真实). The construction implies that the property is susceptible to loss and requires active effort to sustain. No parallel construction with 保持 + 真相 or 保持 + 事实 is attested; 保持 applies to properties of agents (objectivity, accuracy) rather than to states of affairs.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.3 去伪存真 — Eliminating the false to preserve the genuine (selective maintenance)
+
+**Form:** 去伪存真
+**Transliteration:** qù wěi cún zhēn
+**Literal Breakdown:** remove + false/spurious + preserve/retain + true/genuine
+**English Translation:** to eliminate the false and retain the genuine; to separate fact from fiction
+**Structure:** 去伪 (remove the false) + 存真 (preserve the genuine); the two verbs encode complementary actions on opposite poles
+**Source:** P1b Root 3b #8; P3 Group 10; P5 Opposition 24
+**Usage Notes:** This fixed expression encodes a two-part dynamic: the active removal of false elements and the simultaneous preservation of genuine ones. It is the primary expression for the process of critical purification in the domain. The construction presupposes a mixed state (genuine and false coexisting) and describes the process of separating them. It is restorative in that it aims to recover a pure genuine state from a contaminated one.
+**Epistemic Status:** [CORE]
+
+---
+
+### 4.4 尊重事实 / 如实陈述 — Maintaining correspondence to facts (adherence)
+
+**Form:** 尊重事实 / 如实陈述 / 如实反映
+**Transliteration:** zūnzhòng shìshí / rúshí chénshù / rúshí fǎnyìng
+**English Translation:** to respect the facts / to state truthfully / to accurately reflect
+**Structure:** Adherence verb (尊重, 如实 + communicative verb) + truth-noun or communicative act; encodes the maintenance of correspondence between representation and reality
+**Source:** P2b Constructions 42, 56–58; P3 Groups 1–2
+**Usage Notes:** These constructions encode the ongoing maintenance of a truth-related standard in communicative acts. They do not describe a change of state but the sustained adherence to a norm of truthfulness. They contrast with the distorting/concealing set (歪曲事实, 掩盖真相) as the positive pole of the same dynamic axis.
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 5: Expressions of Resistance to Change — Stability of Truth-Related States
+
+### 5.1 真金不怕火炼 — Genuine quality withstands testing (stability under pressure)
+
+**Form:** 真金不怕火炼
+**Transliteration:** zhēn jīn bù pà huǒ liàn
+**Literal Breakdown:** true + gold + not + fear + fire + smelt/test
+**English Translation:** True gold fears no fire; genuine quality withstands scrutiny.
+**Structure:** 真金 (genuine gold, subject) + 不怕 (does not fear) + 火炼 (fire-testing); encodes the stability of genuine quality under conditions designed to reveal or destroy it
+**Source:** P1b Root 1 #10
+**Usage Notes:** This proverb encodes the stability of genuine quality: what is truly genuine does not change its nature under testing conditions. The dynamic here is resistance to change rather than change itself. The implicit contrast is with 假 (fake), which would not withstand the same test. The expression is used to assert confidence in genuine quality or integrity when it is under scrutiny.
+**Epistemic Status:** [CORE]
+
+---
+
+### 5.2 千真万确 — Absolute certainty of truth (stability of epistemic status)
+
+**Form:** 千真万确
+**Transliteration:** qiān zhēn wàn què
+**Literal Breakdown:** thousand + true + ten-thousand + certain/precise
+**English Translation:** Absolutely true; beyond any doubt; one hundred percent certain.
+**Structure:** Intensified assertion of truth-status; the quantifiers 千 and 万 encode the impossibility of change in the truth-value
+**Source:** P1b Root 1 #25
+**Usage Notes:** This fixed expression encodes the maximum stability of a truth claim: the truth-value is asserted to be so firmly established that no revision is possible. It is used when a speaker wishes to insist on the truth of a claim against potential doubt. The dynamic dimension is the resistance of the claim to any challenge or revision.
+**Epistemic Status:** [CORE]
+
+---
+
+### 5.3 铁的事实 — Facts that cannot be changed (stability of factual states)
+
+**Form:** 铁的事实
+**Transliteration:** tiě de shìshí
+**Literal Breakdown:** iron + 的 + fact
+**English Translation:** Iron-clad facts; incontrovertible facts.
+**Structure:** 铁的 (iron, iron-clad, attributive) + 事实 (fact); the metaphor of iron encodes the resistance of the facts to distortion or denial
+**Source:** P2b Construction 45
+**Usage Notes:** The attributive 铁的 encodes the stability and immutability of the facts in question. The construction is used in political and polemical discourse to assert that certain facts cannot be denied, distorted, or changed. The dynamic dimension is the resistance of 事实 to the distorting acts (歪曲, 掩盖) documented in Section 3.
+**Epistemic Status:** [CORE]
+
+---
+
+### 5.4 既成事实 — Facts that have already been established and are difficult to reverse
+
+**Form:** 既成事实
+**Transliteration:** jìchéng shìshí
+**Literal Breakdown:** already + accomplished/established + fact
+**English Translation:** A fait accompli; an accomplished fact; a done deal.
+**Structure:** 既成 (already accomplished, resultative) + 事实 (fact); encodes the irreversibility of an established state of affairs
+**Source:** P2b Construction 46
+**Usage Notes:** 既成事实 encodes a specific type of stability: the irreversibility of a state of affairs that has already come into being. The dynamic dimension is the resistance to reversal of something that has already become actual. This is distinct from 千真万确 (epistemic certainty) and 铁的事实 (factual incontrovertibility): 既成事实 concerns the practical impossibility of undoing what has been done, not the logical impossibility of denying it.
+**Epistemic Status:** [CORE]
+
+---
+
+## Section 6: Summary of Dynamic Patterns
+
+The following patterns are supported by the data above and are reported without interpretation beyond what the data warrant.
+
+**6.1 Asymmetry between inchoative and privative expressions.** The CONTEXT documents more lexicalized expressions for the loss of truth-related properties (失真, 失实, 弄虚作假, 造假, 掺假) than for the acquisition of them. The primary inchoatives (弄假成真, 真相大白, 属实) are fewer and more restricted in their application. This asymmetry parallels the agentive nominalization asymmetry noted in P4b (agentives for falsifiers but not for truth-tellers).
+
+**6.2 The 失 prefix as a productive privative marker.** The element 失 (lose) appears in both 失真 and 失实 as a privative marker encoding the loss of a truth-related property. No parallel productive prefix for the acquisition of truth-related properties is attested in the CONTEXT.
+
+**6.3 The 成 element as an inchoative marker.** The element 成 (become) appears in 弄假成真 as an inchoative marker encoding the transition from false to genuine. This is lexicalized rather than productive.
+
+**6.4 The periphrastic causative 使/让 is the only productive causative construction.** No morphological causative is attested for truth-domain vocabulary. The productive causative is exclusively periphrastic (使/让 + NP + result). Lexicalized causatives (以假乱真) exist but are not generative.
+
+**6.5 Stability expressions cluster around 事实 and 真.** The expressions encoding resistance to change (铁的事实, 既成事实, 千真万确, 真金不怕火炼) cluster around the nouns 事实 and the root 真. No stability expression is attested for 准确, 客观, or 可靠 in the CONTEXT.
+
+**6.6 Restorative expressions are specific to 真相.** The restorative constructions (揭露真相, 查明真相, 还原真相, 真相大白) are all specific to 真相 as their object or subject. No parallel restorative construction is attested for 事实, 真实, or 准确 in the CONTEXT.
+
+**6.7 Prohibitive constructions (严禁/不得) apply only to agentive privative expressions.** As noted in P4a/P4b, the prohibitive construction is restricted to deliberate-falsification vocabulary (弄虚作假, 造假, 作假). It does not apply to non-agentive privative expressions (失真, 失实) or to any inchoative or restorative expressions. This restriction reflects the normative presupposition that only deliberate falsification is subject to prohibition.
+
+---
+
+*End of P6 output.*

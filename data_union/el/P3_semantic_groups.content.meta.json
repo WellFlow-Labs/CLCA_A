@@ -1,0 +1,21 @@
+{
+  "step": "P3_semantic_groups",
+  "phase": "M",
+  "merged_from": 3,
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "raw_metadata": {
+    "backend": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "temperature": 0.2,
+    "phase": "P",
+    "long_context_active": false,
+    "cache_enabled": false,
+    "usage": {
+      "estimated_input_tokens": 20078,
+      "input_tokens": 25787,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0
+    }
+  }
+}

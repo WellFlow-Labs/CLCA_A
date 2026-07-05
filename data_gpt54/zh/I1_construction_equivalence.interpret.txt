@@ -1,0 +1,92 @@
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| ATTR | X + 是 / 很 + 真/假/真实/虚假/正确/错误/准确/可信/可靠/属实/不实 | 这是真的。; 这个消息很可靠。 | Direct predicate attribution. Truth-domain items behave mainly as predicates; 是 is a copular/identificational carrier, 很 is an adjectival predication carrier. | None |
+| ADNOM | Adj + 的 + N / bare compound modifier + N | 虚假的信息; 名副其实的专家 | Direct adnominal modification. Some forms are lexicalized bare compounds. | None |
+| BECOME | 变得 + Adj / 变 + Adj / Adj + 起来; also scalar change with 越来越 | 信息在传递中变得失真。; 他的说法越来越不可信了。 | Direct change-of-state expression. No dedicated truth-domain morphology; light/change verb 变(得) carries the operator. | None |
+| REVELATION | **MISSING (structural gap)** | — | No revelation construction is listed in P4a/P4b. | Morphosyntactic gap |
+| CAUSATION (factual) | 使 / 让 / 把 + X + 变得 + Adj; also lexical eventive verbs in falsity domain | 这则谣言使事实变得不清楚。; 压缩过度会让图像失真。 | Analytic causation with light verbs 使/让/把. For falsification meanings, often **SUBSTITUTED BY FALSEHOOD / FABRICATION EVENT**: 发布虚假信息; 伪造证件. | No gap for analytic causation; lexical substitution for some meanings |
+| CAUSATION (character) | **NO COMMON EXPRESSION - circumlocution required** | — | No dedicated construction in P4a/P4b for causing something/someone to become truthful, reliable, credible, etc. Available material instead uses analytic causation of states or lexical verbs such as 纠正 / 伪造 mentioned in notes. | Lexical/morphosyntactic partial gap |
+| VERIFICATION | X + 属实 / 经查属实 / 查证属实 / 是否属实 | 举报内容属实。; 尚未证实是否属实。 | Dedicated formal verification construction. 属实 functions predicatively; investigation/confirmation verbs act as carriers. | None |
+| DISCONFIRMATION | X + 不属实 / X + 不实; formal rebuttal patterns | 报道不实。 | Closest equivalent is formal negative verification/rebuttal. **VERIFICATION and DISCONFIRMATION partly share the same constructional base** via 属实 vs 不属实, but 不实 also appears as a lexicalized negative predicate. | Partially shared with VERIFICATION |
+| NEGATION | X + 不 + Adj / X + 不属实 / X + 不实 / X + 非 + N/Adj(formal) | 这一说法不太可信。; 报道不实。 | Primarily analytic negation with 不. Also lexicalized negative forms such as 不实, 失实. 非- is formal and less central. | None |
+| NOMINALIZATION | Adj + 性 / Adj + 度; lexical abstract nouns also occur | 这份报告的真实性很重要。; 证词的可信度不高。 | Productive abstract nominalization. Suffixes -性 and -度 are nominalizers. | None |
+
+## 2. Substitution Patterns (Narrative)
+
+Chinese shows direct support for attribution, adnominal modification, change-of-state, analytic negation, verification, and abstract nominalization.
+
+For **BECOME**, the language uses general change-of-state syntax rather than a specialized truth-domain form: **变得 + Adj / 变 + Adj / 越来越 + Adj**. Here **变(得)** is the light/change verb carrying the operator. P4a/P4b do not list any separate **REVELATION** construction, so there is no evidence here that revelation replaces becoming. The appropriate flag is therefore **REVELATION: MISSING (structural gap)**, not substitution.
+
+For **CAUSATION**, Chinese does not use dedicated causative morphology in this domain. Instead it uses analytic carriers such as **使 / 让 / 把** plus a result state: **使事实变得不清楚**, **让图像失真**. This means causation is available, but through general analytic syntax. In addition, for deliberate falsity/fabrication meanings, Chinese often prefers lexical eventive expressions rather than causativized truth adjectives: **发布虚假信息**, **伪造证件**, **弄虚作假**. Descriptively, some causative meanings are therefore **substituted by lexical falsehood/fabrication events**.
+
+There is no listed evidence that **DISCOVERY substitutes for CAUSATION**. No discovery construction appears in P4a/P4b, so no such substitution can be stated.
+
+For **NEGATION**, the dominant pattern is **analytic**, especially **不 + Adj**. Alongside this, there are lexicalized or semi-lexicalized negative predicates such as **不实** and **失实**, especially in formal rebuttal language. So the system is asymmetrical: ordinary negation is analytic, but formal falsity judgments often prefer specialized negative lexical items.
+
+For **VERIFICATION** and **DISCONFIRMATION**, the data show a close relation. **属实** is the positive formal verification predicate, while **不属实** is its direct negative counterpart. At the same time, **不实** appears as an additional formal negative predicate. So these two operators **partly share the same constructional base**, especially in the **属实 / 不属实** pair, but disconfirmation also has its own lexicalized negative form (**不实**).
+
+There is also a positive/negative asymmetry in register:
+- positive verification is strongly specialized and institutional: **属实 / 经查属实 / 查证属实**
+- negative evaluation can be either general analytic (**不可信**) or formal lexicalized rebuttal (**不实**, **失实**)
+
+For agentive meanings, P4a/P4b explicitly note no common productive pair matching “liar / truth-teller.” This does not map directly to the requested canonical operators, but it shows a lexical gap in the broader domain: Chinese often uses paraphrase (**说真话的人**) or unrelated lexical items, rather than a productive derivational pattern.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+- **REVELATION**: **MISSING (structural gap)**
+  - No revelation-type construction is provided in P4a/P4b.
+- No dedicated morphological causative construction for truth-domain predicates
+  - Causation is expressed analytically with **使 / 让 / 把**.
+
+### Lexical Gaps
+- No common productive compact agentive pair equivalent to “liar / truth-teller”
+  - P4a/P4b: **(no common expression identified)**
+  - Available forms are lexical or paraphrastic: **伪造者**, **说真话的人**
+- For **CAUSATION (character)**, no dedicated lexicalized operator is shown for “make X true/reliable/credible” as a regular construction
+  - Often requires circumlocution or different lexical verbs.
+
+### Conceptual Gaps
+- No explicit evidence in P4a/P4b for a distinct **REVELATION** operator.
+- No explicit evidence in P4a/P4b for **DISCOVERY** as a substitute operator.
+- No evidence for a distinct operator specifically targeting “character” causation as separate from factual/state causation; available data only show general analytic causation and lexical falsification/correction verbs.
+
+### Asymmetric Gaps
+- **DISCONFIRMATION** is better lexicalized/formalized than many positive counterparts in rebuttal contexts:
+  - **不实**, **失实** are especially common in formal negative judgments.
+- **VERIFICATION** is strongly specialized around **属实**, especially with reports/allegations, rather than a broad everyday predicate.
+- **CAUSATION** is available for negative/result-state meanings like **失真** and **不清楚**, but deliberate falsity often shifts to lexical event verbs (**伪造**, **发布虚假信息**) rather than parallel causativized adjective constructions.
+- Agentive nominalization is asymmetric:
+  - paraphrastic **说真话的人** is natural
+  - no equally productive compact derivational pair is identified.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully available
+- **ATTR**
+- **ADNOM**
+- **BECOME**
+- **VERIFICATION**
+- **NEGATION**
+- **NOMINALIZATION**
+
+### Available with substitution
+- **CAUSATION (factual)**
+  - Available analytically with **使 / 让 / 把 + X + 变得 + Adj**
+  - Some meanings are **SUBSTITUTED BY FALSEHOOD / FABRICATION EVENT** lexical verbs: **发布虚假信息**, **伪造证件**
+- **DISCONFIRMATION**
+  - Available through **不属实 / 不实**
+  - Partly shares construction with verification via **属实 / 不属实**
+
+### Partially available
+- **CAUSATION (character)**
+  - **NO COMMON EXPRESSION - circumlocution required**
+  - No dedicated construction shown; expression relies on analytic causation or separate lexical verbs mentioned in notes.
+
+### Missing entirely
+- **REVELATION**
+  - **MISSING (structural gap)**
+
+If useful, I can also convert this into a stricter “operator-by-operator audit” with one-line judgments only.

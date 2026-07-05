@@ -1,0 +1,500 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Finnish (fi)
+
+## 1. ATTRIBUTION
+
+### Pattern
+**X on TRUTH-TERM** (X is TRUTH-TERM)
+Standard predicative construction using copula *olla* "to be" + nominative or partitive case of truth-domain term. Partitive case (*totta*, *valhetta*) is required for abstract truth evaluation; nominative for concrete/countable entities.
+
+### Examples
+- se on totta
+  - se on totta
+  - that is true
+  
+- väite on epätosi
+  - väite on epätosi
+  - the claim is false
+
+### Notes
+Partitive case obligatory for mass/abstract truth (*totta*, not *\*tosi*). Nominative used for countable entities (*tosiasia* "fact", *valhe* "lie"). Negation: *ei ole totta* "is not true".
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**X ei ole TRUTH-TERM** (X is not TRUTH-TERM)
+Standard negation using negative auxiliary *ei* + copula stem *ole* + partitive or nominative of truth-term. Partitive case maintained under negation for abstract terms.
+
+### Examples
+- se ei ole totta
+  - se ei ole totta
+  - that is not true
+  
+- tieto ei ole luotettavaa
+  - tieto ei ole luotettavaa
+  - the information is not reliable
+
+### Notes
+Partitive case required under negation for abstract/mass nouns (*totta*, *luotettavaa*). Nominative for countable nouns (*valhe*). Construction *ei pidä paikkaansa* "does not hold true" is fixed alternative.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**TRUTH-TERM + NOUN** (TRUTH-TERM + NOUN)
+Direct adjectival modification in attributive position. Truth-domain adjectives precede noun and agree in case/number. Compounds (*tosi-*, *vale-*) are also productive.
+
+### Examples
+- tosi väite
+  - tosi väite
+  - true claim
+  
+- väärä todistus
+  - väärä todistus
+  - false testimony
+
+### Notes
+Adjectives (*tosi*, *väärä*, *oikea*, *aito*, *todellinen*, *luotettava*) modify directly. Compound forms (*tositarina* "true story", *valepassi* "fake passport") are lexicalized. Genitive constructions rare (*totuuden hetki* "moment of truth").
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**X + INCHOATIVE-VERB** (X becomes TRUTH-STATE)
+Inchoative formations using *-stua/-styä* suffixes (become) or light verb *tulla* "become" + translative case (*-ksi*). Marks transition into truth-state.
+
+### Examples
+- väite osoittautui vääräksi
+  - väite osoittautui vääräksi
+  - the claim proved (to be) false
+  
+- totuus paljastui
+  - totuus paljastui
+  - the truth was revealed
+
+### Notes
+Translative case (*oikeaksi*, *vääräksi*) with *osoittautua* "prove to be". Inchoative verbs: *todellistua* "be realized", *toteutua* "come true", *vääristyä* "become distorted", *todentua* "be confirmed". Light verb *tulla* + translative also possible.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**AGENT + CAUSATIVE-VERB + OBJECT** (AGENT makes X TRUTH-STATE)
+Causative formations using *-ttaa/-staa* suffixes or light verb constructions. Agent causes transition to truth-state or establishes truth-value.
+
+### Examples
+- todistaa väite vääräksi
+  - todistaa väite vääräksi
+  - to prove the claim false
+  
+- vääristää totuutta
+  - vääristää totuutta
+  - to distort the truth
+
+### Notes
+Causative verbs: *todistaa* "prove", *todentaa* "verify", *todellistaa* "realize/actualize", *toteuttaa* "implement", *vääristää* "distort", *väärentää* "forge", *oikeuttaa* "justify". Translative case marks result state (*vääräksi* "false", *oikeaksi* "right").
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**ROOT + -uus/-yys/-suus** (quality of being TRUTH-STATE)
+Productive abstract noun formation from adjectival bases. Suffixes *-uus/-yys* (after vowel-final stems) or *-suus* (after consonant clusters) create quality/state nominals.
+
+### Examples
+- totuus
+  - totuus
+  - truth (< tosi "true")
+  
+- rehellisyys
+  - rehellisyys
+  - honesty (< rehellinen "honest")
+
+### Notes
+Highly productive: *totuus* "truth", *todellisuus* "reality", *oikeellisuus* "correctness", *luotettavuus* "reliability", *aitous* "authenticity", *rehellisyys* "honesty", *todennäköisyys* "probability". Suffix selection phonologically conditioned.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**VERB-STEM + -ja/-jä** (one who performs TRUTH-ACTION)
+Agent noun formation using *-ja/-jä* suffix attached to verb stem. Marks person who performs truth-related action (testifying, lying, etc.).
+
+### Examples
+- todistaja
+  - todistaja
+  - witness (< todistaa "testify/prove")
+  
+- väärentäjä
+  - väärentäjä
+  - forger (< väärentää "forge")
+
+### Notes
+Productive for action verbs: *todistaja* "witness", *väärentäjä* "forger", *väittelijä* "debater". No common agent noun for "liar" from *valehdella* (uses *valehtelija* marginally or descriptive *valehteleva henkilö*). "Truth-teller" expressed periphrastically (*totuuden puhuja*).
+
+---
+
+## 8. RESULT NOMINALIZATION
+
+### Pattern
+**VERB-STEM + -e/-us/-os** (result/product of TRUTH-ACTION)
+Result noun formation marking product or outcome of truth-related action. Multiple suffixes depending on verb class and semantic nuance.
+
+### Examples
+- todiste
+  - todiste
+  - proof, evidence (< todistaa "prove")
+  
+- väärennös
+  - väärennös
+  - forgery, counterfeit (< väärentää "forge")
+
+### Notes
+Productive patterns: *todiste* "evidence" (*-e*), *todistus* "certificate/testimony" (*-us*), *väärennös* "forgery" (*-ös*), *väite* "claim" (*-e*), *toteutus* "implementation" (*-us*). Suffix choice partly lexicalized.
+
+---
+
+## 9. ACTION NOMINALIZATION
+
+### Pattern
+**VERB-STEM + -minen** (act/process of TRUTH-ACTION)
+Productive action/process nominalization using *-minen* suffix. Creates gerund-like nouns denoting ongoing or completed action.
+
+### Examples
+- todistaminen
+  - todistaminen
+  - proving, testifying (< todistaa)
+  
+- vääristäminen
+  - vääristäminen
+  - distorting (< vääristää)
+
+### Notes
+Fully productive for all verbs: *todistaminen* "proving", *toteuttaminen* "implementing", *todellistuminen* "being realized", *vääristäminen* "distorting". Functions as verbal noun in all syntactic positions.
+
+---
+
+## 10. MANNER ADVERBIAL
+
+### Pattern
+**ADJECTIVE-STEM + -sti** (in TRUTH-MANNER)
+Productive manner adverb formation from adjectives using *-sti* suffix. Describes manner of action according to truth-domain quality.
+
+### Examples
+- rehellisesti
+  - rehellisesti
+  - honestly (< rehellinen "honest")
+  
+- todenmukaisesti
+  - todenmukaisesti
+  - truthfully, accurately (< todenmukainen "truthful")
+
+### Notes
+Fully productive: *oikein* "correctly", *väärin* "wrongly", *todella* "really", *todennäköisesti* "probably", *rehellisesti* "honestly", *vilpittömästi* "sincerely". Some forms irregular (*oikein*, *väärin* < *oikea*, *väärä*).
+
+---
+
+## 11. LIGHT VERB CONSTRUCTIONS (TRUTH-TELLING)
+
+### Pattern
+**SPEECH-VERB + TRUTH-TERM (partitive/genitive)** (to speak/tell TRUTH-TERM)
+Light verb constructions with verbs of speaking (*puhua*, *sanoa*, *kertoa*) + truth-domain noun in partitive or genitive case.
+
+### Examples
+- puhua totuutta
+  - puhua totuutta
+  - to speak the truth
+  
+- puhua valhetta
+  - puhua valhetta
+  - to tell a lie
+
+### Notes
+Common verbs: *puhua* "speak", *sanoa* "say", *kertoa* "tell". Partitive case standard (*totuutta*, *valhetta*). Fixed expressions: *puhua totta* "speak truth", *valehdella* (dedicated verb "to lie" from *valhe*).
+
+---
+
+## 12. LIGHT VERB CONSTRUCTIONS (ERROR)
+
+### Pattern
+**tehdä + virhe** (to make + error)
+Fixed construction with *tehdä* "make/do" + *virhe* "error/mistake" for error commission. Correction uses *korjata* "correct" or *oikaista* "rectify".
+
+### Examples
+- tehdä virhe
+  - tehdä virhe
+  - to make a mistake
+  
+- korjata virhe
+  - korjata virhe
+  - to correct an error
+
+### Notes
+Standard error construction: *tehdä virhe(itä)* "make error(s)". Correction: *korjata virhe* "correct error", *oikaista virhe* "rectify error". Discovery: *huomata virhe* "notice error", *löytää virhe* "find error".
+
+---
+
+## 13. LIGHT VERB CONSTRUCTIONS (EVIDENCE)
+
+### Pattern
+**EVIDENCE-VERB + todiste(ita)** (to VERB + evidence)
+Light verb constructions with *todiste* "evidence" and various verbs marking different evidence-related actions (presenting, gathering, evaluating).
+
+### Examples
+- esittää todisteita
+  - esittää todisteita
+  - to present evidence
+  
+- kerätä todisteita
+  - kerätä todisteita
+  - to collect evidence
+
+### Notes
+Common verbs: *esittää* "present", *tuoda* "bring", *hankkia* "obtain", *kerätä* "collect", *arvioida* "evaluate", *punnita* "weigh". Partitive plural (*todisteita*) standard. Legal register concentration.
+
+---
+
+## 14. PREDICATIVE STATE CONSTRUCTIONS
+
+### Pattern
+**olla + LOCATIVE-CASE** (to be in STATE-LOCATION)
+Idiomatic constructions using copula + locative cases (inessive *-ssa*, adessive *-lla*) to express being in truth-related state.
+
+### Examples
+- olla oikeassa
+  - olla oikeassa
+  - to be right (lit: to be in right)
+  
+- olla väärässä
+  - olla väärässä
+  - to be wrong (lit: to be in wrong)
+
+### Notes
+Fixed expressions: *olla oikeassa* "be right", *olla väärässä* "be wrong", *olla tosissaan* "be serious" (inessive case). Contrast with predicative nominative/partitive (*olla totta* "be true").
+
+---
+
+## 15. FIXED IDIOMATIC EXPRESSIONS
+
+### Pattern
+**TRUTH-TERM + pitää paikkansa** (TRUTH-TERM holds its place)
+Fixed idiomatic expression *pitää paikkansa* "to hold true, be accurate" (lit: "hold its place"). Subject can be statement, claim, or information.
+
+### Examples
+- väite pitää paikkansa
+  - väite pitää paikkansa
+  - the claim is true/accurate
+  
+- tarina pitää paikkansa
+  - tarina pitää paikkansa
+  - the story is true
+
+### Notes
+Highly frequent idiom for affirming truth/accuracy. Negation: *ei pidä paikkaansa* "is not true". Related: *paikkansapitävä* "accurate" (adjectival derivative). Literal meaning opaque to most speakers.
+
+---
+
+## 16. INTENSIFIER CONSTRUCTIONS (COLLOQUIAL)
+
+### Pattern
+**tosi + ADJECTIVE/ADVERB** (really/very + ADJECTIVE/ADVERB)
+Colloquial use of *tosi* as degree intensifier meaning "really" or "very". Restricted to informal registers.
+
+### Examples
+- tosi hyvä
+  - tosi hyvä
+  - really good
+  
+- tosi paljon
+  - tosi paljon
+  - really much, a lot
+
+### Notes
+Grammaticalized from truth-domain adjective to degree modifier. Informal only; formal equivalent *todella* "really" or *hyvin* "very". Productive with any gradable adjective/adverb. Parallel: *oikein* "really, quite" (more acceptable in formal contexts).
+
+---
+
+## 17. DISCOURSE MARKERS
+
+### Pattern
+**TRUTH-TERM + PARTICIPLE/ADVERB** (TRUTH-TERM speaking/said)
+Grammaticalized discourse markers introducing frank or honest statements. Fixed expressions functioning as sentence adverbials.
+
+### Examples
+- rehellisesti sanottuna
+  - rehellisesti sanottuna
+  - honestly speaking, to be honest
+  
+- totta puhuen
+  - totta puhuen
+  - to tell the truth, truthfully speaking
+
+### Notes
+Fixed discourse markers: *rehellisesti sanottuna* "honestly speaking", *totta puhuen* "truthfully speaking", *totta kai* "of course". Grammaticalized from truth-evaluation to discourse-pragmatic functions. High frequency in spoken language.
+
+---
+
+## 18. COMPARATIVE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM + COMPARATIVE-SUFFIX (-mpi)** (more TRUTH-QUALITY)
+Standard comparative formation using *-mpi* suffix. Superlative uses *-in* suffix. Some truth-domain terms resist comparison.
+
+### Examples
+- todenmukaisempi
+  - todenmukaisempi
+  - more truthful, more accurate
+  
+- luotettavampi
+  - luotettavampi
+  - more reliable
+
+### Notes
+Comparative productive for gradable adjectives: *todenmukaisempi* "more truthful", *luotettavampi* "more reliable", *uskottavampi* "more credible". Absolute terms resist comparison: *\*tosempi* "more true", *\*valhempi* "more false" ungrammatical. Use *enemmän totta* "more true" periphrastically.
+
+---
+
+## 19. NEGATIVE DERIVATION (epä-)
+
+### Pattern
+**epä- + TRUTH-TERM** (un-/non- + TRUTH-TERM)
+Productive negative prefix *epä-* creates antonyms. Applies to adjectives and some nouns. Semantically marks absence or negation of quality.
+
+### Examples
+- epätosi
+  - epätosi
+  - untrue, false
+  
+- epärehellinen
+  - epärehellinen
+  - dishonest
+
+### Notes
+Productive with adjectives: *epätosi* "untrue", *epärehellinen* "dishonest", *epäluotettava* "unreliable", *epäuskottava* "incredible". Less productive with nouns. Competes with dedicated antonyms (*väärä* "false" vs. *epätosi* "untrue").
+
+---
+
+## 20. PRIVATIVE DERIVATION (-tön)
+
+### Pattern
+**ROOT + -tön/-ttömyys** (without QUALITY / lack of QUALITY)
+Privative suffix *-tön* "without" creates adjectives marking absence. Abstract noun *-ttömyys* marks state of lacking quality.
+
+### Examples
+- virheetön
+  - virheetön
+  - error-free, flawless
+  
+- vilpitön
+  - vilpitön
+  - sincere, without deceit (< vilppi "deceit")
+
+### Notes
+Productive: *virheetön* "error-free", *virheettömyys* "flawlessness", *vilpitön* "sincere", *vilpittömyys* "sincerity". Marks absence of negative quality. *Vilpitön* lexicalized with positive meaning "sincere" (lit: "without deceit").
+
+---
+
+## 21. COMPOUND FORMATIONS (tosi-)
+
+### Pattern
+**tosi- + NOUN** (true/real + NOUN)
+Productive compound formation with *tosi-* prefix marking authenticity or factuality. Creates compounds distinguishing real from fictional/simulated.
+
+### Examples
+- tositarina
+  - tositarina
+  - true story
+  
+- tosielämä
+  - tosielämä
+  - real life
+
+### Notes
+Productive compounds: *tositarina* "true story", *tositapahtumat* "real events", *tosielämä* "real life", *tosiasia* "fact". Marks factual basis or actual occurrence. Contrast with fictional or theoretical.
+
+---
+
+## 22. COMPOUND FORMATIONS (vale-)
+
+### Pattern
+**vale- + NOUN** (false/fake + NOUN)
+Productive compound formation with *vale-* prefix (< *valhe* "lie") marking falseness or counterfeit status. Creates compounds for fake/fraudulent entities.
+
+### Examples
+- valepassi
+  - valepassi
+  - fake passport
+  
+- valenimi
+  - valenimi
+  - pseudonym, false name
+
+### Notes
+Highly productive: *valepassi* "fake passport", *valenimi* "pseudonym", *valeraha* "counterfeit money", *valetieto* "false information". Marks deliberate falsification or inauthenticity. Legal/criminal terminology concentration.
+
+---
+
+## 23. TRANSLATIVE RESULT CONSTRUCTIONS
+
+### Pattern
+**VERB + OBJECT + TRANSLATIVE-CASE** (VERB + OBJECT + into STATE)
+Translative case (*-ksi*) marks result state in causative constructions. Common with *todistaa* "prove" and *osoittautua* "prove to be".
+
+### Examples
+- todistaa oikeaksi
+  - todistaa oikeaksi
+  - to prove right, to vindicate
+  
+- todistaa vääräksi
+  - todistaa vääräksi
+  - to prove wrong, to disprove
+
+### Notes
+Translative marks result: *oikeaksi* "into right/correct", *vääräksi* "into wrong/false", *todeksi* "into true/real". Common with *todistaa* "prove", *osoittautua* "turn out", *kääntyä* "turn". Fixed expressions: *todistaa oikeaksi/vääräksi*.
+
+---
+
+## 24. PARTITIVE OBJECT CONSTRUCTIONS
+
+### Pattern
+**VERB + TRUTH-TERM (partitive)** (VERB + TRUTH-TERM)
+Partitive case marks object in truth-domain constructions, especially with mass/abstract nouns. Required with certain verbs and under negation.
+
+### Examples
+- etsiä totuutta
+  - etsiä totuutta
+  - to seek the truth
+  
+- vääristää totuutta
+  - vääristää totuutta
+  - to distort the truth
+
+### Notes
+Partitive required for mass/abstract objects: *totuutta* "truth", *valhetta* "lies", *tosiasioita* "facts". Verbs: *etsiä* "seek", *puhua* "speak", *vääristää* "distort", *salata* "conceal". Accusative for countable: *todistaa väite* "prove claim".
+
+---
+
+## 25. GENITIVE ATTRIBUTE CONSTRUCTIONS
+
+### Pattern
+**TRUTH-TERM (genitive) + NOUN** (TRUTH-TERM's + NOUN)
+Genitive case marks possessive or attributive relationship. Common in abstract compounds and fixed expressions.
+
+### Examples
+- totuuden hetki
+  - totuuden hetki
+  - moment of truth
+  
+- totuuden etsintä
+  - totuuden etsintä
+  - search for truth
+
+### Notes
+Genitive constructions: *totuuden hetki* "moment of truth", *totuuden etsintä* "truth-seeking", *totuudenmukainen* "truthful" (< *totuuden mukainen* "according to truth"). Less productive than compounds. Some lexicalized (*todennäköinen* < *toden näköinen* "truth-appearing").

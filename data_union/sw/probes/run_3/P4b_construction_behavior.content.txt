@@ -1,0 +1,40 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Swahili (sw)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** | *Hii ni kweli.* | Hii ni kweli. | "This is true." | [CORE] | Used across all registers — conversational, journalistic, legal, and religious. No agreement morphology on the predicate; *ni* is invariant regardless of subject noun class. |
+| **1. ATTRIBUTION** | *Taarifa hii ni sahihi.* | Taarifa hii ni sahihi. | "This report is accurate." | [CORE] | Frequent in formal and institutional contexts (journalism, administration, academic writing). The frame is the default predication strategy for truth-domain adjectives. |
+| **2. NEGATIVE ATTRIBUTION** | *Hii si kweli.* | Hii si kweli. | "This is not true." | [CORE] | The canonical denial frame in everyday speech and public discourse. *Si kweli* functions as a fixed evaluative phrase and is highly frequent in spoken Swahili. |
+| **2. NEGATIVE ATTRIBUTION** | *Jibu lako si sahihi.* | Jibu lako si sahihi. | "Your answer is not correct." | [CORE] | Common in educational and evaluative contexts. The *ni/si* opposition is the primary binary truth-evaluation frame; no alternate negation strategy is attested for this construction. |
+| **3. ADNOMINAL MODIFICATION** | *dhahabu halisi* | dhahabu halisi | "genuine gold" | [CORE] | Frequent in commercial and everyday contexts. Post-nominal attributive position is the default for adjectives in Swahili; no pre-nominal variant is attested for this domain. |
+| **3. ADNOMINAL MODIFICATION** | *ukweli wa jambo* | ukweli wa jambo | "the truth of the matter" | [CORE] | The *X wa kweli* pattern is highly productive across registers. The associative particle varies by head noun class (*wa*, *ya*, *la*, etc.); *wa* predominates in this domain. |
+| **4. BECOME / INCHOATIVE** | *Ukweli ulidhihirika baada ya uchunguzi.* | Ukweli ulidhihirika baada ya uchunguzi. | "The truth became evident after the investigation." | [CORE] | Common in narrative and journalistic prose to mark a transition to a resultant state. The *-ika* form is well-attested for *dhahiri*; no inchoative form is attested for *kweli* or *sahihi* as bases. |
+| **4. BECOME / INCHOATIVE** | *Alidanganyika.* | Alidanganyika. | "He/she was deceived / fell for it." | [CORE] | Used in conversational and narrative contexts. The *-ika* suffix here implies susceptibility or unintended entry into a state, distinct from the agentive passive *-wa*. |
+| **5. CAUSATIVE** | *Matendo yake yalidhihirisha tabia yake.* | Matendo yake yalidhihirisha tabia yake. | "His actions revealed / made evident his character." | [CORE] | Frequent in argumentative, journalistic, and literary registers. *Kudhihirisha* is well-established as a lexicalized causative; the pattern is productive for roots that permit verbal derivation. |
+| **5. CAUSATIVE** | *Sahihisha makosa kabla ya kuwasilisha.* | Sahihisha makosa kabla ya kuwasilisha. | "Correct the errors before submitting." | [CORE] | Common in instructional, editorial, and academic contexts. *Kusahihisha* is a fully lexicalized form; *kweli* and *halisi* do not show well-attested causative forms in common usage. |
+| **6. ABSTRACT NOMINALIZATION** | *Usahihi wa taarifa unahitajika.* | Usahihi wa taarifa unahitajika. | "The accuracy of the report is required." | [CORE] | Frequent in formal, institutional, and written registers. The *u-* prefix is the primary and highly productive nominalizing strategy for abstract properties across this domain. |
+| **6. ABSTRACT NOMINALIZATION** | *Udanganyifu wake ulifunuliwa hadharani.* | Udanganyifu wake ulifunuliwa hadharani. | "His/her deception was exposed publicly." | [CORE] | Common in journalistic, legal, and moral discourse. The *-fuwa* suffix variant (*uthibitisho*, *udhihirisho*) nominalizes verbal actions and is attested alongside the basic *u-* form. |
+| **7. AGENTIVE NOMINALIZATION** | *Yeye ni mwongo — hasemi ukweli kamwe.* | Yeye ni mwongo — hasemi ukweli kamwe. | "He/she is a liar — never speaks the truth." | [CORE] | Common across all registers for characterizing persons. *Mwongo/waongo* is fully lexicalized. No fixed agentive nominal for "truth-teller" is attested; the concept is expressed periphrastically as *mtu wa kweli*. |
+| **7. AGENTIVE NOMINALIZATION** | *Yeye ni mdanganyifu wa hali ya juu.* | Yeye ni mdanganyifu wa hali ya juu. | "He/she is a thoroughgoing deceiver." | [CORE] | Used in evaluative and moral characterization contexts. The intensifying phrase *wa hali ya juu* is a separate adnominal modifier and is not part of the nominalization pattern itself. |
+| **8. COMPLEMENTIZER FRAMING** | *Ukweli ni kwamba hakuna ushahidi.* | Ukweli ni kwamba hakuna ushahidi. | "The truth is that there is no evidence." | [CORE] | Highly frequent in journalistic, legal, and argumentative discourse for introducing asserted propositions. Both *kwamba* and *kuwa* are attested as complementizers in this frame; no restriction between them is noted in P4a. |
+| **8. COMPLEMENTIZER FRAMING** | *Ni dhahiri kwamba alikuwa anajua.* | Ni dhahiri kwamba alikuwa anajua. | "It is evident that he/she knew." | [CORE] | Common in formal argumentation and evidential framing. The impersonal *ni dhahiri kwamba* frame functions as an evidential construction and is productive across written registers. |
+| **9. PARENTHETICAL SINCERITY FRAME** | *Kusema ukweli, sikupenda hilo.* | Kusema ukweli, sikupenda hilo. | "To tell the truth, I didn't like that." | [CORE] | Functions as a discourse marker signaling speaker sincerity; not a predicate about a specific proposition. Restricted to sentence-initial position; not attested in mid- or final-clause position in P4a. |
+| **9. PARENTHETICAL SINCERITY FRAME** | *Kwa kweli, sijui.* | Kwa kweli, sijui. | "Honestly, I don't know." | [CORE] | Common in conversational and informal registers. The intensified variant *kwa kweli kweli* is attested; no other morphological variants are reported in P4a. |
+| **10. PASSIVE VERIFICATION / EXPOSURE** | *Hati ilithibitishwa na mamlaka.* | Hati ilithibitishwa na mamlaka. | "The document was authenticated by the authorities." | [CORE] | Frequent in legal, administrative, and journalistic contexts. The *-wa* passive implies an external agent, distinguishing it from the stative *-ika* (Pattern 4), which does not. |
+| **10. PASSIVE VERIFICATION / EXPOSURE** | *Uongo wake ulidhihirika.* | Uongo wake ulidhihirika. | "His/her lie was exposed / became evident." | [CORE] | Common in narrative and journalistic registers. This example uses the stative *-ika* form rather than the passive *-wa*, illustrating the overlap between Pattern 4 and Pattern 10 noted in P4a; the distinction rests on implied agentivity. |
+
+---
+
+## Summary Notes
+
+**No [MARGINAL] or [UNCERTAIN] ratings are assigned.** All ten constructions are rated [CORE] on the basis of the evidence presented in P4a, which consistently characterizes each pattern as common, productive, or highly frequent across attested registers. No construction in P4a is described as restricted, rare, doubtful, or limited to a narrow context in a way that would warrant a lower rating.
+
+**Alternate constructions attested in P4a:**
+- Pattern 8: *kwamba* and *kuwa* are both attested as complementizers; no distributional restriction between them is reported.
+- Pattern 9: *kwa kweli kweli* is attested as an intensified variant of *kwa kweli*.
+- Pattern 4 / Pattern 10 overlap: *-ika* (stative, no external agent) and *-wa* (passive, external agent implied) are both attested for resultant-state readings; P4a explicitly marks this as a distinction, not a free alternation.

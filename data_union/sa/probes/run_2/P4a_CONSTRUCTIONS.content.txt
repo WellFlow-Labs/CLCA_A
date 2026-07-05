@@ -1,0 +1,144 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Sanskrit (sa)
+
+Transliteration standard: IAST, consistent with P1–P3.
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Predicate adjective / adverbially-used nominal in the nominative or accusative (neuter), with copula *as-* / *bhū-* (often omitted in nominal sentences). The truth-domain term functions as predicate of a noun phrase or proposition.
+
+### Examples
+- सत्यम् एतत् → *satyam etat* → "this is true"
+- युक्तम् एतत् → *yuktam etat* → "this is appropriate / this is well-reasoned"
+
+### Notes
+Sanskrit nominal sentences regularly omit the copula; the neuter singular form (*satyam*, *yuktam*, *vāstavam*, *ucitam*) is the default predicative shape. The same form serves as an adverbial ("truly," "appropriately") when not predicated of a specific noun.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negation particle *na* preceding the predicate adjective in a nominal sentence, or prefixal negation (*a-* / *an-*) incorporated into the adjective itself. Both strategies are attested and often interchangeable.
+
+### Examples
+- न युक्तम् एतत् → *na yuktam etat* → "this is not appropriate / this is unreasonable"
+- असत्यम् इदम् → *asatyam idam* → "this is untrue / this is a falsehood"
+
+### Notes
+Prefixal negation (*asatya*, *ayukta*, *anucita*, *aśuddha*, *adharma*) is highly productive across the truth-domain vocabulary and produces lexicalized antonyms; *na* + adjective is the syntactic alternative used when the negation is more locally scoped or emphatic.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Truth-domain adjective in concord with a head noun (agreeing in gender, number, case), or a truth-domain nominal in the first member of a determinative compound (*tatpuruṣa*) modifying a following noun.
+
+### Examples
+- शुद्धः पाठः → *śuddhaḥ pāṭhaḥ* → "the correct / uncorrupted reading" (adjective agreeing with masculine noun)
+- मिथ्याज्ञानम् → *mithyājñānam* → "false knowledge" (compound: *mithyā* + *jñāna*)
+
+### Notes
+Sanskrit's compounding capacity means that adnominal modification very frequently takes the form of a *tatpuruṣa* or *karmadhāraya* compound rather than a free adjective-noun phrase; both strategies are productive and the compound form tends toward lexicalization (cf. P2a entries).
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Truth-domain nominal as subject of *jā-* (to be born, to arise) or *utpad-* (to be produced), expressing the coming-into-being of a cognitive state. Also *bhū-* (to become) with a predicate adjective for change of state.
+
+### Examples
+- प्रमा उत्पद्यते → *pramā utpadyate* → "valid cognition arises / is produced"
+- भ्रमः जायते → *bhramaḥ jāyate* → "error arises / mistaken cognition comes about"
+
+### Notes
+*Utpad-* and *jā-* are the standard inchoative verbs for cognitive events in Sanskrit epistemological literature; they take the arising cognition (valid or erroneous) as grammatical subject. The construction is symmetric: *pramā utpadyate* and *bhramaḥ jāyate* are structurally parallel and explicitly contrasted in epistemological texts.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Causative stem of a relevant verb, or a periphrastic causative construction with *kṛ-* (to make) or *āpādaya-* (to bring about), taking the truth-domain nominal as object.
+
+### Examples
+- दोषम् आपादयति → *doṣam āpādayati* → "brings about a fault / introduces a defect (in the opponent's position)"
+- सत्यापयति → *satyāpayati* → "causes (something) to be verified / authenticates" (causative formation on *satya* via *āp-*)
+
+### Notes
+A direct morphological causative of a truth-predicate adjective (e.g., *\*satyayati*, "makes true") is not a productive pattern in Sanskrit; instead, causation in this domain is expressed either through the *satyāpana* / *satyāpita* formation (P2a item 1) or through periphrastic constructions with *āpādaya-* and a nominal object. The *pramāṇīkaraṇa* formation (P2a item 4) represents a further periphrastic strategy.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Base adjective or nominal + abstract suffix *-tā* (feminine) or *-tva* (neuter), yielding a noun denoting the property itself. Both suffixes are productive across the truth-domain vocabulary; *-tā* is more common in general philosophical prose, *-tva* more common in Navya-Nyāya technical contexts.
+
+### Examples
+- सत्यता → *satyatā* → "the property of being true, truthfulness"
+- मिथ्यात्वम् → *mithyātvam* → "the property of being illusory / falsity" (Advaita technical term)
+
+### Notes
+The *-tā* / *-tva* pair is the most productive derivational pattern across the entire truth-domain vocabulary (attested on *satya*, *yathārtha*, *tathya*, *pramā*, *dharma*, *yukta*, *ucita*, *sādhu*, *vāstava*, *paramārtha*, *tattva*, and others); *-tva* forms tend to appear in formal definitional contexts where the property is treated as a logical object of analysis.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Root or stem + agent suffix *-in* (possessive/habitual agent) or *-tṛ* (primary agent noun), or compound with *vādin* (one who speaks/asserts) or *jñānin* (one who knows). Yields a noun denoting a person characterized by a truth-domain property.
+
+### Examples
+- सत्यवादिन् → *satyavādin* → "one who speaks truth, a truth-teller"
+- असत्यवादिन् → *asatyavādin* → "one who speaks falsehood, a liar"
+
+### Notes
+The *-vādin* compound is the most productive agentive pattern in the truth-domain: *satyavādin* (truth-teller) and *asatyavādin* (liar) are both attested as legal and ethical categories. The agent suffix *-tṛ* generates *pramātṛ* (the knowing subject, one who has valid cognition), a technical epistemological term forming part of the standard triad *pramātṛ / pramāṇa / prameya*.
+
+---
+
+## 8. DISCOURSE-MARKING ADVERBIAL (additional pattern)
+
+### Pattern
+Ablative/adverbial form of a truth-domain nominal (suffix *-taḥ* or *-ena*) used sentence-initially or clause-initially as a discourse marker, signalling that the following proposition represents a deeper, corrective, or ultimate-level assessment.
+
+### Examples
+- वस्तुतस्तु → *vastutastu* → "but in reality / but from the standpoint of the real thing" (introduces corrective claim)
+- परमार्थतः न विद्यते → *paramārthataḥ na vidyate* → "it does not exist at the ultimate level"
+
+### Notes
+This pattern is structurally distinct from simple adverbial use of a neuter accusative (as in *satyam*, *yuktam*): the *-taḥ* forms (*vastutaḥ*, *paramārthataḥ*, *tattvataḥ*) function as level-of-analysis markers in philosophical prose, explicitly locating the following claim within a framework of degrees of reality or depth of analysis. The pattern is pervasive in Sanskrit commentary literature and constitutes a recognizable discourse genre feature (cf. P3 Group 9).
+
+---
+
+## 9. OATH / PERFORMATIVE FORMULA (additional pattern)
+
+### Pattern
+Truth-domain nominal in the instrumental case (*-ena*) with a verb of swearing or pledging (*śap-*, *pratijñā-*), or in the accusative as the object of a verb of speaking (*vad-*, *brū-*) in the imperative, constituting a performative or quasi-performative speech act.
+
+### Examples
+- सत्येन शपामि → *satyena śapāmi* → "I swear by truth" (oath formula; instrumental marks truth as the ground of the oath)
+- सत्यं वद → *satyaṃ vada* → "speak the truth" (imperative injunction; accusative marks truth as the content of the commanded speech act)
+
+### Notes
+These constructions are attested as fixed formulas in Vedic, legal, and epic literature and represent a pragmatically distinct use of truth-domain vocabulary: rather than attributing a truth-property to a proposition, they invoke truth as the ground or content of a speech act. The instrumental *satyena* and the accusative *satyam* occupy different syntactic roles but both participate in this performative pattern.
+
+---
+
+## 10. CONCESSIVE CONSTRUCTION (additional pattern)
+
+### Pattern
+Adverbially-used *satyam* (neuter accusative) followed by an adversative particle (*tu*, *tathāpi*, *kintu*), conceding a point before introducing a qualification or counter-consideration. Functions as a discourse-level concession marker.
+
+### Examples
+- सत्यं तु → *satyaṃ tu* → "true, but… / granted, yet…"
+- सत्यं तथापि → *satyaṃ tathāpi* → "true, yet even so…"
+
+### Notes
+This construction is structurally parallel to the English "granted, but…" or "true enough, however…" and is a recognizable device in Sanskrit philosophical argumentation for acknowledging an opponent's point before responding. *Satyam* here does not predicate truth of a specific proposition but functions as a concessive discourse particle; it is the only truth-domain term that participates in this pattern with this frequency.

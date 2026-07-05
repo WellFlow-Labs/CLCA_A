@@ -1,0 +1,517 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note on Derivational Morphology in Chinese
+
+Chinese derivational morphology differs substantially from that of Indo-European languages. The primary productive derivational processes attested in Mandarin Chinese are:
+
+- **Suffixation with nominalizing/categorizing suffixes:** 性 (-xìng, abstract property), 者 (-zhě, agentive), 化 (-huà, verbalization/transformation), 式 (-shì, type/mode), 感 (-gǎn, feeling/sense), 论 (-lùn, theory/discourse), 主义 (-zhǔyì, -ism)
+- **Prefixation:** Limited; 非- (fēi-, non-/un-), 反- (fǎn-, anti-/counter-), 超- (chāo-, super-/ultra-) are the most productive
+- **Reduplication:** Attested for some adjectives and verbs, with aspectual or intensifying effects
+
+Compounding is the dominant word-formation process in Chinese and has been extensively documented in P1 and P1b. The present step documents only **derivational** processes — those involving the addition of a bound morpheme to a base to produce a new lexical item of a different category or with a systematically shifted meaning — as distinct from compounding.
+
+Many P1 items show **no productive derivational morphology** beyond what is already documented. This is reported explicitly where it applies. The inventory below is restricted to forms that are genuinely attested in use.
+
+---
+
+## Derived Forms
+
+---
+
+### Base: 真实 (zhēnshí)
+
+---
+
+**Entry 1**
+1. **Base Form:** 真实 (zhēnshí)
+2. **Derived Form:** 真实性
+3. **Transliteration:** zhēnshíxìng
+4. **Literal Breakdown:** true + solid/real + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** authenticity, veracity, truthfulness (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 真实, producing a noun denoting the abstract property of being truthful or authentic. Appears in assessments of evidence, testimony, documents, and representations: 核实真实性 (verify the authenticity), 质疑其真实性 (question its veracity). Common in legal, journalistic, and academic registers.
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 2**
+1. **Base Form:** 真实 (zhēnshí)
+2. **Derived Form:** 真实感
+3. **Transliteration:** zhēnshígǎn
+4. **Literal Breakdown:** true + solid/real + feeling/sense (suffix 感)
+5. **Natural English Translation:** sense of reality, feeling of authenticity, realism (as an aesthetic quality)
+6. **Usage:** The suffix 感 derives a noun denoting the subjective impression or aesthetic quality of seeming real or authentic. Used in literary criticism, film criticism, and everyday aesthetic evaluation: 这部电影缺乏真实感 (this film lacks a sense of reality), 增强真实感 (enhance the feeling of authenticity).
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 3**
+1. **Base Form:** 真实 (zhēnshí)
+2. **Derived Form:** 不真实
+3. **Transliteration:** bù zhēnshí
+4. **Literal Breakdown:** not + true + solid/real (negation prefix 不)
+5. **Natural English Translation:** unreal, untrue, inauthentic, not genuine
+6. **Usage:** The negation prefix 不 combines with the adjective 真实 to produce its direct negation. Used in evaluative contexts to characterize representations, feelings, or situations as failing to correspond to reality: 感觉不真实 (it feels unreal), 描述不真实 (the description is inaccurate/untrue). Extremely common across all registers.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 正确 (zhèngquè)
+
+---
+
+**Entry 4**
+1. **Base Form:** 正确 (zhèngquè)
+2. **Derived Form:** 正确性
+3. **Transliteration:** zhèngquèxìng
+4. **Literal Breakdown:** upright/correct + certain/precise + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** correctness, accuracy (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 正确, producing a noun denoting the property of being correct. Used in philosophical, logical, and evaluative discourse: 验证其正确性 (verify its correctness), 政治正确性 (political correctness). Common in academic and formal registers.
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 5**
+1. **Base Form:** 正确 (zhèngquè)
+2. **Derived Form:** 不正确
+3. **Transliteration:** bù zhèngquè
+4. **Literal Breakdown:** not + upright/correct + certain/precise
+5. **Natural English Translation:** incorrect, inaccurate, wrong
+6. **Usage:** The negation prefix 不 combines with 正确 to produce its direct negation. Used across educational, political, and everyday contexts to evaluate statements, methods, or conduct as failing to conform to a standard: 这种说法不正确 (this formulation is incorrect). Extremely common.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 错误 (cuòwù)
+
+---
+
+**Entry 6**
+1. **Base Form:** 错误 (cuòwù)
+2. **Derived Form:** 错误性
+3. **Transliteration:** cuòwùxìng
+4. **Literal Breakdown:** wrong/mistaken + confused/mistaken + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** erroneousness, the quality of being mistaken
+6. **Usage:** The suffix 性 nominalizes 错误 to produce a noun denoting the abstract property of being erroneous. Less common than 正确性 or 真实性; appears primarily in philosophical and logical discourse when the property of being wrong must be referred to abstractly: 论证其错误性 (argue for its erroneousness).
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 准确 (zhǔnquè)
+
+---
+
+**Entry 7**
+1. **Base Form:** 准确 (zhǔnquè)
+2. **Derived Form:** 准确性
+3. **Transliteration:** zhǔnquèxìng
+4. **Literal Breakdown:** standard/precise + certain/precise + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** accuracy, precision (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 准确, producing a noun denoting the property of being accurate or precise. Extremely common in scientific, technical, journalistic, and legal contexts: 提高准确性 (improve accuracy), 数据的准确性 (the accuracy of the data).
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 8**
+1. **Base Form:** 准确 (zhǔnquè)
+2. **Derived Form:** 不准确
+3. **Transliteration:** bù zhǔnquè
+4. **Literal Breakdown:** not + standard/precise + certain/precise
+5. **Natural English Translation:** inaccurate, imprecise, inexact
+6. **Usage:** The negation prefix 不 combines with 准确 to produce its direct negation. Used in scientific, journalistic, and everyday contexts to evaluate measurements, descriptions, or translations as falling short of the required degree of precision: 这个数据不准确 (this figure is inaccurate).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 可靠 (kěkào)
+
+---
+
+**Entry 9**
+1. **Base Form:** 可靠 (kěkào)
+2. **Derived Form:** 可靠性
+3. **Transliteration:** kěkàoxìng
+4. **Literal Breakdown:** can + lean on/rely on + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** reliability, dependability (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 可靠, producing a noun denoting the property of being reliable. Widely used in technical, scientific, and evaluative contexts: 系统可靠性 (system reliability), 信息的可靠性 (the reliability of the information), 可靠性测试 (reliability testing).
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 10**
+1. **Base Form:** 可靠 (kěkào)
+2. **Derived Form:** 不可靠
+3. **Transliteration:** bù kěkào
+4. **Literal Breakdown:** not + can + lean on/rely on
+5. **Natural English Translation:** unreliable, untrustworthy, undependable
+6. **Usage:** The negation prefix 不 combines with 可靠 to produce its direct negation. Used in assessments of sources, persons, information, and equipment: 这个消息来源不可靠 (this source is unreliable), 他这个人不可靠 (he is an unreliable person).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 欺骗 (qīpiàn)
+
+---
+
+**Entry 11**
+1. **Base Form:** 欺骗 (qīpiàn)
+2. **Derived Form:** 欺骗性
+3. **Transliteration:** qīpiànxìng
+4. **Literal Breakdown:** deceive + cheat/trick + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** deceptiveness, deceptive nature, fraudulent character
+6. **Usage:** The suffix 性 nominalizes 欺骗 to produce a noun denoting the property of being deceptive. Used in legal, moral, and analytical contexts to characterize the deceptive quality of an act, statement, or practice: 具有欺骗性 (to be deceptive in nature), 欺骗性广告 (deceptive advertising).
+7. **Epistemic Status:** [CORE]
+
+---
+
+**Entry 12**
+1. **Base Form:** 欺骗 (qīpiàn)
+2. **Derived Form:** 欺骗者
+3. **Transliteration:** qīpiànzhě
+4. **Literal Breakdown:** deceive + cheat/trick + person (agentive suffix 者)
+5. **Natural English Translation:** deceiver, one who deceives
+6. **Usage:** The agentive suffix 者 derives a noun denoting the person who performs the act of deception. Used in moral, legal, and narrative contexts: 欺骗者终将受到惩罚 (deceivers will ultimately be punished). Less common than the verbal form 欺骗 itself.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 诚实 (chéngshí)
+
+---
+
+**Entry 13**
+1. **Base Form:** 诚实 (chéngshí)
+2. **Derived Form:** 诚实性
+3. **Transliteration:** chéngshíxìng
+4. **Literal Breakdown:** sincere/honest + solid/real + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** honesty, truthfulness (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 诚实, producing a noun denoting the property of being honest. Less frequent than 诚实 itself; appears in more formal or analytical contexts where the property must be referred to abstractly: 诚实性原则 (the principle of honesty).
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+**Entry 14**
+1. **Base Form:** 诚实 (chéngshí)
+2. **Derived Form:** 不诚实
+3. **Transliteration:** bù chéngshí
+4. **Literal Breakdown:** not + sincere/honest + solid/real
+5. **Natural English Translation:** dishonest, untruthful, insincere
+6. **Usage:** The negation prefix 不 combines with 诚实 to produce its direct negation. Used in moral assessments of persons or conduct: 不诚实的行为 (dishonest behavior), 对人不诚实 (to be dishonest with people). Common in everyday and educational contexts.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 虚伪 (xūwěi)
+
+---
+
+**Entry 15**
+1. **Base Form:** 虚伪 (xūwěi)
+2. **Derived Form:** 虚伪性
+3. **Transliteration:** xūwěixìng
+4. **Literal Breakdown:** empty/hollow + false/spurious + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** hypocrisy, insincerity (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective/noun 虚伪, producing a noun denoting the property of being hypocritical or insincere. Used in moral and social criticism: 揭示其虚伪性 (expose its hypocritical nature). Less common than 虚伪 itself.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 伪造 (wěizào)
+
+---
+
+**Entry 16**
+1. **Base Form:** 伪造 (wěizào)
+2. **Derived Form:** 伪造者
+3. **Transliteration:** wěizàozhě
+4. **Literal Breakdown:** false/spurious + make/manufacture + person (agentive suffix 者)
+5. **Natural English Translation:** forger, counterfeiter, fabricator
+6. **Usage:** The agentive suffix 者 derives a noun denoting the person who commits forgery or fabrication. Used in legal and criminal contexts: 伪造者将被追究刑事责任 (forgers will be held criminally liable).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 伪装 (wěizhuāng)
+
+---
+
+**Entry 17**
+1. **Base Form:** 伪装 (wěizhuāng)
+2. **Derived Form:** 伪装者
+3. **Transliteration:** wěizhuāngzhě
+4. **Literal Breakdown:** false/spurious + dress up/disguise + person (agentive suffix 者)
+5. **Natural English Translation:** impostor, masquerader, one who disguises themselves
+6. **Usage:** Already documented in P1b. The agentive suffix 者 derives a noun denoting a person who conceals their true identity or nature through deliberate disguise. Used in narrative, journalistic, and legal contexts.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 伪善 (wěishàn)
+
+---
+
+**Entry 18**
+1. **Base Form:** 伪善 (wěishàn)
+2. **Derived Form:** 伪善者
+3. **Transliteration:** wěishànzhě
+4. **Literal Breakdown:** false/spurious + good/virtuous + person (agentive suffix 者)
+5. **Natural English Translation:** hypocrite, one who displays false virtue
+6. **Usage:** The agentive suffix 者 derives a noun denoting a person who displays false moral virtue. Used in moral criticism and literary contexts: 他是个伪善者 (he is a hypocrite). Closely synonymous with 伪君子 but slightly more formal.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 伪科学 (wěi kēxué)
+
+---
+
+**Entry 19**
+1. **Base Form:** 伪科学 (wěi kēxué)
+2. **Derived Form:** 伪科学性
+3. **Transliteration:** wěi kēxuéxìng
+4. **Literal Breakdown:** false/spurious + science + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** pseudoscientific character, the quality of being pseudoscientific
+6. **Usage:** The suffix 性 nominalizes 伪科学 to produce a noun denoting the property of being pseudoscientific. Used in scientific and critical discourse to characterize the pseudoscientific nature of a claim or practice: 其伪科学性已被证明 (its pseudoscientific character has been demonstrated). Less common than 伪科学 itself.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 鉴定 (jiàndìng)
+
+---
+
+**Entry 20**
+1. **Base Form:** 鉴定 (jiàndìng)
+2. **Derived Form:** 鉴定者
+3. **Transliteration:** jiàndìngzhě
+4. **Literal Breakdown:** examine/appraise + determine/fix + person (agentive suffix 者)
+5. **Natural English Translation:** appraiser, authenticator, assessor
+6. **Usage:** The agentive suffix 者 derives a noun denoting the person who performs expert appraisal or authentication. Used in legal, forensic, and art authentication contexts: 鉴定者的结论 (the appraiser's conclusion). Less common than the compound 鉴定人 (jiàndìngrén), which is the standard legal term for an expert witness or appraiser.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 真诚 (zhēnchéng)
+
+---
+
+**Entry 21**
+1. **Base Form:** 真诚 (zhēnchéng)
+2. **Derived Form:** 真诚性
+3. **Transliteration:** zhēnchéngxìng
+4. **Literal Breakdown:** true/genuine + sincere + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** sincerity, genuineness (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 真诚, producing a noun denoting the property of being genuinely sincere. Used in philosophical, psychological, and evaluative contexts: 质疑其真诚性 (question its sincerity), 真诚性原则 (the principle of sincerity). Less common than 真诚 itself.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 虚假 (xūjiǎ)
+
+---
+
+**Entry 22**
+1. **Base Form:** 虚假 (xūjiǎ)
+2. **Derived Form:** 虚假性
+3. **Transliteration:** xūjiǎxìng
+4. **Literal Breakdown:** empty/hollow + false + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** falseness, fraudulent character, deceptive quality (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes the adjective 虚假, producing a noun denoting the property of being false or fraudulent. Used in legal and analytical contexts: 陈述的虚假性 (the falseness of the statement), 认定其虚假性 (determine its fraudulent character). Less common than 虚假 itself.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 实质 (shízhì)
+
+---
+
+**Entry 23**
+1. **Base Form:** 实质 (shízhì)
+2. **Derived Form:** 实质性
+3. **Transliteration:** shízhìxìng
+4. **Literal Breakdown:** real/actual + substance/nature + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** substantive (as an attributive adjective); substantiveness
+6. **Usage:** The suffix 性 combines with 实质 to produce an attributive adjective/noun used to characterize something as having genuine substance or significance. Extremely common in legal, diplomatic, and administrative discourse: 实质性进展 (substantive progress), 实质性问题 (substantive issues), 实质性审查 (substantive review).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 本质 (běnzhì)
+
+---
+
+**Entry 24**
+1. **Base Form:** 本质 (běnzhì)
+2. **Derived Form:** 本质性
+3. **Transliteration:** běnzhìxìng
+4. **Literal Breakdown:** root/origin + substance/nature + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** essential (as an attributive adjective); essentialness
+6. **Usage:** The suffix 性 combines with 本质 to produce an attributive adjective/noun used to characterize something as pertaining to or constituting the essential nature of a thing. Used in philosophical and analytical discourse: 本质性差异 (essential difference), 本质性变化 (essential change). Less common than 实质性.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 事实 (shìshí)
+
+---
+
+**Entry 25**
+1. **Base Form:** 事实 (shìshí)
+2. **Derived Form:** 事实性
+3. **Transliteration:** shìshíxìng
+4. **Literal Breakdown:** matter/affair + solid/real + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** factual character, factuality (as an abstract property)
+6. **Usage:** The suffix 性 nominalizes 事实 to produce a noun denoting the property of being factual. Used in legal and journalistic contexts to assess whether a claim has the character of a fact: 陈述的事实性 (the factual character of the statement), 事实性错误 (factual error). Less common than 事实 itself.
+7. **Epistemic Status:** [MARGINAL]
+
+---
+
+### Base: 核实 (héshí)
+
+---
+
+**Entry 26**
+1. **Base Form:** 核实 (héshí)
+2. **Derived Form:** 核实者
+3. **Transliteration:** héshízhě
+4. **Literal Breakdown:** examine/verify + real/actual + person (agentive suffix 者)
+5. **Natural English Translation:** verifier, fact-checker
+6. **Usage:** The agentive suffix 者 derives a noun denoting the person who performs verification. Used in journalistic and administrative contexts, though 核实人员 (verification personnel) is more common in formal usage. 核实者 appears in discussions of fact-checking processes.
+7. **Epistemic Status:** [UNCERTAIN]
+
+---
+
+### Base: 写实 (xiěshí)
+
+---
+
+**Entry 27**
+1. **Base Form:** 写实 (xiěshí)
+2. **Derived Form:** 写实性
+3. **Transliteration:** xiěshíxìng
+4. **Literal Breakdown:** write/depict + real/actual + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** realism (as an aesthetic property), realistic quality
+6. **Usage:** The suffix 性 nominalizes 写实 to produce a noun denoting the aesthetic property of being realistic or true to life. Used in art and literary criticism: 这幅画具有很强的写实性 (this painting has a strong realistic quality).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 假设 (jiǎshè)
+
+---
+
+**Entry 28**
+1. **Base Form:** 假设 (jiǎshè)
+2. **Derived Form:** 假设性
+3. **Transliteration:** jiǎshèxìng
+4. **Literal Breakdown:** hypothetical + set up/establish + nature/property (nominalizing suffix 性)
+5. **Natural English Translation:** hypothetical character, conjectural quality; hypothetical (as an attributive adjective)
+6. **Usage:** The suffix 性 combines with 假设 to produce an attributive adjective/noun used to characterize something as hypothetical or conjectural in nature. Used in logical, scientific, and legal discourse: 假设性问题 (hypothetical question), 具有假设性 (to be hypothetical in character).
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 欺骗 (qīpiàn) — additional derivation
+
+---
+
+**Entry 29**
+1. **Base Form:** 欺骗 (qīpiàn)
+2. **Derived Form:** 反欺骗
+3. **Transliteration:** fǎn qīpiàn
+4. **Literal Breakdown:** anti-/counter- + deceive + cheat/trick (prefix 反-)
+5. **Natural English Translation:** anti-deception, counter-fraud
+6. **Usage:** The prefix 反- combines with 欺骗 to produce an attributive compound used in regulatory, commercial, and security contexts to describe measures or systems designed to counter deception: 反欺骗机制 (anti-deception mechanism), 反欺骗培训 (anti-fraud training). Productive in contemporary administrative and commercial language.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 伪造 (wěizào) — additional derivation
+
+---
+
+**Entry 30**
+1. **Base Form:** 伪造 (wěizào)
+2. **Derived Form:** 反伪造
+3. **Transliteration:** fǎn wěizào
+4. **Literal Breakdown:** anti-/counter- + false/spurious + make/manufacture (prefix 反-)
+5. **Natural English Translation:** anti-counterfeiting, anti-forgery
+6. **Usage:** The prefix 反- combines with 伪造 to produce an attributive compound used in legal, commercial, and security contexts: 反伪造技术 (anti-counterfeiting technology), 反伪造措施 (anti-forgery measures). Common in intellectual property and currency security discourse.
+7. **Epistemic Status:** [CORE]
+
+---
+
+### Base: 假冒 (jiǎmào) — additional derivation
+
+---
+
+**Entry 31**
+1. **Base Form:** 假冒 (jiǎmào)
+2. **Derived Form:** 反假冒
+3. **Transliteration:** fǎn jiǎmào
+4. **Literal Breakdown:** anti-/counter- + false/fake + falsely claim (prefix 反-)
+5. **Natural English Translation:** anti-counterfeiting, anti-impersonation
+6. **Usage:** The prefix 反- combines with 假冒 to produce an attributive compound used in consumer protection, intellectual property, and regulatory contexts: 反假冒行动 (anti-counterfeiting action), 反假冒法规 (anti-counterfeiting regulations). Common in commercial and legal discourse.
+7. **Epistemic Status:** [CORE]
+
+---
+
+## Forms with No Common Derivation Identified
+
+The following P1 items were examined for derivational morphology. No productive or commonly attested derivational forms beyond those already documented in P1 and P1b were identified. This is reported explicitly.
+
+---
+
+**真 (zhēn)** — as a free morpheme and root, 真 participates extensively in compounding (documented in P1b) but does not take derivational suffixes directly. The form 真性 exists in technical usage (e.g., 真性近视, true myopia, as opposed to pseudomyopia) but functions as a bound attributive modifier in medical terminology rather than as a productive derivational form within the truth-evaluation domain. No common derivation identified within the domain of this study.
+
+**假 (jiǎ)** — as a free morpheme, 假 participates in compounding and in grammaticalized conditional constructions (documented in P1b) but does not take derivational suffixes productively within the truth-evaluation domain. No common derivation identified.
+
+**伪 (wěi)** — as a bound root, 伪 functions productively as a prefixal element in compounding (documented in P1b) but does not take suffixes such as 性 or 者 directly. Agentive and property nominalizations are formed on compounds containing 伪 (e.g., 伪造者, 伪善者, documented above) rather than on 伪 alone. No common derivation of bare 伪 identified.
+
+**真相 (zhēnxiàng)** — no common derivation identified. The form 真相性 is not attested. Nominal and adverbial uses are handled by the base form itself.
+
+**真理 (zhēnlǐ)** — no common derivation identified. 真理性 is occasionally encountered in philosophical writing (e.g., 真理性认识, knowledge of a truth-bearing character) but is not a standard or widely attested form. Not included.
+
+**真伪 (zhēnwěi)** — no common derivation identified. Functions as a binary nominal; does not take productive suffixes.
+
+**谎言 (huǎngyán)** — no common derivation identified. The base form functions as a count noun; no productive suffixation with 性, 者, or 化 is attested.
+
+**如实 (rúshí)** — no common derivation identified. Functions as an adverb; does not take derivational suffixes.
+
+**失实 (shīshí)** — no common derivation identified. Functions as a verb-object compound; no productive suffixation attested.
+
+**属实 (shǔshí)** — no common derivation identified. Functions as a verb-object compound in formal verification contexts; no productive suffixation attested.
+
+**真诚 (zhēnchéng)** — 真诚性 is documented above (Entry 21) as [MARGINAL]. No further derivations identified.
+
+**名副其实 (míng fù qí shí)** — no common derivation identified. As a fixed four-character expression (成语), it does not participate in productive derivational morphology.
+
+**原形毕露 (yuánxíng bì lù)** — no common derivation identified. Fixed expression; no derivational morphology attested.
+
+**真相大白 (zhēnxiàng dàbái)** — no common derivation identified. Fixed expression.
+
+**辨伪 (biànwěi)** — no common derivation identified. Primarily a scholarly term; no productive suffixation attested.
+
+**信实 (xìnshí)** — no common derivation identified. A literary and archaic term; no productive derivational forms attested in contemporary usage.
+
+**实事求是 (shíshì qiúshì)** — no common derivation identified. Fixed expression; does not take derivational suffixes.
+
+**求真务实 (qiúzhēn wùshí)** — no common derivation identified. Fixed expression.
+
+---
+
+## Note on Productivity
+
+The suffix **性 (-xìng)** is the most productive derivational morpheme attested across this domain. It applies to adjectives and some nouns to produce abstract property nouns, and its application is broadly regular across the items examined. However, not all adjectives in the domain take it with equal frequency: 真实性, 准确性, 可靠性, and 实质性 are high-frequency forms, while 诚实性, 真诚性, and 虚假性 are lower-frequency and more restricted to formal or analytical registers.
+
+The suffix **者 (-zhě)** applies productively to verbal bases to produce agentive nouns. It is attested on 欺骗者, 伪造者, 伪装者, and 伪善者 within this domain. Its application is constrained to verbal or verbal-nominal bases; it does not attach to purely adjectival bases.
+
+The prefix **反- (fǎn-)** applies productively to verbal and nominal bases to produce anti- or counter- compounds. Within this domain it is attested on 欺骗, 伪造, and 假冒. Its productivity in contemporary administrative and commercial language is well-supported.
+
+The prefix **不- (bù-)** is a general negation morpheme that applies to adjectives across the language. Its application to 真实, 正确, 准确, 可靠, and 诚实 is entirely regular and unremarkable as a derivational process; it is documented here for completeness but does not represent a domain-specific derivational pattern.
+
+---
+
+*End of P2a Derivational System output.*

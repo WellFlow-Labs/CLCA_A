@@ -1,0 +1,274 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Greek (el)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Greek encodes dynamic meanings — becoming, causing, and maintaining truth-related states — using vocabulary established in P1 through P5. The analysis draws exclusively on forms and constructions documented in the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Where the same construction serves multiple terms, this is noted rather than repeated in full.
+
+The organization follows the three semantic types specified: (1) becoming a truth-related state, (2) becoming an opposed state, (3) causing a truth-related state. A fourth subsection covers stability and resistance to change, which emerged as a distinct pattern in the CONTEXT data.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 Expressions of the type "X becomes [truth-related state]"
+
+---
+
+**Pattern A: αποδεικνύεται + [truth-domain adjective]**
+
+This is the primary construction for expressing that something transitions into an evaluated truth-related state. Documented in P4a (Construction 4) and P4b as the standard inchoative pattern. The verb αποδεικνύεται (present) or αποδείχθηκε (aorist) encodes both the process of evaluation and its result.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Ο ισχυρισμός αποδείχθηκε αληθής. | *O ishirismós apodíhthike alithís.* | "The claim proved to be true." | Documented P4a Construction 4; aorist marks completed transition. |
+| Αποδείχθηκε αναξιόπιστος. | *Apodíhthike anaksiópistos.* | "He proved to be unreliable." | Documented P4b; subject may be person or proposition. |
+| Αποδεικνύεται αληθές. | *Apodiknívetai alithés.* | "It proves to be true." | Documented P2b (αποδεδειγμένος Construction 4); present marks ongoing or general process. |
+| Αποδεικνύεται αξιόπιστος στην πράξη. | *Apodiknívetai aksiópistos stin práksi.* | "He proves to be reliable in practice." | Documented P2b (αξιόπιστος Construction 3); prepositional complement specifies domain. |
+
+---
+
+**Pattern B: κρίνεται / κρίθηκε + [truth-domain adjective]**
+
+Documented throughout P2b and P5. This construction encodes institutional or authoritative evaluation resulting in a truth-related classification. It differs from Pattern A in that it foregrounds the evaluating agent (a court, authority, or institution) rather than the evidence itself.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Η κατάθεσή του κρίθηκε αληθής. | *I katáthesí tu krítike alithís.* | "His testimony was judged to be true." | Documented P2b (αληθής Construction 1); legal register. |
+| Η κατάθεσή του κρίθηκε αναξιόπιστη. | *I katáthesí tu krítike anaksiópistos.* | "His testimony was judged unreliable." | Documented P2b (αναξιόπιστος Construction 1). |
+| Η ψήφος κρίθηκε έγκυρη. | *I psífos krítike éngiri.* | "The vote was ruled valid." | Documented P2b (έγκυρος Construction 2); electoral/legal register. |
+| Ο ισχυρισμός κρίθηκε ψευδής. | *O ishirismós krítike psevdís.* | "The claim was judged false." | Documented P2b (ψευδής Construction 1) and P5 Opposition 1. |
+
+---
+
+**Pattern C: θεωρείται + [truth-domain adjective]**
+
+Documented in P2b (έγκυρος Construction 3). This construction encodes a weaker, more provisional transition — something comes to be considered or regarded as having a truth-related property, without the finality of κρίθηκε or the evidential weight of αποδείχθηκε.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Δεν θεωρείται πλέον έγκυρο. | *Den theoríte pléon éngiro.* | "It is no longer considered valid." | Documented P2b (έγκυρος Construction 3); the negated form is more commonly attested than the positive. |
+
+*Note: A positive construction θεωρείται έγκυρο ("it is considered valid") is structurally available and follows the same pattern, but the negated form with πλέον (no longer) is the more frequently documented construction in the CONTEXT.*
+
+---
+
+**Pattern D: βγαίνει στο φως (truth as emergence)**
+
+Documented in P2b (αλήθεια Construction 1). This is a metaphorical construction treating truth as something that comes into a state of visibility rather than being predicated of a proposition.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Η αλήθεια βγαίνει πάντα στο φως. | *I alíthia vgéni pánda sto fos.* | "The truth always comes to light." | Documented P2b; proverbial; αλήθεια is subject with agentive properties; βγαίνει encodes emergence into a state of visibility. |
+
+---
+
+**Pattern E: αποκαλύπτεται (truth as uncovering)**
+
+Documented in P2b (αλήθεια Construction 3) via the transitive αποκαλύπτω. The passive/middle form encodes the transition of truth from a concealed to a revealed state, resonating with the etymological meaning of αλήθεια as unconcealment.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Αποκαλύφθηκε η αλήθεια. | *Apokalífthike i alíthia.* | "The truth was revealed." | Passive of αποκαλύπτω; documented via P2b (αλήθεια Construction 3); the passive construction treats truth as undergoing a change of state from hidden to revealed. |
+
+---
+
+### 1.2 Becoming valid / legitimate
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Νομιμοποιείται η κατάσταση. | *Nomimopiiíte i katástasi.* | "The situation becomes legitimate." | Via νομιμοποιώ (documented P2a, νόμιμος Derived Form 3); passive encodes the transition to legitimate status. |
+| Πιστοποιείται ως γνήσιο αντίγραφο. | *Pistopoiíte o̱s gnísio andígrafo.* | "It is certified as a true copy." | Documented P2b (γνήσιος Construction 4); the passive of πιστοποιώ encodes the transition to officially certified status. |
+
+---
+
+## 2. BECOMING AN OPPOSED STATE
+
+### 2.1 Expressions of the type "X becomes [non-truth / opposed state]"
+
+---
+
+**Pattern A: αποδείχθηκε / κρίθηκε + [negative truth-domain adjective]**
+
+The same inchoative constructions documented in Section 1 apply symmetrically to negative states. Documented throughout P2b and P5.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Ο ισχυρισμός κρίθηκε ψευδής. | *O ishirismós krítike psevdís.* | "The claim was judged false." | Documented P2b (ψευδής Construction 1); transition to false status via institutional judgment. |
+| Αποδείχθηκε αναξιόπιστος. | *Apodíhthike anaksiópistos.* | "He proved to be unreliable." | Documented P4b; transition to unreliable status via evidence. |
+| Αποδείχθηκε ότι το κείμενο είναι νόθο. | *Apodíhthike óti to kímeno íne nótho.* | "It was proven that the text is spurious." | Documented P2b (νόθος Construction 2); transition to spurious status via philological demonstration. |
+| Αποδείχθηκε ότι η υπογραφή ήταν πλαστή. | *Apodíhthike óti i ipografí ítan plastí.* | "It was proven that the signature was forged." | Documented P2b (πλαστός Construction 4); transition to forged status via forensic demonstration. |
+
+---
+
+**Pattern B: κλονίζεται η εμπιστοσύνη (trust becomes undermined)**
+
+Documented in P1b Root 3 (#25) and P2b. This construction encodes the transition of trust from a stable to a destabilized state.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Η απόφαση κλόνισε την εμπιστοσύνη του κοινού. | *I apófasi klónise tin empistoséni tu kinú.* | "The decision shook public confidence." | Documented P1b Root 3 #25; κλονίζω encodes the transition from stable trust to undermined trust; the object εμπιστοσύνη undergoes the change of state. |
+
+---
+
+**Pattern C: ακυρώνεται (becomes invalid)**
+
+Documented via ακυρώνω (P2a, έγκυρος Derived Form 5) and ακύρωση (P2a, Derived Form 6). The passive of ακυρώνω encodes the transition from valid to invalid status.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Η απόφαση ακυρώθηκε. | *I apófasi akiróthike.* | "The decision was annulled." | Via ακυρώνω (documented P2a); passive encodes transition to invalid/void status. |
+| Δεν θεωρείται πλέον έγκυρο. | *Den theoríte pléon éngiro.* | "It is no longer considered valid." | Documented P2b (έγκυρος Construction 3); πλέον marks the transition point from valid to no-longer-valid status. |
+
+---
+
+**Pattern D: νοθεύεται (becomes adulterated / spurious)**
+
+Documented via νοθεύω (P2a, νόθος Derived Form 2). The passive encodes the transition from genuine to adulterated or falsified status.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Τα τρόφιμα νοθεύτηκαν. | *Ta trofima nothéftikan.* | "The food was adulterated." | Via νοθεύω (documented P2a); passive encodes transition to adulterated state. |
+| Τα εκλογικά αποτελέσματα νοθεύτηκαν. | *Ta eklogika apotelesmata nothéftikan.* | "The election results were falsified." | Via νοθεύω (documented P2a, P2b νόθος Construction 3); transition to falsified state. |
+
+---
+
+**Pattern E: ζει μέσα στο ψεύδος (entering a state of falsehood)**
+
+Documented in P2b (ψεύδος Construction 2). This construction treats ψεύδος as a space or condition that a person inhabits, encoding a state rather than a transition, but the prepositional phrase μέσα στο implies immersion in a condition that was entered at some point.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Ζει μέσα στο ψεύδος. | *Zí mésa sto pséfdos.* | "He/she lives in falsehood / lives a lie." | Documented P2b; static construction encoding habitual immersion in a false state; the transition into this state is implied but not encoded by a specific verb. |
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE
+
+### 3.1 Expressions of the type "Y causes X to be [truth-related state]"
+
+As documented in P4a (Construction 5) and P4b, Greek has no productive morphological causative for truth-domain adjectives. Causative meanings are expressed through lexical causative verbs, each restricted to a specific sub-domain.
+
+---
+
+**Pattern A: Lexical causatives — causing falsification or spuriousness**
+
+| Verb | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| νοθεύω | Νόθευσε τα εκλογικά αποτελέσματα. | *Nóthefse ta eklogika apotelesmata.* | "He falsified the election results." | Documented P4a Construction 5, P2a (νόθος Derived Form 2); causes transition to νόθος state; restricted to food, fuel, documents, elections. |
+| πλαστογραφώ | Πλαστογράφησε την υπογραφή. | *Plastografíse tin ipografí.* | "He/she forged the signature." | Documented P2a (πλαστός Derived Form 3); causes transition to πλαστός state; restricted to documents and signatures. |
+
+---
+
+**Pattern B: Lexical causatives — causing invalidity**
+
+| Verb | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| ακυρώνω | Ακύρωσε τη σύμβαση. | *Akíro̱se ti símvasi.* | "He annulled the contract." | Documented P4a Construction 5, P2a (έγκυρος Derived Form 5); causes transition to άκυρος state; used in legal and administrative contexts. |
+
+---
+
+**Pattern C: Lexical causatives — causing legitimacy**
+
+| Verb | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| νομιμοποιώ | Νομιμοποίησε την κατάσταση. | *Nomimopíise tin katástasi.* | "He legitimized the situation." | Documented P2a (νόμιμος Derived Form 3); causes transition to νόμιμος state; used in legal and political contexts. |
+| γνησιοποιώ | Γνησιοποίησε την υπογραφή. | *Gnisiopíise tin ipografí.* | "He certified the signature as genuine." | Documented P2a (γνήσιος Derived Form 3); causes transition to γνήσιος state; restricted to administrative certification. |
+| πιστοποιώ | Πιστοποίησε την ταυτότητά του. | *Pistopoíise tin taftótitá tu.* | "He verified his identity." | Documented P2a (πιστ- Root 3 #12); causes transition to πιστοποιημένος state; used in legal and administrative contexts. |
+
+---
+
+**Pattern D: Causing undermining of trust**
+
+| Verb | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| κλονίζω | Κλόνισε την εμπιστοσύνη του κοινού. | *Klónise tin empistoséni tu kinú.* | "He shook public confidence." | Documented P1b Root 3 #25; causes transition from stable to undermined trust; κλονίζω is the specific verb for this causative in the trust domain. |
+| καταχράομαι | Κατάχρηση εμπιστοσύνης. | *Katáhrisi empistosénis.* | "Abuse of confidence / breach of trust." | Documented P1b Root 3 #26; nominal construction encoding the act of exploiting a trust relationship; the causative meaning (causing trust to be violated) is encoded in the noun phrase rather than a verb. |
+
+---
+
+**Pattern E: Causing a false impression or illusion**
+
+| Verb/Construction | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| κρύβω + αλήθεια | Κρύβει την αλήθεια. | *Krívi tin alíthia.* | "He/she is hiding the truth." | Documented P2b (αλήθεια Construction 2); causes truth to remain in a concealed state; the causative meaning is encoded by the transitive verb κρύβω with αλήθεια as object. |
+| διαδίδω + ψεύδη | Διαδίδει ψεύδη. | *Diadídi pséfdi.* | "He/she spreads falsehoods." | Documented P2b (ψεύδος Construction 3); causes falsehoods to enter circulation; διαδίδω encodes the causative spreading of false content. |
+
+---
+
+**Pattern F: Causing proof or substantiation**
+
+| Verb | Example | Transliteration | Translation | Notes |
+|---|---|---|---|---|
+| αποδεικνύω | Αποδεικνύω την αθωότητά μου. | *Apodeiknío̱ tin athoótitá mu.* | "I prove my innocence." | Documented P2a (αποδεδειγμένος Derived Form 1); causes a claim to transition to αποδεδειγμένος state; the agent actively produces the proof. |
+| τεκμηριώνω | Τεκμηριώνω έναν ισχυρισμό. | *Tekmirio̱no̱ énan ishirismó.* | "I substantiate a claim." | Documented P2a (τεκμηριωμένος Derived Form 1); causes a claim to transition to τεκμηριωμένος state; associated with documentation and evidence-gathering. |
+
+---
+
+## 4. STABILITY AND RESISTANCE TO CHANGE
+
+This subsection documents constructions that encode the maintenance of a truth-related state over time, or resistance to transition. These emerged as a distinct pattern in the CONTEXT data, particularly in legal and administrative registers.
+
+---
+
+**Pattern A: παραμένει + [truth-domain adjective] (remains in a state)**
+
+Documented in P2b for multiple items. This construction explicitly encodes the persistence of a truth-related state against potential change.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Το συμβόλαιο παραμένει έγκυρο. | *To simvólaio paraméni éngiro.* | "The contract remains valid." | Documented P2b (έγκυρος Construction 1); παραμένει encodes persistence of valid status. |
+| Το αποτέλεσμα παραμένει αμφίβολο. | *To apotélesma paraméni amfívolo.* | "The outcome remains uncertain." | Documented P2b (αμφίβολος Construction 3); παραμένει encodes persistence of uncertain status. |
+
+---
+
+**Pattern B: Fixed expressions asserting unchallengeable status**
+
+Documented in P2b and P5. These constructions encode a state that is presented as resistant to any transition toward doubt or contestation.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Αδιαμφισβήτητο γεγονός | *Adiamfisvitiito gegonós* | "Indisputable fact" | Documented P2b (αδιαμφισβήτητος Construction 1); the adjective itself encodes resistance to challenge. |
+| Χωρίς αμφιβολία | *Horís amfivolía* | "Without doubt" | Documented P2b (αμφίβολος Construction 1); fixed expression asserting the absence of any transition toward doubt. |
+| Πέρα από κάθε αμφιβολία | *Péra apó káthe amfivolía* | "Beyond any doubt" | Documented P2b (αμφίβολος Construction 5); stronger assertion of resistance to doubt; standard in legal discourse. |
+
+---
+
+**Pattern C: Έγκυρο έως… (validity bounded in time)**
+
+Documented in P2b (έγκυρος Construction 4). This construction encodes a state of validity that is stable within a defined temporal boundary, implying automatic transition to invalid status at the boundary.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Έγκυρο έως [date]. | *Éngiro éo̱s [date].* | "Valid until [date]." | Documented P2b; encodes temporally bounded stability; the construction implies that the transition to άκυρος will occur automatically at the specified date. |
+
+---
+
+**Pattern D: Resistance to revealing truth**
+
+Documented in P2b (αλήθεια Constructions 2 and 4). These constructions encode active or psychological resistance to the transition of truth from concealed to revealed.
+
+| Example | Transliteration | Translation | Notes |
+|---|---|---|---|
+| Κρύβει την αλήθεια. | *Krívi tin alíthia.* | "He/she is hiding the truth." | Documented P2b (αλήθεια Construction 2); active maintenance of truth in a concealed state. |
+| Δεν αντέχει την αλήθεια. | *Den andéhi tin alíthia.* | "He/she cannot bear the truth." | Documented P2b (αλήθεια Construction 4); psychological resistance to confronting truth; the construction encodes an inability to allow truth to enter one's acknowledged reality. |
+
+---
+
+## 5. SUMMARY OF PATTERNS
+
+The following observations are supported by the CONTEXT data:
+
+**5.1 Asymmetry in inchoative constructions.** The primary inchoative construction (αποδείχθηκε / κρίθηκε + adjective) applies symmetrically to both positive truth-related states (αληθής, έγκυρος, αξιόπιστος) and negative states (ψευδής, αναξιόπιστος, νόθος, πλαστός). No asymmetry in the availability of this construction across the two poles is documented in the CONTEXT.
+
+**5.2 Absence of a productive morphological causative.** As documented in P4a and P4b, Greek has no productive morphological causative suffix applicable across truth-domain adjectives. Each sub-domain has its own lexical causative verb (νοθεύω, πλαστογραφώ, ακυρώνω, νομιμοποιώ, γνησιοποιώ, πιστοποιώ), and these are not interchangeable.
+
+**5.3 Differentiation between αποδείχθηκε and κρίθηκε.** Both verbs encode transition to an evaluated state, but they differ in what drives the transition: αποδείχθηκε foregrounds evidence and demonstration, while κρίθηκε foregrounds institutional or authoritative judgment. This distinction is consistent across the CONTEXT data.
+
+**5.4 Metaphorical constructions for αλήθεια.** Truth (αλήθεια) participates in a distinct set of dynamic constructions not available to other truth-domain terms: it can emerge (βγαίνει στο φως), be revealed (αποκαλύπτεται), be hidden (κρύβεται), and be endured or resisted (αντέχεται). These constructions treat αλήθεια as an entity with quasi-agentive or quasi-physical properties, consistent with its etymological meaning as unconcealment. No parallel constructions are documented for ψευδής, ακριβής, or έγκυρος.
+
+**5.5 Trust (εμπιστοσύνη) as the primary target of destabilization.** Among the truth-related nouns, εμπιστοσύνη is the one most frequently documented as the object of causative destabilization (κλονίζω την εμπιστοσύνη, κατάχρηση εμπιστοσύνης). No parallel causative destabilization constructions are documented for αλήθεια, ακρίβεια, or εγκυρότητα in the CONTEXT.
+
+**5.6 Temporal stability encoding.** The construction παραμένει + [adjective] encodes persistence of a state and is documented for both έγκυρος and αμφίβολος. The construction έγκυρο έως encodes temporally bounded stability specific to the validity domain. No parallel temporally bounded stability construction is documented for other truth-domain adjectives in the CONTEXT.

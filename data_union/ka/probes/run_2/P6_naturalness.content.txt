@@ -1,0 +1,276 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Georgian (ka)
+
+---
+
+**Methodological note:** The following documents dynamic expressions — encoding change of state, causation, and stability — involving truth-related vocabulary from P1–P5. Only vocabulary, constructions, and patterns attested in the CONTEXT are used. Where the documentation supports a dynamic expression for a given term, it is described in full. Where no common expression exists, this is stated explicitly and the reason is noted where the data permits. Terms are treated separately where their behavior differs.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 მართლდება / martldeba — "becomes justified / is being vindicated"
+
+**Pattern:** Stem + -დება / -deba (inchoative/passive suffix)
+
+**Documented in:** P4a (Construction 4), P4b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ის მართლდება | is martldeba | "He is being vindicated / He is proven right" | [CORE] | Ongoing inchoative; marks a process of transitioning into a state of being justified or vindicated. Attested for the mart- root. The subject is the person or claim undergoing vindication. |
+| ის გამართლდება | is gamartldeba | "He will be vindicated / He becomes justified" | [CORE] | Completive inchoative with preverb გა- (ga-); marks a bounded transition to a resultant state. The preverb adds completive aspect. |
+| ის გამართლდა | is gamartlda | "He was vindicated / He was proven right" | [CORE] | Aorist of the completive inchoative; marks the completed transition. The standard past-tense form for "was acquitted / was vindicated." |
+
+**Notes:** The -deba inchoative is productive on the mart- root and generates a full aspectual paradigm (ongoing: martldeba; completive: gamartldeba; completed: gamartlda). No parallel inchoative form is attested for namdvili, č̣ešmariti, sarwmuno, or sando in the CONTEXT data.
+
+---
+
+### 1.2 სიმართლე გამოვიდა / simartle gamovida — "the truth came out"
+
+**Pattern:** Nominal subject + preverb გამო- + verb of motion (gamosv-, "to come out")
+
+**Documented in:** P1b, P2b, P4a (Construction 4)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| სიმართლე გამოვიდა | simartle gamovida | "The truth came out / The truth emerged" | [CORE] | Standard expression for truth transitioning from concealed to revealed. P4a notes this is not morphologically inchoative but functions as the closest natural equivalent for "truth becomes known." Extremely common in narrative and journalistic contexts. |
+| ჭეშმარიტება გამოვიდა სინათლეზე | č̣ešmariteba gamovida sinat̕leze | "The truth came to light" | [CORE] | More formal/literary variant using č̣ešmariteba rather than simartle; documented in P2b. The postpositional phrase სინათლეზე (sinat̕leze, "into the light") makes the metaphor explicit. |
+
+**Notes:** The motion-verb construction (gamovida, "came out") is the standard way to express the event of truth becoming known. It treats truth as an entity that moves from a hidden location into visibility. The simartle version is more colloquial; the č̣ešmariteba version is more formal or literary. No parallel construction with ẗq̇uili or siq̇albe in the "becoming known" sense is documented in the CONTEXT.
+
+---
+
+### 1.3 სიყალბე გამოაშკარავდა / siq̇albe gamoaškaravda — "the falseness was exposed"
+
+**Pattern:** Nominal subject + preverb გამო- + verb of exposure (gamoaškaraveba, "to expose, to bring to light")
+
+**Documented in:** P2b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| სიყალბე გამოაშკარავდა | siq̇albe gamoaškaravda | "The falseness was exposed / The fraud was revealed" | [CORE] | Documented in P2b as the standard construction for the exposure of something falsely presented. The verb gamoaškaraveba is described as "a standard collocate of siq̇albe in contexts of unmasking deception." |
+
+**Notes:** This construction is the falseness-domain parallel to simartle gamovida, but it is not a simple inchoative ("becomes false") — it describes the revelation of pre-existing falseness rather than a transition into a false state. The agent of exposure is typically implicit or expressed in a separate clause.
+
+---
+
+### 1.4 No common "becomes genuine / becomes true" expression attested
+
+For namdvili ("genuine, authentic"), č̣ešmariti ("true, genuine"), and sarwmuno ("credible, reliable"), the CONTEXT does not document a productive inchoative construction of the form "X becomes genuine/true/credible." The data supports the following observations:
+
+- **namdvili:** No inchoative form attested. Authenticity is typically confirmed (ნამდვილობის დადასტურება, namdvilobis dadastureba) rather than acquired through a change of state.
+- **č̣ešmariti / č̣ešmariteba:** No inchoative form attested. The philosophical and theological register of this term does not generate change-of-state expressions in the documented data.
+- **sarwmuno / sando:** No inchoative form attested. Credibility and trustworthiness are evaluated as properties rather than acquired through a documented change-of-state construction.
+
+**Explicit statement:** No common expression for "X becomes genuine/true/credible" is attested in the CONTEXT for namdvili, č̣ešmariti, sarwmuno, or sando.
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE
+
+### 2.1 გაყალბება / gaq̇albeba — "falsification, the act of making false"
+
+**Pattern:** Preverb გა- + root q̇alb- + -ება / -eba (completive verbal/nominal suffix)
+
+**Documented in:** P1b, P2a, P2b, P3 (Group 1), P4a (Construction 5), P5 (Oppositions 4, 26)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| მან დოკუმენტი გაყალბა | man dokumenti gaq̇alba | "He falsified the document" | [CORE] | Causative-resultative; agent in ergative (man), patient in nominative (dokumenti). The document transitions from genuine to falsified. Aorist form. |
+| დოკუმენტი გაყალბდა | dokumenti gaq̇albda | "The document was falsified / became falsified" | [CORE] | Passive/inchoative of the same root; the document as subject undergoes the transition. The -d- infix marks the passive/inchoative. |
+| გაყალბებული დოკუმენტი | gaq̇albebuli dokumenti | "a falsified document" | [CORE] | Participial/adjectival form (documented in P2a) marking the resultant state: the document is now in the state of having been falsified. |
+
+**Notes:** The ga- + q̇alb- + -eba construction is the primary expression for the transition from genuine to false in the legal domain. It is fully transitive (causative: someone falsifies something) and has a passive/inchoative counterpart (something becomes falsified). The participial gaq̇albebuli marks the resultant state.
+
+---
+
+### 2.2 No common "becomes a lie / becomes false (of a statement)" expression attested
+
+For ẗq̇uili ("lie") and sicrue ("falsehood"), the CONTEXT does not document a productive inchoative construction of the form "X becomes a lie" or "X becomes false." Statements are described as lies (ẗq̇uilia, "it is a lie") or as having been told as lies (ẗq̇uili t̕q̇va, "told a lie"), but no change-of-state construction for a statement transitioning into falsehood is documented.
+
+**Explicit statement:** No common expression for "X becomes a lie / X becomes false (of a statement)" is attested in the CONTEXT for ẗq̇uili or sicrue.
+
+---
+
+### 2.3 No common "becomes unjust / becomes unlawful" inchoative attested
+
+For usamart̕lo ("unjust") and ukanono ("unlawful"), the CONTEXT documents the adjectival and nominal forms but does not document productive inchoative constructions. Legal and moral evaluation in these terms is expressed through attribution (X usamart̕loa, "X is unjust") rather than through change-of-state constructions.
+
+**Explicit statement:** No common inchoative expression for "becomes unjust" or "becomes unlawful" is attested in the CONTEXT.
+
+---
+
+## 3. CAUSATION: CAUSING A TRUTH-RELATED STATE
+
+### 3.1 გამართლება / gamartleba — "to justify, to vindicate, to acquit"
+
+**Pattern:** Preverb გა- + mart- + -ება / -eba (completive causative-resultative)
+
+**Documented in:** P1b, P2a, P2b, P4a (Construction 5), P5 (Opposition 28)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| სასამართლომ იგი გაამართლა | sasamart̕lom igi gaamart̕la | "The court acquitted / vindicated him" | [CORE] | Agent (sasamart̕lom, "the court") in ergative; patient (igi, "him") in nominative. The court causes the person to be in a state of vindication. Aorist. |
+| გამართლება ვერ მოხდა | gamartleba ver moxda | "Justification did not occur / could not be justified" | [CORE] | Documented in P1b. The nominalized form gamartleba as subject of the event verb moxda ("happened, occurred"); negated with ver ("negation of ability"). |
+
+**Notes:** The causative reading of gamartleba (causing someone to be vindicated/acquitted) is the primary legal use. The everyday use meaning "making excuses / rationalizing" (noted in P1b and P5) is a semantic extension where the agent causes a justification to exist for their own actions rather than causing another person to be vindicated.
+
+---
+
+### 3.2 გაყალბება / gaq̇albeba — "to falsify, to cause to become counterfeit"
+
+**Pattern:** Preverb გა- + q̇alb- + -ება / -eba (completive causative-resultative)
+
+**Documented in:** P1b, P2a, P2b, P4a (Construction 5)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| მან დოკუმენტი გაყალბა | man dokumenti gaq̇alba | "He falsified the document" | [CORE] | Agent causes the document to transition from genuine to falsified. Documented in P4a as the primary causative construction in this domain. |
+| გაყალბება ჩაიდინა | gaq̇albeba čaidina | "committed forgery, perpetrated falsification" | [CORE] | Documented in P1b as a fixed legal phrase. The nominalized gaq̇albeba as object of čaidina ("committed"); the agent committed the act of causing falsification. |
+
+**Notes:** This is the primary causative construction for the falseness domain. The agent causes an object to become false/counterfeit. No parallel causative construction for causing a statement to become false (as opposed to causing a document to be forged) is documented in the CONTEXT.
+
+---
+
+### 3.3 ჭეშმარიტების გამოვლენა / č̣ešmaritebis gamovlena — "the revelation of truth"
+
+**Pattern:** Nominal (genitive) + verbal noun of revelation (gamovlena, from ga- + mo- + vlen-)
+
+**Documented in:** P1b, P2b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ჭეშმარიტების გამოვლენა | č̣ešmaritebis gamovlena | "the revelation of truth, the disclosure of truth" | [CORE] | Documented in P1b as used in theological, philosophical, and journalistic contexts. The verbal noun gamovlena encodes the act of bringing truth into visibility; an agent (divine, investigative, or rhetorical) causes truth to become manifest. |
+
+**Notes:** This construction encodes a causative event (someone or something causes truth to be revealed) but the agent is typically implicit or expressed in a separate clause. It is the most formal expression for causing truth to become known, distinct from the intransitive simartle gamovida ("the truth came out") in that gamovlena implies an agent of disclosure.
+
+---
+
+### 3.4 დაზუსტება / dazusteba — "to make precise, to specify, to clarify"
+
+**Pattern:** Preverb და- + zust- + -ება / -eba (completive verbal/nominal suffix)
+
+**Documented in:** P2a
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| დაზუსტება | dazusteba | "specification, clarification, making precise; verification" | [CORE] | Documented in P2a as "used in administrative, legal, and everyday contexts to describe the act of making something more precise or of verifying and clarifying a detail." The agent causes a statement or fact to be in a state of greater precision. |
+
+**Notes:** This is the causative expression for the precision/accuracy domain (zusti). An agent causes something to become more exact or verified. No parallel causative form is attested for sarwmuno or sando in the CONTEXT.
+
+---
+
+### 3.5 No common "cause to be true / cause to be credible" expression attested
+
+For č̣ešmariti, sarwmuno, and sando, the CONTEXT does not document a productive causative construction of the form "Y causes X to be true/credible/trustworthy." These properties are evaluated as intrinsic to a source or statement rather than caused by an external agent.
+
+**Explicit statement:** No common expression for "Y causes X to be true/credible/trustworthy" is attested in the CONTEXT for č̣ešmariti, sarwmuno, or sando.
+
+---
+
+## 4. STABILITY AND RESISTANCE TO CHANGE
+
+### 4.1 სიმართლეს ვერ გაექცევი / simartles ver gaekceviˈ — "you cannot escape the truth"
+
+**Pattern:** Nominal (dative) + ver (negation of ability) + verb of escape (gaekcevaˈ)
+
+**Documented in:** P2b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| სიმართლეს ვერ გაექცევი | simartles ver gaekceviˈ | "you cannot escape the truth, there is no escaping the truth" | [CORE] | Documented in P2b as an idiomatic expression asserting the inescapability of truth. The dative case on simartle follows the standard Georgian pattern for verbs of avoidance. Encodes truth as a stable, inescapable force. |
+
+**Notes:** This construction encodes the stability of truth as resistance to avoidance: truth cannot be escaped or evaded. It is the closest attested expression for the permanence or inescapability of truth in the CONTEXT data.
+
+---
+
+### 4.2 ჭეშმარიტება გამარჯვებს / č̣ešmariteba gamarjvebs — "truth prevails"
+
+**Pattern:** Nominal subject + verb of victory (gamarjveba, "to win, to prevail")
+
+**Documented in:** P1b, P2b, P3 (Group 4), P5 (Opposition 25)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ჭეშმარიტება გამარჯვებს | č̣ešmariteba gamarjvebs | "truth prevails, truth wins out" | [CORE] | Documented in P1b as "a proverbial and rhetorical expression asserting the ultimate triumph of truth." Present tense; encodes truth's victory as a general or habitual truth rather than a specific event. |
+
+**Notes:** This construction encodes the ultimate stability of truth: despite opposition, truth is characterized by final triumph. It is the positive counterpart to the proverbial constructions about the instability of lies (see 4.3 below).
+
+---
+
+### 4.3 ტყუილი ფეხებზე დგება / ẗq̇uili p̕exebze dgebaˈ — "a lie stands on its own feet"
+
+**Pattern:** Nominal subject + postpositional phrase (p̕exebze, "on feet") + verb of standing (dgeba)
+
+**Documented in:** P2b
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ტყუილი ფეხებზე დგება | ẗq̇uili p̕exebze dgebaˈ | "a lie stands on its own feet, a lie has legs" | [CORE] | Documented in P2b as a proverbial expression commenting on the self-perpetuating nature of deception. The present tense encodes a general truth about lies. |
+| სიცრუე ფეხებზე დგას | sicrue p̕exebze dgas | "a lie stands on its own feet" (variant with sicrue) | [MARGINAL] | Documented in P2b as a variant. P3 notes: "The ẗq̇uili version is more colloquial and more frequently attested in everyday speech." |
+| ტყუილი ფეხებს ვერ გაიდგამს | ẗq̇uili p̕exebs ver gaidgams | "a lie cannot take root, a lie cannot stand firm" | [MARGINAL] | Documented in P2b as a variant proverbial construction asserting the ultimate instability of lies. Contrasts with the "stands on its own feet" version by asserting that lies ultimately fail to sustain themselves. |
+
+**Notes:** These constructions encode the dynamic properties of lies as agents: lies are characterized by self-perpetuation (dgebaˈ, "stands") but also, in the variant, by ultimate inability to sustain themselves (ver gaidgams, "cannot take root"). The two variants encode opposing assessments of the stability of lies, both attested in the proverbial register.
+
+---
+
+### 4.4 ტყუილი ტყუილს ბადებს / ẗq̇uili ẗq̇uils badebs — "one lie breeds another"
+
+**Pattern:** Nominal subject + nominal object (same form) + verb of generation (badeba, "to give birth to, to generate")
+
+**Documented in:** P2b, P5 (Opposition 25)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ტყუილი ტყუილს ბადებს | ẗq̇uili ẗq̇uils badebs | "one lie breeds another, lies beget lies" | [CORE] | Documented in P2b as "a proverbial expression used in moral discourse to assert the self-multiplying nature of deception." The reflexive structure (ẗq̇uili as both subject and object) encodes lies as self-generating. |
+
+**Notes:** This construction encodes the dynamic instability of lies as a causative chain: each lie causes another lie to come into existence. It is the primary attested expression for the generative or self-multiplying property of falsehood.
+
+---
+
+### 4.5 ჭეშმარიტება მწარეა / č̣ešmariteba mwarea — "the truth is bitter"
+
+**Pattern:** Nominal subject + predicate adjective + copula clitic
+
+**Documented in:** P2b, P3 (Group 4)
+
+| Expression | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| ჭეშმარიტება მწარეა | č̣ešmariteba mwarea | "the truth is bitter, truth is hard to hear" | [CORE] | Documented in P2b as "a proverbial expression used in everyday and literary Georgian to acknowledge that truthful statements are often unwelcome or painful." Encodes truth as a stable property with a characteristic effect on hearers. |
+
+**Notes:** This construction encodes a stable property of truth (its bitterness, its unwelcomeness) rather than a change of state. It is included here because it characterizes truth as a force that acts on persons — producing discomfort — which is a dynamic property even if the state of truth itself is stable.
+
+---
+
+## 5. SUMMARY TABLE: DYNAMIC EXPRESSIONS BY TERM
+
+| Term | Becoming (intransitive) | Causing (transitive) | Stability / Resistance |
+|---|---|---|---|
+| mart- / martali | მართლდება (martldeba) — "is being vindicated"; გამართლდება (gamartldeba) — "becomes justified" | გამართლება (gamartleba) — "to justify, to acquit" | No stability expression attested |
+| simartle | სიმართლე გამოვიდა (simartle gamovida) — "the truth came out" | No causative expression attested | სიმართლეს ვერ გაექცევი (simartles ver gaekceviˈ) — "you cannot escape the truth" |
+| č̣ešmariteba | ჭეშმარიტება გამოვიდა სინათლეზე (č̣ešmariteba gamovida sinat̕leze) — "the truth came to light" | ჭეშმარიტების გამოვლენა (č̣ešmaritebis gamovlena) — "the revelation of truth" | ჭეშმარიტება გამარჯვებს (č̣ešmariteba gamarjvebs) — "truth prevails"; ჭეშმარიტება მწარეა (č̣ešmariteba mwarea) — "the truth is bitter" |
+| q̇albi / siq̇albe | დოკუმენტი გაყალბდა (dokumenti gaq̇albda) — "the document became falsified"; სიყალბე გამოაშკარავდა (siq̇albe gamoaškaravda) — "the falseness was exposed" | გაყალბება (gaq̇albeba) — "to falsify, to forge" | No stability expression attested |
+| ẗq̇uili | No inchoative attested | No causative attested | ტყუილი ფეხებზე დგება (ẗq̇uili p̕exebze dgebaˈ) — "a lie stands on its own feet"; ტყუილი ტყუილს ბადებს (ẗq̇uili ẗq̇uils badebs) — "one lie breeds another" |
+| zusti | No inchoative attested | დაზუსტება (dazusteba) — "to make precise, to clarify" | No stability expression attested |
+| namdvili | No inchoative attested | No causative attested | No stability expression attested |
+| sarwmuno / sando | No inchoative attested | No causative attested | No stability expression attested |
+
+---
+
+## 6. STRUCTURAL OBSERVATIONS
+
+**6.1 Asymmetry between truth and falseness in inchoative expressions**
+
+The CONTEXT documents a productive inchoative paradigm for the mart- root (martldeba, gamartldeba, gamartlda) but no parallel inchoative paradigm for namdvili, č̣ešmariti, sarwmuno, or sando. The truth domain's inchoative expressions are concentrated in the mart- root and in the motion-verb constructions (simartle gamovida, č̣ešmariteba gamovida sinat̕leze). The falseness domain's inchoative expressions are concentrated in the ga- + q̇alb- construction (gaq̇albda) and the exposure construction (siq̇albe gamoaškaravda).
+
+**6.2 Asymmetry between truth and falseness in causative expressions**
+
+The CONTEXT documents causative expressions for both the truth domain (gamartleba, "to justify/acquit") and the falseness domain (gaq̇albeba, "to falsify/forge"), but these are not parallel in semantic scope: gamartleba causes a person to be in a state of vindication, while gaq̇albeba causes an object to be in a state of falsification. No causative expression for causing a person to believe a truth (parallel to "convince") is documented under the truth-domain terms; the closest attested form is damajerebeliˈ ("convincing"), which is an adjectival property rather than a causative verb.
+
+**6.3 Proverbial constructions as the primary site of stability encoding**
+
+The CONTEXT documents stability and resistance to change primarily through proverbial constructions (č̣ešmariteba gamarjvebs, simartles ver gaekceviˈ, ẗq̇uili p̕exebze dgebaˈ, ẗq̇uili ẗq̇uils badebs) rather than through morphological or syntactic patterns. This is consistent with the P3 observation that proverbial and moral discourse is a distinct register in which truth and lies are treated as agents with characteristic behaviors. No morphological stability marker (comparable to, for example, a stative suffix) is documented for truth-domain terms in the CONTEXT.
+
+**6.4 The ga- preverb as the primary marker of completive change**
+
+Across both the truth and falseness domains, the preverb გა- (ga-) consistently marks completive change of state: gamartleba (completed justification), gaq̇albeba (completed falsification), gamovida (came out, completed emergence). This is consistent with the general Georgian aspectual function of ga- as a completive preverb, and the truth domain does not appear to deviate from this general pattern.

@@ -1,0 +1,88 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Yoruba (yo)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | (1a) Subject + stative predicate (*tọ́*, *dára*, *gidi*); (1b) Subject + *jẹ́* + nominal predicate (*òtítọ́*, *irọ́*, *òdodo*) | *ó tọ́* "It is correct"; *ọ̀rọ̀ rẹ jẹ́ òtítọ́* "Your statement is the truth" | Direct. Two sub-patterns: copula-less stative and *jẹ́*-copular nominal. Both rated [CORE]. | None |
+| **ADNOM** | Post-nominal modifier: N + *tọ́* / *rere* / *burúkú* / *gidi* / *ńlá* / *jinlẹ̀* | *ìdáhùn tọ́* "correct answer"; *ìwà rere* "good character" | Direct. Post-nominal position is the only attested modifier position. | None |
+| **BECOME** | (4a) Motion-directional: *padà sí* + nominal; *jáde kúrò nínú* + nominal; (4b) *di* + nominal predicate (alternate, lower frequency) | *padà sí ìgbàgbọ́* "return to faith"; *jáde kúrò nínú àìmọ̀* "come out of ignorance" | Direct, but expressed periphrastically via motion verbs or *di*; no dedicated inchoative morpheme. Motion-based pattern identified as more frequent in the truth domain. | None (structural gap in dedicated morpheme; periphrastic expression is [CORE]) |
+| **REVELATION** | No construction explicitly labeled REVELATION in P4a or P4b. | — | **SUBSTITUTED BY BECOME** (motion-directional pattern *jáde kúrò nínú* encodes departure from a state of ignorance/concealment, which is functionally adjacent to revelation; however, no distinct revelation-specific construction is attested) | **Lexical gap**: no dedicated revelation verb or construction is attested in the data. The BECOME motion pattern covers adjacent territory but is not labeled or used as a revelation operator in P4a/P4b. |
+| **CAUSATION (factual)** | (5a) *jẹ́ kí* + NP + predicate (permissive-causative); (5b) *fi* + NP + verb (instrumental serial verb) | *jẹ́ kí òtítọ́ jẹ́ olùdarí rẹ* "Let truth be your guide"; *fi òtítọ́ sọ̀rọ̀* "Speak with truth" | Direct, but periphrastic. P4a notes that *fi* encodes manner rather than strict causation. No productive causative morpheme is attested. | None for the periphrastic pattern. **Morphosyntactic gap**: no dedicated causative morpheme in this domain. |
+| **CAUSATION (character)** | Agentive nominalization (*a-* prefix: *aṣírọ́*, *aṣìṣe*, *aṣètànjẹ́*) encodes habitual/characterizing agency; *olù-* prefix encodes functional role (*olùdánwò*, *olùtọ́ni*); *ẹ-/al-* prefix encodes possessive agent (*ẹlẹ́rìí*) | *aṣírọ́* "liar / one who habitually tells lies"; *olùdánwò* "examiner" | **SUBSTITUTED BY AGENTIVE NOMINALIZATION**. Character-level causation (the attribution of a truth-related disposition to an agent) is expressed through the agentive nominalization system rather than through a dedicated CAUSATION (character) construction. | **Morphosyntactic gap**: no dedicated construction for character-causation as a predicate; the function is distributed across three agentive prefix classes. |
+| **VERIFICATION** | (10a) Existential affirmative: NP + *wà* "there is / exists"; (9a–b) Propositional complement: epistemic/evidential verb + *pé* + clause (*mọ̀ pé*, *jẹ́rìí pé*) | *ìdánilójú wà* "there is assurance"; *jẹ́rìí pé ó jẹ́ òtítọ́* "testify that it is true" | Direct, via two distinct constructions: existential assertion of evidence/certainty (*wà*) and evidential propositional complement (*jẹ́rìí pé*). Both rated [CORE]. | None |
+| **DISCONFIRMATION** | (10b) Negative existential: NP + *kò sí* "there is no / does not exist" | *ẹ̀rí kò sí* "there is no evidence" | Direct. *kò sí* is the negative existential counterpart to *wà*. Rated [CORE]. | None |
+| **NEGATION** | (2a) Subject + *kò* + stative predicate; (2b) Subject + *kò jẹ́* + nominal predicate | *kò tọ́* "it is not correct"; *kò jẹ́ gidi* "it is not genuine" | Direct. Negation is **analytic**: *kò* is a free negation marker preceding the predicate; no morphological (bound) negation is attested in this domain. | None |
+| **NOMINALIZATION** | (6) Abstract: *ì-* prefix (*ìmọ̀*, *ìgbàgbọ́*, *ìtànjẹ́*), *à-* prefix (*àṣìṣe*, *àìmọ̀*, *àtúntọ́*), *o-/ọ-* prefix (*òtítọ́*, *òdodo*); (7) Agentive: *a-* (*aṣírọ́*, *adájọ́*), *olù-* (*olùdánwò*), *ẹ-/al-* (*ẹlẹ́rìí*) | *ìmọ̀* "knowledge"; *àtúntọ́* "correction"; *òtítọ́* "truth"; *aṣírọ́* "liar" | Direct. Two nominalization subsystems (abstract and agentive) are both [CORE]. Prefix choice is lexically conditioned, not semantically contrastive across the three abstract-nominalizing prefixes. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME (motion-directional)
+
+No construction in P4a or P4b is explicitly identified as a REVELATION operator — that is, no dedicated construction encodes the event of a hidden truth becoming known or being disclosed to a recipient. The closest attested pattern is the BECOME motion-directional construction, specifically *jáde kúrò nínú àìmọ̀* ("come out of ignorance / leave ignorance behind"), which encodes departure from a state of not-knowing. This pattern is oriented toward the subject who undergoes the change of state, not toward an external agent who discloses information to that subject. The REVELATION function — if it is expressed at all in Yoruba — would require either this BECOME pattern or a propositional complement construction (*mọ̀ pé* "know that"), neither of which is a dedicated revelation operator. The data do not support the claim that REVELATION is fully substituted; rather, the function appears to be a **lexical gap**: no single verb or construction in the attested data specifically encodes the disclosure of a previously hidden truth by an agent to a recipient.
+
+### 2.2 CAUSATION (character) substituted by AGENTIVE NOMINALIZATION
+
+The CLCA category CAUSATION (character) — constructions that attribute a truth-related disposition or habitual behavior to an agent — is not expressed in Yoruba through a predicative causative construction. Instead, this function is distributed across the agentive nominalization system. The *a-* prefix yields morally evaluative agent nouns (*aṣírọ́* "liar", *aṣìṣe* "one who errs", *aṣètànjẹ́* "deceiver") that characterize an agent by their habitual truth-domain behavior. The *olù-* prefix yields functional role agents (*olùdánwò* "examiner", *olùtọ́ni* "guide"). The *ẹ-/al-* prefix yields possessive agents (*ẹlẹ́rìí* "witness", *olòtítọ́* "truthful person"). In each case, the characterization of an agent's truth-related disposition is encoded in a nominal form rather than in a predicative construction. To express "X causes Y to be truthful" or "X is the kind of person who deceives," Yoruba uses the nominalized form as a predicate nominal (*ó jẹ́ aṣírọ́* "he is a liar") rather than a dedicated CAUSATION (character) construction. This is a **morphosyntactic substitution**: the agentive nominalization system carries the semantic load that a CAUSATION (character) construction would carry in languages with such a dedicated operator.
+
+### 2.3 VERIFICATION and DISCONFIRMATION share the same construction type but not the same form
+
+VERIFICATION and DISCONFIRMATION in Yoruba are expressed through the same existential construction type — NP + existential predicate — but with distinct, non-interchangeable predicates: *wà* (affirmative existential) for VERIFICATION and *kò sí* (negative existential) for DISCONFIRMATION. The two forms are thus **formally asymmetric** (different predicates) but **constructionally parallel** (same NP-initial structure, same discourse function of asserting the presence or absence of evidence or certainty). Additionally, VERIFICATION is also expressed through the propositional complement construction (*jẹ́rìí pé*, *mọ̀ pé*), which has no direct DISCONFIRMATION counterpart in the attested data. This creates a **mild asymmetry**: VERIFICATION has two attested construction types (existential + propositional complement), while DISCONFIRMATION has only one (negative existential).
+
+### 2.4 NEGATION is analytic, not morphological
+
+Negation in the truth domain is expressed entirely through the free negation marker *kò*, which precedes the predicate. No morphological (bound) negation — such as a negative prefix or suffix on the predicate — is attested in P4a or P4b. The pattern is fully parallel between stative predicates (*kò tọ́*) and copular nominal predicates (*kò jẹ́ gidi*), and it mirrors the affirmative construction exactly in word order. Negation is therefore **analytic** in this domain.
+
+### 2.5 Asymmetry between truth and falsity in the ATTR domain
+
+The ATTR domain shows a mild asymmetry in lexical density. The affirmative truth-domain vocabulary is well-attested with multiple stative predicates (*tọ́*, *dára*, *gidi*, *rere*) and multiple abstract nominals (*òtítọ́*, *òdodo*, *ìgbàgbọ́*). The falsity/error side is represented by *irọ́* (lie), *àṣìṣe* (error), *àìmọ̀* (ignorance), and *ìtànjẹ́* (deception), but the stative predicate inventory for falsity is less explicitly enumerated in P4a. This is a **potential lexical asymmetry** in the attested data, though it may reflect the scope of data collection rather than a structural gap.
+
+### 2.6 Focus construction as a truth-assertion strategy
+
+The FOCUS / EMPHATIC IDENTIFICATION construction (*òtítọ́ ni*, *ìmọ̀ ló ń gbani là*) does not map directly onto any single CLCA operator but functions as a cross-cutting syntactic strategy that intensifies ATTR and VERIFICATION claims. It is not a separate semantic operator but a syntactic modifier of existing operators. It is noted here because it is highly productive in truth-domain proverbs and assertions and may serve functions that other languages express through dedicated evidential or assertoric operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+- **No dedicated inchoative morpheme**: BECOME is expressed periphrastically through motion verbs (*padà sí*, *jáde kúrò nínú*) or *di* + nominal. The periphrastic expression is [CORE] and fully functional, but no bound morpheme encodes change-of-state directly.
+- **No dedicated causative morpheme**: CAUSATION (factual) is expressed periphrastically through *jẹ́ kí* (permissive-causative) and *fi* (instrumental serial verb). No productive causative morpheme is attested in this domain.
+- **No dedicated CAUSATION (character) construction**: This function is distributed across the agentive nominalization system rather than expressed through a predicative construction.
+
+### 3.2 Lexical Gaps
+
+- **No dedicated REVELATION verb or construction**: No single lexical item or construction in the attested data specifically encodes the disclosure of a previously hidden truth by an agent to a recipient. The BECOME motion-directional pattern covers adjacent semantic territory (departure from ignorance) but is not a revelation operator.
+- **No negative agentive prefix**: The agentive nominalization system uses *a-* for morally negative agents (*aṣírọ́*, *aṣìṣe*) and *olù-* for functional role agents, but no prefix is identified as exclusively encoding negative moral valence. The moral valence of *a-* forms is a tendency in the attested data, not a categorical rule (cf. *adájọ́* "judge," which carries the *a-* prefix without negative valence).
+
+### 3.3 Conceptual Gaps
+
+- No conceptual gaps are identifiable from the attested data. All ten CLCA operators can be expressed in Yoruba, either directly or through substitution. No operator is blocked by the grammar or conceptual structure of the language as represented in P4a and P4b.
+
+### 3.4 Asymmetric Gaps
+
+- **VERIFICATION has two construction types; DISCONFIRMATION has one**: VERIFICATION is expressed through both the existential affirmative (*wà*) and the propositional complement (*jẹ́rìí pé*, *mọ̀ pé*). DISCONFIRMATION is expressed only through the negative existential (*kò sí*). No propositional complement construction for disconfirmation (e.g., a verb meaning "deny that" or "disprove that") is attested in P4a or P4b. This is an **asymmetric gap on the negative/disconfirmation side** of the VERIFICATION–DISCONFIRMATION pair.
+- **Affirmative ATTR has more lexical items than negative ATTR**: The stative predicate inventory for truth/correctness (*tọ́*, *dára*, *gidi*, *rere*) is more fully enumerated in P4a than the stative predicate inventory for falsity/incorrectness. This may be a **lexical asymmetry** in the attested data.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Two sub-patterns (stative predicate; *jẹ́* + nominal), both [CORE], unrestricted across registers. |
+| **ADNOM** | **Fully available** | Post-nominal modifier position is the only attested and expected position; productive across the full truth-domain vocabulary. |
+| **BECOME** | **Fully available** | Expressed periphrastically via motion verbs (*padà sí*, *jáde kúrò nínú*) and *di* + nominal; no dedicated morpheme, but the periphrastic pattern is [CORE]. |
+| **REVELATION** | **Missing entirely** | No dedicated revelation construction or verb is attested. The BECOME motion-directional pattern covers adjacent territory but is not a revelation operator. Lexical gap. |
+| **CAUSATION (factual)** | **Fully available** | Expressed periphrastically via *jẹ́ kí* (permissive-causative) and *fi* (instrumental); no dedicated morpheme, but both patterns are [CORE]. |
+| **CAUSATION (character)** | **Available with substitution** | **SUBSTITUTED BY AGENTIVE NOMINALIZATION** (*a-*, *olù-*, *ẹ-/al-* prefix classes). Character-level causation is encoded nominally, not predicatively. |
+| **VERIFICATION** | **Fully available** | Two construction types: existential affirmative (*wà*) and propositional complement (*jẹ́rìí pé*, *mọ̀ pé*), both [CORE]. |
+| **DISCONFIRMATION** | **Partially available** | Negative existential (*kò sí*) is [CORE]; no propositional complement construction for disconfirmation is attested. Asymmetric gap relative to VERIFICATION. |
+| **NEGATION** | **Fully available** | Analytic: free marker *kò* preceding the predicate; fully parallel to affirmative; no morphological negation attested in this domain. |
+| **NOMINALIZATION** | **Fully available** | Two subsystems (abstract: *ì-*, *à-*, *o-/ọ-* prefixes; agentive: *a-*, *olù-*, *ẹ-/al-* prefixes), all [CORE]. Prefix choice is lexically conditioned. |

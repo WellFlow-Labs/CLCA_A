@@ -1,0 +1,368 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Hebrew (he)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Hebrew encodes dynamic processes involving truth-related vocabulary: change of state (becoming true, becoming false, losing credibility, etc.), causation of such states, and stability or resistance to change. All vocabulary is drawn from the P1–P5 context. Where no common expression exists for a given dynamic pattern, this is stated explicitly. Patterns are organized by semantic type rather than by P1 item, since dynamic expressions frequently involve multiple items from the P1 set.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE (Inchoative)
+
+### 1.1 Becoming revealed as genuine or true
+
+**Pattern:** *lehitgalaʾh ke-* + truth-domain adjective/noun ("to turn out to be, to be revealed as")
+
+**Examples:**
+- להתגלות כאמיתי / *lehitgalaʾh ke-ʾamiti* / "to turn out to be genuine, to be revealed as real"
+- המסמך התגלה כאותנטי / *ha-mismaḵh hitgalaʾh ke-ʾotenti* / "the document turned out to be authentic"
+- הציור התגלה כמקורי / *ha-tsiyur hitgalaʾh ke-meqori* / "the painting turned out to be original"
+
+**Usage notes:** The hitpaʿel verb *lehitgalaʾh* ("to be revealed, to come to light") combined with *ke-* + complement is the primary construction for expressing the inchoative discovery that something is genuine. Documented in P4a (Construction 4) as a natural hitpaʿel inchoative. Attested in P2b (Item 5, Construction 5): *ha-tsiyur hitgalaʾh ke-mezuyaf* ("the painting turned out to be a forgery") — the same construction applies with the negative pole.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehitkhaʾven she-* ("to turn out that, to emerge that")
+
+**Examples:**
+- התברר שהעדות הייתה אמיתית / *hitbarer she-ha-ʿedut hayetah ʾamitit* / "it emerged that the testimony was genuine"
+- התברר שהמקור מהימן / *hitbarer she-ha-meqor meheymen* / "it turned out that the source was reliable"
+
+**Usage notes:** The hitpaʿel verb *lehitbarer* ("to become clarified, to emerge as clear") introduces a propositional complement and expresses the inchoative state of a truth becoming established or confirmed. Closely related to the verb *levarer* ("to ascertain the truth"), documented in P2b (Item 1, Construction 5). The inchoative *lehitbarer* is the intransitive counterpart of the transitive *levarer*.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 Becoming revealed as false or forged
+
+**Pattern:** *lehitgalaʾh ke-* + negative truth-domain term
+
+**Examples:**
+- המסמך התגלה כמזויף / *ha-mismaḵh hitgalaʾh ke-mezuyaf* / "the document was revealed to be forged"
+- הטענה התגלתה כשקר / *ha-taʿanah hitgaletah ke-sheker* / "the claim was revealed to be a lie"
+- הסיבה התגלתה כלא אמיתית / *ha-sibaʾh hitgaletah ke-lo ʾamitit* / "the reason turned out not to be genuine"
+
+**Usage notes:** The same *lehitgalaʾh ke-* construction applies symmetrically to the negative pole. Documented in P4a (Construction 4) and attested in P2b (Item 5, Construction 5). The construction is neutral with respect to the valence of the complement; the truth-domain term in the complement determines whether the outcome is positive or negative.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehitkhaʾven she-* with negative complement
+
+**Examples:**
+- התברר שהעד שיקר / *hitbarer she-ha-ʿed shiqer* / "it emerged that the witness had lied"
+- התברר שהמידע לא היה מדויק / *hitbarer she-ha-meydaʿ lo hayah meduyaq* / "it turned out that the information was not accurate"
+
+**Usage notes:** The same *lehitbarer* construction applies with negative complements. Common in journalistic and legal registers when a prior claim or source is retrospectively discredited.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 Trust and credibility: becoming established or eroded
+
+**Pattern:** *lehivaʾnot* ("to be built") / *lehitkhaʾnen* ("to be established") + *ʾimun* / *ʾemunaʾh*
+
+**Examples:**
+- האמון נבנה לאט / *ha-ʾimun nivnaʾh le-ʾat* / "trust was built slowly"
+- האמינות התבססה עם הזמן / *ha-ʾaminut hitbasesah ʿim ha-zman* / "credibility became established over time"
+
+**Usage notes:** The hitpaʿel *lehitbasés* ("to become established, to be grounded") and the passive *nivnaʾh* ("was built") express the gradual inchoative process of trust or credibility coming into being. Documented in P1b (Root א-מ-נ, item 22: *binyan ʾimun*, "trust-building") and P3 (Group 8). The process-noun *binyan ʾimun* ("trust-building") is the nominalized form of this dynamic.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehitʿarer* ("to be shaken, to erode") + *ʾimun* / *ʾemunaʾh* / *ʾaminut*
+
+**Examples:**
+- האמון התערער / *ha-ʾimun hitʿarer* / "the trust was shaken / eroded"
+- האמינות התערערה לאחר הדיווח / *ha-ʾaminut hitʿarerah le-ʾaḥar ha-divuaḥ* / "the credibility was undermined after the report"
+- האמונה בממשלה התערערה / *ha-ʾemunaʾh ba-memshalaʾh hitʿarerah* / "trust in the government was shaken"
+
+**Usage notes:** Documented in P4a (Construction 4) as the primary inchoative construction for trust-erosion. The hitpaʿel *lehitʿarer* is specifically collocated with *ʾimun*, *ʾaminut*, and *ʾemunaʾh* in journalistic and political discourse. The resulting state is the *mashber ʾemunaʾh* ("crisis of trust") documented in P2b (Item 9, Construction 6).
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehitkhaʾres* ("to collapse") / *lehiʾabed* ("to be lost") + *ʾimun* / *neʾemanut*
+
+**Examples:**
+- האמון קרס לחלוטין / *ha-ʾimun qaras le-ḥalutʾin* / "the trust collapsed entirely"
+- הנאמנות אבדה / *ha-neʾemanut ʾavdah* / "the loyalty/faithfulness was lost"
+
+**Usage notes:** These constructions express a more complete or terminal loss of trust than *lehitʿarer* (which implies shaking or weakening). Less frequent than *lehitʿarer* but attested in political and literary registers. The contrast between *lehitʿarer* (partial erosion) and *qaras* (collapse) is a degree distinction within the same inchoative domain.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 Doubt: becoming established
+
+**Pattern:** *gadal* ("grew") / *hitʿaṣem* ("intensified") + *safek*
+
+**Examples:**
+- הספק גדל / *ha-safek gadal* / "the doubt grew"
+- הספק התעצם עם הזמן / *ha-safek hitʿatsem ʿim ha-zman* / "the doubt intensified over time"
+
+**Usage notes:** Documented in P4a (Construction 4): "*ha-safek gadal* — common in narrative and journalistic registers; intransitive verb *gadal* with abstract noun subject is a natural Hebrew pattern." The inchoative process of doubt increasing is expressed through intransitive verbs of growth or intensification applied to *safek* as subject.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehiʾarev* ("to arise, to come up") + *safek*
+
+**Examples:**
+- עלה ספק לגבי מהימנות העד / *ʿalah safek le-gabi meheymanut ha-ʿed* / "a doubt arose regarding the credibility of the witness"
+- נוצר ספק בלב השופט / *notsaʾr safek be-lev ha-shefeṭ* / "a doubt was created in the judge's mind"
+
+**Usage notes:** The verbs *laʿalot* ("to arise, to come up") and *lehivaʾreʾ* / *lehinotsér* ("to be created, to arise") are used with *safek* as subject to express the inchoative emergence of doubt. Common in legal and narrative registers.
+**Epistemic status:** [CORE]
+
+---
+
+## 2. CAUSING A TRUTH-RELATED STATE (Causative)
+
+### 2.1 Causing something to be confirmed or verified
+
+**Pattern:** *leʾasher* ("to confirm, to authorize, to verify") + object
+
+**Examples:**
+- לאשר את הזהות / *leʾasher et ha-zehut* / "to verify the identity"
+- לאשר את החתימה / *leʾasher et ha-ḥatimaʾh* / "to confirm the signature"
+- לאשר את הדיווח / *leʾasher et ha-divuaḥ* / "to confirm the report"
+
+**Usage notes:** Documented in P2a (Item 15, Derived Form 5) and P3 (Group 7). *Leʾasher* is the standard causative verb for formal confirmation or verification. It causes something to acquire the status of being confirmed or authorized. The resulting state is *ʾishur* (the nominal form, "confirmation, authorization").
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *levarer* ("to ascertain, to clarify") + *ha-ʾemet* / object
+
+**Examples:**
+- לברר את האמת / *levarer et ha-ʾemet* / "to ascertain the truth"
+- לברר את העובדות / *levarer et ha-ʿuvdot* / "to clarify the facts"
+
+**Usage notes:** Documented in P2b (Item 1, Construction 5). *Levarer* expresses the causative process of bringing truth into a state of being known or established. The agent actively causes the truth to become clear.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.2 Causing something to be believed or trusted
+
+**Pattern:** *lgaram le-mishehu lehaʾamin* ("to cause someone to believe") — periphrastic causative
+
+**Examples:**
+- הראיות גרמו לשופט להאמין לעד / *ha-reʾayot garmu la-shefeṭ lehaʾamin la-ʿed* / "the evidence caused the judge to believe the witness"
+- הדיווח גרם לציבור להאמין בנכונות הנתונים / *ha-divuaḥ garaʾm la-tsibur lehaʾamin be-nekhonot ha-netunim* / "the report caused the public to believe in the accuracy of the data"
+
+**Usage notes:** Documented in P4a (Construction 5): "the causative 'to make someone believe' is expressed periphrastically (*lgaram le-mishehu lehaʾamin*)." The morphological hifʿil *lehaʾamin* has lexicalized as "to believe" rather than "to cause to believe," so the causative meaning requires the periphrastic *lgaram* construction.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *livnot ʾimun* ("to build trust") — causative through the process noun
+
+**Examples:**
+- הממשלה ניסתה לבנות אמון עם האזרחים / *ha-memshalaʾh nissetah livnot ʾimun ʿim ha-ʾezraḥim* / "the government tried to build trust with the citizens"
+- צעדי בניית אמון / *tsaʿadey binyan ʾimun* / "confidence-building measures"
+
+**Usage notes:** Documented in P1b (Root א-מ-נ, item 22) and P3 (Group 8). The verb *livnot* ("to build") with *ʾimun* as object expresses the causative process of creating or establishing trust. The nominalized form *binyan ʾimun* is the standard term for this process in diplomatic and organizational discourse.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 Causing something to be false, forged, or distorted
+
+**Pattern:** *lezayef* ("to forge, to falsify") + object
+
+**Examples:**
+- לזייף מסמך / *lezayef mismaḵh* / "to forge a document"
+- לזייף חתימה / *lezayef ḥatimaʾh* / "to forge a signature"
+- לזייף תוצאות / *lezayef totsaʾot* / "to falsify results"
+
+**Usage notes:** Documented in P2a (Item 5, Derived Form 3). *Lezayef* is the standard causative verb for the act of forgery or falsification: the agent causes an object to acquire the property *mezuyaf* ("forged"). The resulting state is expressed by the passive participle *mezuyaf*.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *leʿavvet et ha-ʾemet* ("to distort the truth") / *lesalef et ha-ʾemet* ("to falsify the truth")
+
+**Examples:**
+- הוא עיוות את האמת בדיווחו / *hu ʿivvet et ha-ʾemet be-divuaḥo* / "he distorted the truth in his report"
+- הם סילפו את האמת לטובתם / *hem silfu et ha-ʾemet le-tovatam* / "they falsified the truth for their own benefit"
+
+**Usage notes:** Documented in P2b (Item 1, Constructions 7 and 8). These are causative constructions in which the agent causes truth to acquire a distorted or falsified character. The distinction between *leʿavvet* and *lesalef* is one of degree: P2b notes that *lesalef* is "slightly more formal" and implies more deliberate misrepresentation.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *leramot* ("to deceive, to cheat") + object
+
+**Examples:**
+- הוא רימה את הלקוח / *hu rimah et ha-laqoaḥ* / "he deceived the customer"
+- לרמות את בית המשפט / *leramot et beyt ha-mishpat* / "to deceive the court"
+
+**Usage notes:** Documented in P2a (Item 17, Derived Form 2). *Leramot* is the standard causative verb for deception: the agent causes another person to hold a false belief or to be misled. The resulting state in the deceived party is one of false belief; the agent acquires the characterization *rammʾai* ("deceiver").
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehastir et ha-ʾemet* ("to conceal the truth")
+
+**Examples:**
+- הוא הסתיר את האמת מהשופט / *hu histir et ha-ʾemet me-ha-shefeṭ* / "he concealed the truth from the judge"
+- להסתיר את האמת מהציבור / *lehastir et ha-ʾemet me-ha-tsibur* / "to conceal the truth from the public"
+
+**Usage notes:** Documented in P2b (Item 1, Construction 6). *Lehastir* is a causative verb that causes truth to remain in a state of concealment rather than being revealed. It is the causative counterpart of *legallot* ("to reveal") and *laḥsof* ("to expose"), documented in P5 (Opposition 18).
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 Causing someone to be disqualified or validated
+
+**Pattern:** *lifsoʾl* ("to disqualify, to invalidate") + object
+
+**Examples:**
+- לפסול עד / *lifsoʾl ʿed* / "to disqualify a witness"
+- לפסול ראיה / *lifsoʾl reʾayaʾh* / "to invalidate evidence"
+- בית המשפט פסל את העדות / *beyt ha-mishpat pasal et ha-ʿedut* / "the court invalidated the testimony"
+
+**Usage notes:** The verb *lifsoʾl* is the causative form corresponding to the passive state *pasul* ("invalid, disqualified"), documented in P1 (item 24) and P3 (Group 7). The agent (typically a court or authority) causes an object to acquire the status *pasul*. The resulting state is the procedural disqualification documented in P3 Group 4.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehaḵshir* ("to validate, to declare fit") + object
+
+**Examples:**
+- לכשר עד / *lehaḵshir ʿed* / "to validate a witness, to declare a witness competent"
+- הרב הכשיר את המוצר / *ha-rav heḵshir et ha-mutsaʾr* / "the rabbi declared the product kosher/valid"
+
+**Usage notes:** The hifʿil verb *lehaḵshir* is the causative form corresponding to the state *kasher* ("valid, fit"), documented in P1 (item 25). The agent causes an object to acquire the status *kasher*. This is the procedural causative counterpart of *lifsoʾl*.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.5 Causing doubt
+
+**Pattern:** *leʿorer safek* ("to raise doubt") / *lehatiʾl safek* ("to cast doubt")
+
+**Examples:**
+- הדיווח עורר ספק לגבי אמינות המקור / *ha-divuaḥ ʿorer safek le-gabi ʾaminut ha-meqor* / "the report raised doubt about the credibility of the source"
+- הוא הטיל ספק בנכונות הנתונים / *hu hetil safek be-nekhonot ha-netunim* / "he cast doubt on the accuracy of the data"
+
+**Usage notes:** Both *leʿorer safek* ("to arouse/raise doubt") and *lehatiʾl safek* ("to cast doubt") are standard causative constructions with *safek* as object, documented in P1 (item 28) and P3 (Group 4). The agent causes the epistemic state of doubt to arise in another party or in a discourse context. *Lehatiʾl safek* is slightly more formal and is common in legal and academic registers.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.6 Causing precision or accuracy
+
+**Pattern:** *ledayeq* ("to be precise, to specify exactly") — reflexive causative
+
+**Examples:**
+- צריך לדייק בניסוח / *tsarikh ledayeq ba-nisuaḥ* / "one must be precise in the wording"
+- הוא דייק בעובדות / *hu diyeq ba-ʿuvdot* / "he was precise about the facts"
+
+**Usage notes:** Documented in P2a (Item 11, Derived Form 2). *Ledayeq* is a reflexive causative: the agent causes their own output (statement, measurement, description) to acquire the property *meduyaq* ("accurate, precise"). The construction is intransitive or takes a prepositional complement (*be-* + domain of precision) rather than a direct object.
+**Epistemic status:** [CORE]
+
+---
+
+## 3. MAINTAINING OR RESISTING CHANGE (Stability)
+
+### 3.1 Remaining faithful or true to something
+
+**Pattern:** *lishmor neʾemanut le-* ("to keep faith with") / *lehiʾshaʾer neʾeman le-* ("to remain faithful to")
+
+**Examples:**
+- לשמור נאמנות לעקרונות / *lishmor neʾemanut la-ʿiqronot* / "to keep faith with the principles"
+- הוא נשאר נאמן לדבריו / *hu nishaʾr neʾeman li-dvarav* / "he remained true to his word"
+- לשמור אמונים לאידיאלים / *lishmor ʾemunim la-ʾideʾalim* / "to keep faith with the ideals"
+
+**Usage notes:** Documented in P2b (Item 9, Construction 3: *lishmor ʾemunim*; Item 10, Construction 3: *neʾeman li-dvarav*). These constructions express the maintenance of a faithful or loyal state over time, resisting change or deviation. The verb *lishmor* ("to keep, to guard") with *neʾemanut* or *ʾemunim* as object is the primary stability construction in this domain.
+**Epistemic status:** [CORE]
+
+---
+
+**Pattern:** *lehiʾshaʾer neʾeman le-ʿatsmo* ("to remain true to oneself")
+
+**Examples:**
+- הוא תמיד נשאר נאמן לעצמו / *hu tamid nishaʾr neʾeman le-ʿatsmo* / "he always remained true to himself"
+- לא קל להישאר נאמן לעצמך בלחץ חברתי / *lo qal lehishaʾer neʾeman le-ʿatsmekha be-laḥats ḥevrati* / "it is not easy to remain true to yourself under social pressure"
+
+**Usage notes:** Documented in P2b (Item 10, Construction 1). The construction *neʾeman le-ʿatsmo* expresses the stability of personal authenticity and self-consistency over time. The verb *lehishaʾer* ("to remain") marks the maintenance of this state against potential change.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.2 Maintaining trust or credibility
+
+**Pattern:** *leshamér ʿal ha-ʾaminut* ("to maintain credibility") / *leshamér ʿal ha-ʾimun* ("to maintain trust")
+
+**Examples:**
+- העיתון שמר על אמינותו גם בתקופות קשות / *ha-ʿiton shamar ʿal ʾaminuto gam be-tequfot qashot* / "the newspaper maintained its credibility even in difficult times"
+- חשוב לשמור על האמון הציבורי / *ḥashuv lishmor ʿal ha-ʾimun ha-tsiburi* / "it is important to maintain public trust"
+
+**Usage notes:** The verb *lishmor ʿal* ("to maintain, to preserve") with *ʾaminut* or *ʾimun* as object expresses the active maintenance of a credibility or trust state against erosion. This is the stability counterpart of the inchoative *lehitʿarer* ("to be shaken") documented in Section 1.3.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 Persisting in doubt
+
+**Pattern:** *lehishaʾer be-safek* ("to remain in doubt") / *ha-safek nimshakh* ("the doubt persisted")
+
+**Examples:**
+- הספק נמשך לאורך כל המשפט / *ha-safek nimshakh le-ʾorekh kol ha-mishpat* / "the doubt persisted throughout the trial"
+- הוא נשאר בספק לגבי אמיתות הדברים / *hu nishaʾr be-safek le-gabi ʾamitut ha-devarim* / "he remained in doubt about the genuineness of the things said"
+
+**Usage notes:** The verb *lehimashekh* ("to continue, to persist") with *safek* as subject, or *lehishaʾer be-safek* ("to remain in doubt"), expresses the maintenance of an unresolved doubt state. Common in legal and narrative registers.
+**Epistemic status:** [CORE]
+
+---
+
+## 4. SUMMARY OF DYNAMIC PATTERNS
+
+The following table summarizes the primary dynamic constructions documented above.
+
+| Dynamic Type | Construction | Example | Translation | Epistemic Status |
+|---|---|---|---|---|
+| Inchoative: revealed as genuine | *lehitgalaʾh ke-* + positive term | *hitgalaʾh ke-ʾotenti* | "turned out to be authentic" | [CORE] |
+| Inchoative: revealed as false | *lehitgalaʾh ke-* + negative term | *hitgalaʾh ke-mezuyaf* | "turned out to be forged" | [CORE] |
+| Inchoative: truth established | *lehitbarer she-* | *hitbarer she-ha-meqor meheymen* | "it turned out the source was reliable" | [CORE] |
+| Inchoative: trust built | *nivnaʾh* / *lehitbasés* + *ʾimun* | *ha-ʾimun nivnaʾh le-ʾat* | "trust was built slowly" | [CORE] |
+| Inchoative: trust eroded | *lehitʿarer* + *ʾimun* / *ʾaminut* | *ha-ʾimun hitʿarer* | "the trust was shaken" | [CORE] |
+| Inchoative: trust collapsed | *qaras* / *ʾavdah* + *ʾimun* / *neʾemanut* | *ha-ʾimun qaras* | "the trust collapsed" | [CORE] |
+| Inchoative: doubt arose | *ʿalah* / *notsaʾr* + *safek* | *ʿalah safek* | "a doubt arose" | [CORE] |
+| Inchoative: doubt grew | *gadal* / *hitʿatsem* + *safek* | *ha-safek gadal* | "the doubt grew" | [CORE] |
+| Causative: confirm/verify | *leʾasher* + object | *leʾasher et ha-zehut* | "to verify the identity" | [CORE] |
+| Causative: ascertain truth | *levarer et ha-ʾemet* | *levarer et ha-ʾemet* | "to ascertain the truth" | [CORE] |
+| Causative: cause belief | *lgaram le-mishehu lehaʾamin* | *ha-reʾayot garmu lehaʾamin* | "the evidence caused belief" | [CORE] |
+| Causative: build trust | *livnot ʾimun* | *livnot ʾimun ʿim ha-ʾezraḥim* | "to build trust with citizens" | [CORE] |
+| Causative: forge/falsify | *lezayef* + object | *lezayef mismaḵh* | "to forge a document" | [CORE] |
+| Causative: distort truth | *leʿavvet* / *lesalef et ha-ʾemet* | *leʿavvet et ha-ʾemet* | "to distort the truth" | [CORE] |
+| Causative: deceive | *leramot* + object | *leramot et ha-laqoaḥ* | "to deceive the customer" | [CORE] |
+| Causative: conceal truth | *lehastir et ha-ʾemet* | *histir et ha-ʾemet* | "concealed the truth" | [CORE] |
+| Causative: disqualify | *lifsoʾl* + object | *lifsoʾl ʿed* | "to disqualify a witness" | [CORE] |
+| Causative: validate | *lehaḵshir* + object | *lehaḵshir ʿed* | "to validate a witness" | [CORE] |
+| Causative: raise doubt | *leʿorer* / *lehatiʾl safek* | *hetil safek be-nekhonot* | "cast doubt on the accuracy" | [CORE] |
+| Causative: be precise | *ledayeq be-* | *ledayeq ba-nisuaḥ* | "to be precise in the wording" | [CORE] |
+| Stability: remain faithful | *lishmor neʾemanut* / *lehishaʾer neʾeman le-* | *nishaʾr neʾeman li-dvarav* | "remained true to his word" | [CORE] |
+| Stability: maintain credibility | *lishmor ʿal ha-ʾaminut* | *shamar ʿal ʾaminuto* | "maintained its credibility" | [CORE] |
+| Stability: doubt persists | *nimshakh* / *lehishaʾer be-safek* | *ha-safek nimshakh* | "the doubt persisted" | [CORE] |
+
+---
+
+## 5. NOTES ON GAPS AND ASYMMETRIES
+
+**No common inchoative for *nakhon* ("correct"):** There is no attested common expression for "becoming correct" or "becoming accurate" as a change-of-state construction with *nakhon* as the target state. Correction is expressed causatively (*lenakhen*, "to correct") rather than inchoatively. The inchoative "to turn out to be correct" is expressed through *lehitbarer she-* + clause rather than through a construction with *nakhon* as complement.
+
+**No common inchoative for *kʾen* ("sincere") or *yosher* ("integrity"):** There is no attested common expression for "becoming sincere" or "becoming a person of integrity" as a change-of-state construction. These are treated in the documented data as stable character properties rather than states that are acquired or lost through a process. Change in these properties is expressed through moral narrative rather than through a dedicated inchoative construction.
+
+**Asymmetry between *lezayef* (causative) and *lehitgalaʾh ke-mezuyaf* (inchoative):** The causative of forgery (*lezayef*) is a direct transitive verb, while the inchoative discovery of forgery (*lehitgalaʾh ke-mezuyaf*) is a hitpaʿel construction. There is no morphological inchoative derived directly from root ז-י-פ; the discovery of the forged state is expressed through the general revelation verb *lehitgalaʾh*.
+
+**Periphrastic causative for belief:** As documented in P4a (Construction 5) and Section 2.2 above, the causative "to cause someone to believe" has no morphological expression and requires the periphrastic *lgaram le-mishehu lehaʾamin*. This is a systematic gap in the morphological causative system for root א-מ-נ in the belief domain.
+
+**Stability constructions are primarily relational:** The stability constructions documented in Section 3 all involve maintaining faithfulness or loyalty *to* something (*le-ʿatsmo*, *li-dvarav*, *la-ʿiqronot*). There are no attested stability constructions for maintaining the property of being *meduyaq* ("accurate") or *nakhon* ("correct") over time; these properties are evaluated at a moment rather than maintained through a process.

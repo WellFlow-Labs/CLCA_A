@@ -1,0 +1,508 @@
+# CLCA Protocol v3.3 — P6 Dynamic Expressions
+# Language: Basque (eu)
+
+---
+
+## Preliminary Note on Method
+
+This step documents how Basque encodes change, causation, and stability in truth-related meanings, drawing exclusively on vocabulary and constructions attested in the CONTEXT (P1–P5 and I1). Each subsection treats a distinct lexical item or cluster. Where the CONTEXT provides direct evidence of a dynamic expression, it is cited. Where the CONTEXT documents a morphological pattern (e.g., *-tu* as inchoative/causative, *-arazi* as productive causative) but does not provide a specific attested example for a given base, this is stated explicitly and the form is marked accordingly. Where no common expression exists, this is stated.
+
+The primary morphological resources documented in the CONTEXT for encoding change and causation are:
+
+- **Inchoative/causative *-tu***: documented in P4a (Construction 4 and 5) as yielding verbs that read as "become X" (intransitive) or "make X" (transitive) depending on argument structure. Attested examples in the truth domain: *zintzotu*, *okertu*, *gardendu*.
+- **Productive causative *-arazi***: documented in P4a (Construction 5) as a productive suffix on verbal stems. Attested example in the truth domain: *sinetsarazi* (via *gezurra sinetsarazi*).
+- **Lexicalized transitive verbs**: *egiaztatu*, *ziurtatu*, *zuzendu*, *baliozkotu*, *baliogabetu*, *faltsifikatu*, *gezurtatu* — documented as transitive verbs with implicit causative meaning ("to make/cause X to be verified/certain/correct/valid/invalid/falsified/contradicted").
+- **Periphrastic constructions**: *bihurtu* (to become) noted in P4a as an alternate inchoative; *egin* (to do/make) in various collocations.
+
+---
+
+## 1. *zintzotu* — "to become honest / to make honest"
+
+### Inchoative (X becomes honest)
+
+**Pattern:** NP (subject) + *zintzotu* + *da* (auxiliary, intransitive)
+
+**Example:**
+- *Zintzotu da* → N/A → "He/she has become honest; he/she has reformed."
+
+**Notes:** Documented in P4a (Construction 4) as the primary attested inchoative in the moral-character domain. The intransitive use with *da* auxiliary yields the inchoative reading without ambiguity in context. P2a describes *zintzotu* as used "in moral and educational contexts, often with reference to children or persons who have changed their behavior." This is the most directly attested inchoative in the truth-related moral domain.
+
+**Naturalness:** [CORE]
+
+---
+
+### Causative (Y makes X honest)
+
+**Pattern:** NP (agent) + NP (patient) + *zintzotu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Zintzotu du* → N/A → "He/she has made [someone] honest; he/she has reformed [someone]."
+
+**Notes:** P2a documents the transitive use of *zintzotu* as yielding the causative reading ("to make honest"). P4a notes that the same *-tu* form serves both inchoative and causative functions, with argument structure disambiguating. No specific collocational example with an overt agent and patient NP is attested in the CONTEXT beyond the bare verbal form.
+
+**Naturalness:** [CORE]
+
+---
+
+### Productive causative
+
+**Pattern:** *zintzo* + *-arazi* (productive causative suffix on adjectival/verbal base)
+
+**Example:**
+- *Zintzotu arazi* → N/A → "To cause [someone] to become honest; to make [someone] reform."
+
+**Notes:** The productive causative *-arazi* is documented in P4a as applicable to verbal stems. *Zintzotu* as a base for *-arazi* suffixation is morphologically regular but is not attested as a specific example in the CONTEXT. It is included here as a morphologically predictable form; its naturalness relative to the transitive *zintzotu du* construction is not determinable from the CONTEXT alone.
+
+**Naturalness:** [UNCERTAIN — morphologically regular but not attested in CONTEXT]
+
+---
+
+## 2. *okertu* — "to go wrong / to make wrong / to distort"
+
+### Inchoative (X goes wrong / becomes distorted)
+
+**Pattern:** NP (subject) + *okertu* + *da* (auxiliary, intransitive)
+
+**Example:**
+- *Gauzak okertu dira* → N/A → "Things have gone wrong."
+
+**Notes:** P2a documents *okertu* as used "both transitively (to distort or bend something) and intransitively (to go wrong, to err)." P2b documents *oker joan* ("to go wrong; to go astray; to turn out badly") as a parallel construction. The intransitive *okertu da* is the inchoative form. P4a lists *okertu* as a [CORE] inchoative example.
+
+**Naturalness:** [CORE]
+
+---
+
+### Causative (Y makes X go wrong / distorts X)
+
+**Pattern:** NP (agent) + NP (patient) + *okertu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Informazioa okertu du* → N/A → "He/she has distorted the information."
+
+**Notes:** P2a documents the transitive use of *okertu* as "to distort or bend something." The causative reading is available through the transitive argument structure. No specific collocational example is attested in the CONTEXT beyond the description of the verb's range.
+
+**Naturalness:** [CORE]
+
+---
+
+### Stability expression (X remains wrong / stays on the wrong track)
+
+**Pattern:** *oker* + *jarraitu* (to continue) or *oker* + *egon* (stative)
+
+**Example:**
+- *Oker jarraitzen du* → N/A → "He/she continues to be wrong; he/she keeps being mistaken."
+
+**Notes:** *Oker egon* ("to be wrong") is documented in P2b and P3 as the stative expression of being in a wrong state. The continuative *jarraitu* (to continue) is a function verb not listed in P1 but available as a general auxiliary; its combination with *oker* is a natural extension of the documented stative pattern. This form is not directly attested in the CONTEXT.
+
+**Naturalness:** [UNCERTAIN — compositionally natural but not attested in CONTEXT]
+
+---
+
+## 3. *gardendu* — "to become transparent / to make transparent"
+
+### Inchoative (X becomes more transparent/open)
+
+**Pattern:** NP (subject, typically an institution or process) + *gardendu* + *da* (auxiliary, intransitive)
+
+**Example:**
+- *Erakundea gardendu da* → N/A → "The institution has become more transparent / has opened up."
+
+**Notes:** P2a documents *gardendu* as used "in administrative and institutional contexts to describe the act of making processes or information more transparent or open" and "in discussions of institutional reform and accountability." The intransitive use is documented as available, yielding the inchoative reading. Rated [MARGINAL] in P2a, reflecting lower frequency relative to the nominal *gardentasun* and adjectival *garden*.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### Causative (Y makes X transparent)
+
+**Pattern:** NP (agent) + NP (patient) + *gardendu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Prozesua gardendu dute* → N/A → "They have made the process transparent; they have opened up the process."
+
+**Notes:** P2a documents the transitive use of *gardendu* as "the act of making processes or information more transparent." The causative reading is available through the transitive argument structure. This is the primary documented use of *gardendu* in the CONTEXT.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+## 4. *egiaztatu* — "to verify / to have [something] confirmed"
+
+### Causative / institutionally transitive (Y verifies X; Y causes X to be confirmed)
+
+**Pattern:** NP (agent/institution) + NP (patient, the thing verified) + *egiaztatu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Datuak egiaztatu ditu* → N/A → "He/she has verified the data; he/she has confirmed the data."
+- *Behar bezala egiaztatu* → N/A → "To verify properly; to verify as required." (documented in P2b)
+
+**Notes:** P4a documents *egiaztatu* as a [CORE] causative/transitive verb: "the implicit causative reading is institutionally established rather than compositionally derived in active use." The verb is lexicalized as a transitive act of verification. No inchoative use (*egiaztatu da*, "it has become verified") is attested in the CONTEXT; the passive/resultative state is expressed periphrastically (see below).
+
+**Naturalness:** [CORE]
+
+---
+
+### Resultative state (X is verified / X has been verified)
+
+**Pattern:** NP (subject) + *egiaztatu* + *da* (auxiliary, intransitive/passive-resultative)
+
+**Example:**
+- *Informazioa egiaztatu da* → N/A → "The information has been verified; the information is confirmed."
+
+**Notes:** The resultative passive with *da* auxiliary is a standard Basque construction for expressing the state resulting from a transitive action. This is compositionally regular and consistent with documented Basque grammar, but no specific example with *egiaztatu* is attested in the CONTEXT. The negative counterpart *egiaztatu gabeko* ("unverified," documented in P1b and P2b) implies the existence of the positive resultative state.
+
+**Naturalness:** [CORE — compositionally regular; negative counterpart attested]
+
+---
+
+### Absence of change (X left unverified)
+
+**Pattern:** NP (subject) + *egiaztatu gabe utzi* (documented construction)
+
+**Example:**
+- *Egiaztatu gabe utzi dute informazioa* → N/A → "They have left the information unverified."
+
+**Notes:** Directly attested in P2b: "*egiaztatu gabe utzi*: to leave unverified; to leave without verification." This is the primary documented expression for the failure to bring about the change-of-state that *egiaztatu* names.
+
+**Naturalness:** [CORE]
+
+---
+
+## 5. *ziurtatu* — "to certify / to confirm / to make certain"
+
+### Causative / institutionally transitive (Y certifies X; Y makes X certain)
+
+**Pattern:** NP (agent/institution) + NP (patient) + *ziurtatu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Ofizialki ziurtatu dute* → N/A → "They have officially certified it." (documented in P2b as *ofizialki ziurtatu*)
+
+**Notes:** P4a documents *ziurtatu* as a [CORE] causative/transitive verb. P2b documents *ofizialki ziurtatu* ("to officially certify; to formally confirm") as an attested construction. The verb is lexicalized as a transitive act of certification or assurance.
+
+**Naturalness:** [CORE]
+
+---
+
+### Resultative state (X is certified / X has been certified)
+
+**Pattern:** NP (subject) + *ziurtatu* + *da* (auxiliary, intransitive/passive-resultative)
+
+**Example:**
+- *Ziurtagiria ziurtatu da* → N/A → "The certificate has been confirmed / issued."
+
+**Notes:** Compositionally regular; the negative counterpart *ziurtatu gabeko* ("uncertified," documented in P1b) implies the positive resultative state. No specific attested example in the CONTEXT.
+
+**Naturalness:** [CORE — compositionally regular; negative counterpart attested]
+
+---
+
+### Absence of change (X remains uncertified)
+
+**Pattern:** NP (subject) + *ziurtatu gabeko* (documented participial construction)
+
+**Example:**
+- *Ziurtatu gabeko albistea* → N/A → "Unverified news; unconfirmed report." (documented in P2b)
+
+**Notes:** Directly attested in P2b as a nominal construction. This is the primary documented expression for the state of not having undergone the change-of-state that *ziurtatu* names.
+
+**Naturalness:** [CORE]
+
+---
+
+## 6. *baliozkotu* / *baliogabetu* — "to validate / to invalidate"
+
+### Causative (Y validates X)
+
+**Pattern:** NP (agent/institution) + NP (patient, document or decision) + *baliozkotu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Ofizialki baliozkotu dute erabakia* → N/A → "They have officially validated the decision." (documented in P2b as *ofizialki baliozkotu*)
+
+**Notes:** P1 and P2a document *baliozkotu* as a transitive verb used in legal and administrative registers "to denote the formal act of conferring validity on a document, decision, or act." P2b attests *ofizialki baliozkotu* as a construction. Rated [MARGINAL] in P1 and P2a, reflecting its restriction to formal registers.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### Causative (Y invalidates X)
+
+**Pattern:** NP (agent/institution) + NP (patient) + *baliogabetu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Epaileak erabakia baliogabetu du* → N/A → "The judge has invalidated the decision."
+
+**Notes:** P2a documents *baliogabetu* as "the semantic counterpart of *baliozkotu*," used "in legal and administrative contexts to denote the act of declaring something invalid or void." Rated [CORE] in P2a. No specific collocational example is attested in the CONTEXT beyond the description of the verb's function.
+
+**Naturalness:** [CORE]
+
+---
+
+### Change-of-state opposition (*baliozkotu* vs. *baliogabetu*)
+
+**Notes:** P5 (Opposition 11) explicitly documents *baliozkotu* and *baliogabetu* as a causative opposition: one confers validity, the other removes it. These are the only two verbs in the CONTEXT that encode opposing directed changes of state within the same domain (legal validity). No inchoative (*baliozko bihurtu*, "to become valid") is attested in the CONTEXT; the change is always institutionally caused rather than spontaneous.
+
+---
+
+## 7. *zuzendu* — "to correct / to rectify / to direct"
+
+### Causative (Y corrects X; Y makes X correct/straight)
+
+**Pattern:** NP (agent) + NP (patient, error or text or person) + *zuzendu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Akatsak zuzendu ditu* → N/A → "He/she has corrected the errors."
+- *Oker zuzendu* → N/A → "To correct a mistake; to right a wrong." (documented in P1b and P2b)
+
+**Notes:** P2a documents *zuzendu* as a [CORE] verb used "across multiple domains: correcting errors in writing or speech, rectifying moral or legal wrongs, directing or steering a course." P1b documents *oker zuzendu* ("to correct a mistake; to right a wrong") as an attested collocation. The causative reading is primary for this verb.
+
+**Naturalness:** [CORE]
+
+---
+
+### Resultative state (X has been corrected / X is rectified)
+
+**Pattern:** NP (subject) + *zuzendu* + *da* (auxiliary, intransitive/passive-resultative)
+
+**Example:**
+- *Akatsa zuzendu da* → N/A → "The error has been corrected."
+
+**Notes:** Compositionally regular. No specific attested example in the CONTEXT, but the pattern is consistent with documented Basque grammar and the verb's documented range.
+
+**Naturalness:** [CORE — compositionally regular]
+
+---
+
+### Stability / ongoing correction process
+
+**Pattern:** *zuzentze lanak* (documented nominal construction)
+
+**Example:**
+- *Zuzentze lanak egiten ari da* → N/A → "He/she is doing correction work; he/she is in the process of correcting."
+
+**Notes:** P1b documents *zuzentze lanak* ("correction work; editing work; proofreading tasks") as an attested nominal construction. The progressive construction with *egiten ari* (to be in the process of doing) is a standard Basque progressive aspect marker; its combination with *zuzentze lanak* is compositionally natural but not directly attested in the CONTEXT.
+
+**Naturalness:** [CORE — nominal attested; progressive construction compositionally regular]
+
+---
+
+## 8. *gezurtatu* — "to give the lie to / to contradict / to prove false"
+
+### Causative (Y proves X false; Y contradicts X)
+
+**Pattern:** NP (agent) + NP (patient, claim or person) + *gezurtatu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Datuek teoria gezurtatu dute* → N/A → "The data have given the lie to the theory; the data have contradicted the theory."
+
+**Notes:** P2a documents *gezurtatu* as a [CORE] transitive verb "used to describe the act of demonstrating that something is false or of contradicting a claim." The verb is lexicalized as a causative act of falsification/refutation. No specific collocational example is attested in the CONTEXT beyond the description of the verb's function.
+
+**Naturalness:** [CORE]
+
+---
+
+### Process nominal (the act of contradicting)
+
+**Pattern:** *gezurtatze* (documented in P2a)
+
+**Example:**
+- *Teoria horren gezurtatze* → N/A → "The refutation of that theory; the act of contradicting that theory."
+
+**Notes:** P2a documents *gezurtatze* as a [MARGINAL] process nominal of *gezurtatu*, "used in argumentative and legal contexts to refer to the act of demonstrating that a claim is false."
+
+**Naturalness:** [MARGINAL]
+
+---
+
+## 9. *faltsifikatu* — "to falsify / to forge"
+
+### Causative (Y falsifies X; Y forges X)
+
+**Pattern:** NP (agent) + NP (patient, document or data) + *faltsifikatu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Agiriak faltsifikatu ditu* → N/A → "He/she has falsified the documents; he/she has forged the papers." (documented in P2b)
+- *Datuak faltsifikatu ditu* → N/A → "He/she has falsified the data." (documented in P2b)
+
+**Notes:** P2b directly attests both collocations as the most common contexts for *faltsifikatu*. The verb is lexicalized as a transitive act of deliberate falsification. No inchoative use is attested or expected; the change is always agentively caused.
+
+**Naturalness:** [CORE]
+
+---
+
+## 10. *sinetsarazi* — "to make someone believe"
+
+### Causative (Y makes X believe [a lie / something])
+
+**Pattern:** NP (agent) + NP (patient, person caused to believe) + NP (content believed) + *sinetsarazi* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Gezurra sinetsarazi dio* → N/A → "He/she has made [someone] believe a lie; he/she has gotten [someone] to believe a falsehood." (documented in P2b)
+
+**Notes:** P2b directly attests *gezurra sinetsarazi* as a [CORE] causative construction: "used in moral and rhetorical contexts to describe the act of deceiving someone into believing something false." This is the only *-arazi* productive causative directly attested in the truth domain in the CONTEXT. P4a identifies it as the primary example of the productive causative pattern in this domain.
+
+**Naturalness:** [CORE]
+
+---
+
+## 11. *sinesgarritasuna galdu / irabazi* — "to lose / gain credibility"
+
+### Change-of-state: loss (X loses credibility)
+
+**Pattern:** NP (subject) + *sinesgarritasuna galdu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Sinesgarritasuna galdu du* → N/A → "He/she has lost credibility." (documented in P2b)
+
+**Notes:** P2b directly attests *sinesgarritasuna galdu* as a [CORE] construction: "used in journalistic, political, and everyday contexts to describe the loss of credibility by a person, institution, or account."
+
+**Naturalness:** [CORE]
+
+---
+
+### Change-of-state: gain (X gains credibility)
+
+**Pattern:** NP (subject) + *sinesgarritasuna irabazi* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Sinesgarritasuna irabazi du* → N/A → "He/she has gained credibility; he/she has earned believability." (documented in P2b)
+
+**Notes:** P2b directly attests *sinesgarritasuna irabazi* as a [CORE] construction: "used in journalistic and political contexts to describe the acquisition of credibility through demonstrated reliability." P5 (Opposition 23) documents this as a constructional opposition with *sinesgarritasuna galdu*.
+
+**Naturalness:** [CORE]
+
+---
+
+### Stability (X maintains credibility)
+
+**Pattern:** NP (subject) + *sinesgarritasuna mantendu* / *sinesgarritasuna gorde*
+
+**Example:**
+- *Sinesgarritasuna mantendu du* → N/A → "He/she has maintained credibility."
+
+**Notes:** *Mantendu* (to maintain, from Romance) and *gorde* (to keep, to maintain) are function verbs not listed in P1 but available as general auxiliaries. Their combination with *sinesgarritasuna* is compositionally natural given the documented *galdu* / *irabazi* pattern, but neither is directly attested in the CONTEXT.
+
+**Naturalness:** [UNCERTAIN — compositionally natural but not attested in CONTEXT]
+
+---
+
+## 12. *egia argitara atera / egia ezkutatu* — "to reveal / to conceal the truth"
+
+### Change-of-state: revelation (truth comes to light / is brought to light)
+
+**Pattern:** NP (agent) + *egia argitara atera* + *du* (auxiliary, transitive) [agentive]
+or: *egia argitara atera* + *da* (auxiliary, intransitive) [spontaneous]
+
+**Example:**
+- *Egia argitara atera dute* → N/A → "They have brought the truth to light; they have revealed the truth." (documented in P2b)
+- *Egia beti ateratzen da azalera* → N/A → "The truth always comes to the surface; truth will out." (documented in P2b)
+
+**Notes:** P2b documents both the agentive transitive construction (*egia argitara atera du*, "to bring the truth to light") and the spontaneous intransitive construction (*egia beti ateratzen da azalera*, "the truth always comes to the surface") as [CORE] attested expressions. The latter is explicitly described as "proverbial" and encodes the truth-revelation change as spontaneous and inevitable rather than agentively caused.
+
+**Naturalness:** [CORE]
+
+---
+
+### Change-of-state: concealment (truth is hidden)
+
+**Pattern:** NP (agent) + *egia ezkutatu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Egia ezkutatu dute* → N/A → "They have hidden the truth; they have concealed the truth." (documented in P2b)
+
+**Notes:** P2b directly attests *egia ezkutatu* as a [CORE] construction: "used in moral, legal, and journalistic contexts to describe deliberate concealment of true information." P5 (Opposition 33) documents this as a constructional opposition with *egia argitara atera*.
+
+**Naturalness:** [CORE]
+
+---
+
+### Stable concealed state
+
+**Pattern:** *egia gordea* (documented nominal construction)
+
+**Example:**
+- *Egia gordea dago* → N/A → "The truth remains hidden; the truth is concealed."
+
+**Notes:** P2b documents *egia gordea* ("the hidden truth; the concealed truth") as a [CORE] nominal collocation. The stative construction with *egon* (to be, stative) is the natural expression of the resulting state of concealment. No specific attested example with *egon* is in the CONTEXT, but the nominal is directly attested.
+
+**Naturalness:** [CORE — nominal attested; stative construction compositionally regular]
+
+---
+
+## 13. *itxuratu* — "to disguise / to simulate / to feign"
+
+### Causative (Y gives X a [false] appearance; Y makes X appear to be Z)
+
+**Pattern:** NP (agent) + NP (patient) + *itxuratu* + *du* (auxiliary, transitive)
+
+**Example:**
+- *Egoera itxuratu du* → N/A → "He/she has disguised the situation; he/she has made the situation appear [other than it is]."
+
+**Notes:** P2a documents *itxuratu* as a [CORE] verb: "used to describe the act of giving something a particular appearance, disguising, or simulating." No specific collocational example is attested in the CONTEXT beyond the description of the verb's range.
+
+**Naturalness:** [CORE]
+
+---
+
+## 14. *zintzotu* revisited — stability expression
+
+### Stable honest state
+
+**Pattern:** *zintzo* + *egon* (stative) or *zintzo* + *jarraitu* (to continue)
+
+**Example:**
+- *Zintzo jarraitzen du* → N/A → "He/she continues to be honest; he/she remains upright."
+
+**Notes:** *Zintzo egon* is compositionally parallel to the documented *ziur egon* ("to be certain," P2b) and *oker egon* ("to be wrong," P2b), both of which are [CORE] stative constructions. The continuative *jarraitu* is not in P1 but is a general auxiliary. Neither specific form is attested in the CONTEXT.
+
+**Naturalness:** [UNCERTAIN — compositionally regular by analogy with attested stative patterns; not directly attested]
+
+---
+
+## Summary Table
+
+| Expression | Type | Attested in CONTEXT | Naturalness |
+|---|---|---|---|
+| *zintzotu da* | inchoative (become honest) | P2a, P4a | [CORE] |
+| *zintzotu du* | causative (make honest) | P2a, P4a | [CORE] |
+| *okertu da* | inchoative (go wrong) | P2a, P4a | [CORE] |
+| *okertu du* | causative (distort) | P2a | [CORE] |
+| *gardendu da* | inchoative (become transparent) | P2a | [MARGINAL] |
+| *gardendu dute* | causative (make transparent) | P2a | [MARGINAL] |
+| *egiaztatu du* | causative/transitive (verify) | P1, P2b, P4a | [CORE] |
+| *egiaztatu da* | resultative (has been verified) | implied by *egiaztatu gabeko* | [CORE] |
+| *egiaztatu gabe utzi* | absence of change (left unverified) | P2b | [CORE] |
+| *ziurtatu du* | causative/transitive (certify) | P1, P2b, P4a | [CORE] |
+| *ziurtatu gabeko* | absence of change (uncertified) | P1b, P2b | [CORE] |
+| *baliozkotu du* | causative (validate) | P1, P2a, P2b | [MARGINAL] |
+| *baliogabetu du* | causative (invalidate) | P2a | [CORE] |
+| *zuzendu du* | causative (correct) | P1b, P2a, P2b | [CORE] |
+| *oker zuzendu* | causative (right a wrong) | P1b, P2b | [CORE] |
+| *gezurtatu du* | causative (give the lie to) | P2a | [CORE] |
+| *faltsifikatu du* | causative (falsify/forge) | P2b | [CORE] |
+| *gezurra sinetsarazi* | productive causative (make believe a lie) | P2b, P4a | [CORE] |
+| *sinesgarritasuna galdu* | change-of-state: loss (lose credibility) | P2b, P5 | [CORE] |
+| *sinesgarritasuna irabazi* | change-of-state: gain (gain credibility) | P2b, P5 | [CORE] |
+| *egia argitara atera du* | causative (bring truth to light) | P2b | [CORE] |
+| *egia beti ateratzen da azalera* | spontaneous change (truth comes out) | P2b | [CORE] |
+| *egia ezkutatu du* | causative (conceal truth) | P2b | [CORE] |
+| *egia gordea dago* | stable concealed state | nominal attested P2b | [CORE] |
+| *itxuratu du* | causative (give false appearance) | P2a | [CORE] |
+| *zintzotu arazi* | productive causative (cause to become honest) | not attested | [UNCERTAIN] |
+| *zintzo jarraitzen du* | stability (remain honest) | not attested | [UNCERTAIN] |
+| *sinesgarritasuna mantendu* | stability (maintain credibility) | not attested | [UNCERTAIN] |
+
+---
+
+## Cross-cutting Observations
+
+Three patterns emerge from the documented data and are reported here without interpretation beyond what the CONTEXT supports:
+
+**1. Asymmetry between inchoative and causative availability.** For *zintzotu* and *okertu*, both inchoative (*da* auxiliary) and causative (*du* auxiliary) uses are documented. For *egiaztatu*, *ziurtatu*, *baliozkotu*, *baliogabetu*, *zuzendu*, *gezurtatu*, and *faltsifikatu*, only the causative/transitive use is documented in the CONTEXT; no inchoative use is attested. This is consistent with the institutional nature of these verbs: verification, certification, validation, correction, and falsification are documented as agentively caused acts rather than spontaneous changes of state.
+
+**2. The *-arazi* productive causative is attested only once in the truth domain.** P4a identifies *gezurra sinetsarazi* as the primary example of the productive causative in this domain. No *-arazi* form is attested for *egiaztatu*, *ziurtatu*, *zuzendu*, or other lexicalized causative verbs in the CONTEXT. This is consistent with P4a's observation that these verbs carry "implicit rather than compositional causative meaning."
+
+**3. The spontaneous change construction (*egia beti ateratzen da azalera*) is the only documented case of truth-related change encoded as non-agentive.** All other change-of-state expressions in the CONTEXT encode an agent causing the change. The proverbial construction encoding truth's inevitable emergence is the sole exception, and it is explicitly described in P2b as proverbial rather than as a productive grammatical pattern.
+
+---
+
+*End of P6 Dynamic Expressions*

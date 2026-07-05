@@ -1,0 +1,92 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Basque (eu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicate-nominal copular (*[NP/Prop] + truth-term + da*); Predicate-adjectival copular (*[NP/Prop] + adj + da*) | *Egia da hori.*; *Egiazkoa da agiri hori.* | Direct; no substitution required | None |
+| **ADNOM** | Pre-nominal relational adjective via *-zko* / *-ko* (*[root-zko/ko] + [Noun]*) | *Egiazko lekukotasuna*; *Benetako arazoa* | Direct | None |
+| **BECOME** | Periphrastic *bihurtu da* with truth-domain complement; marginal suffixed *-tu* inchoative (*okertu*) | *Egia bihurtu da.*; *Okertu egin da gauza hori.* | Direct (periphrastic); *-tu* suffixation is lexically restricted and [MARGINAL] | Partial lexical restriction on morphological inchoative; periphrastic form fully covers the function |
+| **REVELATION** | No dedicated revelation construction attested in P4a or P4b | — | **SUBSTITUTED BY BECOME** (*bihurtu da* covers inchoative change-of-state including outcomes that surface as revelations) | Lexical gap: no dedicated revelation verb or construction documented |
+| **CAUSATION (factual)** | Periphrastic *eragin* + infinitive [CORE]; morphological *-arazi* [MARGINAL] | *Egia esan eragin zion.*; *Egiaztarazi zion.* | Direct (periphrastic); morphological form is low-frequency in this domain | Partial: *-arazi* is [MARGINAL] for truth-domain verbs; no *-arazi* from nominal bases attested — **lexical gap** for nominal-base morphological causatives |
+| **CAUSATION (character)** | No construction specifically encoding causation of a character state (e.g., "making someone honest/truthful") is attested | — | **NO COMMON EXPRESSION — circumlocution required** (periphrastic *behartu* + infinitive noted but not exemplified for character causation; character adjectives *zintzoa*, *jatorra* are attributive only) | Lexical gap: no dedicated character-causative construction documented in the data |
+| **VERIFICATION** | *-tze* + *-a* verbal noun (*egiaztatzea*, *frogatzea*) [CORE]; *-pen* result nominal (*egiaztapen*, *frogapen*) [CORE]; *-garri* potential adjectival (*egiaztagarria*, *frogagarria*) [CORE] | *Egiaztatzea*; *Frogatzea*; *Frogagarria* | Direct; multiple construction types cover process, result, and potential aspects | None |
+| **DISCONFIRMATION** | *-gabe* privative (*baliogabea*, *egigabea*) [CORE]; *ezin* impossibility construction (*frogaezina*, *egiaztaezina*) [CORE]; *-gaitz*/*-kaitz* negative potential (*fidagaitza*, *sineskaitza*) [CORE] | *Baliogabea*; *Frogaezina*; *Fidagaitza* | Direct; three distinct construction types cover absence-of-property, impossibility-of-verification, and resistant-potential respectively | None structurally; note that the three strategies are not interchangeable (see §2) |
+| **NEGATION** | Analytic: *ez* + *da* (*Ez da egia hori.*; *Ez da sinesgarria.*) [CORE]; morphological: *-gabe* privative, *ezin* construction, *-gaitz*/*-kaitz* (see DISCONFIRMATION above) | *Ez da egia hori.*; *Baliogabea*; *Frogaezina*; *Fidagaitza* | Both analytic (sentential negation via *ez*) and morphological (derivational) strategies are attested and productive; they are not interchangeable (see §2) | None |
+| **NOMINALIZATION** | *-tasun* abstract property nominal [CORE]; *-tze* + *-a* verbal process nominal [CORE]; *-pen* result nominal [CORE]; *-ti* agentive nominal (falsehood domain only) [CORE]; periphrastic relative clause for truth-telling agent [CORE] | *Zintzotasuna*; *Fidagarritasuna*; *Egiaztatzea*; *Frogapen*; *Gezurtia*; *Egia esaten duena* | Direct for abstract property, process, result, and falsehood-domain agentive; **asymmetric gap** for truth-domain agentive nominal (see §2 and §3) | Asymmetric lexical gap: *-ti* agentive attested only for falsehood side (*gezurtia*); no parallel truth-telling agentive nominal attested |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by BECOME
+
+No dedicated REVELATION construction (a construction encoding the coming-to-light or discovery of a truth) is attested in the P4a or P4b data. The inchoative *bihurtu da* construction covers change-of-state readings including outcomes that in other languages would be expressed by a revelation verb (e.g., "it turned out to be true" is rendered as *Egia bihurtu da*, literally "it became true"). The BECOME construction therefore functions as the closest available equivalent for REVELATION readings. This is a substitution, not a structural equivalence: *bihurtu da* encodes change-of-state from the subject's perspective, not the coming-to-light of a fact for an observer. The data do not document whether a more specific revelation reading is available through other lexical means; the gap is recorded as a lexical gap rather than a conceptual gap.
+
+### 2.2 CAUSATION (factual) partially covered; CAUSATION (character) absent
+
+For factual causation (causing someone to verify or prove something), two strategies are attested: the periphrastic *eragin* + infinitive construction [CORE] and the morphological *-arazi* suffix [MARGINAL]. The periphrastic form is the primary strategy in this domain. The morphological *-arazi* form is grammatically productive in Basque generally but is documented as low-frequency for truth-domain verbs, and no *-arazi* causative from nominal bases (*egia*, *gezurra*) is attested. This constitutes a lexical gap within the morphological causative strategy, not a structural gap in causation overall.
+
+For character causation (causing someone to become honest, truthful, or deceptive as a character trait), no construction is attested in the data. Character adjectives (*zintzoa*, *jatorra*) are used attributively in ATTR constructions but are not documented in any causative frame. The *behartu* + infinitive periphrastic is noted as a further causative strategy but is not exemplified for character-state causation. This is recorded as **NO COMMON EXPRESSION — circumlocution required** rather than a structural gap, because the absence may reflect the limits of the attested data rather than a categorical structural impossibility.
+
+### 2.3 NEGATION: analytic and morphological strategies are distinct and non-interchangeable
+
+Basque employs both analytic and morphological negation in the truth domain, but these are not interchangeable:
+
+- **Analytic negation** (*ez* + *da*) operates at the sentential level and negates the copular attribution as a whole (*Ez da egia hori* — "That is not true"). This is the standard strategy for NEGATION of ATTR constructions.
+- **Morphological negation** operates at the word-formation level and produces derived lexical items: *-gabe* (absence of property: *baliogabea*), *ezin* (impossibility: *frogaezina*), and *-gaitz*/*-kaitz* (resistant potential: *fidagaitza*). These are not sentential negations but derived property terms.
+
+The three morphological strategies are themselves non-interchangeable: *-gabe* applies to nominal and verbal roots to express absence; *ezin* applies to verbal roots to express impossibility; *-gaitz*/*-kaitz* is the consistent negative counterpart to *-garri* potential adjectivals and expresses resistance or difficulty rather than absence or impossibility. The data show no overlap or free alternation among these three.
+
+### 2.4 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+VERIFICATION is expressed through the *-tze* process nominal, the *-pen* result nominal, and the *-garri* potential adjectival — all of which are positive-polarity forms. DISCONFIRMATION is expressed through the *-gabe* privative, the *ezin* impossibility construction, and the *-gaitz*/*-kaitz* negative potential — all of which are negative-polarity forms. The two sets are formally and semantically distinct and do not share a common construction. There is a partial formal relationship between *-garri* (VERIFICATION potential) and *-gaitz*/*-kaitz* (DISCONFIRMATION resistant potential) in that they form a consistent antonym pair, but they are derived by different suffixes and are not the same construction with different polarity marking.
+
+### 2.5 Agentive nominalization asymmetry: falsehood vs. truth
+
+The *-ti* agentive nominal is attested only for the falsehood side of the domain: *gezurtia* ("the liar") is a fully lexicalized common word. No parallel *-ti* form for the truth-telling agent is attested (*egiazkoti*, *egiati* are not documented). The truth-telling agent is expressed periphrastically via relative clauses (*egia esaten duena*, "the one who tells the truth") or characterized via property adjectives (*zintzoa*, *jatorra*), which are ATTR constructions rather than agentive nominals. This is a consistent asymmetry within the agentive nominalization construction type: the construction is available on one side of the domain (falsehood) and absent on the other (truth-telling), with periphrastic substitution filling the gap on the truth-telling side.
+
+### 2.6 BECOME: periphrastic form productive; morphological form lexically restricted
+
+The *bihurtu da* periphrastic is the productive general inchoative strategy and applies broadly across truth-domain nominals and adjectivals. The suffixed *-tu* inchoative is lexically restricted: *okertu* (to go wrong) is well-attested, *zilegitu* (to become legitimate) is marginal, and no *-tu* inchoative from *egia* or *gezurra* is attested. The two strategies are not parallel productive alternates; *bihurtu da* is the default and the *-tu* form is a lexically idiosyncratic option for specific roots.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+No structural gaps are identified. All ten CLCA operator categories have at least one attested construction or a documented substitution strategy. The absence of REVELATION and CAUSATION (character) reflects the limits of attested data rather than a demonstrated structural impossibility.
+
+### 3.2 Lexical Gaps
+- **REVELATION**: No dedicated revelation verb or construction is attested. The BECOME construction (*bihurtu da*) is the closest available form. The gap is lexical: no single verb or construction specifically encoding "coming to light" or "being discovered to be true" is documented.
+- **CAUSATION (character)**: No construction encoding the causation of a character state (making someone honest, truthful, or deceptive) is attested. Periphrastic strategies (*behartu* + infinitive) are noted but not exemplified for this function.
+- **Morphological causative from nominal bases**: No *-arazi* causative from *egia* or *gezurra* is documented. This is a lexical gap within the morphological causative strategy.
+- **Agentive nominal for truth-telling agent**: No *-ti* agentive form for the truth-telling agent is attested. *Gezurtia* (liar) has no structural parallel on the truth-telling side.
+
+### 3.3 Conceptual Gaps
+None identified from the data. The data do not provide evidence that any CLCA operator category is conceptually unavailable or blocked in Basque. Absences are recorded as lexical or asymmetric gaps rather than conceptual gaps.
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing)
+- **Agentive nominalization**: *-ti* agentive is attested for falsehood (*gezurtia*) but not for truth-telling. The truth-telling side lacks a morphological agentive nominal and relies on periphrasis. This is a one-sided lexical gap within an otherwise available construction type.
+- **Inchoative *-tu* suffixation**: Attested for the negative/error side (*okertu*, "to go wrong") but not for *egia* or *gezurra* bases. The periphrastic *bihurtu da* covers both sides.
+- **Morphological causative (*-arazi*)**: Attested for verbal bases in the verification sub-domain (*egiaztarazi*) but not for nominal truth/falsehood bases. No corresponding gap on the negative side is noted, but the asymmetry between verbal and nominal bases is documented.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Both nominal and adjectival predicate-copular constructions are [CORE] and apply uniformly across the truth-domain vocabulary. |
+| **ADNOM** | **Fully available** | Pre-nominal *-zko*/*-ko* relational adjective construction is [CORE] and the sole attested strategy; no alternates documented. |
+| **BECOME** | **Fully available** | Periphrastic *bihurtu da* is [CORE] and productive; morphological *-tu* inchoative is [MARGINAL] and lexically restricted but does not affect the availability of the operator overall. |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME** (*bihurtu da*). No dedicated revelation construction attested; lexical gap. |
+| **CAUSATION (factual)** | **Fully available** | Periphrastic *eragin* + infinitive is [CORE]; morphological *-arazi* is [MARGINAL] for this domain. Operator is covered by the periphrastic form. |
+| **CAUSATION (character)** | **Partially available** | **NO COMMON EXPRESSION — circumlocution required**. Periphrastic strategies (*behartu* + infinitive) are noted but not exemplified for character-state causation. Lexical gap. |
+| **VERIFICATION** | **Fully available** | Multiple [CORE] construction types cover process (*-tze*), result (*-pen*), and potential (*-garri*) aspects. |
+| **DISCONFIRMATION** | **Fully available** | Three distinct [CORE] construction types cover absence (*-gabe*), impossibility (*ezin*), and resistant potential (*-gaitz*/*-kaitz*). Strategies are non-interchangeable but collectively cover the operator. |
+| **NEGATION** | **Fully available** | Both analytic (*ez* + *da*, sentential) and morphological (*-gabe*, *ezin*, *-gaitz*/*-kaitz*, derivational) strategies are [CORE]. Strategies are non-interchangeable and cover distinct semantic functions. |
+| **NOMINALIZATION** | **Partially available** | Abstract property (*-tasun*), process (*-tze*), result (*-pen*), and falsehood-domain agentive (*-ti*) nominalizations are [CORE]. **Asymmetric lexical gap**: no morphological agentive nominal for the truth-telling agent; periphrastic relative clause substitutes on that side. |

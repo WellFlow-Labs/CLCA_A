@@ -1,0 +1,294 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Sanskrit (sa)
+# Transliteration standard: IAST
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step examines how Sanskrit encodes dynamic relations — becoming, causing, ceasing, remaining — involving the truth-related vocabulary documented in P1–P5. The analysis draws exclusively on forms and constructions attested in the CONTEXT. Where a dynamic expression is not attested for a given term, this is stated explicitly. Asymmetries across terms are preserved and reported.
+
+Three preliminary observations bear on the entire analysis:
+
+**1. Sanskrit does not have a single dedicated "become" verb for this domain.** The inchoative function is distributed across *bhavati* (general: comes to be, is), *jāyate* (arises, is produced), *nivartate* (ceases, is removed), and participial constructions. The choice among these is not free; it is conditioned by the specific term and the direction of the transition (arising vs. cessation).
+
+**2. Causative morphology is sparse in this domain.** The morphological causative (*-aya-* suffix) is attested only for the *satyā-* + causative-of-*āp-* pattern (*satyāpana*, *satyāpita*). For most truth-related terms, causative meaning is expressed periphrastically through compounds with *karaṇa* or through passive constructions with instrumental agents.
+
+**3. Stability is expressed primarily through the ablative deviation construction** (*ablative + na calati/pracalati*) documented in P4a §9, and through the locative + *sthita* construction (*dharme sthitaḥ*, *satye pratiṣṭhitaḥ*). These are the dominant patterns for expressing that a state is maintained rather than changed.
+
+---
+
+## Section 1: X Becomes a Truth-Related State
+
+### 1.1 Arising of valid cognition: *pramā jāyate*
+
+**Form:** प्रमा जायते
+**Transliteration:** *pramā jāyate*
+**Literal breakdown:** *pramā* (valid cognition, nominative) + *jāyate* (arises, is produced, third person singular present of root *jan-*)
+**English translation:** Valid cognition arises / true knowledge is produced.
+**Usage:** Attested in Nyāya epistemological literature to describe the production of *pramā* as the outcome of correctly employing a *pramāṇa*. The verb *jāyate* specifically marks *pramā* as the output of a process rather than a standing state. This is the only "becoming" construction for *pramā* documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+**Note on directionality:** The construction marks a transition from the absence of valid cognition to its presence. The inverse — valid cognition ceasing — is not attested with *pramā* as subject in the CONTEXT. The cessation construction (*nivartate*) is attested only with *mithyājñāna* (see §2.1 below), not with *pramā*.
+
+---
+
+### 1.2 Becoming authoritative: *pramāṇabhūta*
+
+**Form:** प्रमाणभूत
+**Transliteration:** *pramāṇabhūta*
+**Literal breakdown:** *pramāṇa* (valid means of knowledge) + *bhūta* (become, past passive participle of root *bhū-*); "having become an authority"
+**English translation:** One who has become a valid authority / authoritative.
+**Usage:** Attested in Buddhist epistemology as an epithet of the Buddha, characterizing him as one whose cognitions have become reliably valid. The participial form *bhūta* encodes a completed transition into the state of being authoritative. This is the only "become" construction for *pramāṇa* documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+**Note:** The form is a compound (treated in P2a) rather than a free syntactic construction, but it encodes the inchoative meaning through the *bhūta* participle. No parallel free syntactic construction (*pramāṇaṃ bhavati*, "becomes a valid means of knowledge") is attested in the CONTEXT for *pramāṇa* itself.
+
+---
+
+### 1.3 Becoming established in truth: *satye pratiṣṭhitaḥ*
+
+**Form:** सत्ये प्रतिष्ठितः
+**Transliteration:** *satye pratiṣṭhitaḥ*
+**Literal breakdown:** *satye* (in truth, locative of *satya*) + *pratiṣṭhitaḥ* (established, grounded, past passive participle of *prati-* + root *sthā-*)
+**English translation:** Established in truth / grounded in truth.
+**Usage:** Attested in epic and Purāṇic literature to characterize a person whose conduct and character are firmly grounded in truthfulness. The past passive participle *pratiṣṭhita* encodes a resultant state rather than an ongoing process; the construction describes the outcome of having become established rather than the process of becoming. The locative + *pratiṣṭhita* pattern is noted in P2b as productive across ethical vocabulary.
+**Epistemic status:** [CORE]
+
+**Note on the pattern:** The locative + *pratiṣṭhita* construction is attested for *satya* and for *dharma* (*dharme sthitaḥ*, see §3.2 below). It is not attested in the CONTEXT for *pramā*, *vastu*, *tattva*, or other epistemological terms. The pattern is restricted to the conduct-evaluating and speech-evaluating groups (P3 Groups 3 and 6).
+
+---
+
+### 1.4 No common "becoming" construction for several terms
+
+The following truth-related terms from P1 have **no attested "X becomes [truth-related state]" construction** in the CONTEXT:
+
+- **यथार्थ / *yathārtha***: No construction of the form "X becomes accurate" or "X comes to be as the object is" is attested. The term functions as an adjective and adverb; its dynamic use is not documented.
+- **तथ्य / *tathya***: No inchoative construction attested.
+- **वास्तव / *vāstava***: No inchoative construction attested.
+- **वस्तु / *vastu***: No inchoative construction attested. *Vastu* designates a real thing; the question of something "becoming" a *vastu* is not addressed in the attested constructions.
+- **तत्त्व / *tattva***: No inchoative construction attested.
+- **स्वरूप / *svarūpa***: No inchoative construction attested.
+- **साधु / *sādhu*** (grammatical sense): No inchoative construction attested. Whether a form "becomes" correct is not expressed through *sādhu* in the attested data.
+- **औचित्य / *aucitya***: No inchoative construction attested.
+- **निर्णय / *nirṇaya***: No inchoative construction attested.
+
+---
+
+## Section 2: X Becomes a Non-Truth / Opposed State
+
+### 2.1 Cessation of false knowledge: *mithyājñānaṃ nivartate*
+
+**Form:** मिथ्याज्ञानं निवर्तते
+**Transliteration:** *mithyājñānaṃ nivartate*
+**Literal breakdown:** *mithyājñānam* (false knowledge, nominative) + *nivartate* (ceases, is removed, third person singular present of *ni-* + root *vṛt-*)
+**English translation:** False knowledge ceases / erroneous cognition is removed.
+**Usage:** Attested in Vedāntic literature to describe the soteriological removal of *mithyājñāna* through correct knowledge. The verb *nivartate* marks cessation of a negative epistemic state. This is the only "ceasing" construction for a truth-related term documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+**Note on directionality:** This construction encodes the transition from the presence of *mithyājñāna* to its absence. It is the inverse of the *pramā jāyate* construction (§1.1): one marks the arising of valid cognition, the other the cessation of false cognition. The two constructions are not syntactically parallel — they use different verbs (*jāyate* vs. *nivartate*) and different subjects (*pramā* vs. *mithyājñāna*) — but they are semantically complementary, as noted in P5 Opposition 20.
+
+---
+
+### 2.2 Cessation of error: *bhramo nivartate*
+
+**Form:** भ्रमो निवर्तते
+**Transliteration:** *bhramo nivartate*
+**Literal breakdown:** *bhramaḥ* (error, illusion, nominative) + *nivartate* (ceases, is removed)
+**English translation:** The error ceases / the illusion is removed.
+**Usage:** Attested in epistemological and Vedāntic literature to describe the corrective resolution of erroneous cognition. The construction is parallel to *mithyājñānaṃ nivartate* and uses the same verb. It marks the transition from the presence of *bhrama* to its absence through correct perception or knowledge.
+**Epistemic status:** [CORE]
+
+**Note:** The CONTEXT documents this construction explicitly under P2b Item 17. The verb *nivartate* is the consistent marker of cessation for negative epistemic states (*bhrama*, *mithyājñāna*) in the attested data.
+
+---
+
+### 2.3 Deviation from a normative standard: ablative + *cyuta*
+
+**Form:** औचित्यात् च्युतम्
+**Transliteration:** *aucityāt cyutam*
+**Literal breakdown:** *aucityāt* (from propriety, ablative of *aucitya*) + *cyutam* (fallen, deviated, past passive participle of root *cyu-*)
+**English translation:** Fallen from propriety / deviated from what is fitting.
+**Usage:** Attested in Sanskrit aesthetic literature as the standard formula for a composition or act that has deviated from the standard of fittingness. The ablative marks the standard from which deviation has occurred; *cyuta* marks the completed transition into a state of deviation.
+**Epistemic status:** [CORE]
+
+**Note on the pattern:** The ablative + *cyuta* construction is the standard way of expressing that something has transitioned from a normatively correct state to a deviant one. It is attested for *aucitya* in the CONTEXT. The parallel construction for *satya* (*satyāt na pracalati*, "does not deviate from truth") uses the same ablative frame but negates the deviation rather than asserting it; the positive deviation form (*satyāt cyutam*, "fallen from truth") is structurally available by the same pattern but is not explicitly attested as a fixed phrase in the CONTEXT.
+
+---
+
+### 2.4 No common "becoming false/unreal" construction for several terms
+
+The following terms have **no attested "X becomes [non-truth state]" construction** in the CONTEXT:
+
+- **सत्य / *satya***: No construction of the form "X becomes untrue" or "X comes to be false" is attested. The term is used in prescriptive and characterizing contexts, not in dynamic ones describing a transition to falseness.
+- **प्रमाण / *pramāṇa***: No construction of the form "X becomes invalid" is attested. Invalidity (*aprāmāṇya*) is predicated statically, not as a transition.
+- **सत् / *sat*** and **असत् / *asat***: No construction of the form "X becomes unreal" or "X becomes real" is attested in the CONTEXT. The *sat/asat* distinction is treated as an ontological status, not as a transition. The causation debate (*satkāryavāda/asatkāryavāda*) concerns whether effects pre-exist in causes, not whether things transition between being and non-being.
+- **धर्म / *dharma***: No construction of the form "X becomes adharma" is attested. The transition to wrongdoing is expressed through *adharmo dharmaṃ bādhate* (adharma obstructs dharma) rather than through a becoming construction.
+
+---
+
+## Section 3: Y Causes X to Be a Truth-Related State
+
+### 3.1 Morphological causative: *satyāpana* / *satyāpita*
+
+**Form:** सत्यापन / सत्यापित
+**Transliteration:** *satyāpana* / *satyāpita*
+**Literal breakdown:** *satya* + *āpana* (causative action noun from root *āp-*, to reach/attain) / *satya* + *āpita* (past passive participle of causative of *āp-*)
+**English translation:** Verification, attestation (the act of causing truth to be established) / verified, attested (caused to be verified).
+**Usage:** Attested in legal and administrative Sanskrit. *Satyāpana* names the act of causing the truth of a statement to be established; *satyāpita* is the past passive participle marking the resultant state of having been verified. This is the only morphological causative construction for a truth-related term documented in the CONTEXT.
+**Epistemic status:** [CORE]
+
+**Note on restriction:** This causative pattern is restricted to the *satyā-* + causative-of-*āp-* combination and to the legal-administrative register. No parallel morphological causative is attested for *pramā*, *dharma*, *vastu*, or other truth-related terms in the CONTEXT. The P4a documentation explicitly states: "No common causative form of *satya*, *pramā*, or *dharma* as bare roots is attested in the philosophical literature."
+
+---
+
+### 3.2 Periphrastic causative: *pramāṇīkaraṇa*
+
+**Form:** प्रमाणीकरण
+**Transliteration:** *pramāṇīkaraṇa*
+**Literal breakdown:** *pramāṇa* + *-ī-* (denominative) + *karaṇa* (making, from root *kṛ-*); "making into an authority, validating"
+**English translation:** Validation, authentication, certification.
+**Usage:** Attested in modern Sanskrit-influenced administrative and legal language for the act of officially validating or authenticating a document, claim, or person. The *karaṇa* compound is the dominant periphrastic causative pattern in this domain where morphological causative is unavailable.
+**Epistemic status:** [MARGINAL]
+
+**Note:** This form is rated [MARGINAL] in P4b because it is more prominent in modern Sanskrit-influenced usage than in classical philosophical Sanskrit. No parallel *karaṇa* causative compound is attested for *satya*, *pramā*, *dharma*, or *vastu* in the classical philosophical literature documented in the CONTEXT.
+
+---
+
+### 3.3 Instrumental agent construction: *pramāṇena siddham*
+
+**Form:** प्रमाणेन सिद्धम्
+**Transliteration:** *pramāṇena siddham*
+**Literal breakdown:** *pramāṇena* (by a valid means of knowledge, instrumental of *pramāṇa*) + *siddham* (established, accomplished, past passive participle of root *sidh-*)
+**English translation:** Established by a valid means of knowledge / proven by authority.
+**Usage:** Attested across Sanskrit philosophical schools as the standard formula for asserting that a claim has been epistemically warranted. The instrumental *pramāṇena* marks the *pramāṇa* as the causal agent by which the state of being established (*siddha*) is brought about. This is the dominant construction for expressing that a valid epistemic source causes a claim to be established.
+**Epistemic status:** [CORE]
+
+**Note on the pattern:** The instrumental + *siddha* construction is the standard Sanskrit way of expressing that an epistemic source causes a conclusion to be established. It is not a morphological causative but a passive construction with an instrumental agent. The pattern is productive: *pramāṇasiddha* (established by a valid means of knowledge) is the compound form of the same construction.
+
+---
+
+### 3.4 Dharma as causal protector: *dharmo rakṣati rakṣitaḥ*
+
+**Form:** धर्मो रक्षति रक्षितः
+**Transliteration:** *dharmo rakṣati rakṣitaḥ*
+**Literal breakdown:** *dharmaḥ* (dharma, nominative) + *rakṣati* (protects, third person singular present of root *rakṣ-*) + *rakṣitaḥ* (protected, past passive participle of *rakṣ-*); "dharma protects [those who are] protected [by it]"
+**English translation:** Dharma protects those who protect it.
+**Usage:** A fixed maxim from Manusmṛti (8.15), expressing the reciprocal causal relationship between upholding dharma and being protected by it. The construction encodes a bidirectional causation: protecting dharma causes dharma to protect in return. This is the only construction in the CONTEXT that encodes a causal relationship with *dharma* as the agent of a dynamic outcome.
+**Epistemic status:** [CORE]
+
+**Note:** This construction is unique in the CONTEXT in encoding *dharma* as a causal agent rather than as an object of evaluation or a standard of conduct. The reciprocal structure (*rakṣati* / *rakṣitaḥ*) is specific to this maxim and is not a productive syntactic pattern.
+
+---
+
+### 3.5 Truth as cosmological cause: *satyena uttabhitā bhūmiḥ*
+
+**Form:** सत्येन उत्तभिता भूमिः
+**Transliteration:** *satyena uttabhitā bhūmiḥ*
+**Literal breakdown:** *satyena* (by truth, instrumental of *satya*) + *uttabhitā* (upheld, supported, past passive participle of *ud-* + root *stambh-*) + *bhūmiḥ* (the earth, nominative)
+**English translation:** The earth is upheld by truth.
+**Usage:** A fixed cosmological statement attested in Vedic and epic literature, asserting that truth is the foundational causal support of the earth and cosmos. The instrumental *satyena* marks *satya* as the causal agent by which the earth is upheld. This is the only construction in the CONTEXT that encodes *satya* as a cosmological causal force.
+**Epistemic status:** [CORE]
+
+**Note:** The construction uses the same instrumental-agent passive pattern as *pramāṇena siddham* (§3.3) but in a cosmological rather than epistemological context. The verb *uttabhita* (upheld, supported) is specific to this fixed phrase and is not a productive pattern across other truth-related terms.
+
+---
+
+### 3.6 No common causative construction for several terms
+
+The following terms have **no attested "Y causes X to be [truth-related state]" construction** in the CONTEXT:
+
+- **यथार्थ / *yathārtha***: No causative construction attested.
+- **तथ्य / *tathya***: No causative construction attested.
+- **वास्तव / *vāstava*** and **वस्तु / *vastu***: No causative construction attested. The reality of a *vastu* is not described as caused by anything in the attested data.
+- **मिथ्या / *mithyā***: No construction of the form "Y causes X to be *mithyā*" is attested. The *mithyā* status of the phenomenal world is asserted statically in Advaita Vedānta, not as the result of a causal process in the attested constructions.
+- **भ्रम / *bhrama***: The CONTEXT documents the question *bhramo kutaḥ?* ("whence the error?") as a standard interrogative formula, indicating that the causal origin of *bhrama* is a recognized topic of inquiry. However, no fixed construction of the form "Y causes *bhrama*" is attested; the question is raised but the answer is not encoded in a fixed expression.
+- **औचित्य / *aucitya***: No causative construction attested.
+- **निर्णय / *nirṇaya***: No causative construction attested.
+
+---
+
+## Section 4: Stability — Expressions of Maintained Truth-Related States
+
+### 4.1 Locative + *sthita*: standing in a normative state
+
+**Form:** धर्मे स्थितः
+**Transliteration:** *dharme sthitaḥ*
+**Literal breakdown:** *dharme* (in dharma, locative of *dharma*) + *sthitaḥ* (standing, established, past passive participle of root *sthā-*)
+**English translation:** Standing in dharma / established in right conduct.
+**Usage:** Attested in epic and Dharmaśāstra literature to characterize a person who is firmly grounded in right conduct. The locative + *sthita* construction encodes a stable resultant state rather than a process of becoming. The pattern is noted in P2b as productive across ethical vocabulary.
+**Epistemic status:** [CORE]
+
+**Parallel form:** *satye pratiṣṭhitaḥ* ("established in truth," §1.3 above) uses the same locative frame with a different participle (*pratiṣṭhita* rather than *sthita*). Both encode stability in a truth-related state.
+
+---
+
+### 4.2 Ablative + *na calati/pracalati*: negated departure
+
+**Form:** सत्यात् न प्रचलति / धर्मात् न चलति
+**Transliteration:** *satyāt na pracalati* / *dharmāt na calati*
+**Literal breakdown:** *satyāt/dharmāt* (from truth/from dharma, ablative) + *na* (not) + *pracalati/calati* (deviates, moves away from, third person singular present of *pra-* + root *cal-* / root *cal-*)
+**English translation:** Does not deviate from truth / does not deviate from dharma.
+**Usage:** Attested in epic literature for both *satya* and *dharma* as the standard formula for expressing steadfast adherence to a normative standard by negating departure from it. The ablative marks the standard; the negated verb of motion marks the absence of departure. This is the dominant construction for expressing stability in a truth-related state in the conduct-evaluating and speech-evaluating domains.
+**Epistemic status:** [CORE]
+
+**Note on restriction:** This construction is attested for *satya* and *dharma* in the CONTEXT. It is not attested for epistemological terms (*pramā*, *pramāṇa*) or ontological terms (*sat*, *vastu*). The pattern is restricted to the conduct-evaluating and speech-evaluating groups (P3 Groups 3 and 6), consistent with the observation in P4b that the ablative deviation construction "does not appear in the epistemological groups."
+
+---
+
+### 4.3 Vow constructions: *satyavrata*, *satyasaṃdha*
+
+**Form:** सत्यव्रत / सत्यसंध
+**Transliteration:** *satyavrata* / *satyasaṃdha*
+**Literal breakdown:** *satya* + *vrata* (vow, observance) / *satya* + *saṃdha* (bound, pledged, from root *dhā-* with *sam-*)
+**English translation:** One who has taken a vow of truth / one who is bound to truth, true to one's word.
+**Usage:** Attested in epic and Purāṇic literature as epithets of figures who maintain a stable commitment to truthfulness. These compound forms encode stability through the vow or binding frame: the person is constitutively committed to truth, not merely currently adhering to it. The vow construction is specific to *satya* in the CONTEXT; no parallel vow compounds are attested for *dharma*, *pramā*, or other truth-related terms.
+**Epistemic status:** [CORE]
+
+**Note:** These are compound forms (treated in P2a) rather than free syntactic constructions, but they encode a specific type of stability — commitment-based rather than state-based — that is distinct from the locative + *sthita* and ablative + *na calati* patterns.
+
+---
+
+### 4.4 Devotion constructions: *satyaniṣṭha*, *dharmaparāyaṇa*
+
+**Form:** सत्यनिष्ठ / धर्मपरायण
+**Transliteration:** *satyaniṣṭha* / *dharmaparāyaṇa*
+**Literal breakdown:** *satya* + *niṣṭha* (devoted to, grounded in, from root *sthā-*) / *dharma* + *parāyaṇa* (devoted to, having as one's highest goal, from *para-* + *ayana*)
+**English translation:** Devoted to truth, steadfast in truthfulness / devoted to dharma, one for whom dharma is the supreme aim.
+**Usage:** Attested in ethical and religious literature as characterizations of persons whose stable orientation is toward truth or dharma. These compound forms encode stability through the devotion or groundedness frame: the person's character is constitutively oriented toward the truth-related value. Both *satya* and *dharma* have attested devotion compounds in the CONTEXT.
+**Epistemic status:** [CORE]
+
+---
+
+## Section 5: Summary of Attested Dynamic Patterns
+
+The following table summarizes which truth-related terms participate in which dynamic construction types, based exclusively on the CONTEXT.
+
+| Term | Becoming (arising) | Becoming (ceasing) | Causative | Stability |
+|---|---|---|---|---|
+| **प्रमा** *pramā* | *pramā jāyate* [CORE] | not attested | not attested | not attested |
+| **प्रमाण** *pramāṇa* | *pramāṇabhūta* (compound) [CORE] | not attested | *pramāṇena siddham* (instrumental passive) [CORE]; *pramāṇīkaraṇa* (periphrastic) [MARGINAL] | not attested |
+| **सत्य** *satya* | *satye pratiṣṭhitaḥ* (resultant state) [CORE] | not attested | *satyena uttabhitā bhūmiḥ* (cosmological) [CORE]; *satyāpana/satyāpita* (morphological causative, legal) [CORE] | *satyāt na pracalati* [CORE]; *satyavrata*, *satyasaṃdha*, *satyaniṣṭha* (compounds) [CORE] |
+| **मिथ्याज्ञान** *mithyājñāna* | not attested | *mithyājñānaṃ nivartate* [CORE] | not attested | not attested |
+| **भ्रम** *bhrama* | not attested | *bhramo nivartate* [CORE] | not attested (causal question *bhramo kutaḥ?* attested but no fixed answer construction) | not attested |
+| **धर्म** *dharma* | *dharme sthitaḥ* (resultant state) [CORE] | not attested | *dharmo rakṣati rakṣitaḥ* (reciprocal causal maxim) [CORE] | *dharmāt na calati* [CORE]; *dharmaparāyaṇa* (compound) [CORE] |
+| **औचित्य** *aucitya* | not attested | *aucityāt cyutam* (deviation) [CORE] | not attested | *aucityaṃ rakṣet* (prescriptive maintenance) [CORE] |
+| **यथार्थ** *yathārtha* | not attested | not attested | not attested | not attested |
+| **तथ्य** *tathya* | not attested | not attested | not attested | not attested |
+| **वास्तव / वस्तु** *vāstava/vastu* | not attested | not attested | not attested | not attested |
+| **सत् / असत्** *sat/asat* | not attested | not attested | not attested | not attested |
+| **मिथ्या** *mithyā* | not attested | not attested | not attested | not attested |
+
+---
+
+## Section 6: Cross-Cutting Observations
+
+**6.1 Asymmetry between arising and cessation.** The arising construction (*jāyate*) is attested only for *pramā* (valid cognition). The cessation construction (*nivartate*) is attested only for negative epistemic states (*mithyājñāna*, *bhrama*). No term participates in both. This asymmetry is consistent with the soteriological framing of Vedāntic and Nyāya epistemology: valid cognition arises; false cognition ceases. The two transitions are not expressed with parallel constructions.
+
+**6.2 Causative constructions are register-restricted.** The morphological causative (*satyāpana/satyāpita*) is restricted to the legal-administrative register. The periphrastic causative (*pramāṇīkaraṇa*) is rated [MARGINAL] and is more prominent in modern usage. The dominant causative construction in classical philosophical Sanskrit is the instrumental passive (*pramāṇena siddham*), which does not use causative morphology but encodes the causal agent through the instrumental case.
+
+**6.3 Stability constructions are restricted to conduct-evaluating terms.** The ablative + *na calati* and locative + *sthita* patterns are attested for *satya* and *dharma* but not for epistemological terms (*pramā*, *pramāṇa*) or ontological terms (*sat*, *vastu*, *mithyā*). This is consistent with the P4b observation that the ablative deviation construction does not appear in the epistemological groups.
+
+**6.4 Several terms show no dynamic constructions at all.** *Yathārtha*, *tathya*, *vāstava/vastu*, *sat/asat*, and *mithyā* (as a bare term, distinct from *mithyājñāna*) have no attested becoming, causative, or stability constructions in the CONTEXT. These terms function primarily in static predication (attribution, negative attribution, adnominal modification) rather than in dynamic expressions. This is not a gap in the documentation but a feature of how these terms are used: they evaluate states rather than transitions.
+
+**6.5 The prescriptive construction (*aucityaṃ rakṣet*, "one should preserve propriety") encodes a specific type of stability obligation** — the duty to maintain a normative state — that is distinct from the descriptive stability constructions (locative + *sthita*, ablative + *na calati*). It is attested only for *aucitya* in the CONTEXT. No parallel prescriptive maintenance construction is attested for *satya* or *dharma* in the dynamic sense (though prescriptive constructions for speech acts — *satyaṃ brūyāt*, *dharmaṃ cara* — are well-attested, these prescribe actions rather than the maintenance of a state).

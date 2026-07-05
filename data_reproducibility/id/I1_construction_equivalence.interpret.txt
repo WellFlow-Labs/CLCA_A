@@ -1,0 +1,137 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Indonesian (id)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | [NP] + [TRUTH-TERM] (zero copula) | cerita itu benar "that story is true" | Direct mapping. Optional copula "adalah" in formal register. | None |
+| **ADNOM** | [TRUTH-TERM] + [NOUN] (prenominal) | berita palsu "fake news" | Direct mapping. Alternative post-nominal with relativizer "yang". | None |
+| **BECOME** | menjadi + [TRUTH-TERM] | cerita itu menjadi nyata "that story became real" | Direct mapping via inchoative verb "menjadi". | None |
+| **REVELATION** | ternyata + [CLAUSE] | ternyata dia benar "it turns out he/she was right" | Grammaticalized evidential marker from ter- + nyata. Functions as epistemic discovery marker, not change-of-state. | None (distinct from BECOME) |
+| **CAUSATION (factual)** | meN-[ROOT]-kan (causative derivation) | membenarkan laporan "confirm/verify the report"; mengesahkan undang-undang "ratify the law" | Direct mapping via productive causative morphology. Semantic range: make X true, confirm as X, declare X valid. | None |
+| **CAUSATION (character)** | meN-[ROOT]-kan (same morphology) | **NO EXAMPLES ATTESTED** for positive character causation (e.g., *make someone honest*) | **MISSING (structural gap)** - Causative morphology exists but not applied to character terms in attested data. Negative forms exist (e.g., membohongi "deceive/lie to"). | Asymmetric gap: negative forms only |
+| **VERIFICATION** | meN-[ROOT]-kan (same as factual causation) | membenarkan "confirm/verify"; mengesahkan "validate/ratify" | **SUBSTITUTED BY CAUSATION** - No distinct verification construction. Verification expressed through causative morphology with context-dependent interpretation. | Functional substitution |
+| **DISCONFIRMATION** | **NO DEDICATED CONSTRUCTION** | **NO EXAMPLES ATTESTED** | **NO COMMON EXPRESSION - circumlocution required** - Would require negation + causative or other periphrastic means (e.g., "membuktikan bahwa X tidak benar" = prove that X is not true). | Structural gap |
+| **NEGATION** | tidak + [TRUTH-TERM] (analytic) | tidak akurat "not accurate"; tidak jujur "not honest" | Direct mapping. Analytic negation with preverbal particle "tidak". Alternative: "kurang" for hedged/mitigated negation. | None |
+| **NOMINALIZATION** | ke-[ROOT]-an (abstract quality) | kebenaran "truth/honesty"; keaslian "authenticity" | Direct mapping. Highly productive circumfix for abstract quality nouns. | None |
+| **NOMINALIZATION (agentive)** | peN-[ROOT] | pembohong "liar"; pemalsu "forger" | Productive for negative/deceptive agents. Positive agents use different strategies (e.g., "orang jujur" not *penjujur). | Asymmetric gap: positive agentive forms missing |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### VERIFICATION → CAUSATION Substitution
+Indonesian does not maintain a distinct VERIFICATION construction. The causative morphology (meN-...-kan) serves both factual causation and verification functions. Examples:
+- **membenarkan** can mean both "make true" and "confirm/verify"
+- **mengesahkan** means both "make valid" and "validate/ratify"
+
+Context and argument structure determine interpretation. When the patient is a proposition or document (laporan "report", dokumen "document"), the reading tends toward verification. This represents functional substitution rather than structural gap.
+
+### REVELATION vs. BECOME: Distinct Operators
+Indonesian maintains clear distinction:
+- **BECOME**: menjadi + [TRUTH-TERM] = change of state in the world
+  - *dokumen menjadi sah* "the document became valid"
+- **REVELATION**: ternyata + [CLAUSE] = epistemic discovery by speaker
+  - *ternyata dia benar* "it turns out he/she was right"
+
+"Ternyata" has grammaticalized from ter- (accidental/resultative prefix) + nyata (real/evident) into a pure evidential marker. It does not describe change in the world but rather change in speaker's knowledge state.
+
+### Asymmetry: Negative vs. Positive Forms
+
+**Agentive Nominalization Asymmetry:**
+- Negative agents: pembohong "liar", pemalsu "forger", pendusta "deceiver" (productive)
+- Positive agents: *penjujur, *penbenar (unattested/blocked)
+- Alternative for positive: descriptive phrases (orang jujur "honest person")
+
+This asymmetry reflects cultural/pragmatic focus on marking deviant agents rather than virtuous ones.
+
+**Character Causation Asymmetry:**
+- Negative character causation: membohongi "deceive/lie to" (attested)
+- Positive character causation: *make someone honest* (no attested construction)
+
+The causative morphology applies readily to deception but not to positive character transformation in the attested data.
+
+### Hedging as Negation Alternative
+"Kurang" + [TRUTH-TERM] functions as mitigated negation:
+- Direct: tidak tepat "not correct"
+- Hedged: kurang tepat "not quite correct"
+
+This represents a pragmatic rather than semantic distinction, used for politeness and face-saving.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+
+1. **DISCONFIRMATION**: No dedicated construction for "prove false" or "show to be untrue". Requires circumlocution with negation + verification/causation (e.g., *membuktikan bahwa X tidak benar* "prove that X is not true").
+
+2. **CAUSATION (character) - positive forms**: While causative morphology exists and applies to factual truth-domain terms, no attested examples of positive character causation (e.g., *make someone honest*). The morphological pattern exists but is not applied to this semantic domain.
+
+### Lexical Gaps
+None identified. All core truth-domain concepts have lexical expressions.
+
+### Conceptual Gaps
+None identified. All truth-domain concepts can be expressed, though some require circumlocution.
+
+### Asymmetric Gaps
+
+1. **Agentive Nominalization**: 
+   - Present: pembohong "liar", pemalsu "forger" (negative agents)
+   - Absent: *penjujur, *penbenar (positive agents)
+   - Substitution: descriptive phrases (orang jujur "honest person")
+
+2. **Character Causation**:
+   - Present: membohongi "deceive" (negative)
+   - Absent: *make honest* (positive)
+   - Substitution: circumlocution required
+
+3. **Evidential/Discovery (ter- prefix)**:
+   - Fully grammaticalized: ternyata "it turns out"
+   - Marginal: tersalah "mistakenly wrong"
+   - Limited productivity beyond these forms
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: [NP] + [TRUTH-TERM] (zero copula, core construction)
+- **ADNOM**: [TRUTH-TERM] + [NOUN] (prenominal modification)
+- **BECOME**: menjadi + [TRUTH-TERM] (inchoative)
+- **REVELATION**: ternyata + [CLAUSE] (grammaticalized evidential)
+- **CAUSATION (factual)**: meN-[ROOT]-kan (productive causative)
+- **NEGATION**: tidak + [TRUTH-TERM] (analytic negation)
+- **NOMINALIZATION (abstract)**: ke-[ROOT]-an (highly productive)
+
+### Available with Substitution
+- **VERIFICATION**: Expressed through CAUSATION morphology (meN-...-kan) with context-dependent interpretation. No distinct construction.
+
+### Partially Available
+- **NOMINALIZATION (agentive)**: Productive for negative agents (pembohong, pemalsu) but blocked for positive agents. Positive forms require descriptive alternatives.
+- **CAUSATION (character)**: Attested for negative character (membohongi "deceive") but no positive forms attested. Morphological pattern exists but application is asymmetric.
+
+### Missing Entirely
+- **DISCONFIRMATION**: No dedicated construction. Requires circumlocution (negation + verification/proof constructions).
+
+---
+
+## Summary Statement
+
+Indonesian provides robust morphosyntactic support for most CLCA operators through:
+1. Zero-copula attribution (ATTR)
+2. Prenominal modification (ADNOM)
+3. Inchoative verb "menjadi" (BECOME)
+4. Grammaticalized evidential "ternyata" (REVELATION)
+5. Productive causative morphology meN-...-kan (CAUSATION/VERIFICATION)
+6. Analytic negation with "tidak" (NEGATION)
+7. Productive abstract nominalization ke-...-an (NOMINALIZATION)
+
+The language shows two notable patterns:
+1. **Functional substitution**: VERIFICATION is expressed through CAUSATION morphology rather than a distinct construction
+2. **Asymmetric gaps**: Agentive nominalization and character causation are productive for negative/deceptive terms but blocked or unattested for positive terms
+
+The only complete structural gap is DISCONFIRMATION, which requires periphrastic expression. All other truth-domain operations are either directly available or accessible through systematic substitution patterns.

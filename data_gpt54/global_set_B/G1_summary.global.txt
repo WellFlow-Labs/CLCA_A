@@ -1,0 +1,157 @@
+## 1. Language Inventory
+
+- **zh — Chinese**
+  Broad inventory covering everyday true/false, formal verification, correctness, accuracy, credibility, authenticity, realism, essence/substance, and legitimacy.
+
+- **he — Hebrew**
+  Rich split between truth, correctness, precision, credibility, authenticity, correspondence, justice/rightness, propriety, and essence.
+
+- **sa — Sanskrit**
+  Strongly differentiated lexicon for truth, falsehood, correct cognition, proof/validity, propriety, essence, and resemblance, with many scholastic and philosophical forms.
+
+- **el — Greek**
+  Broad system distinguishing truth, correctness, precision, validity, authenticity, reality, substance, fidelity, falsification, sincerity, and plausibility.
+
+- **en — English**
+  Large and differentiated inventory separating truth, correctness, precision, validity, reliability, authenticity, lawfulness, legitimacy, fairness, and fidelity.
+
+- **tl — Tagalog**
+  Core contrasts among truth, correctness, precision, certainty, trustworthiness, honesty, genuineness, fakery, support/basis, and verification.
+
+- **sw — Swahili**
+  Core contrasts among truth, falsehood, correctness, authenticity, fakery, trustworthiness, belief, justice, validity/lawfulness, and evidentness.
+
+- **qu — Quechua**
+  Smaller but clearly structured system distinguishing truth/reality, falsehood/lying, mistake/error, rightness/propriety, identity/difference, belief/trust, guilt, and worth.
+
+---
+
+## 2. Per-Language Semantic Sketch
+
+### zh — Chinese
+Main distinctions are especially fine-grained. The data separates everyday **真 / 假**, formal factual verification (**属实, 不实, 失实, 如实**), deception/fabrication (**虚假, 伪造**), correctness (**正确 / 错误**), precision (**准确, 失真**), credibility (**可信, 可靠**), commercial authenticity (**真品, 假货, 冒牌**), title/reputation matching reality (**名副其实**), lifelike resemblance (**仿真, 逼真**), original-style authenticity (**原汁原味, 道地**), and essence/substance (**本质, 实质**) plus legitimacy (**正当**). Several items overlap across these zones, especially **真实**, **真**, **真正**, **货真价实**, **正宗**, and **失真**.
+
+Derivationally, Chinese shows many productive abstract nouns with **-性** and **-度**, many adverbial **-地** forms, and many lexical compounds. There is asymmetry in that some domains are highly productive (**准确性, 可靠性, 可信度**) while idiomatic items like **名副其实** and **货真价实** lack common derivations.
+
+Constructionally, Chinese strongly prefers ordinary attribution and negation, but also has specialized official verification formulas with **属实 / 经查属实 / 查证属实 / 是否属实**. Dynamic patterns are common with **变得**, **越来越**, **使/让**, but not for all items: **属实** notably resists ordinary “become” patterns and instead uses verification constructions. Caused falsity is often expressed lexically by verbs like **伪造** or phrases like **发布虚假信息**, rather than by general adjectival causatives.
+
+Oppositionally, Chinese has many clear lexical pairs: **真/假**, **真实/虚假**, **正确/错误**, **属实/失实**, **属实/不实**. It also has productive negation oppositions (**可信/不可信**, **可靠/不可靠**, **准确/不准确**) and contrasts between actual reality and resemblance (**仿真/逼真** vs **真/真实**).
+
+### he — Hebrew
+Hebrew distinguishes everyday truth/falsity (**אמת, נכון, לא נכון, שקר**), softer precision-based correction (**מדויק, לא מדויק, דיוק**), credibility/reliability (**מהימן, אמין, מהימנות, אמינות**), genuineness/authenticity (**אמיתי, אותנטי, מקורי**), forgery/counterfeit (**זיוף, מזויף**), correspondence and sameness (**דומה ל־, זהה, תואם, תואם למציאות**), formal falsehood labels (**כוזב, שקרי**), being right/justified (**צודק, צדק, מוצדק**), justice/fairness (**צדק** cluster), propriety (**ראוי**), and essence (**מהות**).
+
+Derivationally, Hebrew shows many abstract nouns and negative forms, but not all bases are equally productive. There are strong families around **אמת**, **דיוק**, **אמין/אמינות**, **מהימן/מהימנות**, and **צדק**. A notable asymmetry is that the data explicitly reports no common inchoative construction across the truth domain. Another is that **נכונות** is semantically split, often meaning readiness/willingness rather than correctness.
+
+Constructionally, Hebrew relies heavily on simple attribution and negation, support-verb constructions (**לומר את האמת, לעשות צדק**), discourse markers (**למען האמת, ליתר דיוק**), and comparison/correspondence constructions (**זהה ל־, תואם ל־**). Dynamic meaning is often expressed not as “become true” but through revelation (**לגלות את האמת, להוציא את האמת לאור**), vindication (**יצא צודק**), justification (**להצדיק**), testing (**בדיקת אמינות, מבחן האמת**), or precision-improvement (**לדייק**). The tables explicitly note absence of a common general inchoative pattern.
+
+Oppositionally, Hebrew has strong pairs such as **אמת/שקר**, **נכון/לא נכון**, **מדויק/לא מדויק**, **אמין/לא אמין**, **מהימן/לא מהימן**, **אותנטי/לא אותנטי**, **מקורי/מזויף**, **תואם למציאות/אינו תואם למציאות**. It also shows repeated usage contrasts rather than strict antonymy, such as **צודק** vs **נכון**, and **אמין** vs **מהימן**.
+
+### sa — Sanskrit
+Sanskrit shows a broad lexical split among basic truth/falsehood (**सत्य, सत्यम्, असत्य, मिथ्या, मृषा, अनृत**), factual correspondence (**तथ्य, यथार्थ, भूतार्थ**), correct cognition (**प्रमा, यथार्थज्ञान, मिथ्या ज्ञानम्**), proof/validity/authority (**प्रमाण, प्रामाण्य, प्रमाणिक**), general correctness/propriety (**सम्यक्, युक्त, उचित, न्याय्य, धर्म्य**), essence/reality (**स्वरूप, तत्त्व**), resemblance (**सदृश, तादृश**), and older Vedic truth/order (**ऋत / अनृत**). Overlap is especially visible around **सत्य**, **यथार्थ**, and the **प्रमा/प्रमाण** family.
+
+Derivationally, Sanskrit is highly elaborated. It has many abstract nouns (**-ता, -त्व**), agentive forms (**सत्यवादिन्, असत्यवादिन्**), privative opposites (**असत्य, अयथार्थ, अप्रामाण्य, अप्रमाणिक**), and large scholastic families around **यथार्थ** and **प्रमाण**. A notable asymmetry is that some domains are richly derivational (**प्रमाण** family especially), while others have no common further derivation in the dataset.
+
+Constructionally, Sanskrit strongly uses speech-verb constructions (**सत्यं वद, मिथ्या वदति, असत्यं वदति, अनृतं वदति**), genitive evaluation constructions (**वाक्यस्य सत्यता, ज्ञानस्य प्रामाण्यम्**), instrumental grounds (**प्रमाणेन सिद्धम्**), and adverbial standpoint markers (**यथार्थतः, तत्त्वतः, स्वरूपतः**). Dynamic patterns are limited and domain-specific: **सत्यतां गच्छति** is only marginal, while dynamicity is clearer in cognition (**प्रमा जायते**) and proof/establishment (**प्रमाणेन सिद्धम्**). The tables explicitly note no single general causative “make true/make valid.”
+
+Oppositionally, Sanskrit has many clear morphological pairs: **सत्य/असत्य**, **ऋत/अनृत**, **यथार्थ/अयथार्थ**, **यथार्थज्ञान/अयथार्थज्ञान**, **प्रामाण्य/अप्रामाण्य**, **प्रमाणिक/अप्रमाणिक**, **सत्यवचन/असत्यवचन**, **सत्यवादिन्/असत्यवादिन्**. It also contrasts truthful speech with false speech through parallel constructions.
+
+### el — Greek
+Greek distinguishes statement truth (**αλήθεια, αληθής, ψευδής, ψέμα**), everyday correctness (**σωστός**), formal correctness (**ορθός, ορθότητα**), precision (**ακρίβεια, ακριβής**), validity/reliability/authority (**έγκυρος, εγκυρότητα, έγκριτος**), authenticity/genuineness (**αυθεντικός, γνήσιος**), reality (**πραγματικός, πραγματικότητα**), substance/essence (**ουσία, ουσιώδης, ουσιαστικός, κατ’ ουσίαν**), fidelity to an original (**πιστός, πιστότητα, απαράλλακτος, κατά γράμμα**), falsification/forgery (**παραποιημένος, πλαστός**), sincerity (**ειλικρινής**), and appearance-of-truth (**αληθοφανής, αληθοφάνεια**).
+
+Derivationally, Greek has many regular abstract nouns and adverbs, and many negative forms. Some families are especially rich (**αλήθεια**, **ορθός**, **ουσία**). A notable asymmetry is that some specialized **ορθο-** derivatives are morphologically related but semantically peripheral to truth/correctness. Another is that there is no common dedicated causative for “make valid/authentic/genuine.”
+
+Constructionally, Greek uses ordinary attribution and negation, but also result/discovery constructions such as **αποδεικνύεται ψευδής** and **αποδείχθηκε πλαστή**. Dynamic truth is expressed more naturally through **αληθεύει** or evidential/resultative patterns than through a single general “become true” verb. Falsification is expressed with lexical verbs (**παραποιώ, πλαστογραφώ**). Discourse-level shifts are important with **στην πραγματικότητα**, **στην ουσία**, **κατ’ ουσίαν**, **επί της ουσίας**.
+
+Oppositionally, Greek has strong pairs such as **αλήθεια/ψέμα**, **αληθές/ψευδές**, **αληθής/ψευδής**, **αυθεντικός/γνήσιος** vs **πλαστός**, **γνήσια υπογραφή/πλαστή υπογραφή**, **ουσία/τύπος**, **κατ’ ουσίαν/κατά γράμμα**, **halisi-like reality** vs appearance-side notions. It also has repeated usage contrasts like **σωστός** vs **ορθός**, and **αληθινός** vs **αληθής**.
+
+### en — English
+English distinguishes basic truth/falsity (**truth, true, untrue, false**), answer/procedure correctness (**correct, right**), precision (**accurate, exact, precise**), genuineness/authenticity/reality (**genuine, authentic, real**), validity/soundness (**valid, sound**), reliability/trustworthiness/credibility (**reliable, trustworthy, credible**), fidelity to an original (**faithful, true to life**), fake/counterfeit/forgery (**fake, counterfeit, forgery**), appearance-of-truth (**semblance, verisimilitude, ring true**), propriety (**proper**), legitimacy/lawfulness (**legitimate, lawful**), and fairness/justice (**just, fair**).
+
+Derivationally, English shows extensive negative morphology (**untrue, incorrect, inaccurate, invalid, unreliable, untrustworthy, inauthentic, illegitimate, unlawful, unjust, unfair**) and many abstract nouns (**truthfulness, accuracy, authenticity, validity, reliability, credibility, precision, legitimacy, justice, fairness**). A notable asymmetry is that negative agentive or negative lexical items are often more entrenched than positive counterparts, e.g. **liar** is much more ordinary than **truth-teller**.
+
+Constructionally, English has many domain-specific dynamic patterns rather than one unified system: **prove true, turn out true, come true** for truth-confirmation; **get it right, set right, put right, correct** for correction; **authenticate** for authenticity; **validate/invalidate** for validity; **hold true, remain valid, remain faithful** for stability. The tables explicitly note that English does not use one single dynamic verb across the whole domain.
+
+Oppositionally, English has many clear morphological pairs and also several constructional contrasts: positive vs negative attribution, **tell the truth** vs lying expressions, **seem credible / ring true** vs **be true**, **faithful to** vs simple propositional truth, and **lawful** vs broader **right/proper**. It also clearly separates precision terms from broader truth/correctness terms.
+
+### tl — Tagalog
+Tagalog distinguishes truth/reality (**totoo, katotohanan**), correctness (**tama, wasto**), precision (**tumpak, eksakto**), certainty (**tiyak, sigurado**), trustworthiness/reliability (**mapagkakatiwalaan, maaasahan**), honesty/sincerity (**tapat, matapat**), genuineness/authenticity (**tunay, totoong**), fake/counterfeit (**peke, pekeng, huwad**), suitability (**akma, angkop**), support/basis (**salig, saligan, walang saligan**), and checked/verified status (**beripikado, beripikahin**). Some forms overlap strongly, especially **totoo / tunay / totoong**, **tama / wasto**, and **tapat / matapat**.
+
+Derivationally, Tagalog shows productive ligatured attributive forms (**totoong, wastong, pekeng**), abstract nominalization (**katotohanan, saligan**), and a notable dynamic family around **totoo**: **magkatotoo, nagkatotoo, totohanin**. A strong asymmetry is that many other bases do not show similarly supported derivational families in the dataset.
+
+Constructionally, Tagalog relies heavily on predicate-initial attribution without a copula, interrogative **ba** patterns, discourse frames (**sa totoo lang, sa katotohanan**), basis constructions (**salig sa, may saligan, walang saligan**), and verification constructions (**beripikahin, beripikadong**). Dynamicity is concentrated in a few areas: **magkatotoo / nagkatotoo** for “come true/turn out true,” **wastuhin** as a limited corrective verb, and **beripikahin** for procedural checking. The tables explicitly note absence of a common general causative “make true.”
+
+Oppositionally, Tagalog has clear contrasts such as **totoo/peke**, **tunay/peke**, **tunay/huwad**, **may saligan/walang saligan**, positive vs negative **tama** and **tiyak** constructions, and colloquial seriousness contrasts within the **totoo** family (**Huwag mong totohanin... / Totohanin mo...**).
+
+### sw — Swahili
+Swahili distinguishes truth/falsity (**kweli, ukweli, uongo, -kweli, -ongo**), correctness/accuracy (**sahihi, usahihi**), genuineness/reality (**halisi, uhalisia, asili, ya asili**), fake/counterfeit (**bandia, feki**), trustworthiness/credibility (**aminifu, uaminifu, kuaminika, aminika**), belief/trust (**kuamini, imani** family), justice/rights (**haki, -enye haki**), validity/lawfulness/prohibition (**batili, halali, haramu**), evidentness (**dhahiri**), and resemblance/example (**-fanana, mfano**). Overlap is visible especially between truth and genuineness, and between trustworthiness and belief.
+
+Derivationally, Swahili shows strong noun-class and abstract-noun morphology: **ukweli, usahihi, uhalisia, uaminifu**, person nouns like **mkweli, mwongo, mwaminifu**, and negative credibility forms like **asiyeaminika, kutoaminika**. A notable asymmetry is that some domains are richly derivational (**kweli/uongo**, **amini** family), while others remain mostly lexical.
+
+Constructionally, Swahili strongly uses simple predication with **ni / si**, light-verb constructions (**sema ukweli, kusema uongo**), genitive quality constructions (**habari za uongo, bidhaa ya asili**), and relative-clause credibility constructions (**chanzo kinachoaminika**). Dynamic patterns are limited: **kuaminika** is the clearest state-change-compatible form, and **kutia imani** is the nearest causative-like pattern, but the tables explicitly note no common general dynamic verb for “become true/correct/authentic.”
+
+Oppositionally, Swahili has strong pairs such as **kweli/uongo**, **-kweli/-ongo**, **ni kweli/si kweli**, **ni kweli/ni uongo**, **halali/haramu**, **sahihi/si sahihi**, and authenticity contrasts like **halisi/bandia** and **ya asili/bandia**. It also contrasts accurate information with false information and credible sources with non-credible ones.
+
+### qu — Quechua
+Quechua distinguishes truth/reality (**chiqaq, chiqap, chiqaq kay**), falsehood/lying (**llulla, llullakuy, llullasqa**), mistake/error (**pantay, pantasqa, pantachiy**), rightness/propriety (**allin, allinmi, mana allin**), identity/difference/resemblance (**chiqan, kikin, kuska, rikch’akuy, riqsiy**), belief/trust (**iñiy, iñisqa**), guilt/fault (**hucha, huchayuq**), and worth/esteem (**chanin, chaninnaq, yupaychay, sumaq**). The system is smaller than in several other languages but still clearly differentiated.
+
+Derivationally, Quechua shows participial and agentive formations (**pantasqa, llullasqa, llullaq, iñisqa, huchayuq**), causatives (**pantachiy**), and some fixed combinations (**chiqaq kay, llulla runa, llulla simi**). A notable asymmetry is that the data gives no common inchoative expressions for “become true/false/wrong”; dynamic morphology is clearer for causing error than for entering truth states.
+
+Constructionally, the data highlights simple predicative evaluation (**allinmi, pantasqa, mana allin**), adverbial truth assertion (**chiqap**), speech-specific noun phrases (**chiqaq simi, llulla simi**), and causatives of error (**pantachiy, pantayman churay**). The F6 table repeatedly notes absence of common expressions for “become true,” “become false,” or similar transitions.
+
+Oppositionally, Quechua has clear contrasts such as **chiqaq/llulla**, **chiqaq simi/llulla simi**, **allin/mana allin**, **chiqan/kikin**, and mistake vs deception (**pantay/pantasqa** vs **llulla/llullasqa**). It also contrasts reality with mere seeming through **chiqaq kay** vs **rikch’akuy**.
+
+---
+
+## 3. Cross-Language Summary
+
+### Recurring convergences
+- Many languages clearly separate at least three areas:  
+  **(a)** truth/falsity of statements,  
+  **(b)** correctness/right answer/proper procedure, and  
+  **(c)** genuineness/authenticity vs fake/counterfeit.  
+  This is especially clear in **zh, he, el, en, tl, sw**, and also visible in **sa** and **qu**.
+
+- Many languages also distinguish **precision/accuracy** from broader truth or correctness. This is strongly visible in **zh, he, el, en, tl, sw**, and in more specialized form in **sa**.
+
+- Several languages distinguish **credibility/reliability/trustworthiness** from direct truth. This is especially strong in **zh, he, el, en, tl, sw**, and present in **sa** and **qu** through belief/trust or validity-related forms.
+
+- Many languages have a separate area for **moral or normative rightness** rather than factual truth: **zh 正当**, **he צדק / ראוי**, **sa न्याय्य / धर्म्य / उचित**, **el δικαιοσύνη-related and propriety-related forms**, **en just / fair / lawful / legitimate**, **sw haki / halali / haramu**, **qu hucha / huchayuq / allin**.
+
+- Across many languages, **truth-telling and lying are often expressed by speech constructions**, not only by adjectives:  
+  **zh 如实回答 / 真话 / 假话**, **he לומר את האמת / לספר שקר**, **sa सत्यं वद / मिथ्या वदति**, **el λέω την αλήθεια / λέω ψέματα**, **en tell the truth**, **sw sema ukweli / kusema uongo**, **qu llullakuy / speech-specific phrases**.
+
+- Many languages show **specialized expressions for authenticity of objects/documents/identity** rather than using the same words as statement-truth: **zh 真品/假货/冒牌/伪造**, **he מקורי/אותנטי/מזויף/זיוף**, **el αυθεντικός/γνήσιος/πλαστός/παραποιημένος**, **en authentic/genuine/fake/counterfeit/forgery**, **tl tunay/peke/huwad/beripikado**, **sw halisi/bandia/feki/ya asili**.
+
+- Many languages use **discourse markers meaning roughly “to tell the truth / actually / in fact”**: **zh 说真的 / 如实**, **he למען האמת / האמת היא ש־ / לאמיתו של דבר**, **el η αλήθεια είναι ότι / στην πραγματικότητα / στην ουσία**, **en truth be told / in truth**, **tl sa totoo lang / sa katotohanan**, **sw kwa kweli / kweli ni kwamba**.
+
+### Major divergences
+- **Chinese** has an unusually fine-grained split between everyday truth, official verification, deception/fraud, precision, credibility, realism, original-style authenticity, essence/substance, and legitimacy.
+
+- **Sanskrit** stands out for its large technical-philosophical system around **correct cognition** and **proof/validity** (**प्रमा, प्रमाण, प्रामाण्य**), much more elaborated than in most other languages.
+
+- **Hebrew** stands out for the explicit absence of a common general inchoative pattern in the truth domain; dynamic meaning is instead routed through revelation, vindication, testing, and precision-improvement.
+
+- **Greek** shows a particularly strong split among **truth**, **correctness**, **precision**, **validity**, **authenticity**, **reality**, **substance**, and **fidelity to an original**, with many discourse-level “substance vs wording” expressions.
+
+- **Tagalog** stands out for concentrating dynamic truth-change in the **totoo** family (**magkatotoo, nagkatotoo**) while many other nearby domains remain mainly stative.
+
+- **Swahili** stands out for the central role of **noun-class and relative-clause constructions** in this domain, especially for credibility (**chanzo kinachoaminika**) and quality/genitive expressions (**habari za uongo, bidhaa ya asili**).
+
+- **Quechua** differs in having a smaller system with strong contrasts between **truth**, **lying**, **mistake**, and **rightness**, but with repeated absence of common “become true/false” expressions in the supplied material.
+
+### Asymmetries, gaps, or irregularities
+- In several languages, **negative or falsehood terms are more lexicalized than positive person terms**. This is especially clear in **en** (*liar* vs less common *truth-teller*), and also visible in other languages where “truthful person” is more descriptive or morally marked.
+
+- Many languages show **no single general dynamic verb covering the whole truth domain**. This is explicitly noted for **he, sa, en, tl, sw, qu**, and partly for **el**. Instead, different subdomains use different verbs or constructions.
+
+- Several languages have **specialized verification or evidential-result constructions** rather than ordinary “become true” patterns:  
+  **zh 属实 / 经查属实**, **he להוציא את האמת לאור / מבחן האמת / בדיקת אמינות**, **el αποδεικνύεται ψευδής / αποδείχθηκε πλαστή**, **en prove true / authenticate / validate**, **tl beripikahin / beripikado**.
+
+- Some languages show **broad items that cut across multiple areas and resist neat grouping**:  
+  **zh 真, 真实, 真正**, **he אמת, נכון, אמיתי, צדק**, **sa सत्य, यथार्थ**, **el αληθινός, πραγματικός, ουσιαστικός**, **tl totoo, wasto, tapat**, **sw kweli, -kweli**, **qu allin**.
+
+- Some languages have **specialized “appearance of truth” or resemblance zones**, but not all do. This is especially clear in **zh 仿真/逼真**, **he דומה / זהה / תואם**, **el αληθοφανής / αληθοφάνεια**, **en ring true / verisimilitude / semblance**, and more weakly in **sw -fanana** and **qu rikch’akuy**.
+
+- Some languages have **distinct “substance/essence vs form/appearance” vocabularies**, while others do not show this strongly in the supplied material. This is especially strong in **zh 本质/实质**, **he מהות**, **sa स्वरूप/तत्त्व**, **el ουσία / κατ’ ουσίαν**, and **en** only more diffusely through lexical items like *real*, *essence*, *proper*, *valid* in the provided set.
+
+- A few languages show **specialized colloquial shifts away from truth into seriousness or stance**: especially **tl totohanin / totohanan**, and to a lesser extent discourse uses like **zh 说真的**, **he באמת**, **el πραγματικά**, **en really**, **sw kwa kweli**.

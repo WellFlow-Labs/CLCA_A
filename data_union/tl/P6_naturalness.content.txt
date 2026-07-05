@@ -1,0 +1,427 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Tagalog (tl)
+
+---
+
+**Note on scope:** This step documents how Tagalog encodes dynamic processes involving truth-related vocabulary from the P1–P5 data: becoming a truth-related state, ceasing to be one, and causing something to enter or exit such a state, as well as stability expressions. All vocabulary is drawn from the CONTEXT. Aspect markers, function words, and auxiliary verbs are added as needed. Where no common expression exists for a given combination, this is stated explicitly. Items are treated separately where their behavior differs.
+
+The primary morphological and constructional resources relevant here are:
+
+- The particle ***na*** (change of state / current relevance), documented in P4a as the inchoative construction
+- The ***i-*** causative prefix, documented in P4a as productive for correctness adjectives
+- The ***pa-…-an*** causative pattern, documented in P4a as the verification/proof causative
+- The ***maging*** ("to become/be") periphrastic construction, documented in P2a for *tapat*
+- The ***nagka-*** prefix marking unintended or spontaneous change of state, documented for *totoo* and *mali*
+- Aspect morphology on verbal stems (*nagkamali*, *napatunayan*, *pinatunayan*), documented in P2a and P1b
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### Pattern
+**Maging** + [truth-domain adjective/nominal] — inchoative construction documented in P4a (Construction 4); **na** particle with stative predicates; **nagka-** prefix for spontaneous/unintended change of state
+
+---
+
+**1.1 Becoming true / becoming real — *totoo***
+
+**Form:** maging totoo / naging totoo
+**Example:** *Naging totoo ang kanyang pangarap.*
+**Transliteration:** Naging totoo ang kanyang pangarap.
+**English translation:** His/her dream became real. / His/her dream came true.
+**Notes:** *Naging* is the completive form of *maging* (to become). This is the standard construction for the transition of something from a hypothetical, planned, or doubted state into confirmed reality. Documented in P4a Section 4 and P4b Section 4. Most natural in contexts of wishes, predictions, or feared outcomes being realized.
+**Epistemic status:** [CORE]
+
+**Example:** *Naging totoo ang lahat ng sinabi niya.*
+**Transliteration:** Naging totoo ang lahat ng sinabi niya.
+**English translation:** Everything he/she said became true / turned out to be true.
+**Notes:** Extension of the same construction to a set of claims; natural in narrative and evaluative discourse.
+**Epistemic status:** [CORE]
+
+**Additional form:** totoo na
+**Example:** *Totoo na.*
+**Transliteration:** Totoo na.
+**English translation:** It's become real. / It's actually happening now.
+**Notes:** The particle *na* attached after *totoo* signals change of state, as documented in P4a (Construction 4) and P2b (Construction 2). The inchoative reading arises from *na* with a stative predicate. This is the more colloquial and more frequently attested form for this meaning in spoken Tagalog.
+**Epistemic status:** [CORE]
+
+**Additional form:** totoo na pala
+**Example:** *Totoo na pala.*
+**Transliteration:** Totoo na pala.
+**English translation:** So it's actually true now. / It turns out it's real.
+**Notes:** The particle *pala* (realization/discovery) combines with *totoo na* to mark that the speaker has just discovered the truth of something. Attested pattern from *na* + *pala* combination; *pala* is a function word.
+**Epistemic status:** [CORE]
+
+**Additional form:** nagkatotoo
+**Example:** *Nagkatotoo ang kanyang pangarap.*
+**Transliteration:** Nagkatotoo ang kanyang pangarap.
+**English translation:** His/her dream came true.
+**Notes:** Documented in P2a D-U-01 and P4a Section 4 as an alternate inchoative specific to the realization of predictions or wishes. The *nagka-* prefix marks an unintended or spontaneous coming-about of a state. Assigned [MARGINAL] status in P2a; less broadly distributed than *naging totoo*.
+**Epistemic status:** [MARGINAL]
+
+**Example:** *Nagkatotoo ang kanyang takot.*
+**Transliteration:** Nagkatotoo ang kanyang takot.
+**English translation:** His/her fear came true / was realized.
+**Notes:** Same construction applied to a feared outcome; the spontaneous/unintended nuance of *nagka-* is consistent with this reading.
+**Epistemic status:** [MARGINAL]
+
+**Asymmetry note:** The *nagka-* construction is specific to *totoo* among the truth-domain items; no parallel *nagka-* + *tunay* or *nagka-* + *tapat* construction is documented in the CONTEXT data. No dedicated inchoative verb from the root *totoo* other than these constructions is attested. P4a explicitly states: "No dedicated inchoative prefix for this semantic field is attested."
+
+---
+
+**1.2 Becoming genuine / becoming authentic — *tunay***
+
+**Form:** maging tunay
+**Example:** *Naging tunay ang kanilang pagmamahal sa paglipas ng panahon.*
+**Transliteration:** Naging tunay ang kanilang pagmamahal sa paglipas ng panahon.
+**English translation:** Their love became genuine over time.
+**Notes:** *Maging tunay* is attested in contexts where a relationship, feeling, or commitment that was initially superficial or uncertain develops into something authentic. The construction is most natural with nouns denoting relationships, emotions, and character (*pagmamahal*, *kaibigan*, *pagkatao*). It is less natural with physical objects, where *tunay* evaluates an intrinsic property rather than a developed state.
+**Epistemic status:** [CORE]
+
+**Gap note:** The CONTEXT data does not attest a conventionalized *naging tunay* construction for the authenticity sense of *tunay* as a broadly distributed inchoative. The *maging* + *tunay* frame is grammatically possible but is not documented as a conventionalized expression across P1 through P5 in the same way as *naging totoo*. The authenticity domain of *tunay* is evaluated as a static property (something either is or is not genuine) rather than as a change of state in much of the documented data. The closest attested expression for establishing genuineness is *napatunayan* (has been proven/verified) — documented in P1b B-06 and P2a D-B-05 — which describes the completion of a verification process rather than a change in the intrinsic state of the object.
+
+---
+
+**1.3 Becoming honest / faithful — *tapat***
+
+**Form:** maging tapat
+**Example:** *Maging tapat ka sa akin.*
+**Transliteration:** Maging tapat ka sa akin.
+**English translation:** Be honest with me.
+**Notes:** Attested in P2a (Derived Form 8.3) and P2b (Construction 47). P2a notes this is "the primary verbal expression of the root's meaning." The *maging* frame here is injunctive rather than strictly inchoative, but it presupposes a change from a non-honest to an honest state.
+**Epistemic status:** [CORE]
+
+**Form:** naging tapat
+**Example:** *Naging tapat siya sa kanyang mga kaibigan pagkatapos ng maraming taon.*
+**Transliteration:** Naging tapat siya sa kanyang mga kaibigan pagkatapos ng maraming taon.
+**English translation:** He/she became honest with his/her friends after many years.
+**Notes:** *Maging tapat* is the most frequently attested *maging* + truth-domain adjective construction in the P4a data, documented as [CORE] in interpersonal and moral contexts. The completive *naging tapat* describes the completed transition into a state of honesty or sincerity.
+**Epistemic status:** [CORE]
+
+**Example:** *Naging tapat siya sa wakas.*
+**Transliteration:** Naging tapat siya sa wakas.
+**English translation:** He/she finally became honest / was finally honest.
+**Notes:** The completed-aspect *naging tapat* describes a change of state in a person's honesty. Natural in narrative and moral discourse.
+**Epistemic status:** [CORE]
+
+**Verbal construction:** magtapat / nagtapat (to come clean, to confess)
+**Example:** *Nagtapat na siya.*
+**Transliteration:** Nagtapat na siya.
+**English translation:** He/she has already come clean / has already been honest.
+**Notes:** Documented in P1b C-22–C-24 and P2b C-04–C-05. The particle *na* marks a change of state — the person has moved from concealment to honest disclosure. This is the most natural dynamic expression for the *tapat* domain.
+**Epistemic status:** [CORE]
+
+**Example:** *Magtapat ka na.*
+**Transliteration:** Magtapat ka na.
+**English translation:** Come clean already. / Be honest now.
+**Notes:** Documented in P2b C-04. The *na* particle marks urgency and the expectation of a state change. The construction *magtapat ka na* encodes not the gradual development of honesty as a character trait, but the specific act of making an honest disclosure that has been withheld.
+**Epistemic status:** [CORE]
+
+**Asymmetry note:** *Tapat* has a richer set of dynamic verbal expressions (*magtapat*, *nagtatapat*, *nagtapat*, *pagtatapat*) than *totoo* or *tunay*. The *magtapat* paradigm encodes the change from concealment to honest disclosure as a verbal action, whereas *totoo* encodes change primarily through the inchoative *naging totoo* / *nagkatotoo* constructions.
+
+---
+
+**1.4 Becoming correct / becoming right — *tama***
+
+**Form:** maging tama / naging tama
+**Example:** *Naging tama ang kanyang hula sa huli.*
+**Transliteration:** Naging tama ang kanyang hula sa huli.
+**English translation:** His/her prediction turned out to be correct in the end.
+**Notes:** *Maging tama* is attested in contexts where a prediction, estimate, or judgment is retrospectively confirmed as correct. The construction describes a transition in epistemic status — from uncertain or disputed to confirmed correct — rather than a change in the object itself. Natural in evaluative and narrative contexts.
+**Epistemic status:** [CORE]
+
+**Additional form:** tama na
+**Example:** *Tama na.*
+**Transliteration:** Tama na.
+**English translation:** That's enough. / Stop.
+**Notes:** Attested in P2b (Construction 31) and P5 (Opposition 15). P4a and P3 both note this construction is pragmatically specialized: its meaning (sufficiency/cessation) is not fully predictable from *tama* ("correct") + *na*. It does not straightforwardly encode "becoming correct." The *tama + na* construction encodes reaching a threshold of sufficiency rather than a change into a state of correctness.
+**Epistemic status:** [CORE]
+
+**Gap note:** No attested construction encodes "X becomes correct" with *tama* as the predicate in a straightforward inchoative sense beyond *naging tama*.
+
+---
+
+**1.5 Becoming wrong / making an error — *mali***
+
+**Form:** nagkamali
+**Example:** *Nagkamali ako.*
+**Transliteration:** Nagkamali ako.
+**English translation:** I made a mistake. / I erred.
+**Notes:** Attested in P2a (Derived Form 6.5) and P1b. The *nag-* perfective marks the completed act of falling into error. This is the closest attested form to "became wrong" for the *mali* root. Documented in P2a D-P1-02 and P2b D-07 as the standard first-person admission of error. The *nagka-* prefix here, as with *nagkatotoo*, marks an unintended coming-about of a state — the speaker did not intend to be wrong.
+**Epistemic status:** [CORE]
+
+**Example:** *Nagkamali siya sa kanyang pagkakaunawa.*
+**Transliteration:** Nagkamali siya sa kanyang pagkakaunawa.
+**English translation:** He/she made a mistake in his/her understanding.
+**Notes:** Extension of the same construction to a specific domain of error.
+**Epistemic status:** [CORE]
+
+**Additional form:** naging mali
+**Example:** *Naging mali ang kanyang desisyon nang magbago ang sitwasyon.*
+**Transliteration:** Naging mali ang kanyang desisyon nang magbago ang sitwasyon.
+**English translation:** His/her decision became wrong when the situation changed.
+**Notes:** *Naging mali* is attested in evaluative contexts where a previously correct judgment or decision is rendered incorrect by changed circumstances. The construction describes a change in the correctness-status of a judgment rather than a change in the person making it.
+**Epistemic status:** [CORE]
+
+**Asymmetry note:** *Nagkamali* (from *mali*) and *nagkatotoo* (from *totoo*) both use the *nagka-* prefix marking unintended state change. This parallel is notable: both the coming-true of a prediction and the making of a mistake are framed as spontaneous or unintended events rather than deliberate actions. No parallel *nagka-* construction is documented for *tunay*, *tapat*, *tama*, or *wasto* in the truth-evaluation domain.
+
+---
+
+**1.6 Becoming certain — *sigurado***
+
+**Form:** sigurado na
+**Example:** *Sigurado na ako.*
+**Transliteration:** Sigurado na ako.
+**English translation:** I'm certain now. / I've made sure of it.
+**Notes:** Attested in P2b (Construction 77) and P4a. The *na* marks a shift from uncertainty to certainty, or the completion of verification.
+**Epistemic status:** [CORE]
+
+---
+
+**1.7 Becoming legitimate — *lehitimo***
+
+**Form:** maging lehitimo
+**Example:** *Naging lehitimo ang kanyang paghahabol matapos ang desisyon ng korte.*
+**Transliteration:** Naging lehitimo ang kanyang paghahabol matapos ang desisyon ng korte.
+**English translation:** His/her claim became legitimate after the court's decision.
+**Notes:** *Maging lehitimo* is attested in legal and political contexts where an institutional decision or process confers recognized validity on a claim or authority. The transition is from unrecognized to institutionally recognized status.
+**Epistemic status:** [CORE]
+
+---
+
+**1.8 Becoming trustworthy / reliable — *mapagkakatiwalaan***
+
+**Form:** maging mapagkakatiwalaan
+**Example:** *Naging mapagkakatiwalaan ang organisasyon sa paglipas ng mga taon.*
+**Transliteration:** Naging mapagkakatiwalaan ang organisasyon sa paglipas ng mga taon.
+**English translation:** The organization became trustworthy over the years.
+**Notes:** *Maging mapagkakatiwalaan* is attested in institutional and interpersonal contexts describing the development of a reputation for reliability. The construction is morphologically complex but conventionalized.
+**Epistemic status:** [CORE]
+
+---
+
+**1.9 Becoming a liar — *sinungaling***
+
+**Form:** maging sinungaling
+**Example:** *Huwag kang maging sinungaling.*
+**Transliteration:** Huwag kang maging sinungaling.
+**English translation:** Don't be / become a liar.
+**Notes:** Attested in P4a (Construction 7, second example). *Maging* here encodes both the state of being and the process of becoming. P2a documents *maging tapat* as the standard verbal construction for the *tapat* root (Derived Form 8.3), noting that *maging* is "the standard verbal construction for expressing the state or act of being" the root quality; the same *maging* construction is available for *sinungaling* by the same pattern.
+**Epistemic status:** [CORE]
+
+---
+
+**1.10 Becoming fake / being revealed as fake — *huwad* / *peke***
+
+**Form:** huwad na
+**Example:** *Huwad na ang dokumento.*
+**Transliteration:** Huwad na ang dokumento.
+**English translation:** The document has been found to be fake. / The document is now known to be counterfeit.
+**Notes:** Documented in P1 item 27 and P2b F-01. The particle *na* marks a change in the epistemic state of the evaluator rather than a change in the intrinsic state of the object — the document was always fake, but it is now known to be so.
+**Epistemic status:** [CORE]
+
+**Form:** peke na pala
+**Example:** *Peke na pala ang produktong iyon.*
+**Transliteration:** Peke na pala ang produktong iyon.
+**English translation:** It turns out that product is fake.
+**Notes:** The combination of *na* (changed state) and *pala* (realization/discovery) marks the speaker's epistemic update upon discovering that something is counterfeit. Natural in everyday consumer discourse.
+**Epistemic status:** [CORE]
+
+**Gap note (inchoative):** No common expression for *maging peke* or *maging huwad* as an inchoative is identified in the CONTEXT data. *Peke* and *huwad* describe objects that are deliberately made to appear genuine — a property that is produced by an agent's action rather than a state that an object transitions into. The P4a data explicitly notes that *maging* + *huwad*/*peke* is [MARGINAL] because these adjectives describe object properties rather than states a person or thing enters into. The causative construction (Section 3 below) is the natural encoding for this meaning.
+**Epistemic status (inchoative):** [MARGINAL] — no common expression identified for the inchoative; causative is the natural encoding.
+
+---
+
+**1.11 Becoming trustworthy / losing trust — *tiwala* (change-of-state constructions)**
+
+**Form:** may tiwala na
+**Example:** *May tiwala na ako sa kanya.*
+**Transliteration:** May tiwala na ako sa kanya.
+**English translation:** I now trust him/her. / I have come to trust him/her.
+**Notes:** The *may* + *na* construction marks the coming-into-being of trust. Documented in P2b H-02 context. Parallel to *wala na* but in the positive direction.
+**Epistemic status:** [CORE]
+
+---
+
+**1.12 Items with no attested inchoative or becoming-construction**
+
+No attested inchoative or becoming-construction for *tunay* (in the authenticity sense as a conventionalized form), *wasto*, *tumpak*, *akma*, *angkop*, *kredible*, *orihinal* is documented in P1–P5. The *na* particle is theoretically combinable with any stative predicate in Tagalog, but no specific attested examples with these roots in an inchoative function are reported in the context data. This gap is preserved.
+
+---
+
+## 2. CEASING TO BE A TRUTH-RELATED STATE / BECOMING THE OPPOSED STATE
+
+### Pattern
+**Maging** + [opposed term] — or — **Hindi na** + [truth-domain adjective] — or — **Wala na** + [truth-domain nominal] — or — **Nawalan ng** + [abstract nominal] — or — lexical constructions documented in P5
+
+---
+
+**2.1 Ceasing to be true / becoming untrue — *totoo***
+
+**Form:** hindi na totoo
+**Example:** *Hindi na totoo ang kanyang mga sinabi.*
+**Transliteration:** Hindi na totoo ang kanyang mga sinabi.
+**English translation:** What he/she said is no longer true. / His/her statements are no longer accurate.
+**Notes:** *Hindi na* (negation + change-of-state particle *na*) is the standard construction for the transition from a true state to a no-longer-true state. The particle *na* marks the change from a previous state. This is the most natural encoding for this meaning in Tagalog; no single lexical verb meaning "to become untrue" is identified in the CONTEXT data.
+**Epistemic status:** [CORE]
+
+**Gap note:** No attested construction for "X becomes untrue" beyond *hindi na totoo* is documented in the context data. The negation *hindi totoo* is attested as a static predication (P2b, Construction 4; P4a, Construction 2) but not in a dynamic becoming-construction beyond the *hindi na* form.
+
+---
+
+**2.2 Ceasing to be genuine / becoming inauthentic — *tunay* / *peke***
+
+**Form:** naging di-tunay
+**Notes:** *Naging di-tunay* is a more formal variant for the transition from genuine to inauthentic. Attested in interpersonal contexts.
+**Epistemic status:** [CORE]
+
+**Form:** naging peke
+**Example:** *Naging peke ang kanyang pagmamahal sa pagtatapos.*
+**Transliteration:** Naging peke ang kanyang pagmamahal sa pagtatapos.
+**English translation:** His/her love turned out to be fake in the end. / His/her love became fake.
+**Notes:** *Naging peke* is attested in interpersonal contexts describing the retrospective evaluation of something previously believed genuine as actually fake. The construction describes a change in the speaker's epistemic assessment rather than a change in the object itself. *Naging peke* is the more colloquial and more frequently attested form.
+**Epistemic status:** [CORE]
+
+---
+
+**2.3 Ceasing to be honest / becoming dishonest — *tapat* / *sinungaling***
+
+**Form:** naging hindi tapat
+**Notes:** *Naging hindi tapat* is a more compositional alternative for the transition into dishonesty.
+**Epistemic status:** [CORE]
+
+**Form:** naging sinungaling
+**Example:** *Naging sinungaling siya sa paglipas ng panahon.*
+**Transliteration:** Naging sinungaling siya sa paglipas ng panahon.
+**English translation:** He/she became a liar over time.
+**Notes:** *Naging sinungaling* is the most natural construction for the transition into habitual dishonesty, using the lexicalized agentive nominal *sinungaling* (liar) documented in P1 item 26. Both *naging hindi tapat* and *naging sinungaling* are attested; *naging sinungaling* is more colloquial and more direct in its moral condemnation.
+**Epistemic status:** [CORE]
+
+---
+
+**2.4 Ceasing to be correct / becoming wrong — *tama* / *mali***
+
+**Form:** naging mali
+**Example:** *Naging mali ang kanyang desisyon nang magbago ang sitwasyon.*
+**Transliteration:** Naging mali ang kanyang desisyon nang magbago ang sitwasyon.
+**English translation:** His/her decision became wrong when the situation changed.
+**Notes:** *Naging mali* is attested in evaluative contexts where a previously correct judgment or decision is rendered incorrect by changed circumstances. The construction describes a change in the correctness-status of a judgment rather than a change in the person making it.
+**Epistemic status:** [CORE]
+
+---
+
+**2.5 Ceasing to be trustworthy / losing trust — *tiwala* / *mapagkakatiwalaan***
+
+**Form:** nawalan ng tiwala (ang [person/institution])
+**Example:** *Nawalan ng tiwala ang mga mamamayan sa gobyerno.*
+**Transliteration:** Nawalan ng tiwala ang mga mamamayan sa gobyerno.
+**English translation:** The citizens lost trust in the government. / The citizens came to have no trust in the government.
+**Notes:** *Nawalan ng tiwala* uses the *na-* + *wala* + *-an* construction (*nawalan*, "came to lack") with *ng tiwala* as the object of loss. This is the standard construction for the transition from a state of trust to a state of distrust. The P2b data documents *kawalan ng tiwala* ("lack of trust, loss of confidence") as the corresponding nominal. The construction is [CORE] and attested in political and interpersonal discourse.
+**Epistemic status:** [CORE]
+
+**Form:** wala na akong tiwala sa kanya
+**Example:** *Wala na akong tiwala sa kanya.*
+**Transliteration:** Wala na akong tiwala sa kanya.
+**English translation:** I no longer trust him/her. / I have lost confidence in him/her.
+**Notes:** Documented in P2b H-02. The *wala na* construction (there is no longer) marks a change from a state of trust to a state of no trust. The *na* particle is critical: it marks the change of state.
+**Epistemic status:** [CORE]
+
+**Form:** hindi na mapagkakatiwalaan
+**Example:** *Hindi na siya mapagkakatiwalaan pagkatapos ng nangyari.*
+**Transliteration:** Hindi na siya mapagkakatiwalaan pagkatapos ng nangyari.
+**English translation:** He/she can no longer be trusted after what happened.
+**Notes:** *Hindi na mapagkakatiwalaan* combines the negation *hindi*, the change-of-state particle *na*, and the trustworthiness evaluative *mapagkakatiwalaan* to describe the transition from trustworthy to untrustworthy status. Attested in interpersonal and institutional discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**2.6 Ceasing to be legitimate / losing legitimacy — *lehitimidad***
+
+**Form:** nawalan ng lehitimidad
+**Example:** *Nawalan ng lehitimidad ang gobyerno matapos ang eleksyon.*
+**Transliteration:** Nawalan ng lehitimidad ang gobyerno matapos ang eleksyon.
+**English translation:** The government lost its legitimacy after the election.
+**Notes:** *Nawalan ng lehitimidad* uses the same *nawalan ng* construction as *nawalan ng tiwala*, with the abstract nominal *lehitimidad* (legitimacy, documented in P2a) as the object of loss. Attested in political and legal discourse.
+**Epistemic status:** [CORE]
+
+---
+
+**2.7 Loss of trust — nominal construction — *kawalan ng tiwala***
+
+**Form:** kawalan ng tiwala
+**Example:** *kawalan ng tiwala*
+**Transliteration:** kawalan ng tiwala
+**English translation:** loss of trust, distrust, erosion of confidence
+**Notes:** P2a (Derived Form 9.4) and P2b (Construction 54) document *kawalan ng tiwala* as the nominalized form for "distrust / lack of trust / loss of confidence." The word *kawalan* (from *wala*, "absence/lack") encodes the transition from presence to absence of trust. The nominal *kawalan* encodes the dynamic of losing or lacking trust rather than a static state. This is the only clearly lexicalized nominal for a transition away from a truth-related state in the data.
+**Epistemic status:** [CORE]
+
+---
+
+**2.8 Falling into error — *pagkakamali* / *nagkamali***
+
+**Form:** nagkamali siya
+**Example:** *Nagkamali siya.*
+**Transliteration:** Nagkamali siya.
+**English translation:** He/she made a mistake. / He/she fell into error.
+**Notes:** Attested in P2a (Derived Form 6.5). The *nag-* perfective encodes the completed transition into a state of error.
+**Epistemic status:** [CORE]
+
+**Form:** aminin ang pagkakamali
+**Example:** *Aminin ang pagkakamali.*
+**Transliteration:** Aminin ang pagkakamali.
+**English translation:** Admit the mistake.
+**Notes:** Attested in P2b (Construction 40). *Pagkakamali* nominalizes the event of having erred.
+**Epistemic status:** [CORE]
+
+---
+
+**2.9 Transition into deceptive speech — *pagsisinungaling***
+
+**Form:** pagsisinungaling
+**Example:** *pagsisinungaling*
+**Transliteration:** pagsisinungaling
+**English translation:** the act of lying, telling a lie
+**Notes:** Attested in P1 and P2a. The *pag-* verbal noun nominalizes the act as an event, implying a transition from non-lying to lying.
+**Epistemic status:** [CORE]
+
+---
+
+## 3. CAUSING SOMETHING TO BE A TRUTH-RELATED STATE
+
+### Pattern
+Lexically specific causative constructions: **patunayan** (*pa-* + *tunay* + *-an*), **itama** (*i-* + *tama*), **iwasto** (*i-* + *wastó*), **itotoo** (*i-* + *totoo*), **iakma** (*i-* + *akma*), **iaangkop** (*i-* + *angkop*), **siguraduhin**, **ibunyag ang katotohanan**, **itago ang katotohanan**, and related forms documented in P2a and P2b
+
+---
+
+**3.1 Causing something to be proven / verified — *patunayan* paradigm**
+
+**Form:** patunayan
+**Example:** *Patunayan mo ang iyong sinasabi.*
+**Transliteration:** Patunayan mo ang iyong sinasabi.
+**English translation:** Prove what you are saying. (Cause what you are saying to be verified/genuine.)
+**Notes:** *Patunayan* is the primary causative-verificational verbal form in the P1–P5 data, documented in P1b, P2a, and P4a as [CORE]. The *pa-* prefix on *tunay* produces a causative meaning: to cause something to be established as genuine or true. Documented in P1b B-04 and P2b B-09 as the standard causative for establishing truth through evidence.
+**Epistemic status:** [CORE]
+
+**Example:** *Patunayan mo.*
+**Transliteration:** Patunayan mo.
+**English translation:** Prove it. / Demonstrate it.
+**Notes:** Attested in P2a and P2b (Construction 5 in P1b root expansion). *pa-* (causative) + *tunay* + *-an*: "cause [it] to be verified/proven."
+**Epistemic status:** [CORE]
+
+**Form:** pinatunayan
+**Example:** *Pinatunayan ng ebidensya ang kanyang kasalanan.*
+**Transliteration:** Pinatunayan ng ebidensya ang kanyang kasalanan.
+**English translation:** The evidence proved his/her guilt. / The evidence caused his/her guilt to be established.
+**Notes:** Documented in P1b B-07. The agent of causation (*ebidensya* — evidence) is marked with *ng*; the thing proven (*kasalanan* — guilt) is the topic. Attested in P2a (Derived Form 3.6) as the completed-aspect actor-focus form.
+**Epistemic status:** [CORE]
+
+**Example:** *Pinatunayan niya ang katotohanan ng kanyang sinabi.*
+**Transliteration:** Pinatunayan niya ang katotohanan ng kanyang sinabi.
+**English translation:** He/she proved the truth of what he/she said.
+**Notes:** Extension of the causative construction to the nominal *katotohanan*; natural in formal and argumentative discourse.
+**Epistemic status:** [CORE]
+
+**Example:** *Pinatunayan niya.*
+**Transliteration:** Pinatunayan niya.
+**English translation:** He/she proved it.
+**Notes:** Attested in P2a

@@ -1,0 +1,325 @@
+## Comparison table
+
+| Empirical Dimension | Construction | Empirical Result | AOML Prediction | Alignment Type | Notes |
+|---|---|---|---|---|---|
+| Factual truth of statements/claims | Simple attribution | **ALLOWED** | **VER × ATTR = licensed** | MATCH | Strong direct correspondence: “X is true” maps well to VERIDICAL attribution. |
+| Factual truth of statements/claims | Negative attribution | **ALLOWED** | VER supports CONTR and ordinary attributional opposition; negation is not separately modeled but compatible | PARTIAL | AOML predicts truth/falsity contrast, but empirical matrix specifically tracks negative attribution as a constructional function, which AOML does not isolate as its own operator. |
+| Factual truth of statements/claims | Adnominal modification | **ALLOWED** | VER × ATTR broadly compatible | DIRECTIONAL | AOML has no dedicated adnominal operator; attribution can plausibly host this, but the mapping is indirect. |
+| Factual truth of statements/claims | Truth/fact as object of verb | **ALLOWED** | VER with RESULT / provisional REVEAL / VERIF-related processes is compatible | DIRECTIONAL | AOML captures truth as something revealed/established, but not specifically the widespread “tell/reveal/hide the truth” light-verb pattern. |
+| Factual truth of statements/claims | Verification / checking / confirmation | **ALLOWED** | **VERIF × RESULT/ATTR = licensed**; VERIF axis explicitly models evidential establishment | MATCH | This is one of the strongest alignments in the whole comparison. |
+| Factual truth of statements/claims | Revelation / exposure | **ALLOWED** | Provisional **REVEAL** licensed for VER | MATCH | Empirical data strongly supports revelation-based truth dynamics; AOML explicitly includes provisional REVEAL for VER. |
+| Factual truth of statements/claims | Become / inchoative status change | **VARIABLE** | **VER × BECOME = restricted** | MATCH | Empirical variability fits AOML restriction well. |
+| Factual truth of statements/claims | Causative / induced result | **BLOCKED** | VER × CAUSE = restricted, not blocked | CONFLICT | Empirical matrix gives a stronger prohibition than AOML. AOML allows restricted causation for VER, while the empirical synthesis says broad “make true” is blocked. |
+| Factual truth of statements/claims | Appearance vs reality framing | **VARIABLE** | VER and provisional REVEAL can interact; LIFE blocked for REVEAL | PARTIAL | AOML can host some of this through VER/LIFE distinction, but the empirical matrix treats this as a major constructional zone not fully formalized in AOML. |
+| Factual truth of statements/claims | Abstract nominalization / quality noun | **ALLOWED** | **VER × ABSTR = licensed** | MATCH | Strong direct alignment. |
+| Falsehood / non-truth / lying | Simple attribution | **ALLOWED** | VER × ATTR plus CONTR with false side | MATCH | AOML does not create a separate falsehood axis, but falsity is naturally the contrastive pole of VER. |
+| Falsehood / non-truth / lying | Negative attribution | **ALLOWED** | VER × CONTR / negated ATTR compatible | PARTIAL | Same issue as above: AOML supports opposition but does not separately model negative attribution as a construction type. |
+| Falsehood / non-truth / lying | Adnominal modification | **ALLOWED** | VER contrastive pole can modify claims/reports | DIRECTIONAL | Indirectly compatible, but AOML lacks explicit adnominal machinery. |
+| Falsehood / non-truth / lying | Truth/fact as object of verb | **ALLOWED** | VER + CONTR; provisional REVEAL for false exposure also compatible | DIRECTIONAL | AOML captures the semantic opposition but not the specific light-verb construction family. |
+| Falsehood / non-truth / lying | Verification / checking / confirmation | **VARIABLE** | **VERIF** includes disconfirmation in Layer 2 | MATCH | Good fit: falsehood often emerges through verification/disconfirmation. |
+| Falsehood / non-truth / lying | Revelation / exposure | **ALLOWED** | Provisional **REVEAL** licensed for VER/VERIF | MATCH | Strong fit, especially for “turn out false / be revealed false.” |
+| Falsehood / non-truth / lying | Become / inchoative status change | **VARIABLE** | **BECOME(−)** is marked/dispreferred by **R4 Positive Emergence Bias** | MATCH | Strong alignment: empirical variability and weakness of “become false” fits AOML’s asymmetry. |
+| Falsehood / non-truth / lying | Causative / induced result | **VARIABLE** | VER × CAUSE restricted; negative causation generally more restricted | PARTIAL | Empirical data allows some falsification-type causatives, but not uniformly. AOML is compatible but less specific. |
+| Falsehood / non-truth / lying | Appearance vs reality framing | **VARIABLE** | VER/LIFE contrast and REVEAL can partly host this | PARTIAL | AOML only partially captures the empirical appearance-vs-falsity zone. |
+| Falsehood / non-truth / lying | Abstract nominalization / quality noun | **ALLOWED** | VER × ABSTR licensed | MATCH | Falsity nouns fit as contrastive abstraction within VER. |
+| Genuineness / authenticity / “real thing” | Simple attribution | **ALLOWED** | **AUTH × ATTR = licensed** | MATCH | Strong direct alignment. |
+| Genuineness / authenticity / “real thing” | Negative attribution | **ALLOWED** | AUTH × CONTR / negated ATTR compatible | PARTIAL | AOML supports the contrast, but again does not isolate negative attribution as a separate operator. |
+| Genuineness / authenticity / “real thing” | Adnominal modification | **ALLOWED** | AUTH × ATTR broadly compatible | DIRECTIONAL | Good semantic fit, but no dedicated adnominal operator in AOML. |
+| Genuineness / authenticity / “real thing” | Truth/fact as object of verb | **VARIABLE** | AUTH is object of checking/proving provenance rather than truth-object verbs | PARTIAL | Some empirical cases fit AUTH, but many “truth-object” constructions are more VER than AUTH. |
+| Genuineness / authenticity / “real thing” | Verification / checking / confirmation | **ALLOWED** | **AUTH default method = PROVENANCE**; VERIF also compatible | MATCH | Very strong alignment. |
+| Genuineness / authenticity / “real thing” | Revelation / exposure | **VARIABLE** | Provisional **REVEAL** licensed for AUTH | PARTIAL | AOML predicts licensing, but empirical matrix only gives variable support globally. |
+| Genuineness / authenticity / “real thing” | Become / inchoative status change | **BLOCKED** | AUTH × BECOME = restricted; positive authenticity causation blocked by **R3**, but BECOME itself is only restricted | CONFLICT | Empirical matrix is stronger: authenticity “become” is broadly blocked, while AOML leaves AUTH-BECOME restricted rather than blocked. |
+| Genuineness / authenticity / “real thing” | Causative / induced result | **BLOCKED** | **CAUSE(+) × AUTH blocked by R3** | MATCH | Strong direct alignment. |
+| Genuineness / authenticity / “real thing” | Appearance vs reality framing | **ALLOWED** | AUTH and LIFE distinction strongly compatible | MATCH | Strong fit: seeming genuine vs actually genuine is central to AUTH/LIFE separation. |
+| Genuineness / authenticity / “real thing” | Abstract nominalization / quality noun | **ALLOWED** | **AUTH × ABSTR = licensed** | MATCH | Strong direct alignment. |
+| Fake / forged / counterfeit | Simple attribution | **ALLOWED** | AUTH contrastive pole under ATTR | MATCH | Strong fit. |
+| Fake / forged / counterfeit | Negative attribution | **ALLOWED** | AUTH contrastive pole / CONTR compatible | PARTIAL | Same structural issue: AOML handles contrast, not a separate negative-attribution construction. |
+| Fake / forged / counterfeit | Adnominal modification | **ALLOWED** | AUTH × ATTR broadly compatible | DIRECTIONAL | Semantically straightforward, structurally indirect. |
+| Fake / forged / counterfeit | Truth/fact as object of verb | **VARIABLE** | AUTH often realized through provenance/forgery verbs rather than truth-object verbs | PARTIAL | Some overlap, but not a clean AOML mapping. |
+| Fake / forged / counterfeit | Verification / checking / confirmation | **ALLOWED** | AUTH default provenance validation; VERIF compatible | MATCH | Strong fit. |
+| Fake / forged / counterfeit | Revelation / exposure | **ALLOWED** | Provisional REVEAL licensed for AUTH | MATCH | Strong fit, especially “proved fake / exposed as forgery.” |
+| Fake / forged / counterfeit | Become / inchoative status change | **VARIABLE** | AUTH × BECOME restricted | MATCH | Good fit. |
+| Fake / forged / counterfeit | Causative / induced result | **ALLOWED** | **CAUSE(−) × AUTH licensed by R3** | MATCH | One of the clearest AOML confirmations. |
+| Fake / forged / counterfeit | Appearance vs reality framing | **ALLOWED** | AUTH/LIFE distinction strongly compatible | MATCH | Strong fit. |
+| Fake / forged / counterfeit | Abstract nominalization / quality noun | **ALLOWED** | **AUTH × ABSTR = licensed** | MATCH | Strong fit. |
+| Correctness / rightness / properness | Simple attribution | **ALLOWED** | Could map to **VER** subregion “correctness” or **NORM** subregion “appropriateness” | PARTIAL | AOML splits this area across VER and NORM, while empirical category merges them. |
+| Correctness / rightness / properness | Negative attribution | **ALLOWED** | VER/NORM contrast compatible | PARTIAL | Same split issue. |
+| Correctness / rightness / properness | Adnominal modification | **ALLOWED** | VER/NORM attribution compatible | DIRECTIONAL | Semantically compatible, but AOML does not preserve the empirical merged category. |
+| Correctness / rightness / properness | Truth/fact as object of verb | **VARIABLE** | More often VERIF or NORM-related than direct object-of-truth constructions | PARTIAL | Only partial overlap. |
+| Correctness / rightness / properness | Verification / checking / confirmation | **ALLOWED** | VERIF compatible | MATCH | Strong fit for checking correctness. |
+| Correctness / rightness / properness | Revelation / exposure | **VARIABLE** | REVEAL less central here | PARTIAL | AOML does not strongly predict revelation for correctness; empirical variability fits only loosely. |
+| Correctness / rightness / properness | Become / inchoative status change | **VARIABLE** | VER/NORM × BECOME = restricted | MATCH | Good fit. |
+| Correctness / rightness / properness | Causative / induced result | **ALLOWED** | VER/NORM × CAUSE restricted but licensed in many cases | MATCH | Good fit, especially for correction/set-right constructions. |
+| Correctness / rightness / properness | Appearance vs reality framing | **INSUFFICIENT DATA** | No strong AOML expectation | NO ALIGNMENT | No clear comparison possible. |
+| Correctness / rightness / properness | Abstract nominalization / quality noun | **ALLOWED** | VER/NORM × ABSTR licensed | MATCH | Strong fit. |
+| Error / wrongness / incorrectness | Simple attribution | **ALLOWED** | Contrastive pole of VER/NORM under ATTR | MATCH | Good fit. |
+| Error / wrongness / incorrectness | Negative attribution | **ALLOWED** | Compatible with CONTR and negated positive predicates | PARTIAL | Same constructional caveat. |
+| Error / wrongness / incorrectness | Adnominal modification | **ALLOWED** | Compatible with VER/NORM contrastive pole | DIRECTIONAL | Indirect but plausible. |
+| Error / wrongness / incorrectness | Truth/fact as object of verb | **VARIABLE** | More often correction/disconfirmation than object-of-truth | PARTIAL | Only partial overlap. |
+| Error / wrongness / incorrectness | Verification / checking / confirmation | **ALLOWED** | VERIF includes disconfirmation | MATCH | Strong fit. |
+| Error / wrongness / incorrectness | Revelation / exposure | **VARIABLE** | REVEAL of falsity/error possible but not central | PARTIAL | Partial only. |
+| Error / wrongness / incorrectness | Become / inchoative status change | **VARIABLE** | Negative BECOME dispreferred by R4 | MATCH | Good fit. |
+| Error / wrongness / incorrectness | Causative / induced result | **ALLOWED** | CAUSE licensed in many factual/normative domains | MATCH | Good fit for “make wrong / invalidate / corrupt / misstate” type outcomes. |
+| Error / wrongness / incorrectness | Appearance vs reality framing | **INSUFFICIENT DATA** | No strong AOML expectation | NO ALIGNMENT | No clear mapping. |
+| Error / wrongness / incorrectness | Abstract nominalization / quality noun | **ALLOWED** | ABSTR licensed | MATCH | Good fit. |
+| Precision / exactness / accuracy of detail | Simple attribution | **ALLOWED** | Could map to VER subregion “correctness” or VERIF-related evaluative result | PARTIAL | AOML has no dedicated primary axis for precision; only partial fit under VER. |
+| Precision / exactness / accuracy of detail | Negative attribution | **ALLOWED** | Same as above | PARTIAL | Same issue. |
+| Precision / exactness / accuracy of detail | Adnominal modification | **ALLOWED** | Compatible with VER attribution | DIRECTIONAL | Indirect fit. |
+| Precision / exactness / accuracy of detail | Truth/fact as object of verb | **VARIABLE** | Not central in AOML | NO ALIGNMENT | AOML does not clearly model precision as an object-of-verb domain. |
+| Precision / exactness / accuracy of detail | Verification / checking / confirmation | **ALLOWED** | VERIF strongly compatible | MATCH | Strong fit. |
+| Precision / exactness / accuracy of detail | Revelation / exposure | **INSUFFICIENT DATA** | No clear AOML prediction | NO ALIGNMENT | No basis for comparison. |
+| Precision / exactness / accuracy of detail | Become / inchoative status change | **VARIABLE** | VER × BECOME restricted could host some cases | PARTIAL | Only partial because AOML lacks a dedicated precision axis. |
+| Precision / exactness / accuracy of detail | Causative / induced result | **VARIABLE** | VER/VERIF restricted causation compatible | PARTIAL | Partial only. |
+| Precision / exactness / accuracy of detail | Appearance vs reality framing | **INSUFFICIENT DATA** | No clear AOML prediction | NO ALIGNMENT | No basis for comparison. |
+| Precision / exactness / accuracy of detail | Abstract nominalization / quality noun | **ALLOWED** | VER × ABSTR licensed | PARTIAL | Works if precision is treated as a VER subregion, but that is a compression of the empirical distinction. |
+| Conformity / correspondence / matching to facts, rules, source | Simple attribution | **ALLOWED** | Could map to VER, NORM, AUTH, or LIFE depending on target | PARTIAL | AOML can host this only by splitting the empirical category across several axes. |
+| Conformity / correspondence / matching to facts, rules, source | Negative attribution | **ALLOWED** | Same multi-axis issue | PARTIAL | Same reason. |
+| Conformity / correspondence / matching to facts, rules, source | Adnominal modification | **VARIABLE** | No dedicated AOML operator | NO ALIGNMENT | Too heterogeneous for a clean mapping. |
+| Conformity / correspondence / matching to facts, rules, source | Truth/fact as object of verb | **VARIABLE** | Often VERIF or LIFE or AUTH depending on context | PARTIAL | Partial only. |
+| Conformity / correspondence / matching to facts, rules, source | Verification / checking / confirmation | **ALLOWED** | **VERIF** strongly compatible | MATCH | Strong fit. |
+| Conformity / correspondence / matching to facts, rules, source | Revelation / exposure | **VARIABLE** | REVEAL not central but possible in some subcases | PARTIAL | Partial only. |
+| Conformity / correspondence / matching to facts, rules, source | Become / inchoative status change | **VARIABLE** | Restricted across relevant axes | PARTIAL | Partial only. |
+| Conformity / correspondence / matching to facts, rules, source | Causative / induced result | **ALLOWED** | CAUSE compatible especially with NORM/VERIF/LIFE/AUTH adjustments | MATCH | Good fit for “make conform / align / match.” |
+| Conformity / correspondence / matching to facts, rules, source | Appearance vs reality framing | **VARIABLE** | LIFE and AUTH partly relevant | PARTIAL | Partial only. |
+| Conformity / correspondence / matching to facts, rules, source | Abstract nominalization / quality noun | **ALLOWED** | ABSTR compatible across host axes | MATCH | Broadly compatible. |
+| Reliability / trustworthiness / dependability | Simple attribution | **ALLOWED** | Could map to **SINC** subregion “reliability” or to trust-related evaluative states | PARTIAL | AOML places reliability under SINC subregions, but empirical data often treats reliability as source/system property, not just honesty of intent. |
+| Reliability / trustworthiness / dependability | Negative attribution | **ALLOWED** | SINC contrast compatible | PARTIAL | Same issue. |
+| Reliability / trustworthiness / dependability | Adnominal modification | **ALLOWED** | SINC attribution compatible | DIRECTIONAL | Semantically plausible, but target-type fit is imperfect. |
+| Reliability / trustworthiness / dependability | Truth/fact as object of verb | **VARIABLE** | Not central to SINC | NO ALIGNMENT | AOML does not clearly predict this construction for reliability. |
+| Reliability / trustworthiness / dependability | Verification / checking / confirmation | **VARIABLE** | SINC default method TESTIMONY / observation over time; VERIF can assess evidence | PARTIAL | Empirical data often checks reliability procedurally; AOML only partly captures this. |
+| Reliability / trustworthiness / dependability | Revelation / exposure | **INSUFFICIENT DATA** | REVEAL licensed for SINC provisionally | NO ALIGNMENT | Empirical matrix lacks enough support. |
+| Reliability / trustworthiness / dependability | Become / inchoative status change | **BLOCKED** | **SINC × BECOME = restricted**, not blocked | CONFLICT | Empirical matrix is stronger than AOML here. |
+| Reliability / trustworthiness / dependability | Causative / induced result | **BLOCKED** | **CAUSE × SINC = universally blocked (R1)** | MATCH | Strong direct alignment if reliability is treated as SINC subregion, as AOML does. |
+| Reliability / trustworthiness / dependability | Appearance vs reality framing | **INSUFFICIENT DATA** | No strong AOML prediction | NO ALIGNMENT | No basis for comparison. |
+| Reliability / trustworthiness / dependability | Abstract nominalization / quality noun | **ALLOWED** | **SINC × ABSTR = licensed** | MATCH | Strong fit. |
+| Credibility / plausibility / convincingness | Simple attribution | **ALLOWED** | Could map partly to **LIFE** (verisimilitude) or SINC-adjacent evaluation | PARTIAL | AOML has no dedicated credibility axis; closest fits are LIFE and perhaps SINC, but neither is exact. |
+| Credibility / plausibility / convincingness | Negative attribution | **VARIABLE** | Same issue | PARTIAL | Partial only. |
+| Credibility / plausibility / convincingness | Adnominal modification | **ALLOWED** | LIFE attribution partly compatible | PARTIAL | Only partial. |
+| Credibility / plausibility / convincingness | Truth/fact as object of verb | **INSUFFICIENT DATA** | No clear AOML mapping | NO ALIGNMENT | No basis. |
+| Credibility / plausibility / convincingness | Verification / checking / confirmation | **VARIABLE** | VERIF may interact, but credibility is not verification itself | PARTIAL | Partial only. |
+| Credibility / plausibility / convincingness | Revelation / exposure | **INSUFFICIENT DATA** | No clear AOML mapping | NO ALIGNMENT | No basis. |
+| Credibility / plausibility / convincingness | Become / inchoative status change | **VARIABLE** | **LIFE × BECOME = restricted** could partly host “become convincing” | PARTIAL | Partial only. |
+| Credibility / plausibility / convincingness | Causative / induced result | **ALLOWED** | **LIFE × CAUSE = restricted**; making something believable fits representational shaping | MATCH | Best fit is with LIFE, though not perfect. |
+| Credibility / plausibility / convincingness | Appearance vs reality framing | **ALLOWED** | **LIFE** strongly compatible | MATCH | Strong fit if plausibility is treated as representational fidelity/verisimilitude. |
+| Credibility / plausibility / convincingness | Abstract nominalization / quality noun | **ALLOWED** | **LIFE × ABSTR = blocked** | CONFLICT | Empirical matrix allows credibility nouns widely, but AOML blocks ABSTR for LIFE. This suggests credibility is not comfortably housed in LIFE alone. |
+| Formal validity / legal-procedural standing | Simple attribution | **ALLOWED** | Could map to **NORM** or **VERIF**; AOML has no separate validity axis | PARTIAL | AOML distributes this across NORM and VERIF, while empirical matrix treats it as a distinct dimension. |
+| Formal validity / legal-procedural standing | Negative attribution | **ALLOWED** | Same | PARTIAL | Same reason. |
+| Formal validity / legal-procedural standing | Adnominal modification | **ALLOWED** | NORM/VERIF attribution compatible | DIRECTIONAL | Indirect fit. |
+| Formal validity / legal-procedural standing | Truth/fact as object of verb | **VARIABLE** | Not central in AOML | PARTIAL | Partial only. |
+| Formal validity / legal-procedural standing | Verification / checking / confirmation | **ALLOWED** | **VERIF** strongly compatible | MATCH | Strong fit. |
+| Formal validity / legal-procedural standing | Revelation / exposure | **VARIABLE** | REVEAL possible but not central | PARTIAL | Partial only. |
+| Formal validity / legal-procedural standing | Become / inchoative status change | **ALLOWED** | **NORM × BECOME = restricted** | MATCH | Empirical allowance fits AOML restricted licensing. |
+| Formal validity / legal-procedural standing | Causative / induced result | **ALLOWED** | **NORM × CAUSE = restricted** | MATCH | Strong fit for validate/invalidate/ratify/nullify. |
+| Formal validity / legal-procedural standing | Appearance vs reality framing | **INSUFFICIENT DATA** | No strong AOML prediction | NO ALIGNMENT | No basis. |
+| Formal validity / legal-procedural standing | Abstract nominalization / quality noun | **ALLOWED** | **NORM × ABSTR = licensed** and VERIF × ABSTR = licensed | MATCH | Strong fit. |
+| Justification / legitimacy / fairness / being in the right | Simple attribution | **ALLOWED** | **NORM × ATTR = licensed** | MATCH | Strong fit. |
+| Justification / legitimacy / fairness / being in the right | Negative attribution | **ALLOWED** | NORM contrast compatible | PARTIAL | Same constructional caveat. |
+| Justification / legitimacy / fairness / being in the right | Adnominal modification | **ALLOWED** | NORM attribution compatible | DIRECTIONAL | Indirect but good fit. |
+| Justification / legitimacy / fairness / being in the right | Truth/fact as object of verb | **VARIABLE** | Not central to NORM | NO ALIGNMENT | No clear mapping. |
+| Justification / legitimacy / fairness / being in the right | Verification / checking / confirmation | **VARIABLE** | NORM default methods are PRINCIPLE/CONSENSUS, not verification | PARTIAL | Some empirical checking exists, but AOML predicts a different validation habitat. |
+| Justification / legitimacy / fairness / being in the right | Revelation / exposure | **INSUFFICIENT DATA** | Provisional REVEAL licensed for NORM | NO ALIGNMENT | Empirical matrix lacks enough support. |
+| Justification / legitimacy / fairness / being in the right | Become / inchoative status change | **VARIABLE** | **NORM × BECOME = restricted** | MATCH | Good fit. |
+| Justification / legitimacy / fairness / being in the right | Causative / induced result | **ALLOWED** | **NORM × CAUSE = restricted** | MATCH | Good fit. |
+| Justification / legitimacy / fairness / being in the right | Appearance vs reality framing | **INSUFFICIENT DATA** | No strong AOML prediction | NO ALIGNMENT | No basis. |
+| Justification / legitimacy / fairness / being in the right | Abstract nominalization / quality noun | **ALLOWED** | **NORM × ABSTR = licensed** | MATCH | Strong fit. |
+| Essence / underlying nature / true identity | Simple attribution | **ALLOWED** | **ESS × ATTR = licensed** | MATCH | Strong fit. |
+| Essence / underlying nature / true identity | Negative attribution | **VARIABLE** | ESS contrast compatible, but ESS is not primarily binary in AOML | PARTIAL | Partial only. |
+| Essence / underlying nature / true identity | Adnominal modification | **ALLOWED** | ESS attribution compatible | DIRECTIONAL | Indirect but plausible. |
+| Essence / underlying nature / true identity | Truth/fact as object of verb | **VARIABLE** | ESS often realized through understanding/revealing essence, not truth-object verbs | PARTIAL | Partial only. |
+| Essence / underlying nature / true identity | Verification / checking / confirmation | **INSUFFICIENT DATA** | ESS default method LOGIC, not empirical verification | NO ALIGNMENT | No clear empirical support. |
+| Essence / underlying nature / true identity | Revelation / exposure | **ALLOWED** | Provisional **REVEAL** licensed for ESS | MATCH | Strong fit. |
+| Essence / underlying nature / true identity | Become / inchoative status change | **VARIABLE** | **ESS × BECOME = blocked** | CONFLICT | Empirical matrix allows variable inchoative behavior, but AOML blocks ESS-BECOME. |
+| Essence / underlying nature / true identity | Causative / induced result | **BLOCKED** | **ESS × CAUSE = blocked** | MATCH | Strong fit. |
+| Essence / underlying nature / true identity | Appearance vs reality framing | **ALLOWED** | ESS strongly compatible with surface/deep distinction and REVEAL | MATCH | Strong fit. |
+| Essence / underlying nature / true identity | Abstract nominalization / quality noun | **ALLOWED** | **ESS × ABSTR = restricted** | PARTIAL | Empirical matrix says allowed; AOML says restricted/marginal. |
+| Resemblance / similarity / likeness | Simple attribution | **ALLOWED** | Best fit is **LIFE × ATTR = licensed** | MATCH | Good fit if resemblance is treated as representational fidelity. |
+| Resemblance / similarity / likeness | Negative attribution | **ALLOWED** | LIFE contrast compatible | PARTIAL | Same constructional caveat. |
+| Resemblance / similarity / likeness | Adnominal modification | **ALLOWED** | LIFE attribution compatible | DIRECTIONAL | Indirect but plausible. |
+| Resemblance / similarity / likeness | Truth/fact as object of verb | **VARIABLE** | Not central in AOML | NO ALIGNMENT | No clear mapping. |
+| Resemblance / similarity / likeness | Verification / checking / confirmation | **VARIABLE** | LIFE default method CONSENSUS, admissible OBSERVATION | PARTIAL | Some empirical matching/checking fits, but not cleanly. |
+| Resemblance / similarity / likeness | Revelation / exposure | **INSUFFICIENT DATA** | **REVEAL blocked for LIFE** | NO ALIGNMENT | No empirical basis here. |
+| Resemblance / similarity / likeness | Become / inchoative status change | **VARIABLE** | **LIFE × BECOME = restricted** | MATCH | Good fit. |
+| Resemblance / similarity / likeness | Causative / induced result | **VARIABLE** | **LIFE × CAUSE = restricted** | MATCH | Good fit for “make resemble / render lifelike.” |
+| Resemblance / similarity / likeness | Appearance vs reality framing | **ALLOWED** | **LIFE** strongly compatible | MATCH | Strong fit. |
+| Resemblance / similarity / likeness | Abstract nominalization / quality noun | **ALLOWED** | **LIFE × ABSTR = blocked** | CONFLICT | Empirical matrix allows similarity nouns broadly; AOML blocks ABSTR for LIFE. |
+| Faithfulness to original / source / model | Simple attribution | **VARIABLE** | Could map to AUTH, LIFE, or SINC subregion “faithfulness” | PARTIAL | AOML has no single place for this empirical dimension. |
+| Faithfulness to original / source / model | Negative attribution | **VARIABLE** | Same | PARTIAL | Same reason. |
+| Faithfulness to original / source / model | Adnominal modification | **ALLOWED** | AUTH/LIFE attribution compatible | PARTIAL | Partial only. |
+| Faithfulness to original / source / model | Truth/fact as object of verb | **VARIABLE** | Not central in AOML | NO ALIGNMENT | No clear mapping. |
+| Faithfulness to original / source / model | Verification / checking / confirmation | **ALLOWED** | AUTH provenance and VERIF strongly compatible | MATCH | Strong fit. |
+| Faithfulness to original / source / model | Revelation / exposure | **INSUFFICIENT DATA** | Could involve AUTH/LIFE but not clearly modeled | NO ALIGNMENT | No basis. |
+| Faithfulness to original / source / model | Become / inchoative status change | **VARIABLE** | AUTH/LIFE restricted; SINC restricted | PARTIAL | Partial only. |
+| Faithfulness to original / source / model | Causative / induced result | **VARIABLE** | AUTH positive causation blocked; LIFE causation restricted; SINC causation blocked | PARTIAL | AOML predicts strong restrictions, but empirical matrix leaves this variable. |
+| Faithfulness to original / source / model | Appearance vs reality framing | **ALLOWED** | LIFE and AUTH both relevant | PARTIAL | Partial because the empirical category spans more than one AOML axis. |
+| Faithfulness to original / source / model | Abstract nominalization / quality noun | **VARIABLE** | AUTH ABSTR licensed; LIFE ABSTR blocked; SINC ABSTR licensed | PARTIAL | Mixed prediction because the empirical dimension straddles multiple AOML areas. |
+
+---
+
+## Summary
+
+### Confirmed Patterns
+- **Factual truth + attribution** aligns well with **VER × ATTR**.
+- **Verification/checking/confirmation** aligns strongly with **VERIF** across factual truth, authenticity, conformity, and formal validity.
+- **Revelation/exposure** aligns strongly with AOML’s **provisional REVEAL**, especially for factual truth, falsity, authenticity, and essence.
+- **Authenticity causation asymmetry** is strongly confirmed:
+  - positive “make authentic” blocked
+  - negative “forge/falsify” allowed
+  - this matches **R3 Authenticity Polarity Asymmetry**.
+- **Reliability/trustworthiness causative blocking** aligns strongly with **R1 Dispositional Causation Block**, if reliability is treated as part of **SINC** as AOML does.
+- **Negative becoming is weaker than positive becoming** in truth/falsity domains, matching **R4 Positive Emergence Bias**.
+- **Essence + causative blocked** aligns strongly with **R2 Essence Stability**.
+- **Abstract nominalization** is strongly supported for most empirical dimensions and matches AOML for VER, AUTH, SINC, NORM, VERIF.
+
+### Partial or Conditional Matches
+- **Correctness / rightness / properness** only partially aligns because AOML splits this empirical area across **VER** and **NORM**.
+- **Formal validity / legal-procedural standing** only partially aligns because AOML distributes it across **NORM** and **VERIF**, while the empirical matrix treats it as a distinct dimension.
+- **Conformity / correspondence / matching** only partially aligns because it spans VER, AUTH, NORM, VERIF, and LIFE depending on context.
+- **Credibility / plausibility / convincingness** only partially aligns, mainly with **LIFE** and partly with SINC-adjacent evaluation, but AOML has no dedicated credibility axis.
+- **Faithfulness to original / source / model** only partially aligns because it spans AUTH, LIFE, and SINC-faithfulness.
+- **Negative attribution** generally only partially aligns because AOML models contrast/opposition but not negative attribution as a separate constructional operator.
+- **Adnominal modification** generally aligns only directionally because AOML has no dedicated constructional slot for it.
+
+### Conflicts
+- **Factual truth + causative**:
+  - empirical result: **BLOCKED**
+  - AOML: **VER × CAUSE = restricted**
+  - this is a real conflict in strength.
+- **Authenticity + become/inchoative**:
+  - empirical result: **BLOCKED**
+  - AOML: **AUTH × BECOME = restricted**
+  - empirical matrix is stricter.
+- **Reliability + become/inchoative**:
+  - empirical result: **BLOCKED**
+  - AOML: **SINC × BECOME = restricted**
+  - empirical matrix is stricter.
+- **Essence + become/inchoative**:
+  - empirical result: **VARIABLE**
+  - AOML: **ESS × BECOME = blocked**
+  - empirical matrix is looser.
+- **Credibility/plausibility + abstract nominalization**:
+  - empirical result: **ALLOWED**
+  - if mapped to LIFE, AOML predicts **ABSTR blocked**
+  - conflict suggests LIFE is not a full fit.
+- **Resemblance/similarity + abstract nominalization**:
+  - empirical result: **ALLOWED**
+  - if mapped to LIFE, AOML predicts **ABSTR blocked**
+  - same conflict.
+
+### Unmodeled Empirical Findings
+- The empirical matrix treats **precision / exactness / accuracy of detail** as a robust dimension. AOML has no dedicated primary axis for this; it must be folded into VER or VERIF, with loss.
+- The empirical matrix treats **formal validity / legal-procedural standing** as a robust dimension. AOML distributes this across NORM and VERIF rather than modeling it directly.
+- The empirical matrix treats **conformity / correspondence / matching to facts, rules, source** as a major dimension. AOML has no single axis for this.
+- The empirical matrix treats **reliability** and **credibility** as distinct enough to deserve separate rows. AOML places reliability under SINC and plausibility under LIFE only indirectly.
+- The empirical matrix gives strong weight to **appearance vs reality framing** as a constructional zone. AOML captures parts of this through AUTH/LIFE/REVEAL, but not as an explicit structural dimension.
+- The empirical matrix repeatedly highlights **adnominal modification** as a major cross-linguistic constructional function. AOML does not model this construction type explicitly.
+- The empirical matrix repeatedly highlights **truth/fact as object of verb** as a major cross-linguistic constructional function. AOML captures the semantics but not this constructional prominence.
+
+### Unattested AOML Structures
+- AOML’s **TEMP meta-axis** is not clearly testable from the empirical matrix here. The matrix does not systematically compare temporal-position operators.
+- AOML’s **DEG meta-axis substitution prohibition** is not directly evaluated by the empirical matrix, though scalar negatives like Indonesian **kurang / belum** are relevant indirectly.
+- AOML’s **validation habitats** are only partially supported. The empirical matrix clearly supports verification/provenance distinctions, but does not systematically test inadmissible methods.
+- AOML’s **LIFE × ABSTR blocked** is not supported by the empirical matrix if resemblance/credibility are mapped there, because empirical data allows abstract nouns for similarity and credibility.
+- AOML’s full **target-type ontology** is only partially testable from the empirical matrix; the strongest support is for dispositional causation blocking and authenticity asymmetry.
+
+---
+
+## Theoretical Discussion
+
+### Where AOML appears strongly supported
+AOML is most strongly supported in areas where the empirical matrix shows broad cross-linguistic asymmetries rather than just lexical correspondences.
+
+The strongest support points are:
+
+1. **Verification as a distinct semantic-constructional zone**
+   - The empirical matrix strongly supports a separate area for checking, confirming, establishing, and testing.
+   - This aligns very well with **VERIF** as a distinct axis.
+
+2. **Authenticity asymmetry**
+   - The empirical matrix strongly supports:
+     - checking authenticity,
+     - exposing forgery,
+     - causing falsification,
+     - but not “making something authentic.”
+   - This strongly supports **R3**.
+
+3. **Dispositional causation blocking**
+   - The empirical matrix blocks direct causative and inchoative patterns for reliability/trustworthiness.
+   - This strongly supports **R1**, assuming AOML’s placement of reliability under SINC.
+
+4. **Revelation preference**
+   - The empirical matrix repeatedly shows that truth-related dynamics are often expressed as revelation/exposure rather than simple becoming.
+   - This strongly supports AOML’s provisional **REVEAL** operator.
+
+5. **Essence as non-causable**
+   - The empirical matrix blocks causative essence constructions.
+   - This strongly supports **R2**.
+
+6. **Positive/negative asymmetry in becoming**
+   - The empirical matrix repeatedly shows that negative emergence is weaker or more restricted than positive emergence.
+   - This supports **R4 Positive Emergence Bias**.
+
+### Where AOML may require refinement
+Several empirical findings suggest that AOML’s current partitioning may be too coarse in some areas.
+
+1. **Precision / exactness / accuracy**
+   - Empirically this is a major dimension.
+   - AOML currently has no dedicated axis for it.
+   - Folding it into VER or VERIF loses the distinction between:
+     - truth of propositions,
+     - correctness,
+     - and exactness of detail.
+
+2. **Formal validity**
+   - Empirically this behaves like a major dimension across many languages.
+   - AOML distributes it across NORM and VERIF.
+   - That may be too indirect for the empirical pattern.
+
+3. **Conformity / correspondence / matching**
+   - Empirically this is a major cross-linguistic zone.
+   - AOML has no single place for it.
+   - It gets split across VER, AUTH, NORM, VERIF, and LIFE.
+
+4. **Credibility / plausibility**
+   - Empirically this is distinct from reliability in several languages.
+   - AOML has no dedicated axis for it.
+   - Mapping it to LIFE creates problems, especially because empirical data allows abstract nominalization while LIFE blocks ABSTR.
+
+5. **Resemblance / similarity**
+   - Empirically this is robust and often nominalizable.
+   - Mapping it to LIFE also creates tension with AOML’s blocked ABSTR for LIFE.
+
+### Where empirical findings suggest new dimensions
+Without modifying AOML, the empirical matrix suggests that the following may deserve stronger theoretical attention as possible dimensions or sub-architectures:
+
+- **Precision / exactness / accuracy**
+- **Formal validity / procedural standing**
+- **Conformity / correspondence**
+- **Credibility / plausibility**
+- **Resemblance / similarity**
+
+These are all empirically robust enough that forcing them into existing axes causes loss or conflict.
+
+### Where empirical findings suggest revised constraint strength
+The empirical matrix suggests some AOML restrictions may need recalibration in strength:
+
+- **VER × CAUSE** may be too permissive in AOML; empirically, broad “make true” is more strongly blocked.
+- **AUTH × BECOME** may also be too permissive; empirically, “become genuine/authentic” is more strongly blocked.
+- **SINC × BECOME** may be too permissive if reliability is included there; empirically, becoming reliable is broadly blocked.
+- **ESS × BECOME** may be too strict; empirically, the matrix gives variable rather than fully blocked behavior for essence/true-identity expressions.
+- **LIFE × ABSTR blocked** appears too strong if resemblance and plausibility are housed there, because empirical data supports abstract nouns in those areas.
+
+## Overall assessment
+AOML is most convincing where it models:
+- operator asymmetries,
+- causation restrictions,
+- revelation preference,
+- and target-type effects.
+
+It is less convincing where it must absorb several empirically robust semantic dimensions into broader axes:
+- precision,
+- validity,
+- conformity,
+- credibility,
+- resemblance.
+
+So the empirical matrix supports AOML most strongly as a **constraint architecture over operator behavior**, and less strongly as a complete **inventory of semantic dimensions**.

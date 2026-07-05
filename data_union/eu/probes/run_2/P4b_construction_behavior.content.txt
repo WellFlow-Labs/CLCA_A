@@ -1,0 +1,112 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Basque (eu)
+
+---
+
+## 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Predicate-nominal copular | *Egia da hori.* | Egia da hori. | "That is true." | [CORE] | Standard copular attribution; used across all registers for asserting truth or genuineness. No structural difference between nominal and adjectival bases in this pattern. |
+| Predicate-adjectival copular | *Egiazkoa da agiri hori.* | Egiazkoa da agiri hori. | "That document is genuine." | [CORE] | Equally standard; adjectival bases (*egiazkoa*, *benetakoa*, *sinesgarria*, *zuzena*) participate without restriction. Copula *da* is obligatory throughout. |
+
+**Attested alternates:** Word order is flexible; predicate-before-copula is canonical but subject-initial orders are also attested.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *Ez* + copula negation | *Ez da egia hori.* | Ez da egia hori. | "That is not true." | [CORE] | Standard negation pattern for all copular attributions; *ez* immediately precedes the finite verb *da*. Applies uniformly across the truth-domain vocabulary without restriction. |
+| *Ez* + predicate complex | *Ez da sinesgarria.* | Ez da sinesgarria. | "It is not credible." | [CORE] | Same structural pattern; equally idiomatic. No variation in negation strategy is attested within this construction type. |
+
+**Attested alternates:** Negative particle may precede the entire predicate complex (noted in P4a) but the *ez* + *da* adjacency pattern is the canonical form.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-zko* relational adjective | *Egiazko lekukotasuna* | Egiazko lekukotasuna | "True/genuine testimony" | [CORE] | Pre-nominal attributive; modifier appears in indefinite form (article *-a* dropped). Attested for *egiazko*, *gezurrezko*, *baliozko*, *jatorrizko*, *itxurazko*. |
+| *-ko* relational adjective | *Benetako arazoa* | Benetako arazoa | "The real problem" | [CORE] | Same pre-nominal pattern; head noun carries definiteness and case marking. *Benetako* is fully lexicalized in this attributive function. |
+
+**Attested alternates:** None documented in the data. The pre-nominal indefinite-form pattern is the sole attested strategy for adnominal modification in this domain.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Periphrastic *bihurtu da* | *Egia bihurtu da.* | Egia bihurtu da. | "It has become true / It turned out to be true." | [CORE] | General inchoative strategy; applies broadly with truth-domain nominals and adjectivals as complement. Most productive inchoative pattern in this domain. |
+| Suffixed *-tu* inchoative | *Okertu egin da gauza hori.* | Okertu egin da gauza hori. | "That thing has gone wrong." | [MARGINAL] | Lexically restricted; *okertu* is well-attested but the pattern does not extend freely across the domain. *Zilegitu* is noted as marginal; no *-tu* inchoative from *egia* or *gezurra* is attested. |
+
+**Attested alternates:** Periphrastic *bihurtu* is the productive general strategy. Suffixed *-tu* inchoatives are lexically restricted and cannot be treated as a parallel productive pattern in this domain.
+
+---
+
+## 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| Morphological *-arazi* causative | *Egiaztarazi zion.* | Egiaztarazi zion. | "He/she made him/her verify it / caused it to be verified." | [MARGINAL] | Grammatically productive in Basque generally but relatively low-frequency for truth-domain verbs in the data. No *-arazi* causative from nominal bases (*egia*, *gezurra*) is documented. |
+| Periphrastic *eragin* + infinitive | *Egia esan eragin zion.* | Egia esan eragin zion. | "He/she made him/her tell the truth." | [CORE] | More commonly attested than morphological causative in this domain. *Eragin* and *behartu* + infinitive are the preferred causative strategies for truth-domain expressions. |
+
+**Attested alternates:** *Behartu* + infinitive is noted as a further periphrastic causative strategy alongside *eragin*, though no direct example is given in P4a data.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-tasun* abstract nominal | *Zintzotasuna* | Zintzotasuna | "Honesty, sincerity, integrity" | [CORE] | Primary and fully productive pattern; applies uniformly to all adjectival bases in the data. Attested for *egiazkotasuna*, *benetakotasuna*, *faltsutasuna*, *zuzentasuna*, *zehaztasuna*, *sinesgarritasuna*, *jatortasuna*, *antzekotasuna*, *baliogabetasuna*. |
+| *-tasun* abstract nominal | *Fidagarritasuna* | Fidagarritasuna | "Reliability, trustworthiness" | [CORE] | Same pattern; no restrictions observed across the attested adjectival bases in this domain. |
+
+**Attested alternates:** Secondary pattern: *-pen* suffix derives result-oriented nominals from verbal stems (*egiaztapen*, *frogapen*, *zehaztapen*). This is distinct in meaning (result/outcome) from *-tasun* (abstract property) and is not interchangeable with it.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-ti* agentive nominal | *Gezurtia* | Gezurtia | "The liar" | [CORE] | Fully lexicalized and common for the falsehood domain. Restricted to this side of the domain asymmetry; no parallel *-ti* form for truth-telling is attested. |
+| Periphrastic relative clause | *Egia esaten duena* | Egia esaten duena | "The one who tells the truth" | [CORE] | Standard periphrastic strategy for expressing the truth-telling agent; no single-word agentive form is attested for this function. Character adjectives (*zintzoa*, *jatorra*) serve a related but non-agentive function. |
+
+**Attested alternates:** Character adjectives (*zintzoa*, *jatorra*) are attested as an alternative way to characterize a truth-telling person, but these are property attributions rather than agentive nominals and are not structural alternates of the *-ti* pattern.
+
+---
+
+## 8. VERBAL NOMINALIZATION (action / process)
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-tze* + *-a* verbal noun | *Egiaztatzea* | Egiaztatzea | "The verifying, verification (as process)" | [CORE] | Productive across the verification sub-domain; functions freely as syntactic subject and object. Denotes ongoing process or act, distinct from *-pen* result nominals. |
+| *-tze* + *-a* verbal noun | *Frogatzea* | Frogatzea | "The proving, demonstration (as process)" | [CORE] | Same pattern; equally productive. Attested in subject position (*frogatzea zaila da*) and in genitive/postpositional constructions (*frogatzeko zama*). |
+
+**Attested alternates:** *-pen* result nominals (*egiaztapen*, *frogapen*) are the attested alternate within the nominalization domain, but they denote result/outcome rather than process and are not interchangeable with *-tze* nominals.
+
+---
+
+## 9. PRIVATIVE / NEGATED-PROPERTY CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-gabe* privative | *Baliogabea* | Baliogabea | "Invalid, null, without value" | [CORE] | Productive for nominal roots and verbal stems; attested for *baliogabea*, *egigabea*, *zehaztugabea*, *egiaztatu gabe*. Expresses absence of a property rather than impossibility. |
+| *ezin* impossibility construction | *Frogaezina* | Frogaezina | "Unprovable, impossible to prove" | [CORE] | Specific to verbal roots; expresses impossibility rather than mere absence. Attested for *egiaztaezina*, *frogaezina*. Distinct in meaning from *-gabe* and not interchangeable with it. |
+
+**Attested alternates:** The antonym of *-garri* adjectivals is preferentially formed with *-gaitz* / *-kaitz* rather than *-gabe* (see §10). The two privative strategies (*-gabe* and *ezin*) are not interchangeable: *-gabe* applies to nominal and verbal roots for absence; *ezin* applies to verbal roots for impossibility.
+
+---
+
+## 10. POTENTIAL / WORTHY-OF ADJECTIVAL
+
+| Construction Type | Example | Transliteration | Translation | Naturalness | Usage Notes |
+|---|---|---|---|---|---|
+| *-garri* potential adjectival | *Frogagarria* | Frogagarria | "Provable, demonstrable" | [CORE] | Productive across the epistemic sub-domain; attested for *egiaztagarria*, *frogagarria*, *fidagarria*, *sinesgarria*. Attaches to verbal stems. |
+| *-gaitz* / *-kaitz* negative counterpart | *Fidagaitza* | Fidagaitza | "Unreliable, hard to trust" | [CORE] | Consistent negative counterpart to *-garri* across all attested examples; *-gaitz* / *-kaitz* is the preferred negation strategy for this adjectival type rather than *-gabe*. Attested for *fidagaitza*, *sineskaitza*. |
+
+**Attested alternates:** *Ezin* constructions (*egiaztaezina*, *frogaezina*) are attested as an alternate negative form in the verification sub-domain but express impossibility specifically and are not fully interchangeable with *-gaitz* forms. The *-gaitz* / *-kaitz* pattern is the consistent direct negative counterpart to *-garri* across all attested data.

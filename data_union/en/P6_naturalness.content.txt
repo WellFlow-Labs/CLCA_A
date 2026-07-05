@@ -1,0 +1,328 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: English (en)
+# Source: P1, P1b, P2a, P2b, P3, P4a, P4b, P5
+
+---
+
+## Preliminary Notes on Scope and Method
+
+This step documents how English encodes dynamic truth-related meanings: change of state (becoming true/false/valid/etc.), causation of truth-related states, and stability or persistence of such states. All vocabulary is drawn from the CONTEXT (P1–P5 and P1b). Auxiliary verbs, aspect markers, copulas, and function words are added as needed for grammatical well-formedness.
+
+The analysis treats each truth-domain term separately where behavior differs. Where no common expression exists for a given term or construction type, this is stated explicitly. Patterns are reported from attested data in the CONTEXT; no constructions are invented beyond what the CONTEXT supports.
+
+Three main subsection types are addressed:
+1. **Becoming** — change into a truth-related state
+2. **Causing** — bringing about a truth-related state in something else
+3. **Stability / Persistence** — remaining in or losing a truth-related state
+
+A fourth subsection addresses **dynamic expressions not fitting the above types** that are attested in the CONTEXT.
+
+---
+
+## 1. BECOMING — Change into a Truth-Related State
+
+### 1.1 General Pattern
+
+English has no dedicated morphological inchoative for the truth domain. Change of state is expressed periphrastically. The CONTEXT (P4a §4) identifies four main frames:
+
+- **PROVE + adjective** (evidential inchoative: retrospective confirmation)
+- **TURN OUT TO BE + adjective** (discovery inchoative: often implies surprise)
+- **BECOME + adjective** (general inchoative: grammatical but marginal for most items)
+- **COME TRUE** (fixed idiom: restricted to wishes, predictions, fears)
+
+These frames are not equally available across all truth-domain adjectives. Availability is documented item by item below.
+
+The only fully lexicalized inchoative in the domain is *come true*, which is restricted to *true* with subjects denoting wishes, predictions, or fears. All other items rely on periphrastic constructions (*prove*, *turn out to be*, *become*). This gap is noted explicitly in P4a (Construction 4) and P5 (Opposition 32). The asymmetry between *come true* (lexicalized) and *\*come false* (not attested) is a structural feature of the domain.
+
+---
+
+### 1.2 Item-by-Item Documentation
+
+---
+
+**true**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *true* | *The prediction proved true.* | The prediction turned out to be correct. | [CORE] | Retrospective confirmation; most natural with predictions, suspicions, fears. Documented in P2b §1.5 and P4a §4. |
+| *His fears proved true when the results were announced.* | — | — | [CORE] | Documented in P2b, Item 1.4. Epistemic confirmation of a prior prediction or belief. |
+| TURN OUT TO BE + *true* | *The rumor turned out to be true.* | The rumor was discovered to be accurate. | [CORE] | Discovery frame; implies prior uncertainty; available across registers. |
+| COME TRUE | *Her dream finally came true.* | Her dream was realized. | [CORE] | Fixed idiom; restricted to wishes, dreams, predictions, fears as subject. Not a productive inchoative frame. Documented in P2b §1.1 and P4a §4, §9. |
+| *Winning the award was a dream come true.* | — | — | [CORE] | Nominalized form of the same construction. Documented in P2b, Item 1.15. |
+| BECOME + *true* | *The prediction became true.* | The prediction became accurate. | [MARGINAL] | Grammatical but uncommon; *prove true* and *turn out to be true* are strongly preferred. Documented in P4a §4 as marginal. |
+| *prove true* | *His suspicions proved true.* | — | [CORE] | Periphrastic inchoative expressing confirmation by events or evidence. Documented in P1b (1.16) and P4a (Construction 4). *Prove* here functions as a copular verb of result rather than an agentive verb. |
+| *hold true* | *This principle holds true in all contexts.* | — | [CORE] | Expresses the continuation or extension of a truth-domain state to new cases rather than a change of state. Documented in P1b (1.15). This is a stability expression rather than a strict inchoative; see Section 3 below. |
+
+**Paradigm gap:** No single-word inchoative verb meaning *to become true* exists in English. The periphrastic strategies above are the only attested options.
+
+---
+
+**false**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *false* | *The prediction proved false within a year.* | A prior claim is shown not to correspond to the facts. | [CORE] | Epistemic disconfirmation. Parallel to *prove true*. Documented in P2b, Item 2.6 and P4b. |
+| *The hypothesis proved false.* | — | — | [CORE] | Documented in P4a (Construction 4) and P5 (Opposition 32). Parallel to *prove true* but not lexicalized. |
+| TURN OUT TO BE + *false* | *The account turned out to be false.* | — | [CORE] | General periphrastic inchoative. Register-neutral. |
+| *ring false* | *The explanation rang false from the start.* | — | [CORE] | Expresses the impression of falseness upon hearing or reading rather than a change of state. Documented in P2b (C10.15) and P5 (Opposition 31). This is an evaluative expression rather than a strict inchoative. |
+| *ring false* | *The official explanation rang false to many observers.* | The explanation comes to be perceived as inauthentic. | [CORE] | The past tense (*rang*) marks the shift in evaluation. Documented in P2b Item 2.7 and P4b. P4b notes this construction is restricted to informal and journalistic registers. |
+| *strike a false note* | *His apology struck a false note with the audience.* | The apology comes to be perceived as discordant or insincere at the moment of delivery. | [CORE] | Documented in P2b Item 2.3. |
+
+**Paradigm gap:** No lexicalized inchoative parallel to *come true* exists for *false*. *\*Come false* is not attested.
+
+---
+
+**accurate**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *accurate* | *The forecast proved accurate.* | The forecast turned out to be correct. | [CORE] | Retrospective confirmation; natural with forecasts, descriptions, measurements. Attested in formal and journalistic registers. Parallel to *prove true*. |
+| *The prediction proved accurate.* | — | — | [CORE] | Documented in P1–P5 data. |
+| TURN OUT TO BE + *accurate* | *The description turned out to be accurate.* | The description was discovered to be correct. | [CORE] | Discovery frame; available across registers. Standard construction; no lexicalized or dedicated form exists. |
+| BECOME + *accurate* | *The model became more accurate over time.* | The model improved in accuracy over time. | [CORE] | Unlike most truth-domain adjectives, *accurate* accepts *become* naturally in contexts of gradual improvement (scientific models, instruments, predictions). The comparative (*more accurate*) facilitates this. |
+
+**Paradigm gap:** No lexicalized inchoative exists for *accurate*. No dedicated verb meaning *to become accurate* is attested in the P1–P5 data.
+
+---
+
+**correct**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *correct* | *His assumption proved correct.* | His assumption turned out to be right. | [CORE] | Retrospective confirmation; very natural with assumptions, predictions, diagnoses. |
+| *His prediction proved correct.* | — | — | [CORE] | Documented in P2b, Item 6.6. Parallel to *prove true*; used where a definite right answer is at issue. |
+| TURN OUT TO BE + *correct* | *The answer turned out to be correct.* | The answer was found to be right. | [CORE] | Discovery frame; common in educational and analytical contexts. |
+| STAND CORRECTED | *I stand corrected.* | I acknowledge that I was wrong and accept the correction. | [CORE] | Fixed phrase; encodes a change from an incorrect to a corrected state in the speaker. Documented in P2b §7.7 and P4a §9. Not a productive inchoative but a conventionalized acknowledgment of correction. Also documented in P2b (C7.4): the subject acknowledges having been shown to be in error and accepts the correction. This is a reflexive or passive causative construction in which the subject accepts the result of being corrected. |
+| *I stand corrected — the date was in fact 1847, not 1874.* | — | — | [CORE] | Documented in P2b, Item 6.4. |
+
+---
+
+**valid**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *valid* | *The argument proved valid on closer inspection.* | The argument was found to be valid. | [CORE] | Retrospective confirmation; natural in logical and legal contexts. |
+| TURN OUT TO BE + *valid* | *The contract turned out to be valid.* | The contract was discovered to have legal force. | [CORE] | Discovery frame; natural in legal and administrative contexts. |
+| REMAIN + *valid* | *The contract remains valid until December.* | The contract continues to have legal force until December. | [CORE] | Stability/persistence frame; documented in P2b §6.6. See §3 below. |
+| BECOME + *invalid* | *The passport became invalid after the expiry date.* | The passport lost its legal force after the expiry date. | [CORE] | Change into the negated state; *become invalid* is more natural than *become valid* because validity is typically conferred by an act (see §2 below) rather than arising spontaneously. |
+| *still valid* | *The argument is still valid* / *The contract is still valid.* | — | [CORE] | Expresses that a legal or logical validity state persists despite the passage of time or changed circumstances. Documented in P2b (C6.4). |
+
+**Note:** *Become valid* is grammatical but uncommon; validity is typically conferred by an external act (*validate*, *authenticate*) rather than arising spontaneously. *Become invalid* is more natural because loss of validity can occur through the passage of time or changed circumstances without a deliberate act. In legal contexts, instruments and acts are described as *taking effect* or *coming into force* rather than *becoming valid*, though these are not vocabulary items from the P1–P5 set.
+
+**Paradigm gap:** No lexicalized or conventionalized inchoative for *valid* is attested in the data.
+
+---
+
+**authentic / genuine**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *authentic* | *The painting proved authentic after testing.* | The painting was established as genuine after testing. | [CORE] | Retrospective confirmation; natural in archival, legal, and art-world contexts. Documented in P2b §5.5. |
+| *The document proved genuine upon examination.* | — | — | [CORE] | Authenticity confirmed through investigation. Documented in P2b, Item 3.4. |
+| TURN OUT TO BE + *genuine* | *The document turned out to be genuine.* | The document was discovered to be what it claimed to be. | [CORE] | Discovery frame; natural in legal and investigative contexts. |
+| PROVE + *genuine* | *Her concern proved genuine.* | Her concern was found to be sincere. | [CORE] | Retrospective confirmation; natural when applied to emotions and intentions as well as objects. |
+| *The painting proved authentic after extensive testing.* | — | — | [CORE] | Authenticity confirmed through technical analysis. Documented in P2b, Item 4.3. |
+| BECOME + *authentic* | *The performance became more authentic as the actor relaxed.* | The performance grew more genuine as the actor relaxed. | [MARGINAL] | Grammatical in aesthetic and existential contexts; uncommon. The comparative (*more authentic*) facilitates the construction. |
+
+**Paradigm gap:** No inchoative expressions for *genuine* or *authentic* are attested in the P1–P5 data beyond the above. The concepts of genuineness and authenticity are not typically framed as states that things enter over time; they are treated as properties that either obtain or do not from the outset. The nearest attested construction is the causative *authenticate* (see Section 2 below), which describes the act of establishing that something is genuine, not the thing itself becoming genuine. No expression meaning *X becomes genuine* or *X becomes authentic* through spontaneous change is attested; this gap appears to reflect a conceptual constraint.
+
+---
+
+**credible**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *credible* | *The witness proved credible under cross-examination.* | The witness was found to be worthy of belief under cross-examination. | [CORE] | Retrospective confirmation; natural in legal contexts. |
+| TURN OUT TO BE + *credible* | *The accusation turned out to be credible.* | The accusation was found to be worthy of belief. | [CORE] | Discovery frame; natural in legal and journalistic contexts. |
+| BECOME + *credible* | *The theory became credible as evidence accumulated.* | The theory grew worthy of belief as evidence accumulated. | [CORE] | *Credible* accepts *become* naturally in contexts of gradual epistemic change; the accumulation of evidence can make a claim progressively more credible. |
+| *gain credibility* | *The theory gained credibility as evidence accumulated.* | — | [CORE] | An attested periphrastic construction in which a person or claim acquires believability over time. This is a nominal construction using the abstract noun *credibility* rather than the adjective *credible* directly. |
+| LOSE + *credibility* | *The government lost credibility after the scandal.* | The government ceased to be worthy of belief after the scandal. | [CORE] | Change out of the credible state; uses the nominalization *credibility* rather than the adjective. Documented in P2b §12.1 (credibility gap). |
+| *become more plausible* | *The scenario became more plausible as details emerged.* | — | [CORE] | Grammatical and attested in analytical discourse. |
+
+**Paradigm gap:** No lexicalized inchoative for *credible* or *plausible* is attested. The nominal construction *gain credibility* is the closest conventionalized expression for *credible*.
+
+---
+
+**legitimate**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *legitimate* | *The business proved legitimate after investigation.* | The business was found to be lawful after investigation. | [CORE] | Retrospective confirmation; natural in legal and investigative contexts. |
+| BECOME + *legitimate* | *The practice gradually became legitimate as laws changed.* | The practice gradually acquired legal status as laws changed. | [CORE] | *Legitimate* accepts *become* naturally in contexts of gradual legal or social change; legitimacy can accrue over time. Grammatical and attested in political and social discourse, but not a fixed or lexicalized expression in the P1–P5 data. |
+| BECOME + *illegitimate* | *The government became illegitimate after the coup.* | The government lost its legal standing after the coup. | [CORE] | Change into the negated state; natural in political science contexts. |
+| *delegitimize* | *The campaign sought to delegitimize the opposition.* | The opposition moves from a state of recognized legitimacy toward a state of questioned or denied legitimacy. | [CORE] | Documented in P2a Item 14.9. The verb *delegitimize* describes the process by which something comes to lose its legitimate status. |
+
+**Paradigm gap:** No dedicated inchoative for *legitimate* is attested beyond the general periphrastic *become legitimate*. The causative *legitimize* (P2a.19.6) implies a prior state of not being legitimate and a transition to legitimacy, but the inchoative perspective (from the subject's point of view) is not separately lexicalized.
+
+---
+
+**sincere**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *sincere* | *His apology proved sincere over time.* | His apology was found to be genuine over time. | [CORE] | Retrospective confirmation; natural when sincerity is demonstrated through subsequent behavior. |
+| TURN OUT TO BE + *sincere* | *Her offer turned out to be sincere.* | Her offer was discovered to be genuine. | [CORE] | Discovery frame; natural in interpersonal contexts. |
+| BECOME + *insincere* | *His praise became insincere as the relationship deteriorated.* | His praise grew hollow as the relationship deteriorated. | [CORE] | Change into the negated state; *become insincere* is more natural than *become sincere* because sincerity is typically a baseline state that can be lost rather than acquired. |
+
+---
+
+**plausible**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| BECOME + *plausible* | *The scenario became more plausible as details emerged.* | The scenario grew more believable as details emerged. | [CORE] | *Plausible* accepts *become* naturally; plausibility is a graded property that can increase or decrease as evidence accumulates. The comparative (*more plausible*) is very natural here. |
+| BECOME + *implausible* | *The alibi became increasingly implausible.* | The alibi grew progressively harder to believe. | [CORE] | Change into the negated state; equally natural with the comparative (*increasingly implausible*). |
+| SEEM + *plausible* | *The explanation seemed plausible at first.* | The explanation appeared reasonable at first. | [CORE] | Not strictly inchoative but documents the epistemic-appearance frame that is central to *plausible*; *seem* is the most natural copula substitute for this adjective. |
+
+---
+
+**fraudulent / fake / counterfeit / spurious / bogus**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *fraudulent* | *The claim proved fraudulent after investigation.* | The claim was found to be dishonest after investigation. | [CORE] | Retrospective confirmation; natural in legal and journalistic contexts. |
+| TURN OUT TO BE + *fake* | *The painting turned out to be fake.* | The painting was discovered to be not genuine. | [CORE] | Discovery frame; *fake* is the most natural of the deception terms in this frame due to its informal register. |
+| PROVE + *spurious* | *The attribution proved spurious on examination.* | The attribution was found to be without genuine basis on examination. | [CORE] | Retrospective confirmation; natural in academic and archival contexts. |
+| TURN OUT TO BE + *bogus* | *The credentials turned out to be bogus.* | The credentials were discovered to be fraudulent. | [CORE] | Discovery frame; informal register. |
+| TURN OUT TO BE + *counterfeit* | *The banknotes turned out to be counterfeit.* | The banknotes were discovered to be fraudulently produced. | [CORE] | Discovery frame; natural in legal and financial contexts. |
+
+**Note:** No *become + fake/fraudulent/counterfeit/spurious/bogus* constructions are attested as natural in the CONTEXT. These properties are typically discovered rather than acquired gradually; the discovery frame (*turn out to be*, *prove*) is strongly preferred over the inchoative *become* for this cluster.
+
+---
+
+**apocryphal**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *apocryphal* | *The story proved apocryphal on investigation.* | The story was found to be of doubtful authenticity on investigation. | [CORE] | Retrospective confirmation; natural in historical and journalistic contexts. |
+| TURN OUT TO BE + *apocryphal* | *The anecdote turned out to be apocryphal.* | The anecdote was discovered to be of doubtful authenticity. | [CORE] | Discovery frame; natural in historical contexts. |
+| BECOME + *apocryphal* | *Over time, the story became apocryphal.* | Over time, the story acquired the status of a tale of doubtful authenticity. | [MARGINAL] | Grammatical but uncommon; *apocryphal* status is typically assigned retrospectively rather than acquired gradually. |
+
+---
+
+**sound** (epistemic/logical sense)
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *sound* | *The reasoning proved sound under scrutiny.* | The reasoning was found to be well-founded under scrutiny. | [CORE] | Retrospective confirmation; natural in logical and analytical contexts. |
+| TURN OUT TO BE + *unsound* | *The argument turned out to be unsound.* | The argument was discovered to be not well-founded. | [CORE] | Discovery frame; natural in logical and academic contexts. |
+
+---
+
+**veracious / veracity**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *veracious* | *The witness proved veracious throughout the proceedings.* | The witness was found to be truthful throughout the proceedings. | [CORE] | Retrospective confirmation; formal and legal register. |
+| QUESTION + *veracity* | *Her veracity was questioned after the inconsistency emerged.* | Her truthfulness was doubted after the inconsistency emerged. | [CORE] | Not strictly inchoative but documents the dynamic of moving from an assumed state of veracity to a questioned one. Documented in P2b §14.2. |
+
+---
+
+**faithful**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| PROVE + *faithful* | *The translation proved faithful to the original.* | The translation was found to accurately represent the original. | [CORE] | Retrospective confirmation; natural in translation and reproduction contexts. |
+| REMAIN + *faithful* | *She remained faithful to the original text throughout.* | She continued to accurately represent the original text throughout. | [CORE] | Stability frame; see §3 below. |
+| BECOME + *unfaithful* | *The adaptation became increasingly unfaithful to the source.* | The adaptation grew progressively less accurate to the source. | [CORE] | Change into the negated state; natural in translation and adaptation contexts. |
+
+---
+
+**bona fides**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *establish one's bona fides* | *The new director quickly established her bona fides by publishing a series of well-received papers.* | The subject moves from an unestablished to an established credential state. | [CORE] | Documented in P2b Item 26.1. This construction describes the process by which a person comes to be recognized as genuinely credentialed or acting in good faith. It is specific to *bona fides* and does not generalize to other P1 items. |
+
+---
+
+**canonical**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *canonize* | *The work has been canonized as a masterpiece of the genre.* | Passive inchoative: the work comes to occupy canonical status through a process of recognition. | [CORE] | Documented in P2a Item 30.3 and P2b. The verb *canonize* describes the process by which a text, work, or person comes to be recognized as canonical or authoritative. It is specific to the *canonical* cluster. |
+
+---
+
+### 1.3 Items for Which No Inchoative Construction Is Attested
+
+The following items from P1 have no attested inchoative construction in the CONTEXT: *veridical*, *bona fide* (adjective), *ersatz*, *pseudo-*, *specious*. For *veridical* and *veracious*, this reflects their restricted register (philosophical and literary respectively) and the absence of dedicated verbal forms. For *bona fide* and *ersatz*, this reflects their status as fixed expressions or loanwords with limited morphological integration. For *pseudo-*, this reflects its status as a bound prefix. For *specious*, no inchoative construction is documented in the CONTEXT.
+
+---
+
+## 2. CAUSING — Bringing About a Truth-Related State
+
+### 2.1 General Pattern
+
+As documented in P4a Section 5, English has no productive morphological causative for this domain. Causative meaning is expressed through dedicated causative verbs derived from the domain (*verify*, *authenticate*, *validate*, *falsify*, *legitimize*, *invalidate*, *delegitimize*, *canonize*, *correct*) or periphrastically through *make* + NP + ADJ. The dedicated verbs are the primary strategy; *make* + NP + ADJ is grammatically available but less domain-specific.
+
+The P1–P5 data shows a structural asymmetry in the causative domain. Dedicated causative verbs exist for both directions of change:
+
+- **Toward truth/genuineness/validity:** *verify*, *validate*, *authenticate*, *legitimize*, *correct*
+- **Away from truth/genuineness/validity:** *falsify*, *invalidate*, *delegitimize*, *fabricate*, *counterfeit*
+
+However, the negative-direction verbs (*falsify*, *fabricate*, *counterfeit*) are more strongly associated with deliberate agency and intent than the positive-direction verbs (*verify*, *validate*), which can describe both agentive acts and impersonal processes (*the evidence verified the claim* vs. *the evidence falsified the claim* — both grammatical, but *falsify* more strongly implies human agency in the P1–P5 data).
+
+---
+
+### 2.2 Item-by-Item Documentation
+
+---
+
+**true / truth**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| No derivational causative | — | — | — | No *\*trueify*, *\*truify*, or *\*truthify* is attested. The causative gap for *true* is documented in P2a. |
+| Periphrastic: MAKE + NP + *true* | *Nothing can make a false statement true.* | Nothing can cause a false statement to be true. | [CORE] | Grammatical in philosophical and logical discourse; not a common everyday construction. |
+| VERIFY + NP | *The auditors verified the figures.* | The auditors established the figures as accurate/true. | [CORE] | *Verify* functions as a causative-evidential verb for truth/accuracy; documented throughout P1b Root 1 and P2b. |
+| CONFIRM + NP | *The tests confirmed the hypothesis.* | The tests established the hypothesis as correct. | [CORE] | *Confirm* is a near-synonymous causative-evidential verb; attested throughout the CONTEXT as a collocate. |
+
+---
+
+**verify / verification / cross-verify**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| *verify* | *They verified the claim.* | — | [CORE] | The agent confirms that something is true or genuine. Documented as a causative verb in P4a (Construction 5). Applies to claims, identities, and data. Documented in P1b.2.1. |
+| *verify* | *The results verified the hypothesis.* | — | [CORE] | Documented in P1b.2.1. |
+| *verify* | *Please verify your email address.* | Causing an address to be confirmed as genuine. | [CORE] | Documented in P1b, Item 1.1. |
+| *verify* | *Verify the figures against the original records.* | Causing figures to be confirmed by comparison with an authoritative source. | [CORE] | Documented in P1b, Item 1.14. |
+| *verify* | *The laboratory verified the results.* | The laboratory causes the results to be established as accurate. | [CORE] | Documented in P4a, Section 5; P4b. Described as "the most general causative verb in the domain" (P4b). |
+| *verification* | *The verification of the account took three days.* | — | [CORE] | Nominalization of the process. Documented in P1b.2.2. |
+| *cross-verify* | *They cross-verified the information against multiple sources.* | — | [CORE] | Expresses verification through multiple independent checks. Documented in P1b.2.20. |
+
+---
+
+**accurate / accuracy**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| No derivational causative | — | — | — | No *\*accuratize* or *\*accuratify* is attested. The causative gap is documented in P2a. |
+| VERIFY + NP (for accuracy) | *The editor verified the accuracy of the figures.* | The editor established that the figures were accurate. | [CORE] | *Verify* serves as the primary causative-evidential verb for accuracy; documented in P1b Root 1. |
+| CORRECT + NP | *The teacher corrected the student's answer.* | The teacher changed the student's answer to make it correct. | [CORE] | *Correct* as a verb is a causative that brings about the state of correctness; documented in P2a (base form *correct*). |
+
+---
+
+**correct**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| CORRECT + NP (verbal causative) | *She corrected the manuscript.* | She changed the manuscript to make it correct. | [CORE] | The verb *correct* is itself a causative; documented in P2a. Highly productive across registers. |
+| *correct* | *The editor corrected the error.* | — | [CORE] | The agent rectifies an inaccuracy. Documented in P4a (Construction 5) and P3 (Group 9). |
+| *correct* | *She corrected the false impression.* | — | [CORE] | Documented in P4a (Construction 5) and P3 (Group 9). |
+| *correction* | *The newspaper issued a correction.* | — | [CORE] | Nominalization. Documented in P2a.7.6. |
+| *set the record straight* | *He set the record straight about what had happened.* | — | [CORE] | The agent corrects a false or misleading account that has been circulating. Documented in P3 (Group 9) and P2b (C8.5). |
+| STAND CORRECTED | *I stand corrected.* | I acknowledge that I have been made correct (i.e., my error has been corrected). | [CORE] | The passive-resultative construction encodes the state resulting from the causative act of correction. Documented in P2b §7.7. |
+
+---
+
+**valid / validity**
+
+| Construction | Example | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| VALIDATE + NP | *The committee validated the election results.* | The committee established the election results as valid. | [CORE] | Derivational causative; documented in P2a. Productive in legal, scientific, and administrative contexts. |
+| *validate* | *The results were validated by an independent team.* | The team causes the results to be recognized as valid. | [CORE] | Documented in P2a Item 7.2 and P4a Section 5. |
+| *validate* | *The test validated the hypothesis.* | — | [CORE] | The agent confirms that something meets required standards or has logical or legal force. Documented in P4a (Construction 5). |
+| *validation* | *The validation of the instrument took six months.* | — | [CORE] | Nominalization. Documented in P2a.6.4. |
+| INVALIDATE + NP | *The new evidence invalidated the earlier conclusion.* | The new evidence caused the earlier conclusion to lose its validity. | [CORE] | Derivational causative

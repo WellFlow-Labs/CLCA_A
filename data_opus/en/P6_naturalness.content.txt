@@ -1,0 +1,225 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+## Language: English (en)
+
+All vocabulary below is drawn strictly from CONTEXT (P1–P5). Auxiliaries, aspect markers, and function words are added as permitted. Each truth-related term is treated separately where its behavior differs.
+
+---
+
+## A. INCHOATIVE — "X becomes [truth-related state]"
+
+### A1. come true (actualization sense)
+**Pattern:** SUBJECT (wish/prediction) + *come* + *true*
+**Example:** A dream comes true. / Her prediction came true.
+**Translation:** a wish/prediction becomes realized
+**Notes:** Fixed inchoative, the single most established "become" construction in the domain (P2b, P4a #4). Crucially, the *true* here carries the **realization/actualization** sense, NOT statement-truth — flagged peripheral in P1b and P3. It does not generalize to "*the statement came true" meaning "became factually correct."
+**Status:** [CORE]
+
+### A2. get real (informal inchoative imperative)
+**Pattern:** *get* + *real*
+**Example:** Get real!
+**Translation:** become realistic; stop deceiving yourself
+**Notes:** Fixed informal imperative (P2b, P4a #4). Restricted to imperative/exhortative use; "*she got real" in the inchoative "became realistic" sense is not the established reading.
+**Status:** [CORE]
+
+### A3. ring true / ring false (emergence of apparent state)
+**Pattern:** SUBJECT (statement) + *ring* + *true* / *false*
+**Example:** Her story rings true. / His excuse rang false.
+**Translation:** comes to seem genuine / comes to seem insincere
+**Notes:** Perception-copula construction (P2a, P2b, P4a #1, P5 Opp. 25). Marks **apparent** rather than asserted truth; closer to "presents as" than to a true change of state, but it is the nearest dynamic/emergent expression for seeming-truth.
+**Status:** [CORE]
+
+### A4. General copular inchoative — "become true / become false / become valid"
+**Pattern:** SUBJECT + *become* + truth-domain ADJ
+**Example:** The claim became false (once circumstances changed).
+**Translation:** X enters the state of being true/false/valid
+**Notes:** P4a/P4b explicitly rate general *become true/false* as **compositional but uncommon** [MARGINAL]. It is grammatical and uses only CONTEXT vocabulary, but no fixed idiom supports it. Latinate items (*become valid*, *become legitimate*) likewise occur only as ordinary compositional combinations.
+**Status:** [MARGINAL]
+
+### A5. Other native core items — "become right"
+**Pattern:** SUBJECT + *come* / *put* + *right*
+**Example:** Things came right in the end. / put right.
+**Notes:** *come right* (matters resolving favorably) and *put/set right* (P2b) exist, but these draw on the **good-order/remedial** sense of *right*, not factual correctness. No common inchoative exists for *right* in the "become factually correct" sense beyond compositional *become right*.
+**Status:** [MARGINAL] (good-order sense [CORE] but peripheral to domain)
+
+### A6. NO COMMON EXPRESSION — most adjectives
+For **accurate, genuine, authentic, sincere, honest, faithful, proper, reliable, credible, plausible, legitimate, exact, trustworthy**, no fixed or idiomatic inchoative ("become accurate," "become honest") exists. Only compositional *become* + ADJ is available. **No common dedicated expression exists.**
+
+---
+
+## B. INCHOATIVE TOWARD OPPOSED STATE — "X becomes [non-truth / opposed state]"
+
+### B1. ring false / strike a false note
+**Pattern:** SUBJECT + *ring* + *false* / *strike a false note*
+**Example:** His apology rang false.
+**Translation:** comes to seem insincere/inauthentic
+**Notes:** The negative-pole counterpart of A3 (P2b, P5 Opp. 25). The only established **emergent-toward-opposed-state** idiom in the domain.
+**Status:** [CORE]
+
+### B2. show one's true colors (revelation of concealed real state)
+**Pattern:** SUBJECT + *show* + *true colors*
+**Example:** He showed his true colors.
+**Translation:** reveals one's real (often worse) character
+**Notes:** Idiom (P1b, P2b, P3 Group 5). Encodes **revelation** of a pre-existing genuine state rather than a change into it — a dynamic of disclosure, not transformation. Uses the **loyalty/character** sense of *true*.
+**Status:** [CORE]
+
+### B3. General compositional — "become false / become untrue / become fake"
+**Pattern:** SUBJECT + *become* / *turn* + opposed ADJ
+**Example:** The statement became untrue once the facts changed.
+**Notes:** Compositional only; no fixed idiom. Suppletive *false/fake* (P4a/P4b, P5 Opp. 27) is preferred over prefixed *untrue/unreal* in such predication, but the inchoative itself remains uncommon.
+**Status:** [MARGINAL]
+
+### B4. NO COMMON EXPRESSION — opposed-state inchoatives
+For becoming *dishonest, insincere, inaccurate, invalid, illegitimate, improper, unreliable, implausible, unfaithful*, **no common dedicated inchoative expression exists** — only compositional *become* + negated ADJ.
+
+---
+
+## C. CAUSATIVE — "Y causes X to be [truth-related state]"
+
+This is the **richest dynamic field** in the domain, via the suffixal causative layer (P2a, P4a #5, P4b #5).
+
+### C1. Suffixal causatives toward a truth-state
+**Pattern:** Y + CAUSATIVE-VERB + X
+| Verb | Base | Meaning | Status |
+|---|---|---|---|
+| verify | *ver-* (true) | cause X to be confirmed true | [CORE] |
+| validate | *valid* | cause X to be (recognized as) valid | [CORE] |
+| authenticate | *authentic* | cause X to be confirmed genuine | [CORE] |
+| legitimize / legitimise | *legitimate* | cause X to be legitimate | [CORE] |
+| rectify | *rect-/correct* | cause X to be put right | [CORE] |
+| justify | *just* | cause X to be shown right/warranted | [CORE] |
+| correct (v.) | *correct* | cause X to be free from error | [CORE] |
+
+**Example:** The lab verified the result. / The notary authenticated the document. / She rectified the error.
+**Notes:** This productive layer is the **default and most natural** way English encodes "causing a truth-state." Each verb is lexically tied to a specific Latinate base; there is no single general causative.
+**Status:** [CORE]
+
+### C2. Suffixal causatives toward an opposed state
+**Pattern:** Y + CAUSATIVE-VERB + X
+| Verb | Base | Meaning | Status |
+|---|---|---|---|
+| falsify | *false* | cause X to be false / tamper with | [CORE] |
+| invalidate | *invalid* | cause X to cease to be valid | [CORE] |
+| forge | *forged* | cause a fraudulent (fake) X to exist | [CORE] |
+| counterfeit (v.) | *counterfeit* | cause a fraudulent copy of X | [CORE] |
+| fake (v.) | *fake* | cause a feigned X | [CORE] |
+
+**Example:** He falsified the records. / The new evidence invalidated her claim. / They forged the signature.
+**Notes:** Robust negative-pole causative set. Note **asymmetry**: *falsify* means both "make false" and "tamper with," while there is no single verb "*truify" — the positive side relies on *verify/validate/authenticate* (different bases). Causation toward fakeness uses fabrication verbs (*forge, counterfeit, fake*) which **create a fake object** rather than convert an existing true one.
+**Status:** [CORE]
+
+### C3. Periphrastic causative — "make / render X [ADJ]"
+**Pattern:** Y + *make* / *render* + X + truth-domain ADJ
+**Example:** This makes the argument valid. / New facts rendered the claim false.
+**Translation:** Y causes X to be in the given state
+**Notes:** P4a/P4b #5: native core adjectives (*true, real, right*) **lack a simple causative verb** and must use periphrasis. "*Make true*" / "*make real*" / "*make right*" are the established causatives for these high-frequency native items. *make right* additionally carries the remedial/good-order sense.
+**Status:** [CORE] (the obligatory strategy for native core; productive generally)
+
+### C4. Particle causative — "true up"
+**Pattern:** Y + *true up* + X
+**Example:** true up the wheel
+**Translation:** cause X to be brought into (physical) alignment
+**Notes:** P1b, P2b, P4a #5. Causative of the **alignment/straightness** sense of *true*, peripheral to the truth domain but the only single-word causative built on native *true*.
+**Status:** [CORE] (peripheral sense)
+
+### C5. NO SIMPLE CAUSATIVE — native core truth adjectives
+There is **no simple lexical causative verb** for *true* ("*to true a statement" = make it true), *real* ("*to real"), or *right* in the factual sense. **No common single-word expression exists**; periphrastic *make* + ADJ (C3) is obligatory.
+
+---
+
+## D. RESULTATIVE / DEVERBAL OUTCOME OF CAUSATION
+
+### D1. Nominalized results of causative acts
+**Pattern:** CAUSATIVE-VERB → result/process NOUN
+| Noun | Meaning | Status |
+|---|---|---|
+| verification | the act/result of confirming truth | [CORE] |
+| validation | the act/result of validating | [CORE] |
+| authentication | the act/result of confirming genuineness | [CORE] |
+| falsification | the act/result of making false / tampering | [CORE] |
+| correction | the act/result of correcting | [CORE] |
+| justification | the act/result/grounds of justifying | [CORE] |
+| forgery | the fraudulent result of forging | [CORE] |
+| legitimation | the act of legitimizing | [MARGINAL] |
+
+**Notes:** These nominalize the dynamic event (P2a). They denote either the **process** (verification underway) or the **result** (a forgery as object). Strong Latinate productivity; the native core (*true, real, right*) yields no parallel causation-result noun.
+**Status:** [CORE] (Latinate); native gap.
+
+---
+
+## E. STABILITY / PERSISTENCE EXPRESSIONS
+
+### E1. tried and true / tried and tested
+**Pattern:** fixed binomial
+**Example:** a tried and true method
+**Translation:** proven reliable through repeated use (stable over time)
+**Notes:** Fixed binomial (P1b, P2b) encoding **stability/persistence of reliability**. The closest the domain comes to expressing endured, time-tested constancy.
+**Status:** [CORE]
+
+### E2. true to form / true to type / true to one's word
+**Pattern:** *true to* + NOUN
+**Example:** True to form, he was late.
+**Translation:** consistent with the expected/established nature
+**Notes:** Productive *true to* frame (P1b, P2b, P3 Group 5). Encodes **constancy/consistency** with a prior pattern — a stability notion, drawing on the fidelity sense of *true*.
+**Status:** [CORE]
+
+### E3. ring true (persistence of credibility) / stand
+**Pattern:** SUBJECT + *stand* (e.g., "the claim stands")
+**Notes:** From CONTEXT, *stand corrected* (P2b) exists but means "acknowledge error," not persistence. No CONTEXT-supported general "the claim stands / remains true" idiom is documented beyond compositional *remain true/valid*. Compositional *remain true* / *stay true* / *hold true* are natural but not separately attested as fixed units in CONTEXT.
+**Status:** [MARGINAL] (compositional only within CONTEXT)
+
+### E4. keep it real / stay true (persistence of authenticity)
+**Pattern:** *keep* + *it* + *real* / *stay* + *true*
+**Example:** Keep it real.
+**Translation:** remain authentic/honest over time
+**Notes:** *keep it real* is an attested fixed imperative (P2b) encoding **maintenance** of an authentic state. *stay true* draws on the same *true to* fidelity sense.
+**Status:** [CORE] (*keep it real*); [MARGINAL] (*stay true* as fixed unit)
+
+---
+
+## F. REVELATION / DISCLOSURE DYNAMICS (truth emerging into view)
+
+### F1. show / reveal one's true colors
+Covered at B2 — disclosure of a pre-existing genuine state. [CORE]
+
+### F2. the truth comes out / the moment of truth
+**Pattern:** *the truth* + *come out*; *moment of truth*
+**Example:** The truth came out. / This is the moment of truth.
+**Notes:** *the truth comes out* is compositional but highly conventional; CONTEXT attests *moment of truth* (P1b, P2b, P3) as a fixed idiom for a **decisive testing point** — a dynamic crisis sense rather than a change-of-truth-value. *come out* in the "be revealed" sense is not separately documented as a fixed unit in CONTEXT, so treat as compositional.
+**Status:** *moment of truth* [CORE]; *truth comes out* [MARGINAL] (compositional within CONTEXT)
+
+---
+
+## SUMMARY TABLE
+
+| Dynamic Type | Best Expression(s) | Lexical Base | Status |
+|---|---|---|---|
+| Inchoative → truth-state | *come true* (actualization); *ring true* (apparent) | native *true* | [CORE] |
+| Inchoative → opposed state | *ring false* | native *false* | [CORE] |
+| General become + ADJ | *become true/false/valid* | any | [MARGINAL] |
+| Causative → truth-state (Latinate) | *verify, validate, authenticate, legitimize, rectify, justify, correct* | Latinate bases | [CORE] |
+| Causative → opposed state (Latinate) | *falsify, invalidate, forge, counterfeit, fake* | Latinate bases | [CORE] |
+| Causative, native core | *make true/real/right* (periphrasis obligatory) | native | [CORE] |
+| Causative, alignment sense | *true up* | native *true* | [CORE] (peripheral) |
+| Causation-result noun | *verification, validation, falsification, forgery…* | Latinate | [CORE] |
+| Stability / persistence | *tried and true*, *true to form/type/word*, *keep it real* | native *true/real* | [CORE] |
+| Revelation dynamic | *show one's true colors*, *moment of truth* | native *true/truth* | [CORE] |
+
+---
+
+## KEY FINDINGS (data-supported)
+
+1. **Causation is the richest dynamic field**, encoded primarily by the **Latinate suffixal layer** (*-ify, -ate, -ize*: verify, falsify, validate, authenticate, legitimize, rectify, justify, invalidate). This is the default and most natural way English causativizes truth-states.
+
+2. **Native/Latinate split persists from earlier steps.** Native core adjectives (*true, real, right*) have **NO simple causative verb** and require periphrastic *make* + ADJ; the only single-word native causative (*true up*) belongs to the peripheral alignment sense. Latinate items, by contrast, carry dedicated causative verbs but **no idioms**.
+
+3. **Causative asymmetry:** there is no positive single-word counterpart "*truify*" matching *falsify*; the positive side is split across different bases (*verify/validate/authenticate*). Causation toward fakeness uses **fabrication verbs** (*forge, counterfeit, fake*) that **create a new fake object** rather than convert an existing genuine one.
+
+4. **Inchoatives are weak and idiom-bound.** The only [CORE] "become" expressions (*come true*, *get real*, *ring true/false*) exploit **peripheral senses** (actualization, realism, apparent-seeming) rather than core statement-truth. General *become true/false* is compositional and uncommon. **No dedicated inchoative exists for the great majority of adjectives** (accurate, honest, valid, etc.).
+
+5. **Stability is expressed only through the native *true* fidelity cluster** (*tried and true*, *true to form/type/word*, *keep it real*) — all drawing on the loyalty/consistency sense, not factual truth.
+
+6. **Revelation dynamics** (*show one's true colors*, *moment of truth*) encode the **disclosure of a pre-existing genuine state** or a **decisive test**, not a change in truth-value — a conceptually distinct dynamic the domain handles idiomatically.
+
+7. **Overall asymmetry:** English encodes *causing* truth-states far more richly (dedicated verbs + nominalized results) than *spontaneous entry into* truth-states (few, idiom-bound, peripheral-sense inchoatives), and persistence/stability least systematically of all.
+
+# END

@@ -1,0 +1,142 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+**Language: English (en)**
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + copula (*be*) + truth-domain predicate adjective
+
+### Examples
+- *The statement is true.* → The statement is true.
+- *Her account was accurate.* → Her account was accurate.
+
+### Notes
+The default attribution construction uses the copula *be* with a predicate adjective. No morphological change occurs on the adjective; tense and agreement are carried by the copula. The construction applies across the full P1 adjective inventory (*true*, *false*, *accurate*, *correct*, *genuine*, *valid*, *legitimate*, *sound*, *credible*, *reliable*, *authentic*, *sincere*, *honest*, *spurious*, *fraudulent*, *plausible*, *fictitious*, *ostensible*).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + copula + *not* + predicate adjective; OR subject + copula + prefixed negative adjective (*in-*, *un-*, *il-*, *dis-*)
+
+### Examples
+- *The claim is not accurate.* / *The claim is inaccurate.* → The claim is not accurate / inaccurate.
+- *The document was not valid.* / *The document was invalid.* → The document was not valid / invalid.
+
+### Notes
+English permits two strategies: analytic negation (*not* + adjective) and synthetic negation via derivational prefix. Both are available for most P1 items, but prefix availability varies: *inaccurate*, *incorrect*, *invalid*, *illegitimate*, *insincere*, *dishonest*, *incredible*, *unreliable*, *untruthful*, *inauthentic* are all attested; *\*unfalse*, *\*unfraudulent* are not. The two strategies are largely interchangeable in propositional content but differ in register and emphasis.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Truth-domain adjective + noun (prenominal); OR noun + *that*-clause / relative clause (postnominal)
+
+### Examples
+- *a true statement* / *a false claim* / *an accurate description* → prenominal adjective + noun
+- *a claim that is accurate* / *evidence that is genuine* → postnominal relative clause
+
+### Notes
+English truth-domain adjectives freely modify nouns prenominally without morphological change. Postnominal modification via relative clause is also available and preferred when the adjective is itself modified (*a claim that is broadly accurate*, *evidence that is not entirely genuine*). No agreement morphology is triggered on the adjective in either position.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Subject + *become* / *prove* / *turn out to be* / *come true* + predicate adjective or noun
+
+### Examples
+- *The rumor proved false.* → The rumor proved false.
+- *Her prediction came true.* → Her prediction came true.
+
+### Notes
+English lacks a dedicated inchoative morpheme for this domain. The inchoative meaning is expressed periphrastically via *become*, *prove* (which additionally implies testing or demonstration), or *turn out to be*. The idiom *come true* is restricted to hopes, predictions, and dreams and is not productive across the full adjective inventory. *Prove* + adjective (*prove false*, *prove correct*, *prove genuine*) is the most common inchoative construction in evidential and narrative contexts.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Subject + *make* / *render* / *prove* + object + predicate adjective; OR subject + *verify* / *authenticate* / *validate* / *falsify* + object
+
+### Examples
+- *New evidence rendered the earlier findings invalid.* → New evidence rendered the earlier findings invalid.
+- *The laboratory verified the results.* → The laboratory verified the results.
+
+### Notes
+English has no dedicated causative morpheme for this domain. Two strategies are attested: (a) periphrastic causative with *make*, *render*, or *prove* + object + adjective (*make true*, *render false*, *prove genuine*); and (b) lexical causatives via derived verbs — *verify* (cause to be confirmed as true), *authenticate* (cause to be established as genuine), *validate* (cause to be recognized as valid), *falsify* (cause to be false, or demonstrate as false). The lexical causatives are more common in formal and technical registers. *Invalidate* and *delegitimize* are prefixed causative-negative forms.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Truth-domain adjective or verb + nominalizing suffix (*-ity*, *-ness*, *-hood*, *-cy*, *-tion*, *-th*)
+
+### Examples
+- *truth* (← *true* + *-th*); *accuracy* (← *accurate* + *-cy*); *validity* (← *valid* + *-ity*) → the property of being true / accurate / valid
+- *falsification* (← *falsify* + *-ation*); *verification* (← *verify* + *-ation*) → the act or process of falsifying / verifying
+
+### Notes
+Abstract nominalization is highly productive across the P1 inventory. Two semantic types are distinguished: (a) property nominalizations (*truth*, *accuracy*, *validity*, *authenticity*, *sincerity*, *honesty*, *credibility*, *legitimacy*, *soundness*, *genuineness*, *veracity*, *falsity*, *falsehood*) denoting the property itself; and (b) process/event nominalizations (*verification*, *falsification*, *authentication*, *validation*, *correction*) denoting the act or process. Multiple suffixes may be available for a single base (*falseness* / *falsity* / *falsehood*), with register and semantic nuance differences documented in P2a.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Verb stem + *-er* / *-or*; OR compound noun (*truth* + agentive noun)
+
+### Examples
+- *truth-teller* (one who tells the truth, especially at personal cost) → agentive compound
+- *falsifier* (one who falsifies; in logic, a value that makes a proposition false) → *falsify* + *-er*
+
+### Notes
+Agentive nominalization in this domain is sparse compared to abstract nominalization. *Truth-teller* is the most common and culturally salient agentive form; it is a compound rather than a suffixed derivation. *Falsifier* is attested but marginal in everyday use. *Authenticator*, *validator*, and *verifier* are attested primarily in technical and computing contexts. No common agentive form exists for *liar* derived from the P1 truth-domain roots; *liar* derives from *lie* (Old English *lēogan*), which is outside the P1 inventory. The agentive for the person who lacks credibility is expressed periphrastically (*an unreliable witness*, *a dishonest person*) rather than by a dedicated nominal.
+
+---
+
+## 8. PREDICATE COMPLEMENT WITH EPISTEMIC VERB
+
+### Pattern
+Epistemic verb (*know*, *believe*, *find*, *consider*, *prove*, *establish*) + object clause or object + predicate adjective
+
+### Examples
+- *The court found the testimony credible.* → object + predicate adjective
+- *Investigators established that the document was fraudulent.* → *that*-clause complement
+
+### Notes
+This construction type emerges from the data as a distinct pattern not reducible to simple attribution. Truth-domain adjectives frequently appear as predicate complements of epistemic and evaluative verbs (*find*, *consider*, *prove*, *establish*, *judge*, *deem*, *declare*) in the frame [V + NP + AdjP] or [V + *that*-clause]. This construction is particularly prominent in legal and journalistic registers (*the jury found the defendant guilty*, *experts declared the painting authentic*, *the report established that the figures were inaccurate*). It encodes both the truth-domain evaluation and the epistemic agent performing the evaluation.
+
+---
+
+## 9. DISCOURSE-MARKER CONSTRUCTION
+
+### Pattern
+Fixed phrase functioning as sentence-initial or parenthetical candor signal, not predicating truth of any specific proposition
+
+### Examples
+- *Truth be told, I was not expecting to win.* → fixed clause-initial marker
+- *To be honest, the situation is more complicated.* → infinitival parenthetical
+
+### Notes
+This construction type is documented in P2b (Group 7 in P3) and represents a distinct syntactic and pragmatic pattern. The fixed phrases (*truth be told*, *to tell the truth*, *to be honest*, *in truth*, *the truth of the matter is*) do not attribute a truth value to a proposition; they signal the speaker's communicative stance as candid or frank. Structurally, they function as sentence adverbials or parentheticals and are syntactically detachable. They are not productive templates but fixed or semi-fixed expressions.
+
+---
+
+## 10. COMPOUND NOUN (TRUTH-DOMAIN HEAD OR MODIFIER)
+
+### Pattern
+Truth-domain noun or adjective as head or modifier in a compound noun
+
+### Examples
+- *truth commission*, *truth serum*, *truth table*, *truth value*, *truth condition* → *truth* as modifier
+- *false alarm*, *false positive*, *false flag*, *half-truth*, *home truth* → *false* / *truth* as modifier or head
+
+### Notes
+Compounding is a productive construction type for *truth* and *false* specifically. *Truth* compounds tend to be technical or institutional (*truth value*, *truth table*, *truth condition* in logic; *truth commission* in political discourse). *False* + noun compounds are numerous and semantically varied, ranging from logical-technical (*false positive*, *false negative*, *false dichotomy*) to legal (*false pretenses*, *false imprisonment*, *false witness*) to everyday (*false alarm*, *false start*, *false dawn*). Other P1 items (*accurate*, *valid*, *sincere*, etc.) do not participate productively in compounding in this domain.

@@ -1,0 +1,134 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Sanskrit (sa)
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1 (Attribution) | etat satyam (asti) "this is true" | Direct mapping. Copula optional in present tense. | None |
+| **ADNOM** | Construction 3 (Adnominal Modification) | satyaṃ vacanam "true statement" | Direct mapping. Fully productive. | None |
+| **BECOME** | Construction 4 (Become/Inchoative) | tat satyaṃ bhavati "that becomes true/proves true" | Direct mapping. √bhū expresses state change. | None |
+| **REVELATION** | Construction 4 (Become/Inchoative) | tat satyaṃ bhavati "that proves true" | **SUBSTITUTED BY BECOME** - Same construction (√bhū) covers both change of state and revelation of truth-status. | Functional merger |
+| **CAUSATION (factual)** | Construction 5 (Causative) | mṛṣā karoti "makes false, falsifies" | Marginal. Light verb √kṛ construction less grammaticalized. | Partial gap |
+| **CAUSATION (factual)** - alternate | Construction 18 (Resultative/Evidential) | pramāṇena siddham "established by valid means, proven" | **SUBSTITUTED BY VERIFICATION** - Passive evidential construction preferred over active causative. | Functional substitution |
+| **CAUSATION (character)** | Construction 7 (Agentive Nominalization) | satyavādin "truth-speaker, truthful person" | Direct mapping through -vādin compounds. Describes habitual character. | None |
+| **VERIFICATION** | Construction 18 (Resultative/Evidential) | pratyakṣeṇa dṛṣṭam "seen by perception, directly perceived" | Direct mapping. Instrumental + passive participle construction. | None |
+| **VERIFICATION** - alternate | Construction 10 (Instrumental of Means/Manner) | pramāṇena siddham "established by valid means" | Same instrumental pattern, different participles (siddha, dṛṣṭa, jñāta). | None |
+| **DISCONFIRMATION** | Construction 5 (Causative) | mṛṣā karoti "makes false, falsifies" | Same construction as factual causation. Marginal status. | Partial gap |
+| **DISCONFIRMATION** - alternate | Construction 20 (Negative Existential) | pramāṇābhāvāt "due to absence of proof" | Ablative of abhāva-compound expresses refutation through absence. | Functional substitution |
+| **NEGATION** | Construction 2 (Negative Attribution) | etat na satyam "this is not true" | Direct mapping. Two strategies: particle negation (na) and morphological negation (a-satya). | None |
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME Merger
+The language does not distinguish between "becoming true" and "being revealed as true." Construction 4 (√bhū + truth-domain adjective) covers both meanings. The context determines whether the interpretation is ontological change or epistemic revelation. Example: *tat satyaṃ bhavati* can mean either "that becomes true" or "that proves true/is revealed as true."
+
+### CAUSATION → VERIFICATION Substitution
+Active causative constructions for truth-domain meanings (Construction 5) are marked as [MARGINAL] in P4b. The language strongly prefers passive evidential constructions (Construction 18) with instrumental case marking the means/agent. Rather than saying "X makes Y true," Sanskrit prefers "Y is established as true by means of X" (*pramāṇena siddham*). This represents a systematic preference for evidential over agentive framing.
+
+### DISCONFIRMATION Strategies
+Disconfirmation lacks a dedicated high-frequency construction. Two strategies exist:
+1. The marginal causative construction (*mṛṣā karoti* "makes false")
+2. Negative existential reasoning (*pramāṇābhāvāt* "due to absence of proof")
+
+The second strategy is more common in philosophical contexts, expressing refutation through absence rather than active falsification.
+
+### Morphological vs. Analytic Negation
+Construction 2 shows two parallel strategies with different semantic profiles:
+- **Analytic negation** (*na satya*): Simple denial, neutral
+- **Morphological negation** (*asatya*): Categorical/definitional negation
+
+P4b notes that morphological negation is "categorical/definitional rather than simple denial" and that "copula more frequently explicit with negative-prefixed adjectives." This suggests the two strategies are not fully equivalent.
+
+### Asymmetries
+No systematic asymmetries between positive and negative forms are observed. Truth-domain and falsity-domain terms show parallel productivity across constructions (e.g., *satyavādin* "truth-speaker" vs. *mṛṣāvādin* "liar").
+
+### Evidential Preference
+Multiple constructions (10, 18) emphasize evidential basis and means of knowledge rather than simple assertion. The instrumental case is extremely productive for expressing "by what means" something is known or established. This reflects a systematic preference for specifying epistemic grounds.
+
+## 3. Missingness Summary
+
+### Structural Gaps
+**None identified.** All core CLCA operators have at least one attested construction.
+
+### Lexical Gaps
+**None identified.** The language has rich vocabulary across truth/falsity domains (satya, asatya, mṛṣā, mithyā, pramāṇa, dharma, etc.).
+
+### Conceptual Gaps
+**None identified.** All truth-domain operations can be expressed, though some require circumlocution or substitution.
+
+### Partial/Marginal Gaps
+
+1. **CAUSATION (factual) - Marginal**
+   - Construction 5 marked as [MARGINAL] in P4b
+   - "Less grammaticalized than inchoative"
+   - "Restricted primarily to technical/philosophical contexts"
+   - **Functional substitution available**: Passive evidential constructions (Construction 18) serve this function more commonly
+
+2. **DISCONFIRMATION - Marginal**
+   - Same construction as factual causation (Construction 5)
+   - "Attested but less common than other strategies"
+   - **Functional substitution available**: Negative existential reasoning (Construction 20) more common in philosophical refutation
+
+3. **Comparative Truth-Domain Adjectives - Marginal**
+   - Construction 17 with -tara suffix marked as [MARGINAL]
+   - "Less commonly applied to truth-domain adjectives than to scalar adjectives"
+   - "Context-dependent acceptability"
+   - **Functional substitution available**: Ablative comparison with explicit degree terms (*alpa*, *adhika*) fully productive
+
+### Asymmetric Gaps
+**None identified.** Positive and negative forms show parallel productivity.
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available (Core Status)
+- **ATTR**: Construction 1 - Attribution with copula √as/√bhū
+- **ADNOM**: Construction 3 - Adnominal modification with agreement
+- **BECOME**: Construction 4 - Inchoative with √bhū
+- **CAUSATION (character)**: Construction 7 - Agentive nominalization with -vādin
+- **VERIFICATION**: Construction 18 - Resultative/evidential with instrumental + passive participle
+- **NEGATION**: Construction 2 - Both analytic (particle na) and morphological (prefix a-)
+
+### Available with Substitution
+- **REVELATION**: Expressed through BECOME (Construction 4)
+  - No dedicated construction; √bhū covers both meanings
+  - Context disambiguates ontological vs. epistemic reading
+
+- **CAUSATION (factual)**: Primarily expressed through VERIFICATION (Construction 18)
+  - Direct causative (Construction 5) marginal
+  - Passive evidential construction preferred
+  - Represents systematic preference for evidential over agentive framing
+
+- **DISCONFIRMATION**: Primarily expressed through negative existential reasoning (Construction 20)
+  - Direct causative (Construction 5) marginal
+  - Ablative of abhāva-compounds more common in philosophical contexts
+
+### Partially Available (Marginal Status)
+- **CAUSATION (factual) - direct expression**: Construction 5 with √kṛ
+  - Attested but marked [MARGINAL]
+  - "Less grammaticalized than inchoative"
+  - Restricted to technical/philosophical contexts
+  - Functional alternatives strongly preferred
+
+- **DISCONFIRMATION - direct expression**: Construction 5 with √kṛ
+  - Same marginal status as factual causation
+  - "Attested but less common than other strategies"
+  - Functional alternatives strongly preferred
+
+### Missing Entirely
+**None.** All CLCA operators have at least one expression strategy, though some require substitution or circumlocution.
+
+### Additional Productive Operators (Beyond Core CLCA Set)
+The language shows high productivity in several domains not captured by the core CLCA operator set:
+
+- **Obligation/Prohibition**: Construction 12 (Gerundive) - [CORE]
+- **Interrogative Challenge**: Construction 15 - [CORE]
+- **Emphatic Assertion**: Construction 16 - [CORE]
+- **Conditional Truth**: Construction 19 - [CORE]
+- **Instrumental Means/Manner**: Construction 10 - [CORE]
+- **Ablative Source/Standard**: Construction 11 - [CORE]
+- **Locative Domain**: Construction 14 - [CORE]
+- **Abstract Nominalization**: Construction 6 - [CORE]
+- **Contrastive Coordination**: Construction 13 - [CORE]
+
+These constructions are fully productive and show no restrictions, indicating that Sanskrit grammaticalizes several truth-domain operations beyond the basic CLCA set.

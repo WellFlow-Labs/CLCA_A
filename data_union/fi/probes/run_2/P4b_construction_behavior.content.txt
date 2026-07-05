@@ -1,0 +1,47 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Finnish (fi)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** — NP + *olla* + PRED-ADJ | *Se on totta.* | Se on totta. | "It is true." | [CORE] | Ubiquitous across all registers for truth-value and property attribution. The partitive *totta* is obligatory in this specific construction; substitution with nominative *\*tosi* is ungrammatical. |
+| **1. ATTRIBUTION** — NP + *olla* + PRED-ADJ | *Väite on perusteeton.* | Väite on perusteeton. | "The claim is unfounded." | [CORE] | Standard evaluative construction in journalistic, legal, and academic registers. Nominative predicate adjective is the regular pattern for all adjectives other than *tosi*. |
+| **2. NEGATIVE ATTRIBUTION** — NP + *ei ole* + PRED-ADJ | *Tämä allekirjoitus ei ole aito.* | Tämä allekirjoitus ei ole aito. | "This signature is not genuine." | [CORE] | Standard negated copular construction; used in legal, forensic, and everyday contexts. Predicate adjective remains in nominative under negation. |
+| **2. NEGATIVE ATTRIBUTION** — *ei pidä paikkansa* | *Väite ei pidä paikkaansa.* | Väite ei pidä paikkaansa. | "The claim is not true / does not hold." | [CORE] | Idiomatic and preferred in evaluative assessment of specific claims; common in journalistic and academic registers. Fixed form; not productively decomposable in use. |
+| **3. ADNOMINAL MODIFICATION** — ADJ + NP | *todenmukainen kuvaus* | todenmukainen kuvaus | "a true-to-life / accurate description" | [CORE] | Standard attributive pattern across all registers; adjective precedes noun and inflects with it throughout the paradigm. No restriction on register or text type. |
+| **3. ADNOMINAL MODIFICATION** — ADJ + NP | *perusteeton syytös* | perusteeton syytös | "an unfounded accusation" | [CORE] | Frequent in legal and journalistic language. Full inflectional agreement is obligatory; no invariant attributive form exists in Finnish. |
+| **4. BECOME / INCHOATIVE** — *osoittautua* + TRANSLATIVE | *Ennuste osoittautui oikeaksi.* | Ennuste osoittautui oikeaksi. | "The forecast turned out to be correct." | [CORE] | Standard inchoative construction for truth-domain adjectives and nouns; common in journalistic, scientific, and everyday narrative registers. Translative case is obligatory. |
+| **4. BECOME / INCHOATIVE** — *osoittautua* + TRANSLATIVE | *Maalaus osoittautui väärennökseksi.* | Maalaus osoittautui väärennökseksi. | "The painting turned out to be a forgery." | [CORE] | Frequent in legal, art-authentication, and investigative contexts. The translative nominal complement (*väärennökseksi*) follows the same case requirement as the adjectival complement. |
+| **5. CAUSATIVE** — *väärentää* | *Hän väärensi passin.* | Hän väärensi passin. | "He/she forged the passport." | [CORE] | Standard legal and administrative term for document or object forgery; implies intent. Common in legal texts, news reporting, and everyday language. |
+| **5. CAUSATIVE** — *vääristää* | *Monopoli vääristää kilpailua.* | Monopoli vääristää kilpailua. | "A monopoly distorts competition." | [CORE] | Standard in economic, political, and analytical registers for distortion or skewing; does not necessarily imply intent. Semantically and legally distinct from *väärentää*. |
+| **6. ABSTRACT NOMINALIZATION** — ADJ + *-uus/-yys* | *tarkkuus* | tarkkuus | "accuracy; precision" | [CORE] | Fully productive across the domain; used in technical, scientific, administrative, and everyday registers. The primary mechanism for abstract noun formation from truth-domain adjectives. |
+| **6. ABSTRACT NOMINALIZATION** — ADJ + *-uus/-yys* | *totuudenmukaisuus* | totuudenmukaisuus | "truthfulness; conformity to truth" | [CORE] | Compound adjective nominalized as a unit; common in formal, legal, and academic registers. Consonant gradation and vowel harmony apply regularly. |
+| **7. AGENTIVE NOMINALIZATION** — Verb + *-ja/-jä* | *todistaja* | todistaja | "witness; testifier" | [CORE] | High-frequency legal and everyday term; fully lexicalized. Used in court language, news reporting, and general discourse without restriction. |
+| **7. AGENTIVE NOMINALIZATION** — Verb + *-ja/-jä* | *väärentäjä* | väärentäjä | "forger; counterfeiter" | [CORE] | Standard legal and journalistic term for the agent of forgery. Productive and transparent; less frequent than *todistaja* but fully established. |
+| **8. RESULT NOMINALIZATION** — Verb + *-us/-ys* | *todistus* | todistus | "proof; testimony; certificate" | [CORE] | Highly productive as a compounding base in legal vocabulary; used across legal, administrative, and everyday registers. Semantically distinct from the *-minen* verbal noun. |
+| **8. RESULT NOMINALIZATION** — Verb + *-us/-ys* | *väärennös* | väärennös | "forgery; counterfeit" | [CORE] | Standard legal and everyday term for the product of forgery. The allomorph *-ös* is stem-conditioned; the form is fully established and not restricted by register. |
+| **9. VERBAL NOUN** — Verb + *-minen* | *väärentäminen* | väärentäminen | "forgery; falsification; the act of forging" | [CORE] | Fully productive on all verbs; used in legal language to name criminal acts and in administrative language to name processes. Retains the argument structure of the base verb. |
+| **9. VERBAL NOUN** — Verb + *-minen* | *todentaminen* | todentaminen | "verification; authentication; the act of verifying" | [CORE] | Common in technical and administrative registers, including digital security contexts (*kaksivaiheinen todentaminen*). Fully productive and unrestricted. |
+| **10. CERTIFICATION CONSTRUCTION** — *todistaa* + NP-ACC + TRANSLATIVE | *Notaari todistaa kopion oikeaksi.* | Notaari todistaa kopion oikeaksi. | "The notary certifies the copy as correct." | [CORE] | Standard in notarial, legal, and official administrative registers. Translative case is obligatory for the resultant-state complement; the construction requires an external agent. |
+| **10. CERTIFICATION CONSTRUCTION** — *todistaa* + NP-ACC + TRANSLATIVE | *Tutkimus todisti teorian vääräksi.* | Tutkimus todisti teorian vääräksi. | "The study proved the theory false." | [CORE] | Common in scientific and academic registers for reporting the outcome of research. Structurally parallel to the *osoittautua* + translative inchoative but transitive. |
+| **11. CONFORMITY COMPOUND ADJECTIVE** — NP-GEN + *mukainen* | *totuudenmukainen* | totuudenmukainen | "conforming to truth; truthful; accurate" | [CORE] | Productive compounding pattern; common in legal, journalistic, and formal registers. The corresponding abstract noun *totuudenmukaisuus* is formed regularly by *-uus* suffixation. |
+| **11. CONFORMITY COMPOUND ADJECTIVE** — NP-GEN + *mukainen* | *todenmukainen* | todenmukainen | "true-to-life; realistic; verisimilar" | [CORE] | Used in literary, journalistic, and everyday registers to describe realistic or verisimilar representation. Antonym pattern with *vastainen* (*totuudenvastainen*) is attested and productive. |
+
+---
+
+## Alternate Constructions
+
+| Construction Type | Alternate Construction | Notes |
+|---|---|---|
+| **1. ATTRIBUTION** (truth) | *ei ole totta* (negative) | The negative of *olla totta* retains the partitive: *se ei ole totta*. Covered under Pattern 2 but noted here as the direct negative alternate. |
+| **2. NEGATIVE ATTRIBUTION** | *ei ole totta* | Direct negative copular alternate to the idiomatic *ei pidä paikkansa*; both are attested and in common use. |
+| **4. BECOME / INCHOATIVE** | *käydä* + TRANSLATIVE; *tulla* + TRANSLATIVE | Attested as alternates to *osoittautua* + translative for change-of-state; noted in P4a but not exemplified there. |
+| **10. CERTIFICATION CONSTRUCTION** | *osoittautua* + TRANSLATIVE (Pattern 4) | Structurally parallel inchoative alternate; intransitive, no external certifying agent. |
+| **11. CONFORMITY COMPOUND ADJECTIVE** | NP-GEN + *vastainen* (contrary to) | Antonym pattern: *totuudenvastainen* (contrary to truth); *totuudenvastaisuus* (untruthfulness). Productive across the domain. |
+
+---
+
+*No constructions have been added beyond those identified in P4a. Naturalness ratings are based on register distribution and frequency evidence as reported in P4a documentation.*

@@ -1,0 +1,41 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Swahili (sw)
+
+---
+
+## OUTPUT TABLE
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** (*ni* + truth predicate) | *Hii ni kweli.* | Hii ni kweli. | "This is true." | [CORE] | Used across all registers for propositional attribution; *kweli* and *sahihi* are both frequent, with *sahihi* more common in formal/written contexts (e.g., journalism, official documents). No attested restriction on subject type. |
+| **1. ATTRIBUTION** (*ni* + truth predicate) | *Habari hii ni sahihi.* | Habari hii ni sahihi. | "This news is accurate." | [CORE] | See above; *sahihi* in this slot is particularly associated with news, reports, and factual claims. |
+| **2. NEGATIVE ATTRIBUTION** (*si* + truth predicate) | *Si kweli.* | Si kweli. | "It is not true. / That is false." | [CORE] | Primary propositional denial formula; subject-drop is common and natural in spoken Swahili. Used across all registers. |
+| **2. NEGATIVE ATTRIBUTION** (*si* + truth predicate + *kabisa*) | *Si sahihi kabisa.* | Si sahihi kabisa. | "It is not correct at all. / This is completely inaccurate." | [CORE] | The postposed intensifier *kabisa* is itself a high-frequency item; the combination is idiomatic and attested in both spoken and written registers. No restriction on which truth-domain predicate *kabisa* can follow. |
+| **3. ADNOMINAL MODIFICATION** (Head + postposed adjective) | *jibu sahihi* | jibu sahihi | "correct answer" | [CORE] | Standard noun-phrase pattern; *sahihi* in this slot is extremely frequent in educational and administrative contexts. No agreement morphology required on the adjective. |
+| **3. ADNOMINAL MODIFICATION** (Head + postposed adjective) | *bidhaa bandia* | bidhaa bandia | "fake goods / counterfeit products" | [CORE] | *Bandia* in this slot is the standard term in commercial and legal contexts for counterfeit goods; the phrase is formulaic and widely attested. |
+| **4. BECOME / INCHOATIVE** (*-ika* stative-intransitive) | *Ukweli ulidhihirika.* | Ukweli ulidhihirika. | "The truth became evident. / The truth came to light." | [CORE] | *Kudhihirika* is fully lexicalized and common in narrative, journalistic, and formal registers. The *-ika* inchoative is the primary device for agentless "coming to light" readings. |
+| **4. BECOME / INCHOATIVE** (periphrastic *kuwa na* + nominal) | *Imani yake ilianza kuwa na uhakika.* | Imani yake ilianza kuwa na uhakika. | "His/her belief began to have certainty. / He/she became certain." | [MARGINAL] | This periphrastic form is less frequent than the *-ika* construction and appears where no lexicalized *-ika* form exists; it is grammatically well-formed but stylistically marked relative to *nina/sina uhakika* (see §10). |
+| **5. CAUSATIVE** (*-sha*/*-isha* + truth-domain base) | *Tafadhali thibitisha taarifa hii.* | Tafadhali thibitisha taarifa hii. | "Please confirm / verify this report." | [CORE] | *Kuthibitisha* is the standard verb for confirmation and verification in formal, journalistic, and official contexts; the imperative with *tafadhali* is a common polite request formula. |
+| **5. CAUSATIVE** (*-sha*/*-isha* + truth-domain base) | *Hakikisha mlango umefungwa.* | Hakikisha mlango umefungwa. | "Make sure the door is closed. / Ensure the door is closed." | [CORE] | *Kuhakikisha* is extremely frequent across all registers and has extended into procedural contexts not strictly related to truth evaluation; the imperative form is a common everyday directive. |
+| **6. ABSTRACT NOMINALIZATION** (*u-* prefix) | *ukweli* | ukweli | "truth, truthfulness" | [CORE] | *Ukweli* is the primary abstract nominal for truth across all registers; it is the expected form in philosophical, legal, journalistic, and everyday discourse. The *u-* nominalization pattern is fully productive in this domain. |
+| **6. ABSTRACT NOMINALIZATION** (*u-* + causative stem + *-o*) | *uthibitisho* | uthibitisho | "confirmation, verification, proof" | [CORE] | *Uthibitisho* is standard in formal and official registers (legal, journalistic, administrative); the *-o* result nominal pattern is productive but more restricted to formal contexts than the simple *u-* nominals. |
+| **7. AGENTIVE NOMINALIZATION** (*m-/wa-* + stem) | *mdanganyifu / wadanganyifu* | mdanganyifu / wadanganyifu | "deceiver / deceivers, liar / liars" | [CORE] | *Mdanganyifu* is the standard agentive nominal for a habitual liar/deceiver; the *m-/wa-* class assignment is regular. Used in both spoken and written registers. |
+| **7. AGENTIVE NOMINALIZATION** (*m-/wa-* + causative stem + *-aji*) | *msahihishaji / wasahihishaji* | msahihishaji / wasahihishaji | "examiner-marker / examiner-markers, corrector / correctors" | [MARGINAL] | This form is restricted to formal and educational registers; it is morphologically regular but less frequent than the simpler *m-/wa-* + stem pattern. The concept of "truth-teller" has no direct agentive nominal and requires a periphrastic form (*mtu anayesema ukweli*). |
+| **8. ADVERBIAL FRAMING** (*kwa* + truth nominal) | *Kwa kweli nakuambia.* | Kwa kweli nakuambia. | "I tell you truly. / Truly, I tell you." | [CORE] | *Kwa kweli* as a sincerity frame is common in both spoken and written Swahili; sentence-initial position is typical. The reduplicated form *kwa kweli kweli* is an attested intensification. |
+| **8. ADVERBIAL FRAMING** (*kwa* + truth nominal) | *Kwa uhakika, hii ilitokea.* | Kwa uhakika, hii ilitokea. | "With certainty, this happened. / This definitely happened." | [CORE] | *Kwa uhakika* functions as an epistemic frame and is common in assertive contexts; *bila shaka* is an attested parallel negative-framing alternative with overlapping function. |
+| **9. PERIPHRASTIC VERBAL CONSTRUCTION** (*piga* + *uongo*) | *Anapiga uongo.* | Anapiga uongo. | "He/she is lying. / He/she tells lies." | [CORE] | *Piga uongo* is the most frequent colloquial construction for the act of lying; it is more common in informal spoken registers than the morphologically derived *kudanganya*. No parallel *piga kweli* construction is attested. |
+| **9. PERIPHRASTIC VERBAL CONSTRUCTION** (*piga* + *uongo*, negative imperative) | *Usipige uongo.* | Usipige uongo. | "Don't lie. / Don't tell lies." | [CORE] | The negative imperative form is equally natural and frequent; the directive *sema ukweli* ("tell the truth") is the attested positive counterpart, using a different light verb (*kusema*) rather than *piga*. |
+| **10. POSSESSIVE EPISTEMIC CONSTRUCTION** (*-na-* + truth nominal) | *Sina uhakika.* | Sina uhakika. | "I am not sure. / I have no certainty." | [CORE] | *Sina uhakika* is the primary everyday formula for expressing personal uncertainty; it is used across all registers and is strongly preferred over any stative-adjective alternative. |
+| **10. POSSESSIVE EPISTEMIC CONSTRUCTION** (*-na-* + truth nominal) | *Nina uhakika.* | Nina uhakika. | "I am sure. / I have certainty." | [CORE] | *Nina uhakika* is the standard positive counterpart; both forms are formulaic. No parallel *nina kweli* construction is attested for propositional truth; the possessive epistemic pattern is restricted to certainty/doubt nominals. |
+
+---
+
+## SUMMARY NOTES
+
+**Asymmetries flagged:**
+- The "tell the truth" directive uses *sema ukweli* (light verb *kusema*), not a *piga* construction; *piga* is restricted to *uongo* in this domain.
+- No agentive nominal for "truth-teller" is directly derived from *kweli* or *ukweli*; periphrastic expression only.
+- The possessive epistemic construction (*nina/sina uhakika*) does not extend to propositional truth (*kweli*); the two sub-domains use distinct constructions.
+- The inchoative periphrastic (*kuwa na uhakika*) is rated [MARGINAL] relative to the lexicalized *-ika* forms and the formulaic *nina/sina uhakika*.
+
+**No constructions have been added beyond those identified in P4a.**

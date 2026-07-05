@@ -1,0 +1,103 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Finnish (fi)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | *olla* + predicative adjective (nominative); *pitää paikkansa* (positive fixed expression) | *Se on tosi.* / *Väite on perusteeton.* / *Se pitää paikkansa.* | No substitution required; default copular pattern | None |
+| **ADNOM** | Adjective + head noun (attributive, pre-nominal, case-agreeing) | *luotettava lähde* / *perusteeton syytös* | No substitution required; default attributive pattern | None |
+| **BECOME** | *osoittautua* + translative; *toteutua* (prediction-restricted); morphological *-utua* (marginal) | *Väite osoittautui epätodeksi.* / *Ennuste toteutui.* | *osoittautua* + translative is the general-purpose inchoative; *toteutua* is a restricted sub-case | None for general inchoative; *toteutua* is not a full substitute for *osoittautua* |
+| **REVELATION** | No dedicated construction attested in P4a/P4b | — | **SUBSTITUTED BY BECOME** (*osoittautua* encodes both "turn out to be" and "be revealed as") | No structural gap; functional overlap with BECOME; no separate REVELATION operator attested |
+| **CAUSATION (factual)** | *tehdä* + translative; lexicalized morphological causatives (*väärentää*, *todentaa*, *oikaista*) | *Todisteet tekivät väitteen uskottavaksi.* / *Hän väärensi asiakirjan.* | No substitution required for periphrastic form; morphological forms are individually lexicalized, not productive | None for periphrastic; lexical gap for morphological productivity across full domain |
+| **CAUSATION (character)** | No dedicated construction attested in P4a/P4b | — | **NO COMMON EXPRESSION — circumlocution required**; closest available form is *tehdä* + translative (same as factual causation) | **Lexical gap**: no construction specifically encoding character-based or dispositional causation of truth/falsity is attested |
+| **VERIFICATION** | *todentaa* (lexicalized morphological verb); *tarkistaa* / *tarkistaja* (checker); *pitää* + essive (*katsoa* + translative in official contexts) | *Menettelyn asianmukaisuus tarkistettiin.* / *Viranomainen katsoi todistuksen päteväksi.* | Periphrastic stance constructions (*katsoa* + translative) serve verification in official/legal contexts; *todentaa* is lexicalized but not productive across domain | Partial: no single productive construction dedicated to VERIFICATION; covered by a cluster of partially overlapping forms |
+| **DISCONFIRMATION** | *ei pidä paikkaansa* (fixed expression); *ei ole* + positive adjective; *epä-* prefix + *olla*; *osoittautua* + negative translative | *Se ei pidä paikkaansa.* / *Lähde on epäluotettava.* / *Väite osoittautui epätodeksi.* | DISCONFIRMATION partially overlaps with NEGATION (see below) and with BECOME (inchoative disconfirmation via *osoittautua*) | None for core propositional disconfirmation; BECOME and NEGATION share constructional resources with DISCONFIRMATION |
+| **NEGATION** | Analytic: *ei ole* + positive adjective; Fixed: *ei pidä paikkaansa*; Morphological: *epä-* prefix on adjective stem | *Se ei ole tosi.* / *Se ei pidä paikkaansa.* / *Lähde on epäluotettava.* | Both analytic and morphological strategies are fully attested and productive; no substitution required | None; both strategies are [CORE] |
+| **NOMINALIZATION** | Abstract: *-uus* / *-yys* suffix; Genitive-compound (*totuudenmukaisuus*); Action nominal *-minen*; Agent nominal *-ja* / *-jä* | *Lähteen luotettavuus on kyseenalainen.* / *Asiakirjojen väärentäjä pidätettiin.* | No substitution required; multiple productive nominalization strategies are available | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION subsumed by BECOME
+
+No dedicated REVELATION construction is attested in P4a or P4b. The verb *osoittautua* + translative, classified under BECOME, covers both the inchoative sense ("turned out to be") and the revelatory sense ("was revealed to be / proved to be"). These two senses are not distinguished by separate constructions in the attested data. The periphrastic *käydä toteen* (listed as an alternate form) similarly encodes a prospective proposition "proving true" without separating revelation from becoming. Finnish therefore does not appear to maintain a structural distinction between BECOME and REVELATION within the truth domain as represented in P4a/P4b.
+
+### 2.2 VERIFICATION covered by a cluster, not a single construction
+
+VERIFICATION is not served by a single dedicated productive construction. Instead, it is distributed across: (a) the lexicalized verb *todentaa* (to verify/authenticate), (b) the action nominal *tarkistaminen* and agent nominal *tarkistaja* derived from *tarkistaa* (to check), and (c) the periphrastic stance construction *katsoa* + translative, which in official and legal contexts encodes a formal determination that something meets a standard. These forms overlap in function but differ in register and in whether they encode the process of verification or its outcome. No single productive construction covers the full VERIFICATION operator.
+
+### 2.3 DISCONFIRMATION shares constructions with NEGATION and BECOME
+
+DISCONFIRMATION is not structurally separate from NEGATION in Finnish as attested. The fixed expression *ei pidä paikkaansa* and the analytic *ei ole tosi* both serve as negations of propositional truth and as disconfirmations of claims. The inchoative construction *osoittautua* + negative translative (*osoittautui epätodeksi*) additionally encodes disconfirmation as a process (a claim turning out to be false), overlapping with BECOME. There is no construction in the attested data that is exclusively dedicated to DISCONFIRMATION as distinct from NEGATION or BECOME.
+
+### 2.4 Asymmetry between positive and negative forms
+
+A notable asymmetry is present in the fixed-expression stratum. The negative fixed expression *ei pidä paikkaansa* is described as the most frequent colloquial form for propositional falsity and is rated [CORE]. Its positive counterpart *pitää paikkansa* is attested and listed as an alternate form but is not described as equally dominant. This suggests that the negative fixed-expression form is more entrenched than the positive one in colloquial use, while the positive predicative *on tosi* / *on oikein* remains the default in the positive direction.
+
+A parallel asymmetry appears in the *epä-* prefix strategy: *epä-* prefixation is described as productive and common in formal registers for stable negative property attribution, but there is no corresponding positive prefix that functions symmetrically. The positive direction relies on the base adjective form without a dedicated positive-polarity marker.
+
+### 2.5 CAUSATION (character) not distinguished from CAUSATION (factual)
+
+The periphrastic *tehdä* + translative is the productive causative construction and is described as covering causation of truth-domain properties generally. No construction is attested that specifically encodes causation arising from a person's character or disposition (e.g., "his honesty makes his testimony credible" as a dispositional rather than evidential claim). Both factual and character-based causation would be expressed through the same *tehdä* + translative pattern. This is a lexical gap rather than a morphosyntactic one: the construction exists but no dedicated form distinguishes the two causation subtypes.
+
+### 2.6 VERB + *väärin* / *oikein* as a distinct adverbial operator
+
+The construction VERB + *väärin* / *oikein* (Section 9 in P4a/P4b) does not map cleanly onto any single CLCA operator listed above. It covers semantic ground related to correct and incorrect application of cognitive and communicative acts. It is syntactically an adverb modifying a verb, not a predicative or attributive adjective construction. It is noted in P4a/P4b as covering ground handled by English *mis-* prefixation. This construction is not represented in the CLCA operator list as given; it is recorded here as an attested pattern without a direct CLCA mapping.
+
+### 2.7 CORRESPONDENCE CONSTRUCTION as a distinct two-place pattern
+
+The *vastata* + partitive construction (Section 10 in P4a/P4b) encodes a two-place correspondence relation between a representation and reality. It is functionally distinct from predicative ATTR in that it explicitly encodes the relation between two entities rather than attributing a property to one. It does not map directly onto any single CLCA operator in the list above. It is closest to VERIFICATION (asserting that something matches a standard) but is not restricted to official or evaluative contexts. It is recorded here as an attested construction without a direct CLCA mapping in the given operator set.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+- **None identified.** All CLCA operators that are attested are served by constructions that are morphosyntactically well-formed and productive (or at minimum lexicalized). No operator is blocked by a structural impossibility in Finnish morphosyntax as represented in the data.
+
+### 3.2 Lexical Gaps
+- **CAUSATION (character):** No lexical item or fixed expression is attested that specifically encodes character-based or dispositional causation of truth-domain properties. The general causative *tehdä* + translative is available but does not distinguish this subtype.
+- **Agent noun for "truth-teller":** P4b explicitly notes the absence of a lexicalized agent noun for the role of truth-teller. Periphrastic expression (*henkilö, joka puhuu totta*) or the adjective *rehellinen ihminen* is required. This is a lexical gap within the AGENTIVE NOMINALIZATION category.
+- **Productive morphological causative across the truth domain:** The morphological causative suffix pattern is not productive across the full truth-domain adjective class. Only individually lexicalized forms (*väärentää*, *todentaa*, *oikaista*) are attested. This is a lexical gap in morphological coverage, not a structural gap, since the periphrastic *tehdä* + translative fills the productive slot.
+- **Productive morphological inchoative (*-utua*) across the truth domain:** The morphological inchoative is rated [MARGINAL] and is not productively available across the truth-domain adjective class. Only *aitoutua* is mentioned, and it is described as attested but marginal. The periphrastic *osoittautua* + translative fills the productive slot.
+
+### 3.3 Conceptual Gaps
+- **No evidence of a conceptual gap** for any CLCA operator in the given list. All operators can be expressed in Finnish, even if through periphrasis or a cluster of constructions rather than a single dedicated form.
+
+### 3.4 Asymmetric Gaps (only negative or only positive forms missing or less entrenched)
+- **Fixed-expression asymmetry:** The negative fixed expression *ei pidä paikkaansa* is [CORE] and described as the most frequent colloquial form for propositional falsity. The positive counterpart *pitää paikkansa* is attested but listed only as an alternate form, not as a [CORE] primary example. The positive direction relies more on the compositional *on tosi* / *on oikein*.
+- **Morphological negation asymmetry:** The *epä-* prefix provides a productive morphological strategy for negative property attribution. No corresponding positive-polarity prefix exists; the positive direction uses the base adjective form. This is a one-directional morphological resource.
+- **REVELATION / BECOME asymmetry:** The inchoative construction *osoittautua* + translative is attested for both positive (*osoittautui oikeaksi*) and negative (*osoittautui epätodeksi*) outcomes. No asymmetry is noted within this construction. However, *toteutua* is restricted to positive realization (predictions "coming true") and has no negative counterpart within the same verb; the negative direction ("the prediction did not come true") requires negation of *toteutua* or use of *osoittautua* + negative translative.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Default copular pattern *olla* + predicative adjective; productive across all registers and truth-domain adjectives. |
+| **ADNOM** | **Fully available** | Default pre-nominal attributive pattern; adjective agrees in case and number with head noun; no restriction. |
+| **BECOME** | **Fully available** | *osoittautua* + translative is the productive general-purpose inchoative; *toteutua* is a restricted sub-case for prospective propositions. |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY BECOME**: *osoittautua* + translative covers both inchoative and revelatory readings; no separate REVELATION construction is attested. |
+| **CAUSATION (factual)** | **Fully available** | *tehdä* + translative is the productive periphrastic causative; morphological causatives are individually lexicalized. |
+| **CAUSATION (character)** | **Partially available** | The general causative *tehdä* + translative is available but does not distinguish character-based causation from factual causation; no dedicated construction or lexical item is attested for this subtype. |
+| **VERIFICATION** | **Partially available** | Covered by a cluster of partially overlapping forms (*todentaa*, *tarkistaa*, *katsoa* + translative); no single productive construction dedicated to VERIFICATION across the full domain. |
+| **DISCONFIRMATION** | **Available with substitution** | Covered by NEGATION constructions (*ei pidä paikkaansa*, *ei ole* + adjective, *epä-* prefix) and by BECOME (*osoittautui epätodeksi*); no construction exclusively dedicated to DISCONFIRMATION as distinct from these. |
+| **NEGATION** | **Fully available** | Both analytic (*ei ole* + adjective; *ei pidä paikkaansa*) and morphological (*epä-* prefix) strategies are [CORE] and productive. |
+| **NOMINALIZATION** | **Fully available** | Multiple productive strategies: abstract *-uus* / *-yys*, genitive-compound, action nominal *-minen*, agent nominal *-ja* / *-jä*; all [CORE] and attested across the truth domain. |
+
+---
+
+### Supplementary Note: Unclassified Attested Constructions
+
+Two constructions attested in P4a/P4b do not map onto any operator in the CLCA list as given:
+
+- **VERB + *väärin* / *oikein*** (Section 9): An adverbial construction combining verbs of cognition and communication with the adverbs *väärin* ("wrongly") or *oikein* ("correctly"). Syntactically, *väärin* and *oikein* function as adverbs modifying the verb. This construction covers semantic ground related to correct and incorrect cognitive or communicative acts. It is not represented in the CLCA operator inventory above.
+
+- **CORRESPONDENCE CONSTRUCTION** (*vastata* + partitive of *todellisuus* / *totuus*, Section 10): A two-place construction encoding correspondence between a representation and reality. Syntactically, *vastata* functions as the main verb with a partitive complement. It is closest in function to VERIFICATION but is not restricted to official or evaluative contexts and explicitly encodes a two-place relation. It is not represented as a distinct operator in the CLCA inventory above.
+
+Both are recorded here as attested patterns in Finnish truth-domain grammar without assignment to a CLCA operator, in accordance with the instruction not to invent categories.

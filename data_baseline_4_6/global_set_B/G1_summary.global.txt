@@ -1,0 +1,168 @@
+# G1 — Cross-Language Summary of Observed Semantic Organization
+
+---
+
+## 1. Language Inventory
+
+- **zh (Chinese)** — Large vocabulary with morphologically transparent compounds; extensive use of 真/假/实/正/对/错 root families; rich fixed expressions (chengyu); strong integration of correctness, authenticity, and moral uprightness under shared roots.
+- **he (Hebrew)** — Root-and-pattern morphology (binyan system); primary root family א-מ-נ covers truth, reliability, faith, and belief; strong lexical distinction between factual correspondence (אמת/שקר) and justice/rightness (צדק); productive ψευδ- equivalent through שקר compounds.
+- **sa (Sanskrit)** — Highly systematic philosophical vocabulary; satya/mithyā/dharma/pramāṇa as core terms; two-truths framework (vyavahāra/paramārtha) prominent; epistemological apparatus (pramāṇa, pramā, bhrama) more elaborated than in other languages.
+- **el (Greek)** — Highly productive ψευδ- prefix generating pseudo-X compounds; ορθ- root covers correctness, orthodoxy, and technical domains; αλήθεια family covers truth; strong lexical differentiation between truth-telling, authenticity, correctness, justice, and validity.
+- **en (English)** — Large vocabulary with mixed Germanic/Latinate roots; extensive fixed expressions and idioms; strong derivational productivity (false → falsify → falsification → falsifiable); notable gap: no single-word agentive for "truth-teller."
+- **tl (Tagalog)** — Circumfix morphology (ka-...-an, pag-, ma-, -in, -an) generates systematic nominal and verbal forms; totoo/tunay distinction (factual truth vs. genuine authenticity) is a notable lexical split; particle system (ba, nga, lang, naman) creates pragmatic constructions.
+- **sw (Swahili)** — Noun class system with u- prefix for abstract nouns; heavy Arabic loanword influence (sahihi, hakika, halisi, haki, adili); productive -isha causative and -ika stative suffixes; kweli/uongo as primary opposition.
+- **qu (Quechua)** — Agglutinative morphology with obligatory evidential suffixes (-mi, -si, -cha); chiqan/llulla as primary opposition; allin covers broad positive evaluation; no dedicated inchoative for "becoming bad"; evidential system grammatically encodes epistemic stance on truth claims.
+
+---
+
+## 2. Per-Language Semantic Sketches
+
+### zh (Chinese)
+
+**Main lexical distinctions and overlaps (F1–F3):** Chinese organizes truth-related vocabulary around four major roots: 真 (genuine/true), 实 (solid/real/actual), 正 (correct/upright), and 对/错 (correct/wrong). These roots overlap substantially: 真实 combines both truth and reality; 正确 combines uprightness and definiteness. The F3 analysis identifies 18 semantic groups, including separate groups for authenticity of objects (Group 1), factual correspondence (Group 2), correctness of answers (Group 3), precision (Group 4), honesty/sincerity (Group 5), deception (Group 6), substantiality (Group 7), practical implementation (Group 8), reliability (Group 9), normality (Group 10), legitimacy (Group 11), consistency between appearance and reality (Group 12), rationality (Group 13), practical utility (Group 14), empirical investigation (Group 15), discourse markers (Group 16), spatial/temporal precision (Group 17), and mathematical/technical terminology (Group 18).
+
+**Derivational/morphological asymmetries:** The -性 suffix creates abstract quality nouns and -度 creates measurable degree nouns, both restricted to disyllabic bases. Monosyllabic roots (真, 假, 正) cannot directly take these suffixes. Resultative verb compounds (改正, 落实, 证实) are a distinctive feature where truth-domain roots function as resultative complements. The root 正 is unusually productive as a resultative complement (纠正, 改正, 修正, 端正).
+
+**Constructional patterns (F4):** Bare inchoative patterns (变真, 变假) are marginal; resultative compounds (落实, 坐实, 证实) are strongly preferred for causation of truth-domain states. The 把-disposal construction is standard for correction (把...改正). AABB reduplication (实实在在) is productive for emphasis. Agentive nominalization for "truth-teller" is absent as a productive pattern.
+
+**Oppositional structures (F5):** The 真/假 and 实/虚 oppositions are the most productive, generating numerous compound pairs. Fixed expressions frequently embed oppositions internally (真假难辨, 半真半假, 虚虚实实). The 正/不正 opposition is morphological. Many oppositions are constructional, using parallel verb phrases (揭露真相 vs. 隐瞒真相).
+
+---
+
+### he (Hebrew)
+
+**Main lexical distinctions and overlaps (F1–F3):** The root א-מ-נ generates a remarkably wide family: אמת (truth), אמין (reliable), נאמן (faithful), אמונה (faith/belief), להאמין (to believe), אמן (amen). This single root covers factual truth, reliability, faith, and belief — domains that are lexically distinct in most other languages in this corpus. The root צ-ד-ק covers both factual rightness (צודק = "you're right") and moral justice (צדק = justice, צדקה = charity). F3 identifies 11 groups including factual correspondence, authenticity, reliability/trustworthiness, honesty/sincerity, justice/moral rightness, belief/faith, validity/logical soundness, precision, certainty, practicality/realism, and discourse management.
+
+**Derivational/morphological asymmetries:** The -ut suffix productively creates abstract nouns from adjectives (אמינות, נאמנות, מהימנות). The binyan system creates systematic causative/passive alternations (להצדיק/מוצדק, לזייף/מזויף). The root א-מ-נ shows unusual semantic breadth, appearing across Groups 1, 3, 6, and 11 of F3. The term מוצדק (justified) shows dual moral/logical application, appearing in both Group 5 (justice) and Group 7 (validity).
+
+**Constructional patterns (F4):** Zero copula in present tense is the default. The verb התברר (hitbarer, "it became clear/turned out") is the standard inchoative for truth-revelation, with no direct equivalent in most other languages. Causative constructions for "making true" are absent; instead, Hebrew uses verbs of proving (הוכיח), verifying (אימת), or establishing (ביסס). The metaphor of truth as a hidden object that can be revealed (גילה, חשף, הוציא לאור) or concealed (הסתיר, כיסה) is highly productive.
+
+**Oppositional structures (F5):** אמת/שקר is the primary lexical opposition. Morphological negation with לא is the dominant negation strategy. Several oppositions are scalar rather than binary (קשה להאמין vs. אי אפשר להאמין). The pairing אמת ושלום (truth and peace) represents a culturally specific tension not found in other languages.
+
+---
+
+### sa (Sanskrit)
+
+**Main lexical distinctions and overlaps (F1–F3):** Sanskrit has the most elaborated epistemological vocabulary in the corpus. The pramāṇa system (perception, inference, testimony as valid knowledge sources) has no parallel in other languages. The satya/mithyā opposition covers both factual truth and ontological reality/illusion. The vyavahāra/paramārtha distinction (conventional vs. ultimate truth) is unique to this corpus. F3 identifies 10 groups: factual correspondence, epistemic validity/justification, cognitive error/illusion, metaphysical falsity/illusoriness, moral truthfulness/deception, righteousness/proper conduct, ignorance/knowledge, Vedic cosmic-moral order (archaic), essential nature/identity, and similarity/correspondence.
+
+**Derivational/morphological asymmetries:** The privative prefix a-/an- is highly productive (asatya, adharma, asādhu, avidyā, ayathārtha, apramā), creating systematic antonyms. The -tā and -tva suffixes both create abstract nouns with no clear semantic difference, with lexical preferences varying by base. The dual genitive construction (satyāsatyayoḥ, pramābhramayoḥ) is a distinctive Sanskrit pattern for expressing binary oppositions. The Vedic terms ṛta/anṛta are archaic and largely replaced by satya/asatya in classical usage.
+
+**Constructional patterns (F4):** The ablative standpoint construction (-taḥ suffix: paramārthataḥ, vyavahārataḥ) is unique to Sanskrit in this corpus and marks epistemic/metaphysical perspective. The locative domain construction (vyavahāre satyam, paramārthe satyam) relativizes truth claims to levels of analysis. Causative morphology (NIC suffix) is theoretically available but not attested for truth-domain predicates; causation is expressed periphrastically. The optative mood (brūyāt) is the standard for moral obligation.
+
+**Oppositional structures (F5):** The a-/an- privative prefix creates the most systematic set of morphological oppositions in the corpus. The vyavahāra/paramārtha opposition is unique — a scalar/hierarchical rather than binary contrast. The dual construction (satyāsatyayoḥ) embeds opposition within a single grammatical form.
+
+---
+
+### el (Greek)
+
+**Main lexical distinctions and overlaps (F1–F3):** Greek has the most productive prefix for generating false-X compounds: ψευδ- generates ψευδοεπιστήμη (pseudoscience), ψευδοδημοκρατία (pseudo-democracy), ψευδοπληροφορία (misinformation), and many others. The ορθ- root covers correctness, orthodoxy, and extends into medical (ορθοπεδική), dental (ορθοδοντική), geometric (ορθογώνιο), and linguistic (ορθογραφία) domains. F3 identifies 17 groups including truth-telling/lying, legal/testimonial falsity, authenticity of objects, sincerity/hypocrisy, correctness/error, precision, reality vs. appearance, justice/fairness, legal validity, certainty/doubt, substantiality, pseudo-X constructions, misinformation, orthographic correctness, orthodox belief, technical ορθ- extensions, and rationality.
+
+**Derivational/morphological asymmetries:** The -ότητα suffix productively creates abstract nouns from adjectives (αληθινότητα, αυθεντικότητα, εγκυρότητα). The ψευδ- prefix is more productive than equivalents in other languages, generating a distinct semantic group (Group 12) of pseudo-X constructions. There is a notable gap: no single-word agentive for "truth-teller" (*αληθευτής is not standard), while ψεύτης (liar) is fully lexicalized.
+
+**Constructional patterns (F4):** The verb γίνομαι (become) + adjective is the standard inchoative. The verb αποκαλύπτεται (is revealed) is the standard passive for truth-revelation. The verb διαψεύδω (disprove/refute) has no close parallel in other languages. Several discourse markers are grammaticalized from truth terms (αλήθεια? as surprise marker, πραγματικά as "really/basically," ουσιαστικά as "basically"). The construction "expose as fake" (εκθέτω ως ψεύτικο) is well-attested.
+
+**Oppositional structures (F5):** The αλήθεια/ψέμα opposition is primary. Color metaphors for lies (άσπρο ψέμα "white lie," μαύρο ψέμα "black lie") are attested. The αληθοφάνεια/αλήθεια (verisimilitude vs. truth) distinction is notable. Several oppositions lack attested lexical counterparts (ορθολογικός lacks an attested opposite in the data; ορθοδοξία lacks an attested heterodoxy term).
+
+---
+
+### en (English)
+
+**Main lexical distinctions and overlaps (F1–F3):** English has the largest raw vocabulary in the corpus, with extensive fixed expressions and idioms. The true/false, real/unreal, genuine/fake, correct/incorrect, right/wrong, valid/invalid, honest/dishonest, reliable/unreliable families are all distinct. F3 identifies 11 groups: correspondence to facts, authenticity of objects/credentials, ontological reality vs. appearance, logical/argumentative soundness, reliability/dependability, moral honesty/truthfulness, appropriateness/fittingness, legitimacy/authorization, precision/exactness, rightness in moral/practical domains, and technical verification/testing. The "right/wrong" pair is notably polysemous, spanning epistemic, moral, and practical domains.
+
+**Derivational/morphological asymmetries:** The false → falsify → falsification → falsifiable → falsifiability chain is unusually long and productive, reflecting the influence of philosophy of science. The term "truthiness" (coined 2005) and "post-truth" (prominent 2016) are neologisms with no equivalents in other languages in the corpus. The agentive gap for "truth-teller" (no single word; "liar" is fully lexicalized) parallels Greek. The word "right" is the most polysemous truth-domain term in the corpus, covering epistemic correctness, moral propriety, legal entitlement, and practical appropriateness.
+
+**Constructional patterns (F4):** The "come true" construction is restricted to the adjective "true" and does not extend to other truth-domain adjectives (*came false, *came authentic are ungrammatical). Direct causatives like "make X true" are largely ungrammatical; dedicated causative verbs (verify, authenticate, validate, falsify, correct) are required. The "prove X wrong/right" resultative is productive. The "so-called" construction marks metalinguistic skepticism about category membership.
+
+**Oppositional structures (F5):** Morphological negation (un-, in-, dis-) is the dominant strategy for creating antonyms. The false positive/false negative opposition is a technical pair unique to this corpus. The real/surreal and real/virtual reality oppositions reflect modern technological and artistic contexts.
+
+---
+
+### tl (Tagalog)
+
+**Main lexical distinctions and overlaps (F1–F3):** Tagalog has a notable lexical split between totoo (factual truth, correspondence to reality) and tunay (genuineness, authenticity, sincerity). This distinction is more grammatically marked than in most other languages. F3 identifies 15 groups including factual correspondence, authenticity/genuineness, correctness/error, deception/lying, cheating/fraud, illusion/deceptive appearance, fabrication/invention, evidence/proof, concealment/revelation, honesty/sincerity, appropriateness/fit, discourse management, emphatic/intensifying constructions, comparative/superlative constructions, and cessation/sufficiency expressions. The last group (tama na = "enough/stop") represents a semantic extension of a correctness term into a cessation domain not found in other languages.
+
+**Derivational/morphological asymmetries:** The circumfix ka-...-an productively creates abstract nouns (katotohanan, katunayan, katapatan, katamaan). The pag- prefix creates action nominals. The -in patient voice and -an locative/benefactive suffixes create systematic verbal alternations. The causative pa- + tunay generates patunayan (to prove), with further derivations (mapatunayan, napatunayan, pinatunayan). The tama na construction shows semantic drift from correctness to cessation/sufficiency, which is unique in the corpus.
+
+**Constructional patterns (F4):** The particle system (ba for questions, nga for emphatic affirmation, lang for limitation, naman for concession, pa for continuation) generates a large number of pragmatic constructions from base truth terms. The existential predicates may/walang (has/without) with abstract nouns (may katotohanan, walang katunayan) are a productive pattern for asserting or denying presence of truth/evidence. The ang topic-focus construction (tama ang...) is distinctive.
+
+**Oppositional structures (F5):** The totoo/kasinungalingan and tunay/peke oppositions are primary. The may/walang existential opposition is highly productive. The tama/mali opposition is the primary correctness pair. The lantád/lihim (exposed/hidden) opposition is a distinctive revelation/concealment pair.
+
+---
+
+### sw (Swahili)
+
+**Main lexical distinctions and overlaps (F1–F3):** Swahili truth vocabulary is heavily influenced by Arabic loanwords: sahihi (correct, from ṣaḥīḥ), hakika (certain, from ḥaqīqa), halisi (genuine, from ḫāliṣ), haki (right/justice, from ḥaqq), adili (just, from ʿādil). The native root kweli/uongo provides the primary truth/falsehood opposition. F3 identifies 9 groups: factual accuracy/correctness, falsehood/deception, genuineness/authenticity, rights/justice/moral correctness, error/deviation, completeness/perfection, clarity/obviousness, certainty/confidence, and purity/cleanliness (extended to truth).
+
+**Derivational/morphological asymmetries:** The u- prefix creates abstract nouns (ukweli, uongo, usahihi, uhakika, uhalisia, uadilifu). The -isha causative suffix is highly productive (sahihisha, hakikisha, kamilisha, dhihirisha, safisha). The -ika stative suffix creates intransitive statives (kamilika, hakikika). The noun class system requires agreement across all modifying elements. The Arabic loanwords do not always integrate fully into the derivational system — some (like sahihi) take -isha causatives productively, while others show more limited derivation.
+
+**Constructional patterns (F4):** The copular ni/si (is/is not) is invariant across noun classes, simplifying attribution constructions. The verb-object collocations (sema ukweli, toa ushahidi) are highly conventionalized. The kwa + abstract noun adverbial pattern (kwa kweli, kwa usahihi, kwa hakika) is productive. Reduplication (kweli kweli, sawa sawa) is marginal and primarily informal. The -ish- causative is the primary means of expressing causation of truth-domain states.
+
+**Oppositional structures (F5):** The kweli/uongo opposition is primary. The halisi/bandia (genuine/fake) opposition is the main authenticity pair. Several logical opposites are not attested in the data (adili lacks an attested opposite; dhahiri lacks an attested hidden/secret opposite; safi lacks an attested dirty/impure opposite in the truth domain). The ni/si copular alternation is the most productive negation strategy.
+
+---
+
+### qu (Quechua)
+
+**Main lexical distinctions and overlaps (F1–F3):** Quechua has the most grammatically integrated evidential system in the corpus: the suffixes -mi (direct knowledge), -si (reportative/hearsay), and -cha (conjectural) are obligatory in main clauses and directly encode the epistemic basis of truth claims. The primary opposition is chiqan (true/genuine) vs. llulla (false/lying). The term allin covers broad positive evaluation across moral, practical, and aesthetic domains. F3 identifies 14 groups: truth-asserting terms, falsehood/deception, error/mistake, positive evaluation, negative evaluation, knowledge/epistemic terms, perception/appearance, verification/authentication, completeness/wholeness, existence/being, directness/straightness, emphatic/intensifying particles, speech/communication, and character/disposition.
+
+**Derivational/morphological asymmetries:** The -ya- inchoative suffix (allinyay = become good) is productive for positive change but no parallel inchoative for "becoming bad" is attested. The -cha- causative (allinchay = make good, chiqanchay = verify) and -ku- reflexive combine productively. The -q agentive nominalizer creates agent nouns (llullakuq = liar). The evidential suffixes attach to truth-domain terms to create epistemically marked assertions (chiqapmi, chiqapsi, chiqapcha). The accusative -ta with truth terms creates the standard "speak the truth/lie" construction (chiqanta rimay, llullata rimay).
+
+**Constructional patterns (F4):** The evidential system is the most distinctive feature: all main-clause assertions about truth are marked for epistemic source. Prohibitive constructions require both ama and -chu (ama llullakychu). Locative and directional constructions with truth terms (chiqanpi kay, chiqanman kutiy) are marginal and metaphorical. The disjunctive question (chiqanchu llullachu = true or false?) is a productive pattern. No simple verb for "becoming bad/false" is attested; periphrastic constructions are required.
+
+**Oppositional structures (F5):** The chiqan/llulla opposition is primary and generates parallel compound pairs (chiqan runa/llulla runa, chiqan simi/llulla simi, chiqan kaq/llulla kaq). The allin/mana allin opposition is morphological (negation). Several expected opposites are absent: no inchoative for deterioration, no causative for making bad, no dedicated antonym for pantay (to err).
+
+---
+
+## 3. Cross-Language Summary
+
+### Recurring Convergences (patterns observed in many languages)
+
+- **A primary binary opposition between truth and falsehood is present in all eight languages**, typically as a lexical pair: zh 真/假, he אמת/שקר, sa satya/asatya, el αλήθεια/ψέμα, en true/false, tl totoo/kasinungalingan (or totoo/llulla in qu), sw kweli/uongo, qu chiqan/llulla. In all languages, this opposition is the most productive source of derived forms and constructions.
+
+- **A distinction between factual truth (correspondence to reality) and authenticity/genuineness (of objects or persons) is present in most languages**, though the degree of lexical separation varies. Chinese distinguishes 真实 (factual) from 真品/真迹 (authentic objects); Hebrew distinguishes אמת (factual) from אמיתי/אותנטי (genuine); Tagalog has the clearest lexical split (totoo vs. tunay); Swahili distinguishes kweli (truth) from halisi (genuine); Greek distinguishes αλήθεια (truth) from γνήσιος/αυθεντικός (authentic). Sanskrit, English, and Quechua show less sharp lexical separation between these domains.
+
+- **Morphological negation is the dominant strategy for creating antonyms of truth-domain terms in all languages.** Chinese uses 不/非/无, Hebrew uses לא, Sanskrit uses a-/an-, Greek uses α-/αν-, English uses un-/in-/dis-, Tagalog uses hindi/di-, Swahili uses si/mana, Quechua uses mana. In all cases, morphological negation is more productive than dedicated lexical antonyms for most truth-domain terms.
+
+- **Causative constructions for establishing, verifying, or correcting truth are present in all languages**, but the preferred strategy varies: Chinese uses resultative verb compounds (改正, 落实, 证实); Hebrew uses dedicated causative verbs (הוכיח, אימת, ביסס); Sanskrit uses causative morphology (-ish-) and dedicated verbs; Greek uses dedicated verbs (βεβαιώνω, αποδεικνύω, ακυρώνω); English uses dedicated causative verbs (verify, authenticate, validate, falsify, correct); Tagalog uses pa-causative (patunayan); Swahili uses -isha causative (sahihisha, hakikisha); Quechua uses -cha- causative (chiqanchay, allinchay).
+
+- **Discourse markers derived from truth terms are present in all languages.** Chinese: 说真的, 说实话, 老实说; Hebrew: באמת?, להיות כנה; Sanskrit: satyam (as emphatic particle); Greek: αλήθεια? (surprise), πραγματικά (really/basically); English: to be honest, to tell the truth; Tagalog: sa totoo lang, totoo lang; Swahili: kwa kweli, kwa hakika; Quechua: chiqap, k'ari. In all languages, these forms have undergone some degree of pragmatic grammaticalization beyond their literal truth-evaluating function.
+
+- **A gap in agentive nominalization for "truth-teller" (as opposed to "liar") is observable in multiple languages.** English lacks a single-word equivalent (*truth-teller is a compound, not a derived form); Greek lacks *αληθευτής; Chinese lacks a productive single-word form. By contrast, "liar" is lexicalized in all languages: zh 说谎者/骗子, he שקרן, sa mithyāvādin, el ψεύτης, en liar, tl sinungaling, sw mwongo, qu llullakuq. This asymmetry — liar is lexicalized, truth-teller is not — appears across at least five of the eight languages.
+
+- **Constructions treating truth as a hidden object that can be revealed or concealed are attested in multiple languages.** Hebrew: האמת תצא לאור (truth will come to light), הסתיר את האמת (hide the truth); Greek: βγαίνει η αλήθεια στη φόρα (truth comes to the surface), κρύβω την αλήθεια; English: the truth came to light, hide the truth; Tagalog: lantád/lihim (exposed/hidden); Swahili: gundua ukweli (discover truth), ficha ukweli (hide truth). This spatial/container metaphor for truth is absent or marginal in Sanskrit and Quechua.
+
+---
+
+### Major Divergences (patterns observed in only one or two languages)
+
+- **Sanskrit alone has a fully elaborated epistemological apparatus as part of the core truth vocabulary.** The pramāṇa system (perception, inference, testimony as distinct valid knowledge sources), the pramā/apramā/bhrama distinctions, and the vyavahāra/paramārtha two-truths framework have no parallels in the other seven languages. Other languages have epistemic vocabulary (Hebrew ודאי, English valid, Quechua yachay), but none organizes it into a systematic epistemological taxonomy within the truth-domain vocabulary.
+
+- **Quechua alone has grammatically obligatory evidential marking on truth-domain assertions.** The suffixes -mi (direct knowledge), -si (hearsay), and -cha (conjecture) are not optional emphatic particles but grammatical requirements in main clauses. This means that in Quechua, every assertion about truth is grammatically marked for its epistemic source, a feature absent in all other languages in the corpus.
+
+- **Greek alone has a highly productive ψευδ- prefix generating a distinct semantic group of "pseudo-X" constructions** (ψευδοεπιστήμη, ψευδοδημοκρατία, ψευδοδιανοούμενος, etc.). While other languages have some equivalent compounds (English pseudo-science, Chinese 伪科学), none generates them as systematically from a single prefix that is also the root for "lie/false."
+
+- **Tagalog alone shows a semantic extension of a correctness term (tama) into a cessation/sufficiency domain** (tama na = "enough/stop"). This semantic drift, where a term meaning "correct" comes to mean "sufficient" or "stop," is not attested in the other seven languages.
+
+- **Sanskrit and Chinese alone have a formally marked two-level or hierarchical truth distinction.** Sanskrit has vyavahāra (conventional) vs. paramārtha (ultimate), with dedicated adverbial forms (vyavahārataḥ, paramārthataḥ). Chinese has 实际 (practical/actual) vs. 本质 (essential nature) and the philosophical 真理 (fundamental truth) vs. 真相 (factual truth), though less formally marked than Sanskrit. No other language in the corpus has a grammatically marked distinction between levels of truth.
+
+- **Swahili alone shows a large-scale Arabic loanword stratum as the primary source of precision/correctness vocabulary.** While other languages have loanwords (Greek αυθεντικός from Greek into other languages; English bona fide from Latin; Tagalog sinsero from Spanish), Swahili's core truth vocabulary — sahihi, hakika, halisi, haki, adili — is predominantly Arabic-derived, creating a situation where the native root (kweli/uongo) and the Arabic-derived terms (sahihi, hakika) coexist with partially overlapping functions.
+
+- **Hebrew alone has a single root (א-מ-נ) that covers factual truth, reliability, faith, and belief as a unified family.** In all other languages, these domains are covered by distinct roots: Chinese 真 (truth) vs. 信 (belief/trust); Sanskrit satya (truth) vs. śraddhā (faith); Greek αλήθεια (truth) vs. πίστη (faith); English true vs. believe/trust; Tagalog totoo (truth) vs. paniniwala (belief); Swahili kweli (truth) vs. imani (faith); Quechua chiqan (truth) vs. yachay (knowledge). The semantic unity of the א-מ-נ root in Hebrew is a distinctive feature.
+
+---
+
+### Asymmetries, Gaps, and Irregularities
+
+- **The inchoative asymmetry (becoming true/good is lexicalized; becoming false/bad is not) appears in multiple languages.** Quechua has allinyay (become good) but no attested *llullayay (become false) as a pure inchoative. Chinese has 变得真实 (become authentic) but 变假 is marginal. Greek has γίνομαι αληθινός (become true) but the reverse is less natural. English "come true" is restricted to the positive direction (*come false is ungrammatical). This asymmetry — positive change is more readily lexicalized than negative change — appears across at least four languages.
+
+- **The causative asymmetry (making true/correct is lexicalized; making false is often periphrastic or restricted) appears in multiple languages.** English "make X true" is largely ungrammatical; dedicated verbs (verify, authenticate) are required for the positive direction, while falsify covers the negative. Hebrew has no common direct causative "to make X true." Greek lacks a simple causative for making true. Quechua chiqanchay (verify/authenticate) is attested but *llullachay (make false) is not. The negative causative (making false) tends to be expressed through deception verbs (deceive, forge, falsify) rather than through direct causatives of the falsity adjective.
+
+- **Technical/specialized extensions of truth-domain roots into non-truth domains are present in all languages but vary in productivity.** Chinese 正 extends into mathematics (正数, 正比), geometry (正方形), and time (正午, 正点). Greek ορθ- extends into medicine (ορθοπεδική, ορθοδοντική), geometry (ορθογώνιο), and biology (ορθόπτερα). Sanskrit √mā extends into measurement (māna, mātrā, parimāṇa) and construction (nirmāṇa). English false extends into music (falsetto), statistics (false positive/negative), and law (false imprisonment). These extensions are language-specific and do not show cross-linguistic parallelism in their target domains.
+
+- **The relationship between truth and justice/moral rightness is handled differently across languages.** Hebrew צדק (justice/rightness) and צודק (you're right) are from the same root, tightly linking factual correctness with moral justice. Chinese 正 covers both correctness and moral uprightness. Sanskrit dharma covers moral rightness but is distinct from satya (truth). Greek δίκαιος (just) is separate from αληθινός (true). English right covers both but as polysemy rather than derivational unity. Swahili haki covers both truth and rights/justice. Quechua allin covers goodness/correctness but not justice specifically. The degree of lexical integration between truth and justice varies from tight (Hebrew, Chinese) to loose (Sanskrit, Greek, English).
+
+- **Fixed expressions and proverbs about truth and lies are present in all languages but are not cross-linguistically parallel in content.** Chinese has 真金不怕火炼 (true gold fears no fire); Hebrew has האמת תצא לאור (truth will come to light); Greek has το ψέμα έχει κοντά ποδάρια (lies have short legs); English has the truth will out; Tagalog has no single dominant proverb but has the tunay na kulay (true colors) idiom; Swahili has ukweli mtupu (bare truth) as a fixed phrase; Sanskrit has satyam eva jayate (truth alone conquers); Quechua has no proverbs attested in the data. The content of these fixed expressions is not shared across languages, though the existence of such expressions is universal in the corpus.
+
+- **The treatment of "appearance vs. reality" as a distinct semantic domain varies considerably.** Sanskrit has the most elaborate vocabulary for this distinction (mithyā, ābhāsa, vyavahāra/paramārtha, māyā). Greek has αληθοφάνεια (verisimilitude) and εικονικός (virtual/apparent). Chinese has 表里如一 (same inside and out) and 名副其实 (worthy of the name). Hebrew has מציאותי (realistic) and מזויף (forged). English has real/unreal, virtual reality, surreal. Tagalog has palabás (pretense/facade) and kunwari (pretend). Swahili has uhalisia (authenticity/reality). Quechua has rikch'ay/rikch'akuy (to appear/seem). The appearance/reality distinction is present in all languages but is most elaborated in Sanskrit and least elaborated in Quechua.
+
+- **Several languages show productive constructions that are absent or marginal in others.** The Sanskrit dual genitive (satyāsatyayoḥ) for expressing binary oppositions has no parallel. The Tagalog existential may/walang + abstract noun (may katotohanan, walang katunayan) as a truth-assertion strategy has no close parallel. The Quechua evidential suffixes on truth terms have no parallel. The Chinese resultative verb compounds (改正, 落实, 证实) where truth-domain roots function as resultative complements have no parallel. These constructions are each unique to their respective languages in the corpus.

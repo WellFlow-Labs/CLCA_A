@@ -1,0 +1,184 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Sanskrit (sa)
+# Transliteration standard: IAST
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Nominal sentence: truth-domain adjective/noun as predicate nominative, with subject in nominative. Copula (*asti*, *bhavati*) is frequently omitted in classical prose; when present it follows the predicate. Word order is flexible; predicate-initial order is common in philosophical assertion.
+
+### Examples
+- सत्यं परं धर्मः
+  *satyaṃ paraṃ dharmaḥ*
+  "Truth is the highest dharma." (Mahābhārata)
+
+- असत्यं पापम्
+  *asatyaṃ pāpam*
+  "Untruth is sin / falsehood is a moral wrong." (Dharmaśāstra literature)
+
+### Notes
+The zero-copula nominal sentence is the unmarked form for truth-domain attribution in Sanskrit. The predicate typically precedes the subject in maxim-style assertions. When *bhavati* is present (e.g., *mithyā bhavati*, "it is false/illusory"), it follows the predicate and marks the construction as more explicitly propositional rather than gnomic.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Negative particle *na* placed immediately before the predicate nominal or before the copula. In zero-copula sentences, *na* + predicate nominal constitutes the full negation. With explicit copula: *na bhavati* or *na asti* (*nāsti*) follows the predicate.
+
+### Examples
+- भ्रमो न प्रमा
+  *bhramo na pramā*
+  "Error is not valid cognition." (Nyāya epistemological literature)
+
+- प्रमाणं नास्ति
+  *pramāṇaṃ nāsti*
+  "There is no valid means of knowledge / there is no authority for this." (Standard dismissal formula in philosophical debate)
+
+### Notes
+*Na* + zero-copula is the standard form for negating a truth-domain predication in philosophical argument. The existential negation *nāsti* (*na* + *asti*) is used when the claim is that no relevant epistemic ground exists at all, rather than that a given subject lacks a property.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Truth-domain adjective precedes the noun it modifies (standard Sanskrit adjective-noun order). The adjective agrees with the noun in gender, number, and case. Alternatively, a genitive phrase (*X-sya Y*) expresses "the Y of X." Compounds (adjective + noun written as a single unit) are the dominant form for stable collocations; syntactically free modification is used for contextual or contrastive predication.
+
+### Examples
+- यथार्थं ज्ञानम्
+  *yathārthaṃ jñānam*
+  "Accurate cognition / knowledge that is as the object is." (Epistemological literature, Nyāya and Mīmāṃsā)
+
+- धर्मस्य तत्त्वं निहितं गुहायाम्
+  *dharmasya tattvaṃ nihitaṃ guhāyām*
+  "The true nature of dharma is hidden in a cave." (Mahābhārata, Vanaparvan)
+
+### Notes
+Free adjectival modification (*yathārthaṃ jñānam*) is used when the truth-domain property is being predicated contextually or contrastively. The genitive construction (*dharmasya tattvaṃ*) is preferred when the modified noun is itself the topic and the truth-domain term characterizes a sub-aspect of it. Compounding (e.g., *satyavacana*, *mithyājñāna*) is the dominant form for lexicalized collocations and is treated in P2a rather than here.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Truth-domain noun or adjective as predicate with *bhavati* (becomes, comes to be, from root *bhū-*) or *jāyate* (arises, is produced, from root *jan-*). The inchoative reading ("comes to be X") is distinguished from the stative copular reading ("is X") by context and by the choice of verb: *bhavati* covers both, while *jāyate* more specifically marks production or arising.
+
+### Examples
+- प्रमा जायते
+  *pramā jāyate*
+  "Valid cognition arises / true knowledge is produced." (Nyāya epistemological literature, describing the outcome of employing a *pramāṇa*)
+
+- मिथ्याज्ञानं निवर्तते
+  *mithyājñānaṃ nivartate*
+  "False knowledge ceases / erroneous cognition is removed." (Vedāntic literature, describing the soteriological removal of *mithyājñāna*)
+
+### Notes
+Sanskrit does not have a dedicated inchoative morpheme for this domain. The inchoative sense is expressed periphrastically through *jāyate* (arising/production) or through the cessation verb *nivartate* (ceases, is removed), which marks the inverse transition. The *pramā jāyate* construction specifically marks *pramā* as the output of an epistemic process rather than a standing state.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Two attested causative patterns in this domain:
+
+**(a) Morphological causative:** Root + causative suffix *-aya-* + personal endings. Attested for *āp-* (to reach/attain) → causative *āpaya-*, yielding *satyāpana* (causing truth to be established, verification) and *satyāpita* (caused to be verified, past passive participle). This is the productive morphological causative in the administrative-legal register.
+
+**(b) Periphrastic causative:** Truth-domain noun + *karaṇa* (making, from root *kṛ-*), yielding compounds such as *pramāṇīkaraṇa* (making into an authority, validation). This pattern is more common in modern Sanskrit-influenced administrative usage.
+
+### Examples
+- सत्यापन
+  *satyāpana*
+  "Verification, attestation" — the act of causing the truth of a statement to be established. (Legal and administrative Sanskrit)
+
+- प्रमाणीकरण
+  *pramāṇīkaraṇa*
+  "Validation, authentication, certification" — making something into an authoritative/valid source. (Modern Sanskrit-influenced administrative language)
+
+### Notes
+The morphological causative on truth-domain roots is not broadly productive in classical philosophical Sanskrit; the domain's causative meanings are largely expressed through nominal compounds with *karaṇa* or through the *satyā-* + causative-of-*āp-* pattern. No common causative form of *satya*, *pramā*, or *dharma* as bare roots is attested in the philosophical literature.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Two productive suffixes:
+
+**(a)** *-tā* (feminine abstract): attaches to adjectives and nominals to yield abstract nouns of property. Fully productive across the domain.
+
+**(b)** *-tva* (neuter abstract): parallel to *-tā*; more frequent in technical philosophical argument. Both suffixes are freely applicable; both forms are often attested for the same base.
+
+The resulting nominals function as subjects and objects of predication in philosophical argument, naming the property at issue rather than a particular instance of it.
+
+### Examples
+- सत्यता / सत्यत्व
+  *satyatā / satyatva*
+  "Truthfulness, the property of being true." (Philosophical and ethical discourse)
+
+- मिथ्यात्व
+  *mithyātva*
+  "The property of being *mithyā* / illusoriness." (Advaita Vedānta; the abstract property that is the central object of ontological debate in that tradition)
+
+### Notes
+Both *-tā* and *-tva* are fully productive on truth-domain bases: *satyatā/satyatva*, *yathārthatā/yathārthatva*, *tathyatā/tathyatva*, *vāstavatā/vāstavatva*, *mithyātva*, *bhramatva*, *prāmāṇya* (the last formed with *-ya* after vṛddhi, a third pattern specific to *pramāṇa*-family terms). The choice between *-tā* and *-tva* is partly stylistic and partly school-conventional; no consistent semantic distinction between them is supported by the data.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Suffix *-in* (possessive/agentive, yielding "one who has/does X") or compound with *vādin* (one who speaks/asserts, from root *vad-*) or *darśin* (one who sees, from root *dṛś-*). The *-vādin* compound is the dominant pattern for truth-domain agents in ethical and epistemological literature.
+
+### Examples
+- सत्यवादिन्
+  *satyavādin*
+  "One who speaks truth, a truth-teller." (Epic and Dharmaśāstra literature; used as an epithet of virtuous figures and as a category in discussions of reliable testimony)
+
+- असत्यवादिन्
+  *asatyavādin*
+  "One who speaks falsely, a liar." (Ethical and legal literature; used to characterize an unreliable speaker or witness)
+
+### Notes
+The *-vādin* compound is the standard agentive form for truth-domain agents in Sanskrit: *satyavādin*, *asatyavādin*, *mithyāvādin*, *yathārthavādin*. The suffix *-in* is used for the logical subject (*dharmin*, "the locus of a property") but not productively for truth-domain agents in the ethical-epistemological sense. The *-vādin* pattern is asymmetric: positive (*satyavādin*) and negative (*asatyavādin*, *mithyāvādin*) forms are both well-attested, but no agentive form for the knower-of-truth in the epistemological sense is built on *-vādin*; that role is filled by *pramātṛ* (the knowing subject, from root *mā-* with agent suffix *-tṛ*).
+
+---
+
+## 8. PRESCRIPTIVE / INJUNCTIVE CONSTRUCTION
+
+### Pattern
+Truth-domain noun in accusative + verb of speaking (*vad-*, *brū-*) or conduct (*car-*) in the optative (*-yāt* endings) or imperative. The optative expresses normative obligation ("one should"); the imperative expresses direct command. Negative prescriptions use *na* + optative. This construction type is so frequent and structurally distinctive in the Sanskrit truth domain that it warrants separate treatment.
+
+### Examples
+- सत्यं ब्रूयात्
+  *satyaṃ brūyāt*
+  "One should speak the truth." (Manusmṛti 4.138 and Dharmaśāstra literature generally; the standard prescriptive formula for the duty of truthful speech)
+
+- असत्यं न वदेत्
+  *asatyaṃ na vadet*
+  "One should not speak untruth." (Dharmaśāstra; the standard prohibitive formula, parallel in structure to the positive injunction)
+
+### Notes
+The optative of *brū-* (*brūyāt*) and *vad-* (*vadet*) with a truth-domain accusative is the canonical syntactic form for ethical prescriptions about speech in Sanskrit Dharmaśāstra. The imperative form (*satyaṃ vada*, Taittirīya Upaniṣad 1.11.1) is used in foundational injunctive contexts. This construction type is specific to the speech-evaluating and conduct-evaluating groups (P3 Groups 3 and 6) and does not extend to the epistemological or ontological groups.
+
+---
+
+## 9. ABLATIVE DEVIATION CONSTRUCTION
+
+### Pattern
+Truth-domain noun in ablative (*-āt* ending) + negative verb of motion or deviation (*na calati*, *na pracalati*, *na cyavate*): "does not deviate/move from X." The ablative marks the standard from which deviation is negated. The positive counterpart (*cyuta*, "fallen from," past passive participle + ablative) expresses deviation. This construction is productive across ethical and aesthetic vocabulary in the truth domain.
+
+### Examples
+- सत्यात् न प्रचलति
+  *satyāt na pracalati*
+  "Does not deviate from truth / does not swerve from truth." (Epic literature; characterization of a person of unwavering truthfulness)
+
+- औचित्यात् च्युतम्
+  *aucityāt cyutam*
+  "Fallen from propriety / deviated from what is fitting." (Sanskrit aesthetic literature; standard formula for a composition or act that has violated the standard of fittingness)
+
+### Notes
+The ablative + *na calati/pracalati* construction is the standard Sanskrit formula for expressing steadfast adherence to a normative standard by negating departure from it. The inverse — ablative + *cyuta* (fallen from) — expresses the positive fact of deviation. Both patterns are productive across the conduct-evaluating (P3 Group 6) and fittingness-evaluating (P3 Group 10) domains. The construction does not appear in the epistemological groups, where deviation from a standard is expressed differently (e.g., *pramāṇaviruddha*).

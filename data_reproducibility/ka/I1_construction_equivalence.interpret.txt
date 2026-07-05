@@ -1,0 +1,177 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Georgian (ka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Copular construction: NP + არის (aris) + ADJ | ეს მართალია (es mart'alia) "this is true" | Direct equivalent. Incorporated copula form is unmarked. | None |
+| **ADNOM** | Attributive adjective + Noun | ნამდვილი მეგობარი (namdvili megobari) "true friend" | Direct equivalent. Invariant adjective precedes noun. | None |
+| **BECOME** | გახდომა (gakhdoma) "become" + ADJ | ეს მართალი გახდა (es mart'ali gakhda) "this became true" | Direct equivalent. Standard inchoative verb. | None |
+| **REVELATION** | **NO DEDICATED CONSTRUCTION** | გამოვლინდა (gamovlinda) "was revealed" (lexical verb only) | **SUBSTITUTED BY BECOME or lexical verbs** (გამოვლენა gamovlena "revealing," გამოჩენა gamoch'ena "appearing") | Constructional gap - no grammatical operator |
+| **CAUSATION (factual)** | **NO MORPHOLOGICAL CAUSATIVE** | დაამტკიცა სიმართლე (daamt'k'itsa simart'le) "proved the truth" | **SUBSTITUTED BY VERIFICATION verbs** (დამტკიცება damt'k'itseba "proving," ჩვენება ch'veneba "showing") | Morphosyntactic gap - direct causatives of truth-adjectives are marginal |
+| **CAUSATION (character)** | მა-...-არა pattern for agents | მატყუარა (mat'q'uara) "liar" | Agentive nominalization serves this function. Not causative per se but creates agent nouns. | Partial - no causative construction, only agent nouns |
+| **VERIFICATION** | Lexical verbs + truth noun object | დაამტკიცა სიმართლე (daamt'k'itsa simart'le) "proved the truth"; გადაამოწმა ინფორმაცია (gadaamots'ma inpormatsia) "verified the information" | Direct equivalent through lexical verb class (დამტკიცება, გადამოწმება, დადასტურება). | None |
+| **DISCONFIRMATION** | **NO DEDICATED CONSTRUCTION** | უარყო (uarq'o) "denied, refuted" (lexical verb only) | **NO COMMON EXPRESSION** - requires circumlocution with negation + verification verbs or specific lexical verbs (უარყოფა uarq'opa "refutation," გაბათილება gabat'ileba "invalidation") | Constructional gap |
+| **NEGATION** | Particle არ (ar) + copula | ეს არ არის მართალი (es ar aris mart'ali) "this is not true" | Direct equivalent. Analytic negation with obligatory preverbal particle. | None |
+| **NOMINALIZATION** | სი-...-ე prefix-suffix frame; -ობა suffix | სიმართლე (simart'le) "truth"; სანდოობა (sandooba) "reliability" | Direct equivalent. Highly productive patterns. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME Substitution
+Georgian lacks a dedicated grammatical construction for revelation (truth coming to light, being discovered). The concept is expressed through:
+- **BECOME constructions**: ეს მართალი გახდა (es mart'ali gakhda) "this became true/turned out to be true" - the inchoative verb გახდომა serves double duty for both change of state and realization/discovery
+- **Lexical verbs**: გამოვლენა (gamovlena) "revealing," გამოჩენა (gamoch'ena) "appearing," გამოვლინდა (gamovlinda) "was revealed" - these are specific lexical items, not productive constructions with truth-adjectives
+
+The P4a notes explicitly state: "Some contexts prefer specific verbs (e.g., გამოვლინდა gamovlinda 'was revealed' for truth emergence)." This indicates that revelation is not a grammaticalized operator but rather a lexical domain.
+
+### CAUSATION → VERIFICATION Substitution
+Georgian shows a systematic avoidance of morphological causatives for truth-domain adjectives. The P4a notes state: "Direct causatives of truth-adjectives are rare" and "Georgian uses specific verbs like დამტკიცება (damt'k'itseba) 'proving,' გამოვლენა (gamovlena) 'revealing,' or ჩვენება (ch'veneba) 'showing' to express causation in the truth domain."
+
+The P4b ratings confirm this: გაამართლა (gamart'la) "justified" is marked [MARGINAL] with the note "Causative morphology with truth-adjectives is restricted."
+
+Instead, Georgian uses:
+- **VERIFICATION verbs** as the functional equivalent of factual causation: დაამტკიცა (daamt'k'itsa) "proved," დადასტურა (dadast'ura) "confirmed"
+- These verbs take truth nouns (not adjectives) as direct objects
+- The construction is: VERB + სიმართლე (simart'le) "truth" or VERB + ინფორმაცია (inpormatsia) "information"
+
+### DISCONFIRMATION Gap
+Georgian lacks a productive construction for disconfirmation parallel to verification. While verification has multiple lexical verbs (დამტკიცება, გადამოწმება, დადასტურება), disconfirmation requires:
+- Specific lexical verbs: უარყოფა (uarq'opa) "refutation," გაბათილება (gabat'ileba) "invalidation"
+- Circumlocution: negation + verification (არ დაადასტურა ar dadast'ura "did not confirm")
+- No parallel construction exists where disconfirmation verbs take truth-adjectives or truth nouns in a productive pattern
+
+### Analytic vs. Morphological Negation
+Georgian negation is **strictly analytic**:
+- The particle არ (ar) is obligatory and precedes the copula
+- No morphological negation exists on adjectives themselves
+- P4a states: "The negative particle არ (ar) is obligatory and precedes the copula"
+- Alternative negation with არა (ara) is for constituent negation, not predicate negation
+
+### Verification and Disconfirmation Asymmetry
+These do **not** share the same construction:
+- **Verification** has a productive class of lexical verbs that pattern together
+- **Disconfirmation** lacks such a class and requires different strategies
+- This represents a structural asymmetry in the language
+
+### Agent Nouns vs. Causation
+The agentive nominalization pattern (მა-...-არა) creates habitual agent nouns but does not function as causation:
+- მატყუარა (mat'q'uara) "liar" denotes a person characterized by lying
+- This is not a causative construction (making someone/something true)
+- It serves the function of CAUSATION (character) in the sense of creating a noun for someone who characteristically performs truth-related actions
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps (Missing Constructions)
+
+1. **REVELATION**: No grammatical construction for truth coming to light or being discovered
+   - The language uses BECOME constructions or lexical verbs instead
+   - No productive pattern exists with truth-adjectives for revelation
+
+2. **DISCONFIRMATION**: No productive construction parallel to verification
+   - Only scattered lexical verbs available
+   - No construction taking truth-adjectives or truth nouns in a systematic pattern
+
+3. **CAUSATION (factual)**: No morphological causative construction with truth-adjectives
+   - Direct causatives are marginal/restricted
+   - The language systematically substitutes verification verbs
+
+### Lexical Gaps
+None identified. The language has rich lexical resources for truth-domain concepts (სიმართლე "truth," ტყუილი "lie," ნამდვილი "genuine," ყალბი "fake," etc.).
+
+### Conceptual Gaps
+None identified. All truth-domain concepts can be expressed, though some require circumlocution or lexical verbs rather than grammatical constructions.
+
+### Asymmetric Gaps
+
+1. **Verification vs. Disconfirmation**: 
+   - Verification has multiple productive lexical verbs forming a coherent class
+   - Disconfirmation lacks such a class
+   - This is a structural asymmetry, not merely lexical
+
+2. **Positive vs. Negative Causation**:
+   - No morphological causatives exist for either making true or making false
+   - However, verification (positive) has more resources than disconfirmation (negative)
+
+3. **Revelation vs. Concealment**:
+   - Neither has a dedicated grammatical construction
+   - Both rely on lexical verbs
+   - Symmetrical gap rather than asymmetric
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Copular construction with predicative adjectives (incorporated or analytic copula)
+- **ADNOM**: Invariant attributive adjectives preceding nouns
+- **BECOME**: Inchoative verb გახდომა (gakhdoma) with adjectives
+- **NEGATION**: Analytic negation with particle არ (ar) + copula
+- **NOMINALIZATION**: Multiple productive patterns (სი-...-ე, -ობა, -ება)
+- **VERIFICATION**: Lexical verb class with systematic patterns
+
+### Available with Substitution
+- **REVELATION**: Substituted by BECOME constructions or lexical verbs (გამოვლენა, გამოჩენა)
+  - Functional equivalent exists but not as distinct grammatical operator
+  
+- **CAUSATION (factual)**: Substituted by VERIFICATION verbs
+  - No morphological causative, but verification verbs serve the functional role of "making known to be true"
+
+### Partially Available
+- **CAUSATION (character)**: Agentive nominalization (მა-...-არა) creates agent nouns
+  - Not causative construction per se
+  - Serves related function of denoting habitual agents of truth/falsity actions
+
+### Missing Entirely
+- **DISCONFIRMATION**: No productive construction
+  - Only scattered lexical verbs
+  - Requires circumlocution (negation + verification) or specific lexical items
+  - Represents genuine structural gap in the constructional inventory
+
+---
+
+## Additional Observations
+
+### Multi-word Expression Analysis
+Several constructions involve multi-word expressions that function as units:
+
+1. **Metalinguistic predicates**: სიმართლეს ამბობს (simart'les ambobs) "tells the truth"
+   - Functions as a verbal predicate
+   - Fixed expression with obligatory dative case
+   - Not compositional (cannot freely substitute other verbs)
+
+2. **Epistemic particles**: თურმე (turme), ხომ (khom), მეთქი (metki)
+   - Function as adverbial modifiers of entire propositions
+   - Syntactically independent
+   - Can combine with any predicate type
+
+3. **Contrastive frame**: არა X, არამედ Y (ara X, aramed Y)
+   - Functions as a discourse-level construction
+   - Fixed frame with two slots
+   - არამედ (aramed) is obligatory for the corrective element
+
+### Light Verb Patterns
+Georgian uses light verbs in some truth-domain expressions:
+
+1. **ეჭვი მაქვს** (ech'vi makvs) "I have doubt"
+   - Light verb ქონა (kona) "have" carries grammatical information
+   - Semantic content in noun ეჭვი (ech'vi) "doubt"
+   - Dative experiencer construction
+
+2. **ეჭვი შემეპარა** (ech'vi shemep'ara) "doubt seized me"
+   - More lexically specific verb
+   - Still uses noun + verb pattern
+   - More literary/emphatic than light verb construction
+
+### Degree Modification Integration
+Degree modification is fully productive with truth-domain adjectives:
+- Intensifiers: ძალიან (dzalian) "very," სრულიად (sruliad) "completely"
+- Comparative: უფრო (upro) "more"
+- Superlative: ყველაზე (q'velaze) "most"
+- No restrictions on which truth-adjectives can be modified

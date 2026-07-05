@@ -1,0 +1,98 @@
+# CLCA Protocol v3.3 — I1: Construction Equivalence & Missingness Analysis
+## Language: Turkish (tr)
+## Source: P4a_CONSTRUCTIONS + P4b_construction_behavior
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | P4a §1: [Subject] + [truth-domain adjective] + ∅ copula / *-dır*; P4a §1 adnominal: [adjective] + [noun] | *Bu haber doğru.* / *Belge sahte.* / *doğru haber* / *sahte belge* | Direct mapping; fully attested in both predicative and attributive positions | None |
+| **ADNOM** | P4a §3: [adjective] + [noun], invariant prenominal; *-lı/-li* derived adjectives; *-sal/-sel* derived adjectives | *güvenilir kaynak* / *asılsız iddia* / *geçerli pasaport* / *doğrusal denklem* | Direct mapping; *-sal/-sel* forms are register-restricted (technical/mathematical) | Partial: *-sal/-sel* is [MARGINAL] in general truth-domain use |
+| **BECOME** | P4a §4: *-laş-/-leş-* morphological inchoative; *[adjective] + hale gelmek* periphrastic; *[adjective] + olmak* periphrastic | *meşrulaşmak* / *gerçekleşmek* / *geçersiz hale gelmek* / *geçerli olmak* | Direct mapping; two parallel strategies (morphological and periphrastic); periphrastic is universally available | None |
+| **REVELATION** | No dedicated construction attested in P4a or P4b | — | **SUBSTITUTED BY** P4a §16 PREDICATE OUTCOME (*doğru çıkmak*, *yalan çıkmak*) for retrospective truth-discovery; no prospective revelation construction attested | Lexical gap: no single operator for "it is revealed that X is true"; the outcome construction covers retrospective discovery only |
+| **CAUSATION (factual)** | P4a §5: *-laştır-/-leştir-* morphological causative; *[adjective] + kılmak* periphrastic; P4a §13: *[noun] + etmek* light-verb; P4a §5/§13: *-la-* factitive verbalizer | *meşrulaştırmak* / *geçersiz kılmak* / *teyit etmek* / *doğrulamak* / *kanıtlamak* | Direct mapping; three parallel strategies; *kılmak* is formal-register-restricted; *-la-* factitive and *etmek* light-verb cover the majority of everyday and legal use | Partial: *kılmak* strategy is [MARGINAL] in spoken registers |
+| **CAUSATION (character)** | P4a §18: *hakkını vermek* (to do justice to); P4a §7 notes: *dürüst biri* (an honest person) as character evaluation | *İşinin hakkını verdi.* | **SUBSTITUTED BY** rights-fulfillment idiom (*hakkını vermek*) and character-evaluation adjectives (*dürüst*, *güvenilir*) in attributive position; no dedicated construction for "causing someone to be/become a truth-teller by character" | Lexical gap: no agentive noun for "truth-teller" as a character role; concept expressed periphrastically (*doğruyu söyleyen kişi*, *dürüst biri*) |
+| **VERIFICATION** | P4a §5/§13: *doğrulamak* (*doğru* + *-la-* + *-mak*); *teyit etmek* (*teyit* + *etmek*); *tasdik etmek*; *kanıtlamak*; *ispatlamak* | *Haberi doğrulamak gerekiyor.* / *Bilgiyi teyit etmek gerekiyor.* | Direct mapping; multiple lexically distinct forms covering different registers and degrees of formality; *doğrulamak* is the general-register default | None |
+| **DISCONFIRMATION** | P4a §5/§13: *yanlışlamak* (*yanlış* + *-la-* + *-mak*); *yalanlamak* (*yalan* + *-la-* + *-mak*); P4a §2: *değil* negation of attribution | *Hipotezi yanlışlamak mümkün olmalıdır.* / *Yalanlama* | Direct mapping; *yanlışlamak* is register-restricted (academic/philosophical); *yalanlamak* is the general-register form for denial/refutation; the two are not fully synonymous (see §2 below) | Partial: *yanlışlamak* in the Popperian sense is [MARGINAL] outside academic registers |
+| **NEGATION** | P4a §2: *[adjective] + değil* (analytic, invariant particle); *-sız/-siz* privative suffix (morphological, lexeme-forming) | *Bu bilgi doğru değil.* / *asılsız iddia* / *geçersiz* | Both analytic (*değil*) and morphological (*-sız/-siz*) strategies attested; *değil* is the productive syntactic negation operator; *-sız/-siz* produces new lexical items, not compositional negation | None; but see §2 for asymmetry note |
+| **NOMINALIZATION** | P4a §6: *-lık/-lik/-luk/-lük* abstract property nominalizer; Arabic *-iyet* for Arabic-origin bases; P4a §8: *-ma/-me* verbal noun (process); P4a §9: *-(y)abil-* + *-ir* + *-lik* ability/potential nominalizer | *doğruluk* / *güvenilirlik* / *meşruiyet* / *doğrulama* / *yalanlama* / *doğrulanabilirlik* / *yanlışlanabilirlik* | Direct mapping; three distinct nominalization strategies covering property, process, and potential; ability/potential forms are [MARGINAL] (academic/philosophical registers only) | Partial: ability/potential nominalization (*-abilirlik*) is register-restricted |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION substituted by PREDICATE OUTCOME
+
+No dedicated REVELATION construction is attested in P4a or P4b. The closest functional equivalent is the PREDICATE OUTCOME construction (P4a §16): *[truth-domain adjective/noun] + çıkmak* ("to turn out to be"). This construction (*Tahmini doğru çıktı* — "His/her prediction turned out to be correct"; *Bu yalan çıktı* — "This turned out to be a lie") covers the retrospective discovery that something has a particular truth-domain property, following a process of confirmation or exposure. However, it is semantically restricted to retrospective evaluation: it encodes that a truth-domain judgment is the result of discovery, not that a fact is being disclosed or made known to an audience. A prospective or communicative sense of revelation — "it has come to light that X," "it emerged that X" — is not covered by this construction. No single lexicalized operator for that prospective sense is attested in P4a. The SINCERITY/CORRECTION DISCOURSE MARKER construction (P4a §10: *aslında*, *doğrusu*, *gerçek şu ki*) provides a corrective or contrastive frame ("actually, in fact") that partially overlaps with the pragmatic function of revelation in discourse, but these are grammaticalized discourse markers, not propositional operators.
+
+### 2.2 VERIFICATION and DISCONFIRMATION: shared construction type, distinct lexemes
+
+VERIFICATION and DISCONFIRMATION are expressed through the same morphosyntactic construction type — the *-la-* factitive verbalizer applied to a truth-domain base — but through distinct lexemes: *doğrulamak* (to verify/confirm) vs. *yalanlamak* (to deny/refute) and *yanlışlamak* (to falsify). They do not share a single construction; the construction type is shared, but the lexical items are not interchangeable. The two sides of the domain are thus formally parallel but lexically separate. *Yanlışlamak* and *yalanlamak* are not synonymous: *yalanlamak* denotes active denial or refutation (typically of a claim by a person), while *yanlışlamak* denotes logical or evidential falsification (typically of a hypothesis or proposition). This distinction is register-sensitive: *yanlışlamak* is [MARGINAL] outside academic/philosophical registers, while *yalanlamak* is [CORE] in journalistic and everyday use.
+
+### 2.3 NEGATION: analytic operator (*değil*) vs. morphological lexeme-formation (*-sız/-siz*)
+
+Turkish maintains a strict functional distinction between two negation strategies. The analytic particle *değil* is the productive syntactic negation operator for adjectival predicates and applies compositionally to any truth-domain adjective (*doğru değil*, *gerçek değil*, *geçerli değil*). The privative suffix *-sız/-siz* does not function as a productive syntactic negation operator; it produces new lexical items (*asılsız*, *geçersiz*, *kanıtsız*) that are then used in the same attributive and predicative constructions as any other adjective. The two strategies are not interchangeable in the predicate slot: *asılsız* and *doğru değil* are not syntactic alternates of the same construction, though they may overlap semantically in some contexts. P4b explicitly notes this distinction and confirms that *değil* is the sole syntactic negation strategy for adjectival predicates.
+
+### 2.4 Asymmetry in AGENTIVE NOMINALIZATION: deceptive vs. truth-telling roles
+
+P4a §7 and P4b document a consistent asymmetry in the agentive nominalization domain. Lexicalized agentive nouns are attested on the deceptive/negative side: *yalancı* (liar), *sahteci* (forger), *taklitçi* (counterfeiter/imitator), *sahtekâr* (fraud/impostor). No lexicalized agentive noun for "truth-teller" or "verifier" as a personal role title is attested in common use. The concept is expressed periphrastically through participial relative clauses (*doğruyu söyleyen kişi* — "a person who tells the truth") or through character-evaluation adjectives in attributive position (*dürüst biri* — "an honest person"). *Doğrulayıcı* exists as a technical/adjectival form but is not a standard personal noun. This asymmetry is noted in P4a as a documented feature of the domain.
+
+### 2.5 CAUSATION (character): no dedicated construction; substituted by attributive and idiomatic forms
+
+No construction dedicated to "causing someone to have a truth-related character property" is attested. The closest available forms are: (a) character-evaluation adjectives in attributive position (*dürüst biri*, *güvenilir biri*), which describe rather than cause a character state; (b) the rights-fulfillment idiom *hakkını vermek* ("to do justice to / to give its due"), which expresses fulfillment of an obligation or standard rather than character causation in the strict sense. CAUSATION (factual) — causing a proposition or document to become true, valid, or legitimate — is well-attested through multiple constructions (*meşrulaştırmak*, *geçersiz kılmak*, *doğrulamak*). The character-causation sense is not structurally supported by a dedicated construction.
+
+### 2.6 BECOME: morphological and periphrastic strategies in complementary distribution
+
+The morphological *-laş-/-leş-* inchoative and the periphrastic *hale gelmek* / *olmak* strategies are in partial complementary distribution. *-laş-* is available only where it is already conventionalized on a given base (*meşrulaşmak*, *gerçekleşmek*); for bases where it is not conventionalized, the periphrastic forms are the default (*geçersiz hale gelmek*, *geçerli olmak*). The periphrastic forms are universally available. *Gerçekleşmek* has undergone semantic extension beyond the strict inchoative reading ("to become real") to the general meaning "to occur/materialize/take place," so its use as a BECOME operator in the truth domain is context-dependent.
+
+### 2.7 CONCESSIVE PARTIAL-TRUTH as a distinct pragmatic operator
+
+The construction *[locative NP] + bir doğruluk payı var* (P4a §17) functions as a pragmatically specialized operator for acknowledging partial truth in a claim. It does not map directly onto any of the ten canonical CLCA operators but is closest to a hedged or qualified ATTR. It is noted here because it represents a productive and frequent construction in argumentative and journalistic registers that has no single-word equivalent and is not reducible to standard ATTR or NEGATION.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+No structural gaps are identified. All ten canonical CLCA operator types have at least one attested construction in Turkish. The morphosyntactic resources (copular predication, inchoative and causative morphology, factitive verbalization, analytic negation, multiple nominalization strategies) are sufficient to express all operator types.
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| No lexicalized agentive noun for "truth-teller" | The concept "one who tells the truth" as a personal role title has no common lexicalized form; expressed periphrastically (*doğruyu söyleyen kişi*) or through character adjectives (*dürüst biri*). *Doğrulayıcı* exists as a technical/adjectival form but not as a standard personal noun. |
+| No single lexeme for prospective REVELATION | The sense "it has come to light / it emerged that X is true" has no dedicated single lexeme. *Çıkmak* covers retrospective discovery; discourse markers (*aslında*, *gerçek şu ki*) cover corrective framing; neither covers prospective revelation as a propositional operator. |
+| *Yanlışlamak* restricted to academic register | The Popperian falsification sense of *yanlışlamak* is not available in general registers; *yalanlamak* covers denial/refutation in everyday use but is not a full semantic equivalent. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identified from the P4a/P4b data. All ten operator types are conceptually expressible in Turkish; the gaps identified above are lexical or register-based, not conceptual.
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Description |
+|---|---|
+| Agentive nominalization: deceptive side lexicalized, truth-telling side not | *Yalancı*, *sahteci*, *taklitçi*, *sahtekâr* are fully lexicalized common nouns; no equivalent lexicalized noun for "truth-teller," "verifier," or "honest agent" as a personal role title is attested. |
+| DISCONFIRMATION: general-register form (*yalanlamak*) vs. academic form (*yanlışlamak*) | The positive side (VERIFICATION: *doğrulamak*, *teyit etmek*) has multiple fully [CORE] forms across registers; the disconfirmation side has a register split between the everyday denial verb (*yalanlamak*) and the philosophical falsification verb (*yanlışlamak*), with no single [CORE] form covering both senses. |
+| Ability/potential nominalization: attested only for VERIFICATION and DISCONFIRMATION bases | *Doğrulanabilirlik* and *yanlışlanabilirlik* are attested; no parallel ability/potential nominalizations are documented for other truth-domain bases (e.g., *meşrulaşabilirlik*, *geçerlileşebilirlik*) in P4a. |
+| CAUSATION (factual) well-attested; CAUSATION (character) not attested as a dedicated construction | Multiple constructions for causing propositions/documents to become true, valid, or legitimate; no dedicated construction for causing a person to have a truth-related character property. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | Fully available | Predicative (null copula / *-dır*) and attributive (prenominal invariant adjective) both [CORE]; no register or morphological restrictions on the core pattern. |
+| **ADNOM** | Fully available | Invariant prenominal adjective is [CORE] and fully productive; *-lı/-li* derived forms [CORE]; *-sal/-sel* forms [MARGINAL] in general truth-domain use but structurally available. |
+| **BECOME** | Fully available | Morphological (*-laş-/-leş-*) and periphrastic (*hale gelmek*, *olmak*) strategies both [CORE]; periphrastic is universally available; morphological is lexically restricted but productive where conventionalized. |
+| **REVELATION** | Available with substitution | **SUBSTITUTED BY** PREDICATE OUTCOME construction (*çıkmak*) for retrospective discovery; no dedicated prospective revelation operator attested. Lexical gap for the prospective sense. |
+| **CAUSATION (factual)** | Fully available | Three parallel strategies: morphological *-laştır-* [CORE for licensed bases], periphrastic *kılmak* [CORE but formal-register-restricted], *-la-* factitive [CORE], *etmek* light-verb [CORE for Arabic/Persian-origin bases]. |
+| **CAUSATION (character)** | Available with substitution | **SUBSTITUTED BY** character-evaluation adjectives in ATTR/ADNOM position and rights-fulfillment idiom (*hakkını vermek*); no dedicated construction for character-causation. Lexical gap for agentive truth-teller noun. |
+| **VERIFICATION** | Fully available | *Doğrulamak* [CORE, general register], *teyit etmek* [CORE, all registers], *tasdik etmek* [CORE, formal/legal], *kanıtlamak* / *ispatlamak* [CORE, legal/formal]; multiple forms covering all registers. |
+| **DISCONFIRMATION** | Partially available | *Yalanlamak* [CORE] for denial/refutation in general registers; *yanlışlamak* [MARGINAL] for logical falsification in academic registers; the two are not fully synonymous. No single [CORE] form covers both senses. |
+| **NEGATION** | Fully available | Analytic *değil* [CORE] is the productive syntactic negation operator for adjectival predicates; morphological *-sız/-siz* [CORE] produces lexicalized privative adjectives. Both strategies fully attested; functionally distinct. |
+| **NOMINALIZATION** | Fully available | *-lık/-lik* abstract property [CORE]; *-ma/-me* process/verbal noun [CORE]; Arabic *-iyet* for Arabic-origin bases [CORE, formal]; *-(y)abil-* + *-lik* ability/potential [MARGINAL, academic only]. Three distinct nominalization types covering property, process, and potential. |

@@ -1,0 +1,160 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: English (en)
+# Layer: P4b_construction_behavior
+
+---
+
+## Notes on Format Adaptation
+
+The source language is English; transliteration and translation columns are not applicable. These columns are retained in the table header for protocol compliance but marked **N/A** throughout.
+
+---
+
+## Construction Usage & Constraints Table
+
+### 1. ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** Copular: Subject + BE + truth-domain adjective | *That is true.* | N/A | N/A | [CORE] | Occurs across all registers and text types; no observable restriction on subject type beyond the requirement that the subject be propositional, referential, or personal. The same pattern covers factual correspondence, genuineness, and legal standing without structural differentiation. **Attested alternates:** Subject + SEEM/APPEAR + adjective (epistemic hedge variant: *That seems true*); Subject + REMAIN + adjective (continuative: *The account remains accurate*). |
+| **1. ATTRIBUTION** Copular: Subject + BE + truth-domain adjective | *The account is accurate.* | N/A | N/A | [CORE] | Predicative position is the unmarked site for truth-domain adjectives in English; no register restriction. Nominal subjects denoting accounts, claims, or reports are among the most frequent subject types in corpus data for this construction. Occurs across all registers (spoken, written, formal, informal); no observable restriction on which truth-domain adjective enters this frame. **Attested alternates:** Subject + SEEM/APPEAR + adjective; Subject + REMAIN + adjective. |
+| **1. ATTRIBUTION** Copular: Subject + BE + truth-domain adjective | *The statement is true.* | N/A | N/A | [CORE] | The most frequent syntactic frame for propositional truth-evaluation in English; occurs across all registers. Copula slot extends to *prove*, *hold*, *remain*, *seem*, *ring* (*ring true/false*), with *ring true/false* restricted to informal and journalistic registers. |
+| **1. ATTRIBUTION** Copular: Subject + BE + truth-domain adjective | *His testimony was truthful.* | N/A | N/A | [CORE] | Equally natural in past tense; legal and journalistic contexts are typical environments for *truthful* specifically. **Attested alternates:** Predicative use with *seem*, *appear*, *prove* as copula substitutes (*the account seems accurate*; *his testimony proved truthful*) — these add evidential nuance but share the same basic frame. |
+| **1. ATTRIBUTION** Copular: *prove* + ADJ (copula-slot variant) | *The claim proved false.* | N/A | N/A | [CORE] | *Prove + ADJ* is fully idiomatic in formal and written registers; slightly more formal than *turn out to be*. No register restriction on subject NP type. |
+
+**Attested alternate constructions:** *seem* + ADJ; *hold* + ADJ; *remain* + ADJ; *ring true/false* — all attested as copula-slot variants; *ring true/false* is restricted to informal and journalistic registers.
+
+---
+
+### 2. NEGATIVE ATTRIBUTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **2. NEGATIVE ATTRIBUTION** Subject + BE + negative-prefixed adjective | *That is not accurate.* / *That is inaccurate.* | N/A | N/A | [CORE] | Both the free negator (*not* + adjective) and the prefixed form (*inaccurate*) are fully natural; the prefixed form tends toward formal and written registers. The two strategies are not always interchangeable in connotation: *disingenuous* and *spurious* carry implications beyond simple negation that *not genuine* and *not valid* do not fully replicate. **Attested alternates:** Subject + BE + HARDLY/SCARCELY + adjective (scalar near-negation: *That is hardly credible*); Subject + BE + FAR FROM + adjective (*That is far from accurate*). |
+| **2. NEGATIVE ATTRIBUTION** Subject + BE + negative-prefixed adjective | *The claim is false.* | N/A | N/A | [CORE] | *False* is a root negative form rather than a prefixed derivative; it is the primary single-word negative counterpart to *true* and is unrestricted across registers. Prefixed forms (*untrue*, *inaccurate*, *invalid*, *illegitimate*) are available for most other core items. **Attested alternates:** As above. |
+| **2. NEGATIVE ATTRIBUTION** Prefixal negation | *The account is inaccurate.* | N/A | N/A | [CORE] | Prefixal negation is fully productive for Latinate bases (*inaccurate*, *incorrect*, *invalid*, *insincere*, *dishonest*, *illegitimate*, *implausible*); unavailable or marginal for native Germanic items (*fake*, *ersatz*) and fixed expressions (*bona fide*). Formal and written registers preferred; not all adjectives in the domain accept prefixation, so availability must be checked item by item. |
+| **2. NEGATIVE ATTRIBUTION** Prefixed negative adjective | *The document is inauthentic.* | N/A | N/A | [CORE] | Formal and written registers preferred; not all adjectives in the domain accept prefixation, so availability must be checked item by item. |
+| **2. NEGATIVE ATTRIBUTION** Sentential negation: NOT + adjective | *The argument is not valid.* | N/A | N/A | [CORE] | Sentential negation (*not*) is universally available across all items in the domain regardless of Latinate or Germanic origin; serves as the default strategy where prefixal forms are absent or marginal (*not genuine*, *not authentic*). Available for all adjectives in the domain without exception; the universal fallback strategy when prefixed forms are unavailable or unnatural. |
+| **2. NEGATIVE ATTRIBUTION** Periphrastic negation: NOT + adjective | *The claim is not genuine.* | N/A | N/A | [CORE] | Available for all adjectives in the domain without exception; the universal fallback strategy when prefixed forms are unavailable or unnatural. |
+| **2. NEGATIVE ATTRIBUTION** Lexically distinct antonym | *The claim is fake.* | N/A | N/A | [CORE] | Informal to neutral register; *fake*, *bogus*, *counterfeit* are not derivationally related to their positive counterparts and carry additional connotations (deliberate deception, material forgery) absent from simple negation. |
+| **2. NEGATIVE ATTRIBUTION** Antonym substitution | *(implied by pattern; no distinct example given beyond the pattern description)* | N/A | N/A | [CORE] | Antonym substitution (e.g., replacing *true* with *false*) is a fully productive third strategy; no additional example was provided beyond the pattern description. |
+
+**Attested alternate constructions:** Three competing strategies: prefixal negation; sentential negation; antonym substitution — choice is conditioned by the base item's morphological origin. Double negation for rhetorical softening (*not inaccurate*) is attested in formal prose but is a distinct pragmatic strategy, not a third negation type. Subject + BE + HARDLY/SCARCELY + adjective (scalar near-negation: *That is hardly credible*); Subject + BE + FAR FROM + adjective (*That is far from accurate*).
+
+---
+
+### 3. ADNOMINAL MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **3. ADNOMINAL MODIFICATION** Truth-domain adjective + Noun (prenominal attributive) | *a genuine mistake* | N/A | N/A | [CORE] | Prenominal attributive position is the standard site for adjectival modification in English noun phrases; no agreement morphology. Many collocations in this domain are strongly conventionalized and resist free substitution (*credible threat*, *false alarm*, *valid argument*). Attributive position is available to all adjectival items; dominant pattern for authenticity and precision terms. Highly productive across registers. **Attested alternates:** Postnominal relative clause (*a mistake that was genuine*) is grammatical but marked and typically used only for emphasis or contrast; postnominal participial or appositive constructions are not standard for this adjective class. |
+| **3. ADNOMINAL MODIFICATION** Truth-domain adjective + Noun (prenominal attributive) | *a credible witness* | N/A | N/A | [CORE] | *Credible* in attributive position with human-referent nouns (*witness*, *source*, *candidate*) is a well-established collocation pattern. The construction is unrestricted in register. The dominant and unmarked order in English; attested across all registers and with all truth-domain adjectives documented in P2a. **Attested alternates:** As above. |
+| **3. ADNOMINAL MODIFICATION** Attributive pre-nominal (lexicalized collocation) | *a spurious correlation* | N/A | N/A | [CORE] | Highly lexicalized in academic and scientific registers; *spurious correlation* is a near-fixed collocation in statistics. Domain-specific collocations (*counterfeit currency*, *false positive*, *plausible deniability*, *bona fide purchaser*, *honest broker*, *credible threat*) carry meanings not fully predictable from the adjective alone. |
+| **3. ADNOMINAL MODIFICATION** Prenominal attributive adjective + noun (lexicalized collocation) | *fraudulent misrepresentation* | N/A | N/A | [CORE] | Strongly lexicalized in legal register; *fraudulent* collocates with a restricted set of nouns (*misrepresentation*, *claim*, *activity*, *intent*) more tightly than other adjectives in the domain. |
+
+**Attested alternate constructions:** Postnominal predicative construction (*the witness was credible*) is the only available alternative and is structurally distinct (predicative, not attributive); no productive postnominal attributive order is attested for this domain in English. Postnominal relative clause (*a mistake that was genuine*) is grammatical but marked and typically used only for emphasis or contrast.
+
+---
+
+### 4. BECOME / INCHOATIVE
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **4. BECOME / INCHOATIVE** Subject + PROVE / TURN OUT TO BE + truth-domain adjective | *His prediction proved true.* | N/A | N/A | [CORE] | *Prove* + adjective (without *to be*) is natural and common in written and formal registers; *turn out to be* is more neutral across registers. Both express the realization of a truth-domain state over time or upon investigation. **Attested alternates:** *come true* (lexicalized, restricted to *true* with subjects denoting wishes, predictions, or fears: *Her fears came true*); *ring true/false* (restricted to *true* and *false*, expressing an impression of authenticity or inauthenticity upon hearing or reading). |
+| **4. BECOME / INCHOATIVE** Subject + TURN OUT TO BE + truth-domain adjective | *The story turned out to be false.* | N/A | N/A | [CORE] | *Turn out to be* is the general periphrastic inchoative and applies across the domain without lexical restriction. It is slightly more colloquial than *prove* and is common in both spoken and written registers. **Attested alternates:** As above. |
+| **4. BECOME / INCHOATIVE** *prove* + ADJ (evidential inchoative) | *His prediction proved correct.* | N/A | N/A | [CORE] | The most productive inchoative-like frame in the truth domain; covers *true*, *false*, *correct*, *genuine*, *authentic*, *valid*. Frequent in formal and written registers; slightly more formal than *turn out to be*. |
+| **4. BECOME / INCHOATIVE** *prove* + ADJ (evidential inchoative) | *The rumor proved true.* | N/A | N/A | [CORE] | Common in written and formal spoken registers; encodes retrospective confirmation of a truth-domain property; most natural with *true*, *false*, *correct*, *accurate*, *valid*. |
+| **4. BECOME / INCHOATIVE** *come true* (lexicalized) | *Her dream came true.* | N/A | N/A | [CORE] | Lexicalized form restricted to *true* only; carries a connotation of desired realization rather than neutral epistemic confirmation. Not interchangeable with *proved true* in this sense. Fixed idiom limited to wishes, predictions, and fears; not available as a general inchoative. |
+| **4. BECOME / INCHOATIVE** TURN OUT + TO BE + adjective (discovery inchoative) | *The document turned out to be fraudulent.* | N/A | N/A | [CORE] | Neutral to informal register; encodes discovery, often with an implication of surprise; available with a wider range of truth-domain adjectives than *prove*. |
+| **4. BECOME / INCHOATIVE** *become* + ADJ | *(pattern attested; no distinct example given)* | N/A | N/A | [MARGINAL] | *Become + ADJ* (*become true*, *become valid*) is grammatically available but less frequent in this domain than *prove* or *turn out*; uncommon in natural usage. |
+| **4. BECOME / INCHOATIVE** *turn out* + ADJ / *to be* + ADJ | *(pattern attested; no distinct example given beyond the pattern description)* | N/A | N/A | [CORE] | *Turn out to be false / genuine* etc. is broadly applicable and register-neutral; more neutral than *prove*. |
+
+**Attested alternate constructions:** Four periphrastic strategies: *become* + ADJ; *prove* + ADJ; *come true*; *turn out* + ADJ — no morphological inchoative exists in English for this domain.
+
+---
+
+### 5. CAUSATIVE
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **5. CAUSATIVE** Agent + MAKE/RENDER + NP + truth-domain adjective | *(implied by pattern; no distinct example given beyond the verb examples below)* | N/A | N/A | [MARGINAL] | The periphrastic *make/render* + adjective construction (*make it true*, *render invalid*) is grammatical but less frequent than dedicated derived verbs in formal registers. *Render* + adjective is more formal and somewhat restricted to written legal and academic prose. **Attested alternates:** Dedicated causative verbs (see next rows). |
+| **5. CAUSATIVE** Agent + truth-domain causative verb (*validate*, *authenticate*, *falsify*, *invalidate*) | *The new evidence invalidated the argument.* | N/A | N/A | [CORE] | Dedicated derived causative verbs are the preferred strategy in formal, legal, and academic registers. These verbs are morphologically transparent and semantically specific; they do not require a separate object complement. **Attested alternates:** *make* + NP + adjective (*make the argument invalid*) — grammatical but less idiomatic than the derived verb in formal contexts; *call into question* (weaker, non-causative near-synonym for *invalidate* in some contexts). |
+| **5. CAUSATIVE** Agent + truth-domain causative verb | *They falsified the documents.* | N/A | N/A | [CORE] | *Falsify* is the standard verb for deliberate alteration of documents or records to misrepresent truth; it is unrestricted in formal and legal registers and is the expected term in those contexts. **Attested alternates:** *forge* (overlapping but more specific to signatures and documents); *fabricate* (overlapping but more specific to inventing rather than altering). |
+| **5. CAUSATIVE** Dedicated causative verb: *verify* | *The laboratory verified the results.* | N/A | N/A | [CORE] | Fully idiomatic in scientific, legal, and administrative registers; *verify* is the most general causative verb in the domain. Not restricted to any single subject type. |
+| **5. CAUSATIVE** Dedicated causative verb: *invalidate* | *New evidence invalidated the earlier findings.* | N/A | N/A | [CORE] | Fully idiomatic in academic, legal, and scientific registers; *invalidate* is the standard causative for the removal of validity. The *-ize*/*-ise* suffix (*legitimize*, *delegitimize*, *canonize*) is the most productive causative-like suffix active in this domain. |
+| **5. CAUSATIVE** Derivational verbal causative | *The expert authenticated the painting.* | N/A | N/A | [CORE] | Formal and professional registers (legal, archival, scientific); the derivational causative verbs (*authenticate*, *validate*, *verify*, *legitimize*) are not available for all adjectives in the domain — lexical gaps are documented. |
+| **5. CAUSATIVE** Periphrastic causative: *make* + NP + adjective / confirmation paraphrase | *New evidence validated the hypothesis.* | N/A | N/A | [CORE] | *Validate* is [CORE]; the periphrastic *make X valid* is [MARGINAL] in most registers, sounding formal or stilted; the nominalization paraphrase (*confirmed its validity*) is a common written alternative. |
+| **5. CAUSATIVE** Periphrastic: *make* + NP + ADJ | *(pattern attested; no distinct example given beyond the pattern description)* | N/A | N/A | [CORE] | *Make it true / make it valid* is grammatically productive but less domain-specific than the dedicated causative verbs. |
+
+**Attested alternate constructions:** No morphological causative; causative meaning is lexicalized in derived verbs or expressed periphrastically. Dedicated causative verbs attested: *verify*, *authenticate*, *validate*, *falsify*, *legitimize*, *invalidate*, *delegitimize*. *confirm*, *establish*, *demonstrate* + NP function as near-synonymous causative-evidential verbs in context but are not morphologically derived from truth-domain adjectives.
+
+---
+
+### 6. ABSTRACT NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **6. ABSTRACT NOMINALIZATION** Derived noun via suffixation (*-ty*, *-ity*, *-cy*, *-ness*, *-hood*, *-th*) | *The truth of the matter was never established.* | N/A | N/A | [CORE] | *Truth* is the primary abstract nominalization in this domain and is unrestricted across all registers. The archaic *-th* suffix is not productive; *truth* is a lexicalized form. Nominalizations in this domain are highly frequent in formal, academic, and legal prose. **Attested alternates:** Clausal nominalization (*the fact that it was true*) is available but structurally heavier; gerundive constructions are not standard for this adjective class. |
+| **6. ABSTRACT NOMINALIZATION** Derived noun via suffixation | *The validity of the argument was questioned.* | N/A | N/A | [CORE] | Latinate suffixes (*-ity*, *-cy*) are favored in formal registers; *-ness* forms (*falseness*, *trueness*) are available but less frequent than their Latinate competitors (*falsity*, *truth*) for most core items. Competing forms (*falseness* / *falsity*) are both attested but not fully interchangeable in all collocations. **Attested alternates:** As above. |
+| **6. ABSTRACT NOMINALIZATION** *-ity* / *-cy* suffix | *The validity of the argument was disputed.* | N/A | N/A | [CORE] | Strongly preferred for Latinate bases (*accuracy*, *credibility*, *authenticity*, *validity*, *plausibility*, *falsity*, *legitimacy*, *sincerity*); frequent in formal, academic, and legal registers. |
+| **6. ABSTRACT NOMINALIZATION** *-ness* suffix | *The truthfulness of the account was never questioned.* | N/A | N/A | [CORE] | Preferred for Germanic and mixed bases (*truthfulness*, *soundness*, *genuineness*); broadly available but carries a slightly less formal register than *-ity*/*-cy* forms where both exist. |
+| **6. ABSTRACT NOMINALIZATION** *-y* suffix (*honesty*) | *(pattern attested; no distinct example given)* | N/A | N/A | [CORE] | *Honesty* is the standard abstract nominal for *honest*; the *-y* suffix is not productive in this domain beyond this item. |
+| **6. ABSTRACT NOMINALIZATION** *-hood* suffix (*falsehood*) | *(pattern attested; no distinct example given)* | N/A | N/A | [MARGINAL] | *Falsehood* is a fixed form with a connotation of a specific false statement rather than the abstract property; the *-hood* suffix is not productive in this domain beyond this item. |
+| **6. ABSTRACT NOMINALIZATION** Adjective + *-ity* suffix | *The authenticity of the document was disputed.* | N/A | N/A | [CORE] | Formal and written registers; *-ity* forms (*validity*, *credibility*, *authenticity*, *sincerity*, *plausibility*) are well-established and show no register restriction within formal usage. |
+| **6. ABSTRACT NOMINALIZATION** Verbal base + *-tion* suffix | *The verification of the claim took three days.* | N/A | N/A | [CORE] | Formal and procedural registers; *-tion* nominalizations (*verification*, *authentication*, *validation*, *correction*) denote processes or events rather than properties, distinguishing them semantically from *-ity* forms. |
+
+**Attested alternate constructions:** *-ness* forms (*correctness*, *soundness*, *genuineness*) are [CORE] but carry a slightly more neutral or descriptive register than *-ity* equivalents where both exist. *-cy* forms (*accuracy*, *legitimacy*) and *-ude* forms (*exactitude*, *verisimilitude*) are [CORE] but lexically restricted to specific bases. *-th* (*truth*) is [CORE] but synchronically non-productive — no new *-th* nominalizations are formed in the domain. Competing nominalizations: *exactness* vs. *exactitude* (register differentiation); *falsity* vs. *falsehood* vs. *falseness* — competing forms with register or semantic differentiation; *falseness* noted as marginal.
+
+---
+
+### 7. AGENTIVE NOMINALIZATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **7. AGENTIVE NOMINALIZATION** Derived agent noun via *-er*/*-or* suffix on truth-domain verb | *He was exposed as a faker.* | N/A | N/A | [CORE] | Agent nouns for the negative pole (*faker*, *counterfeiter*, *falsifier*, *fabricator*) are formed by suffixation on the corresponding verb and are well-established. These forms are common in journalistic and informal registers as well as formal legal contexts. **Attested alternates:** Compound nouns (*con artist*, *fraud*) overlap semantically with *faker* in some contexts but are not morphologically parallel. |
+| **7. AGENTIVE NOMINALIZATION** Compound agent noun (*truth-teller*, *truth-seeker*) | *She was known as a truth-teller.* | N/A | N/A | [MARGINAL] | Compound agent nouns for the positive pole are less frequent than the negative-pole agent nouns and tend to appear in evaluative, rhetorical, or journalistic contexts rather than neutral description. Direct suffixation on the adjective (*\*truer*, *\*truther*) is not standard. **Attested alternates:** *honest person*, *straight talker* — semantically overlapping but not morphologically parallel compounds. |
+| **7. AGENTIVE NOMINALIZATION** Compound agentive: *truth-teller* | *She was known as a truth-teller who refused to soften her assessments.* | N/A | N/A | [MARGINAL] | The primary agentive nominal for the positive truth-telling role; compound form (N + V-*er*) rather than suffixation on a truth-domain adjective. Frequent in journalistic and political commentary registers. Neutral to formal register; preferred over any suffixed form for the positive honest-agent role; carries evaluative (often admiring) connotation in context. |
+| **7. AGENTIVE NOMINALIZATION** *-er* suffix: *counterfeiter* | *The counterfeiter was sentenced to five years in prison.* | N/A | N/A | [CORE] | Fully idiomatic in legal and journalistic registers; restricted primarily to currency and document fraud contexts. *Faker* is more colloquial and broader in application; *falsifier* is rare and technical. |
+| **7. AGENTIVE NOMINALIZATION** Suffixed agentive: *-er*/*-ster* on deception/fraud base | *The counterfeiter was convicted on three counts.* | N/A | N/A | [CORE] | Legal and journalistic registers typical; the deception/fraud cluster (*faker*, *counterfeiter*, *fraudster*, *con man*) shows richer and more productive agentive morphology than the positive cluster, consistent with the asymmetry noted across the domain. |
+| **7. AGENTIVE NOMINALIZATION** *authenticator*, *validator* | *(pattern attested; no distinct example given)* | N/A | N/A | [MARGINAL] | Used primarily for technical devices or processes rather than persons; increasingly common in computing and security contexts. |
+
+**Attested alternate constructions:** *authenticator*, *validator*, *verifier* (suffixed agentives for the verification cluster) are [CORE] in technical and procedural registers. *Con man* is a compound form parallel to *truth-teller* but on the deceptive side; it is [CORE] in informal and journalistic registers.
+
+---
+
+### 8. DEGREE MODIFICATION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **8. DEGREE MODIFICATION** Degree adverb + truth-domain adjective | *broadly accurate* | N/A | N/A | [CORE] | Degree modification is productive across the domain and is particularly frequent with scalar adjectives (*accurate*, *plausible*, *credible*). Downtoners (*broadly*, *technically*, *reasonably*, *barely*) are common in academic, journalistic, and legal registers where precision of claim is important. **Attested alternates:** Hedging prepositional phrases (*accurate in most respects*, *true to a degree*) serve a similar scalar function but are structurally distinct. |
+| **8. DEGREE MODIFICATION** Degree adverb + truth-domain adjective | *barely plausible* | N/A | N/A | [CORE] | *Barely* + adjective places the referent at the lower scalar limit; this construction is common in evaluative and critical discourse. Intensifiers (*dead right*, *only too true*) are more colloquial and tend to appear in spoken or informal written registers. **Attested alternates:** As above. |
+
+---
+
+### 9. CONCESSIVE CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **9. CONCESSIVE CONSTRUCTION** Concessive frame + truth-domain expression + contrastive connector | *It is true that progress has been made, but serious problems remain.* | N/A | N/A | [CORE] | The *it is true that … but* frame is a well-established discourse construction in argumentative writing and speech. *True*, *admittedly*, and *granted* function as discourse operators in this construction rather than as simple predicates; they signal partial concession to an opposing position. **Attested alternates:** *I grant that … but*; *to be sure … but*; *certainly … however* — all attested concessive frames with overlapping function. |
+| **9. CONCESSIVE CONSTRUCTION** Concessive frame + truth-domain expression + contrastive connector | *True enough, but that does not settle the question.* | N/A | N/A | [CORE] | *True enough* is a reduced, elliptical form of the full concessive frame; it is common in spoken argumentation and informal written registers. The contrastive connector (*but*, *however*, *nevertheless*) is obligatory for the concessive reading; without it, the utterance functions as simple assertion. **Attested alternates:** As above. |
+
+---
+
+### 10. PARTIAL-TRUTH CONSTRUCTION
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **10. PARTIAL-TRUTH CONSTRUCTION** Noun phrase denoting a portion of truth (*a grain of truth*, *a kernel of truth*, *a half-truth*) | *There is a grain of truth in what he says.* | N/A | N/A | [CORE] | *A grain of truth* and *a kernel of truth* are established idiomatic expressions; they are interchangeable in most contexts and occur across registers. *A half-truth* is more formal and carries a stronger implication of deliberate misleading than the grain/kernel expressions. **Attested alternates:** *a modicum of truth*; *some truth in* — semantically overlapping but less idiomatic. |
+| **10. PARTIAL-TRUTH CONSTRUCTION** Verb phrase denoting distortion (*stretch the truth*, *bend the truth*, *be economical with the truth*) | *She was being economical with the truth.* | N/A | N/A | [CORE] | *Economical with the truth* is a well-known British English idiom with a specific implication of deliberate omission framed as resource management; it is common in political and journalistic discourse. *Stretch the truth* and *bend the truth* are more widely distributed across registers and imply exaggeration or distortion rather than omission. **Attested alternates:** *massage the truth*; *shade the truth* — attested but less frequent variants of the distortion verb-phrase pattern. |
+
+---
+
+### 11. DISCOURSE-MARKER CONSTRUCTIONS
+
+| Construction Type | Example | Transliteration | Translation | Epistemic Status | Usage Notes |
+|---|---|---|---|---|---|
+| **11. DISCOURSE-MARKER CONSTRUCTIONS** Candor signal: *to be honest* | *To be honest, I don't think the plan will work.* | N/A | N/A | [CORE] | Sentence-initial or parenthetical; fully grammaticalized as a pragmatic hedge in spoken and informal written English. Does not predicate honesty of a subject; functions as a framing device signaling departure from expected or diplomatic speech. |
+| **11. DISCOURSE-MARKER CONSTRUCTIONS** Concessive: *True enough* | *True enough, but that doesn't settle the question.* | N/A | N/A | [CORE] | Sentence-initial concessive; common in argumentation and debate contexts, both spoken and written. Partially grants the interlocutor's point before introducing a counter-argument; syntactically distinct from predicative use of *true*. |
+| **11. DISCOURSE-MARKER CONSTRUCTIONS** Additional attested forms | *(let's be honest, honestly, truth be told, to tell the truth, in all sincerity, true enough, it is true that … but, correct me if I'm wrong)* | N/A | N/A | [CORE] | All listed forms are attested as pragmatic framing devices; none predicate a truth-domain adjective of a propositional subject. *Exactly* as a response particle is noted as a related but distinct pattern. |
+| **11. DISCOURSE-MARKER CONSTRUCTIONS** Sentence-initial fixed phrase: *truth be told* | *Truth be told, the plan was never viable.* | N/A | N/A | [CORE] | Informal to neutral spoken and written register; signals departure from a polite or expected formulation; the subjunctive form (*be told* rather than *is told*) is a frozen feature of the idiom. |
+| **11.

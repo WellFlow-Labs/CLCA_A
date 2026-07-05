@@ -1,0 +1,322 @@
+# CLCA Protocol v3.4 — P4a_CONSTRUCTIONS
+# Language: Indonesian (id)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+**[NP] + [TRUTH-TERM]**
+Simple juxtaposition of noun phrase and truth-domain adjective/stative verb. No copula required in present tense. Optional copula "adalah" in formal register.
+
+### Examples
+- **cerita itu benar**
+  cerita itu benar
+  "that story is true"
+
+- **dokumen ini palsu**
+  dokumen ini palsu
+  "this document is fake"
+
+### Notes
+Indonesian allows zero copula for predicate adjectives. The truth-term directly follows the subject NP. Demonstratives (itu, ini) commonly appear with definite subjects.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+**[NP] + tidak + [TRUTH-TERM]**
+Standard negation with "tidak" preceding the truth-term predicate.
+
+### Examples
+- **laporan itu tidak akurat**
+  laporan itu tidak akurat
+  "that report is not accurate"
+
+- **dia tidak jujur**
+  dia tidak jujur
+  "he/she is not honest"
+
+### Notes
+"Tidak" is the standard negator for adjectives and stative verbs. Alternative negators include "bukan" (for nominal predicates) and "belum" (not yet), but "tidak" is default for truth-domain terms.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+**[TRUTH-TERM] + [NOUN]**
+Truth-term precedes the noun it modifies without intervening particle. Relative clause alternative: **[NOUN] + yang + [TRUTH-TERM]**.
+
+### Examples
+- **berita palsu**
+  berita palsu
+  "fake news"
+
+- **orang jujur**
+  orang jujur
+  "honest person"
+
+### Notes
+Direct prenominal modification is standard. Post-nominal modification with relativizer "yang" is also common (e.g., "orang yang jujur"). No agreement marking.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+**menjadi + [TRUTH-TERM]**
+Inchoative verb "menjadi" (become) + truth-term indicates change of state.
+
+### Examples
+- **cerita itu menjadi nyata**
+  cerita itu menjadi nyata
+  "that story became real"
+
+- **dokumen menjadi sah**
+  dokumen menjadi sah
+  "the document became valid"
+
+### Notes
+"Menjadi" is the standard inchoative/copular verb for change of state. Alternative constructions include "menjadi lebih [TRUTH-TERM]" (become more X) for gradable terms.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+**meN- + [ROOT] + -kan**
+Causative prefix meN- (with nasal assimilation) + root + suffix -kan. Transitive construction: **[AGENT] + meN-ROOT-kan + [PATIENT]**.
+
+### Examples
+- **dia membenarkan laporan itu**
+  dia membenarkan laporan itu
+  "he/she confirmed that report"
+
+- **pemerintah mengesahkan undang-undang**
+  pemerintah mengesahkan undang-undang
+  "the government ratified the law"
+
+### Notes
+The meN-...-kan causative is highly productive for truth-domain terms. Semantic range includes: make X true/valid, confirm as X, declare X. Not all roots support this derivation (e.g., *memiripi is unattested).
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+**ke- + [ROOT] + -an**
+Circumfix ke-...-an derives abstract quality nouns from truth-domain roots.
+
+### Examples
+- **kebenaran itu penting**
+  kebenaran itu penting
+  "truth/honesty is important"
+
+- **keaslian produk diragukan**
+  keaslian produk diragukan
+  "the authenticity of the product is doubted"
+
+### Notes
+Nearly universal pattern for deriving abstract nouns denoting qualities or states. The derived noun can function as subject, object, or in possessive constructions. Highly productive across all truth-domain terms.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+**peN- + [ROOT]** (for agent nouns)
+Prefix peN- (with nasal assimilation) derives agent nouns. Primarily productive with deception/error roots.
+
+### Examples
+- **pembohong itu tertangkap**
+  pembohong itu tertangkap
+  "the liar was caught"
+
+- **pemalsu dokumen dihukum**
+  pemalsu dokumen dihukum
+  "the document forger was punished"
+
+### Notes
+Agent nominalization is productive primarily for negative/deceptive terms (pembohong "liar," pemalsu "forger," pendusta "deceiver"). Positive counterparts are rare or use different strategies (e.g., "orang jujur" = honest person, not *penjujur). Asymmetry reflects focus on marking deviant agents.
+
+---
+
+## 8. INTENSIFICATION
+
+### Pattern
+**[ROOT] + REDUPLICATION** or **[ROOT] + sekali/banget**
+Reduplication or intensifying adverbs strengthen the evaluation.
+
+### Examples
+- **benar-benar penting**
+  benar-benar penting
+  "really important"
+
+- **mirip sekali dengan ayahnya**
+  mirip sekali dengan ayahnya
+  "very similar to his father"
+
+### Notes
+Reduplication (benar-benar, sungguh-sungguh) creates adverbial intensifiers. "Sekali" (very) and colloquial "banget" (really) follow the truth-term. Reduplication is highly productive and often shifts meaning toward emphasis rather than truth-evaluation.
+
+---
+
+## 9. HEDGING/MITIGATION
+
+### Pattern
+**kurang + [TRUTH-TERM]**
+"Kurang" (less, lacking) creates softened negative evaluation.
+
+### Examples
+- **jawaban itu kurang tepat**
+  jawaban itu kurang tepat
+  "that answer is not quite right"
+
+- **tindakan kurang pantas**
+  tindakan kurang pantas
+  "somewhat inappropriate action"
+
+### Notes
+"Kurang" provides polite or hedged negation, suggesting partial rather than absolute failure to meet standard. Common in formal discourse and polite disagreement. More diplomatic than direct "tidak."
+
+---
+
+## 10. EVIDENTIAL/DISCOVERY
+
+### Pattern
+**ter- + [ROOT]**
+Prefix ter- marks accidental, resultative, or discovered states.
+
+### Examples
+- **ternyata dia benar**
+  ternyata dia benar
+  "it turns out he/she was right"
+
+- **tersalah ambil barang**
+  tersalah ambil barang
+  "took the wrong item by mistake"
+
+### Notes
+"Ternyata" (from ter-+nyata) has grammaticalized as evidential marker meaning "it turns out, apparently." Other ter- forms indicate accidental or unintentional states (tersalah, terkeliru). Limited productivity but semantically important for marking epistemic discovery.
+
+---
+
+## 11. CONTRASTIVE PAIRING
+
+### Pattern
+**[TRUTH-TERM₁] + atau + [TRUTH-TERM₂]**
+Disjunctive coordination presents binary alternatives for evaluation.
+
+### Examples
+- **benar atau salah**
+  benar atau salah
+  "true or false"
+
+- **asli atau palsu**
+  asli atau palsu
+  "genuine or fake"
+
+### Notes
+Contrastive pairs are formulaic in questions, tests, and evaluative contexts. Common pairs: benar/salah, asli/palsu, sah/batal, jujur/bohong. The construction frames evaluation as binary choice.
+
+---
+
+## 12. PASSIVE VOICE
+
+### Pattern
+**di- + [ROOT] + (-kan)**
+Passive prefix di- (+ optional -kan suffix) with agent optionally marked by "oleh."
+
+### Examples
+- **dokumen itu dipalsukan**
+  dokumen itu dipalsukan
+  "that document was forged"
+
+- **laporan disahkan oleh pemerintah**
+  laporan disahkan oleh pemerintah
+  "the report was validated by the government"
+
+### Notes
+Passive voice is extremely common in Indonesian, often preferred over active. The di- prefix attaches to verbal forms (especially meN-...-kan causatives). Agent phrases with "oleh" are optional and often omitted.
+
+---
+
+## 13. COMPARATIVE CONSTRUCTION
+
+### Pattern
+**lebih + [TRUTH-TERM] + (daripada [STANDARD])**
+"Lebih" (more) + truth-term creates comparative. Standard of comparison introduced by "daripada."
+
+### Examples
+- **lebih akurat daripada sebelumnya**
+  lebih akurat daripada sebelumnya
+  "more accurate than before"
+
+- **lebih mirip dengan ibunya**
+  lebih mirip dengan ibunya
+  "more similar to his/her mother"
+
+### Notes
+Analytic comparative with "lebih" is standard for gradable terms. Not all truth-domain terms are gradable (e.g., *lebih asli is marginal). Superlative uses "paling" (most) or "ter-" prefix.
+
+---
+
+## 14. DISCOURSE MARKER FUNCTION
+
+### Pattern
+**[TRUTH-TERM] + saja/nya**
+Truth-terms with particles "saja" or "-nya" function as discourse markers introducing corrections or frank statements.
+
+### Examples
+- **jujur saja, saya tidak setuju**
+  jujur saja, saya tidak setuju
+  "to be honest, I don't agree"
+
+- **sebenarnya dia tidak datang**
+  sebenarnya dia tidak datang
+  "actually he/she didn't come"
+
+### Notes
+Several truth-terms have grammaticalized into discourse markers: jujur saja (to be honest), sebenarnya/sebetulnya (actually), sesungguhnya (truly). These frame epistemic stance or introduce corrections rather than directly evaluating truth.
+
+---
+
+## 15. RECIPROCAL/COLLECTIVE CONSTRUCTION
+
+### Pattern
+**se- + [ROOT]** or **ber- + [ROOT] + -an**
+Prefix se- creates reciprocal/collective meaning; ber-...-an marks mutual action.
+
+### Examples
+- **sesama manusia harus jujur**
+  sesama manusia harus jujur
+  "fellow humans must be honest"
+
+- **bertepatan dengan hari raya**
+  bertepatan dengan hari raya
+  "coinciding with the holiday"
+
+### Notes
+"Sesama" (from se-+sama) means "fellow, mutual, one another." "Bertepatan" indicates temporal coincidence. These constructions are limited to specific roots (primarily "sama" and "tepat") and show semantic specialization beyond simple truth-evaluation.
+
+---
+
+## 16. FIXED IDIOMATIC EXPRESSIONS
+
+### Pattern
+**[TRUTH-TERM] + [FIXED NOUN/VERB]**
+Lexicalized collocations with specialized meanings.
+
+### Examples
+- **salah kaprah**
+  salah kaprah
+  "common misconception" (lit. wrong-widespread)
+
+- **cinta sejati**
+  cinta sejati
+  "true love"
+
+### Notes
+Numerous fixed expressions show semantic drift from compositional meaning: salah kaprah (widespread error), salah tingkah (awkward/embarrassed), salah satu (one of). These require lexical listing as their meanings are not fully predictable from components.

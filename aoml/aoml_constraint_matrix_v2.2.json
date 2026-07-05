@@ -1,0 +1,640 @@
+{
+  "aoml_version": "2.2",
+  "architecture": "three-layer",
+  "description": "AOML v2.2 Semantic Constraint Architecture. Six primary axes, four meta-axes (DEG, TEMP, LIKE, EVID), seven operators + provisional REVEAL, four levels, structural rules R1-R9. Derived from v2.1 plus the 16-language union-pipeline delta (data_union/aoml_v2.2_delta_from_union.md). Verisimilitude reclassified from the LIFE primary axis to the LIKE meta-axis; evidentiality added as the EVID meta-axis.",
+  "layer_1": {
+    "primary_axes": {
+      "description": "Answer: what kind of claim is being made? Each axis represents a distinct truth-claim kind with non-interchangeable validation requirements. Seven axes constitute the minimal set required to explain cross-linguistic contrast patterns in the truth domain.",
+      "axes": {
+        "VER": {
+          "name": "VERIDICAL",
+          "description": "Factual correspondence. Truth-value of propositions; correspondence between claim and state of affairs.",
+          "target_type": "EPISTEMIC",
+          "default_method": "OBSERVATION",
+          "admissible_methods": [
+            "EXPERIMENT",
+            "STATISTICS"
+          ],
+          "default_level": "EMPIRICAL",
+          "vernorm_conformity_note_v2_2": "The yo/ta D1/D11 merger does NOT collapse VER and NORM (both languages keep separate truth vs justice vocab: yo òtítọ́/òdodo, ta uṇmai/niyāyam). The shared 'correctness' root (yo tọ́, ta cari, en correct) is an axis-neutral CONFORMITY-TO-STANDARD predicate whose axis is set by its standard: factual standard -> VER (correct answer), normative standard -> NORM (correct conduct). A cross-axis predicate like D12 deception (VER+SINC), not a gradient. VER/NORM stay distinct. Resolves the proposed VER/NORM gradient."
+        },
+        "AUTH": {
+          "name": "AUTHENTICITY",
+          "description": "Genuine vs. counterfeit. Origin integrity of objects, documents, and artifacts.",
+          "target_type": "ONTOLOGICAL",
+          "default_method": "PROVENANCE",
+          "admissible_methods": [
+            "EXPERIMENT"
+          ],
+          "default_level": "EMPIRICAL",
+          "three_way_note_v2_2": "AUTH is binary at the axis level (genuine/not-genuine). The cross-linguistically robust three-way genuine/copy/fake (ta acal/nakal/pōli, fi kopio/jäljitelmä/väärennös, +eu/id/tr/ko) is AUTH plus LIKE[AUTH] under R8: a neutral COPY is LIKE[AUTH] acknowledged (no R8 substitution -> neutral); a FORGERY is LIKE[AUTH] passed off as AUTH (R8 violation -> negative). No new AUTH value. The copy/fake lexical split is direct evidence for the acknowledged-vs-passed-off distinction R8/LIKE depend on. Resolves the proposed AUTH neutral-intermediate. [CLCA-A] 6+ langs."
+        },
+        "SINC": {
+          "name": "SINCERITY",
+          "description": "Honesty of intent. Inner alignment between stated and actual belief or intention. Virtue, not fact.",
+          "target_type": "DISPOSITIONAL",
+          "default_method": "TESTIMONY",
+          "admissible_methods": [
+            "OBSERVATION (conduct pattern over time)"
+          ],
+          "default_level": "CONVENTIONAL"
+        },
+        "NORM": {
+          "name": "NORMATIVE",
+          "description": "Moral, legal, or procedural rightness. Ought-claims. What should be the case rather than what is.",
+          "target_type": "INSTITUTIONAL",
+          "default_method": "PRINCIPLE",
+          "admissible_methods": [
+            "CONSENSUS",
+            "LOGIC"
+          ],
+          "default_level": "CONVENTIONAL",
+          "sinc_rider_v2_2": "NORM's substantive/moral pole carries a SINC-like constitutive rider (Paper IV: a normative claim whose constitutive right/wrong distinction has collapsed is incoherent; GrokDiscussion: normative truths partly constituted, Korsgaard/Street). R1 governs the rider — substantive moral rightness cannot be caused (like sincerity), while institutional validity (no rider, constituted status) is freely causable. Resolves the proposed NORM-DEONTIC/NORM-INSTITUTIONAL split without an axis split. [CLCA-BOTH]: Set A D5, Set B D3/D7."
+        },
+        "ESS": {
+          "name": "ESSENCE",
+          "description": "Inherent nature. Fundamental, definitional, or necessary properties. What something is by its nature, not by observation or convention.",
+          "target_type": "ONTOLOGICAL",
+          "default_method": "LOGIC",
+          "admissible_methods": [
+            "PRINCIPLE"
+          ],
+          "default_level": "FORMAL"
+        },
+        "VERIF": {
+          "name": "VERIFICATION",
+          "description": "Evidential establishment. The process of proving or confirming a claim through appropriate evidence. Runs claim→world — structurally distinct from discovery (world→claim).",
+          "target_type": "EPISTEMIC",
+          "default_method": "EXPERIMENT",
+          "admissible_methods": [
+            "STATISTICS",
+            "LOGIC"
+          ],
+          "default_level": "FORMAL"
+        }
+      }
+    },
+    "meta_axes": {
+      "description": "Answer: what is the claim's scalar or temporal position within a primary axis? Meta-axes modulate primary-axis claims. They do not constitute independent claim types and cannot substitute for their host axis in any inference step.",
+      "axes": {
+        "DEG": {
+          "name": "DEGREE",
+          "description": "Magnitude modifier. Intensity, threshold, and comparison position of a claim on any primary axis. Ordinal in natural language: more/less, enough/too much, greater than. Structurally analogous to f'(x) — the rate of change of the primary-axis claim.",
+          "inherits_operators_from": "host primary axis",
+          "substitution_constraint": "DEG[A] cannot substitute for A in any inference step. See Structural Rule R5.",
+          "empirical_status": "Confirmed by both CLCA protocols (seeded and naive)."
+        },
+        "TEMP": {
+          "name": "TEMPORAL",
+          "description": "Position modifier. Order, direction, and persistence of a claim across time. Ordinal: before/after, already/not yet, earlier/later. Adds internal stratification: past, present, and future levels. Structurally analogous to the integral of the primary-axis claim over time.",
+          "inherits_operators_from": "host primary axis",
+          "substitution_constraint": "TEMP[A] cannot substitute for A in any inference step. Internal level crossing (past/present/future) without justification = UFA Type 4. See Structural Rule R6.",
+          "empirical_status": "Confirmed [CLCA-BOTH] via the reliability domain (build/erode/establish constructions [CORE] in both sets) and [FALLACY] (Sunk Cost, Appeal to Novelty, Presentism). Reliability gives TEMP its cross-linguistic footing; previously fallacy-anchored only.",
+          "reliability_application": "Reliability/dependability-over-time = TEMP[host]: the temporal-persistence (integral) modulation of a trust-axis — sincerity sustained (TEMP[SINC]) and/or veridicality sustained (TEMP[VER]). Trust is built/eroded (the integral accumulates/depletes), not caused (R1 preserved). Resolves the proposed SINC split: reliability is not a SINC sub-axis but a TEMP modulation over a SINC/VER blend — which is why Set A (content-credibility/VER) and Set B (source-honesty/SINC) carved the region differently."
+        },
+        "LIKE": {
+          "name": "LIKENESS / SIMILATIVE",
+          "prior_name": "LIFE / LIFELIKENESS (was a primary axis in v2.1)",
+          "description": "Similative modifier. The appearance of a primary-axis property without the actual property: LIKE[A] = 'resembles A without being A'. The grammaticalized similative — every cross-linguistic lexicalization uses a truth-stem + similative compound (Latin vēri-similis, Tagalog parang totoo 'like-true', Quechua cheqa hina 'like-genuine', Sanskrit -ābhāsa, Chinese 逼真, Greek αληθοφανής). Host-dependent valence: positive for VER in the aesthetic register (lifelikeness, the goal of representational art), negative for AUTH (forgery), SINC (hypocrisy), VERIF (sophistry), NORM (sham legitimacy), ESS (illusion). The VER instance, LIKE[VER], is verisimilitude (the case Latin named); lifelikeness is its aesthetic subset. Distinct from DEG: DEG[A] is how-much-A on A's scale; LIKE[A] is resembles-A off A's scale.",
+          "instances": {
+            "LIKE[VER]": "verisimilitude (aesthetic subset: lifelikeness; epistemic subset: plausibility/truthiness)",
+            "LIKE[AUTH]": "forgery / counterfeit",
+            "LIKE[SINC]": "feigned sincerity / hypocrisy",
+            "LIKE[VERIF]": "pseudo-proof / sophistry (sa pramāṇābhāsa, hetvābhāsa)",
+            "LIKE[NORM]": "sham legitimacy / demagoguery",
+            "LIKE[ESS]": "mere appearance / illusion (sa ābhāsa)"
+          },
+          "inherits_operators_from": "host primary axis",
+          "substitution_constraint": "LIKE[A] cannot substitute for A in any inference step. See Structural Rule R8. The R8 violation per host axis is a named deception: forgery (AUTH), sophistry (VERIF), hypocrisy (SINC), demagoguery (NORM), truthiness (VER), illusion (ESS).",
+          "distinct_from_DEG": "DEG[A] = how-much-A, on A's own scale (half-true, more accurate). LIKE[A] = resembles-A, off A's scale (plausible-but-false, lifelike-but-fake). A half-truth (DEG[VER]) and a plausible falsehood (LIKE[VER]) are different objects.",
+          "empirical_status": "Confirmed by the 16-language union pipeline. Lexicalized at [CORE] in ~12 of 16 languages; the truth-stem+similative template is morphologically transparent in 6 unrelated traditions. Set B G7b independently recommended meta-axis (not primary-axis) status."
+        },
+        "EVID": {
+          "name": "EVIDENTIALITY",
+          "description": "Source-of-knowledge modifier. EVID[A] marks how the claimant knows A — direct (witnessed/perceived), reported (hearsay/testimony), or conjectural (inferred). A grammatical category (one of the most robustly attested cross-linguistically); grammaticalized as an obligatory three-way enclitic system in Quechua (-m/-mi direct, -s/-si reported, -chá conjectural), lexical in all attested languages. Distinct from DEG: DEG[A] is how-much-A (confidence magnitude); EVID[A] is on-what-basis-A (source kind). Distinct from the validation-habitat layer: habitats state which method is admissible for an axis (normative); EVID is the speaker's grammatical marking of source on the claim (descriptive). The conjectural value's magnitude face is DEG; its source face is EVID.",
+          "values": {
+            "DIRECT": "witnessed / perceived firsthand (qu -m/-mi; ~ OBSERVATION habitat)",
+            "REPORTED": "hearsay / testimony / 'it is said' (qu -s/-si; ~ TESTIMONY habitat)",
+            "CONJECTURAL": "inferred / 'probably' (qu -chá; absorbs the source face of the proposed PROB)"
+          },
+          "inherits_operators_from": "host primary axis",
+          "substitution_constraint": "EVID[A] cannot substitute for A in any inference step. See Structural Rule R9. REPORTED[A] passed as A is Appeal to Authority / hearsay-as-proof (also a Type 3 habitat mismatch where the axis excludes testimony); CONJECTURAL[A] passed as A is inference-as-proof.",
+          "empirical_status": "Confirmed. The evidential/source dimension is cross-set: Set A D9 (Evidential Grounding and Proof) + D3 (source trustworthiness); Set B D8 (epistemic certainty and source of knowledge) + F-L (evidential constructional function). The grammaticalized three-way system is Quechua; the source distinction is lexical across the sample.",
+          "design_note": "Overlaps the validation-habitat layer (REPORTED~TESTIMONY, DIRECT~OBSERVATION) and DEG (conjectural magnitude). Adopted as a distinct meta-axis to give the four grammatical modulations (DEG, TEMP, LIKE, EVID) a parallel treatment and to unify source-laundering under R9. See aoml_EVID_revision_draft.md §4 for the meta-axis-vs-habitat-correlate fork."
+        }
+      }
+    },
+    "core_operators": {
+      "description": "Answer: what structural transformation or relation is being asserted? Seven operators constitute the minimal primitive basis. Operator licensing is conditioned by axis, target type, and polarity. Conditions are specified in Layer 3 Structural Rules.",
+      "operators": {
+        "ATTR": {
+          "name": "ATTRIBUTION",
+          "description": "Assign property. 'X is [axis]' — asserts a truth-kind property of a subject. Universally licensed across all primary axes.",
+          "default_licensing": "universally_licensed"
+        },
+        "CAUSE": {
+          "name": "CAUSATION",
+          "description": "Bring about or destroy a state. 'Make X [axis]' or 'make X not-[axis]'. Licensing is polarity-conditioned and target-type-conditioned. Positive causation (CAUS+) and negative causation (CAUS−) are not separate operators but are licensed differently across axes and target types.",
+          "default_licensing": "restricted",
+          "polarity_conditions": {
+            "CAUS_positive": "Licensed for factual targets (VER, NORM institutionally). Blocked for dispositional targets (SINC — universal block, Rule R1). Blocked for non-manufacturable ontological targets (AUTH positive pole — Rule R3, ESS — Rule R2).",
+            "CAUS_negative": "Licensed for AUTH (forgery, destruction of authenticity — Rule R3). Blocked for dispositional targets (SINC). Generally more restricted than positive causation for truth-states."
+          }
+        },
+        "BECOME": {
+          "name": "BECOMING",
+          "description": "Change of state. 'X becomes [axis]'. Directionally asymmetric across truth-domain axes: positive emergence is natural, negative emergence is marked or blocked in most languages.",
+          "default_licensing": "restricted",
+          "polarity_conditions": {
+            "positive": "Natural and productive for most axes (become-true, become-real, become-just).",
+            "negative": "Marked, dispreferred, or blocked in 14 of 16 languages. Negative states are conceptualized as degradation or corruption, not autonomous emergence. See Rule R4."
+          }
+        },
+        "RESULT": {
+          "name": "RESULT",
+          "description": "State established. 'X proved to be / turned out to be [axis]'. Marks an achieved or discovered state. Primary realization pathway for revelation-type constructions.",
+          "default_licensing": "universally_licensed"
+        },
+        "ABSTR": {
+          "name": "ABSTRACTION",
+          "description": "Nominalize concept. 'Truth / justice / authenticity' — converts an axis-property into a standalone abstract concept. Universally productive except where noted.",
+          "default_licensing": "universally_licensed",
+          "exceptions": {
+            "ESS": "Marginal. Abstract nominalization of essence varies by language and construction."
+          }
+        },
+        "STRAT": {
+          "name": "STRATIFICATION",
+          "description": "Layered distinction. 'Inner vs outer truth / surface vs deep sincerity'. Marks internal contrast within an axis. Universally attested across all 16 languages.",
+          "default_licensing": "universally_licensed",
+          "exceptions": {
+            "AUTH": "Restricted. Internal stratification less natural for material origin claims.",
+            "SINC": "Restricted. Surface/deep sincerity distinction exists but is less productive than other axes."
+          }
+        },
+        "CONTR": {
+          "name": "CONTRAST",
+          "description": "Opposition. 'True vs false / genuine vs fake'. Marks binary opposition or differentiated contrast. Universally licensed. Violations of proper contrast = UFA Type 5 (Contrast Frame Collapse).",
+          "default_licensing": "universally_licensed",
+          "mithya_residual_v2_2": "CONTR is binary by default. Sanskrit Advaita's mithyā (anirvacanīya — genuinely indeterminable as sat or asat) is a stable third ontological value resisting bivalence. Most of the sa ontological apparatus dissolves (appearance pratibhāsa/ābhāsa = LIKE[ESS]; vyāvahārika-real/paramārtha-unreal = binary CONTR per LEVEL, level-collapse = Type 4), but the strong anirvacanīya claim is a genuine residual NOT captured by binary-CONTR-plus-levels. RECORDED, NOT ADOPTED: single-language, single-tradition, no cross-corpus parallel; G8 OQ-11 holds it open. The one genuine open conflict from the union pipeline; do not relax a universal operator on one tradition's evidence."
+        }
+      }
+    },
+    "provisional_operator": {
+      "REVEAL": {
+        "name": "REVELATION",
+        "status": "provisional_primitive",
+        "description": "Disclosure of latent truth. 'X was revealed to be [axis]'. Presupposes a latent pre-existing state that was already true before disclosure.",
+        "empirical_basis": "Emerged unprompted across 4 or more unrelated language families (Georgian, Korean, Turkish, Finnish) in both CLCA protocols. 15 of 16 languages show preference for revelatory constructions.",
+        "key_diagnostic": "REVEAL operates on a latent host-axis truth-state. The former 'LIFE blocks REVEAL' diagnostic is superseded by the reclassification of likeness as a meta-axis: LIKE[A] is resemblance with no latent A to disclose, so REVEAL has no host truth-state to operate on — this follows from the meta-axis structure, not a separate primitive diagnostic. REVEAL's primitive-vs-derived status should be evaluated on its own evidence (the intransitive truth-revelation construction attested in all 16 languages), not via the likeness diagnostic.",
+        "provisional_licensing": {
+          "VER": "licensed",
+          "AUTH": "licensed (strong preference)",
+          "SINC": "licensed",
+          "NORM": "licensed",
+          "ESS": "licensed (strong preference)",
+          "VERIF": "licensed"
+        },
+        "reason_for_provisional_status": "Behaviorally strong and structurally distinct from RESULT + STRAT, but requires cross-architectural validation using non-Claude LLM families before confirmation as primitive."
+      }
+    },
+    "levels": {
+      "description": "Answer: at what stratum is the claim operating? Four levels govern permissible inference across strata.",
+      "EMPIRICAL": {
+        "description": "Physical observation. Claims grounded in observable, testable states of the world.",
+        "default_axes": [
+          "VER",
+          "AUTH"
+        ],
+        "validated_by": [
+          "OBSERVATION",
+          "EXPERIMENT"
+        ]
+      },
+      "CONVENTIONAL": {
+        "description": "Social and legal norms. Claims grounded in institutional or socially agreed standards.",
+        "default_axes": [
+          "SINC",
+          "NORM"
+        ],
+        "validated_by": [
+          "CONSENSUS",
+          "PRINCIPLE"
+        ]
+      },
+      "FORMAL": {
+        "description": "Logical and mathematical. Claims grounded in logical or mathematical necessity.",
+        "default_axes": [
+          "ESS",
+          "VERIF"
+        ],
+        "validated_by": [
+          "LOGIC",
+          "STATISTICS"
+        ]
+      },
+      "ULTIMATE": {
+        "description": "Metaphysical and definitional. Claims grounded in fundamental or definitional necessity. Not falsifiable by empirical counter-example.",
+        "default_axes": [
+          "ESS (deep claims)"
+        ],
+        "validated_by": [
+          "LOGIC",
+          "PRINCIPLE"
+        ],
+        "constraint": "Level-crossing without explicit justification = UFA Type 4 Stratification Misalignment."
+      }
+    }
+  },
+  "layer_2": {
+    "description": "Axis-internal semantic subregions. Stable lexical territories that recurred in CLCA data within each primary axis. These are not independent primitive axes — they do not require their own rows in the legality matrix. They live within the axis that generates them.",
+    "subregions": {
+      "VER": [
+        "factual_truth",
+        "correctness",
+        "reality_contact"
+      ],
+      "AUTH": [
+        "genuineness",
+        "originality",
+        "counterfeit_status",
+        "actualization"
+      ],
+      "SINC": [
+        "honesty",
+        "reliability",
+        "faithfulness"
+      ],
+      "NORM": [
+        "justice",
+        "fairness",
+        "legitimacy",
+        "appropriateness"
+      ],
+      "ESS": [
+        "inherent_nature",
+        "identity",
+        "definition",
+        "essential_structure"
+      ],
+      "VERIF": [
+        "proof",
+        "confirmation",
+        "evidential_support",
+        "disconfirmation"
+      ]
+    }
+  },
+  "layer_3": {
+    "structural_rules": {
+      "description": "Empirical constraints discovered through CLCA that overlay the core legality matrix. These are not primitives — they are findings about how the geometry behaves under specific conditions. Each rule maps to one or more UFA violation types.",
+      "rules": {
+        "R1": {
+          "name": "Dispositional Causation Block",
+          "formal": "CAUSE × DISPOSITIONAL → universally blocked",
+          "description": "Direct causation of dispositional character traits is structurally prohibited across all tested languages. Applies to SINC and all its subregions (reliability, faithfulness). CAUSE is not blocked generally — only for dispositional targets. Character traits are internally cultivated, not externally produced.",
+          "empirical_basis": "16 of 16 languages. Fisher exact p < 1e-9. Both CLCA protocols independently. The strongest single empirical finding in the system.",
+          "examples": [
+            "'make someone honest' — universally blocked",
+            "'encourage honesty' — natural in all languages",
+            "'make the claim true' — natural"
+          ],
+          "ufa_type": "Type 2 — Operator Overextension",
+          "refinement_v2_2": "Blocks CAUSE applied directly to the dispositional state, NOT CAUSE applied to conditions that facilitate it (eu zintzotu eragin, ko jinjeongseong-eul nopida) nor BECOME (character development through action, restricted-but-attested). Without this distinction R1 as originally stated would wrongly block the attested indirect-facilitation constructions."
+        },
+        "R2": {
+          "name": "Essence Stability",
+          "formal": "CAUSE × ESS → blocked; BECOME × ESS → blocked",
+          "description": "Essential properties are intrinsic and non-manipulable. Neither external causation nor gradual transition applies to essence. Things have or lack essential properties — they do not acquire or lose them through process.",
+          "empirical_basis": "15 of 16 languages for both CAUSE and BECOME blocking on the ESS axis.",
+          "examples": [
+            "'make it essentially X' — blocked",
+            "'become essentially X' — blocked",
+            "'reveal its essential nature' — licensed"
+          ],
+          "ufa_type": "Type 2 — Operator Overextension"
+        },
+        "R3": {
+          "name": "Authenticity Polarity Asymmetry",
+          "formal": "CAUSE(+) × AUTH → blocked; CAUSE(−) × AUTH → licensed",
+          "description": "Authenticity cannot be manufactured or externally created (CAUS+ blocked), but can be destroyed or forged (CAUS− licensed). This asymmetry is the primary empirical evidence for the ontological target-type class: ontological properties cannot be produced de novo externally, though they can be corrupted.",
+          "empirical_basis": "10 of 11 languages for CAUS+ block; 8 of 11 for CAUS− license. Asymmetry consistent across language families.",
+          "examples": [
+            "'manufacture authentic goods' — blocked",
+            "'forge the document' — natural",
+            "'destroy its authenticity' — natural"
+          ],
+          "ufa_type": "Type 2 — Operator Overextension (positive polarity applied beyond licensed scope)",
+          "copy_vs_forgery_note_v2_2": "CAUSE(-) x AUTH licensed covers BOTH making a copy and making a forgery; the difference is not in the causation (R3) but in whether the product is passed off as genuine (R8/LIKE). 'Fraudulent intent' lives in the R8 substitution layer, not in a CAUSE refinement."
+        },
+        "R4": {
+          "name": "Positive Emergence Bias",
+          "formal": "BECOME(+state) >> BECOME(−state) across truth-domain axes",
+          "description": "Positive emergence is natural and linguistically productive. Negative emergence is marked, dispreferred, or blocked in most languages — conceptualized as degradation or corruption rather than an autonomous developmental process. Aligns with privation theory: negative truth-states are absences, not destinations.",
+          "empirical_basis": "14 of 16 languages show the asymmetry. Two exceptions (Yoruba and Indonesian) are analytic languages where the asymmetry manifests pragmatically rather than morphologically.",
+          "examples": [
+            "'the rumor became true' — natural",
+            "'the statement became false' — marked or blocked in most languages"
+          ],
+          "ufa_type": "Type 2 — Operator Overextension (negative polarity applied beyond licensed scope)"
+        },
+        "R5": {
+          "name": "Degree Meta-Axis Substitution Prohibition",
+          "formal": "DEG[A] cannot substitute for A in any inference step",
+          "description": "The degree of a primary-axis claim cannot establish that the claim holds. DEG is ordinal — more/less, enough/too much. The derivative is not the function. This single rule explains a large class of classical fallacies.",
+          "examples": [
+            "High probability (DEG[VER]) does not equal truth (VER) — Appeal to Probability",
+            "Very sincere-seeming (DEG[SINC]) does not equal veridical evidence (VER) — Appeal to Emotion",
+            "More popular (DEG[NORM]) does not equal more just (NORM) — Argumentum ad Populum"
+          ],
+          "ufa_type": "Type 2 — Operator Overextension (Meta-Axis Substitution subtype)"
+        },
+        "R6": {
+          "name": "Temporal Meta-Axis Substitution Prohibition",
+          "formal": "TEMP[A] cannot substitute for A; TEMP internal levels (past/present/future) cannot be crossed without justification",
+          "description": "Temporal position, recency, or historical precedence cannot validate a claim on its host primary axis without independent method. Internal level stratification adds an additional constraint: inference across past, present, and future levels requires explicit justification.",
+          "examples": [
+            "More recent therefore better (TEMP[NORM] → NORM) — Appeal to Novelty",
+            "Past investment creates future obligation — Sunk Cost Fallacy",
+            "Applying present standards to judge past events — Presentism and Historian's Fallacy"
+          ],
+          "empirical_status": "PROVISIONAL — TEMP meta-axis status confirmed in CLCA-Revision (D21, 6 of 8 Set A) but absent from CLCA-1.1 synthesis. Cross-architectural confirmation pending.",
+          "ufa_type": "Type 2 (substitution) and Type 4 (internal level crossing)"
+        },
+        "R7": {
+          "name": "Agentive Polarity Asymmetry",
+          "formal": "ABSTR(agentive) x (positive pole of VER/SINC/AUTH) -> blocked or strongly dispreferred; ABSTR(agentive) x (negative pole) -> licensed",
+          "description": "Negative-pole agent nouns (liar, deceiver, forger) lexicalize as single words; positive-pole agent nouns (truth-teller, honest-person-as-role, authenticator) are absent or require compound/periphrasis. The single most robust empirical finding in the corpus.",
+          "empirical_status": "Confirmed in BOTH independent language sets (Set A CU-12, Set B CU-04), all 16 languages, all relevant dimensions, all language families. Mechanism open: may follow from R1 (a trait that cannot be externally caused resists being named as a stable role identity) or be independent (the negative pole is an active agentive process, the positive a default state).",
+          "ufa_type": "Unmodeled in v2.1; candidate new structural rule.",
+          "status": "confirmed (cross-set); mechanism open"
+        },
+        "R8": {
+          "name": "LIKE Meta-Axis Substitution Prohibition",
+          "formal": "LIKE[A] cannot substitute for A in any inference step",
+          "description": "Resembling an A-property cannot establish the A-property. Likeness is not the host property. This single rule unifies a class of classical deceptions: each is LIKE[host] passed off as host.",
+          "examples": [
+            "A forgery (LIKE[AUTH]) passed as genuine (AUTH) — Forgery / counterfeiting",
+            "A specious argument (LIKE[VERIF]) passed as valid (VERIF) — Sophistry",
+            "Performed sincerity (LIKE[SINC]) passed as genuine (SINC) — Hypocrisy",
+            "The appearance of legitimacy (LIKE[NORM]) passed as legitimacy (NORM) — Demagoguery",
+            "A claim that looks true (LIKE[VER]) passed as true (VER) — Truthiness"
+          ],
+          "empirical_status": "Confirmed by the 16-language union pipeline. Sanskrit lexicalizes the prohibition directly: 'hetvābhāsaḥ na hetuḥ' — a pseudo-reason is not a reason.",
+          "ufa_type": "Type 2 — Operator Overextension (Meta-Axis Substitution subtype)"
+        },
+        "R9": {
+          "name": "Evidentiality Meta-Axis Substitution Prohibition",
+          "formal": "EVID[A] cannot substitute for A in any inference step",
+          "description": "The source from which a claim is known cannot establish the claim itself. That something is reported, or inferred, is not that it is the case. Unifies source-laundering: the evidential marking treated as the host-axis verdict.",
+          "examples": [
+            "REPORTED[VER] passed as VER ('it is said to be true, therefore true') — Appeal to Authority / hearsay-as-proof",
+            "CONJECTURAL[VER] passed as VER ('it can be inferred, therefore established') — inference-as-proof",
+            "A reported-evidential claim used where the axis requires direct OBSERVATION — Type 3 habitat mismatch"
+          ],
+          "empirical_status": "Confirmed by the union pipeline. The Quechua evidential enclitics grammaticalize the source distinction obligatorily; every language's hedging vocabulary (he savir, qu cheqachá) guards the substitution.",
+          "ufa_type": "Type 2 — Operator Overextension (Meta-Axis Substitution subtype); evidential/habitat mismatches also surface as Type 3"
+        }
+      },
+      "principles": {
+        "deception_principle": {
+          "name": "Deception Principle (structural violation + SINC-intent = lie)",
+          "formal": "A structural violation (false claim, or any meta-axis substitution M[A] != A: R5/R6/R8/R9) committed knowingly to mislead is a SINC violation (lie); the same violation by mistake is an innocent error.",
+          "resolves": [
+            "D12 deliberate-deception-vs-innocent-error",
+            "partial-truth (R5 + SINC-intent)",
+            "forgery vs replica (LIKE[AUTH] knowingly passed off)",
+            "sophistry vs honest mistake"
+          ],
+          "note": "Names how SINC-intent converts any structural error into a lie. Not a new axis; a cross-cutting principle. Resolves the proposed partial-truth rule.",
+          "empirical_status": "[CLCA-BOTH]: D12 (Set A), partial-truth (Set B 7/8)"
+        },
+        "deontic_note": {
+          "name": "Deontic = NORM over truth-related conduct",
+          "note": "Deontic constructions (ought to tell truth / not to lie; F-J, all 8 langs) are NORM claims whose object is a truth-act. NORM's domain is the evaluation of conduct; truth-telling is conduct. Not a new operator-interaction layer. Resolves the proposed deontic cross-axis interaction."
+        }
+      }
+    },
+    "validation_habitats": {
+      "description": "Methods are validation habitats, not semantic axes. Each primary axis has default methods that license the claim type and inadmissible methods whose use constitutes a UFA Type 3 Verification Habitat Mismatch.",
+      "habitats": {
+        "VER": {
+          "default_methods": [
+            "OBSERVATION",
+            "EXPERIMENT"
+          ],
+          "admissible_methods": [
+            "STATISTICS"
+          ],
+          "inadmissible_methods": [
+            "CONSENSUS",
+            "TESTIMONY",
+            "PRINCIPLE"
+          ],
+          "type3_violations": [
+            "Appeal to Authority",
+            "Bandwagon",
+            "Appeal to Nature",
+            "Argumentum ad Populum"
+          ]
+        },
+        "AUTH": {
+          "default_methods": [
+            "PROVENANCE"
+          ],
+          "admissible_methods": [
+            "EXPERIMENT (material dating)"
+          ],
+          "inadmissible_methods": [
+            "CONSENSUS",
+            "OBSERVATION (appearance alone)"
+          ],
+          "type3_violations": [
+            "Argument from Appearance",
+            "Appeal to Reputation"
+          ]
+        },
+        "SINC": {
+          "default_methods": [
+            "TESTIMONY"
+          ],
+          "admissible_methods": [
+            "OBSERVATION (pattern of conduct over time)"
+          ],
+          "inadmissible_methods": [
+            "EXPERIMENT",
+            "STATISTICS",
+            "OBSERVATION (single instance)"
+          ],
+          "type3_violations": [
+            "Passion as Evidence",
+            "Appeal to Sincerity as Proof",
+            "Ad Hominem reverse"
+          ]
+        },
+        "NORM": {
+          "default_methods": [
+            "PRINCIPLE",
+            "CONSENSUS"
+          ],
+          "admissible_methods": [
+            "LOGIC (formal derivation from principles)"
+          ],
+          "inadmissible_methods": [
+            "OBSERVATION",
+            "EXPERIMENT"
+          ],
+          "type3_violations": [
+            "Naturalistic Fallacy",
+            "Is-Ought Error",
+            "Appeal to Consequences"
+          ]
+        },
+        "ESS": {
+          "default_methods": [
+            "LOGIC"
+          ],
+          "admissible_methods": [
+            "PRINCIPLE (definitional extension)"
+          ],
+          "inadmissible_methods": [
+            "OBSERVATION",
+            "CONSENSUS",
+            "STATISTICS"
+          ],
+          "type3_violations": [
+            "Essentialism from Observation",
+            "No True Scotsman",
+            "Definitional Fallacy"
+          ]
+        },
+        "VERIF": {
+          "default_methods": [
+            "EXPERIMENT",
+            "STATISTICS",
+            "LOGIC"
+          ],
+          "admissible_methods": [
+            "varies by the type of claim being verified"
+          ],
+          "inadmissible_methods": [
+            "TESTIMONY (as sole evidence)",
+            "CONSENSUS"
+          ],
+          "type3_violations": [
+            "Ipse Dixit",
+            "Appeal to Authority",
+            "Verification by Consensus"
+          ]
+        }
+      }
+    },
+    "target_type_classes": {
+      "description": "Cross-cutting structural partition over the primary-axis space. Governs differential operator licensing. The target-type ontology may be structurally prior to the operator licensing matrix — axes identify semantic territories but target types may determine what operators are legal.",
+      "classes": {
+        "FACTUAL": {
+          "description": "States of reality. Externally observable and, for some axes, externally producible.",
+          "primary_axes": [
+            "VER",
+            "AUTH"
+          ],
+          "cause_licensing": "Generally licensed, subject to polarity conditions (Rule R3 for AUTH).",
+          "become_licensing": "Positive emergence natural; negative biased (Rule R4)."
+        },
+        "EPISTEMIC": {
+          "description": "Knowledge and evidence states. Truth-values are discovered or revealed, not produced. VERIF runs claim→world; VER as a knowledge-state runs world→claim.",
+          "primary_axes": [
+            "VER (as belief state)",
+            "VERIF"
+          ],
+          "cause_licensing": "Restricted — can produce conditions for knowledge, not the knowledge state itself.",
+          "become_licensing": "Verification states are achieved, not gradually undergone."
+        },
+        "DISPOSITIONAL": {
+          "description": "Stable inner tendencies of agents. Cultivated through practice and revealed through pattern of conduct. Not directly observable and not externally causable.",
+          "primary_axes": [
+            "SINC"
+          ],
+          "cause_licensing": "UNIVERSALLY BLOCKED (Rule R1, p < 1e-9, 16 of 16 languages).",
+          "become_licensing": "Marginal — character development is possible but internally driven, not a simple state transition."
+        }
+      },
+      "deep_hypothesis": "The three strongest CLCA empirical findings — the dispositional causation block (R1), the positive emergence bias (R4), and the cross-linguistic preference for revelation constructions — may all be surface projections of a single deeper constraint: languages treat factual targets as externally producible, epistemic targets as discoverable or revealed, and dispositional targets as internally cultivated. If confirmed, the target-type ontology is structurally prior to the operator licensing matrix."
+    }
+  },
+  "core_legality_matrix": {
+    "description": "Primitive legality layer. Default licensing status before polarity, target-type, and meta-axis conditions are applied. Polarity and target-type conditions are in Layer 3 Structural Rules. REVEAL excluded from core matrix due to provisional status.",
+    "legend": {
+      "licensed": "structurally permitted as default",
+      "restricted": "licensed under conditions specified in Layer 3 Structural Rules",
+      "blocked": "structurally prohibited",
+      "universally_blocked": "blocked across all 16 tested languages (p < 1e-9)"
+    },
+    "axes_x_operators": {
+      "VER": {
+        "ATTR": "licensed",
+        "CAUSE": "restricted",
+        "BECOME": "restricted",
+        "RESULT": "licensed",
+        "ABSTR": "licensed",
+        "STRAT": "licensed",
+        "CONTR": "licensed"
+      },
+      "AUTH": {
+        "ATTR": "licensed",
+        "CAUSE": "restricted",
+        "BECOME": "restricted",
+        "RESULT": "licensed",
+        "ABSTR": "licensed",
+        "STRAT": "restricted",
+        "CONTR": "licensed"
+      },
+      "SINC": {
+        "ATTR": "licensed",
+        "CAUSE": "universally_blocked",
+        "BECOME": "restricted",
+        "RESULT": "licensed",
+        "ABSTR": "licensed",
+        "STRAT": "restricted",
+        "CONTR": "licensed"
+      },
+      "NORM": {
+        "ATTR": "licensed",
+        "CAUSE": "governed by NORM's SINC rider: BLOCKED for substantive/moral NORM (constitutive — carries a sincerity-like rider, inherits R1; cannot 'make something just'); LICENSED for institutional/procedural NORM (a constituted status with no rider — validate/invalidate/legitimize/annul, both polarities). Correlates with level (moral~ULTIMATE, institutional~CONVENTIONAL) but the operative mechanism is the rider + R1.",
+        "BECOME": "restricted",
+        "RESULT": "licensed",
+        "ABSTR": "licensed",
+        "STRAT": "licensed",
+        "CONTR": "licensed"
+      },
+      "ESS": {
+        "ATTR": "licensed",
+        "CAUSE": "blocked",
+        "BECOME": "blocked",
+        "RESULT": "restricted",
+        "ABSTR": "restricted",
+        "STRAT": "licensed",
+        "CONTR": "licensed"
+      },
+      "VERIF": {
+        "ATTR": "licensed",
+        "CAUSE": "restricted",
+        "BECOME": "restricted",
+        "RESULT": "licensed",
+        "ABSTR": "licensed",
+        "STRAT": "licensed",
+        "CONTR": "licensed"
+      }
+    },
+    "meta_axis_rule": "DEG[A] and TEMP[A] inherit the operator licensing of their host axis A. Neither may substitute for A in any inference step (Rules R5, R6).",
+    "provisional_operator_note": "REVEAL is provisionally licensed for VER, AUTH, SINC, NORM, ESS, VERIF. Likeness is now a meta-axis (LIKE); REVEAL has no latent host truth-state to disclose for LIKE[A], so the former LIFE block is moot. Excluded from core matrix pending cross-architectural validation."
+  },
+  "ufa_mapping": {
+    "description": "Every constraint violation in this architecture maps to a UFA violation type. See companion document: UFA — Universal Fallacy Architecture.",
+    "type_1_axis_transfer_error": "Substituting one primary axis for another in a claim or inference. The truth-kind of the claim is misrepresented.",
+    "type_2_operator_overextension": "Applying an operator beyond its licensed scope for a given axis or target type. Covers: R1 (CAUSE × DISPOSITIONAL), R2 (CAUSE/BECOME × ESS), R3 (CAUSE(+) × AUTH), R4 (BECOME(−)), R5 (DEG[A] → A), R6 (TEMP[A] → A).",
+    "type_3_verification_habitat_mismatch": "Using an inadmissible validation method for a claim's axis. See Layer 3 validation_habitats for axis-specific inadmissible methods and canonical violations.",
+    "type_4_stratification_misalignment": "Unjustified level jump across EMPIRICAL, CONVENTIONAL, FORMAL, or ULTIMATE strata. Also generated by TEMP internal level crossing (past, present, future) without justification.",
+    "type_5_contrast_frame_collapse": "False or collapsed opposition. Violations of CONTR operator legality — false dilemma, whataboutism, false equivalence."
+  }
+}

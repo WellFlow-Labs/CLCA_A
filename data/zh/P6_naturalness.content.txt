@@ -1,0 +1,682 @@
+# CLCA Protocol v3.4 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+
+---
+
+## PRELIMINARY NOTE ON CHINESE ASPECT AND CHANGE-OF-STATE
+
+Chinese encodes change and causation through:
+1. **Change-of-state verbs** (变, 成为, 变成)
+2. **Resultative verb compounds** (V-R structure where R indicates result state)
+3. **Causative constructions** (使, 让, 叫 + causee + result)
+4. **Disposal construction** (把 + object + V-R)
+5. **Aspect markers** (了 perfective, 着 durative, 过 experiential)
+6. **Inchoative patterns** (起来 "begin to")
+
+Truth-domain terms participate in these patterns with varying productivity and naturalness.
+
+---
+
+## 1. BECOMING TRUE/AUTHENTIC (X becomes [truth-related state])
+
+### 1.1 Becoming True/Real (真, 真实)
+
+#### Pattern: 变真 (biàn zhēn)
+**Status**: [MARGINAL]
+**Example**: *变真 (biàn zhēn) - "become true/real"
+**Notes**: This bare pattern is grammatically possible but rarely attested in natural usage. The more common expression is the lexicalized idiom:
+
+#### Pattern: 弄假成真 (nòng jiǎ chéng zhēn)
+**Status**: [CORE]
+**Transliteration**: nòng jiǎ chéng zhēn
+**Translation**: "what starts as pretense becomes real; fake it till you make it"
+**Structure**: 弄 (make/do) + 假 (false) + 成 (become) + 真 (true)
+**Usage**: Fixed expression describing situations where something that begins as false or pretended eventually becomes genuine. Common in discussions of relationships or situations that evolve unexpectedly.
+**Example**: 他们开始是假装情侣，后来弄假成真了。
+- Transliteration: tāmen kāishǐ shì jiǎzhuāng qínglǚ, hòulái nòng jiǎ chéng zhēn le.
+- Translation: "They started by pretending to be a couple, but later it became real."
+
+#### Pattern: 变得真实 (biàn de zhēnshí)
+**Status**: [CORE]
+**Transliteration**: biàn de zhēnshí
+**Translation**: "become authentic/realistic"
+**Structure**: 变 (change) + 得 (resultative particle) + 真实 (authentic/real)
+**Usage**: More natural than bare 变真, used to describe something becoming more authentic or realistic.
+**Example**: 这个故事变得越来越真实。
+- Transliteration: zhège gùshi biàn de yuè lái yuè zhēnshí.
+- Translation: "This story is becoming more and more realistic."
+
+#### Pattern: 成为事实 (chéngwéi shìshí)
+**Status**: [CORE]
+**Transliteration**: chéngwéi shìshí
+**Translation**: "become fact; become reality"
+**Structure**: 成为 (become) + 事实 (fact)
+**Usage**: Common expression for something becoming factual or actual, especially predictions or plans.
+**Example**: 他的预言成为了事实。
+- Transliteration: tā de yùyán chéngwéi le shìshí.
+- Translation: "His prediction became reality."
+
+#### Pattern: 变成现实 (biànchéng xiànshí)
+**Status**: [CORE]
+**Transliteration**: biànchéng xiànshí
+**Translation**: "become reality; be realized"
+**Structure**: 变成 (change into) + 现实 (reality)
+**Usage**: Very common expression for dreams, plans, or ideas becoming reality.
+**Example**: 梦想终于变成了现实。
+- Transliteration: mèngxiǎng zhōngyú biànchéng le xiànshí.
+- Translation: "The dream finally became reality."
+
+### 1.2 Becoming Correct (对, 正确)
+
+#### Pattern: 变对 (biàn duì)
+**Status**: [MARGINAL]
+**Transliteration**: biàn duì
+**Translation**: "become correct"
+**Notes**: Grammatically possible but rarely used. Correction is typically expressed through resultative compounds:
+
+#### Pattern: 改对 (gǎi duì)
+**Status**: [MARGINAL]
+**Transliteration**: gǎi duì
+**Translation**: "change to correct; correct (it)"
+**Structure**: 改 (change) + 对 (correct)
+**Usage**: Colloquial expression for correcting something, but less common than 改正.
+**Example**: 把错误改对。
+- Transliteration: bǎ cuòwù gǎi duì.
+- Translation: "Correct the mistakes."
+
+#### Pattern: 改正 (gǎizhèng)
+**Status**: [CORE]
+**Transliteration**: gǎizhèng
+**Translation**: "correct, amend, put right"
+**Structure**: 改 (change) + 正 (correct) [resultative compound]
+**Usage**: Standard expression for correcting errors or mistakes. The compound itself encodes the change from wrong to correct.
+**Example**: 他改正了错误。
+- Transliteration: tā gǎizhèng le cuòwù.
+- Translation: "He corrected the mistakes."
+
+#### Pattern: 纠正 (jiūzhèng)
+**Status**: [CORE]
+**Transliteration**: jiūzhèng
+**Translation**: "correct, rectify, redress"
+**Structure**: 纠 (rectify) + 正 (correct) [resultative compound]
+**Usage**: Common expression for correcting errors or improper situations, emphasizing rectification.
+**Example**: 老师纠正了学生的发音。
+- Transliteration: lǎoshī jiūzhèng le xuésheng de fāyīn.
+- Translation: "The teacher corrected the student's pronunciation."
+
+### 1.3 Becoming Substantial/Concrete (实)
+
+#### Pattern: 变实 (biàn shí)
+**Status**: [MARGINAL]
+**Transliteration**: biàn shí
+**Translation**: "become solid/substantial"
+**Notes**: Rare as bare pattern. Substantialization is typically expressed through resultative compounds:
+
+#### Pattern: 落实 (luòshí)
+**Status**: [CORE]
+**Transliteration**: luòshí
+**Translation**: "implement, carry out, put into effect; be implemented"
+**Structure**: 落 (fall/settle) + 实 (solid/actual) [resultative compound]
+**Usage**: Very common expression for implementing plans or making something concrete. Can be used both transitively (to implement) and intransitively (to be implemented).
+**Example**: 政策已经落实了。
+- Transliteration: zhèngcè yǐjīng luòshí le.
+- Translation: "The policy has been implemented."
+
+#### Pattern: 坐实 (zuòshí)
+**Status**: [CORE]
+**Transliteration**: zuòshí
+**Translation**: "confirm, establish as fact; be confirmed"
+**Structure**: 坐 (sit/establish) + 实 (solid/actual) [resultative compound]
+**Usage**: Legal and investigative term for confirming or establishing something as factual.
+**Example**: 证据坐实了他的罪行。
+- Transliteration: zhèngjù zuòshí le tā de zuìxíng.
+- Translation: "The evidence confirmed his crimes."
+
+#### Pattern: 证实 (zhèngshí)
+**Status**: [CORE]
+**Transliteration**: zhèngshí
+**Translation**: "verify, confirm, prove true; be verified"
+**Structure**: 证 (prove/verify) + 实 (solid/actual) [resultative compound]
+**Usage**: Common expression for verifying or confirming claims or facts.
+**Example**: 消息得到了证实。
+- Transliteration: xiāoxi dédào le zhèngshí.
+- Translation: "The news was confirmed."
+
+#### Pattern: 充实 (chōngshí)
+**Status**: [CORE]
+**Transliteration**: chōngshí
+**Translation**: "become substantial/fulfilling; enrich, fill out"
+**Structure**: 充 (fill) + 实 (solid/full) [resultative compound]
+**Usage**: Can function as both verb (to enrich/fill out) and adjective (substantial/fulfilling). Describes becoming more substantial or full.
+**Example**: 生活变得充实了。
+- Transliteration: shēnghuó biàn de chōngshí le.
+- Translation: "Life became more fulfilling."
+
+### 1.4 Becoming Normal (正常)
+
+#### Pattern: 变正常 (biàn zhèngcháng)
+**Status**: [CORE]
+**Transliteration**: biàn zhèngcháng
+**Translation**: "become normal; return to normal"
+**Structure**: 变 (change) + 正常 (normal)
+**Usage**: Common expression for returning to normal state, especially after abnormality.
+**Example**: 情况慢慢变正常了。
+- Transliteration: qíngkuàng mànman biàn zhèngcháng le.
+- Translation: "The situation gradually returned to normal."
+
+#### Pattern: 恢复正常 (huīfù zhèngcháng)
+**Status**: [CORE]
+**Transliteration**: huīfù zhèngcháng
+**Translation**: "return to normal; restore to normal"
+**Structure**: 恢复 (restore/recover) + 正常 (normal)
+**Usage**: Very common expression for restoration to normal state.
+**Example**: 交通已经恢复正常。
+- Transliteration: jiāotōng yǐjīng huīfù zhèngcháng.
+- Translation: "Traffic has returned to normal."
+
+### 1.5 Becoming Honest/Sincere (诚实, 真诚)
+
+#### Pattern: 变诚实 (biàn chéngshí)
+**Status**: [MARGINAL]
+**Transliteration**: biàn chéngshí
+**Translation**: "become honest"
+**Notes**: Grammatically possible but rare. Character change is typically expressed differently:
+
+#### Pattern: 变得诚实 (biàn de chéngshí)
+**Status**: [CORE]
+**Transliteration**: biàn de chéngshí
+**Translation**: "become honest"
+**Structure**: 变 (change) + 得 (resultative particle) + 诚实 (honest)
+**Usage**: More natural than bare 变诚实, used to describe character development.
+**Example**: 他经历了很多事后变得诚实了。
+- Transliteration: tā jīnglì le hěn duō shì hòu biàn de chéngshí le.
+- Translation: "After experiencing many things, he became honest."
+
+---
+
+## 2. BECOMING FALSE/INCORRECT (X becomes [non-truth / opposed state])
+
+### 2.1 Becoming False/Fake (假, 虚假)
+
+#### Pattern: 变假 (biàn jiǎ)
+**Status**: [MARGINAL]
+**Transliteration**: biàn jiǎ
+**Translation**: "become false/fake"
+**Notes**: Rare as bare pattern. Falsification is typically expressed through causative constructions:
+
+#### Pattern: 弄假 (nòng jiǎ)
+**Status**: [CORE]
+**Transliteration**: nòng jiǎ
+**Translation**: "make false; falsify; fake"
+**Structure**: 弄 (make/do) + 假 (false)
+**Usage**: Common expression for creating something false or fake, or for pretending.
+**Example**: 他弄假账。
+- Transliteration: tā nòng jiǎzhàng.
+- Translation: "He falsified the accounts."
+
+#### Pattern: 变得虚假 (biàn de xūjiǎ)
+**Status**: [CORE]
+**Transliteration**: biàn de xūjiǎ
+**Translation**: "become false/phony"
+**Structure**: 变 (change) + 得 (resultative particle) + 虚假 (false/phony)
+**Usage**: Used to describe something becoming false or phony, especially relationships or attitudes.
+**Example**: 他们的关系变得虚假了。
+- Transliteration: tāmen de guānxi biàn de xūjiǎ le.
+- Translation: "Their relationship became phony."
+
+### 2.2 Becoming Wrong/Incorrect (错)
+
+#### Pattern: 变错 (biàn cuò)
+**Status**: [MARGINAL]
+**Transliteration**: biàn cuò
+**Translation**: "become wrong"
+**Notes**: Rare. Making errors is typically expressed through verb phrases:
+
+#### Pattern: 弄错 (nòng cuò)
+**Status**: [CORE]
+**Transliteration**: nòng cuò
+**Translation**: "get wrong; make a mistake; mix up"
+**Structure**: 弄 (make/do) + 错 (wrong) [resultative compound]
+**Usage**: Very common expression for making mistakes or getting something wrong.
+**Example**: 我弄错了时间。
+- Transliteration: wǒ nòng cuò le shíjiān.
+- Translation: "I got the time wrong."
+
+#### Pattern: 搞错 (gǎo cuò)
+**Status**: [CORE]
+**Transliteration**: gǎo cuò
+**Translation**: "get wrong; make a mistake; confuse"
+**Structure**: 搞 (do/make) + 错 (wrong) [resultative compound]
+**Usage**: Colloquial variant of 弄错, equally common.
+**Example**: 你搞错了。
+- Transliteration: nǐ gǎo cuò le.
+- Translation: "You got it wrong."
+
+#### Pattern: 出错 (chū cuò)
+**Status**: [CORE]
+**Transliteration**: chū cuò
+**Translation**: "make an error; go wrong"
+**Structure**: 出 (emerge/appear) + 错 (wrong) [resultative compound]
+**Usage**: Common expression for errors occurring or appearing.
+**Example**: 计算出错了。
+- Transliteration: jìsuàn chū cuò le.
+- Translation: "The calculation went wrong."
+
+### 2.3 Becoming Abnormal (不正常)
+
+#### Pattern: 变得不正常 (biàn de bù zhèngcháng)
+**Status**: [CORE]
+**Transliteration**: biàn de bù zhèngcháng
+**Translation**: "become abnormal"
+**Structure**: 变 (change) + 得 (resultative particle) + 不正常 (abnormal)
+**Usage**: Common expression for something becoming abnormal or irregular.
+**Example**: 天气变得不正常了。
+- Transliteration: tiānqì biàn de bù zhèngcháng le.
+- Translation: "The weather has become abnormal."
+
+### 2.4 Becoming Empty/Insubstantial (虚)
+
+#### Pattern: 变虚 (biàn xū)
+**Status**: [MARGINAL]
+**Transliteration**: biàn xū
+**Translation**: "become empty/weak"
+**Notes**: Rare as bare pattern. More commonly expressed with 得:
+
+#### Pattern: 变得虚弱 (biàn de xūruò)
+**Status**: [CORE]
+**Transliteration**: biàn de xūruò
+**Translation**: "become weak/feeble"
+**Structure**: 变 (change) + 得 (resultative particle) + 虚弱 (weak/feeble)
+**Usage**: Common expression for becoming physically or metaphorically weak.
+**Example**: 他的身体变得虚弱了。
+- Transliteration: tā de shēntǐ biàn de xūruò le.
+- Translation: "His body became weak."
+
+---
+
+## 3. CAUSATION: Y CAUSES X TO BE [TRUTH-RELATED STATE]
+
+### 3.1 Causing to be True/Real
+
+#### Pattern: 使...成为事实 (shǐ... chéngwéi shìshí)
+**Status**: [CORE]
+**Transliteration**: shǐ... chéngwéi shìshí
+**Translation**: "make... become fact; make... come true"
+**Structure**: 使 (cause) + [object] + 成为 (become) + 事实 (fact)
+**Usage**: Formal causative construction for making something become factual or actual.
+**Example**: 他的努力使梦想成为了事实。
+- Transliteration: tā de nǔlì shǐ mèngxiǎng chéngwéi le shìshí.
+- Translation: "His efforts made the dream become reality."
+
+#### Pattern: 让...变成现实 (ràng... biànchéng xiànshí)
+**Status**: [CORE]
+**Transliteration**: ràng... biànchéng xiànshí
+**Translation**: "make... become reality; make... come true"
+**Structure**: 让 (let/make) + [object] + 变成 (change into) + 现实 (reality)
+**Usage**: Common causative construction, less formal than 使.
+**Example**: 我们要让计划变成现实。
+- Transliteration: wǒmen yào ràng jìhuà biànchéng xiànshí.
+- Translation: "We need to make the plan become reality."
+
+#### Pattern: 实现 (shíxiàn)
+**Status**: [CORE]
+**Transliteration**: shíxiàn
+**Translation**: "realize, achieve, bring about; be realized"
+**Structure**: 实 (solid/actual) + 现 (appear/manifest) [resultative compound]
+**Usage**: Very common verb meaning to realize or achieve something, making it actual. Can be used both transitively (to realize) and intransitively (to be realized).
+**Example**: 我们实现了目标。
+- Transliteration: wǒmen shíxiàn le mùbiāo.
+- Translation: "We achieved the goal."
+
+### 3.2 Causing to be Correct
+
+#### Pattern: 使...正确 (shǐ... zhèngquè)
+**Status**: [MARGINAL]
+**Transliteration**: shǐ... zhèngquè
+**Translation**: "make... correct"
+**Notes**: Grammatically possible but rare. Correction is typically expressed through resultative compounds:
+
+#### Pattern: 把...改正 (bǎ... gǎizhèng)
+**Status**: [CORE]
+**Transliteration**: bǎ... gǎizhèng
+**Translation**: "correct...; put... right"
+**Structure**: 把 (disposal marker) + [object] + 改正 (correct)
+**Usage**: Standard construction for correcting errors using disposal pattern.
+**Example**: 把错误改正过来。
+- Transliteration: bǎ cuòwù gǎizhèng guòlái.
+- Translation: "Correct the mistakes."
+
+#### Pattern: 把...纠正 (bǎ... jiūzhèng)
+**Status**: [CORE]
+**Transliteration**: bǎ... jiūzhèng
+**Translation**: "correct...; rectify..."
+**Structure**: 把 (disposal marker) + [object] + 纠正 (correct/rectify)
+**Usage**: Common construction for correcting errors or improper situations.
+**Example**: 老师把学生的错误纠正了。
+- Transliteration: lǎoshī bǎ xuésheng de cuòwù jiūzhèng le.
+- Translation: "The teacher corrected the student's mistakes."
+
+### 3.3 Causing to be Substantial/Concrete
+
+#### Pattern: 使...落实 (shǐ... luòshí)
+**Status**: [CORE]
+**Transliteration**: shǐ... luòshí
+**Translation**: "make... be implemented; ensure implementation of..."
+**Structure**: 使 (cause) + [object] + 落实 (be implemented)
+**Usage**: Formal construction for ensuring implementation of policies or plans.
+**Example**: 政府要使政策落实到位。
+- Transliteration: zhèngfǔ yào shǐ zhèngcè luòshí dàowèi.
+- Translation: "The government needs to ensure the policy is properly implemented."
+
+#### Pattern: 把...落实 (bǎ... luòshí)
+**Status**: [CORE]
+**Transliteration**: bǎ... luòshí
+**Translation**: "implement...; carry out..."
+**Structure**: 把 (disposal marker) + [object] + 落实 (implement)
+**Usage**: Very common construction for implementing plans or policies.
+**Example**: 我们要把计划落实下去。
+- Transliteration: wǒmen yào bǎ jìhuà luòshí xiàqù.
+- Translation: "We need to implement the plan."
+
+#### Pattern: 证实 (zhèngshí) [transitive use]
+**Status**: [CORE]
+**Transliteration**: zhèngshí
+**Translation**: "verify, confirm, prove"
+**Structure**: 证 (prove) + 实 (solid/actual) [resultative compound]
+**Usage**: Common verb for verifying or confirming something, making it established as fact.
+**Example**: 证据证实了他的说法。
+- Transliteration: zhèngjù zhèngshí le tā de shuōfǎ.
+- Translation: "The evidence confirmed his statement."
+
+### 3.4 Causing to be False/Fake
+
+#### Pattern: 把...弄假 (bǎ... nòng jiǎ)
+**Status**: [CORE]
+**Transliteration**: bǎ... nòng jiǎ
+**Translation**: "make... fake; falsify..."
+**Structure**: 把 (disposal marker) + [object] + 弄假 (make false)
+**Usage**: Common construction for falsifying or faking something.
+**Example**: 他把账目弄假了。
+- Transliteration: tā bǎ zhàngmù nòng jiǎ le.
+- Translation: "He falsified the accounts."
+
+#### Pattern: 伪造 (wěizào)
+**Status**: [CORE]
+**Transliteration**: wěizào
+**Translation**: "forge, counterfeit, falsify"
+**Structure**: 伪 (false/counterfeit) + 造 (make/create)
+**Usage**: Common verb for forging or counterfeiting documents, products, etc.
+**Example**: 他伪造了证件。
+- Transliteration: tā wěizào le zhèngjiàn.
+- Translation: "He forged the documents."
+
+### 3.5 Causing to be Wrong/Incorrect
+
+#### Pattern: 把...弄错 (bǎ... nòng cuò)
+**Status**: [CORE]
+**Transliteration**: bǎ... nòng cuò
+**Translation**: "get... wrong; make a mistake with..."
+**Structure**: 把 (disposal marker) + [object] + 弄错 (get wrong)
+**Usage**: Very common construction for making mistakes or getting something wrong.
+**Example**: 我把时间弄错了。
+- Transliteration: wǒ bǎ shíjiān nòng cuò le.
+- Translation: "I got the time wrong."
+
+#### Pattern: 把...搞错 (bǎ... gǎo cuò)
+**Status**: [CORE]
+**Transliteration**: bǎ... gǎo cuò
+**Translation**: "get... wrong; mess up..."
+**Structure**: 把 (disposal marker) + [object] + 搞错 (get wrong)
+**Usage**: Colloquial construction for making mistakes.
+**Example**: 你把事情搞错了。
+- Transliteration: nǐ bǎ shìqing gǎo cuò le.
+- Translation: "You got the matter wrong."
+
+### 3.6 Causing to be Revealed/Exposed
+
+#### Pattern: 揭露真相 (jiēlù zhēnxiàng)
+**Status**: [CORE]
+**Transliteration**: jiēlù zhēnxiàng
+**Translation**: "reveal the truth; expose the facts"
+**Structure**: 揭露 (reveal/expose) + 真相 (truth/facts)
+**Usage**: Common collocation in investigative and journalistic contexts.
+**Example**: 记者揭露了真相。
+- Transliteration: jìzhě jiēlù le zhēnxiàng.
+- Translation: "The journalist revealed the truth."
+
+#### Pattern: 查明真相 (chámíng zhēnxiàng)
+**Status**: [CORE]
+**Transliteration**: chámíng zhēnxiàng
+**Translation**: "ascertain the truth; get to the bottom of the matter"
+**Structure**: 查明 (investigate and clarify) + 真相 (truth)
+**Usage**: Legal and investigative collocation for determining facts through investigation.
+**Example**: 警方查明了真相。
+- Transliteration: jǐngfāng chámíng le zhēnxiàng.
+- Translation: "The police ascertained the truth."
+
+### 3.7 Causing to be Concealed
+
+#### Pattern: 隐瞒真相 (yǐnmán zhēnxiàng)
+**Status**: [CORE]
+**Transliteration**: yǐnmán zhēnxiàng
+**Translation**: "conceal the truth; hide the facts"
+**Structure**: 隐瞒 (conceal/hide) + 真相 (truth)
+**Usage**: Common collocation describing deliberate concealment of truth.
+**Example**: 他隐瞒了真相。
+- Transliteration: tā yǐnmán le zhēnxiàng.
+- Translation: "He concealed the truth."
+
+---
+
+## 4. MAINTAINING/PRESERVING TRUTH-RELATED STATES
+
+### 4.1 Maintaining Truth/Authenticity
+
+#### Pattern: 保持真实 (bǎochí zhēnshí)
+**Status**: [CORE]
+**Transliteration**: bǎochí zhēnshí
+**Translation**: "maintain authenticity; keep it real"
+**Structure**: 保持 (maintain/keep) + 真实 (authentic/real)
+**Usage**: Common expression for maintaining authenticity or realism.
+**Example**: 我们要保持真实。
+- Transliteration: wǒmen yào bǎochí zhēnshí.
+- Translation: "We need to keep it real."
+
+#### Pattern: 坚持真理 (jiānchí zhēnlǐ)
+**Status**: [CORE]
+**Transliteration**: jiānchí zhēnlǐ
+**Translation**: "uphold the truth; stick to the truth"
+**Structure**: 坚持 (persist/uphold) + 真理 (truth)
+**Usage**: Formal expression for upholding truth or principles.
+**Example**: 我们要坚持真理。
+- Transliteration: wǒmen yào jiānchí zhēnlǐ.
+- Translation: "We must uphold the truth."
+
+### 4.2 Maintaining Correctness
+
+#### Pattern: 保持正确 (bǎochí zhèngquè)
+**Status**: [CORE]
+**Transliteration**: bǎochí zhèngquè
+**Translation**: "maintain correctness; stay correct"
+**Structure**: 保持 (maintain/keep) + 正确 (correct)
+**Usage**: Common in political and educational contexts for maintaining correct positions or methods.
+**Example**: 要保持正确的方向。
+- Transliteration: yào bǎochí zhèngquè de fāngxiàng.
+- Translation: "Must maintain the correct direction."
+
+### 4.3 Maintaining Honesty
+
+#### Pattern: 保持诚实 (bǎochí chéngshí)
+**Status**: [CORE]
+**Transliteration**: bǎochí chéngshí
+**Translation**: "maintain honesty; stay honest"
+**Structure**: 保持 (maintain/keep) + 诚实 (honest)
+**Usage**: Common expression for maintaining honest character or conduct.
+**Example**: 我们要保持诚实。
+- Transliteration: wǒmen yào bǎochí chéngshí.
+- Translation: "We must maintain honesty."
+
+---
+
+## 5. INCHOATIVE PATTERNS (Beginning to be [truth-related state])
+
+### 5.1 Beginning to be True/Real
+
+#### Pattern: 真实起来 (zhēnshí qǐlái)
+**Status**: [MARGINAL]
+**Transliteration**: zhēnshí qǐlái
+**Translation**: "begin to be authentic/realistic; become more real"
+**Structure**: 真实 (authentic/real) + 起来 (inchoative marker)
+**Usage**: Rare but grammatically possible. Describes something beginning to seem or become more authentic.
+**Example**: 故事听起来真实起来了。
+- Transliteration: gùshi tīng qǐlái zhēnshí qǐlái le.
+- Translation: "The story is beginning to sound more authentic."
+
+### 5.2 Beginning to be Wrong
+
+#### Pattern: 错起来 (cuò qǐlái)
+**Status**: [MARGINAL]
+**Transliteration**: cuò qǐlái
+**Translation**: "begin to go wrong"
+**Notes**: Rare. More commonly expressed through other constructions.
+
+---
+
+## 6. ASPECTUAL PATTERNS WITH TRUTH-DOMAIN TERMS
+
+### 6.1 Perfective Aspect (了 le)
+
+#### Pattern: [truth-term] + 了
+**Status**: [CORE]
+**Usage**: The perfective marker 了 (le) combines freely with all change-of-state expressions involving truth-domain terms to indicate completed change.
+
+**Examples**:
+- 变真实了 (biàn zhēnshí le) - "became authentic"
+- 改正了 (gǎizhèng le) - "corrected (completed)"
+- 落实了 (luòshí le) - "was implemented (completed)"
+- 证实了 (zhèngshí le) - "was confirmed (completed)"
+
+### 6.2 Durative Aspect (着 zhe)
+
+#### Pattern: [truth-term] + 着
+**Status**: [MARGINAL]
+**Notes**: The durative marker 着 (zhe) rarely combines with truth-domain state changes, as these typically denote completed transitions rather than ongoing states. However, it can appear with maintenance verbs:
+
+**Example**:
+- 保持着真实 (bǎochí zhe zhēnshí) - "maintaining authenticity (ongoing)"
+
+### 6.3 Experiential Aspect (过 guo)
+
+#### Pattern: [truth-term] + 过
+**Status**: [CORE]
+**Usage**: The experiential marker 过 (guo) combines with truth-domain change expressions to indicate past experience of the change.
+
+**Examples**:
+- 变过真实 (biàn guo zhēnshí) - "has been authentic (at some point)"
+- 改正过 (gǎizhèng guo) - "has corrected (before)"
+- 弄错过 (nòng cuò guo) - "has made mistakes (before)"
+
+---
+
+## 7. GRADUAL CHANGE PATTERNS
+
+### 7.1 Gradual Becoming
+
+#### Pattern: 越来越 + [truth-term]
+**Status**: [CORE]
+**Transliteration**: yuè lái yuè + [truth-term]
+**Translation**: "more and more [truth-term]"
+**Structure**: 越来越 (more and more) + adjective
+**Usage**: Very common pattern for expressing gradual increase in a quality.
+
+**Examples**:
+- 越来越真实 (yuè lái yuè zhēnshí) - "more and more authentic/realistic"
+- 越来越正确 (yuè lái yuè zhèngquè) - "more and more correct"
+- 越来越诚实 (yuè lái yuè chéngshí) - "more and more honest"
+
+#### Pattern: 渐渐 + 变 + [truth-term]
+**Status**: [CORE]
+**Transliteration**: jiànjiàn + biàn + [truth-term]
+**Translation**: "gradually become [truth-term]"
+**Structure**: 渐渐 (gradually) + 变 (change) + adjective
+**Usage**: Common pattern for expressing gradual change.
+
+**Examples**:
+- 渐渐变真实 (jiànjiàn biàn zhēnshí) - "gradually become authentic"
+- 渐渐变正常 (jiànjiàn biàn zhèngcháng) - "gradually become normal"
+
+### 7.2 Sudden Change
+
+#### Pattern: 突然 + 变 + [truth-term]
+**Status**: [CORE]
+**Transliteration**: tūrán + biàn + [truth-term]
+**Translation**: "suddenly become [truth-term]"
+**Structure**: 突然 (suddenly) + 变 (change) + adjective
+**Usage**: Common pattern for expressing sudden change.
+
+**Examples**:
+- 突然变真实 (tūrán biàn zhēnshí) - "suddenly become real"
+- 突然变得不正常 (tūrán biàn de bù zhèngcháng) - "suddenly become abnormal"
+
+---
+
+## 8. PATTERNS NOT FOUND OR RARE
+
+### 8.1 Direct Causative with 使/让 + Bare Adjective
+**Status**: [MARGINAL/RARE]
+**Notes**: Direct causative constructions like *使...真实, *让...正确 are grammatically possible but rarely attested. Chinese strongly prefers:
+- Resultative verb compounds (改正, 证实, 落实)
+- Causative + 成为/变成 + noun (使...成为事实)
+- Disposal construction + resultative compound (把...改正)
+
+### 8.2 Inchoative 起来 with Most Truth-Domain Terms
+**Status**: [MARGINAL]
+**Notes**: The inchoative marker 起来 (qǐlái) "begin to" rarely combines productively with truth-domain adjectives. Most attestations involve perception verbs (看起来真实 "looks authentic") rather than true inchoatives.
+
+### 8.3 Causative Morphology
+**Status**: [NOT FOUND]
+**Notes**: Chinese lacks productive causative morphology (unlike languages with causative affixes). All causation is expressed periphrastically or through resultative compounding.
+
+### 8.4 Anticausative/Decausative Patterns
+**Status**: [LIMITED]
+**Notes**: Chinese does not have productive anticausative morphology. Some resultative compounds can be used both transitively and intransitively (证实 "verify" / "be verified", 落实 "implement" / "be implemented"), but this is lexically determined rather than a productive pattern.
+
+---
+
+## SUMMARY OF FINDINGS
+
+### Most Productive Patterns:
+
+1. **Resultative verb compounds**: Highly productive for encoding change to truth-related states (改正, 纠正, 落实, 证实, 坐实, 充实)
+
+2. **成为/变成 + Noun**: Common for becoming factual or real (成为事实, 变成现实)
+
+3. **变得 + Adjective**: Productive pattern for general state change (变得真实, 变得诚实, 变得不正常)
+
+4. **把 + Object + Resultative Compound**: Preferred causative pattern (把错误改正, 把计划落实, 把账目弄假)
+
+5. **Verb + 真相 collocations**: Strong collocational patterns for revealing/concealing truth (揭露真相, 隐瞒真相, 查明真相)
+
+### Key Asymmetries:
+
+1. **Resultative compounds strongly preferred over periphrastic causatives**: Chinese uses V-R compounds (改正, 证实) rather than 使/让 + bare adjective for most truth-domain causation.
+
+2. **Different roots show different productivity**:
+   - 正 (zhèng) is highly productive in resultative compounds (改正, 纠正, 修正)
+   - 实 (shí) is highly productive in resultative compounds (落实, 证实, 坐实, 充实)
+   - 真 (zhēn) appears more in fixed expressions (弄假成真) than productive patterns
+   - 对/错 (duì/cuò) appear in colloquial resultative compounds (弄错, 搞错, 改对)
+
+3. **Lexicalized idioms vs. productive patterns**: Some changes are expressed through fixed idioms (弄假成真) rather than productive syntactic patterns.
+
+4. **Nominal vs. adjectival patterns**: Becoming factual/real often uses nominal patterns (成为事实, 变成现实) while other truth-domain changes use adjectival patterns (变得诚实).
+
+### Register Variation:
+
+- **Formal**: 使...落实, 证实, 坚持真理
+- **Colloquial**: 弄错, 搞错, 弄假, 变得...
+- **Literary/Fixed**: 弄假成真, 去伪存真
+
+---
+
+**END OF P6 CHANGE, CAUSATION, AND STABILITY ANALYSIS**

@@ -1,0 +1,200 @@
+# CLCA Protocol v3.4 — I1 Construction Equivalence & Missingness Analysis
+# Language: Tagalog (tl)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: Predicate-initial with *ang* | *Totoo ang sinabi niya* "What he/she said is true" | Direct equivalent | — |
+| **ADNOM** | Construction 3: Linker *na/ng* | *tunay na kaibigan* "true friend"; *maling impormasyon* "wrong information" | Direct equivalent | — |
+| **BECOME** | Construction 4: Verbal with *mag-/ma-* + aspect | *Nagtotoo ang panaginip ko* "My dream is coming true"; *Nagkamali ako* "I made a mistake" | Direct equivalent (inchoative through aspect) | — |
+| **REVELATION** | — | — | **MISSING (structural gap)** | No dedicated construction for "turn out to be true/false" |
+| **CAUSATION (factual)** | Construction 5: *pa-* + voice marking | *Patunayan mo ang sinabi mo* "Prove what you said"; *Pinatotohanan niya ang kanyang salita* "He/she is proving his/her word true" | Partial equivalent (lexically restricted) | Productivity gap: limited to specific roots |
+| **CAUSATION (character)** | — | — | **MISSING (structural gap)** | No construction for "make someone truthful/honest" |
+| **VERIFICATION** | Construction 5: *pa-* causative (lexicalized) | *Patunayan mo* "Prove it/Verify it" | **SUBSTITUTED BY CAUSATION (factual)** | Verification expressed through causative construction |
+| **DISCONFIRMATION** | — | — | **NO COMMON EXPRESSION - circumlocution required** | Would require negation + verification or separate lexical items |
+| **NEGATION** | Construction 2: *hindi* + predicate | *Hindi totoo ang balita* "The news is not true" | Direct equivalent (analytic) | — |
+| **NOMINALIZATION (abstract)** | Construction 6: *ka-...-an* circumfix | *katotohanan* "truth"; *katapatan* "honesty" | Direct equivalent | — |
+| **NOMINALIZATION (agentive)** | Construction 7: Lexicalized forms | *sinungaling* "liar"; *mandaraya* "cheater" | Partial equivalent (non-productive) | Productivity gap: mostly lexicalized items |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 VERIFICATION substituted by CAUSATION (factual)
+
+The language does not have a distinct VERIFICATION construction. Instead, the causative construction with *pa-* (Construction 5) serves this function. The form *patunayan* (pa- + tunay + -an) means both "cause to be proven/genuine" and "verify/prove." This represents a systematic substitution where the causative operator extends to cover verification semantics.
+
+**Evidence:**
+- *Patunayan mo ang sinabi mo* functions as "Prove/Verify what you said"
+- *Pinatotohanan niya ang kanyang salita* means "He/she is proving/verifying his/her word"
+
+**Constraint:** This substitution is lexically restricted. Not all truth-domain roots productively form causatives. *Patunayan* is highly lexicalized and common, but the pattern does not extend freely across the semantic field.
+
+### 2.2 REVELATION missing; no substitution pattern
+
+The language lacks a dedicated construction for REVELATION ("turn out to be true/false," "be revealed as true/false"). This meaning would require circumlocution using:
+- Existential constructions (Construction 8): *May katotohanan pala* "There is truth (to it) after all"
+- Discourse markers with discovery particles: *Totoo nga* "Indeed true" (Construction 16)
+- Separate lexical verbs for discovery/revelation not in the truth-domain construction inventory
+
+**No systematic substitution:** BECOME (Construction 4) does not substitute for REVELATION. *Nagtotoo* means "coming true/being realized" (for predictions, dreams), not "turning out to be true" (for discovered facts).
+
+### 2.3 DISCONFIRMATION missing; partial circumlocution through NEGATION + VERIFICATION
+
+DISCONFIRMATION ("prove false," "disprove") lacks a dedicated construction. The language would express this through:
+- Negation of verification: *Patunayan na hindi totoo* "Prove that (it) is not true"
+- Separate lexical verbs outside the construction inventory
+
+This represents a **circumlocution requirement** rather than a systematic substitution.
+
+### 2.4 CAUSATION (character) entirely missing
+
+The language has no construction for "make someone truthful/honest/a liar." The causative construction (Construction 5) applies to factual truth-values (*patunayan* "prove/verify") but does not extend to character attribution.
+
+**Attempted forms are unattested:**
+- *✗pa-totoo-in ang tao* (intended: "make the person truthful")
+- *✗pa-sinungaling-in* (intended: "make someone a liar")
+
+This represents a **conceptual gap** in the causative system.
+
+### 2.5 NEGATION: Analytic pattern with register variation
+
+NEGATION is consistently analytic, using the particle *hindi* before the predicate (Construction 2). An alternate form exists with the contracted prefix *di-*, which is more colloquial and less emphatic.
+
+**Pattern:**
+- Standard: *hindi* + PREDICATE (*hindi totoo*)
+- Colloquial: *di-* + PREDICATE (*di-totoo*)
+
+Both are fully productive, with no morphological negation on the truth-domain terms themselves.
+
+### 2.6 Asymmetry in nominalization productivity
+
+Abstract nominalization (Construction 6) is highly productive with the *ka-...-an* circumfix, generating forms freely across truth-domain adjectives.
+
+Agentive nominalization (Construction 7) shows severe productivity restrictions:
+- Most forms are lexicalized (*sinungaling* "liar")
+- The *mang-* pattern exists but applies to limited roots (*mandaraya* "cheater")
+- No general productive pattern for creating agent nouns in this domain
+
+This represents an **asymmetric productivity gap** between abstract and agentive nominalization.
+
+### 2.7 Specialized construction restricted to single lexeme
+
+Construction 17 (Cessation/Sufficiency: *tama na*) represents a semantic extension specific to *tama* alone. This pattern does not extend to other truth-domain terms:
+- *tama na* "enough/stop" ✓
+- *✗totoo na* (does not mean "enough")
+- *✗mali na* (does not mean "stop")
+
+This is a **lexically idiosyncratic pattern** rather than a productive construction type.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+**REVELATION:** No construction exists for "turn out to be true/false" or "be revealed as X." The language lacks a dedicated operator for discovered truth-values. Circumlocution required using existential constructions, discourse markers, or separate lexical verbs.
+
+**CAUSATION (character):** No construction exists for "make someone truthful/honest" or "make someone a liar." The causative *pa-* construction does not extend to character attribution, only to factual verification.
+
+**DISCONFIRMATION:** No construction exists for "prove false" or "disprove." Must be expressed through negation + verification (*patunayan na hindi totoo*) or separate lexical items.
+
+### 3.2 Lexical Gaps
+
+None identified at the construction level. Individual lexical items may be missing, but all major construction types have lexical instantiations.
+
+### 3.3 Conceptual Gaps
+
+**CAUSATION (character):** The causative system appears to block application to character/disposition. The language can express "prove something true" (*patunayan*) but not "make someone truthful." This suggests a conceptual restriction on causative operations in the truth domain.
+
+### 3.4 Asymmetric Gaps
+
+**Nominalization productivity:**
+- Abstract nominalization: Fully productive (*ka-...-an*)
+- Agentive nominalization: Severely restricted (mostly lexicalized forms)
+
+**Causative productivity:**
+- Factual causation/verification: Available but lexically restricted (*patunayan* common, other roots less productive)
+- Character causation: Entirely missing
+
+**Positive/Negative symmetry:**
+- No gaps identified. Negation applies uniformly across all constructions.
+
+### 3.5 Productivity Restrictions
+
+**Construction 5 (Causative):** While the *pa-* + voice pattern is grammatically productive, its application to truth-domain terms is lexically restricted. *Patunayan* is highly lexicalized and common; other roots do not form causatives as freely.
+
+**Construction 7 (Agentive Nominalization):** The *mang-* pattern exists but applies to very few truth-domain roots. Most agent nouns are lexicalized without transparent derivational morphology.
+
+**Construction 17 (Cessation/Sufficiency):** Restricted to *tama* only; does not generalize.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+
+| Operator | Construction | Notes |
+|----------|--------------|-------|
+| **ATTR** | Predicate-initial with *ang* | Unmarked, fully productive |
+| **ADNOM** | Linker *na/ng* | Fully productive |
+| **BECOME** | Verbal with *mag-/ma-* + aspect | Productive; different roots prefer different patterns |
+| **NEGATION** | Analytic *hindi* + predicate | Fully productive; alternate *di-* form in colloquial speech |
+| **NOMINALIZATION (abstract)** | *ka-...-an* circumfix | Highly productive |
+
+### 4.2 Available with Substitution
+
+| Operator | Substituted By | Construction | Notes |
+|----------|----------------|--------------|-------|
+| **VERIFICATION** | CAUSATION (factual) | *pa-* causative | *Patunayan* "prove/verify" is lexicalized; pattern not fully productive |
+
+### 4.3 Partially Available
+
+| Operator | Construction | Limitation |
+|----------|--------------|------------|
+| **CAUSATION (factual)** | *pa-* + voice marking | Lexically restricted; *patunayan* common, other roots less productive |
+| **NOMINALIZATION (agentive)** | Lexicalized forms; *mang-* pattern | Non-productive; mostly lexicalized items (*sinungaling*, *mandaraya*) |
+
+### 4.4 Missing Entirely
+
+| Operator | Gap Type | Notes |
+|----------|----------|-------|
+| **REVELATION** | Structural gap | No construction for "turn out to be true/false"; requires circumlocution |
+| **CAUSATION (character)** | Structural + conceptual gap | No construction for "make someone truthful/honest"; causative system blocks this operation |
+| **DISCONFIRMATION** | Structural gap | No construction for "prove false"; requires circumlocution (negation + verification) |
+
+---
+
+## 5. Additional Observations
+
+### 5.1 Discourse and Pragmatic Constructions
+
+Several constructions (8, 9, 10, 13, 16) serve primarily discourse-organizing or pragmatic functions rather than core semantic operations:
+- **Existential constructions** (8): Assert presence/absence of truth/evidence
+- **Evidential/epistemic constructions** (9): Frame statements with evidential basis
+- **Discourse markers** (10): Manage conversational flow (*sa totoo lang*, *totóhanán*)
+- **Concessive constructions** (13): Acknowledge truth while introducing contrast
+- **Emphatic affirmation** (16): Confirm previously doubted information
+
+These are fully productive and core to Tagalog discourse structure but do not map directly to the canonical CLCA operators, which focus on semantic operations (attribution, modification, causation, etc.).
+
+### 5.2 Modification and Intensification
+
+Constructions 11 and 12 (Comparative and Intensification) represent degree modification rather than distinct semantic operators. They apply productively to truth-domain terms but function as general modification strategies rather than truth-domain-specific constructions.
+
+### 5.3 Interrogative and Conditional
+
+Constructions 14 and 15 (Conditional and Interrogative) are general syntactic frames that apply to truth-domain predicates without modification. They do not represent truth-domain-specific operators.
+
+### 5.4 Specialized Constructions
+
+Construction 17 (Cessation/Sufficiency with *tama na*) and Construction 18 (Pronominal Attribution) represent specialized patterns:
+- **Construction 17** is lexically idiosyncratic (restricted to *tama*)
+- **Construction 18** is a subtype of ATTR with pronominal topics, extremely common in conversational agreement/disagreement
+
+---
+
+**END OF ANALYSIS**

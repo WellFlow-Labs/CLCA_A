@@ -1,0 +1,45 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## Construction Usage & Constraints Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes | Attested Alternates |
+|---|---|---|---|---|---|---|
+| **1. ATTRIBUTION** | *cheqa runa* | cheqa runa | "honest/genuine person" | [CORE] | Standard nominal modification pattern used across all registers and domains; no morphological marking required. No observable restriction on which adjective roots participate. | *llulla simi* (same pattern with falsity root) |
+| **1. ATTRIBUTION** | *llulla simi* | llulla simi | "false word / lying speech" | [CORE] | Same pattern as above; equally unrestricted. Both *cheqa* and *llulla* function as attributive modifiers without form change. | *cheqa runa* (same pattern with truth root) |
+| **2. NEGATIVE ATTRIBUTION** | *Mana cheqachu.* | Mana cheqa-chu | "It is not true / not genuine." | [CORE] | Standard negation frame for predicative use of truth/falsity adjectives; obligatory in all negated predicative contexts. The *-chu* suffix cannot be omitted. | *Mana allinchu.* (same frame with *allin*) |
+| **2. NEGATIVE ATTRIBUTION** | *Mana allinchu.* | Mana allin-chu | "It is not right / not correct." | [CORE] | Same obligatory frame; extends across all predicative adjectives in the truth domain. No variation in the frame structure is noted. | *Mana cheqachu.* (same frame with *cheqa*) |
+| **3. ADNOMINAL MODIFICATION** | *cheqanchasqa qelqa* | cheqancha-sqa qelqa | "verified/confirmed document" | [CORE] | Participial modifier preceding head noun; no linker required. The *-sqa* participial form is the standard past/resultant participle in Southern Quechua and is unrestricted in this position. | *cheqaq simi* (agentive form in same position) |
+| **3. ADNOMINAL MODIFICATION** | *cheqaq simi* | cheqaq simi | "truthful speech / genuine word" | [CORE] | Agentive *-q* form functioning as adnominal modifier; same structural position as simple adjective or participial. No linker or agreement morphology required. | *cheqanchasqa qelqa* (participial form in same position) |
+| **4. BECOME / INCHOATIVE** | *llullayay* | llulla-ya-y | "to become false / to turn deceptive" | [CORE] | Productive inchoative verbalizer *-ya-* attaching to adjectival base; attested across the falsity and goodness roots. Note: *cheqa* root does not attest *cheqayay*; inchoative meaning for that root is expressed through *cheqanchay* or periphrasis. | *allinyay* (same pattern with *allin* root) |
+| **4. BECOME / INCHOATIVE** | *allinyay* | allin-ya-y | "to become good / to improve / to become right" | [CORE] | Same productive pattern as *llullayay*; no restriction noted for *allin* root. The *cheqa* root is the notable exception to this otherwise productive pattern. | *llullayay* (same pattern with *llulla* root) |
+| **5. CAUSATIVE** | *pantachiy* | panta-chi-y | "to cause to err / to mislead" | [CORE] | Productive causative suffix *-chi-* attaching to verbal stem; attested across multiple truth-domain stems (*panta-*, *llulla-*, *riqsi-*, *yacha-*). Note: *cheqa* root uses *-ncha-* verbalizer (*cheqanchay*) rather than bare *-chi-*, marking an asymmetry in this root's behavior. | *llullachiy* (same pattern with *llulla-* stem) |
+| **5. CAUSATIVE** | *llullachiy* | llulla-chi-y | "to cause someone to lie / to induce false testimony" | [CORE] | Same productive causative pattern; no restriction noted for *llulla-* stem. The *cheqa* root asymmetry does not affect other stems in the domain. | *pantachiy* (same pattern with *panta-* stem) |
+| **6. ABSTRACT NOMINALIZATION** | *cheqa kay* | cheqa kay | "truth / reality / the state of being true" | [MARGINAL] | Restricted to formal and reflective registers; not the default everyday nominalization strategy. The *kay* construction is the more marked of the two attested nominalization strategies. | Infinitive-as-nominal (*pantay*, *llullakuy*) for everyday use |
+| **6. ABSTRACT NOMINALIZATION** | *pantay* | panta-y | "error / the act of erring / being wrong" | [CORE] | Infinitive functioning as process nominal; the default everyday nominalization strategy, less register-restricted than the *kay* construction. Both strategies are attested but differ in register distribution. | *cheqa kay* (formal/reflective register alternate) |
+| **7. AGENTIVE NOMINALIZATION** | *llullaq* | llulla-q | "liar / one who lies / deceiver" | [CORE] | Productive agentive nominalizer *-q* attested across all verbal stems in the truth domain. Resulting forms function as both nouns and adjectives without form change. | *yachaq* (same pattern with *yacha-* stem) |
+| **7. AGENTIVE NOMINALIZATION** | *yachaq* | yacha-q | "one who knows / knower / expert" | [CORE] | Same productive pattern; no restriction noted. Note: *cheqaq* is unusual in that the agentive form is formally identical to the most common predicative form of the truth root, creating overlap between agentive nominal and predicate functions. | *llullaq* (same pattern with *llulla-* stem) |
+| **8. EVIDENTIAL MARKING ON TRUTH PREDICATES** | *Cheqaqmi.* | cheqaq-mi | "It is indeed true (I know directly)." | [CORE] | Evidential marking is grammatically obligatory in assertive sentences in Southern Quechua, not optional. Direct evidential *-mi/-m* encodes first-hand epistemic source on the truth predicate. | *Cheqaqsi.* (reportative); dubitative *-chus* (same frame) |
+| **8. EVIDENTIAL MARKING ON TRUTH PREDICATES** | *Cheqaqsi.* | cheqaq-si | "It is reportedly true (I heard it from someone)." | [CORE] | Reportative evidential *-si/-s* encodes hearsay or indirect epistemic source; obligatory in the same assertive contexts as direct evidential. The three-way paradigm (direct / reportative / dubitative) applies systematically to truth predicates. | *Cheqaqmi.* (direct); dubitative *-chus* (same frame) |
+| **9. CORRECTIVE TOPIC CONSTRUCTION** | *Cheqaqam, mana hinachu.* | Cheqaqa-m, mana hina-chu | "The truth is, it is not like that." | [CORE] | Discourse-level construction; *cheqaqa* functions as a pragmatic correction marker rather than a simple truth predicate. Restricted to contexts where a prior claim is being replaced or corrected. | *Cheqaqam, kay hinam.* (same frame with affirmative corrective) |
+| **9. CORRECTIVE TOPIC CONSTRUCTION** | *Cheqaqam, kay hinam.* | Cheqaqa-m, kay hina-m | "The truth is, it is like this." | [CORE] | Same corrective discourse frame; the topic suffix *-qa* signals discourse frame shift and the direct evidential *-m* marks speaker commitment to the corrective statement. Both examples attest the same construction with affirmative and negative corrective content respectively. | *Cheqaqam, mana hinachu.* (same frame with negative corrective) |
+| **10. ADVERBIAL TRUTH MODIFIER ON SPEECH VERBS** | *Cheqaqtam rimani.* | Cheqaq-ta-m rimani | "I am speaking the truth / I speak truthfully." | [CORE] | Standard construction for asserting truthfulness of one's own speech; *-ta* functions adverbially rather than as direct object marker. Attested in both testimonial and everyday discourse contexts. | *Cheqaqtam willakuni.* (same frame with *willakuy* speech verb); *llullata rimay* (same frame with falsity term) |
+| **10. ADVERBIAL TRUTH MODIFIER ON SPEECH VERBS** | *Cheqaqtam willakuni.* | Cheqaq-ta-m willakuni | "I am reporting truthfully / I give a true account." | [CORE] | Same adverbial frame with a different speech verb (*willakuy*, "to report/recount"); confirms the pattern extends across multiple speech verbs. The *-ta* adverbial frame is noted as the standard form for this function. | *Cheqaqtam rimani.* (same frame with *rimay* speech verb); *llullata rimay* (same frame with falsity term) |
+
+---
+
+## Summary Notes
+
+**Constructions rated [CORE]:** 1, 2, 3, 4 (both examples), 5, 6 (infinitive-as-nominal only), 7, 8, 9, 10 — these represent the dominant, productive, and cross-registerally attested patterns in the truth domain.
+
+**Constructions rated [MARGINAL]:** 6 (*cheqa kay* abstract nominalization with *kay*) — restricted to formal and reflective registers; the everyday nominalization strategy (infinitive in *-y*) is [CORE].
+
+**Constructions rated [UNCERTAIN]:** None identified on the basis of the P4a data. No construction in the P4a output was flagged as doubtful or unattested.
+
+**Cross-cutting asymmetry noted:** The *cheqa* root behaves differently from other truth-domain roots in two constructions: (4) it does not attest a direct *cheqayay* inchoative form; (5) it uses *-ncha-* rather than *-chi-* for causative/verbalizing derivation. These asymmetries are reported as attested in P4a and are preserved here without theoretical interpretation.
+
+---
+
+*End of P4b Construction Usage & Constraints — Quechua (qu)*

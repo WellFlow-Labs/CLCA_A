@@ -1,0 +1,446 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Chinese (zh)
+
+---
+
+## PRELIMINARY NOTE ON CHINESE DERIVATIONAL MORPHOLOGY
+
+Chinese derivational morphology differs fundamentally from inflectional languages. The language primarily uses:
+1. **Compounding** (combining existing morphemes)
+2. **Affixation** (limited productive affixes)
+3. **Reduplication** (for intensification or other effects)
+4. **Conversion** (category shift without formal marking)
+
+True derivational affixes are relatively few. Most word formation occurs through compounding, which has already been extensively documented in P1 and P1b. The following documents **additional derivational patterns** not already covered.
+
+---
+
+## DERIVATIONAL PATTERNS IDENTIFIED
+
+### PATTERN 1: Nominalization with -性 (-xìng) "nature, quality"
+
+This suffix derives abstract nouns denoting qualities or properties from adjectives or stative verbs.
+
+#### 1.1 From 真实 (zhēnshí)
+
+**Base Form**: 真实 (zhēnshí) - true, real, authentic
+
+**Derived Form**: 真实性 (zhēnshíxìng)
+- **Transliteration**: zhēnshíxìng
+- **Literal Breakdown**: true + real + nature/quality
+- **Translation**: authenticity, truthfulness, veracity
+- **Usage**: Abstract noun used in academic, legal, and technical contexts to discuss the quality of being authentic or true. Common in phrases like "质疑真实性" (question the authenticity).
+- **Status**: [CORE]
+
+#### 1.2 From 可靠 (kěkào)
+
+**Base Form**: 可靠 (kěkào) - reliable, dependable
+
+**Derived Form**: 可靠性 (kěkàoxìng)
+- **Transliteration**: kěkàoxìng
+- **Literal Breakdown**: can + lean on + nature/quality
+- **Translation**: reliability, dependability
+- **Usage**: Technical and formal term for the quality of being reliable. Common in engineering, statistics, and quality assessment contexts.
+- **Status**: [CORE]
+
+#### 1.3 From 正当 (zhèngdàng)
+
+**Base Form**: 正当 (zhèngdàng) - legitimate, proper, justified
+
+**Derived Form**: 正当性 (zhèngdàngxìng)
+- **Transliteration**: zhèngdàngxìng
+- **Literal Breakdown**: upright/correct + appropriate + nature/quality
+- **Translation**: legitimacy, justification
+- **Usage**: Legal and political term for the quality of being legitimate or justified. Used in discussions of authority, rights, and actions.
+- **Status**: [CORE]
+
+#### 1.4 From 合理 (hélǐ)
+
+**Base Form**: 合理 (hélǐ) - reasonable, rational
+
+**Derived Form**: 合理性 (hélǐxìng)
+- **Transliteration**: hélǐxìng
+- **Literal Breakdown**: accord + principle/reason + nature/quality
+- **Translation**: rationality, reasonableness
+- **Usage**: Philosophical and analytical term for the quality of being reasonable or rational. Common in academic and critical discourse.
+- **Status**: [CORE]
+
+#### 1.5 From 实用 (shíyòng)
+
+**Base Form**: 实用 (shíyòng) - practical, pragmatic
+
+**Derived Form**: 实用性 (shíyòngxìng)
+- **Transliteration**: shíyòngxìng
+- **Literal Breakdown**: real + use + nature/quality
+- **Translation**: practicality, utility
+- **Usage**: Evaluative term for the quality of being practical or useful. Common in product reviews and functional assessments.
+- **Status**: [CORE]
+
+#### 1.6 From 正常 (zhèngcháng)
+
+**Base Form**: 正常 (zhèngcháng) - normal, regular
+
+**Derived Form**: 正常性 (zhèngchángxìng)
+- **Transliteration**: zhèngchángxìng
+- **Literal Breakdown**: correct/upright + constant + nature/quality
+- **Translation**: normality, normalcy
+- **Usage**: Medical and psychological term for the quality of being normal. Less common than the base form.
+- **Status**: [CORE]
+
+#### 1.7 From 准确 (zhǔnquè)
+
+**Base Form**: 准确 (zhǔnquè) - accurate, precise
+
+**Derived Form**: 准确性 (zhǔnquèxìng)
+- **Transliteration**: zhǔnquèxìng
+- **Literal Breakdown**: standard + definite + nature/quality
+- **Translation**: accuracy, precision
+- **Usage**: Technical and scientific term for the quality of being accurate. Common in measurement, data analysis, and quality control contexts.
+- **Status**: [CORE]
+
+---
+
+### PATTERN 2: Nominalization with -度 (-dù) "degree, extent"
+
+This suffix derives nouns indicating degree or extent of a quality.
+
+#### 2.1 From 真实 (zhēnshí)
+
+**Base Form**: 真实 (zhēnshí) - true, real, authentic
+
+**Derived Form**: 真实度 (zhēnshídù)
+- **Transliteration**: zhēnshídù
+- **Literal Breakdown**: true + real + degree
+- **Translation**: degree of authenticity, level of realism
+- **Usage**: Used to measure or evaluate how authentic or realistic something is. Common in discussions of simulations, representations, or artistic works.
+- **Status**: [CORE]
+
+#### 2.2 From 可靠 (kěkào)
+
+**Base Form**: 可靠 (kěkào) - reliable, dependable
+
+**Derived Form**: 可靠度 (kěkàodù)
+- **Transliteration**: kěkàodù
+- **Literal Breakdown**: can + lean on + degree
+- **Translation**: degree of reliability, reliability level
+- **Usage**: Technical term for measuring reliability, especially in engineering and statistics. Often used interchangeably with 可靠性 but emphasizes measurable degree.
+- **Status**: [CORE]
+
+#### 2.3 From 准确 (zhǔnquè)
+
+**Base Form**: 准确 (zhǔnquè) - accurate, precise
+
+**Derived Form**: 准确度 (zhǔnquèdù)
+- **Transliteration**: zhǔnquèdù
+- **Literal Breakdown**: standard + definite + degree
+- **Translation**: degree of accuracy, accuracy level
+- **Usage**: Technical term for measuring accuracy. Common in scientific and technical contexts where precision is quantified.
+- **Status**: [CORE]
+
+---
+
+### PATTERN 3: Adverbialization with 地 (de)
+
+This particle converts adjectives to adverbs (manner adverbials). However, many truth-domain terms already function adverbially without this marker, or use it optionally.
+
+#### 3.1 From 真实 (zhēnshí)
+
+**Base Form**: 真实 (zhēnshí) - true, real, authentic
+
+**Derived Form**: 真实地 (zhēnshí de)
+- **Transliteration**: zhēnshí de
+- **Literal Breakdown**: true + real + [adverbial particle]
+- **Translation**: truly, authentically, realistically
+- **Usage**: Adverbial form describing manner of action as authentic or realistic. Example: "真实地反映情况" (truly reflect the situation). The particle is often optional.
+- **Status**: [CORE]
+
+#### 3.2 From 诚实 (chéngshí)
+
+**Base Form**: 诚实 (chéngshí) - honest, truthful
+
+**Derived Form**: 诚实地 (chéngshí de)
+- **Transliteration**: chéngshí de
+- **Literal Breakdown**: sincere + real + [adverbial particle]
+- **Translation**: honestly, truthfully
+- **Usage**: Adverbial form describing manner of speaking or acting. Example: "诚实地回答" (answer honestly).
+- **Status**: [CORE]
+
+#### 3.3 From 正确 (zhèngquè)
+
+**Base Form**: 正确 (zhèngquè) - correct, right
+
+**Derived Form**: 正确地 (zhèngquè de)
+- **Transliteration**: zhèngquè de
+- **Literal Breakdown**: upright/correct + definite + [adverbial particle]
+- **Translation**: correctly, rightly
+- **Usage**: Adverbial form describing manner of doing something. Example: "正确地理解" (understand correctly).
+- **Status**: [CORE]
+
+**Note**: The 地 (de) particle is highly productive and can attach to virtually any adjective. Only representative examples are listed here. Many speakers also omit this particle in casual speech.
+
+---
+
+### PATTERN 4: Reduplication for Intensification/Distribution
+
+Chinese uses reduplication for various functions including intensification, distribution, and softening.
+
+#### 4.1 From 实 (shí)
+
+**Base Form**: 实 (shí) - solid, real, actual
+
+**Derived Form**: 实实在在 (shíshízàizài)
+- **Transliteration**: shíshízàizài
+- **Literal Breakdown**: solid + solid + exist + exist (AABB reduplication)
+- **Translation**: really and truly, genuinely, down-to-earth
+- **Usage**: Emphatic form stressing genuineness, honesty, or substantiality. Common in everyday speech to emphasize authenticity or sincerity.
+- **Status**: [CORE]
+
+#### 4.2 From 真 (zhēn)
+
+**Base Form**: 真 (zhēn) - true, real, genuine
+
+**Derived Form**: 真真 (zhēnzhēn)
+- **Transliteration**: zhēnzhēn
+- **Literal Breakdown**: true + true (AA reduplication)
+- **Translation**: really, truly, indeed
+- **Usage**: Literary or emphatic form meaning "really" or "truly." Less common in modern speech than 真的 or 真正. Often appears in classical or literary contexts.
+- **Status**: [MARGINAL]
+
+#### 4.3 From 正 (zhèng)
+
+**Base Form**: 正 (zhèng) - correct, upright
+
+**Derived Form**: 正正 (zhèngzhèng)
+- **Transliteration**: zhèngzhèng
+- **Literal Breakdown**: correct + correct (AA reduplication)
+- **Translation**: exactly, precisely, just right
+- **Usage**: Emphasizes exactness or precision. Example: "正正好好" (just right, exactly right). Less common as standalone form.
+- **Status**: [MARGINAL]
+
+---
+
+### PATTERN 5: Negation with 不 (bù) "not"
+
+While negation is grammatical rather than derivational, certain negated forms have lexicalized into distinct lexical items.
+
+#### 5.1 From 正常 (zhèngcháng)
+
+**Base Form**: 正常 (zhèngcháng) - normal, regular
+
+**Derived Form**: 不正常 (bù zhèngcháng)
+- **Transliteration**: bù zhèngcháng
+- **Literal Breakdown**: not + correct/upright + constant
+- **Translation**: abnormal, irregular, unusual
+- **Usage**: Common term for what is abnormal or irregular. While compositional, it functions as a lexicalized unit in medical and everyday contexts.
+- **Status**: [CORE]
+
+#### 5.2 From 真实 (zhēnshí)
+
+**Base Form**: 真实 (zhēnshí) - true, real, authentic
+
+**Derived Form**: 不真实 (bù zhēnshí)
+- **Transliteration**: bù zhēnshí
+- **Literal Breakdown**: not + true + real
+- **Translation**: unreal, inauthentic, false
+- **Usage**: Describes something as not authentic or realistic. Fully compositional but commonly used as a unit.
+- **Status**: [CORE]
+
+**Note**: Negation with 不 is fully productive and compositional. These examples are included because they function as common lexical units, but the pattern itself is grammatical rather than derivational.
+
+---
+
+### PATTERN 6: Verbalization with Resultative Complements
+
+Some truth-domain terms combine with verbal elements to create resultative verb compounds.
+
+#### 6.1 From 正 (zhèng)
+
+**Base Form**: 正 (zhèng) - correct, upright
+
+**Derived Form**: 纠正 (jiūzhèng)
+- **Transliteration**: jiūzhèng
+- **Literal Breakdown**: rectify/correct + correct/upright
+- **Translation**: correct, rectify, redress
+- **Usage**: Common verb meaning to correct errors or improper situations. The first element 纠 means "rectify/correct," creating a resultative compound.
+- **Status**: [CORE]
+
+**Derived Form**: 改正 (gǎizhèng)
+- **Transliteration**: gǎizhèng
+- **Literal Breakdown**: change + correct/upright
+- **Translation**: correct, amend, put right
+- **Usage**: Common verb for correcting mistakes. The first element 改 means "change," indicating the action that results in correctness.
+- **Status**: [CORE]
+
+**Derived Form**: 修正 (xiūzhèng)
+- **Transliteration**: xiūzhèng
+- **Literal Breakdown**: repair/revise + correct/upright
+- **Translation**: revise, amend, correct
+- **Usage**: Formal verb for revising or amending. The first element 修 means "repair/revise," suggesting careful correction.
+- **Status**: [CORE]
+
+#### 6.2 From 实 (shí)
+
+**Base Form**: 实 (shí) - solid, real, actual
+
+**Derived Form**: 充实 (chōngshí)
+- **Transliteration**: chōngshí
+- **Literal Breakdown**: fill + solid
+- **Translation**: enrich, substantiate; substantial, fulfilling
+- **Usage**: Functions both as verb (to enrich/fill out) and adjective (substantial/fulfilling). The first element 充 means "fill," creating a resultative meaning.
+- **Status**: [CORE]
+
+**Derived Form**: 落实 (luòshí)
+- **Transliteration**: luòshí
+- **Literal Breakdown**: fall/settle + solid
+- **Translation**: implement, carry out, put into effect
+- **Usage**: Common verb meaning to implement or actualize plans/policies. The first element 落 means "fall/settle," suggesting making something concrete.
+- **Status**: [CORE]
+
+**Derived Form**: 坐实 (zuòshí)
+- **Transliteration**: zuòshí
+- **Literal Breakdown**: sit/establish + solid
+- **Translation**: confirm, establish as fact
+- **Usage**: Verb meaning to confirm or establish something as factual. Often used in legal or investigative contexts.
+- **Status**: [CORE]
+
+---
+
+### PATTERN 7: Attributive Modification with 的 (de)
+
+The particle 的 (de) converts various elements into attributive modifiers. While grammatical, certain combinations have lexicalized.
+
+#### 7.1 From 真 (zhēn)
+
+**Base Form**: 真 (zhēn) - true, real, genuine
+
+**Derived Form**: 真的 (zhēn de)
+- **Transliteration**: zhēn de
+- **Literal Breakdown**: true + [attributive/nominalizing particle]
+- **Translation**: real one, genuine one; really, truly
+- **Usage**: Functions both as noun phrase (the real/genuine one) and as adverb (really, truly). Extremely common in spoken Chinese. Example: "这是真的" (This is real/true).
+- **Status**: [CORE]
+
+#### 7.2 From 假 (jiǎ)
+
+**Base Form**: 假 (jiǎ) - false, fake
+
+**Derived Form**: 假的 (jiǎ de)
+- **Transliteration**: jiǎ de
+- **Literal Breakdown**: false + [attributive/nominalizing particle]
+- **Translation**: fake one, counterfeit one
+- **Usage**: Noun phrase meaning "the fake/counterfeit one." Common in distinguishing genuine from fake items.
+- **Status**: [CORE]
+
+**Note**: The 的 particle is fully productive. These forms are included because they function as common lexical units in discourse.
+
+---
+
+### PATTERN 8: Causative/Resultative with 化 (-huà) "-ize, -ify"
+
+This suffix creates verbs indicating transformation or process.
+
+#### 8.1 From 实 (shí)
+
+**Base Form**: 实 (shí) - solid, real, actual
+
+**Derived Form**: 实化 (shíhuà)
+- **Transliteration**: shíhuà
+- **Literal Breakdown**: solid/real + -ize
+- **Translation**: materialize, actualize, make concrete
+- **Usage**: Technical or formal verb meaning to make something concrete or actual. Less common than 实现 but used in specialized contexts.
+- **Status**: [MARGINAL]
+
+**Note**: The -化 suffix is productive but does not commonly attach to most truth-domain terms. Most truth-domain concepts do not readily undergo this type of transformation derivation.
+
+---
+
+### PATTERN 9: Agentive/Instrumental Nominalization
+
+Chinese has limited agentive derivation compared to languages with productive agentive suffixes.
+
+**Finding**: No productive agentive or instrumental derivation identified for truth-domain terms.
+
+The concepts in this domain (truth, falsity, correctness) do not typically generate agent nouns (e.g., *"truth-er," *"falsifier" as productive patterns). While 欺骗者 (deceiver) exists, it uses the general agentive suffix -者, which is not specific to this semantic domain.
+
+---
+
+### PATTERN 10: Diminutive/Augmentative Forms
+
+**Finding**: No diminutive or augmentative derivation identified for truth-domain terms.
+
+Chinese does not have productive diminutive or augmentative affixes that apply to abstract quality terms like those in the truth domain.
+
+---
+
+### PATTERN 11: Conversion (Category Shift Without Formal Marking)
+
+Many Chinese words undergo category shift without overt marking.
+
+#### 11.1 From 真 (zhēn)
+
+**Base Form**: 真 (zhēn) - [adjective] true, real, genuine
+
+**Derived Form**: 真 (zhēn) - [adverb]
+- **Transliteration**: zhēn
+- **Translation**: really, truly, very
+- **Usage**: Functions as intensifying adverb without formal marking. Example: "真好" (really good), "真大" (really big). Extremely common in spoken Chinese.
+- **Status**: [CORE]
+
+#### 11.2 From 假 (jiǎ)
+
+**Base Form**: 假 (jiǎ) - [adjective] false, fake
+
+**Derived Form**: 假 (jiǎ) - [verb]
+- **Transliteration**: jiǎ
+- **Translation**: to fake, to pretend, to feign
+- **Usage**: Functions as verb meaning to pretend or feign. Example: "假装" (pretend), "假死" (feign death).
+- **Status**: [CORE]
+
+#### 11.3 From 对 (duì)
+
+**Base Form**: 对 (duì) - [adjective] correct, right
+
+**Derived Form**: 对 (duì) - [verb]
+- **Transliteration**: duì
+- **Translation**: to be correct, to check/verify
+- **Usage**: Functions as verb in contexts like "对答案" (check answers), "对一对" (verify/check).
+- **Status**: [CORE]
+
+**Note**: Category conversion is extremely common in Chinese and often occurs without formal marking. Only the most salient examples are listed.
+
+---
+
+## SUMMARY OF FINDINGS
+
+### Productive Derivational Patterns Identified:
+
+1. **-性 (-xìng) nominalization**: Highly productive for creating abstract quality nouns from adjectives [CORE pattern]
+
+2. **-度 (-dù) nominalization**: Productive for creating degree/extent nouns, especially in technical contexts [CORE pattern]
+
+3. **地 (de) adverbialization**: Fully productive but often optional; converts adjectives to manner adverbs [CORE pattern]
+
+4. **Reduplication**: Limited productivity; used for emphasis and intensification [MARGINAL pattern]
+
+5. **Resultative verb compounds**: Moderately productive, especially with 正 and 实 [CORE pattern]
+
+6. **Category conversion**: Highly productive but unmarked; common for adjective-to-adverb and adjective-to-verb shifts [CORE pattern]
+
+### Patterns Not Found:
+
+- Agentive nominalization (no productive pattern specific to truth domain)
+- Instrumental nominalization (not applicable to abstract qualities)
+- Diminutive/augmentative forms (not applicable to abstract qualities)
+- Causative -化 derivation (limited application in truth domain)
+
+### Notes on Asymmetry:
+
+- The suffix -性 applies broadly across truth-domain adjectives
+- The suffix -度 applies primarily to gradable qualities (真实, 可靠, 准确)
+- Resultative compounds are more productive with 正 and 实 than with 真
+- Reduplication is limited and often stylistically marked
+- Most word formation in this domain occurs through compounding (already documented in P1/P1b) rather than affixation
+
+---
+
+**END OF P2a DERIVATIONAL SYSTEM ANALYSIS**

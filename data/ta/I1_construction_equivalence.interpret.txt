@@ -1,0 +1,165 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Tamil (ta)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Zero copula + truth-term predicate | இது உண்மை (itu uṇmai) "this is truth/true" | Direct equivalence | None |
+| **ADNOM** | Truth-term + -ஆன (-āṉa) + noun | உண்மையான கதை (uṇmaiyāṉa katai) "true story" | Direct equivalence | None |
+| **BECOME** | Truth-term + ஆகு (āku) "become" | உண்மை ஆகிவிட்டது (uṇmai ākiviṭṭatu) "it became true" | Direct equivalence | None |
+| **REVELATION** | Truth-term + வெளிப்படு (veḷippaṭu) "emerge/be revealed" | உண்மை வெளிப்படு (uṇmai veḷippaṭu) "truth comes out" | Distinct from BECOME; coexists | None |
+| **CAUSATION (factual)** | Truth-term + படுத்து (paṭuttu) causative | உண்மைப்படுத்து (uṉmaippaṭuttu) "verify, make true" | Direct equivalence | None |
+| **CAUSATION (character)** | **NO COMMON EXPRESSION** | — | **MISSING (structural gap)** | Structural gap: no productive pattern for "make X truthful/honest" |
+| **VERIFICATION** | Multiple strategies: (1) Truth-term + படுத்து causative; (2) Truth-term-ACC + காட்டு/நிரூபி; (3) சரி பார் light verb | உண்மைப்படுத்து (uṉmaippaṭuttu) "verify"; உண்மையை நிரூபி (uṇmaiyai nirūpi) "prove"; சரி பார் (cari pār) "check" | VERIFICATION uses same causative as CAUSATION (factual); also has dedicated light verb construction | None |
+| **DISCONFIRMATION** | **NO COMMON EXPRESSION** for dedicated disconfirmation | — | **SUBSTITUTED BY NEGATION + VERIFICATION**: "not verify" or "show false" | Conceptual gap: no single operator for disconfirmation |
+| **NEGATION** | Negative copula (இல்லை/அல்ல/அன்று) | இது உண்மையில்லை (itu uṇmaiillai) "this is not true" | Analytic negation via negative copula | None |
+| **NOMINALIZATION (abstract)** | Truth-root + -மை (-mai) suffix; compound with தன்மை (taṉmai) | உண்மைத்தன்மை (uṇmaittaṉmai) "truthfulness"; மெய்ம்மை (meymai) "truth/reality" | Direct equivalence | Asymmetric: பொய்ம்மை rare/archaic |
+| **NOMINALIZATION (agentive)** | Truth-root + person suffix (-ஆன்/-ஆளி/-ஆளர்) | பொய்யன் (poyaṉ) "liar"; உண்மையாளர் (uṇmaiyāḷar) "truthful person" | Direct equivalence | Asymmetric: negative terms (liar) more elaborated than positive |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION vs. BECOME
+Tamil maintains a **clear distinction** between BECOME and REVELATION:
+- **BECOME** (ஆகு āku): Expresses change of state or status, used when something previously uncertain is revealed or when status changes. Example: உண்மை ஆகிவிட்டது "it became true / turned out to be true"
+- **REVELATION** (வெளிப்படு veḷippaṭu): Expresses emergence from concealment, implies prior hiddenness. Example: உண்மை வெளிப்படு "truth comes out, is revealed"
+
+These are **not substitutes** but complementary operators with different semantic profiles. REVELATION does not replace BECOME; both coexist productively.
+
+### 2.2 VERIFICATION and CAUSATION (factual)
+Tamil shows **morphological identity** between factual causation and verification:
+- The causative suffix -படுத்து (-paṭuttu) creates both:
+  - **Factual causation**: உண்மைப்படுத்து "make true"
+  - **Verification**: உண்மைப்படுத்து "verify, authenticate"
+
+This is not substitution but **polysemy**: the same form covers both "making true" and "verifying as true." Context disambiguates.
+
+Additionally, Tamil has **dedicated verification constructions**:
+- Light verb: சரி பார் (cari pār) "check, verify, inspect"
+- Demonstration verbs: உண்மையை காட்டு (uṇmaiyai kāṭṭu) "show the truth"; உண்மையை நிரூபி (uṇmaiyai nirūpi) "prove the truth"
+
+### 2.3 DISCONFIRMATION
+Tamil has **no dedicated disconfirmation operator**. Instead, disconfirmation is expressed through:
+- **NEGATION + VERIFICATION**: "not verify" or "cannot verify"
+- **Showing falsehood**: பொய் என்று காட்டு (poy eṉṟu kāṭṭu) "show that it is false"
+- **Exposure of lies**: பொய் வெளிப்படு (poy veḷippaṭu) "lie is exposed"
+
+This represents a **conceptual gap**: no single morphosyntactic operator for disconfirmation parallel to verification.
+
+### 2.4 CAUSATION (character)
+Tamil lacks a **productive pattern** for character causation ("make someone truthful/honest"). While factual causation is robust (உண்மைப்படுத்து "make true/verify"), there is no parallel *உண்மையாளராக்கு "make into a truthful person" or similar construction in common use.
+
+This represents a **structural gap**: the language does not grammaticalize character transformation in the truth domain.
+
+### 2.5 NEGATION: Analytic Strategy
+Tamil uses **analytic negation** via negative copulas:
+- இல்லை (illai) — colloquial
+- அல்ல (alla) — formal
+- அன்று (aṉṟu) — literary
+
+Negation is **not morphological** (no negative prefix on truth-terms). The negative copula directly follows the truth-term: உண்மையில்லை (uṇmai-illai) "not true."
+
+### 2.6 Asymmetries: Positive vs. Negative Forms
+
+#### 2.6.1 Abstract Nominalization
+- **உண்மை/மெய்**: Productive abstract nominalization (உண்மைத்தன்மை, மெய்ம்மை)
+- **பொய்**: பொய்ம்மை exists but is **rare and archaic**; பொய் itself functions as abstract noun
+
+#### 2.6.2 Agentive Nominalization
+- **Negative terms** (liar) are **more elaborated**: பொய்யன் (masculine), பொய்யாளி (neutral), multiple variants
+- **Positive terms** (truthful person) are **less elaborated**: உண்மையாளர் exists but less frequent in everyday speech
+
+#### 2.6.3 Legal/Commercial Compounds
+- **பொய்-compounds** are **highly elaborated** in fraud/forgery domains:
+  - பொய் சாட்சி "false testimony"
+  - பொய் சான்று "false certificate"
+  - பொய் சாமான் "fake goods"
+  - பொய் நாணயம் "counterfeit currency"
+- **உண்மை-compounds** in parallel domains are **less elaborated**; positive authenticity terms less developed
+
+This reflects a **cultural/pragmatic asymmetry**: negative deviations from truth are more lexically and constructionally elaborated than positive truth-telling.
+
+### 2.7 Causative Morphology Asymmetry
+- **உண்மை/மெய்**: Use -படுத்து (-paṭuttu) causative
+- **பொய்**: Uses -ஆக்கு (-ākku) causative (பொய்யாக்கு "make false")
+
+Different causative morphology for positive vs. negative truth-terms. No standard *பொய்ப்படுத்து form attested.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+1. **CAUSATION (character)**: No productive construction for "make someone truthful/honest." The language grammaticalizes factual causation (make statements true) but not character transformation.
+
+### 3.2 Lexical Gaps
+None identified. All major truth-domain concepts have lexical expressions.
+
+### 3.3 Conceptual Gaps
+1. **DISCONFIRMATION**: No single dedicated operator for disconfirmation parallel to verification. Expressed through circumlocution (negation + verification, showing falsehood, exposure).
+
+### 3.4 Asymmetric Gaps
+1. **Abstract nominalization**: பொய்ம்மை rare/archaic; பொய் itself serves as abstract noun without further derivation
+2. **Agentive nominalization**: Positive terms (truthful person) less elaborated than negative terms (liar)
+3. **Legal/commercial compounds**: Negative fraud terminology highly elaborated; positive authenticity terminology less developed
+4. **Causative morphology**: Different suffixes for positive (-படுத்து) vs. negative (-ஆக்கு) causation
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available
+- **ATTR**: Zero copula + truth-term predicate
+- **ADNOM**: Truth-term + -ஆன + noun
+- **BECOME**: Truth-term + ஆகு "become"
+- **REVELATION**: Truth-term + வெளிப்படு "emerge/be revealed" (distinct from BECOME)
+- **CAUSATION (factual)**: Truth-term + படுத்து causative
+- **VERIFICATION**: Multiple strategies (causative, demonstration verbs, light verb constructions)
+- **NEGATION**: Analytic via negative copula
+- **NOMINALIZATION (abstract)**: Truth-root + -மை suffix; compound with தன்மை
+- **NOMINALIZATION (agentive)**: Truth-root + person suffix
+
+### 4.2 Available with Substitution
+- **DISCONFIRMATION**: Expressed through NEGATION + VERIFICATION or REVELATION of falsehood (no dedicated operator)
+
+### 4.3 Partially Available
+- **NOMINALIZATION (abstract)**: Asymmetric — productive with உண்மை/மெய், rare with பொய்
+- **NOMINALIZATION (agentive)**: Asymmetric — negative terms more elaborated than positive
+
+### 4.4 Missing Entirely
+- **CAUSATION (character)**: No productive construction for character transformation in truth domain
+
+---
+
+## 5. Additional Observations
+
+### 5.1 Multi-Word Expressions as Operators
+Tamil extensively uses **light verb constructions** that function as unified operators:
+- **சரி பார்** (cari pār) "check, verify": Light verb பார் "see" carries tense/aspect; சரி "correct" provides semantic content. Functions syntactically as single verb.
+- **சரி செய்** (cari cey) "fix, correct": Light verb செய் "do" carries inflection; சரி provides meaning. Extremely productive.
+- **உண்மை சொல்லு** (uṇmai collu) "tell truth": Object + verb collocation, but highly lexicalized and functions as unit.
+
+These are **not circumlocutions** but grammaticalized multi-word operators with unified syntactic behavior.
+
+### 5.2 Register-Based Variation
+Operator choice varies by register:
+- **Colloquial**: இல்லை negation, சொல்லு speech verb, -ஆ question particle
+- **Formal/Literary**: அல்ல negation, மெய்-based compounds, ஞானம் wisdom terms, நிரூபி "prove"
+- **Legal/Administrative**: பொய்-compounds for fraud, நிரூபி for proof
+
+This is **not missingness** but sociolinguistic distribution of equivalent operators.
+
+### 5.3 Completive Auxiliaries
+Many operators require **completive auxiliaries** (விடு viṭu, போ pō) for natural expression:
+- உண்மை ஆகிவிட்டது "it became true (completely)"
+- உண்மை வெளிப்பட்டுவிட்டது "truth came out (completely)"
+
+These are **not separate operators** but aspectual markers obligatory in narrative past contexts.
+
+---
+
+**END OF I1 CONSTRUCTION EQUIVALENCE & MISSINGNESS ANALYSIS**

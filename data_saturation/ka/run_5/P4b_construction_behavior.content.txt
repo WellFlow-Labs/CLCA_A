@@ -1,0 +1,38 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Georgian (ka)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes | Attested Alternates |
+|---|---|---|---|---|---|---|
+| **1. ATTRIBUTION** | ეს მართალია | es martalia | "This is true / This is right" | [CORE] | Extremely common in everyday speech across all registers; no observable restrictions on subject type or adjective selection within the truth domain. | Free copula variant: ეს მართალი არის (es martali aris) |
+| **1. ATTRIBUTION** | ეს ყალბია | es q̇albia | "This is fake / This is false" | [CORE] | Equally common; used freely for documents, claims, and objects. No register restriction observed. | Free copula variant: ეს ყალბი არის (es q̇albi aris) |
+| **2. NEGATIVE ATTRIBUTION (ar aris)** | ეს სწორი არ არის | es sc̣ori ar aris | "This is not correct" | [CORE] | The syntactically compositional negation strategy; common across all registers and with all truth-domain adjectives. No restriction on adjective type observed. | ara- prefixed form (see below) |
+| **2. NEGATIVE ATTRIBUTION (ara- prefix)** | ეს არასწორია | es arasc̣oria | "This is incorrect" | [CORE] | The lexical negation strategy; equally common but tends toward more formal or written registers. Produces a single lexical item; not all adjectives may have equally established ara- forms. | ar aris negation (see above) |
+| **3. ADNOMINAL MODIFICATION** | ჭეშმარიტი ამბავი | č̣ešmariti ambavi | "a true story / a true account" | [CORE] | Standard attributive pattern; no exceptions noted within the truth domain. Adjective invariably precedes noun; no agreement inflection. | None attested |
+| **3. ADNOMINAL MODIFICATION** | ყალბი დოკუმენტი | q̇albi dokument̕i | "a forged document" | [CORE] | Equally standard; q̇albi is particularly frequent with document and artifact nouns in legal and administrative contexts. | None attested |
+| **4. BECOME / INCHOATIVE (gamovida)** | ყალბად გამოვიდა | q̇albad gamovida | "turned out to be false / came out as fake" | [CORE] | Colloquial register; common in spoken Georgian and informal writing. Requires adverbial (-ad) form of the adjective. | aɣmočnda construction (see below) |
+| **4. BECOME / INCHOATIVE (aɣmočnda)** | ნამდვილი აღმოჩნდა | namdvili aɣmočnda | "turned out to be genuine / proved to be authentic" | [CORE] | Slightly more formal than the gamovida variant; attested in written and spoken registers. Adjective appears in nominative rather than adverbial form. | gamovida construction (see above) |
+| **5. CAUSATIVE (verbal noun)** | გაყალბება | gaq̇albeba | "falsification, the act of making false / forging" | [CORE] | Common in legal, administrative, and journalistic registers; the verbal noun form is the most frequently cited. Derivational, not a productive syntactic causative. | Inflected verb forms of the same stem |
+| **5. CAUSATIVE (verbal noun)** | გასწორება | gasc̣oreba | "correction, the act of making correct / rectifying" | [CORE] | Common across registers; used for document correction, factual correction, and physical rectification. Same derivational pattern as gaq̇albeba. | Inflected verb forms of the same stem |
+| **6. ABSTRACT NOMINALIZATION (si-...-e)** | სიმართლე | simartle | "truth, correctness, rightness" | [CORE] | The si-...-e circumfix form is the primary and most frequent abstract nominalization for native truth-domain roots; high frequency across all registers. | -eba / -oba suffixed forms where applicable |
+| **6. ABSTRACT NOMINALIZATION (-eba)** | ჭეშმარიტება | č̣ešmariteba | "truth, truthfulness, veracity" | [CORE] | Common in formal, philosophical, and religious registers; slightly more elevated in register than simartle. The -eba suffix applies here to an adjectival base. | si-...-e form (simartle) for overlapping meanings |
+| **7. AGENTIVE NOMINALIZATION (-ebeli)** | გამყალბებელი | gamq̇albebeli | "forger, falsifier, counterfeiter" | [CORE] | Standard agentive form for falsification actors; common in legal and journalistic registers. Pattern is productive on the falsification/deception side; no parallel positive agent noun (truth-teller) is attested in the data. | tvaltmaqci (deceiver) via different suffix; mimbadzvelilit (imitator) via variant suffix |
+| **7. AGENTIVE NOMINALIZATION (-ebeli)** | მიმბაძველი | mimbadzvelilit | "imitator, mimic, copyist" | [UNCERTAIN] | The transliteration in P4a contains an apparent irregularity (mimbadzvelilit); the form is noted but its exact status cannot be confirmed from the data as given. Restricted to imitation/copying rather than direct falsification. | gamq̇albebeli for direct falsification |
+| **8. DISCOURSE-FRAMING (nominal)** | სიმართლე რომ ვთქვა | simartle rom vtqva | "to tell the truth / truth be told" | [CORE] | High-frequency pragmatic frame in spoken Georgian; functions as a fixed discourse marker introducing candid statements. Not a productive subordinate clause in context. | Adverbial variant (see below) |
+| **8. DISCOURSE-FRAMING (adverbial)** | გულწრფელად რომ ვთქვა | gulc̣rpelaad rom vtqva | "frankly speaking / to be sincere" | [CORE] | Equally common in spoken Georgian; the adverbial variant (gulc̣rpelaad) foregrounds sincerity/frankness rather than factual truth. Both variants are high-frequency. | Nominal variant (see above) |
+| **9. POSTPOSITIONAL CONFORMITY/MISMATCH** | კანონთან შეუსაბამოა | kanontан šeusabamoа | "is inconsistent with the law / is non-compliant with the law" | [CORE] | Characteristic of legal and administrative registers; not replicated by other construction types in the data. The -tan postposition marks the standard of comparison. | šesabamisia (conformity) as positive counterpart |
+| **9. POSTPOSITIONAL CONFORMITY/MISMATCH** | სინამდვილესთან შეუსაბამოა | sinamdvilestан šeusabamoа | "is inconsistent with reality / does not accord with the facts" | [CORE] | Same construction applied to reality/facts as the standard rather than a legal norm; attested in journalistic and formal registers. Register remains elevated relative to everyday speech. | šesabamisia (conformity) as positive counterpart |
+
+---
+
+## Summary Notes
+
+**No constructions were rated [MARGINAL] overall**, though the following restrictions are observable from the data:
+
+- **Construction 7 (Agentive Nominalization)**: The -ebeli pattern is productive primarily on the falsification/deception side. No positive agentive noun (e.g., "truth-teller") is attested in the data. This asymmetry is noted but not explained by the data.
+- **Construction 7, mimbadzvelilit**: Rated [UNCERTAIN] due to the apparent irregularity in the transliteration as given in P4a. No correction has been applied; the form is reported as given.
+- **Construction 9 (Postpositional Conformity/Mismatch)**: Register is observably restricted to formal, legal, and administrative contexts. It is not attested in colloquial speech in the data.
+- **Construction 4 (Inchoative)**: The gamovida variant is observably more colloquial than the aɣmočnda variant; both are [CORE] but differ in register distribution.

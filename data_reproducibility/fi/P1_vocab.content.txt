@@ -1,0 +1,200 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: Finnish (fi)
+
+## Lexical Items
+
+### 1. tosi
+**Form:** tosi  
+**Literal meaning:** true  
+**Typical English translations:** true, real, genuine  
+**Usage:** Used to describe statements that correspond to reality or things that are authentic. Common in everyday speech both as adjective (*tosi asia* "true fact") and as intensifier (*tosi hyvä* "really good").  
+**Epistemic status:** [CORE]
+
+### 2. totuus
+**Form:** totuus  
+**Literal meaning:** truth (derived from *tosi* + abstract noun suffix *-uus*)  
+**Typical English translations:** truth  
+**Usage:** Abstract noun referring to the quality of being true or the true state of affairs. Used in philosophical, legal, and everyday contexts (*puhua totuutta* "speak the truth").  
+**Epistemic status:** [CORE]
+
+### 3. oikea
+**Form:** oikea  
+**Literal meaning:** right, correct  
+**Typical English translations:** right, correct, real, genuine  
+**Usage:** Polysemous term meaning both "correct" and "right" (as opposed to left), as well as "genuine" or "real." Context determines meaning (*oikea vastaus* "correct answer," *oikea nimi* "real name").  
+**Epistemic status:** [CORE]
+
+### 4. väärä
+**Form:** väärä  
+**Literal meaning:** wrong, false  
+**Typical English translations:** wrong, false, incorrect  
+**Usage:** Opposite of *oikea*, used for incorrect statements, false claims, or things that are not genuine. Common in evaluative contexts (*väärä käsitys* "false impression").  
+**Epistemic status:** [CORE]
+
+### 5. aito
+**Form:** aito  
+**Literal meaning:** genuine, authentic  
+**Typical English translations:** genuine, authentic, real  
+**Usage:** Emphasizes authenticity and genuineness, often contrasted with imitations or fakes. Used for objects, emotions, and persons (*aito nahka* "genuine leather," *aito ystävä* "true friend").  
+**Epistemic status:** [CORE]
+
+### 6. todellinen
+**Form:** todellinen  
+**Literal meaning:** real, actual (derived from *tosi* + adjectival suffix *-llinen*)  
+**Typical English translations:** real, actual, true  
+**Usage:** Describes what actually exists or occurs as opposed to imaginary or hypothetical. Common in formal and analytical contexts (*todellinen tilanne* "actual situation").  
+**Epistemic status:** [CORE]
+
+### 7. valhe
+**Form:** valhe  
+**Literal meaning:** lie, falsehood  
+**Typical English translations:** lie, falsehood, untruth  
+**Usage:** Refers to deliberately false statements intended to deceive. Used in moral and everyday contexts (*puhua valhetta* "tell a lie").  
+**Epistemic status:** [CORE]
+
+### 8. valehdella
+**Form:** valehdella  
+**Literal meaning:** to lie (verb derived from *valhe*)  
+**Typical English translations:** to lie, to tell lies  
+**Usage:** Verb meaning to deliberately make false statements. Common in everyday speech and moral discourse (*hän valehtelee* "he/she is lying").  
+**Epistemic status:** [CORE]
+
+### 9. luotettava
+**Form:** luotettava  
+**Literal meaning:** reliable, trustworthy (from *luottaa* "to trust" + passive participle suffix)  
+**Typical English translations:** reliable, trustworthy, dependable  
+**Usage:** Describes persons, sources, or things that can be trusted or relied upon. Common in evaluations of credibility (*luotettava lähde* "reliable source").  
+**Epistemic status:** [CORE]
+
+### 10. paikkansapitävä
+**Form:** paikkansapitävä  
+**Literal meaning:** holding its place (compound: *paikkansa* "its place" + *pitävä* "holding")  
+**Typical English translations:** accurate, correct, valid  
+**Usage:** Formal term indicating that something is factually correct or accurate. Often used in official, academic, or journalistic contexts (*paikkansapitävä tieto* "accurate information").  
+**Epistemic status:** [CORE]
+
+### 11. virheellinen
+**Form:** virheellinen  
+**Literal meaning:** erroneous, faulty (from *virhe* "error" + adjectival suffix *-llinen*)  
+**Typical English translations:** erroneous, incorrect, faulty  
+**Usage:** Describes statements or things containing errors or mistakes. Common in formal and technical contexts (*virheellinen tieto* "erroneous information").  
+**Epistemic status:** [CORE]
+
+### 12. oikeellinen
+**Form:** oikeellinen  
+**Literal meaning:** correct, accurate (from *oikea* + adjectival suffix *-llinen*)  
+**Typical English translations:** correct, accurate, proper  
+**Usage:** Formal term for correctness, often used in technical, legal, or administrative contexts. Less common in everyday speech than *oikea* (*oikeelliset tiedot* "correct information").  
+**Epistemic status:** [CORE]
+
+### 13. todenmukaisuus
+**Form:** todenmukaisuus  
+**Literal meaning:** truthfulness, verisimilitude (from *toden* "truth's" + *mukainen* "according to" + *-uus* abstract suffix)  
+**Typical English translations:** truthfulness, accuracy, verisimilitude  
+**Usage:** Abstract noun referring to correspondence with truth or reality. Used in formal contexts, particularly in evaluating representations or accounts.  
+**Epistemic status:** [CORE]
+
+### 14. epätosi
+**Form:** epätosi  
+**Literal meaning:** untrue, false (prefix *epä-* "un-" + *tosi* "true")  
+**Typical English translations:** untrue, false  
+**Usage:** Negation of *tosi*, used to describe statements that do not correspond to reality. Common in formal and analytical contexts (*epätosi väite* "false claim").  
+**Epistemic status:** [CORE]
+
+### 15. vääristää
+**Form:** vääristää  
+**Literal meaning:** to distort, to falsify (causative verb from *väärä*)  
+**Typical English translations:** to distort, to falsify, to misrepresent  
+**Usage:** Verb meaning to make something false or inaccurate, often deliberately. Used in contexts of misrepresentation (*vääristää totuutta* "distort the truth").  
+**Epistemic status:** [CORE]
+
+### 16. petollinen
+**Form:** petollinen  
+**Literal meaning:** deceptive, deceitful (from *petos* "deception" + *-llinen*)  
+**Typical English translations:** deceptive, deceitful, fraudulent  
+**Usage:** Describes persons, actions, or appearances that deceive or mislead. Common in moral and legal contexts (*petollinen käytös* "deceptive behavior").  
+**Epistemic status:** [CORE]
+
+### 17. rehellinen
+**Form:** rehellinen  
+**Literal meaning:** honest, truthful  
+**Typical English translations:** honest, truthful, sincere  
+**Usage:** Describes persons or statements characterized by honesty and truthfulness. Central term in moral evaluation (*rehellinen ihminen* "honest person").  
+**Epistemic status:** [CORE]
+
+### 18. vilpitön
+**Form:** vilpitön  
+**Literal meaning:** sincere, genuine (from *vilppi* "deceit" + privative suffix *-tön*)  
+**Typical English translations:** sincere, genuine, honest  
+**Usage:** Describes sincerity and lack of deceit, particularly in intentions or emotions. Often used in evaluating character or motives (*vilpitön halu* "sincere desire").  
+**Epistemic status:** [CORE]
+
+### 19. todistaa
+**Form:** todistaa  
+**Literal meaning:** to prove, to testify (verb from *tosi* root)  
+**Typical English translations:** to prove, to demonstrate, to testify  
+**Usage:** Verb meaning to establish truth through evidence or to give testimony. Common in legal, scientific, and everyday contexts (*todistaa syyttömyytensä* "prove one's innocence").  
+**Epistemic status:** [CORE]
+
+### 20. todiste
+**Form:** todiste  
+**Literal meaning:** proof, evidence (noun from *todistaa*)  
+**Typical English translations:** proof, evidence  
+**Usage:** Refers to evidence or proof that establishes truth. Common in legal and argumentative contexts (*esittää todisteita* "present evidence").  
+**Epistemic status:** [CORE]
+
+### 21. pitää paikkansa
+**Form:** pitää paikkansa  
+**Literal meaning:** to hold its place (fixed expression: *pitää* "to hold" + *paikkansa* "its place")  
+**Typical English translations:** to be true, to be correct, to hold  
+**Usage:** Fixed verbal expression meaning that something is true or accurate. Common in everyday and formal speech (*se pitää paikkansa* "that is true").  
+**Epistemic status:** [CORE]
+
+### 22. vastata totuutta
+**Form:** vastata totuutta  
+**Literal meaning:** to correspond to truth (fixed expression: *vastata* "to correspond" + *totuutta* "truth" partitive)  
+**Typical English translations:** to correspond to the truth, to be true  
+**Usage:** Fixed expression indicating correspondence with truth or reality. Used in formal and evaluative contexts.  
+**Epistemic status:** [CORE]
+
+### 23. harhaanjohtava
+**Form:** harhaanjohtava  
+**Literal meaning:** misleading (compound: *harhaan* "astray" + *johtava* "leading")  
+**Typical English translations:** misleading, deceptive  
+**Usage:** Describes statements, representations, or appearances that lead to false conclusions. Common in critical and analytical contexts (*harhaanjohtava mainonta* "misleading advertising").  
+**Epistemic status:** [CORE]
+
+### 24. uskottava
+**Form:** uskottava  
+**Literal meaning:** believable, credible (from *uskoa* "to believe" + passive participle)  
+**Typical English translations:** believable, credible, plausible  
+**Usage:** Describes statements or persons that can be believed or appear credible. Common in evaluations of testimony and claims (*uskottava selitys* "credible explanation").  
+**Epistemic status:** [CORE]
+
+### 25. epärehellinen
+**Form:** epärehellinen  
+**Literal meaning:** dishonest (prefix *epä-* + *rehellinen* "honest")  
+**Typical English translations:** dishonest, untruthful  
+**Usage:** Describes persons or actions characterized by dishonesty. Common in moral evaluation (*epärehellinen kauppias* "dishonest merchant").  
+**Epistemic status:** [CORE]
+
+### 26. todentaa
+**Form:** todentaa  
+**Literal meaning:** to verify, to authenticate (causative verb from *tosi* root)  
+**Typical English translations:** to verify, to authenticate, to confirm  
+**Usage:** Verb meaning to establish or confirm the truth or authenticity of something. Common in administrative and technical contexts (*todentaa henkilöllisyys* "verify identity").  
+**Epistemic status:** [CORE]
+
+### 27. väittää
+**Form:** väittää  
+**Literal meaning:** to claim, to assert  
+**Typical English translations:** to claim, to assert, to maintain  
+**Usage:** Verb meaning to make a claim or assertion, often without immediate proof. Neutral term that doesn't presuppose truth or falsity (*hän väittää olevansa syytön* "he/she claims to be innocent").  
+**Epistemic status:** [CORE]
+
+### 28. todenperäinen
+**Form:** todenperäinen  
+**Literal meaning:** truthful, veracious (compound: *toden* "truth's" + *peräinen* "based on")  
+**Typical English translations:** truthful, veracious, true  
+**Usage:** Describes accounts or statements that are based on truth. Somewhat formal, used in evaluating narratives and testimonies (*todenperäinen kertomus* "truthful account").  
+**Epistemic status:** [CORE]

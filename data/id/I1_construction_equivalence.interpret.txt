@@ -1,0 +1,188 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+# Language: Indonesian (id)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Construction 1: [NP] + [ADJ/STATIVE] | *cerita itu benar* "that story is true" | Direct equivalent | — |
+| **ADNOM** | Construction 3: [ADJ] + [N] | *kebenaran hakiki* "essential truth", *bukti nyata* "tangible evidence" | Direct equivalent | — |
+| **BECOME** | Construction 4: *menjadi* + [ADJ/N] | *menjadi nyata* "to become real", *menjadi kenyataan* "to become reality" | Direct equivalent | — |
+| **REVELATION** | Construction 17: *ter-* + [ROOT] (evidential) | *ternyata* "it turns out", *terbukti bohong* "proven false" | Partially overlaps with BECOME; distinct evidential function | — |
+| **CAUSATION (factual)** | Construction 5: *meN-* + [ROOT] + *-kan* | *membenarkan* "to confirm/verify", *menyalahkan* "to blame/fault" | Direct equivalent | — |
+| **CAUSATION (character)** | **NO DEDICATED CONSTRUCTION** | — | **SUBSTITUTED BY Construction 5** (*meN-...-kan* used for both factual and character causation) | Constructional merger |
+| **VERIFICATION** | Construction 13: *apa* + [ADJ] (interrogative)<br>Construction 17: *terbukti* + [PRED] (resultative) | *apa benar* "is it true"<br>*terbukti bohong* "proven false" | Interrogative verification distinct from resultative verification | — |
+| **DISCONFIRMATION** | Construction 17: *terbukti* + [NEG-PRED]<br>Construction 2: *tidak/bukan* + [ADJ] | *terbukti bohong* "proven false"<br>*tidak benar* "not true" | VERIFICATION and DISCONFIRMATION share same construction (*terbukti*); polarity marked on predicate | Constructional identity |
+| **NEGATION** | Construction 2: *tidak/bukan* + [ADJ/N]<br>Construction 23: *kurang* + [ADJ] (hedged) | *tidak akurat* "not accurate"<br>*kurang benar* "not quite correct" | Analytic negation; two-tier system (direct vs. hedged) | — |
+| **NOMINALIZATION** | Construction 6: *ke-* + [ROOT] + *-an* (abstract)<br>Construction 7: *peN-* + [ROOT] (agentive)<br>Construction 8: *peN-* + [ROOT] + *-an* (process) | *kebenaran* "truth"<br>*pembohong* "liar"<br>*pembenaran* "justification" | Three distinct nominalization types by semantic function | — |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 CAUSATION Merger
+Indonesian does not distinguish **CAUSATION (factual)** from **CAUSATION (character)** constructionally. The *meN-...-kan* causative pattern (Construction 5) serves both functions:
+- Factual causation: *membenarkan* "to confirm/verify" (making a statement true)
+- Character causation: *menyalahkan* "to blame" (attributing wrongness to a person)
+
+The semantic distinction is carried by the lexical root and context, not by distinct morphosyntactic patterns. This represents a **constructional merger** where one operator handles both domains.
+
+### 2.2 VERIFICATION and DISCONFIRMATION Identity
+**VERIFICATION** and **DISCONFIRMATION** share the same construction in Indonesian. The resultative *terbukti* "proven" (Construction 17) combines with both positive and negative predicates:
+- Verification: *terbukti benar* "proven true"
+- Disconfirmation: *terbukti bohong* "proven false"
+
+Polarity is marked on the predicate, not through distinct constructions. This differs from languages where verification and falsification use different operators.
+
+Interrogative verification (*apa benar* "is it true?", Construction 13) similarly accepts both positive and negative predicates without structural change.
+
+### 2.3 REVELATION vs. BECOME Distinction
+Indonesian maintains a clear distinction between **BECOME** and **REVELATION**:
+- **BECOME** (*menjadi*, Construction 4): marks change of state without evidential commitment
+  - *menjadi nyata* "to become real" (neutral inchoative)
+- **REVELATION** (*ternyata*, Construction 17): marks evidential discovery of contrary-to-expectation information
+  - *ternyata* "it turns out" (evidential surprise)
+
+These do not substitute for each other. *Ternyata* functions primarily as a discourse marker introducing new information that contradicts prior belief, while *menjadi* is a standard inchoative verb. The *ter-* prefix has resultative/evidential semantics distinct from pure change-of-state.
+
+### 2.4 Negation Asymmetry: Two-Tier System
+Indonesian exhibits a **two-tier negation system** for truth-domain predicates:
+- **Direct negation**: *tidak* + ADJ (Construction 2)
+  - *tidak benar* "not true"
+- **Hedged negation**: *kurang* + ADJ (Construction 23)
+  - *kurang benar* "not quite correct"
+
+The hedged form is not merely emphatic variation but serves distinct pragmatic functions (politeness, face-saving, partial negation). This creates an asymmetry where negative polarity has two constructional options while positive polarity has one.
+
+Additionally, negation distinguishes adjectival (*tidak*) from nominal (*bukan*) predicates:
+- *tidak akurat* "not accurate" (adjective)
+- *bukan pembohong* "not a liar" (noun)
+
+### 2.5 Nominalization Proliferation
+Indonesian shows **three distinct nominalization constructions** (Constructions 6, 7, 8) where other languages might use one:
+- Abstract quality: *ke-...-an* → *kebenaran* "truth"
+- Agent: *peN-* → *pembohong* "liar"
+- Process: *peN-...-an* → *pembenaran* "justification"
+
+These are not interchangeable and cannot substitute for each other. The language requires selecting the appropriate nominalization type based on semantic function.
+
+### 2.6 Adverbial Modification Specialization
+Construction 9 (*se-...-nya*) creates adverbials that function primarily as **discourse markers** rather than manner adverbs:
+- *sebenarnya* "actually, in fact" (introduces corrections)
+- *sesungguhnya* "truly, verily" (emphasizes veracity)
+
+These do not substitute for manner constructions (*dengan/secara* + ADJ, Construction 16), which express how an action is performed. The language maintains this functional distinction constructionally.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+**NONE IDENTIFIED**
+
+All canonical CLCA operators have constructional realizations in Indonesian, though CAUSATION (factual) and CAUSATION (character) merge into a single construction.
+
+### 3.2 Lexical Gaps
+**Construction 24 (Existential Truth)**: The pattern *benar adanya* "it is true/it truly exists" is a **fixed phrase** not productive beyond the root *benar*. Attempts to extend this pattern to other truth-domain roots (*\*jujur adanya*, *\*akurat adanya*) are not attested. This represents a **lexical restriction** rather than a productive construction.
+
+**Construction 7 (Agentive Nominalization)**: *Pendusta* "liar" (from *dusta* "falsehood") is marked as [MARGINAL] and restricted to formal/literary registers. The productive agentive form is *pembohong* (from *bohong* "lie"). This suggests **register-based lexical restriction** where certain derivations are blocked in colloquial speech.
+
+### 3.3 Conceptual Gaps
+**NONE IDENTIFIED**
+
+No evidence of conceptual operations that Indonesian systematically blocks or cannot express.
+
+### 3.4 Asymmetric Gaps
+
+#### 3.4.1 Positive/Negative Asymmetry in Intensification
+Construction 20 shows asymmetry in intensifier distribution:
+- Positive intensification: *benar sekali* "very true" [CORE, highly frequent]
+- Negative intensification: *bohong belaka* "nothing but lies" [CORE, less frequent]
+
+The intensifier *sekali* is highly productive with positive truth-predicates but less common with negative ones. The intensifier *belaka* appears primarily with negative predicates and carries negative connotation. This represents **distributional asymmetry** in intensification strategies.
+
+#### 3.4.2 Binary Opposition Lexicalization
+Construction 15 (Binary Opposition) shows **lexical fixedness**:
+- *benar atau salah* "true or false" [fixed phrase]
+- *asli atau palsu* "genuine or fake" [fixed phrase]
+
+These are not freely productive. While the pattern *[ADJ₁] atau [ADJ₂]* exists in Indonesian, the truth-domain binary pairs function as **fixed collocations** rather than productive constructions. Substituting other antonymous pairs (*\*tepat atau tidak tepat*) is grammatical but not conventionalized.
+
+#### 3.4.3 Light Verb Construction Selectivity
+Construction 18 shows **verb-noun selectivity**:
+- *mencari kebenaran* "to seek truth" [CORE]
+- *menghadapi kenyataan* "to face reality" [CORE, fixed collocation]
+
+Not all verbs combine freely with all truth-nominalizations. *Menghadapi* "to face" strongly prefers *kenyataan* "reality" over other truth-nouns (*\?menghadapi kebenaran* "to face truth" is marginal). This represents **collocational restriction** rather than free productivity.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### 4.1 Fully Available Operators
+The following CLCA operators have direct, productive constructional equivalents in Indonesian:
+
+- **ATTR**: Construction 1 (zero copula predication)
+- **ADNOM**: Construction 3 (adjective-noun modification)
+- **BECOME**: Construction 4 (*menjadi* inchoative)
+- **REVELATION**: Construction 17 (*ter-* evidential/resultative)
+- **CAUSATION (factual)**: Construction 5 (*meN-...-kan* causative)
+- **NEGATION**: Construction 2 (*tidak/bukan* negation)
+- **NOMINALIZATION**: Constructions 6, 7, 8 (three-way distinction)
+
+### 4.2 Available with Substitution
+- **CAUSATION (character)**: **SUBSTITUTED BY Construction 5** (*meN-...-kan*)
+  - No distinct construction; merged with factual causation
+  - Semantic distinction carried by lexical root, not morphosyntax
+
+### 4.3 Available with Constructional Identity
+- **VERIFICATION** and **DISCONFIRMATION**: Share Construction 17 (*terbukti* resultative) and Construction 13 (*apa* interrogative)
+  - Polarity marked on predicate, not through distinct operators
+  - Functionally equivalent constructions for both operations
+
+### 4.4 Partially Available (with Restrictions)
+**NONE**
+
+All attested constructions are either fully productive or show only lexical/collocational restrictions (not constructional unavailability).
+
+### 4.5 Missing Entirely
+**NONE**
+
+All canonical CLCA operators have constructional realizations, though some merge (CAUSATION) or share constructions (VERIFICATION/DISCONFIRMATION).
+
+---
+
+## 5. Additional Observations
+
+### 5.1 Morphological Richness
+Indonesian demonstrates **high morphological productivity** in the truth domain through:
+- Derivational affixation: *ke-...-an*, *peN-*, *peN-...-an*, *meN-...-kan*, *ter-*, *se-...-nya*
+- Reduplication: Full reduplication for intensification (Construction 10)
+- Compounding: *salah* + NOUN/VERB compounds (Construction 19)
+
+This contrasts with more analytic languages where truth-domain operations rely primarily on syntax.
+
+### 5.2 Register Stratification
+Several constructions show **clear register splits**:
+- Colloquial: *kalau*, *dengan*, *apa*, *banget*
+- Formal: *jika*, *secara*, *apakah*, *sangat*
+
+This stratification is systematic across multiple constructions (14, 16, 13, 20), suggesting register is a significant organizing principle in Indonesian truth-domain grammar.
+
+### 5.3 Discourse Marker Specialization
+Multiple constructions (9, 13, 14, 17, 21) have **discourse marker functions** beyond their core grammatical roles:
+- *sebenarnya* "actually" (introduces corrections)
+- *ternyata* "it turns out" (introduces contrary-to-expectation information)
+- *kalau tidak salah* "if I'm not mistaken" (epistemic hedge)
+- *yang benar saja!* "really?!" (exclamation)
+
+This suggests Indonesian grammaticalizes truth-domain vocabulary into discourse management functions more extensively than some other languages.
+
+### 5.4 Zero Copula Obligatoriness
+Construction 1 demonstrates **obligatory zero copula** in present tense affirmative predication. Use of copula *adalah* is marked/emphatic, not neutral. This distinguishes Indonesian from copula-requiring languages and affects how ATTR constructions are realized.
+
+---
+
+**END OF ANALYSIS**

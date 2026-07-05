@@ -1,0 +1,688 @@
+# CLCA Protocol v3.4 — P2a Derivational System
+# Language: Finnish (fi)
+
+## Methodology Note
+
+This analysis documents **attested derivational morphology** based on the P1 vocabulary and P1b root expansion. Finnish exhibits rich agglutinative morphology with productive derivational suffixes. The analysis focuses on forms that are genuinely used in the language, avoiding paradigm completion or theoretical possibilities.
+
+---
+
+## DERIVATIONAL PATTERNS: Root 1 (tosi / tode-)
+
+### Base: tosi
+
+#### Derived Form 1: totuus
+**Base:** tosi  
+**Derived Form:** totuus  
+**Literal Breakdown:** tosi + -uus (abstract noun suffix)  
+**Translation:** truth  
+**Usage:** Standard nominalization creating abstract noun from adjective. Highly productive pattern in Finnish (*korkea* → *korkeus* "height", *hyvä* → *hyvyys* "goodness").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 2: tosiasiallinen
+**Base:** tosiasia (compound: tosi + asia "matter")  
+**Derived Form:** tosiasiallinen  
+**Literal Breakdown:** tosi-asia + -llinen (adjectival suffix)  
+**Translation:** actual, factual, de facto  
+**Usage:** Productive adjectival suffix creating quality adjectives from nouns. Common pattern (*laki* → *lakillinen* "legal").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 3: tosiasiassa
+**Base:** tosiasia  
+**Derived Form:** tosiasiassa  
+**Literal Breakdown:** tosi-asia + -ssa (inessive case)  
+**Translation:** in fact, actually  
+**Context:** Grammaticalized case form functioning as adverb. Common pattern for creating adverbials from nouns.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 4: tosissaan
+**Base:** tosi  
+**Derived Form:** tosissaan  
+**Literal Breakdown:** tosi + -ssa (inessive) + -an (3rd person possessive)  
+**Translation:** seriously, in earnest  
+**Usage:** Grammaticalized case + possessive construction functioning as adverb. Idiomatic expression.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 5: tosikko
+**Base:** tosi  
+**Derived Form:** tosikko  
+**Literal Breakdown:** tosi + -kko (agent/characteristic noun suffix)  
+**Translation:** overly serious person  
+**Usage:** Derivational suffix creating person nouns with characteristic quality, often with pejorative or diminutive connotation (*juoma* → *juomari* "drinker", *laula-* → *laulaja* "singer"). The -kko variant often carries negative or excessive meaning.  
+**Epistemic status:** [MARGINAL]
+
+### Base: todellinen
+
+#### Derived Form 6: todellisuus
+**Base:** todellinen  
+**Derived Form:** todellisuus  
+**Literal Breakdown:** tode-lli-nen → tode-lli-suus (adjective + -suus abstract noun suffix)  
+**Translation:** reality  
+**Usage:** Standard nominalization from -llinen adjectives. Highly productive (*mahdollinen* → *mahdollisuus* "possibility").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 7: todellistaa
+**Base:** todellinen  
+**Derived Form:** todellistaa  
+**Literal Breakdown:** tode-llista- + -a (causative/factitive verb suffix)  
+**Translation:** to realize, to actualize  
+**Usage:** Productive causative derivation from adjectives (*selkeä* → *selkeyttää* "to clarify"). The -sta- variant appears with -llinen adjectives.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 8: todellistua
+**Base:** todellistaa  
+**Derived Form:** todellistua  
+**Literal Breakdown:** tode-llistu- + -a (reflexive/inchoative verb suffix)  
+**Translation:** to come true, to be realized  
+**Usage:** Productive reflexive/inchoative derivation from causative verbs, indicating spontaneous or intransitive action (*avata* → *avautua* "to open (intrans.)").  
+**Epistemic status:** [CORE]
+
+### Base: todistaa
+
+#### Derived Form 9: todiste
+**Base:** todistaa  
+**Derived Form:** todiste  
+**Literal Breakdown:** todista- + -e (result noun suffix)  
+**Translation:** proof, evidence  
+**Usage:** Productive derivation creating result nouns from verbs (*rakentaa* → *rakennus* "building", *lausua* → *lause* "sentence"). The -e suffix often appears as -us/-ys.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 10: todistaja
+**Base:** todistaa  
+**Derived Form:** todistaja  
+**Literal Breakdown:** todista- + -ja (agent noun suffix)  
+**Translation:** witness  
+**Usage:** Highly productive agent noun derivation from verbs (*opettaa* → *opettaja* "teacher", *lukea* → *lukija* "reader").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 11: todistus
+**Base:** todistaa  
+**Derived Form:** todistus  
+**Literal Breakdown:** todist- + -us (action/result noun suffix)  
+**Translation:** certificate, testimony, proof  
+**Usage:** Productive nominalization creating action or result nouns from verbs (*käyttää* → *käyttö* "use", *rakentaa* → *rakennus* "building").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 12: todistettava
+**Base:** todistaa  
+**Derived Form:** todistettava  
+**Literal Breakdown:** todiste- + -tta- (passive) + -va (present participle)  
+**Translation:** provable, that can be proven  
+**Usage:** Productive passive participle formation indicating possibility or necessity (*syötävä* "edible", *nähtävä* "visible, must be seen").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 13: todistettavasti
+**Base:** todistettava  
+**Derived Form:** todistettavasti  
+**Literal Breakdown:** todiste-tta-va + -sti (adverbial suffix)  
+**Translation:** provably, demonstrably  
+**Usage:** Highly productive adverb formation from adjectives and participles (*nopea* → *nopeasti* "quickly").  
+**Epistemic status:** [CORE]
+
+### Base: todeta
+
+#### Derived Form 14: toteamus
+**Base:** todeta  
+**Derived Form:** toteamus  
+**Literal Breakdown:** totea- + -mus (action/result noun suffix)  
+**Translation:** statement, observation  
+**Usage:** Productive nominalization variant (alongside -us/-ys) creating action nouns (*lausua* → *lausuma* "statement").  
+**Epistemic status:** [CORE]
+
+### Base: toteutua
+
+#### Derived Form 15: toteutus
+**Base:** toteutua  
+**Derived Form:** toteutus  
+**Literal Breakdown:** toteut- + -us (action noun suffix)  
+**Translation:** realization, implementation  
+**Usage:** Standard nominalization from verbs.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 16: toteuttaa
+**Base:** toteutua  
+**Derived Form:** toteuttaa  
+**Literal Breakdown:** toteut- + -ta- (causative) + -a  
+**Translation:** to realize, to implement  
+**Usage:** Causative derivation from intransitive verb, creating transitive counterpart (*kasvaa* → *kasvattaa* "to grow (trans.)").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 17: toteuttaminen
+**Base:** toteuttaa  
+**Derived Form:** toteuttaminen  
+**Literal Breakdown:** toteutta- + -minen (gerund suffix)  
+**Translation:** realization, implementation (process)  
+**Usage:** Highly productive gerund formation from verbs, creating action nouns (*lukea* → *lukeminen* "reading").  
+**Epistemic status:** [CORE]
+
+### Base: todentaa
+
+#### Derived Form 18: todentua
+**Base:** todentaa  
+**Derived Form:** todentua  
+**Literal Breakdown:** todent- + -u- (reflexive/inchoative) + -a  
+**Translation:** to be verified, to be confirmed  
+**Usage:** Reflexive/inchoative derivation from causative verb.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 19: todentaminen
+**Base:** todentaa  
+**Derived Form:** todentaminen  
+**Literal Breakdown:** todenta- + -minen (gerund)  
+**Translation:** verification, authentication  
+**Usage:** Standard gerund formation.  
+**Epistemic status:** [CORE]
+
+### Base: todennäköinen
+
+#### Derived Form 20: todennäköisyys
+**Base:** todennäköinen  
+**Derived Form:** todennäköisyys  
+**Literal Breakdown:** toden-näköis- + -yys (abstract noun suffix)  
+**Translation:** probability, likelihood  
+**Usage:** Standard nominalization from -inen adjectives (*mahdollinen* → *mahdollisuus* "possibility").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 21: todennäköisesti
+**Base:** todennäköinen  
+**Derived Form:** todennäköisesti  
+**Literal Breakdown:** toden-näköise- + -sti (adverbial suffix)  
+**Translation:** probably, likely  
+**Usage:** Standard adverb formation from adjectives.  
+**Epistemic status:** [CORE]
+
+### Base: todenperäinen
+
+**Note:** No additional common derivations identified beyond the base form. The -inen suffix already represents adjectival derivation from *toden perä* "truth's base/origin."
+
+### Base: tosipohjainen
+
+**Note:** No additional common derivations identified. This is already a derived compound adjective (tosi + pohja + -inen).
+
+---
+
+## DERIVATIONAL PATTERNS: Root 2 (oikea / oikee-)
+
+### Base: oikea
+
+#### Derived Form 22: oikeasti
+**Base:** oikea  
+**Derived Form:** oikeasti  
+**Literal Breakdown:** oikea + -sti (adverbial suffix)  
+**Translation:** really, actually  
+**Usage:** Standard adverb formation from adjectives. Note: Finnish has two common adverbial patterns from oikea: *oikeasti* and *oikein*, with slightly different semantic ranges.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 23: oikein
+**Base:** oikea  
+**Derived Form:** oikein  
+**Literal Breakdown:** oikea + -in (adverbial suffix, archaic variant)  
+**Translation:** correctly, right; really, very  
+**Usage:** Older adverbial formation pattern, now lexicalized with dual function (manner adverb and intensifier). The -in suffix is no longer productive but appears in frozen forms (*kaunis* → *kauniin* archaic "beautifully").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 24: oikeellinen
+**Base:** oikea  
+**Derived Form:** oikeellinen  
+**Literal Breakdown:** oikee- + -llinen (adjectival suffix)  
+**Translation:** correct, accurate  
+**Usage:** Productive adjectival derivation, often creating more formal or technical variants (*laki* → *lakillinen* "legal").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 25: oikeellisuus
+**Base:** oikeellinen  
+**Derived Form:** oikeellisuus  
+**Literal Breakdown:** oikee-lli- + -suus (abstract noun suffix)  
+**Translation:** correctness, accuracy  
+**Usage:** Standard nominalization from -llinen adjectives.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 26: oikeuttaa
+**Base:** oikea (via oikeus)  
+**Derived Form:** oikeuttaa  
+**Literal Breakdown:** oikeut- + -ta- (causative) + -a  
+**Translation:** to justify, to warrant  
+**Usage:** Causative verb derivation. Note: This derives from the noun *oikeus* "right, justice" rather than directly from the adjective *oikea*.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 27: oikeutettu
+**Base:** oikeuttaa  
+**Derived Form:** oikeutettu  
+**Literal Breakdown:** oikeute- + -ttu (past passive participle)  
+**Translation:** justified, warranted  
+**Usage:** Standard passive participle formation, often functioning as adjective (*rakennettu* "built", *kirjoitettu* "written").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 28: oikeutus
+**Base:** oikeuttaa  
+**Derived Form:** oikeutus  
+**Literal Breakdown:** oikeut- + -us (action/result noun)  
+**Translation:** justification, authorization  
+**Usage:** Standard nominalization from verbs.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 29: oikeus
+**Base:** oikea  
+**Derived Form:** oikeus  
+**Literal Breakdown:** oikea + -us (abstract noun suffix)  
+**Translation:** right, justice, law, court  
+**Usage:** Standard nominalization, though semantically this has developed into a highly polysemous legal/moral term distinct from simple "correctness."  
+**Epistemic status:** [MARGINAL] (for truth-domain; CORE for legal domain)
+
+### Base: oikeaoppinen
+
+#### Derived Form 30: oikeaoppisuus
+**Base:** oikeaoppinen  
+**Derived Form:** oikeaoppisuus  
+**Literal Breakdown:** oikea-oppi- + -suus (abstract noun)  
+**Translation:** orthodoxy  
+**Usage:** Standard nominalization from compound adjective.  
+**Epistemic status:** [CORE]
+
+### Base: oikeamielinen
+
+**Note:** No additional common derivations identified beyond the base form. The form is already a derived compound adjective (oikea + mieli + -inen).
+
+### Base: oikeanlainen
+
+**Note:** No additional common derivations identified. This is already a derived compound adjective (oikea + -n + lainen).
+
+---
+
+## DERIVATIONAL PATTERNS: Root 3 (väärä / väär-)
+
+### Base: väärä
+
+#### Derived Form 31: väärin
+**Base:** väärä  
+**Derived Form:** väärin  
+**Literal Breakdown:** väärä + -in (adverbial suffix, archaic)  
+**Translation:** wrongly, incorrectly  
+**Usage:** Archaic adverbial formation pattern, now lexicalized. Parallel to *oikein* from *oikea*.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 32: vääryys
+**Base:** väärä  
+**Derived Form:** vääryys  
+**Literal Breakdown:** väär- + -yys (abstract noun suffix)  
+**Translation:** injustice, wrong  
+**Usage:** Standard nominalization from adjective (*korkea* → *korkeus* "height").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 33: vääristää
+**Base:** väärä  
+**Derived Form:** vääristää  
+**Literal Breakdown:** vääriste- + -ä (causative verb suffix)  
+**Translation:** to distort, to falsify  
+**Usage:** Causative verb derivation from adjective. The -sta-/-stä- variant is common with certain adjective stems (*selvä* → *selvittää* "to clarify").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 34: vääristyä
+**Base:** vääristää  
+**Derived Form:** vääristyä  
+**Literal breakdown:** vääriste- + -y- (reflexive/inchoative) + -ä  
+**Translation:** to become distorted  
+**Usage:** Reflexive/inchoative derivation from causative verb, creating intransitive counterpart.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 35: vääristymä
+**Base:** vääristyä  
+**Derived Form:** vääristymä  
+**Literal Breakdown:** vääristy- + -mä (result noun suffix)  
+**Translation:** distortion, deformation  
+**Usage:** Result noun derivation from verbs, particularly intransitive/reflexive verbs (*kasvaa* → *kasvain* "growth/tumor", *paisua* → *paisuma* "swelling").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 36: vääristely
+**Base:** vääristää  
+**Derived Form:** vääristely  
+**Literal Breakdown:** vääriste- + -ly (action noun suffix)  
+**Translation:** distortion, falsification  
+**Usage:** Action noun derivation from verbs, often with connotation of repeated or characteristic action (*piirtää* → *piirtely* "doodling").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 37: väärentää
+**Base:** väärä  
+**Derived Form:** väärentää  
+**Literal Breakdown:** väären- + -tä- (causative) + -ä  
+**Translation:** to forge, to counterfeit  
+**Usage:** Causative verb derivation. Note the different stem vowel (*väärentää* vs *vääristää*), indicating different derivational paths with distinct meanings.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 38: väärennös
+**Base:** väärentää  
+**Derived Form:** väärennös  
+**Literal Breakdown:** väären- + -nös (result noun suffix)  
+**Translation:** forgery, counterfeit  
+**Usage:** Result noun derivation from verbs. The -nös/-nys suffix often indicates concrete results (*rakentaa* → *rakennus* "building").  
+**Epistemic status:** [CORE]
+
+### Base: väärinkäsitys
+
+**Note:** This is already a compound noun (väärin + käsitys "understanding"). No additional common derivations identified.
+
+### Base: väärinkäyttö
+
+#### Derived Form 39: väärinkäyttää
+**Base:** väärinkäyttö (or vice versa - bidirectional relationship)  
+**Derived Form:** väärinkäyttää  
+**Literal Breakdown:** väärin-käyttä- + -ä (verb)  
+**Translation:** to misuse, to abuse  
+**Usage:** Compound verb formation. Finnish allows productive compounding of adverbs with verbs (*hyvin voida* "to be well", *pahoin pidelty* "mistreated").  
+**Epistemic status:** [CORE]
+
+### Base: vääränlainen
+
+**Note:** No additional common derivations identified. This is already a derived compound adjective (väärä + -n + lainen).
+
+---
+
+## DERIVATIONAL PATTERNS: Other P1 Bases
+
+### Base: aito
+
+#### Derived Form 40: aidosti
+**Base:** aito  
+**Derived Form:** aidosti  
+**Literal Breakdown:** aito + -sti (adverbial suffix)  
+**Translation:** genuinely, authentically  
+**Usage:** Standard adverb formation from adjectives.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 41: aitous
+**Base:** aito  
+**Derived Form:** aitous  
+**Literal Breakdown:** aito + -us (abstract noun suffix)  
+**Translation:** genuineness, authenticity  
+**Usage:** Standard nominalization from adjective.  
+**Epistemic status:** [CORE]
+
+**Note:** No causative verb derivation (*aitouttaa) commonly attested.
+
+### Base: valhe
+
+#### Derived Form 42: valehdella
+**Base:** valhe  
+**Derived Form:** valehdella  
+**Literal Breakdown:** valehe- + -lla (frequentative verb suffix)  
+**Translation:** to lie, to tell lies  
+**Usage:** Frequentative/iterative verb derivation from noun. The -lla/-llä suffix creates verbs indicating repeated or characteristic action (*hypätä* → *hypellä* "to hop about").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 43: valehtelija
+**Base:** valehdella  
+**Derived Form:** valehtelija  
+**Literal Breakdown:** valehtele- + -ja (agent noun)  
+**Translation:** liar  
+**Usage:** Standard agent noun derivation from verb.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 44: valheellinen
+**Base:** valhe  
+**Derived Form:** valheellinen  
+**Literal Breakdown:** valhe + -llinen (adjectival suffix)  
+**Translation:** false, mendacious, lying  
+**Usage:** Productive adjectival derivation from nouns (*totuus* → *totuudellinen* "truthful").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 45: valheellisuus
+**Base:** valheellinen  
+**Derived Form:** valheellisuus  
+**Literal Breakdown:** valheelli- + -suus (abstract noun)  
+**Translation:** falseness, mendacity  
+**Usage:** Standard nominalization from -llinen adjectives.  
+**Epistemic status:** [CORE]
+
+### Base: luotettava
+
+#### Derived Form 46: luotettavuus
+**Base:** luotettava  
+**Derived Form:** luotettavuus  
+**Literal Breakdown:** luotetta-va + -uus (abstract noun)  
+**Translation:** reliability, trustworthiness  
+**Usage:** Standard nominalization from participle adjectives. Note: *luotettava* itself is already derived from *luottaa* "to trust" via passive participle formation.  
+**Epistemic status:** [CORE]
+
+**Note:** The base verb *luottaa* "to trust" generates its own derivational family, but is not itself a truth-domain term in P1.
+
+### Base: paikkansapitävä
+
+**Note:** This is already a complex derived form (compound participle: paikka-nsa-pitä-vä). No additional common derivations identified.
+
+### Base: virheellinen
+
+#### Derived Form 47: virheellisyys
+**Base:** virheellinen  
+**Derived Form:** virheellisyys  
+**Literal Breakdown:** virheelli- + -syys (abstract noun)  
+**Translation:** erroneousness  
+**Usage:** Standard nominalization from -llinen adjectives. Note: The base noun *virhe* "error" itself generates a derivational family, but is not a P1 truth-domain term.  
+**Epistemic status:** [CORE]
+
+### Base: epätosi
+
+**Note:** This is already a derived form (prefix epä- + tosi). No additional common derivations identified beyond those already documented for the *tosi* root.
+
+### Base: petollinen
+
+#### Derived Form 48: petollisuus
+**Base:** petollinen  
+**Derived Form:** petollisuus  
+**Literal Breakdown:** petolli- + -suus (abstract noun)  
+**Translation:** deceitfulness, fraudulence  
+**Usage:** Standard nominalization from -llinen adjectives. Note: The base noun *petos* "deception" generates its own derivational family.  
+**Epistemic status:** [CORE]
+
+### Base: rehellinen
+
+#### Derived Form 49: rehellisyys
+**Base:** rehellinen  
+**Derived Form:** rehellisyys  
+**Literal Breakdown:** rehelli- + -syys (abstract noun)  
+**Translation:** honesty, truthfulness  
+**Usage:** Standard nominalization from -llinen adjectives.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 50: rehellisesti
+**Base:** rehellinen  
+**Derived Form:** rehellisesti  
+**Literal Breakdown:** rehellise- + -sti (adverbial suffix)  
+**Translation:** honestly, truthfully  
+**Usage:** Standard adverb formation from adjectives.  
+**Epistemic status:** [CORE]
+
+### Base: vilpitön
+
+#### Derived Form 51: vilpittömyys
+**Base:** vilpitön  
+**Derived Form:** vilpittömyys  
+**Literal Breakdown:** vilpittöm- + -yys (abstract noun)  
+**Translation:** sincerity, genuineness  
+**Usage:** Standard nominalization from -tön/-ttömyys adjectives (*työ* → *työtön* "unemployed" → *työttömyys* "unemployment").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 52: vilpittömästi
+**Base:** vilpitön  
+**Derived Form:** vilpittömästi  
+**Literal Breakdown:** vilpittömä- + -sti (adverbial suffix)  
+**Translation:** sincerely, genuinely  
+**Usage:** Standard adverb formation from adjectives.  
+**Epistemic status:** [CORE]
+
+**Note:** The base noun *vilppi* "deceit" itself is not a P1 term, though it underlies this derivation.
+
+### Base: harhaanjohtava
+
+**Note:** This is already a complex derived form (compound participle: harhaan-johta-va "leading astray"). No additional common derivations identified.
+
+### Base: uskottava
+
+#### Derived Form 53: uskottavuus
+**Base:** uskottava  
+**Derived Form:** uskottavuus  
+**Literal Breakdown:** uskotta-va + -uus (abstract noun)  
+**Translation:** credibility, plausibility  
+**Usage:** Standard nominalization from participle adjectives. Note: *uskottava* itself derives from *uskoa* "to believe" via passive participle.  
+**Epistemic status:** [CORE]
+
+### Base: epärehellinen
+
+#### Derived Form 54: epärehellisyys
+**Base:** epärehellinen  
+**Derived Form:** epärehellisyys  
+**Literal Breakdown:** epä-rehelli- + -syys (abstract noun)  
+**Translation:** dishonesty  
+**Usage:** Standard nominalization from -llinen adjectives. Note: This combines the negative prefix *epä-* with the *rehellinen* derivational pattern.  
+**Epistemic status:** [CORE]
+
+### Base: väittää
+
+#### Derived Form 55: väite
+**Base:** väittää  
+**Derived Form:** väite  
+**Literal Breakdown:** väit- + -e (result noun)  
+**Translation:** claim, assertion, thesis  
+**Usage:** Standard result noun derivation from verbs (*lausua* → *lause* "sentence").  
+**Epistemic status:** [CORE]
+
+#### Derived Form 56: väittely
+**Base:** väittää  
+**Derived Form:** väittely  
+**Literal Breakdown:** väitte- + -ly (action noun)  
+**Translation:** debate, argumentation  
+**Usage:** Action noun derivation indicating repeated or characteristic action.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 57: väittelijä
+**Base:** väitellä (frequentative of väittää)  
+**Derived Form:** väittelijä  
+**Literal Breakdown:** väittele- + -jä (agent noun)  
+**Translation:** debater, arguer  
+**Usage:** Agent noun from frequentative verb form.  
+**Epistemic status:** [CORE]
+
+#### Derived Form 58: väitös
+**Base:** väittää  
+**Derived Form:** väitös  
+**Literal Breakdown:** väit- + -ös (result noun)  
+**Translation:** dissertation defense, disputation  
+**Usage:** Specialized result noun, particularly in academic contexts (*väitöskirja* "doctoral dissertation").  
+**Epistemic status:** [CORE]
+
+---
+
+## CROSS-CUTTING DERIVATIONAL OBSERVATIONS
+
+### Productive Suffixes in Truth Domain
+
+**Abstract noun formation (-uus/-yys/-suus):**
+- Highly productive across all roots
+- Creates abstract quality nouns from adjectives
+- Examples: *totuus*, *oikeellisuus*, *vääryys*, *aitous*, *rehellisyys*
+
+**Adverbial formation (-sti):**
+- Highly productive from adjectives and participles
+- Standard manner adverb formation
+- Examples: *oikeasti*, *rehellisesti*, *todennäköisesti*, *vilpittömästi*
+
+**Archaic adverbial formation (-in):**
+- No longer productive, but preserved in high-frequency forms
+- Examples: *oikein*, *väärin*
+- These forms often develop additional functions (intensification)
+
+**Adjectival formation (-llinen):**
+- Highly productive from nouns
+- Creates quality adjectives
+- Examples: *todellinen*, *oikeellinen*, *valheellinen*, *petollinen*, *rehellinen*
+
+**Agent noun formation (-ja/-jä):**
+- Productive from verbs
+- Creates person nouns
+- Examples: *todistaja*, *valehtelija*, *väittelijä*
+
+**Causative verb formation (-tta-/-ttä-, -sta-/-stä-):**
+- Productive from adjectives and nouns
+- Creates transitive verbs of causing/making
+- Examples: *todellistaa*, *toteuttaa*, *oikeuttaa*, *vääristää*, *väärentää*
+
+**Reflexive/inchoative formation (-u-/-y-):**
+- Productive from causative verbs
+- Creates intransitive counterparts
+- Examples: *todellistua*, *toteutua*, *vääristyä*, *todentua*
+
+**Result noun formation (-us/-ys, -e, -ma/-mä, -os/-ös, -nös/-nys):**
+- Multiple productive patterns
+- Create nouns denoting results or products of actions
+- Examples: *todistus*, *todiste*, *toteamus*, *vääristymä*, *väärennös*, *väitös*
+
+**Gerund formation (-minen):**
+- Highly productive from all verbs
+- Creates action/process nouns
+- Examples: *toteuttaminen*, *todentaminen*
+
+**Participle formation (-va/-vä, -ttu/-tty):**
+- Productive verbal adjective formation
+- Often lexicalized as adjectives
+- Examples: *luotettava*, *uskottava*, *todistettava*, *oikeutettu*
+
+### Asymmetries and Gaps
+
+**Limited derivation from some bases:**
+- *paikkansapitävä*: no further derivation (already complex)
+- *harhaanjohtava*: no further derivation (already complex)
+- *epätosi*: relies on *tosi* derivational family
+- *aito*: no causative verb (*aitouttaa not attested)
+
+**Semantic drift in derivational chains:**
+- *oikea* → *oikeus*: shift from correctness to legal/moral rights
+- *väärä* → *vääryys*: shift from incorrectness to moral injustice
+- *tosi* → *tosissaan*: shift from truth to seriousness
+
+**Multiple derivational paths from single root:**
+- *väärä* → *vääristää* (distort) vs. *väärentää* (forge): distinct semantic developments
+- *tosi* → *todellinen* (real) vs. *todistaa* (prove): different aspectual focus
+
+**Compound formation productivity:**
+- *tosi-* highly productive in compounds: *tosielämä*, *tositarina*, *tosimies*, *tosi-tv*
+- *oikea-* moderately productive: *oikeaoppinen*, *oikeamielinen*
+- *väärä-* less productive in truth-domain compounds
+
+---
+
+## SUMMARY STATISTICS
+
+**Total derived forms documented:** 58 (excluding P1 base forms and P1b expansions already documented)
+
+**By root:**
+- tosi/tode- root: 21 derivations
+- oikea/oikee- root: 8 derivations  
+- väärä/väär- root: 9 derivations
+- Other P1 bases: 20 derivations
+
+**By derivational type (major categories):**
+- Abstract nouns: 15
+- Adverbs: 8
+- Causative verbs: 6
+- Reflexive/inchoative verbs: 5
+- Agent nouns: 4
+- Result nouns: 8
+- Gerunds: 3
+- Participles: 4
+- Other: 5
+
+**Epistemic status distribution:**
+- [CORE]: 56
+- [MARGINAL]: 2
+- [UNCERTAIN]: 0
+
+---
+
+## NOTES ON METHODOLOGY
+
+This analysis documents only attested forms found in actual Finnish usage. Several theoretically possible derivations were excluded:
+
+- *aitouttaa (hypothetical causative from *aito*) - not attested
+- Various compound possibilities that are theoretically constructible but not established in usage
+- Highly technical or specialized derivations outside general truth-domain discourse
+
+The analysis reveals Finnish derivational morphology to be highly productive and systematic, with clear patterns across the truth-domain vocabulary. The *tosi/tode-* root shows the greatest derivational elaboration, consistent with its central role in Finnish truth-evaluation discourse.

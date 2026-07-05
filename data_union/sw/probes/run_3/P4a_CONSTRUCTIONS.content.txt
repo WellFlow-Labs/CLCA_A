@@ -1,0 +1,142 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Swahili (sw)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + *ni* (copula) + truth-domain adjective/noun
+
+### Examples
+- *Hii ni kweli.* → Hii ni kweli. → "This is true."
+- *Taarifa hii ni sahihi.* → Taarifa hii ni sahihi. → "This report is accurate."
+
+### Notes
+Swahili uses the invariant copula *ni* for attribution. The truth-domain item (*kweli*, *sahihi*, *halisi*, *dhahiri*) follows directly; there is no agreement morphology on the predicate nominal/adjective in this construction.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + *si* (negative copula) + truth-domain adjective/noun
+
+### Examples
+- *Hii si kweli.* → Hii si kweli. → "This is not true."
+- *Jibu lako si sahihi.* → Jibu lako si sahihi. → "Your answer is not correct."
+
+### Notes
+*Si* is the direct negative counterpart of *ni* and is likewise invariant. The pairs *ni kweli / si kweli* and *ni sahihi / si sahihi* function as the canonical binary truth-evaluation frames in Swahili.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Noun + truth-domain modifier (post-nominal position); or *wa/ya* + truth-domain noun
+
+### Examples
+- *dhahabu halisi* → dhahabu halisi → "genuine gold" (noun + attributive adjective)
+- *ukweli wa jambo* → ukweli wa jambo → "the truth of the matter" (noun + *wa* + noun)
+
+### Notes
+Attributive adjectives and nouns used as modifiers follow the head noun in Swahili. The associative particle (*wa*, *ya*, *la*, etc.) agrees with the noun class of the head; *wa* is the most frequent in this domain. The pattern *X wa kweli* ("true/genuine X") is highly productive: *upendo wa kweli* ("true love"), *rafiki wa kweli* ("true friend"), *mtu wa kweli* ("truthful person").
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+Stative/intransitive verbal form: verb stem + *-ka* or *-ika* suffix (with *ku-* infinitive prefix)
+
+### Examples
+- *Ukweli ulidhihirika baada ya uchunguzi.* → Ukweli ulidhihirika baada ya uchunguzi. → "The truth became evident after the investigation."
+- *Alidanganyika.* → Alidanganyika. → "He/she was deceived / fell for it."
+
+### Notes
+The suffix *-ka* / *-ika* on a verb stem produces a stative or resultant-state reading ("to become/come to be in a state"). Attested for *dhahiri* (*kudhihirika*, "to become evident") and *danganya* (*kudanganyika*, "to come to be deceived"). No inchoative form is attested for *kweli* or *sahihi* as bases.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+Verb stem + *-sha* / *-isha* causative suffix (with *ku-* infinitive prefix)
+
+### Examples
+- *Matendo yake yalidhihirisha tabia yake.* → Matendo yake yalidhihirisha tabia yake. → "His actions revealed / made evident his character."
+- *Sahihisha makosa kabla ya kuwasilisha.* → Sahihisha makosa kabla ya kuwasilisha. → "Correct the errors before submitting."
+
+### Notes
+The causative suffix *-sha* / *-isha* is productive for roots that permit verbal derivation: *dhahiri* → *kudhihirisha* ("to make evident, to demonstrate"), *sahihi* → *kusahihisha* ("to correct, to make accurate"), *fanana* → *kufananisha* ("to compare, to liken"), *tofauti* → *kutofautisha* ("to distinguish"). The roots *kweli* and *halisi* do not show well-attested causative forms in common usage.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+*u-* (class 14 abstract noun prefix) + root (± additional suffix)
+
+### Examples
+- *Usahihi wa taarifa unahitajika.* → Usahihi wa taarifa unahitajika. → "The accuracy of the report is required."
+- *Udanganyifu wake ulifunuliwa hadharani.* → Udanganyifu wake ulifunuliwa hadharani. → "His/her deception was exposed publicly."
+
+### Notes
+The *u-* prefix is the primary nominalizing strategy for abstract properties in Swahili and is highly productive across this domain: *ukweli* ("truth"), *usahihi* ("accuracy"), *uhalisi* ("reality/authenticity"), *uaminifu* ("faithfulness"), *udanganyifu* ("deception"), *ulaghai* ("fraud"), *ubora* ("quality"), *utofauti* ("difference"), *udhahiri* ("obviousness"). A further suffix *-o* nominalizes verbal actions: *uthibitisho* ("verification/confirmation"), *udhihirisho* ("demonstration/manifestation").
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+*m-* (class 1 human singular prefix) + root (± suffix); plural *wa-*
+
+### Examples
+- *Yeye ni mwongo — hasemi ukweli kamwe.* → Yeye ni mwongo — hasemi ukweli kamwe. → "He/she is a liar — never speaks the truth."
+- *Yeye ni mdanganyifu wa hali ya juu.* → Yeye ni mdanganyifu wa hali ya juu. → "He/she is a thoroughgoing deceiver."
+
+### Notes
+The *m-* / *wa-* prefix pair (singular/plural, noun class 1/2) derives human-agent nouns. Attested pairs in this domain: *mwongo / waongo* ("liar/s"), *mdanganyifu / wadanganyifu* ("deceiver/s"), *mlaghai / walaghai* ("fraudster/s"), *mwaminifu / waaminifu* ("faithful person/people"), *mkosoaji / wakosoaji* ("critic/s"), *mkosaji / wakosaji* ("offender/s"). No agentive nominalization for a "truth-teller" as a fixed lexical item is attested; the concept is expressed periphrastically (*mtu wa kweli*, "a person of truth").
+
+---
+
+## 8. COMPLEMENTIZER FRAMING (additional pattern)
+
+### Pattern
+Copular or evidential frame + *kwamba* / *kuwa* + embedded clause
+
+### Examples
+- *Ukweli ni kwamba hakuna ushahidi.* → Ukweli ni kwamba hakuna ushahidi. → "The truth is that there is no evidence."
+- *Ni dhahiri kwamba alikuwa anajua.* → Ni dhahiri kwamba alikuwa anajua. → "It is evident that he/she knew."
+
+### Notes
+The complementizers *kwamba* and *kuwa* ("that") introduce embedded propositional content after a truth-domain predicate. The frames *ukweli ni kwamba...* and *ni dhahiri kwamba...* are highly productive in journalistic, legal, and argumentative discourse for introducing asserted or evidentially grounded propositions.
+
+---
+
+## 9. PARENTHETICAL SINCERITY FRAME (additional pattern)
+
+### Pattern
+Infinitive phrase (*kusema ukweli* / *kwa kweli*) + comma + main clause
+
+### Examples
+- *Kusema ukweli, sikupenda hilo.* → Kusema ukweli, sikupenda hilo. → "To tell the truth, I didn't like that."
+- *Kwa kweli, sijui.* → Kwa kweli, sijui. → "Honestly, I don't know."
+
+### Notes
+These sentence-initial phrases function as discourse markers signaling speaker sincerity rather than as predicates about a specific proposition. *Kusema ukweli* (infinitive: "to speak the truth") and *kwa kweli* (prepositional: "in truth") are the two most frequent forms; *kwa kweli kweli* is an intensified variant.
+
+---
+
+## 10. PASSIVE VERIFICATION / EXPOSURE (additional pattern)
+
+### Pattern
+Subject + passive verb (*-wa* suffix) + optional agentive *na*-phrase or adverb
+
+### Examples
+- *Hati ilithibitishwa na mamlaka.* → Hati ilithibitishwa na mamlaka. → "The document was authenticated by the authorities."
+- *Uongo wake ulidhihirika.* → Uongo wake ulidhihirika. → "His/her lie was exposed / became evident."
+
+### Notes
+The passive suffix *-wa* is productive across this domain: *kuthibitishwa* ("to be verified"), *kudanganywa* ("to be deceived"), *kufunuliwa* ("to be revealed"). The stative *-ka*/*-ika* (Pattern 4) and the passive *-wa* overlap in expressing resultant states but differ in agentivity: *-wa* implies an external agent; *-ka*/*-ika* does not.

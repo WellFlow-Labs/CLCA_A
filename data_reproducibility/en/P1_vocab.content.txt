@@ -1,0 +1,362 @@
+# CLCA Protocol v3.2 — P1 CORE VOCABULARY COLLECTION
+# Language: English (en)
+
+## Lexical Items
+
+### 1. true
+**Form:** true  
+**Transliteration:** N/A  
+**Literal meaning:** From Old English trēowe "faithful, trustworthy"  
+**Typical English translations:** true, truthful, accurate, genuine
+
+Used to evaluate statements as corresponding to reality or facts. Also applied to objects or representations as authentic or genuine (e.g., "true gold," "true copy"). Common in both everyday and philosophical discourse.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2. false
+**Form:** false  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin falsus "deceived, erroneous"  
+**Typical English translations:** false, untrue, incorrect, fake
+
+Used to evaluate statements as not corresponding to reality. Also describes objects or representations as counterfeit or inauthentic. Standard negation of truth in logical and everyday contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3. right
+**Form:** right  
+**Transliteration:** N/A  
+**Literal meaning:** From Old English riht "just, good, proper"  
+**Typical English translations:** right, correct, proper, just
+
+Applied to statements, actions, or judgments as correct or morally acceptable. Used in moral evaluation ("the right thing to do") and factual correctness ("the right answer"). Highly polysemous across epistemic and moral domains.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 4. wrong
+**Form:** wrong  
+**Transliteration:** N/A  
+**Literal meaning:** From Old English wrang "crooked, twisted"  
+**Typical English translations:** wrong, incorrect, improper, unjust
+
+Evaluates statements as incorrect or actions as morally unacceptable. Functions as antonym to "right" in both epistemic and moral contexts. Common in everyday evaluative discourse.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 5. correct
+**Form:** correct  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin correctus "made straight, amended"  
+**Typical English translations:** correct, accurate, right, proper
+
+Used primarily for factual accuracy of statements or appropriateness of conduct. More formal register than "right" in epistemic contexts. Common in educational and technical settings.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 6. accurate
+**Form:** accurate  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin accuratus "done with care"  
+**Typical English translations:** accurate, precise, exact, faithful
+
+Evaluates representations or statements for precision and correspondence to reality. Emphasizes careful attention to detail. Frequently used for measurements, descriptions, and reproductions.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 7. genuine
+**Form:** genuine  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin genuinus "native, natural, innate"  
+**Typical English translations:** genuine, authentic, real, true
+
+Applied to objects, persons, or expressions to evaluate authenticity or sincerity. Contrasts with counterfeit, fake, or insincere. Used in commercial, personal, and aesthetic contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 8. authentic
+**Form:** authentic  
+**Transliteration:** N/A  
+**Literal meaning:** From Greek authentikos "original, genuine"  
+**Typical English translations:** authentic, genuine, real, legitimate
+
+Evaluates objects, documents, or representations as original or not counterfeit. Also applied to persons or conduct as sincere or true to character. Common in art, historical, and cultural contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 9. real
+**Form:** real  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin realis "relating to things"  
+**Typical English translations:** real, actual, genuine, true
+
+Evaluates existence or genuineness of objects, persons, or situations. Contrasts with imaginary, fake, or apparent. Fundamental term in ontological and everyday discourse.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 10. valid
+**Form:** valid  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin validus "strong, effective"  
+**Typical English translations:** valid, sound, legitimate, well-founded
+
+Used primarily in logical and legal contexts to evaluate arguments or documents. An argument is valid if its conclusion follows from premises; a document is valid if legally binding. Technical term with specific meanings in different domains.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 11. sound
+**Form:** sound  
+**Transliteration:** N/A  
+**Literal meaning:** From Old English gesund "healthy, whole"  
+**Typical English translations:** sound, valid, reliable, solid
+
+Evaluates arguments, reasoning, or judgments as both valid and based on true premises. Also applied to physical objects as structurally intact. Used in logical, legal, and practical contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 12. reliable
+**Form:** reliable  
+**Transliteration:** N/A  
+**Literal meaning:** rely + -able "able to be relied upon"  
+**Typical English translations:** reliable, dependable, trustworthy, consistent
+
+Evaluates sources, persons, or instruments as consistently producing accurate information or performance. Emphasizes consistency over time. Common in epistemic and practical contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 13. faithful
+**Form:** faithful  
+**Transliteration:** N/A  
+**Literal meaning:** faith + -ful "full of faith"  
+**Typical English translations:** faithful, accurate, loyal, true
+
+Applied to representations or translations as accurately preserving the original. Also evaluates persons as loyal or constant. Used in aesthetic, religious, and personal contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 14. veridical
+**Form:** veridical  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin veridicus "truth-telling" (verus "true" + dicere "to say")  
+**Typical English translations:** veridical, truthful, truth-telling
+
+Technical term in philosophy and psychology for perceptions or statements that accurately represent reality. Primarily used in academic discourse about perception and cognition. Rare in everyday usage.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 15. truthful
+**Form:** truthful  
+**Transliteration:** N/A  
+**Literal meaning:** truth + -ful "full of truth"  
+**Typical English translations:** truthful, honest, veracious, sincere
+
+Evaluates persons or statements as habitually telling the truth or conforming to truth. Emphasizes character or intention rather than mere factual accuracy. Common in moral and everyday contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 16. honest
+**Form:** honest  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin honestus "honorable, respectable"  
+**Typical English translations:** honest, truthful, sincere, upright
+
+Primarily evaluates persons or conduct as morally upright and not deceptive. Also applied to statements as truthful. Strong moral connotation beyond mere factual accuracy.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 17. sincere
+**Form:** sincere  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin sincerus "clean, pure, genuine"  
+**Typical English translations:** sincere, genuine, honest, heartfelt
+
+Evaluates expressions, persons, or conduct as genuinely felt or meant, without pretense. Emphasizes alignment between inner state and outward expression. Common in personal and moral contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 18. legitimate
+**Form:** legitimate  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin legitimatus "made lawful"  
+**Typical English translations:** legitimate, lawful, valid, genuine
+
+Evaluates claims, authority, or objects as conforming to law or accepted standards. Used in legal, political, and social contexts. Implies both genuineness and proper authorization.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 19. spurious
+**Form:** spurious  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin spurius "illegitimate, false"  
+**Typical English translations:** spurious, false, fake, counterfeit
+
+Evaluates claims, objects, or reasoning as superficially plausible but actually false or invalid. More formal register than "fake." Common in academic and critical discourse.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 20. bogus
+**Form:** bogus  
+**Transliteration:** N/A  
+**Literal meaning:** Etymology uncertain, possibly from "tantrabogus" (counterfeit coin machine)  
+**Typical English translations:** bogus, fake, false, fraudulent
+
+Informal term evaluating objects, claims, or persons as fake or fraudulent. More colloquial than "spurious" or "counterfeit." Common in everyday speech.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 21. counterfeit
+**Form:** counterfeit  
+**Transliteration:** N/A  
+**Literal meaning:** From Old French contrefait "imitated, feigned"  
+**Typical English translations:** counterfeit, fake, forged, fraudulent
+
+Evaluates objects (especially currency or documents) as fraudulent imitations. Implies deliberate deception. Technical term in legal contexts, common in commercial contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 22. apt
+**Form:** apt  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin aptus "fitted, suitable"  
+**Typical English translations:** apt, fitting, appropriate, suitable
+
+Evaluates descriptions, comparisons, or responses as particularly fitting or appropriate. Emphasizes suitability to context. Used in aesthetic and intellectual evaluation.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 23. veracious
+**Form:** veracious  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin verax "truthful" (from verus "true")  
+**Typical English translations:** veracious, truthful, accurate, honest
+
+Formal term evaluating persons or statements as truthful or accurate. More elevated register than "truthful." Primarily used in formal or literary contexts.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 24. fallacious
+**Form:** fallacious  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin fallacia "deception, trick"  
+**Typical English translations:** fallacious, deceptive, misleading, erroneous
+
+Evaluates reasoning or arguments as logically flawed or deceptive. Technical term in logic and rhetoric. Used in academic and critical discourse.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 25. erroneous
+**Form:** erroneous  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin erroneus "wandering, mistaken"  
+**Typical English translations:** erroneous, mistaken, incorrect, wrong
+
+Formal term evaluating statements or beliefs as containing error. More formal register than "wrong" or "incorrect." Common in academic and technical writing.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 26. mistaken
+**Form:** mistaken  
+**Transliteration:** N/A  
+**Literal meaning:** Past participle of "mistake" (mis- + take)  
+**Typical English translations:** mistaken, wrong, erroneous, incorrect
+
+Evaluates beliefs, persons, or judgments as in error. Implies unintentional error rather than deception. Common in everyday and formal contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 27. mendacious
+**Form:** mendacious  
+**Transliteration:** N/A  
+**Literal meaning:** From Latin mendax "lying, false"  
+**Typical English translations:** mendacious, lying, untruthful, dishonest
+
+Formal term evaluating persons or statements as deliberately untruthful. Strong negative connotation. Primarily used in formal or literary contexts.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 28. bona fide
+**Form:** bona fide  
+**Transliteration:** N/A  
+**Literal meaning:** Latin "in good faith"  
+**Typical English translations:** bona fide, genuine, authentic, legitimate
+
+Fixed Latin expression evaluating persons, objects, or claims as genuine or made in good faith. Used in legal, commercial, and everyday contexts. Often functions as adjective in English.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 29. ersatz
+**Form:** ersatz  
+**Transliteration:** N/A  
+**Literal meaning:** German "replacement, substitute"  
+**Typical English translations:** ersatz, substitute, artificial, fake
+
+Borrowed term evaluating objects or experiences as artificial substitutes for genuine articles. Carries negative connotation of inferiority. Used in cultural and commercial criticism.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 30. apocryphal
+**Form:** apocryphal  
+**Transliteration:** N/A  
+**Literal meaning:** From Greek apokryphos "hidden, obscure"  
+**Typical English translations:** apocryphal, dubious, questionable, fictitious
+
+Evaluates stories or claims as of doubtful authenticity or probably false. Originally referred to religious texts of uncertain authorship. Used in historical and critical contexts.
+
+**Epistemic status:** [CORE]

@@ -1,0 +1,148 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Hebrew (he)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Subject + copula היה/הוא + truth-domain adjective/noun (Construction 1) | זה אמת (ze emet) "this is truth/true"<br>הדבר נכון (hadavar nakhon) "the thing is correct" | Direct mapping; zero copula in present tense | None |
+| **ADNOM** | Noun + attributive adjective (Construction 3) | סיפור אמיתי (sipur amiti) "true story"<br>עדות שקר (edut sheker) "false testimony" | Direct mapping; includes construct state compounds | None |
+| **BECOME** | להיות + adjective (Construction 4)<br>להפוך ל- + noun (Construction 4) | להיות כנה (lihyot kene) "to become honest"<br>הפך לשקרן (hafakh leshakran) "became a liar" | Direct mapping; להיות ambiguous stative/inchoative, להפוך explicitly inchoative | None |
+| **REVELATION** | Metaphorical extensions with verbs of emergence (Construction 20) | האמת תצא לאור (ha'emet tetse la'or) "the truth will come to light"<br>לגלות את האמת (legalot et ha'emet) "to reveal the truth" | Expressed through metaphorical light verb constructions; truth as hidden object | None (metaphorical pattern productive) |
+| **CAUSATION (factual)** | Hif'il binyan causatives (Construction 5) | להצדיק (lehatsדik) "to justify" (cause to be right) | Morphological causative pattern; transparent causative meaning retained | None |
+| **CAUSATION (character)** | Hif'il binyan + agent nominalization (Construction 5 + 4) | הפך לשקרן (hafakh leshakran) "became a liar"<br>להפוך למאמין (lehafokh lema'amin) "to turn into a believer" | **SUBSTITUTED BY BECOME + agent noun**; no dedicated causative-of-character construction | Structural gap in dedicated construction |
+| **VERIFICATION** | — | — | **NO COMMON EXPRESSION - circumlocution required**<br>Must use light verb constructions like לאמת (le'amet) "to verify" or להוכיח (lehokhiakh) "to prove" + truth-noun | Lexical gap (no dedicated construction) |
+| **DISCONFIRMATION** | — | — | **NO COMMON EXPRESSION - circumlocution required**<br>Must use negation + verification or verbs like להפריך (lehafרikh) "to refute" | Lexical gap (no dedicated construction) |
+| **NEGATION** | Subject + לא + adjective/noun (Construction 2)<br>אין + subject + adjective (Construction 2) | זה לא נכון (ze lo nakhon) "this is not correct"<br>אין בזה אמת (eyn baze emet) "there is no truth in this" | Analytic negation with לא; existential negation with אין | None |
+| **NOMINALIZATION** | Adjective/root + suffix -ות (Construction 6)<br>Root/noun + suffix -ן (Construction 7)<br>Active participles (Construction 7) | אמיתי → אמיתות (amiti → amitiyut) "true → truthfulness"<br>שקר → שקרן (sheker → shakran) "lie → liar"<br>מאמין (ma'amin) "believer" | Direct mapping; multiple productive morphological patterns for abstract and agentive nominalization | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION substitutes for dedicated epistemic verbs
+Hebrew expresses revelation through **metaphorical light verb constructions** (Construction 20) rather than dedicated revelation verbs. Truth is conceptualized as a hidden object that can emerge (לצאת לאור "come to light"), be revealed (לגלות), or be hidden (להסתיר). This pattern is highly productive and shows no restrictions, functioning as the primary means of expressing revelation semantics.
+
+### BECOME + agent noun substitutes for CAUSATION (character)
+Hebrew lacks a dedicated construction for "make X into a liar/believer" (causation of character). Instead, it uses:
+- **BECOME constructions** (להפוך ל- + agent noun): הפך לשקרן "became a liar"
+- The causative meaning must be expressed periphrastically through separate causative verbs + BECOME
+
+This represents a **structural gap** where character causation requires multi-clausal expression rather than a single construction.
+
+### VERIFICATION and DISCONFIRMATION require circumlocution
+Neither verification nor disconfirmation has a dedicated constructional pattern in the truth domain. Both require:
+- **Light verb constructions** with specific verbs (לאמת "verify," להוכיח "prove," להפריך "refute")
+- **Negation + attribution** for disconfirmation
+- No morphological or syntactic pattern specific to these operations
+
+This represents a **lexical gap** rather than a structural one—the operations exist but are not grammaticalized into dedicated constructions.
+
+### Asymmetry in causative lexicalization
+The causative להאמין (leha'amin) "to believe/make believe" has **lexicalized** away from transparent causative meaning, while להצדיק (lehatsדik) "to justify" retains transparent causative semantics. This shows variable lexicalization within the same morphological pattern (Hif'il binyan).
+
+### No asymmetry between positive and negative forms
+Hebrew shows **symmetric availability** of positive and negative constructions:
+- Attribution: זה אמת / זה לא אמת
+- Adnominal: סיפור אמיתי / סיפור לא אמיתי
+- Existential: יש אמת / אין אמת
+
+Both analytic negation (לא) and existential negation (אין) are fully productive with no gaps.
+
+### Metaphorical extensions show consistent patterns
+Truth-domain nouns consistently participate in metaphorical constructions treating truth as:
+- **Object that can be hidden/revealed**: להסתיר את האמת, לגלות את האמת
+- **Object that can emerge**: האמת תצא לאור
+- **Object that can be sought**: לחפש את האמת
+
+This metaphorical system is productive and unrestricted, serving as the primary means of expressing discovery/revelation semantics.
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **CAUSATION (character)**: No dedicated construction for "make X into a liar/believer"
+   - Must use BECOME + agent noun or multi-clausal periphrasis
+   - Pattern: הפך לשקרן "became a liar" (not *"made into a liar" as single construction)
+
+### Lexical Gaps
+1. **VERIFICATION**: No dedicated constructional pattern
+   - Requires light verb constructions: לאמת "to verify," להוכיח "to prove"
+   - Not grammaticalized into truth-domain construction system
+
+2. **DISCONFIRMATION**: No dedicated constructional pattern
+   - Requires light verb constructions: להפריך "to refute," להכחיש "to deny"
+   - Or negation + verification constructions
+
+### Conceptual Gaps
+**None identified.** All semantic operations appear expressible, though some require circumlocution or substitution by related operators.
+
+### Asymmetric Gaps
+**None identified.** Hebrew shows symmetric availability of:
+- Positive and negative attribution
+- Positive and negative adnominal modification
+- Positive and negative existential constructions
+- Truth and falsity terms across all construction types
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+1. **ATTR**: Subject + copula + truth-predicate (Construction 1)
+   - Status: Core, unrestricted, high frequency
+
+2. **ADNOM**: Noun + attributive adjective (Construction 3)
+   - Status: Core, unrestricted, high frequency
+
+3. **BECOME**: להיות/להפוך + adjective/noun (Construction 4)
+   - Status: Core, unrestricted, high frequency
+
+4. **NEGATION**: לא/אין + predicate (Construction 2)
+   - Status: Core, unrestricted, high frequency
+   - Type: Analytic (not morphological)
+
+5. **NOMINALIZATION**: Multiple productive patterns (Constructions 6, 7)
+   - Abstract: -ות suffix (אמיתות "truthfulness")
+   - Agentive: -ן suffix (שקרן "liar") and participles (מאמין "believer")
+   - Status: Core, unrestricted, high frequency
+
+### Available with Substitution
+6. **REVELATION**: Expressed through metaphorical light verb constructions (Construction 20)
+   - Substitution: Metaphorical extensions (לצאת לאור "come to light," לגלות "reveal")
+   - Status: Core pattern, fully productive
+
+7. **CAUSATION (factual)**: Hif'il binyan morphological causatives (Construction 5)
+   - Direct availability: להצדיק "to justify"
+   - Status: Core, productive morphological pattern
+
+8. **CAUSATION (character)**: Substituted by BECOME + agent noun
+   - Substitution: הפך לשקרן "became a liar" (not dedicated causative)
+   - Status: Structural gap requiring periphrasis
+
+### Partially Available
+9. **VERIFICATION**: No dedicated construction; requires light verbs
+   - Circumlocution: לאמת, להוכיח + truth-noun
+   - Status: Lexical gap, not grammaticalized
+
+10. **DISCONFIRMATION**: No dedicated construction; requires light verbs or negation
+    - Circumlocution: להפריך, להכחיש or negation + verification
+    - Status: Lexical gap, not grammaticalized
+
+### Missing Entirely
+**None.** All semantic operators are expressible, though some require circumlocution or substitution.
+
+---
+
+## Summary Statement
+
+Hebrew provides **direct constructional support** for 7 of 10 canonical CLCA operators (ATTR, ADNOM, BECOME, NEGATION, NOMINALIZATION, CAUSATION-factual, REVELATION). 
+
+**CAUSATION (character)** is structurally substituted by BECOME + agent noun constructions.
+
+**VERIFICATION and DISCONFIRMATION** represent lexical gaps—they are expressible through light verb constructions but lack dedicated grammaticalized patterns within the truth-domain construction system.
+
+The language shows **no conceptual gaps** and **no asymmetric gaps** between positive/negative or truth/falsity forms. All constructions rated [CORE] in P4b show high naturalness and productivity with no register restrictions except for specialized legal/biblical terms.

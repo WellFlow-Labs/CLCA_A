@@ -1,0 +1,400 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Chinese (zh)
+
+---
+
+## Preliminary Note
+
+This step documents how Chinese encodes dynamic relationships — change of state, causation of a truth-related state, and resistance to change — using vocabulary established in the CONTEXT. Each subsection treats a distinct expression type. Where a given truth-domain term does not participate in a common dynamic expression, this is stated explicitly. Patterns are derived strictly from collocations, constructions, and fixed expressions documented in P1 through P5.
+
+---
+
+## 1. X BECOMES [TRUTH-RELATED STATE]
+
+This subsection covers expressions in which an entity transitions into a truth-related state: something that was unclear becomes known, something fake becomes real, something concealed becomes exposed.
+
+---
+
+### 1.1 真相大白 — "The truth comes to light"
+
+**Form:** 真相大白
+**Transliteration:** zhēnxiàng dàbái
+**Literal breakdown:** true-appearance + greatly + clear/white
+**English translation:** The truth comes to light; the facts are fully revealed.
+**Structure:** 真相 (subject) + 大白 (resultative predicate). The predicate 大白 encodes the change-of-state: the truth transitions from concealed or unclear to fully known.
+**Example sentence:** 经过多年调查，真相终于大白。/ Jīngguò duō nián diàochá, zhēnxiàng zhōngyú dàbái. / "After years of investigation, the truth finally came to light."
+**Notes:** This is the primary lexicalized inchoative expression for truth becoming known. The temporal adverb 终于 (finally, at last) is a frequent collocate, emphasizing the transition after a period of concealment. Documented in P1b, P2b, P3, P4a, P4b, and P5.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.2 弄假成真 — "What started as a pretense becomes real"
+
+**Form:** 弄假成真
+**Transliteration:** nòng jiǎ chéng zhēn
+**Literal breakdown:** manipulate + fake + become + true/real
+**English translation:** What started as a pretense becomes real; a fake turns into the genuine article.
+**Structure:** The morpheme 成 (become) encodes the change-of-state directly: 假 (fake/false) transitions into 真 (real/genuine). The verb 弄 (to manipulate, to play with) indicates that the initial state was deliberately constructed as false.
+**Example sentence:** 他本是假装喜欢她，没想到弄假成真，真的爱上了。/ Tā běn shì jiǎzhuāng xǐhuān tā, méi xiǎngdào nòng jiǎ chéng zhēn, zhēn de ài shàng le. / "He was only pretending to like her, but unexpectedly what started as pretense became real — he genuinely fell in love."
+**Notes:** This fixed expression encodes the transition from 假 to 真 as a single lexical unit. The change is typically unintended or ironic. Documented in P2b and P5.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.3 坐实 — "A claim becomes confirmed fact"
+
+**Form:** 坐实
+**Transliteration:** zuòshí
+**Literal breakdown:** sit/settle + real/actual
+**English translation:** To nail down as fact; to become definitively confirmed as true.
+**Structure:** 坐实 encodes the transition of a claim, rumor, or accusation from unconfirmed to confirmed. The subject is typically a rumor, allegation, or suspicion; the predicate 坐实 marks its transition into established fact.
+**Example sentence:** 之前的传言终于坐实了。/ Zhīqián de chuányán zhōngyú zuòshí le. / "The earlier rumor has finally been confirmed as true."
+**Notes:** The aspect marker 了 marks the completion of the change-of-state. 坐实 is more colloquial and journalistic than 属实 and specifically encodes the dynamic of transition rather than a static confirmation. Documented in P1b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.4 原形毕露 — "True nature becomes fully exposed"
+
+**Form:** 原形毕露
+**Transliteration:** yuánxíng bì lù
+**Literal breakdown:** original-form + completely + exposed
+**English translation:** To show one's true colors; to be exposed for what one really is.
+**Structure:** 毕露 (completely exposed) encodes the change-of-state: a previously concealed true nature transitions into a fully revealed state. The subject is typically a person or institution whose true (negative) character had been hidden.
+**Example sentence:** 在证据面前，他终于原形毕露。/ Zài zhèngjù miànqián, tā zhōngyú yuánxíng bì lù. / "Faced with the evidence, he finally showed his true colors."
+**Notes:** The temporal adverb 终于 (finally) is a frequent collocate, as documented in P2b. The change is from concealment to exposure. Documented in P1, P2b, P3, P4a, and P5.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.5 真相不明 → 真相大白 — Transition along the epistemic scale
+
+**Form:** 真相不明 … 真相大白
+**Transliteration:** zhēnxiàng bù míng … zhēnxiàng dàbái
+**English translation:** From "the truth is unclear" to "the truth comes to light."
+**Structure:** P5 documents these as opposing endpoints on a scale of epistemic access to the facts. The transition between them is the core dynamic of the disclosure domain. No single fixed expression encodes the full transition; it is expressed through narrative sequence or through the causative constructions documented in section 3 below.
+**Notes:** Documented in P2b and P5 as a constructional opposition.
+**Epistemic status:** [CORE]
+
+---
+
+### 1.6 Periphrastic inchoative: 变得 + truth-domain adjective
+
+**Form:** 变得 + [truth-domain adjective]
+**Transliteration:** biàn de + [adjective]
+**English translation:** "become [adjective]"
+**Structure:** The general inchoative verb 变得 (to become, to turn) can combine with truth-domain adjectives in principle.
+**Example sentence:** 随着调查深入，情况变得更加清晰。/ Suízhe diàochá shēnrù, qíngkuàng biàn de gèngjiā qīngxī. / "As the investigation deepened, the situation became clearer."
+**Notes:** P4a and P4b report this construction as grammatically available but infrequent with truth-domain adjectives specifically, rating it [MARGINAL]. The domain strongly prefers lexicalized inchoative expressions (真相大白, 弄假成真, 坐实, 原形毕露) over periphrastic 变得 constructions. No attested example with a core truth-domain adjective (真实, 正确, 准确) was provided in the CONTEXT.
+**Epistemic status:** [MARGINAL]
+
+---
+
+### 1.7 No common inchoative for 诚实, 可靠, 准确, 正确
+
+For the adjectives 诚实 (honest), 可靠 (reliable), 准确 (accurate), and 正确 (correct), no common lexicalized inchoative expression is documented in the CONTEXT. The periphrastic frame 变得 + adjective is grammatically available but rated [MARGINAL] in P4b. No common expression identified for these items in the inchoative function.
+
+---
+
+## 2. X BECOMES [NON-TRUTH / OPPOSED STATE]
+
+This subsection covers expressions in which something transitions away from a truth-related state: facts become distorted, genuine items become counterfeited, honest persons become deceptive.
+
+---
+
+### 2.1 失实 — "A report deviates from the facts"
+
+**Form:** 失实
+**Transliteration:** shīshí
+**Literal breakdown:** lose/deviate from + reality/fact
+**English translation:** To become inaccurate; to deviate from the facts.
+**Structure:** The morpheme 失 (to lose, to deviate from) encodes the transition away from correspondence with fact. The subject is typically a report, account, or statement that was or should have been accurate.
+**Example sentence:** 由于信息不完整，这篇报道严重失实。/ Yóuyú xìnxī bù wánzhěng, zhè piān bàodào yánzhòng shīshí. / "Due to incomplete information, this report became seriously inaccurate."
+**Notes:** 失实 encodes the departure from factual accuracy as a resultant state. It contrasts directly with 如实 (accurately, as it actually is) and 属实 (confirmed as factual), as documented in P5. Documented in P1, P1b, P2b, P3, and P5.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.2 造假 — "Producing the fake state"
+
+**Form:** 造假
+**Transliteration:** zào jiǎ
+**Literal breakdown:** make/produce + fake/false
+**English translation:** To fabricate; to falsify; to create fakes.
+**Structure:** A verb-object compound in which 造 (to produce, to create) takes 假 (fake/false) as its object. The result is the transition of something from genuine or accurate to false or counterfeit.
+**Example sentence:** 数据造假的行为必须严肃处理。/ Shùjù zào jiǎ de xíngwéi bìxū yánsù chǔlǐ. / "The act of falsifying data must be dealt with seriously."
+**Notes:** 造假 encodes the creation of a false state as an agentive act. It is the productive verbal expression for the transition from genuine/accurate to fake/falsified across multiple domains (data, credentials, goods). Documented in P2b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.3 弄虚作假 — "Engaging in falsification"
+
+**Form:** 弄虚作假
+**Transliteration:** nòng xū zuò jiǎ
+**Literal breakdown:** manipulate + empty/hollow + do/make + false
+**English translation:** To engage in fraud and falsification; to cook the books.
+**Structure:** A fixed four-character expression describing the deliberate production of a false state. Both 弄虚 (to manipulate emptiness/hollowness) and 作假 (to make false) encode the transition from genuine to false as an agentive act.
+**Example sentence:** 严禁在统计工作中弄虚作假。/ Yánjìn zài tǒngjì gōngzuò zhōng nòng xū zuò jiǎ. / "Falsification and fraud in statistical work are strictly prohibited."
+**Notes:** Documented in P1b, P2b, P3, and P8. Strongly associated with administrative and political discourse about misconduct.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.4 歪曲事实 — "Facts become distorted"
+
+**Form:** 歪曲事实
+**Transliteration:** wāiqū shìshí
+**Literal breakdown:** distort/twist + facts
+**English translation:** To distort the facts; to misrepresent the facts.
+**Structure:** The verb 歪曲 (to distort, to twist) takes 事实 (facts) as its object, encoding the transition of facts from their actual state to a distorted representation. The agent performs the distortion; the facts undergo the change.
+**Example sentence:** 任何歪曲事实的行为都是不可接受的。/ Rènhé wāiqū shìshí de xíngwéi dōu shì bù kě jiēshòu de. / "Any act of distorting the facts is unacceptable."
+**Notes:** Documented in P2b and P3. Contrasts with 尊重事实 (to respect the facts) and 如实反映 (to reflect accurately).
+**Epistemic status:** [CORE]
+
+---
+
+### 2.5 捏造事实 — "Facts are fabricated from nothing"
+
+**Form:** 捏造事实
+**Transliteration:** niēzào shìshí
+**Literal breakdown:** fabricate/make up + facts
+**English translation:** To fabricate facts; to make up facts.
+**Structure:** The verb 捏造 (to fabricate, to invent) takes 事实 (facts) as its object, encoding the creation of a false factual state where no genuine fact exists. This is a stronger transition than 歪曲事实: rather than distorting existing facts, it creates false ones.
+**Example sentence:** 他被指控捏造事实，诽谤他人。/ Tā bèi zhǐkòng niēzào shìshí, fěibàng tārén. / "He was accused of fabricating facts and defaming others."
+**Notes:** Documented in P2b and P3. A standard phrase in Chinese defamation law.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.6 谎言重复一千遍就成了真理 — "A lie becomes truth through repetition"
+
+**Form:** 谎言重复一千遍就成了真理
+**Transliteration:** huǎngyán chóngfù yīqiān biàn jiù chéngle zhēnlǐ
+**Literal breakdown:** lie + repeat + one thousand + times + then + become + truth
+**English translation:** A lie repeated a thousand times becomes the truth.
+**Structure:** The morpheme 成了 (became) encodes the change-of-state: 谎言 (lie) transitions into 真理 (truth) through the mechanism of repetition. This is the inverse of the normal truth-domain dynamic: the false becomes accepted as true.
+**Example sentence:** 有人说谎言重复一千遍就成了真理，但事实终究会说话。/ Yǒurén shuō huǎngyán chóngfù yīqiān biàn jiù chéngle zhēnlǐ, dàn shìshí zhōngjiū huì shuōhuà. / "Some say a lie repeated a thousand times becomes the truth, but the facts will ultimately speak for themselves."
+**Notes:** Documented in P2b and P3. Used in critical discourse about propaganda and information manipulation. The construction presupposes the 谎言/真理 opposition documented in P5.
+**Epistemic status:** [CORE]
+
+---
+
+### 2.7 No common expression for honest person becoming dishonest
+
+For the transition of a person from 诚实 (honest) to 不诚实 (dishonest) or 虚伪 (hypocritical), no common lexicalized change-of-state expression is documented in the CONTEXT. The periphrastic frame 变得不诚实 (become dishonest) is grammatically available but not attested as a fixed expression. No common expression identified.
+
+---
+
+## 3. Y CAUSES X TO BE [TRUTH-RELATED STATE]
+
+This subsection covers expressions in which an agent or event brings about a truth-related state in another entity or situation.
+
+---
+
+### 3.1 使真相大白 — "Causing the truth to come to light"
+
+**Form:** 使/让 + 真相 + 大白
+**Transliteration:** shǐ / ràng + zhēnxiàng + dàbái
+**English translation:** To cause the truth to come to light; to bring the truth to light.
+**Structure:** The causative markers 使 (formal) and 让 (everyday) introduce the causer-agent; 真相大白 is the resultant state. Documented in P4a as the standard periphrastic causative frame in this domain.
+**Example sentence:** 这一调查使真相大白。/ Zhè yī diàochá shǐ zhēnxiàng dàbái. / "This investigation caused the truth to come to light."
+**Notes:** Documented in P4a and P4b as [CORE]. The causative meaning is also frequently encoded lexically in the verb itself (see 3.2–3.6 below), which is the more common pattern in this domain.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.2 揭露真相 — "Exposing the truth" (verb-internal causative)
+
+**Form:** 揭露真相
+**Transliteration:** jiēlù zhēnxiàng
+**Literal breakdown:** expose/unmask + true-appearance
+**English translation:** To expose the truth; to reveal the true facts.
+**Structure:** The verb 揭露 (to expose, to unmask) encodes the causative meaning internally: the agent-subject causes 真相 to transition from concealed to revealed. No separate causative marker is required.
+**Example sentence:** 记者冒着风险揭露了真相。/ Jìzhě màozhe fēngxiǎn jiēlùle zhēnxiàng. / "The journalist risked danger to expose the truth."
+**Notes:** Documented in P2b, P3, P4a, P4b, and P5 as one of the most frequent collocations in the domain. The aspect marker 了 marks completion of the causative event.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.3 揭示本质 — "Causing the essential nature to be revealed"
+
+**Form:** 揭示本质
+**Transliteration:** jiēshì běnzhì
+**Literal breakdown:** reveal/illuminate + essential-nature
+**English translation:** To reveal the essential nature; to expose what something truly is.
+**Structure:** The verb 揭示 (to reveal, to illuminate) encodes the causative meaning internally: the agent-subject causes 本质 (essential nature) to become apparent. Parallel in structure to 揭露真相 but applied to the underlying nature of a phenomenon rather than the facts of an event.
+**Example sentence:** 这篇文章深刻揭示了问题的本质。/ Zhè piān wénzhāng shēnkè jiēshìle wèntí de běnzhì. / "This article profoundly revealed the essential nature of the problem."
+**Notes:** Documented in P2b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.4 戳穿谎言 — "Causing a lie to be exposed"
+
+**Form:** 戳穿谎言
+**Transliteration:** chuōchuān huǎngyán
+**Literal breakdown:** pierce through/expose + lie
+**English translation:** To expose a lie; to puncture a falsehood.
+**Structure:** The verb 戳穿 (to pierce through, to expose) encodes the causative meaning internally: the agent-subject causes 谎言 (lie) to transition from accepted or unchallenged to exposed as false.
+**Example sentence:** 他用事实戳穿了对方的谎言。/ Tā yòng shìshí chuōchuānle duìfāng de huǎngyán. / "He used facts to expose the other party's lies."
+**Notes:** Documented in P2b and P3. The instrumental frame 用事实 (using facts) is a natural collocate, linking this causative expression to the broader discourse of facts vs. lies.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.5 核实 / 查实 — "Causing a claim to be confirmed as factual"
+
+**Form:** 核实 / 查实
+**Transliteration:** héshí / cháshí
+**Literal breakdown:** examine/verify + real/actual / investigate/check + real/actual
+**English translation:** To verify; to confirm through investigation.
+**Structure:** Both verbs encode the causative meaning internally: the agent-subject (investigator, journalist, official) causes a claim to transition into the state of being confirmed as factual (属实). The result state is 属实; the process is 核实 or 查实.
+**Example sentence:** 记者已核实了这一消息的真实性。/ Jìzhě yǐ héshíle zhè yī xiāoxi de zhēnshíxìng. / "The journalist has already verified the authenticity of this piece of news."
+**Notes:** Documented in P1b, P2b, and P3. The aspect marker 了 marks completion of the verification process.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.6 坐实 (agentive use) — "Causing a claim to be nailed down as fact"
+
+**Form:** [agent] + 坐实 + [claim]
+**Transliteration:** [agent] + zuòshí + [claim]
+**English translation:** To nail down [a claim] as fact; to definitively confirm [something] as true.
+**Structure:** In its agentive use, 坐实 takes an agent-subject who causes a claim or allegation to become established as fact. This is distinct from its intransitive use (documented in 1.3 above) where the claim itself is the subject.
+**Example sentence:** 这份证据坐实了他的罪行。/ Zhè fèn zhèngjù zuòshíle tā de zuìxíng. / "This piece of evidence nailed down his crime as fact."
+**Notes:** Documented in P1b. The aspect marker 了 marks completion.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.7 让…原形毕露 — "Causing someone to show their true colors"
+
+**Form:** 让 + NP + 原形毕露
+**Transliteration:** ràng + NP + yuánxíng bì lù
+**English translation:** To cause [someone/something] to show their true colors; to expose [someone] for what they really are.
+**Structure:** The causative marker 让 introduces the causer-agent; the NP is the entity whose true nature is exposed; 原形毕露 is the resultant state. Documented in P2b as a productive causative frame.
+**Example sentence:** 这场危机让他原形毕露。/ Zhè chǎng wēijī ràng tā yuánxíng bì lù. / "This crisis caused him to show his true colors."
+**Notes:** Documented in P2b and P4a.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.8 欺骗 — "Causing someone to hold a false belief"
+
+**Form:** [agent] + 欺骗 + [patient]
+**Transliteration:** [agent] + qīpiàn + [patient]
+**English translation:** To deceive [someone]; to cause [someone] to hold a false belief.
+**Structure:** The verb 欺骗 encodes the causative meaning internally: the agent-subject causes the patient to transition into a state of holding a false belief. The patient is typically expressed as a direct object (欺骗消费者, to deceive consumers) or in the passive-like frame 受到欺骗 (to be deceived).
+**Example sentence:** 他欺骗了所有人。/ Tā qīpiànle suǒyǒu rén. / "He deceived everyone."
+**Notes:** Documented in P1, P2a, P2b, P3, and P4a. The aspect marker 了 marks completion of the deceptive act.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.9 伪造 — "Causing a genuine item to have a false counterpart"
+
+**Form:** [agent] + 伪造 + [object]
+**Transliteration:** [agent] + wěizào + [object]
+**English translation:** To forge [a document]; to counterfeit [currency]; to fabricate [evidence].
+**Structure:** The verb 伪造 encodes the causative meaning internally: the agent-subject causes a false version of an object (document, signature, currency, evidence) to come into existence. The result is the existence of a 伪 (spurious) item.
+**Example sentence:** 他伪造了多份官方文件。/ Tā wěizàole duō fèn guānfāng wénjiàn. / "He forged multiple official documents."
+**Notes:** Documented in P1, P1b, P2a, P2b, P3, and P4a.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.10 散布虚假信息 — "Causing false information to spread"
+
+**Form:** 散布虚假信息
+**Transliteration:** sànbù xūjiǎ xìnxī
+**Literal breakdown:** spread/disseminate + false + information
+**English translation:** To spread false information; to disseminate misinformation.
+**Structure:** The verb 散布 (to spread, to disseminate) encodes the causative meaning: the agent-subject causes 虚假信息 (false information) to reach a wider audience, transitioning it from locally held to publicly circulating.
+**Example sentence:** 禁止在网络上散布虚假信息。/ Jìnzhǐ zài wǎngluò shàng sànbù xūjiǎ xìnxī. / "Spreading false information online is prohibited."
+**Notes:** Documented in P2b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+### 3.11 No common causative for 正确, 准确, 诚实
+
+For causing something to become 正确 (correct), 准确 (accurate), or a person to become 诚实 (honest), no common lexicalized causative expression is documented in the CONTEXT. The periphrastic frames 使…正确 or 让…诚实 are grammatically available but not attested as fixed expressions in the CONTEXT. No common expression identified for these items in the causative function.
+
+---
+
+## 4. STABILITY AND RESISTANCE TO CHANGE
+
+This subsection covers expressions that assert the stability or indestructibility of a truth-related state — that something genuine will remain genuine under scrutiny, or that truth cannot ultimately be suppressed.
+
+---
+
+### 4.1 真金不怕火炼 — "Genuine quality withstands any test"
+
+**Form:** 真金不怕火炼
+**Transliteration:** zhēnjīn bù pà huǒ liàn
+**Literal breakdown:** true/genuine + gold + not + fear + fire + smelt/test
+**English translation:** True gold fears no fire; genuine quality withstands any test.
+**Structure:** A proverb asserting that what is genuinely true or good will not be changed or destroyed by scrutiny or adversity. The negation 不怕 (does not fear) encodes resistance to the change-of-state that fire (scrutiny, adversity) would otherwise cause.
+**Example sentence:** 真金不怕火炼，清白的人不怕调查。/ Zhēnjīn bù pà huǒ liàn, qīngbái de rén bù pà diàochá. / "True gold fears no fire — an innocent person has nothing to fear from investigation."
+**Notes:** Documented in P1b and P5. Encodes the stability of genuine quality against attempts to change or undermine it.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.2 谎言终究掩盖不了真相 — "Lies cannot ultimately suppress the truth"
+
+**Form:** 谎言终究掩盖不了真相
+**Transliteration:** huǎngyán zhōngjiū yǎngài bù liǎo zhēnxiàng
+**Literal breakdown:** lie + ultimately + cover-up + cannot succeed + true-appearance
+**English translation:** Lies cannot ultimately cover up the truth.
+**Structure:** The potential complement 不了 (cannot succeed in) with 掩盖 (to cover up) encodes the failure of the change-of-state: despite the attempt to suppress 真相, the truth resists being permanently concealed. The adverb 终究 (ultimately, in the end) emphasizes that this resistance is final.
+**Example sentence:** 谎言终究掩盖不了真相，事实迟早会浮出水面。/ Huǎngyán zhōngjiū yǎngài bù liǎo zhēnxiàng, shìshí chízǎo huì fúchū shuǐmiàn. / "Lies cannot ultimately cover up the truth — the facts will surface sooner or later."
+**Notes:** Documented in P2b and P3. Encodes the stability of 真相 against the causative action of 谎言 (lies attempting to suppress it).
+**Epistemic status:** [CORE]
+
+---
+
+### 4.3 事实胜于雄辩 — "Facts are stable against rhetorical challenge"
+
+**Form:** 事实胜于雄辩
+**Transliteration:** shìshí shèng yú xióngbiàn
+**Literal breakdown:** facts + surpass/overcome + eloquence/rhetoric
+**English translation:** Facts speak louder than eloquence; actions speak louder than words.
+**Structure:** The verb 胜于 (to surpass, to overcome) encodes the stability of 事实 (facts) against the competing force of 雄辩 (eloquent argument). Facts are not changed or undermined by rhetoric; they prevail over it.
+**Example sentence:** 事实胜于雄辩，数据已经说明了一切。/ Shìshí shèng yú xióngbiàn, shùjù yǐjīng shuōmíngle yīqiē. / "Facts speak louder than eloquence — the data has already said everything."
+**Notes:** Documented in P2b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+### 4.4 真理越辩越明 — "Truth becomes clearer, not less stable, through debate"
+
+**Form:** 真理越辩越明
+**Transliteration:** zhēnlǐ yuè biàn yuè míng
+**Literal breakdown:** truth + the more + debate + the more + clear
+**English translation:** The more truth is debated, the clearer it becomes; truth emerges through argument.
+**Structure:** The correlative frame 越…越… (the more…the more…) encodes a positive relationship between debate and clarity: rather than being destabilized by challenge, 真理 (truth) becomes more clearly established through it. This is a stability claim: truth is not undermined by scrutiny but confirmed by it.
+**Example sentence:** 真理越辩越明，我们不应回避争论。/ Zhēnlǐ yuè biàn yuè míng, wǒmen bù yīng huíbì zhēnglùn. / "Truth becomes clearer through debate — we should not avoid argument."
+**Notes:** Documented in P2b and P3.
+**Epistemic status:** [CORE]
+
+---
+
+## 5. SUMMARY OF PATTERNS
+
+The following structural observations are supported by the data documented above.
+
+**5.1 Lexicalized inchoatives are strongly preferred over periphrastic ones.** The domain has a rich inventory of fixed expressions encoding change-of-state (真相大白, 弄假成真, 坐实, 原形毕露), and these are consistently preferred over the periphrastic 变得 + adjective frame, which is rated [MARGINAL] in P4b.
+
+**5.2 Causative meaning is predominantly encoded lexically in the verb.** Verbs such as 揭露, 揭示, 戳穿, 核实, 查实, 欺骗, 伪造, and 散布 encode the causative relationship internally, without requiring a separate causative marker. The periphrastic causatives 使 and 让 are available and attested (使真相大白, 让…原形毕露) but are secondary to verb-internal causation in this domain.
+
+**5.3 The domain has a structural asymmetry between disclosure and concealment.** There is a rich inventory of expressions for causing truth to be revealed (揭露真相, 揭示本质, 戳穿谎言, 核实, 查实, 坐实, 让…原形毕露) and for causing truth to be suppressed (掩盖真相, 隐瞒真相, 歪曲事实, 捏造事实, 散布虚假信息, 弄虚作假, 造假). Both directions are well-represented.
+
+**5.4 Stability expressions assert that truth resists suppression.** The expressions documented in section 4 (真金不怕火炼, 谎言终究掩盖不了真相, 事实胜于雄辩, 真理越辩越明) all encode the same underlying claim: genuine truth-related states are stable and will ultimately prevail against attempts to change, suppress, or undermine them.
+
+**5.5 No common dynamic expressions exist for several truth-domain adjectives.** For 诚实 (honest), 可靠 (reliable), 准确 (accurate), and 正确 (correct) in the inchoative and causative functions, no common lexicalized expressions are documented in the CONTEXT. These adjectives participate in static attribution and negation (documented in P4a and P4b) but not in the dynamic expressions that characterize 真相, 事实, 谎言, 真理, and the 真/假 contrast.
+
+---
+
+*End of P6 Change, Causation, and Stability output.*

@@ -1,0 +1,53 @@
+# CLCA 3.1 dependency graph for truth-domain prompts
+
+[P1_vocab]
+depends_on = []
+
+[P1b_root_expansion]
+depends_on = ["P1_vocab"]
+
+[P2a_derivational_system]
+depends_on = ["P1_vocab", "P1b_root_expansion"]
+
+[P2b_light_verb_constructions]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system"]
+
+[P3_semantic_groups]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions"]
+
+[P4a_CONSTRUCTIONS]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups"]
+
+[P4b_construction_behavior]
+depends_on = ["P4a_CONSTRUCTIONS"]
+
+[I1_construction_equivalence]
+depends_on = ["P4a_CONSTRUCTIONS", "P4b_construction_behavior"]
+
+[P5_oppositions]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups", "P4a_CONSTRUCTIONS", "P4b_construction_behavior", "I1_construction_equivalence"]
+
+[P6_naturalness]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups", "P4a_CONSTRUCTIONS", "P4b_construction_behavior", "I1_construction_equivalence", "P5_oppositions"]
+
+[F1_vocab_table]
+depends_on = ["P1_vocab", "P1b_root_expansion"]
+
+[F2a_derivation_table]
+depends_on = ["P2a_derivational_system"]
+
+[F2b_constructions_table]
+depends_on = ["P2b_light_verb_constructions"]
+
+[F3_semantic_groups_table]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups"]
+
+[F4_construction_table]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups", "P4a_CONSTRUCTIONS", "P4b_construction_behavior", "I1_construction_equivalence"]
+
+[F5_opposition_table]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups", "P4a_CONSTRUCTIONS", "P4b_construction_behavior", "I1_construction_equivalence", "P5_oppositions"]
+
+[F6_naturalness_table]
+depends_on = ["P1_vocab", "P1b_root_expansion", "P2a_derivational_system", "P2b_light_verb_constructions", "P3_semantic_groups", "P4a_CONSTRUCTIONS", "P4b_construction_behavior", "I1_construction_equivalence", "P5_oppositions", "P6_naturalness"]
+

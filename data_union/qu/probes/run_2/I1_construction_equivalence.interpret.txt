@@ -1,0 +1,106 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Quechua (qu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Attribution (P4a §1): predicate adjective + evidential *-m/-mi*; Negative Attribution (P4a §2): *mana* + predicate + *-chu* | *Cheqam* ("It is true"); *Llullam* ("It is a lie"); *Manan cheqachu* ("It is not true") | Direct mapping; positive and negative poles both attested | None |
+| **ADNOM** | Adnominal modification (P4a §3): invariant adjective preceding head noun | *Cheqa runa* ("upright person"); *Llulla simi* ("false speech") | Direct mapping; no agreement morphology; same root serves both ATTR and ADNOM without morphological change | None |
+| **BECOME** | Inchoative derivation (P4a §4): root + *-ya* + *-y*; root + *-ka* + *-y* | *Allinyay* ("to become correct"); *Cheqakayta* ("the being true", nominalized) | Direct mapping for *allin* root; *cheqa* root uses *-ka* rather than *-ya*; no inchoative form of *llulla* attested | Asymmetric gap: *llulla* inchoative absent |
+| **REVELATION** | Not attested as a distinct construction in P4a/P4b | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | Causative derivation (P4a §5): root + *-chi*/*-cha* + *-y* | *Cheqachiy* ("to verify / to confirm / to prove") | Partially maps; *cheqachiy* covers verification/confirmation of facts; see also VERIFICATION row below | Overlap with VERIFICATION; no clean separation in attested data |
+| **CAUSATION (character)** | Causative derivation (P4a §5): root + *-chi* + *-y* | *Llullachiy* ("to deceive / to cause to lie / to mislead") | Direct mapping; causative on *llulla* root yields character-directed deception | None |
+| **VERIFICATION** | Causative derivation (P4a §5): *cheqachiy*; Ability periphrasis (P4a §9): *cheqachiy atiy* / *manan cheqachiyta atinichu* | *Cheqachiy* ("to verify / to confirm"); *Manan cheqachiyta atinichu* ("I cannot verify it") | **SUBSTITUTED BY CAUSATION**: *cheqachiy* (causative of *cheqa*) serves as the primary verification verb; no dedicated non-causative verification construction attested | Lexical gap: no independent verification root; function carried by causative |
+| **DISCONFIRMATION** | Negative Attribution (P4a §2): *mana...chu* frame; no dedicated disconfirmation verb attested | *Manan cheqachu* ("It is not true"); *Manan llullachu* ("It is not false") | **SUBSTITUTED BY NEGATION**: disconfirmation is expressed through the standard negation frame applied to truth predicates; no dedicated disconfirmation construction distinct from negation is attested | Lexical gap: no dedicated disconfirmation verb |
+| **NEGATION** | Analytic negation frame (P4a §2): *mana* + predicate + *-chu*; evidential *-n* optionally on *mana* | *Manan cheqachu*; *Manan llullachu* | Direct mapping; negation is **analytic** (discontinuous frame *mana...chu*) rather than morphological (no single negative morpheme on the predicate itself) | None |
+| **NOMINALIZATION** | Possessed abstract nominal (P4a §6): root + *-n*; Verbal nominalization (P4a §6): root + *-ka* + *-y* + *-ta*; Agentive nominalization (P4a §7): root + *-q*; root + *-ku* + *-q* | *Cheqan* ("the truth"); *Cheqakayta* ("the being true"); *Llullaq* ("liar"); *Llullakuq* ("habitual liar") | Multiple nominalization strategies attested; abstract nominal (*cheqan*) is primary for "truth"; no parallel abstract nominal for *llulla* attested | Asymmetric gap: abstract nominal for "falsehood" absent |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 VERIFICATION is carried by the CAUSATION construction
+
+No dedicated verification root or construction is attested in the P4a/P4b data. The function of verifying or confirming a factual claim is expressed by *cheqachiy*, which is morphologically a causative derivation of *cheqa* (root + *-chi* + *-y*). The same form is glossed in P4a as "to verify / to confirm / to prove / to correct," indicating that a single causative form covers the full range of what CLCA separates as CAUSATION (factual) and VERIFICATION. The ability periphrasis (*cheqachiy atiy*, *manan cheqachiyta atinichu*) extends this same causative stem into modal contexts, confirming that *cheqachiy* is the operative form for verification across construction types. There is no evidence in the data of a separate, non-causative lexical item dedicated to verification.
+
+### 2.2 DISCONFIRMATION is carried by the NEGATION construction
+
+No dedicated disconfirmation verb or construction is attested. The function of disconfirming a claim is expressed through the standard analytic negation frame *mana...chu* applied to truth predicates: *manan cheqachu* ("it is not true"). This is the same construction used for general predicate negation (P4a §2). The data do not attest a form meaning "to disprove" or "to refute" as a distinct lexical or morphological item. Disconfirmation is therefore expressed by the same operator as general negation, with no formal distinction between "it is not true" (simple denial) and "it has been shown to be false" (disconfirmation after investigation).
+
+### 2.3 REVELATION is absent; BECOME is partially available
+
+The P4a/P4b data contain no construction corresponding to REVELATION (a state of affairs coming to light, being discovered, or being revealed as true). The BECOME category is partially attested: *allinyay* (inchoative of *allin*) is rated [CORE], and *cheqakayta* (nominalized stative of *cheqa*) is rated [MARGINAL] and restricted to object position of epistemic verbs. There is no evidence that REVELATION substitutes for BECOME; the two categories are simply not conflated in the data. REVELATION appears to be a structural gap rather than a substituted category.
+
+### 2.4 Asymmetry between *cheqa* and *llulla* across construction types
+
+A consistent asymmetry runs across multiple construction categories:
+
+- **BECOME / INCHOATIVE**: An inchoative form of *llulla* is explicitly noted as unattested in P4a. *Allinyay* and *cheqakayta* are attested; no *llullayay* or equivalent is reported.
+- **ABSTRACT NOMINALIZATION**: *Cheqan* ("the truth") is attested as a primary abstract nominal with free case inflection. No parallel abstract nominal for *llulla* ("falsehood" as an abstract noun) is attested; P4a explicitly states that the concept is expressed through the bare adjective or verbal nominalizations.
+- **AGENTIVE NOMINALIZATION**: *Llullaq* is primarily a person-characterization ("liar"); *cheqaq* is primarily an adjective ("genuine, authentic") rather than a person-characterization. This asymmetry is explicitly noted in P4a as present in the attested data.
+
+These asymmetries are consistent across three separate construction types and appear to reflect a systematic difference in how the *cheqa* and *llulla* roots participate in derivational morphology, not isolated gaps.
+
+### 2.5 NEGATION is analytic, not morphological
+
+The negation construction is a discontinuous frame: *mana* (negator, sentence-initial) + predicate + *-chu* (negative suffix on the predicate). Neither element alone constitutes the negation; both are required. This is described in P4a as the standard Quechua negation pattern for predicates. The evidential *-n* on *mana* is described as optional. This pattern applies uniformly to truth-domain predicates and is not a specialized construction for this domain.
+
+### 2.6 CAUSATION (factual) and VERIFICATION share a single form
+
+As noted in §2.1, *cheqachiy* is the attested form for both "to prove/confirm (a fact)" and "to verify (a claim)." The P4a gloss lists these meanings together without distinguishing them as separate senses. The data do not provide evidence for separating these two CLCA operators in Quechua; they are expressed by a single morphologically derived form.
+
+### 2.7 Deontic and ability periphrases are domain-general constructions applied to truth-domain verbs
+
+The deontic periphrasis (*-na* + possessive + *tiyan*) and the ability periphrasis (*infinitive-ta atiy*) are described in P4a as general Quechua constructions, not truth-domain-specific forms. Their attestation in legal and testimonial contexts with truth-evaluation verbs (*cheqanta rimanayki tiyan*, *manan cheqachiyta atinichu*) reflects the application of general modal constructions to this domain rather than the existence of specialized truth-domain modal operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+*(The category has no attested construction of any kind in the data)*
+
+- **REVELATION**: No construction corresponding to a state of affairs being revealed, coming to light, or being discovered as true is attested in P4a or P4b. This is a structural gap; there is no evidence of substitution by another operator.
+
+### 3.2 Lexical Gaps
+*(The grammatical construction type exists, but no dedicated lexical item fills it)*
+
+- **VERIFICATION as a distinct operator**: The verification function is lexically absent as an independent root. It is carried by the causative derivation *cheqachiy*. The gap is lexical: the construction type (transitive verb) exists, but no dedicated non-causative verification verb is attested.
+- **DISCONFIRMATION as a distinct operator**: No dedicated disconfirmation verb is attested. The function is expressed through the general negation frame. The gap is lexical: the negation construction exists, but no dedicated "disprove / refute" verb is attested.
+- **Abstract nominal for "falsehood"**: No abstract nominal parallel to *cheqan* ("the truth") is attested for *llulla*. The possessed nominal construction (root + *-n*) exists and is productive (as shown by *cheqan*), but no *llullan* or equivalent abstract nominal for "falsehood" is reported in the data.
+
+### 3.3 Conceptual Gaps
+*(No evidence of the concept being expressed by any means in the data)*
+
+- None can be confirmed from the data. All CLCA operators except REVELATION have some form of expression attested, even if through substitution or circumlocution. REVELATION is absent, but the data do not address whether the concept is expressible by other means not covered in P4a/P4b; it is therefore classified as a structural gap rather than a confirmed conceptual gap.
+
+### 3.4 Asymmetric Gaps
+*(One pole of a paired opposition is missing or degraded)*
+
+- **BECOME / INCHOATIVE — *llulla* pole absent**: *Allinyay* (inchoative of *allin*) is [CORE]; *cheqakayta* (stative nominalization of *cheqa*) is [MARGINAL]. No inchoative form of *llulla* is attested. The inchoative construction type exists; the gap is specific to the *llulla* root.
+- **ABSTRACT NOMINALIZATION — *llulla* pole absent**: *Cheqan* is [CORE] as an abstract nominal. No parallel abstract nominal for *llulla* is attested. The possessed nominal construction exists; the gap is specific to the *llulla* root.
+- **AGENTIVE NOMINALIZATION — functional asymmetry**: *Llullaq* functions primarily as a person-characterization ("liar"); *cheqaq* functions primarily as an adjective ("genuine"). Both forms are attested; the gap is functional rather than formal. The agentive construction is available for both roots, but the two roots occupy different functional positions within it.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Both positive (*cheqam*, *llullam*) and negative (*manan cheqachu*, *manan llullachu*) poles attested as [CORE]. Evidential clitic *-m/-mi* is obligatory for assertive force. |
+| **ADNOM** | **Fully available** | Prenominal invariant adjective construction attested as [CORE] for both *cheqa* and *llulla* roots. Same root form serves both ATTR and ADNOM. |
+| **BECOME** | **Partially available** | *Allinyay* [CORE]; *cheqakayta* [MARGINAL, restricted to object position of epistemic verbs]. No inchoative form of *llulla* attested. Asymmetric across roots. |
+| **REVELATION** | **Missing entirely** | No attested construction. No substitution by another operator reported in the data. |
+| **CAUSATION (factual)** | **Available with substitution** | Expressed by *cheqachiy* (causative derivation); this form is shared with VERIFICATION. No dedicated factual-causation construction distinct from the causative is attested. |
+| **CAUSATION (character)** | **Fully available** | *Llullachiy* ("to deceive") attested as [CORE]; causative-reflexive *llullachikuy* also attested. |
+| **VERIFICATION** | **Available with substitution** | **Substituted by CAUSATION**: *cheqachiy* serves as the verification verb. Ability periphrasis (*cheqachiy atiy*, *manan cheqachiyta atinichu*) extends this into modal contexts. No dedicated non-causative verification root attested. |
+| **DISCONFIRMATION** | **Available with substitution** | **Substituted by NEGATION**: *manan cheqachu* expresses disconfirmation through the standard analytic negation frame. No dedicated disconfirmation verb attested. |
+| **NEGATION** | **Fully available** | Analytic discontinuous frame *mana...chu* attested as [CORE] for both truth and falsity predicates. Negation is analytic, not morphological. |
+| **NOMINALIZATION** | **Partially available** | Multiple strategies attested: possessed abstract nominal (*cheqan* [CORE]), verbal nominalization (*cheqakayta* [MARGINAL]), agentive nominal (*llullaq* [CORE], *llullakuq* [CORE]). Abstract nominal for "falsehood" absent; agentive forms show functional asymmetry between *cheqa* and *llulla* roots. |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — Quechua (qu)*

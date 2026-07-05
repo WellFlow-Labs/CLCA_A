@@ -1,0 +1,367 @@
+# G2 — CROSS-LANGUAGE LEXICAL PARTITION COMPARISON
+
+## Comparison Table
+
+| Language | Main Lexical Groupings | Representative Terms | Overlaps / Mergers | Gaps / Missing Contrasts | Notes |
+|----------|------------------------|----------------------|--------------------|--------------------------|-------|
+| **zh (Chinese)** | 1. Object/material authenticity (真 zhēn)<br>2. Factual substantiality (实 shí)<br>3. Normative correctness (正 zhèng)<br>4. Personal sincerity (诚 chéng)<br>5. Binary correctness (对/错 duì/cuò) | 真品/假货 (genuine/fake goods)<br>事实/虚假 (facts/falsehood)<br>正确/错误 (correct/incorrect)<br>诚实/欺骗 (honest/deceive)<br>对/错 (right/wrong answers) | 真 spans authenticity and factual truth in compounds (真实)<br>实 spans substantiality and practical implementation<br>正 spans correctness and spatial/temporal precision | No single dedicated term for "liar" as agentive noun (uses 说谎的人 circumlocution)<br>No simple inchoative "become true" (uses 变成现实 "become reality") | Four-way root distinction creates fine-grained semantic space; extensive compounding allows overlap management |
+| **he (Hebrew)** | 1. Truth/reliability/faith cluster (א-מ-נ root: אמת/אמין/נאמן/אמונה)<br>2. Justice/rightness (צ-ד-ק root: צדק/צודק/מוצדק)<br>3. Falsehood (ש-ק-ר root: שקר/שקרן/ψευδορκία) | אמת emet (truth)<br>אמין amin (reliable)<br>נאמן ne'eman (faithful)<br>צדק tsedek (justice)<br>שקר sheker (falsehood) | Single root א-מ-נ covers truth, reliability, faithfulness, and belief—major semantic merger<br>צדק conflates justice and factual rightness | No clear authenticity-specific term (uses אמיתי from truth root)<br>Limited pseudo-X productivity (no equivalent to Greek ψευδ- compounds) | Root system creates semantic families; single root spans multiple domains that other languages separate |
+| **sa (Sanskrit)** | 1. Ontological being/reality (सत्/असत् sat/asat)<br>2. Epistemological validity (प्रमाण/भ्रम pramāṇa/bhrama)<br>3. Conventional vs. ultimate truth (व्यवहार/परमार्थ)<br>4. Moral righteousness (धर्म/अधर्म dharma/adharma) | सत्य satya (truth/being)<br>प्रमाण pramāṇa (valid means)<br>मिथ्या mithyā (false/illusory)<br>व्यवहार vyavahāra (conventional)<br>परमार्थ paramārtha (ultimate) | सत्य conflates ontological reality and propositional truth<br>मिथ्या spans epistemological error and metaphysical illusion | No dedicated material authenticity term (uses सत्य/यथार्थ)<br>No simple causative "make true" (uses prove/establish verbs) | Philosophical vocabulary creates ontology/epistemology/metaphysics distinctions absent in other languages |
+| **el (Greek)** | 1. Propositional truth (αλήθεια alítheia)<br>2. Material authenticity (γνήσιος/αυθεντικός gnísios/afthentikós)<br>3. Correctness (σωστός/ορθός sostós/orthós)<br>4. Pseudo-X categories (ψευδ- pseud- compounds)<br>5. Justice (δίκαιος díkaios) | αλήθεια (truth)<br>γνήσιος (genuine)<br>ψευδής (false)<br>ορθός (correct/straight)<br>δίκαιος (just) | ορθός spans correctness, orthodoxy, and technical domains (orthopedics)<br>ψευδ- extremely productive for critical/polemical terms | No single term conflating truth and justice (separate: αλήθεια vs. δικαιοσύνη)<br>Limited epistemological vocabulary compared to Sanskrit | Unique pseudo-X productivity; clear separation of truth and justice domains |
+| **en (English)** | 1. Propositional truth (true)<br>2. Ontological reality (real)<br>3. Material authenticity (genuine/authentic)<br>4. Correctness (correct/right)<br>5. Moral rightness (right/honest) | true/false<br>real/unreal<br>genuine/fake<br>correct/incorrect<br>right/wrong | true spans propositions and authentic instances ("true friend")<br>right highly polysemous across epistemic, moral, practical domains<br>real spans existence and authenticity | No morphological causative for truth-domain (uses verify/prove/falsify from different roots)<br>Suppletive liar (not *falser) | Multiple near-synonyms with partial overlap; extensive phrasal verb development |
+| **tl (Tagalog)** | 1. Factual truth (totoo)<br>2. Genuineness/authenticity (tunay)<br>3. Correctness (tama)<br>4. Error (mali)<br>5. Deception (sinungaling/kasinungalingan) | totoo/kasinungalingan<br>tunay/peke<br>tama/mali<br>magsinungaling | totoo and tunay overlap in some contexts but maintain distinct cores<br>tama extends to "enough, stop" (tama na) | No dedicated term for "liar" as simple noun (uses sinungaling which is also adjective)<br>Limited epistemological vocabulary | Clear totoo/tunay distinction parallels Chinese 真/实 but with different distributions |
+| **sw (Swahili)** | 1. Truth (kweli/ukweli)<br>2. Correctness (sahihi)<br>3. Genuineness (halisi)<br>4. Falsehood (uongo)<br>5. Rights/justice (haki) | kweli/uongo<br>sahihi/makosa<br>halisi/bandia<br>haki | haki conflates rights/justice/truth (from Arabic ḥaqq)<br>kweli used broadly across domains | No clear epistemological validity vocabulary (no pramāṇa equivalent)<br>Limited pseudo-X productivity | Heavy Arabic influence in formal/legal register; associative constructions dominant for modification |
+| **qu (Quechua)** | 1. Truth/reality/genuineness (chiqan)<br>2. Falsehood/deception (llulla)<br>3. General positive evaluation (allin)<br>4. Error (pantay)<br>5. Completeness (hunt'a) | chiqan/llulla<br>allin/mana allin<br>pantay/pantasqa<br>hunt'a/ch'ulla | chiqan covers truth, reality, and genuineness without clear internal distinction<br>allin extremely broad positive evaluation term | No dedicated material authenticity term separate from chiqan<br>No epistemological validity vocabulary<br>No justice-specific term (uses allin or Spanish préstamos) | Single chiqan/llulla opposition covers most truth/falsity domain; case system creates rich constructional possibilities |
+
+## Narrative Analysis
+
+### Recurring Partition Patterns
+
+**1. Propositional Truth versus Material Authenticity**
+
+Six of eight languages show clear lexical or constructional distinctions between propositional truth (whether statements correspond to facts) and material authenticity (whether objects are genuine):
+
+- **Chinese**: 实 (shí) for factual correspondence versus 真 (zhēn) for material authenticity, though both combine in 真实 (zhēnshí)
+- **Greek**: αλήθεια (alítheia) for propositional truth versus γνήσιος (gnísios)/αυθεντικός (afthentikós) for material genuineness
+- **English**: true for propositions versus genuine/authentic for objects
+- **Tagalog**: totoo for factual truth versus tunay for genuineness/authenticity
+- **Swahili**: kweli/ukweli for truth versus halisi for genuineness
+
+**Exceptions**: 
+- **Sanskrit** and **Quechua** show less clear lexical separation. Sanskrit सत्य (satya) and Quechua chiqan both span propositional and material domains without dedicated separate terms.
+- **Hebrew** uses אמיתי (amiti) derived from the truth root for both domains.
+
+This suggests a common semantic pressure to distinguish "statements matching facts" from "objects being genuine," but languages vary in whether this is lexicalized or handled constructionally.
+
+**2. Correctness versus Error**
+
+All eight languages show dedicated vocabulary for correctness and error, but with varying degrees of semantic specificity:
+
+- **Binary correctness terms**: Chinese 对/错 (duì/cuò), Hebrew נכון/לא נכון (nakhon/lo nakhon), English right/wrong, Tagalog tama/mali, Swahili sahihi/makosa, Quechua allin/pantay
+- **Precision/accuracy terms**: Chinese 准确 (zhǔnquè), Hebrew מדויק (meduyak), Greek ακριβής (akrivís), English accurate, Swahili madhubuti
+
+**Notable pattern**: Most languages distinguish simple binary correctness (right/wrong answers) from gradable precision/accuracy. Chinese, Hebrew, Greek, and English show this most clearly through separate lexemes. Tagalog, Swahili, and Quechua show less elaboration in the precision domain.
+
+**3. Honesty/Sincerity versus Deception**
+
+All languages distinguish honest/sincere persons or speech from deceptive behavior, but through different lexical strategies:
+
+- **Dedicated sincerity terms**: Chinese 诚 (chéng), Hebrew כנה (kene)/ειλικρινής (eilikrinís), Greek ειλικρινής (eilikrinís), English honest/sincere, Tagalog tapat, Swahili (uses halisi or Arabic sinsero)
+- **Deception terms**: All languages have productive deception vocabulary (Chinese 欺骗, Hebrew רמאות, Sanskrit मिथ्या, Greek απατηλός, English deceive, Tagalog daya/linlang, Swahili -danganya, Quechua llullachiy)
+
+**Asymmetry**: Several languages show richer vocabulary for deception and lying than for honesty. English has liar (suppletive) but no simple truth-teller. Greek has ψεύτης (pséftis) but no equivalent single-word truth-teller. This suggests negative moral evaluation may drive lexicalization more than positive.
+
+### Fine-Grained Distinctions (Language-Specific Elaborations)
+
+**1. Chinese Four-Way Root System**
+
+Chinese uniquely elaborates the truth domain through four major roots with specialized distributions:
+
+- **真 (zhēn)**: Authenticity of objects, genuineness of instances ("true friend"), material verification
+- **实 (shí)**: Factual substantiality, practical implementation, concrete reality versus empty show
+- **正 (zhèng)**: Normative correctness, orthodoxy, spatial/temporal precision
+- **诚 (chéng)**: Personal sincerity, honesty in conduct
+
+This creates distinctions not lexicalized elsewhere. For example, the 实/虚 (shí/xū) opposition (substantial versus empty/hollow) has no clear equivalent in other languages, though Quechua hunt'a/ch'usaq (full/empty) shows some parallel.
+
+**2. Sanskrit Epistemological Elaboration**
+
+Sanskrit uniquely develops extensive epistemological vocabulary distinguishing:
+
+- **Valid knowledge sources** (प्रमाण pramāṇa): perception, inference, testimony, comparison
+- **Valid versus erroneous cognition** (प्रमा/भ्रम pramā/bhrama)
+- **Conventional versus ultimate truth** (व्यवहार/परमार्थ vyavahāra/paramārtha)
+- **Knowledge versus ignorance** (विद्या/अविद्या vidyā/avidyā) in soteriological contexts
+
+No other language shows comparable elaboration of epistemological categories. Greek shows some philosophical vocabulary (epistemic terms) but not the systematic pramāṇa-śāstra framework. This reflects Sanskrit's role as a philosophical metalanguage.
+
+**3. Greek Pseudo-X Productivity**
+
+Greek uniquely shows extensive ψευδ- (pseud-) compounding for creating critical/polemical terms:
+
+- **Academic/intellectual**: ψευδοεπιστήμη (pseudoscience), ψευδοφιλόσοφος (pseudo-philosopher), ψευδοδιανοούμενος (pseudo-intellectual)
+- **Political**: ψευδοδημοκρατία (pseudo-democracy), ψευδοπατριωτισμός (false patriotism)
+- **Media**: ψευδοπληροφορία (misinformation), ψευδοείδηση (fake news)
+
+English has borrowed pseudo- but shows much less productivity. Other languages lack equivalent productive patterns for "false pretenders to categories." This may reflect Greek's role in academic and critical discourse.
+
+**4. Hebrew Root Polysemy**
+
+Hebrew shows unique conflation within the א-מ-נ (ʾ-m-n) root family:
+
+- **אמת (emet)**: Truth, factual accuracy
+- **אמין (amin)**: Reliable, trustworthy
+- **נאמן (ne'eman)**: Faithful, loyal
+- **אמונה (emuna)**: Faith, belief, trust
+
+This represents a major semantic merger: truth, reliability, faithfulness, and belief are treated as a single conceptual family. Other languages separate these more clearly (though Swahili haki shows some parallel conflation of truth/justice/rights).
+
+### Mergers and Conflations
+
+**1. Truth-Justice Conflation**
+
+Two languages show significant conflation of truth/correctness with justice/rights:
+
+- **Hebrew צדק (tsedek)**: Covers both "being right/correct" in arguments and "justice/righteousness" in moral/legal domains
+- **Swahili haki** (from Arabic ḥaqq): Covers "right/truth" and "rights/justice/entitlement"
+
+Other languages maintain clearer separation:
+- Chinese has separate 正义 (zhèngyì) for justice versus 正确 (zhèngquè) for correctness
+- Greek has separate δικαιοσύνη (dikaiosýni) for justice versus αλήθεια (alítheia) for truth
+- English separates justice/fairness from truth/correctness
+
+This suggests Hebrew and Swahili (via Arabic influence) conceptually link factual correctness with moral/legal rightness more tightly than other languages.
+
+**2. Authenticity-Truth Merger**
+
+Sanskrit and Quechua show less clear lexical separation between propositional truth and material authenticity:
+
+- **Sanskrit सत्य (satya)**: Used for both "true statements" and "genuine objects/persons"
+- **Quechua chiqan**: Covers "true statements," "genuine objects," and "authentic persons" without internal lexical distinction
+
+This contrasts with the six languages that maintain separate terms (Chinese 真/实, Hebrew אמת/אמיתי, Greek αλήθεια/γνήσιος, English true/genuine, Tagalog totoo/tunay, Swahili kweli/halisi).
+
+**3. Correctness Polysemy**
+
+Several languages show single terms spanning multiple correctness domains:
+
+- **English right**: Epistemic correctness (right answer), moral rightness (right action), practical appropriateness (right tool)
+- **Quechua allin**: Good, well, correct across moral, practical, and epistemic domains
+- **Chinese 正 (zhèng)**: Correctness, orthodoxy, spatial precision, temporal exactness
+
+Other languages maintain clearer separations through multiple terms (Greek σωστός for factual correctness versus δίκαιος for moral rightness).
+
+### Gaps and Missing Contrasts
+
+**1. Agentive Nominalization Asymmetries**
+
+Most languages show productive agentive formation for "liar" but gaps for "truth-teller":
+
+- **Productive for liar**: Hebrew שקרן (shakran), Sanskrit मिथ्यावादिन् (mithyāvādin), Greek ψεύτης (pséftis), Tagalog sinungaling, Swahili mwongo, Quechua llullakuq
+- **Gaps for truth-teller**: English (compound truth-teller, not *truther), Chinese (circumlocution 说真话的人), Hebrew (participial circumlocution), Tagalog (no dedicated form), Swahili (possessive mwenye ukweli), Quechua (compound chiqan rimaq)
+
+Only Sanskrit shows productive agentive for both poles (सत्यवादिन् satyavādin "truth-speaker" and मिथ्यावादिन् mithyāvādin "liar").
+
+This asymmetry suggests negative moral evaluation (lying) drives lexicalization more strongly than positive evaluation (truth-telling) across languages.
+
+**2. Epistemological Validity Vocabulary**
+
+Sanskrit uniquely elaborates epistemological validity:
+
+- **Dedicated terms**: प्रमाण (pramāṇa) "valid means of knowledge," प्रमा (pramā) "valid cognition," भ्रम (bhrama) "erroneous cognition"
+- **Systematic framework**: Six pramāṇas (perception, inference, testimony, etc.) with dedicated vocabulary
+
+Other languages lack equivalent systematic epistemological vocabulary:
+- Hebrew has some terms (מוכח mukhaḥ "proven") but no pramāṇa-śāstra equivalent
+- Greek has philosophical terms but less systematic
+- Chinese, English, Tagalog, Swahili, Quechua lack dedicated epistemological validity vocabulary
+
+This reflects Sanskrit's specialized role as a philosophical metalanguage.
+
+**3. Two-Truths Doctrine Vocabulary**
+
+Only Sanskrit shows systematic lexicalization of conventional versus ultimate truth:
+
+- **व्यवहार (vyavahāra)**: Conventional/practical reality
+- **परमार्थ (paramārtha)**: Ultimate/absolute truth
+- **Dedicated adverbials**: व्यवहारतः/परमार्थतः marking philosophical standpoint
+
+No other language shows equivalent systematic distinction, though:
+- Chinese has some philosophical register distinctions (理 lǐ "principle" versus 事 shì "affairs")
+- Greek philosophical vocabulary shows some elaboration
+- Other languages lack this framework entirely
+
+**4. Evidential Integration**
+
+Only Quechua shows obligatory grammatical evidential marking integrated with truth vocabulary:
+
+- **Evidentials**: -mi (direct knowledge), -si (reportative), -cha (conjectural)
+- **Integration**: chiqapmi "it is truly so (I know directly)" versus chiqapsi "it is reportedly true"
+
+All other languages, including Swahili (also spoken in regions with evidential languages), lack grammatical evidentials. They use optional epistemic modals or adverbs instead.
+
+### Constructional Strategies for Shared Meanings
+
+**1. "Speak the Truth" Constructions**
+
+All languages show highly conventionalized constructions for truth-telling, but with different structural patterns:
+
+- **Accusative + verb**: Chinese 说实话, Tagalog magsabi ng totoo, Swahili sema ukweli, Quechua chiqanta rimay
+- **Definite object**: Hebrew לומר את האמת (lomar et ha'emet), Greek λέω την αλήθεια (léo tin alítheia), English tell the truth
+- **Bare noun + verb**: Sanskrit सत्यं वद (satyaṃ vada)
+
+Despite structural differences, all show high conventionalization of this specific collocation, suggesting universal pragmatic importance of the "truth-telling" speech act.
+
+**2. Causative Verification Strategies**
+
+Languages show three main strategies for "making true/verifying":
+
+- **Dedicated causative morphology**: Hebrew הצדיק (lehatsדik), Sanskrit साधयति (sādhayati), Greek βεβαιώνω (vevaióno), Tagalog patunayan, Swahili thibitisha, Quechua chiqanchay
+- **Resultative compounds**: Chinese 证实 (zhèngshí), 落实 (luòshí)
+- **Periphrastic with separate roots**: English verify/prove/authenticate (from Latin roots, not from true)
+
+The English pattern is unusual: it lacks morphological causative derivation from truth-domain roots, instead using borrowed verbs from different etymological sources.
+
+**3. Negation Strategies**
+
+Languages show two main negation strategies with different distributions:
+
+- **Morphological negation highly productive**: All languages (Chinese 不, Hebrew לא, Sanskrit अ-, Greek α-/δεν, English un-/in-, Tagalog hindi/di-, Swahili mana/si, Quechua mana)
+- **Lexical antonyms coexist**: Most languages have both (Chinese 真/假 and 不真, English true/false and untrue, etc.)
+
+**Pattern**: Morphological negation more productive for derived/abstract terms (Chinese 不正常, Hebrew לא מוצדק, English incorrect); lexical antonyms more common for basic oppositions (true/false, good/bad).
+
+**4. Discourse Marker Development**
+
+Seven languages show grammaticalization of truth vocabulary into discourse markers:
+
+- **Introducing frank statements**: Chinese 说真的, Hebrew באמת, Greek αλήθεια?, English to be honest, Tagalog totoo lang, Swahili kwa kweli, Quechua chiqap
+- **Seeking confirmation**: Hebrew נכון?, Greek ορθός?, Tagalog totoo ba?, Swahili kweli?
+- **Expressing surprise**: Hebrew באמת?, Greek αλήθεια?, English really?
+
+This represents a universal pragmatic pathway: truth-asserting terms grammaticalize into markers of speaker stance, sincerity, or epistemic attitude.
+
+### Language-Specific Elaborations
+
+**1. Chinese Substantiality Dimension**
+
+Chinese uniquely elaborates a substantiality versus emptiness dimension through 实/虚 (shí/xū):
+
+- **实 (shí)**: Solid, substantial, concrete, practical, implemented
+- **虚 (xū)**: Empty, hollow, false, theoretical, unimplemented
+
+This creates distinctions like:
+- 华而不实 (huá ér bù shí) "flashy but lacking substance"
+- 脚踏实地 (jiǎo tà shí dì) "feet on solid ground" = down-to-earth
+- 虚虚实实 (xū xū shí shí) "mix of feint and reality" (military strategy)
+
+No other language shows equivalent systematic elaboration of this dimension, though Quechua hunt'a/ch'usaq (full/empty) shows some parallel.
+
+**2. Sanskrit Ontological-Epistemological Integration**
+
+Sanskrit uniquely integrates ontological and epistemological concerns:
+
+- **सत्/असत् (sat/asat)**: Being/non-being (ontological)
+- **सत्य/मिथ्या (satya/mithyā)**: Truth/illusion (spans both domains)
+- **प्रमा/भ्रम (pramā/bhrama)**: Valid/erroneous cognition (epistemological)
+- **व्यवहार/परमार्थ (vyavahāra/paramārtha)**: Conventional/ultimate truth (metaphysical)
+
+This creates a philosophical vocabulary where truth-evaluation operates simultaneously at ontological (what exists), epistemological (how we know), and metaphysical (levels of reality) levels. Other languages separate these domains more clearly.
+
+**3. Greek Technical Domain Extensions**
+
+Greek ορθ- (orth-) root uniquely extends into multiple technical domains:
+
+- **Linguistic**: ορθογραφία (orthography), ορθοεπεία (orthoepy)
+- **Religious**: ορθοδοξία (orthodoxy), ορθοπραξία (orthopraxy)
+- **Medical**: ορθοπεδική (orthopedics), ορθοδοντική (orthodontics)
+- **Geometric**: ορθογώνιος (right-angled), ορθογώνιο (rectangle)
+- **Philosophical**: ορθολογισμός (rationalism)
+
+This represents extensive semantic extension from "straight/correct" into specialized technical vocabularies. Other languages show less systematic technical elaboration from truth-domain roots.
+
+**4. Tagalog Particle System**
+
+Tagalog uniquely shows extensive particle system modulating truth-domain terms:
+
+- **Interrogative**: ba (totoo ba? "is it true?")
+- **Emphatic**: nga (totoo nga "it's really true")
+- **Limitative**: lang (totoo lang "honestly, just the truth")
+- **Concessive**: naman (totoo naman "it is true though")
+- **Additive**: pa (totoo pa "even more true, what's more")
+
+This creates fine-grained pragmatic distinctions not available through lexical or morphological means in other languages. The particle system allows modulation of illocutionary force and epistemic stance without changing core lexical items.
+
+### Asymmetries in Semantic Coverage
+
+**1. Justice Domain**
+
+Languages vary in whether justice/righteousness is integrated with or separated from truth/correctness:
+
+- **Integrated**: Hebrew צדק (tsedek), Swahili haki conflate truth and justice
+- **Separated**: Chinese 正确 (correctness) versus 正义 (justice), Greek αλήθεια versus δικαιοσύνη, English truth versus justice
+- **Absent**: Quechua lacks dedicated justice term (uses allin or Spanish préstamos like justicia)
+
+**2. Reliability/Trustworthiness**
+
+Languages vary in lexicalization of reliability as distinct from truth:
+
+- **Dedicated terms**: Chinese 可靠 (kěkào), Hebrew אמין (amin)/נאמן (ne'eman), Greek αξιόπιστος (axiópistos), English reliable/trustworthy, Swahili madhubuti
+- **Less elaborated**: Tagalog (uses mapagkakatiwalaan, complex derivation), Quechua (uses allin or circumlocution)
+- **Root integration**: Hebrew integrates reliability into א-מ-נ truth root family
+
+**3. Precision/Accuracy**
+
+Languages vary in whether precision is lexically distinguished from simple correctness:
+
+- **Clear distinction**: Chinese 准确 (zhǔnquè) versus 对 (duì), Hebrew מדויק (meduyak) versus נכון (nakhon), Greek ακριβής (akrivís) versus σωστός (sostós), English accurate versus correct
+- **Less clear**: Tagalog (uses tumpak or eksakto, latter from Spanish), Swahili (uses madhubuti or kamili), Quechua (uses allin or hunt'a)
+
+This suggests precision/accuracy as a distinct dimension is more elaborated in languages with strong scientific/technical registers.
+
+### Constructional Compensation for Lexical Gaps
+
+**1. Inchoative Meanings**
+
+Languages lacking productive inchoative morphology use periphrastic constructions:
+
+- **English**: come true (lexically restricted), become + adjective (general), prove + adjective (evidential)
+- **Chinese**: 变 (biàn) + adjective (general), 成为 (chéngwéi) + noun (more formal)
+- **Hebrew**: להפוך ל- (hafakh le-) "turn into" (general), התברר (hitbarer) "became clear" (evidential)
+
+Languages with productive inchoative morphology use it freely:
+- **Tagalog**: mag-ka- prefix (magkatotoo "come true")
+- **Swahili**: -ika stative suffix (kamilika "become complete")
+- **Quechua**: -ya- inchoative suffix (allinyay "become good")
+
+**2. Agentive Meanings**
+
+Languages lacking productive agentive nominalization use circumlocution:
+
+- **English**: truth-teller (compound), liar (suppletive)
+- **Chinese**: 说真话的人 (shuō zhēnhuà de rén) "person who speaks truth"
+- **Hebrew**: דובר אמת (dover emet) "speaker of truth" (participial)
+- **Swahili**: mwenye ukweli "one having truth" (possessive)
+
+Languages with productive agentive patterns use them:
+- **Sanskrit**: सत्यवादिन् (satyavādin) "truth-speaker"
+- **Greek**: ψεύτης (pséftis) "liar" (though no single word for truth-teller)
+- **Quechua**: llullakuq "liar" (agentive -q suffix)
+
+### Summary of Major Typological Patterns
+
+**1. Universal or Near-Universal Features**
+
+- Morphological negation highly productive across all languages
+- Abstract nominalization patterns present in all languages
+- Speech act constructions ("speak truth/lies") highly conventionalized in all languages
+- Discourse marker development from truth vocabulary in 7/8 languages
+- Metaphorical revelation constructions (truth emerging/coming to light) in 6/8 languages
+
+**2. Common but Not Universal Features**
+
+- Propositional truth versus material authenticity distinction (6/8 languages)
+- Dedicated causative morphology for verification (6/8 languages; English and Chinese use different strategies)
+- Precision/accuracy distinguished from simple correctness (5/8 languages clearly)
+- Honesty/sincerity terms separate from truth terms (7/8 languages; Quechua less clear)
+
+**3. Rare or Unique Features**
+
+- Two-truths doctrine vocabulary (Sanskrit only)
+- Obligatory evidential marking (Quechua only)
+- Extensive pseudo-X compounding (Greek uniquely productive)
+- Four-way root system for truth domain (Chinese only)
+- Truth-justice conflation (Hebrew and Swahili only)
+- Substantiality versus emptiness elaboration (Chinese primarily; Quechua shows some parallel)
+
+**4. Systematic Asymmetries**
+
+- Agentive nominalization more productive for negative (liar) than positive (truth-teller) across languages
+- Causative "make true/verify" more common than causative "make false" across languages
+- Inchoative "become true" often restricted or uses different constructions than "become false"
+- Deception vocabulary often more elaborate than honesty vocabulary
+
+These patterns suggest:
+1. **Negative moral evaluation** drives lexicalization more than positive
+2. **Truth verification** is conceptualized as active process, while falsification is less agentive
+3. **Truth emergence** is conceptualized differently from falsity emergence (revelation versus exposure)

@@ -1,0 +1,98 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Chinese (zh)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Subject + 是 + truth-domain ADJ + 的 (P4a §1); bare adjective predicate in formal register (P4b alt.) | 这是真的。/ 这份报告是真实的。/ 报道失实 | Direct mapping; no substitution required | None |
+| **ADNOM** | Truth-domain ADJ + 的 + Noun (P4a §3) | 真实的情况 / 虚假的广告 | Direct mapping; no substitution required | None |
+| **BECOME** | (a) Resultative complement 成 in fixed V-complement construction (P4a §4); (b) stative base + 化 suffix (P4a §4) | 弄假成真 / 合法化 | Pattern (a) is a fixed idiom, not productive. Pattern (b) is productive only with disyllabic bases in formal registers. Neither covers the full BECOME range. | **Partial**: monosyllabic truth-domain bases (真, 假) are blocked from both patterns; no productive open BECOME construction for core truth-domain predicates |
+| **REVELATION** | No construction identified in P4a or P4b | — | **MISSING (structural gap)** | Structural gap |
+| **CAUSATION (factual)** | No dedicated causative construction identified (P4a §5); periphrastic 使/让 + NP + V noted; transitive verbs 证实, 核实 noted | — | **NO COMMON EXPRESSION — circumlocution required** (periphrastic 使/让 + NP + V, or transitive verbs not structurally distinct from ordinary transitives) | Morphosyntactic gap |
+| **CAUSATION (character)** | No construction identified in P4a or P4b | — | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | 经 + verification verb + result (P4a §8) | 经查属实 / 经调查证实 | Direct mapping to VERIFICATION; construction is conventionalized in formal registers | Register restriction (formal/written only); no structural gap |
+| **DISCONFIRMATION** | Negative counterpart of verification frame: 无法 + verification verb (P4b alt.) | 无法核实 | **SUBSTITUTED BY** negative verification frame (无法核实); not a structurally independent DISCONFIRMATION construction | No structural gap, but no independent DISCONFIRMATION construction; shares frame with VERIFICATION |
+| **NEGATION** | Subject + 不是 + truth-domain ADJ + 的 (P4a §2); formal: 并非 + truth-domain predicate (P4a §2) | 这不是真的。/ 该陈述并非属实。| Direct mapping; negation is **analytic** (pre-verbal particle 不/并非), not morphological | None |
+| **NOMINALIZATION** | (a) Stative base + 性 suffix → abstract property noun (P4a §6); (b) Verb + 者 suffix → agentive noun (P4a §7) | 准确性 / 可靠性 / 真实性 / 伪造者 / 欺骗者 | Direct mapping for abstract nominalization (性) and agentive nominalization (者); both are suffixal | Asymmetric gap: agentive nominalization with 者 is attested only for the deception/falsification pole; no 者-form for the truth-telling pole |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+The CLCA category REVELATION — in which a state of affairs comes to be known or disclosed as true — has no attested construction in P4a or P4b. The BECOME category is partially covered by two patterns: the fixed four-character expression 弄假成真 (resultative complement 成) and the productive suffix 化 (e.g., 合法化). However, neither pattern functions as a general BECOME operator for truth-domain predicates. 弄假成真 is a fixed idiom with a specific idiomatic meaning (a pretense unintentionally becomes real); it does not generalize to other truth-domain bases. The 化 suffix is productive with disyllabic stative bases in formal registers but is blocked for monosyllabic bases (真, 假). There is no evidence in P4a or P4b that REVELATION substitutes for BECOME or vice versa; both are absent or only partially available, and no substitution relationship between them is reported.
+
+### 2.2 VERIFICATION and DISCONFIRMATION
+
+The VERIFICATION construction (经 + verification verb + result: 经查属实, 经调查证实) is well-attested and conventionalized in formal registers. DISCONFIRMATION is not expressed through a structurally independent construction; instead, it is expressed through the negative counterpart of the same verification frame: 无法核实 ("cannot be verified"). This means VERIFICATION and DISCONFIRMATION share the same constructional frame, differentiated only by the insertion of 无法 before the verification verb. They are not expressed by distinct constructions. The P4b data explicitly identifies 无法核实 as "the conventionalized negative of the verification frame" with the same register distribution as the positive forms.
+
+### 2.3 CAUSATION
+
+No dedicated causative construction is attested for this domain in either P4a or P4b. P4a §5 explicitly states that Chinese lacks a dedicated causative morpheme for truth-domain predicates and that causative meanings are expressed periphrastically (使/让 + NP + V) or through ordinary transitive verbs (证实, 核实). P4b rates this construction as [UNCERTAIN] and notes that no separate pattern can be reported. The VERIFICATION construction (经查属实, 经调查证实) covers the meaning of causing a claim to be confirmed, but it does so through a process-framing construction (经 + process + result) rather than through a causative operator. To the extent that VERIFICATION partially covers CAUSATION (factual) meanings, it does so by describing the process that leads to confirmation, not by expressing a causal relationship between an agent and a truth-state. No substitution for CAUSATION (character) is attested.
+
+### 2.4 Positive/Negative Asymmetries
+
+Two asymmetries are observable in the data:
+
+**Agentive nominalization**: The 者 suffix is attested only for the deception and falsification poles (伪造者, 欺骗者). P4a §7 explicitly notes that no single agentive nominalization with 者 is in common use for the truth-telling pole; the concept is expressed periphrastically (说真话的人) or by character-evaluation adjectives (诚实的人). The colloquial agentive 骗子 (with suffix 子) is [CORE] for the deception pole in informal registers, while no parallel colloquial form is attested for the truth-telling pole.
+
+**Prohibition construction**: The PROHIBITION construction (严禁/不得 + violation verb: 严禁弄虚作假, 不得欺骗消费者) is attested only for the deception/falsification pole. P4a §10 explicitly notes that "the construction has no direct positive counterpart in the same register; positive obligations to be truthful are expressed differently (如实陈述, 诚实守信)." The positive obligation is expressed through the ADVERBIAL TRUTH-FRAMING construction (如实陈述), not through a parallel positive-obligation construction.
+
+**Negative attribution register split**: The negative attribution construction shows a register split not present in the positive attribution construction. 不是…的 is [CORE] across all registers; 并非 is [MARGINAL] and restricted to formal written registers. The positive attribution construction (是…的) does not show a comparable formal/informal split at the same level of markedness.
+
+### 2.5 Adverbial Truth-Framing as a Distinct Operator
+
+The ADVERBIAL TRUTH-FRAMING construction (如实陈述, 实事求是地说) does not map directly onto any of the ten CLCA canonical operators listed in the task. It is a manner-of-speaking construction that specifies the truth-conforming character of a communicative act. P4a §9 identifies it as "a distinct constructional type in which the truth-domain element specifies the manner of a communicative act." It is not an ATTR, ADNOM, BECOME, CAUSATION, VERIFICATION, DISCONFIRMATION, NEGATION, or NOMINALIZATION construction. It is noted here as an attested construction in the P4a/P4b data that falls outside the ten canonical CLCA operators.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No construction identified in P4a or P4b. The category is entirely absent from the attested data. |
+| **CAUSATION (character)** | No construction identified in P4a or P4b. No periphrastic substitute is reported for this specific sub-type. |
+| **Independent DISCONFIRMATION construction** | DISCONFIRMATION is not expressed by a structurally independent construction; it is expressed through the negative of the VERIFICATION frame (无法核实). The two categories share a single constructional frame. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Agentive nominalization, truth-telling pole** | No single lexical item with 者 or 子 suffix is attested for "one who tells the truth." The concept requires periphrasis (说真话的人) or a character-evaluation adjective (诚实的人). |
+| **BECOME with monosyllabic truth-domain bases** | The bases 真 and 假 do not productively take the 化 suffix (*真化, *假化 are noted as unattested in P4a §4). No lexical item fills this slot. |
+| **Abstract nominalization with monosyllabic bases** | P4a §6 notes that 真性 and 假性 function as medical classifiers rather than free abstract nouns; no general abstract noun "truth-ness" or "falseness" formed with 性 from monosyllabic bases is in common use. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps — cases where the operation itself appears to be blocked as a category — are directly reported in P4a or P4b. The absence of REVELATION and CAUSATION (character) could reflect either structural or conceptual gaps, but the data do not provide sufficient evidence to distinguish between these; they are reported as structural gaps above.
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Positive Pole | Negative/Deception Pole |
+|---|---|---|
+| **Agentive nominalization** | Missing: no 者-form or 子-form for "truth-teller"; periphrasis required | Present: 伪造者, 欺骗者 (formal); 骗子 (colloquial) |
+| **Prohibition construction** | Missing: no parallel positive-obligation construction in the same register | Present: 严禁弄虚作假, 不得欺骗消费者 |
+| **Negative attribution register split** | Absent: 是…的 is [CORE] across registers without a marked formal variant | Present: 并非 is a marked formal variant alongside the general 不是…的 |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | 是…的 frame is [CORE] across registers; bare adjective predicate available in formal register as alternate |
+| **ADNOM** | **Fully available** | Modifier + 的 + noun is [CORE] and unrestricted; productive across all truth-domain adjectives |
+| **NEGATION** | **Fully available** | Analytic negation via 不是…的 ([CORE]) and formal 并非 ([MARGINAL]); no morphological negation; both forms are well-attested |
+| **VERIFICATION** | **Fully available** (with register restriction) | 经 + verification verb + result is [CORE] in formal registers; conventionalized and productive within that domain |
+| **NOMINALIZATION** | **Fully available** (with asymmetric lexical gap) | 性 suffix for abstract nominalization is [CORE] with disyllabic bases; 者 suffix for agentive nominalization is available but restricted to the deception/falsification pole and to formal registers |
+| **BECOME** | **Partially available** | 化 suffix is productive with disyllabic bases in formal registers; 弄假成真 is a fixed idiom only; monosyllabic bases are blocked; no open productive BECOME construction for core truth-domain predicates |
+| **DISCONFIRMATION** | **Available with substitution** | **SUBSTITUTED BY** negative VERIFICATION frame (无法核实); no independent DISCONFIRMATION construction |
+| **CAUSATION (factual)** | **Available with substitution** (circumlocution) | **NO COMMON EXPRESSION — circumlocution required**: periphrastic 使/让 + NP + V, or ordinary transitive verbs (证实, 核实) not structurally distinct from non-causative transitives |
+| **REVELATION** | **Missing entirely** | No construction identified in P4a or P4b; no substitution reported |
+| **CAUSATION (character)** | **Missing entirely** | No construction identified in P4a or P4b; no substitution reported |

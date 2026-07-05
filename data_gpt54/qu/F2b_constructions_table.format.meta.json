@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-04-03T16:13:42.121096+00:00",
+  "prompt": "# CLCA Protocol v3.4 \u2014 F2b Constructions Table\n# Language: Quechua (qu)\n\n# CONTEXT: P2b output\n\n\n### STEP P2b_light_verb_constructions \u2014 OUTPUT\nBelow is a conservative P2b list of **multi-word constructions** built around P1 items, excluding simple derivational forms already handled in P2a. I include only constructions directly supported by the prior material or strongly conventional combinations already surfaced there. Where no common construction is identifiable from the provided evidence, I state that explicitly.\n\n---\n\n## 1. Base Form: **chiqaq**\n\n### Construction 1\n1. **Base Form (from P1):** chiqaq\n2. **Example (native script):** chiqaq kay\n3. **Transliteration:** chiqaq kay\n4. **English translation:** truth; reality; true nature\n5. **Usage notes:** A fixed nominal expression used in reflective, philosophical, or elevated discourse. It contrasts what is really the case with mere appearance or surface impression.\n6. **Epistemic status:** [MARGINAL]\n\n### Construction 2\n1. **Base Form (from P1):** chiqaq\n2. **Example (native script):** chiqaq simi\n3. **Transliteration:** chiqaq simi\n4. **English translation:** true word; truthful speech\n5. **Usage notes:** Used for truthful utterance or morally upright speech. It is more rhetorical or elevated than ordinary everyday truth-evaluation.\n6. **Epistemic status:** [UNCERTAIN]\n\n---\n\n## 2. Base Form: **chiqap**\n\n- **(no common expression identified)**\n\n---\n\n## 3. Base Form: **chiqan**\n\n- **(no common expression identified)**\n\n---\n\n## 4. Base Form: **pantay**\n\n### Construction 1\n1. **Base Form (from P1):** pantay\n2. **Example (native script):** pantayman churay\n3. **Transliteration:** pantayman churay\n4. **English translation:** to lead into error; to misdirect\n5. **Usage notes:** A phrasal causative construction meaning to put someone into error or mistaken judgment. It overlaps semantically with the derived verb *pantachiy* but is more transparently periphrastic.\n6. **Epistemic status:** [UNCERTAIN]\n\n---\n\n## 5. Base Form: **pantasqa**\n\n- **(no common expression identified)**\n\n---\n\n## 6. Base Form: **allin**\n\n### Construction 1\n1. **Base Form (from P1):** allin\n2. **Example (native script):** mana allin\n3. **Transliteration:** mana allin\n4. **English translation:** bad; wrong; improper; not right\n5. **Usage notes:** A very common negative evaluative construction used for conduct, decisions, and sometimes statements. It is broadly applicable in moral, social, and practical criticism.\n6. **Epistemic status:** [CORE]\n\n---\n\n## 7. Base Form: **allinmi**\n\n- **(no common expression identified)**\n\n---\n\n## 8. Base Form: **mana allin**\n\n- **(no additional common expression identified)**\n\n---\n\n## 9. Base Form: **sumaq**\n\n- **(no common expression identified)**\n\n---\n\n## 10. Base Form: **llulla**\n\n### Construction 1\n1. **Base Form (from P1):** llulla\n2. **Example (native script):** llulla runa\n3. **Transliteration:** llulla runa\n4. **English translation:** liar; deceitful person\n5. **Usage notes:** A common characterological expression for a person known for lying or deception. It is used in everyday moral judgment and social criticism.\n6. **Epistemic status:** [CORE]\n\n### Construction 2\n1. **Base Form (from P1):** llulla\n2. **Example (native script):** llulla simi\n3. **Transliteration:** llulla simi\n4. **English translation:** lie; false speech; deceitful word\n5. **Usage notes:** Used for false or deceptive speech, especially in moralizing, rhetorical, or religious contexts. It directly contrasts with truthful speech.\n6. **Epistemic status:** [MARGINAL]\n\n---\n\n## 11. Base Form: **llullakuy**\n\n- **(no common expression identified)**\n\n---\n\n## 12. Base Form: **llullasqa**\n\n- **(no common expression identified)**\n\n---\n\n## 13. Base Form: **qampa**\n\n- **(no common expression identified)**\n\n---\n\n## 14. Base Form: **chanin**\n\n- **(no common expression identified)**\n\n---\n\n## 15. Base Form: **chaninnaq**\n\n- **(no common expression identified)**\n\n---\n\n## 16. Base Form: **i\u00f1iy**\n\n- **(no common expression identified)**\n\n---\n\n## 17. Base Form: **i\u00f1isqa**\n\n- **(no common expression identified)**\n\n---\n\n## 18. Base Form: **yupaychay**\n\n- **(no common expression identified)**\n\n---\n\n## 19. Base Form: **riqsiy**\n\n- **(no common expression identified)**\n\n---\n\n## 20. Base Form: **rikch\u2019akuy**\n\n- **(no common expression identified)**\n\n---\n\n## 21. Base Form: **kikin**\n\n- **(no common expression identified)**\n\n---\n\n## 22. Base Form: **kuska**\n\n- **(no common expression identified)**\n\n---\n\n## 23. Base Form: **hucha**\n\n- **(no common expression identified)**\n\n---\n\n## 24. Base Form: **huchayuq**\n\n- **(no common expression identified)**\n\n---\n\n## Consolidated construction inventory\n\n| Base form | Example | Transliteration | English translation | Status |\n|---|---|---|---|---|\n| chiqaq | chiqaq kay | chiqaq kay | truth; reality; true nature | [MARGINAL] |\n| chiqaq | chiqaq simi | chiqaq simi | true word; truthful speech | [UNCERTAIN] |\n| pantay | pantayman churay | pantayman churay | to lead into error; to misdirect | [UNCERTAIN] |\n| allin | mana allin | mana allin | bad; wrong; improper; not right | [CORE] |\n| llulla | llulla runa | llulla runa | liar; deceitful person | [CORE] |\n| llulla | llulla simi | llulla simi | lie; false speech; deceitful word | [MARGINAL] |\n\nIf you want, I can next reformat this into a stricter TSV/JSON-style CLCA ingestion schema.\n\n\nConvert into table:\n\n| Base Form | Example | Transliteration | Translation | Usage Notes | Epistemic Status |\n\nSTRICT RULES:\n- Do NOT summarize or reinterpret\n- Preserve examples exactly\n- Preserve transliteration and tags\n- Maintain 1:1 mapping\n\nOutput ONLY the table.\n",
+  "model": "gpt-5.4",
+  "backend": "openai",
+  "temperature": 0.2,
+  "usage": {
+    "completion_tokens": 372,
+    "prompt_tokens": 1537,
+    "total_tokens": 1909,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "raw_metadata": {
+    "backend": "openai",
+    "model": "gpt-5.4",
+    "temperature": 0.2,
+    "phase": "F",
+    "usage": {
+      "completion_tokens": 372,
+      "prompt_tokens": 1537,
+      "total_tokens": 1909,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}

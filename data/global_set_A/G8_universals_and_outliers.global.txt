@@ -1,0 +1,741 @@
+# G8 — Candidate Universals, Outliers, and Open Questions
+
+## 1. Candidate Universals / Strong Tendencies
+
+### 1.1 Core Lexical Oppositions
+
+**Statement**: All eight languages maintain a fundamental lexical opposition between truth-related and falsehood-related vocabulary, functioning as primary antonyms in propositional evaluation.
+
+**Evidence summary**:
+- **8/8 languages** show dedicated truth/falsehood pairs documented in F5 tables:
+  - Georgian: სიმართლე/ტყუილი
+  - Yoruba: òtítọ́/irọ́
+  - Finnish: totuus/valhe
+  - Basque: egia/gezurra
+  - Tamil: உண்மை/பொய்
+  - Indonesian: benar/bohong, kebenaran/kebohongan
+  - Turkish: doğru/yanlış, gerçek/sahte
+  - Korean: 진실/거짓, 사실/허위
+- All F3 tables identify this as separate semantic group (GROUP 1 in most languages)
+- All F5 tables document this as primary lexical opposition
+
+**Caveats/exceptions**: None. This is the most robust pattern in the entire dataset.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.2 Agentive "Liar" Lexicalization with "Truth-Teller" Gap
+
+**Statement**: All eight languages productively lexicalize agentive nouns for "liar" while seven of eight systematically lack dedicated agentive nouns for "truth-teller," requiring periphrastic constructions instead.
+
+**Evidence summary**:
+- **"Liar" lexicalized** (all F2a and F5 tables document):
+  - Georgian: ტყუარა (t'q'uara)
+  - Yoruba: apurọ́
+  - Finnish: valehtelija
+  - Basque: gezurtia
+  - Tamil: பொய்யன் (poyyan)
+  - Indonesian: pembohong
+  - Turkish: yalancı
+  - Korean: 거짓말쟁이 (geojinmaljaengi)
+
+- **"Truth-teller" absent** (all F4 and F5 tables note):
+  - 7/8 languages use periphrastic constructions: "person who tells truth," "honest person"
+  - Only Tamil உண்மைவாதி (uṇmaivāti) "truth-advocate" exists, but F1 notes "less common than liar terms"
+  - Basque egiazale "truth-lover" exists but F2a marks [MARGINAL]
+
+**Caveats/exceptions**: Tamil shows partial lexicalization but with marked/infrequent status. The asymmetry holds even where positive forms technically exist.
+
+**Confidence rating**: **HIGH** (strongest universal asymmetry in dataset; documented in all F2a, F4, F5 tables)
+
+---
+
+### 1.3 Abstract Quality Nominalization Productivity
+
+**Statement**: All eight languages show highly productive affixation for creating abstract quality nouns from truth-domain bases, regardless of typological profile or preferred morphological strategy (prefixing, suffixing, or circumfixing).
+
+**Evidence summary**:
+- **8/8 languages** with productive patterns documented in F2a and F4 tables:
+  - Georgian: -ობა suffix (15+ examples)
+  - Yoruba: ì-/ò- prefixes (10+ examples)
+  - Finnish: -uus/-yys suffix (10+ examples)
+  - Basque: -tasun suffix (multiple examples)
+  - Tamil: -தன்மை suffix (multiple examples)
+  - Indonesian: ke-...-an circumfix (15+ examples)
+  - Turkish: -lık/-lik suffix (20+ examples)
+  - Korean: -성 suffix (15+ examples)
+- All F4 tables document abstract nominalization as [CORE] construction type
+- Pattern holds across prefixing (Yoruba), suffixing (most languages), and circumfixing (Indonesian) strategies
+
+**Caveats/exceptions**: None. Universal across all morphological types.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.4 Revelation/Discovery Construction Universality
+
+**Statement**: All eight languages show specialized constructions for truth emerging from hiddenness or being revealed, typically using intransitive or passive verb forms, universally rated as highly natural.
+
+**Evidence summary**:
+- **8/8 languages** with revelation constructions rated [CORE] in F6 tables:
+  - Georgian: გამოვლინდა "was revealed"
+  - Yoruba: purọ́ jáde "lie emerged"
+  - Finnish: paljastua "be revealed"
+  - Basque: egia atera "truth came out"
+  - Tamil: வெளிப்படு "comes out"
+  - Indonesian: terungkap "be revealed"
+  - Turkish: ortaya çıkmak "come to light"
+  - Korean: 드러나다 "come to light"
+- All F3 tables identify revelation/concealment as semantic group
+- All F4 tables document revelation as primary strategy for truth-discovery
+
+**Caveats/exceptions**: None. Universal pattern with consistent [CORE] naturalness ratings.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.5 Inchoative Blocking with Abstract Propositional Truth
+
+**Statement**: Six of eight languages block or mark simple inchoative constructions when the subject is an abstract propositional truth term (e.g., "truth becomes," "falsehood becomes"), systematically substituting revelation/discovery verbs instead.
+
+**Evidence summary**:
+- **Blocked or marginal** (F6 evidence):
+  - Korean: 진실이 되다 [MARGINAL] — "semantically odd"
+  - Georgian: სიმართლე გახდა [MARGINAL] — "requires specific contexts"
+  - Basque: egia bihurtu [MARGINAL] — "marked construction"
+  - Finnish: käydä toteen [CORE] but "restricted to predictions"
+  - Tamil: உண்மையாகு [CORE] but "requires context"
+  - Yoruba: (stative verb tọ́ resists inchoative morphology)
+
+- **Natural** (F6 evidence):
+  - Indonesian: menjadi benar [CORE] — "fully natural"
+  - Turkish: gerçekleşmek [CORE] — "lexicalized and productive"
+
+- **Systematic substitution**: All six blocking languages substitute revelation verbs (all rated [CORE])
+
+**Caveats/exceptions**: Indonesian and Turkish are clear exceptions, freely allowing inchoatives. Finnish and Tamil show intermediate status (allowed but contextually restricted). Pattern is strong but not universal.
+
+**Confidence rating**: **MEDIUM-HIGH** (6/8 languages show blocking with documented substitution; 2/8 clear exceptions)
+
+---
+
+### 1.6 Dispositional Causation Blocking
+
+**Statement**: No language in the sample shows productive constructions for causing someone to become a truth-teller or liar as a character transformation (dispositional causation).
+
+**Evidence summary**:
+- **8/8 languages** show systematic absence in F4 tables
+- No constructions documented like "make someone into a liar" or "cause someone to become honest" as character change
+- Only constructions for causing specific acts attested: "cause to lie" (specific act), "cause to tell truth" (specific act)
+- Pattern aligns with AOML Rule R1 ("16/16 languages, p < 1e-9")
+
+**Caveats/exceptions**: Evidence is from systematic absence rather than explicit elicitation. No language was tested with direct prompts for dispositional causation. However, the consistent absence across all F4 tables is striking.
+
+**Confidence rating**: **MEDIUM-HIGH** (consistent absence across 8 languages, but evidence from gap rather than explicit blocking)
+
+---
+
+### 1.7 Verification Vocabulary Productivity
+
+**Statement**: All eight languages show dedicated vocabulary for establishing truth through evidence or formal procedures, with productive derivational families supporting verification/authentication actions.
+
+**Evidence summary**:
+- **8/8 languages** with verification vocabulary documented in F2a and F4 tables:
+  - Georgian: დადასტურება + derivatives
+  - Yoruba: ìfẹ̀sẹ̀múlẹ̀, ẹ̀rí, jẹ́rìí + derivatives
+  - Finnish: todistaa, todentaa, todiste + extensive family
+  - Basque: egiazkotu, egiaztagiri, egiaztatze + derivatives
+  - Tamil: மெய்ப்பு, உண்மைப்படுத்து + derivatives
+  - Indonesian: membenarkan, validasi + derivatives
+  - Turkish: doğrulamak, tasdik + derivatives
+  - Korean: 확인하다, 증명하다 + derivatives
+- All F3 tables identify verification as separate semantic group
+- All F4 tables document verification constructions as [CORE]
+
+**Caveats/exceptions**: None. Universal pattern.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.8 Light Verb Speech Act Constructions
+
+**Statement**: All eight languages express truth-telling and lying through light verb constructions (truth-term + "say/speak") rather than dedicated monomorphemic verbs.
+
+**Evidence summary**:
+- **8/8 languages** with light verb constructions rated [CORE] in F4 tables:
+  - Georgian: სიმართლე თქმა/ტყუილის თქმა
+  - Yoruba: sọ òtítọ́/sọ irọ́
+  - Finnish: puhua totuutta/puhua valhetta
+  - Basque: egia esan/gezurra esan
+  - Tamil: உண்மை சொல்/பொய் சொல்
+  - Indonesian: mengatakan kebenaran/berbohong
+  - Turkish: doğru söylemek/yalan söylemek
+  - Korean: 진실을 말하다/거짓말을 하다
+- All F4 tables document these as primary speech act constructions
+- No language has simple verb meaning "to truth"
+
+**Caveats/exceptions**: None. Universal pattern.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.9 Privative Morphology for Oppositions
+
+**Statement**: Seven of eight languages show productive privative or negative affixation creating systematic morphological oppositions in the truth-domain.
+
+**Evidence summary**:
+- **7/8 languages** with productive privative patterns documented in F2a and F5 tables:
+  - Georgian: უ- prefix (15 examples in F5)
+  - Finnish: epä- prefix (9 examples in F5)
+  - Basque: -gabe suffix
+  - Tamil: -ஆமை classical privative
+  - Indonesian: tidak- in nominalizations
+  - Turkish: -sız/-siz suffix (6+ pairs in F5)
+  - Korean: 부-/불- prefix (multiple pairs)
+
+**Caveats/exceptions**: Yoruba shows weaker development (àì- prefix exists but F2a notes "less productive than in other languages"). Yoruba relies more on lexical oppositions than morphological negation.
+
+**Confidence rating**: **HIGH** (7/8 languages with productive patterns; 1/8 shows limited productivity)
+
+---
+
+### 1.10 Zero or Minimal Copula Preference
+
+**Statement**: Seven of eight languages show strong preference for zero copula or minimal copula in present tense affirmative truth-value attribution.
+
+**Evidence summary**:
+- **7/8 languages** with zero/minimal copula documented in F4 tables:
+  - Georgian: zero copula (სიმართლეა contracts copula)
+  - Yoruba: zero copula (ó tọ́ "it is true")
+  - Turkish: zero copula (bu doğru "this is true")
+  - Korean: copula -이다 often dropped in casual speech
+  - Indonesian: zero copula in colloquial (ini benar)
+  - Basque: minimal copula da
+  - Tamil: zero copula colloquially, explicit formally
+
+**Caveats/exceptions**: Finnish requires explicit copula *olla* in all tenses (only exception). Tamil shows register variation.
+
+**Confidence rating**: **HIGH** (7/8 languages show pattern; 1/8 clear exception)
+
+---
+
+### 1.11 Object Authenticity Distinction
+
+**Statement**: Seven of eight languages maintain a dedicated lexical contrast for object authenticity (genuine vs. counterfeit) separate from or partially overlapping with statement truth.
+
+**Evidence summary**:
+- **7/8 languages** with clear authenticity vocabulary documented in F3 tables:
+  - Georgian: ნამდვილი/ყალბი (F3 GROUP 2)
+  - Finnish: aito/väärennös (F3 GROUP 2)
+  - Basque: egiazkoa/gezurrezko, benetakoa/faltsua (F3 "Genuineness and authenticity")
+  - Tamil: அசல்/பொய்ப்பொருள் (F3 GROUP 11)
+  - Indonesian: asli/palsu (F3 GROUP 2)
+  - Turkish: asıl/sahte, özgün/sahte (F3 GROUP 2)
+  - Korean: 진품/위조품, 진짜/가짜 (F3 GROUP 2)
+
+**Caveats/exceptions**: Yoruba shows weaker differentiation (gidi "genuine" exists but F3 notes less systematic separation from propositional truth).
+
+**Confidence rating**: **HIGH** (7/8 languages with clear F3 documentation; 1/8 shows weaker pattern)
+
+---
+
+### 1.12 Causative Restriction to Verification Sense
+
+**Statement**: Languages systematically distinguish causatives for verification/authentication (establishing pre-existing truth) from causatives implying literal creation of truth, with verification sense universally productive and creation sense blocked or marked.
+
+**Evidence summary**:
+- **Verification productive** (all F2a tables document):
+  - All 8 languages have productive verification verbs rated [CORE]
+  - Georgian: გამართლება, Finnish: todistaa, Basque: egiazkotu, Tamil: உண்மைப்படுத்து, Indonesian: membenarkan, Turkish: doğrulamak, Korean: 확인하다
+
+- **Creation blocked** (F4 tables note):
+  - Korean: "implies manipulation or philosophical impossibility"
+  - Tamil: restrictions noted
+  - Georgian: "requires specific contexts"
+  - Basque: semantic markedness noted
+
+**Caveats/exceptions**: Creation sense blocking explicitly documented in only 4/8 languages. Other languages may show same pattern but weren't explicitly tested. Evidence stronger for verification productivity than creation blocking.
+
+**Confidence rating**: **MEDIUM** (verification universal; creation blocking documented in 4/8, inferred for others)
+
+---
+
+### 1.13 Concealment Vocabulary Universality
+
+**Statement**: All eight languages show dedicated vocabulary for concealing or hiding truth, though typically less elaborated than revelation vocabulary.
+
+**Evidence summary**:
+- **8/8 languages** with concealment constructions documented in F4 tables:
+  - Georgian: დამალა "hid"
+  - Yoruba: fi...bò "cover with lies"
+  - Finnish: salata "conceal"
+  - Basque: ezkutatu "hide"
+  - Tamil: மறை "hide"
+  - Indonesian: menyembunyikan "hide"
+  - Turkish: gizlemek "hide"
+  - Korean: 숨기다 "hide"
+- All F4 tables document concealment constructions
+- F3 tables note revelation/concealment as paired functions
+
+**Caveats/exceptions**: Concealment vocabulary is less elaborated than revelation vocabulary in most languages (fewer specialized verbs, less productive derivational families). But basic concealment constructions are universal.
+
+**Confidence rating**: **HIGH** (universal presence; moderate confidence on elaboration asymmetry)
+
+---
+
+### 1.14 Character Honesty vs. Statement Truth Distinction
+
+**Statement**: All eight languages distinguish moral honesty (dispositional character trait) from propositional truth (statement accuracy), though lexicalization strategies vary.
+
+**Evidence summary**:
+- **8/8 languages** show distinction documented in F3 tables:
+  - Georgian: [less lexicalized; integrated with truth vocabulary]
+  - Yoruba: òdodo ọkàn "righteousness of heart" (F3 GROUP 4)
+  - Finnish: rehellinen "honest" (F3 GROUP 5)
+  - Basque: zintzoa "honest" (F3 GROUP 3)
+  - Tamil: நேர்மை "honesty" (F3 GROUP 3)
+  - Indonesian: jujur "honest" (F3 GROUP 3)
+  - Turkish: dürüst "honest" (F3 GROUP 5)
+  - Korean: 정직하다 "honest" (F3 GROUP 3)
+
+**Caveats/exceptions**: Georgian shows less clear lexical separation (integrates honesty more with general truth vocabulary). Degree of separation varies, but all languages make the distinction.
+
+**Confidence rating**: **HIGH** (universal distinction; variation in lexicalization strategy)
+
+---
+
+### 1.15 Manner Adverbialization Universality
+
+**Statement**: All eight languages show productive patterns for creating manner adverbs from truth-domain adjectives (truly, honestly, accurately), though morphological strategies vary.
+
+**Evidence summary**:
+- **8/8 languages** with manner adverbialization documented in F2a tables:
+  - Suffixation: Georgian -ად, Finnish -sti, Basque -ki/-ro, Tamil -ஆக, Korean -게/-히
+  - Case marking: Finnish -lla, Turkish -le/-la, Basque -z, Korean -으로, Tamil -ஆல்
+  - Prepositional: Indonesian dengan + adjective
+  - Bare forms/serial verbs: Yoruba
+- All F4 tables show manner adverbials in productive use
+
+**Caveats/exceptions**: None. Universal function with typologically diverse realization strategies.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.16 Passive/Intransitive Preference in Revelation
+
+**Statement**: Most languages prefer passive or intransitive verb forms for truth revelation rather than active transitive forms, though this correlates with general passive productivity in each language.
+
+**Evidence summary**:
+- **Passive/intransitive preferred** (F4 tables document):
+  - Finnish: paljastua (intransitive) preferred
+  - Korean: 밝혀지다 (passive) "strongly preferred"
+  - Georgian: გამოვლინდა (passive) preferred
+  - Tamil: வெளிப்படு (intransitive) preferred
+  - Basque: atera (intransitive) preferred
+  - Indonesian: terungkap (ter- passive) common
+
+- **Active also common**:
+  - Turkish: ortaya çıkmak (intransitive but compositional)
+  - Yoruba: jáde (active/intransitive)
+
+**Caveats/exceptions**: Yoruba shows less grammaticalized passive, uses active forms more. Turkish uses compositional light verb construction. Pattern correlates with general passive productivity rather than truth-domain-specific restriction.
+
+**Confidence rating**: **MEDIUM-HIGH** (6/8 languages show preference; 2/8 show alternative patterns; correlation with general typology)
+
+---
+
+### 1.17 Polysemy of Straightness/Correctness Terms
+
+**Statement**: Six of eight languages show polysemy in "correct/straight/right" terms spanning factual correctness, moral rightness, and physical straightness, representing a systematic metaphorical extension.
+
+**Evidence summary**:
+- **6/8 languages** with polysemy documented in F1 tables:
+  - Georgian: მართალი "right/correct/just/straight"
+  - Yoruba: tọ́ "straight/correct/true/direct"
+  - Finnish: oikea "right/correct/straight" (also directional)
+  - Basque: zuzena "straight/correct/just"
+  - Tamil: சரி "straight/correct/equal"
+  - Turkish: doğru "straight/true/correct/direct"
+
+**Caveats/exceptions**: Indonesian (lurus "straight" vs. benar "correct" separate) and Korean (곧다 "straight" vs. 맞다 "correct" separate) lack this polysemy. Represents systematic metaphorical extension in 6/8 but not universal.
+
+**Confidence rating**: **MEDIUM-HIGH** (clear pattern in 6/8; clear absence in 2/8)
+
+---
+
+### 1.18 Truth-Term + Noun Compounding Productivity
+
+**Statement**: All eight languages show productive compounding where truth-domain terms modify nouns to create specialized concepts (true love, true story, false testimony).
+
+**Evidence summary**:
+- **8/8 languages** with extensive compounding documented in F2b tables:
+  - Georgian: 20+ examples (ჭეშმარიტი სიყვარული "true love")
+  - Yoruba: 15+ examples (òtítọ́ ọ̀rọ̀ "true statement")
+  - Finnish: 25+ examples (tosi tarina "true story")
+  - Basque: 30+ examples (egiazko maitasuna "true love")
+  - Tamil: 40+ examples (உண்மைக்கதை "true story")
+  - Indonesian: 30+ examples (benar-benar terjadi "really happened")
+  - Turkish: 35+ examples (doğru yol "right path")
+  - Korean: 40+ examples (진실게임 "truth game")
+
+**Caveats/exceptions**: None. Universal pattern with varying productivity levels.
+
+**Confidence rating**: **HIGH**
+
+---
+
+### 1.19 Revelation-Inchoative Substitution Pattern
+
+**Statement**: Languages that block simple inchoatives with abstract truth terms systematically substitute revelation/discovery constructions, representing obligatory functional substitution.
+
+**Evidence summary**:
+- **6/6 blocking languages** show substitution (F6 evidence):
+  - Korean: 드러나다 [CORE] replaces 되다 [MARGINAL]
+  - Georgian: გამოვლინდა [CORE] replaces გახდა [MARGINAL]
+  - Basque: atera [CORE] replaces bihurtu [MARGINAL]
+  - Finnish: paljastua [CORE] preferred over käydä toteen [restricted]
+  - Tamil: வெளிப்படு [CORE] preferred over ஆகு [restricted]
+  - Yoruba: purọ́ jáde [CORE] (stative tọ́ resists inchoative)
+
+**Caveats/exceptions**: Only applies to languages blocking inchoatives. Indonesian and Turkish (which allow inchoatives) don't show obligatory substitution.
+
+**Confidence rating**: **HIGH** (perfect correlation in 6/6 blocking languages)
+
+---
+
+### 1.20 Privative "Non-Falsehood" Rarity
+
+**Statement**: Only two languages show classical or literary constructions defining truth as absence of falsehood (privative "non-falsehood" = truthfulness), suggesting this is not a common strategy.
+
+**Evidence summary**:
+- **2/8 languages** with privative truth definitions:
+  - Tamil: பொய்யாமை (poyyāmai) "non-falsehood" = truthfulness (F1: classical Tamil ethical literature; F2a: [MARGINAL] in modern)
+  - Basque: vilpitön "without deceit" = sincere (F1 documents)
+
+- **6/8 languages** define truth positively rather than as absence of falsehood
+
+**Caveats/exceptions**: This pattern is rare and restricted to classical/literary registers where it exists.
+
+**Confidence rating**: **MEDIUM** (clear absence in 6/8; presence in 2/8 is marked/archaic)
+
+---
+
+## 2. Major Outliers
+
+### 2.1 Language-Level Outliers
+
+#### 2.1.1 Korean — Extreme Register Stratification
+
+**What diverges**: Korean shows exceptional register-based lexical elaboration unmatched by other languages in the sample.
+
+**How strongly**: Four parallel truth-vocabulary systems documented in F1:
+- Native: 참 (cham) — pure Korean, literary/emphatic
+- Colloquial: 진짜 (jinjja) — hybrid, everyday speech
+- Formal: 진실 (jinsil) — Sino-Korean, official/written
+- Factual: 사실 (sasil) — Sino-Korean, objective/evidential
+- Philosophical: 진리 (jilli) — Sino-Korean, universal truth
+
+Plus 40+ specialized Sino-Korean compounds (F2b documents).
+
+**Breadth**: Affects all semantic dimensions. F1 table shows systematic register marking throughout vocabulary.
+
+**Interpretation**: Reflects extensive Sino-Korean borrowing and diglossia. Tamil and Turkish show similar but less extreme stratification. Represents **sociolinguistic elaboration** rather than structural divergence.
+
+**Evidence strength**: Very strong — extensively documented in F1, F2a, F2b with explicit register annotations.
+
+---
+
+#### 2.1.2 Indonesian — Exceptional Error-Type Compounding
+
+**What diverges**: Indonesian shows exceptional productivity in error-type specification through salah- compounding, unparalleled in other languages.
+
+**How strongly**: 14+ productive salah- compounds documented in F1 and F2b:
+- salah paham "misunderstand"
+- salah guna "misuse"
+- salah kaprah "common error"
+- salah tingkah "awkward"
+- salah langkah "misstep"
+- salah jalan "wrong way"
+- salah alamat "wrong address"
+- salah urus "mismanagement"
+- salah tafsir "misinterpret"
+- salah ucap "slip of tongue"
+- salah tulis "typo"
+- salah hitung "miscalculation"
+- salah lihat "see wrongly"
+- salah dengar "mishear"
+
+**Breadth**: Specific to error domain. Korean shows limited similar patterns but far less productive.
+
+**Interpretation**: Represents **unique lexical elaboration strategy**. May reflect cultural emphasis on error-type specification or productive compounding pattern specific to Indonesian.
+
+**Evidence strength**: Very strong — extensively documented in F1, F2b tables.
+
+---
+
+#### 2.1.3 Yoruba — Directional/Guidance Extensions
+
+**What diverges**: Yoruba uniquely extends "straight/correct" root (tọ́) to directional guidance and proper care domains beyond epistemic correctness.
+
+**How strongly**: Multiple productive extensions documented in F1 and F2b:
+- tọ́ ẹsẹ̀ "direct one's steps"
+- tọ́ ọwọ́ "guide hand"
+- tọ́jú "care for properly"
+- tọ́ ọkàn "set heart/mind correctly"
+
+**Breadth**: Specific to tọ́ root family. Georgian shows limited similar pattern (მართვა "management") but less elaborated.
+
+**Interpretation**: Represents **unique semantic extension** from spatial/epistemic to care/guidance domains. May reflect cultural conceptualization of truth/correctness as active guidance rather than static property.
+
+**Evidence strength**: Strong — clearly documented in F1, F2b with multiple examples.
+
+---
+
+### 2.2 Construction-Level Outliers
+
+#### 2.2.1 Finnish — Partitive Case Requirement
+
+**What diverges**: Finnish uniquely requires partitive case for general truth statements, with no parallel in other case-marking languages.
+
+**How strongly**: Obligatory partitive *totta* in constructions like *se on totta* "it is true." Nominative used only for specific truths.
+
+**Breadth**: Specific to truth-domain predication. Other case-marking languages (Tamil, Basque, Korean) use nominative or accusative without partitive distinction.
+
+**Interpretation**: Reflects **Finnish-specific case semantics** (partitive for unbounded/general reference). Represents language-specific constructional requirement.
+
+**Evidence strength**: Strong — explicitly documented in F4 with [CORE] rating.
+
+---
+
+#### 2.2.2 Indonesian — Softened Negation Strategy
+
+**What diverges**: Indonesian (and to lesser extent Korean) shows dedicated politeness strategy using *kurang* "less/lacking" for softened negation.
+
+**How strongly**: *kurang benar* "not quite correct" rated [CORE] in F6. Systematic politeness strategy documented in F4.
+
+**Breadth**: Specific to negation constructions. Other languages use standard negation without dedicated softening strategy.
+
+**Interpretation**: Represents **pragmatic elaboration** for face-saving. Korean shows similar patterns. Other languages express politeness through different means (hedging, indirectness).
+
+**Evidence strength**: Strong — documented in Indonesian F4, F6; noted in Korean.
+
+---
+
+#### 2.2.3 Turkish — Inchoative + Causative Stacking
+
+**What diverges**: Turkish shows productive morphological stacking of inchoative + causative suffixes, creating "make become X" verbs.
+
+**How strongly**: Multiple productive examples in F2a:
+- gerçekleştirmek "realize/accomplish" (gerçek + -leş + -tir)
+- kesinleştirmek "finalize" (kesin + -leş + -tir)
+- sağlamlaştırmak "strengthen" (sağlam + -laş + -tır)
+
+**Breadth**: Specific to Turkish morphological system. Korean achieves similar meaning periphrastically (-게 하다) but not through affixal stacking.
+
+**Interpretation**: Represents **typological possibility** in agglutinative languages with rich suffixation. Turkish exploits this productively; other agglutinative languages don't show comparable stacking in truth-domain.
+
+**Evidence strength**: Strong — clearly documented in F2a with multiple examples.
+
+---
+
+### 2.3 Dimension-Specific Outliers
+
+#### 2.3.1 Tamil — Truth/Body Polysemy
+
+**What diverges**: Tamil மெய் (mey) uniquely polysemous between "truth/reality" and "body/physical."
+
+**How strongly**: Systematic polysemy documented in F1:
+- மெய் "truth/reality" (elevated register)
+- மெய்யெழுத்து "consonant" (lit. "body-letter")
+- மெய்ப்பாடு "bodily suffering"
+
+**Breadth**: Specific to மெய் root. Korean shows limited similar pattern (진 relates to both truth and physical essence: 진땀 "cold sweat") but less systematic and marked as marginal.
+
+**Interpretation**: May reflect **etymological connection** or **philosophical conceptualization** linking truth with embodiment. Unique in sample.
+
+**Evidence strength**: Strong — explicitly documented in F1 with multiple examples.
+
+---
+
+#### 2.3.2 Turkish — Hak Polysemy Range
+
+**What diverges**: Turkish hak shows exceptional polysemy spanning truth, rights, deservingness, and divinity, with no parallel in other languages.
+
+**How strongly**: Documented in F1 and F2b:
+- "truth" (elevated/religious)
+- "right" (legal entitlement)
+- "due" (what is deserved)
+- "God" (Hak Teala "God Almighty")
+
+Plus extensive idiomatic expressions: hak etmek "deserve," hak vermek "agree with," hak yemek "wrong someone," hak aramak "seek rights."
+
+**Breadth**: Specific to hak root. No other language shows comparable polysemy range in single root.
+
+**Interpretation**: Represents **exceptional semantic extension** possibly reflecting Arabic/Islamic influence on Turkish conceptual system.
+
+**Evidence strength**: Very strong — extensively documented in F1, F2b with 15+ idiomatic expressions.
+
+---
+
+#### 2.3.3 Korean — Internal Oppositional Compounds
+
+**What diverges**: Korean creates single-word compounds that internally encode truth/falsehood opposition.
+
+**How strongly**: Two clear examples in F1:
+- 진위 (jinwi) "truth-or-falsehood" (진 true + 위 false)
+- 허실 (heosil) "empty-or-real" (허 empty + 실 real)
+
+**Breadth**: Specific to Korean Sino-Korean compounding. Turkish shows fixed pairing (doğru yanlış) but not single-word compounding. Other languages pair terms syntactically.
+
+**Interpretation**: Represents **morphological possibility** in Sino-Korean compound system. May reflect Chinese influence on Korean word-formation.
+
+**Evidence strength**: Strong — clearly documented in F1, F2b.
+
+---
+
+#### 2.3.4 Korean — Practice/Theory Elaboration
+
+**What diverges**: Korean shows exceptional lexicalization of practical/actual reality through extensive 실- root family.
+
+**How strongly**: F1 documents 15+ compounds:
+- 실제 "actuality"
+- 실질적 "substantial/actual"
+- 실효성 "actual effectiveness"
+- 실력 "actual ability"
+- 실적 "actual results"
+- 실무 "practical work"
+- 실전 "actual combat"
+- 실험 "experiment"
+- 실증 "empirical proof"
+
+**Breadth**: Specific to practice/theory distinction. Other languages express this constructionally or through borrowed terms.
+
+**Interpretation**: Represents **domain-specific elaboration** possibly reflecting emphasis on practical implementation or Sino-Korean vocabulary structure.
+
+**Evidence strength**: Very strong — extensively documented in F1, F3 GROUP 5.
+
+---
+
+#### 2.3.5 Georgian — Religious Orthodoxy Integration
+
+**What diverges**: Georgian uniquely integrates religious orthodoxy terminology into truth-domain root system.
+
+**How strongly**: მართლმადიდებელი "Orthodox Christian" (lit. "right-glorifying") from მართ- "right/true" root. Creates systematic connection between truth, correctness, and religious orthodoxy.
+
+**Breadth**: Specific to Georgian. Other languages use separate religious vocabulary not morphologically integrated with truth-domain roots.
+
+**Interpretation**: Reflects **cultural-religious history** of Georgian Orthodox Christianity. Represents unique integration of doctrinal correctness into general truth vocabulary.
+
+**Evidence strength**: Strong — documented in F1, F2a.
+
+---
+
+## 3. Open Questions
+
+### 3.1 Inchoative Blocking Mechanism
+
+**Question**: What explains the systematic blocking of simple inchoatives with abstract truth terms in 6/8 languages? Is it semantic incompatibility (truth as pre-existing vs. inchoative as coming-into-being), ontological constraint (truth cannot "become"), or pragmatic preference (revelation constructions more informative)?
+
+**Current evidence**: Strong blocking pattern (6/8 languages) with systematic revelation-verb substitution documented in F6. But underlying mechanism unclear.
+
+**What's needed**: Cross-domain comparison (do other abstract concepts show similar blocking?); diachronic evidence (did languages historically allow inchoatives now blocked?); explicit semantic testing.
+
+---
+
+### 3.2 Agentive Asymmetry Explanation
+
+**Question**: Why is agentive "truth-teller" universally absent while "liar" is universally lexicalized? Is it pragmatic markedness (lying requires naming), frequency asymmetry (liars discussed more), or conceptual asymmetry (lying is action, truth-telling is state)?
+
+**Current evidence**: Universal asymmetry (8/8 languages) documented in all F5 tables, but explanation is speculative.
+
+**What's needed**: Corpus frequency data (are "liar" terms actually more frequent?); cross-domain comparison (do other moral domains show similar asymmetries?); experimental elicitation (do speakers accept novel "truth-teller" coinages?).
+
+---
+
+### 3.3 ESS and LIFE Axis Status
+
+**Question**: Are AOML's ESS (essence) and LIFE (lifelikeness) genuine cross-linguistic semantic dimensions, or are they subsumed under empirical D1 (factual truth) and D2 (authenticity)?
+
+**Current evidence**: Not identified as separate dimensions in G3 analysis. Essence and realism terms exist but aren't systematically distinguished from truth/authenticity in F3 tables.
+
+**What's needed**: Targeted elicitation testing whether languages distinguish essential properties from factual properties and representational fidelity from object authenticity; testing AOML diagnostic (do revelation constructions behave differently with essence/fidelity terms?); broader language sample.
+
+---
+
+### 3.4 Causative Agentive vs. Stative Distinction
+
+**Question**: Do languages systematically distinguish agentive causatives (perform verification action) from stative causatives (cause truth-state change)?
+
+**Current evidence**: Verification causatives (agentive) universally productive (F2a). Truth-creation causatives (stative) blocked in 4/8 languages (F4). But distinction not explicitly tested.
+
+**What's needed**: Explicit elicitation contrasting "X verified the claim" (agentive) vs. "X made the claim true" (stative); testing across all dimensions; morphological evidence (do languages mark agentive vs. stative differently?).
+
+---
+
+### 3.5 Concealment Elaboration Asymmetry
+
+**Question**: Is revelation vocabulary systematically more elaborated than concealment vocabulary across languages, or is this sampling artifact?
+
+**Current evidence**: All languages have concealment vocabulary (F4), but F1 tables suggest revelation may be more elaborated (more specialized verbs in Korean, Georgian, Turkish).
+
+**What's needed**: Systematic comparison of revelation vs. concealment verb inventories; corpus frequency data; cross-domain comparison (is revelation more elaborated in other domains?).
+
+---
+
+### 3.6 Polysemy Universality and Areal Distribution
+
+**Question**: Is the straightness/correctness polysemy (6/8 languages) a genuine universal tendency, an areal feature, or coincidental independent development?
+
+**Current evidence**: Present in 6/8 languages (Georgian, Yoruba, Finnish, Basque, Tamil, Turkish). Absent in Indonesian and Korean.
+
+**What's needed**: Broader language sample to test universality; diachronic evidence (when did polysemy develop?); areal analysis (are the 6 languages geographically or historically connected?); typological analysis (does polysemy correlate with morphological type?).
+
+---
+
+### 3.7 Dispositional Causation Universality
+
+**Question**: Is dispositional causation blocking truly universal, or might some languages allow it under specific conditions not yet tested?
+
+**Current evidence**: Consistent absence across all 8 F4 tables. Aligns with AOML Rule R1 ("16/16 languages"). But evidence from absence rather than explicit blocking.
+
+**What's needed**: Explicit elicitation with prompts like "make someone become a liar" (character change) vs. "make someone lie" (specific act); testing whether any contexts license dispositional causation; broader language sample.
+
+---
+
+### 3.8 Degree Modification Universality
+
+**Question**: Is degree modification blocking for truth nominals universal, or language-specific?
+
+**Current evidence**: Documented in Korean and Finnish F6 tables. Other languages not systematically tested.
+
+**What's needed**: Systematic testing across all 8 languages with various truth-term types (nouns vs. adjectives, abstract vs. concrete); cross-domain comparison (do other abstract nominals show same restriction?); syntactic analysis (is this noun/adjective distinction or truth-domain-specific?).
+
+---
+
+### 3.9 Passive Voice Correlation
+
+**Question**: Does passive voice preference in revelation constructions correlate with general passive productivity in the language?
+
+**Current evidence**: Finnish, Korean, Indonesian (productive passive systems) prefer passive revelation verbs. Yoruba (less grammaticalized passive) prefers active. Suggests correlation but not definitively established.
+
+**What's needed**: Systematic comparison of passive productivity across domains; statistical analysis of correlation; broader language sample including languages with no passive voice.
+
+---
+
+### 3.10 Register Stratification Triggers
+
+**Question**: What triggers extensive register stratification in some languages (Korean, Tamil, Turkish) but not others (Yoruba, Georgian, Basque)?
+
+**Current evidence**: Languages with extensive contact history show more stratification (F1 tables document). But correlation isn't perfect (Finnish has contact but less stratification).
+
+**What's needed**: Sociolinguistic analysis of contact history; comparison with other semantic domains (is stratification truth-domain-specific?); analysis of borrowing patterns (which semantic dimensions are more likely borrowed?).
+
+---
+
+**Summary**: Ten data-motivated open questions requiring targeted investigation, broader language samples, or explicit elicitation to resolve. Questions focus on mechanisms (why blocking occurs), universality scope (are patterns truly universal), and explanatory factors (what drives observed asymmetries).

@@ -1,0 +1,231 @@
+# Global Convergence Report: Cross-Language Analysis of Truth-Related Semantic Organization
+
+## 1. Scope and Data
+
+### Languages and Families
+
+This report synthesizes findings from a structured cross-linguistic analysis of eight languages spanning six genealogical groupings: Georgian (Kartvelian), Yoruba (Niger-Congo), Finnish (Finno-Ugric), Basque (language isolate), Tamil (Dravidian), Indonesian (Austronesian), Turkish (Turkic), and Korean (Koreanic). The sample is typologically diverse in morphological type (agglutinative, isolating, and mixed), word order, and case-marking strategy, though it is not a probability sample of the world's languages and should not be treated as one.
+
+### Analytical Layers
+
+Each language was analyzed through six protocol phases: F1 (vocabulary inventory with epistemic status ratings), F2a (derivational morphology), F2b (attested constructions and collocations), F3 (semantic grouping), F4 (construction types and naturalness), F5 (oppositional structures), and F6 (naturalness elicitation across targeted prompts). These were synthesized in eight cross-language steps (G1–G8) covering per-language summaries, lexical partition comparison, emergent semantic dimensions, derivational strategies, construction comparison, opposition and asymmetry comparison, a data-derived constraint matrix, comparison with an external theoretical model (AOML), and identification of candidate universals and outliers.
+
+### Data Completeness
+
+Coverage is broadly comparable across languages, though some variation exists. F6 naturalness data is most complete for Finnish, Basque, Tamil, and Korean; Yoruba and Georgian show some gaps in targeted elicitation. Indonesian and Turkish F6 data are present but less systematically organized around the same prompt sets. Several cells in the constraint matrix (G7a) are marked INSUFFICIENT DATA, particularly for agentive nominalization in the justice, appearance/reality, and similarity dimensions, and for causative constructions in the similarity and practical-reality dimensions. These gaps reflect the scope of data collection rather than confirmed absences and should not be interpreted as evidence for blocked status.
+
+---
+
+## 2. Core Cross-Language Findings
+
+### 2.1 Semantic Organization: Shared Partitions
+
+Across all eight languages, the truth-related lexical field is organized around a set of recurring semantic clusters that appear independently in the F3 grouping analyses. Thirteen dimensions were identified as recurring with sufficient cross-language support to warrant systematic comparison (G3). The most robustly attested are:
+
+**Propositional correspondence** (whether statements match actual states of affairs) is lexically distinguished in all eight languages and generates the most productive derivational families in each. This dimension is consistently kept separate from the evaluation of objects (authenticity) and persons (honesty), though some terms participate in multiple dimensions.
+
+**Deliberate deception versus unintentional error** is maintained as a lexical distinction in all eight languages. Terms for intentional lying consistently carry stronger moral valence, generate more agentive nominalizations, and show different collocational behavior than terms for accidental mistake. The boundary is not always sharp in usage, but the lexical separation is present everywhere.
+
+**Authenticity of objects** (genuine versus counterfeit) is distinguished from propositional truth in all eight languages, though the degree of overlap varies. Some terms (Georgian *ნამდვილი*, Turkish *gerçek*) participate in both domains; others (Finnish *aito* versus *tosi*, Yoruba *gidi* versus *tọ́*) are kept more separate.
+
+**Honesty and moral character** (truthfulness as a stable trait of persons) is distinguished from propositional truth in all eight languages and forms a distinct cluster in F3 analyses. Sincerity of emotional expression is sometimes grouped with this cluster and sometimes treated as a sub-dimension of authenticity.
+
+**Moral rightness and justice** is present in all eight languages but shows the greatest cross-language variation in its relationship to propositional truth. In Georgian, Turkish, and Basque, a single root spans both factual correctness and moral/legal rightness (Georgian *mart'l-*, Turkish *hak-*, Basque *zuzen-*). In Yoruba, Korean, and Finnish, the domains are kept more separate.
+
+**Reliability and credibility of sources** forms a distinct cluster in all eight languages, consistently kept separate from propositional truth. Reliability terms are freely gradable in all languages, contrasting with the resistance to degree modification observed for core propositional truth predicates in several languages (see §2.3).
+
+**Epistemic certainty and doubt** is present in all eight languages and is consistently gradable. Its degree of independence from the reliability cluster varies: Basque groups certainty terms under reliability rather than forming an independent cluster; Finnish, Turkish, and Korean show the most elaborated epistemic certainty vocabulary.
+
+**Validity and legitimacy** (conformity to legal, procedural, or logical standards) is present in all eight languages. Indonesian shows the most elaborated legal validity cluster; Turkish shows the most elaborated legitimacy vocabulary. The dimension partially overlaps with moral rightness in several languages.
+
+Four additional dimensions—appearance versus underlying reality, similarity and correspondence, practical reality versus theory, and verification and proof processes—are present in all eight languages but show more uneven elaboration. Korean's *sil-* cluster (실제, 실질, 실천, 실현, etc.) represents the most extensive development of the practical-reality dimension; Yoruba's *bá mu/ìbámu/jọ* cluster represents the most extensive development of the correspondence dimension.
+
+### 2.2 Shared Derivational Patterns
+
+Several derivational strategies recur across unrelated language families:
+
+**Abstract nominalization** from truth-domain bases is universally productive, realized through typologically diverse strategies: suffixes (Finnish *-uus/-yys*, Basque *-tasun*, Turkish *-luk/-lük*, Korean *-성*), circumfixes (Indonesian *ke-...-an*), prefixes (Yoruba *ì-*), and suffix-plus-stem alternation (Georgian *si-...-e*). The functional pattern is consistent despite formal diversity.
+
+**Adverbial derivation** from truth-domain adjectives is universally productive, with several forms having grammaticalized into discourse markers (see §2.3).
+
+**Negative prefix or suffix creating antonyms** is productive in seven of eight languages: Georgian *u-/ara-*, Yoruba *àì-*, Finnish *epä-*, Tamil *-aṟṟa*, Turkish *-sız/-siz*, Korean *부-/불-*. Indonesian uses analytic negation (*tidak* + adjective) rather than a morphological strategy, which is consistent with Indonesian's general typological preference for analytic morphology.
+
+**Compound formation with a deception modifier as first element** is universally productive. All eight languages generate domain-specific terms for false documents, false testimony, counterfeit money, and fake news through the pattern [deception/falsity modifier + domain noun]. The specific modifier varies (Georgian *ყალბი*, Yoruba *irọ́*, Finnish *väärä*, Basque *gezurrezko*, Tamil *poy*, Indonesian *palsu*, Turkish *sahte*, Korean *거짓*), but the structural pattern is consistent. This is the most formally uniform cross-language pattern in the dataset.
+
+**Pejorative or collective nominalization** of deception is present in several languages but most systematically developed in Basque, where the *-keria* suffix creates nominalizations for habitual or systematically condemned deception (*gezurkeria* "habitual lying," *faltsukeria* "falseness," *iruzurkeria* "fraudulence") that are formally distinct from the neutral *-tasun* nominalizations used for positive moral qualities (*zintzotasuna* "honesty"). This formal asymmetry encoding a moral asymmetry is not documented in other languages.
+
+**Productive inchoative/causative morphological pairs** are most developed in Finnish (*todellistua/todellistaa*, *toteutua/toteuttaa*, *todentua/todentaa*) and Turkish (*gerçekleşmek/gerçekleştirmek*, *kesinleşmek/kesinleştirmek*, *meşrulaşmak/meşrulaştırmak*). Other languages express the inchoative/causative distinction analytically.
+
+### 2.3 Shared Constructional Patterns
+
+**Predicative attribution, negation, and adnominal modification** are attested across all eight languages for all truth-related dimensions. The formal strategies differ (zero copula in Yoruba, Tamil, Indonesian, Turkish, Korean; incorporated copula suffix in Georgian; overt copula in Finnish; postpredicate negator *değil* in Turkish versus preverbal negators elsewhere; adnominal suffix required in Korean and Tamil), but the constructional functions are universally present.
+
+**Discourse marker grammaticalization** from truth-domain roots is documented in all eight languages. At least one truth-domain form has grammaticalized into a discourse marker introducing corrections, frank statements, or factual clarifications in every language: Georgian *მართლაც* "really/indeed," Yoruba *nitootọ́* "truly," Finnish *totta kai* "of course," Basque *benetan* "truly/really," Tamil *uṇmaiyil* "in truth/actually," Indonesian *sebenarnya* "actually/in fact," Turkish *gerçekten* "really/truly," Korean *사실은* "actually/in fact." The degree of grammaticalization varies from fully opaque (Finnish *totta kai*, Indonesian *ternyata*) to semi-transparent (Korean *사실은*). This pattern appears across unrelated language families and is not explained by contact.
+
+**Verification and confirmation constructions** are present in all eight languages. Finnish shows the most elaborated verification vocabulary (distinct verbs for proving, verifying, confirming, and checking). Yoruba splits verification into investigation, examination, observation, and confirmation sub-constructions built from the productive *ṣe* + noun pattern. Basque has a productive verification stem (*egiazta-*). All languages show a preference for lexical verification verbs over direct morphological causatives of truth adjectives when expressing the causation of truth states.
+
+**Evidential and epistemic marking** is present in all eight languages, realized through dedicated particles (Georgian *თურმე*, *ხომ*, *მეთქი*), question particles (Yoruba *ṣé*, Turkish *mu*), inferential constructions (Korean *것 같다*), probability adverbs (Finnish *todennäköisesti*), grammaticalized evidentials (Indonesian *ternyata*), and appearance verbs (Basque *dirudi*, Georgian *ჩანს*).
+
+**Proverbial or idiomatic expressions asserting truth's ultimate triumph or difficulty** are documented in all eight languages, though the specific metaphors vary: Georgian "lies have short legs," Yoruba "truth will surpass lies," Finnish "truth will be revealed eventually," Basque truth-and-falsehood binomial, Tamil "truth will triumph in the end," Indonesian "truth will be revealed," Turkish "bitter truth," Korean "the truth always comes to light."
+
+### 2.4 Major Asymmetries
+
+**The agentive nominalization asymmetry** is the most consistent cross-language finding in the dataset. Every language has a dedicated agentive noun for "liar" derived through morphological processes (Georgian *მატყუარა*, Yoruba *apurọ́*, Finnish *valehtelija*, Basque *gezurlari*, Tamil *poyyan/poyyar*, Indonesian *pembohong*, Turkish *yalancı*, Korean *거짓말쟁이*). No language productively derives a parallel agentive for "truth-teller" through the same morphological strategy. Where positive-agent forms exist, they are marginal (Georgian *მართლმოსაუბრე* [MARGINAL], Turkish *doğrucu* [MARGINAL]) or require compounds or periphrastic constructions (Yoruba *ọmọ òtítọ́* "child of truth," Korean *진실을 말하는 사람* "person who speaks truth"). This asymmetry is not explained by morphological constraints, since the same suffixes that create "liar" forms could in principle create "truth-teller" forms.
+
+**The inchoative asymmetry** is equally consistent. Constructions expressing "becoming true" or "coming true" are more productive and more naturally expressed than constructions expressing "becoming false" or "turning out to be a lie" in all eight languages. The negative direction is consistently expressed through discovery-of-falsity constructions (Finnish *osoittautua vääräksi*, Turkish *yanlış çıkmak*, Korean *거짓으로 판명되다*, Indonesian *ternyata palsu*) rather than simple inchoatives. Finnish explicitly lacks a common expression for "becoming untrue" (documented gap in F6). Yoruba lacks attested constructions for both directions, treating truth as a static property.
+
+**The causative asymmetry** parallels the inchoative asymmetry. Causative constructions for deception and falsification are more morphologically productive and more naturally expressed than causative constructions for propositional truth in all eight languages. No language has a productive morphological causative of a truth adjective meaning "make true" in everyday use; the function is consistently expressed through lexical verification verbs (prove, confirm, verify, reveal). Causative constructions for deception are natural across all languages (Georgian *გააყალბა*, Finnish *vääristää*, Basque *faltsutu*, Tamil *poy kaṭṭu*, Indonesian *memalsukan*, Turkish *yalanlamak*, Korean *조작하다*).
+
+**The metalinguistic predicate asymmetry** is present in at least five of eight languages. In Yoruba, Finnish, Tamil, Indonesian, and Korean, the speech act of lying is expressed through a more morphologically condensed construction (dedicated verb or compound verb) than the speech act of truth-telling (verb + object construction). In Georgian, Basque, and Turkish, both speech acts use parallel verb + object constructions. The Yoruba case is particularly striking: the verb *pa* ("kill/strike") is conventionalized with *irọ́* (lie) in a pairing that is not compositionally predictable.
+
+**The negative compound lexicalization asymmetry** is documented in Finnish and Indonesian: negative compounds (*väärinkäsitys* "misunderstanding," *väärinkäyttö* "misuse," Indonesian *penyalahgunaan* "abuse/misuse") are lexicalized while their positive counterparts remain compositional. This pattern is implied in other languages but most clearly documented in these two.
+
+**Degree modification** of core propositional truth predicates is resisted in five of eight languages (Yoruba, Korean, Finnish, Basque, Tamil), where truth is treated as binary rather than scalar. Three languages allow it freely (Georgian, Indonesian, Turkish). By contrast, reliability and credibility terms are freely gradable in all eight languages, and similarity terms are freely gradable in all languages where they are tested. This contrast between propositional truth (variable gradability) and reliability/similarity (freely gradable) is one of the most consistent structural distinctions in the dataset.
+
+---
+
+## 3. Global Constraint Summary
+
+The constraint matrix (G7a) covers 13 semantic dimensions and 20 constructional functions. Cells are classified as ALLOWED, BLOCKED, VARIABLE, or INSUFFICIENT DATA based on cross-language evidence. The following summarizes the main findings by confidence level.
+
+### 3.1 Strongly Supported Constraints (6–8 languages, consistent F4/F5/F6 data)
+
+**Predicative attribution, negation, and adnominal modification are ALLOWED for all dimensions.** These three constructional functions are attested across all eight languages for all truth-related dimensions. No blocking or restriction is observed. The formal strategies differ typologically but the functional availability is universal.
+
+**Agentive nominalization of the negative agent (liar, deceiver) is ALLOWED.** Every language lexicalizes this agentive through morphological derivation. The pattern is consistent across all eight languages and all language families.
+
+**Agentive nominalization of the positive agent (truth-teller) is BLOCKED or strongly dispreferred.** No language productively derives a "truth-teller" agentive through the same morphological strategy used for "liar." This is the strongest candidate for a cross-linguistic constraint in the dataset. The blocking is not absolute (marginal forms exist in two languages) but is consistent enough to be treated as a strong tendency approaching a constraint.
+
+**Compound formation [DECEPTION MODIFIER + DOMAIN NOUN] is ALLOWED.** All eight languages productively generate domain-specific deception compounds. This is the most formally uniform cross-language pattern in the dataset.
+
+**Discourse marker grammaticalization from truth-domain roots is ALLOWED.** All eight languages show this pattern. The degree of grammaticalization varies but the functional availability is universal.
+
+**Degree modification of reliability and similarity terms is ALLOWED.** Both dimensions are freely gradable in all languages where they are tested. No restriction is observed.
+
+**The positive inchoative direction (CF4) is consistently more productive than the negative inchoative direction (CF5) for propositional truth.** This asymmetry is documented in all eight languages. The negative direction is consistently expressed through discovery-of-falsity constructions rather than simple inchoatives. Finnish explicitly lacks a common expression for the negative direction; Yoruba lacks constructions for both directions.
+
+**Causative constructions for deception and falsification are more productive than causative constructions for propositional truth.** This asymmetry is documented in all eight languages. Verification verbs substitute for direct causatives of truth adjectives in all languages.
+
+**Abstract nominalization is ALLOWED for all truth-related dimensions.** The pattern is universally productive across all eight languages and all dimensions where it is tested.
+
+### 3.2 Moderately Supported Patterns (4–6 languages, consistent F4/F5 data, some F6 gaps)
+
+**Character change toward honesty (D5 × CF4) is ALLOWED.** Inchoative constructions for character change toward honesty are natural across all languages with F6 data. This contrasts with the restricted pattern for propositional truth inchoatives and suggests that character is treated as more changeable than propositional truth.
+
+**Reliability change in both directions (D7 × CF4/CF5) is ALLOWED.** Both gaining and losing credibility are natural and productive across languages. This contrasts with the asymmetric pattern for propositional truth (positive direction more productive than negative).
+
+**Epistemic certainty change in both directions (D8 × CF4/CF5) is ALLOWED.** Both becoming certain and becoming uncertain are natural across languages.
+
+**Validity causatives (D10 × CF6/CF7) are ALLOWED.** Conferring and revoking validity are natural across languages, contrasting with the restricted pattern for propositional truth causatives. This suggests that institutional/procedural validity behaves differently from propositional truth under causation.
+
+**Degree modification of propositional truth predicates is VARIABLE.** Five of eight languages show documented resistance (Yoruba, Korean, Finnish, Basque, Tamil); three allow it freely (Georgian, Indonesian, Turkish). The variation is not random: languages that treat truth as binary resist degree modification; languages that treat truth as more scalar allow it. This is a strong tendency rather than a universal.
+
+**Positive inchoative constructions for propositional truth are VARIABLE.** Five languages allow them (Georgian, Finnish, Turkish, Indonesian, Tamil); two treat them as marginal (Basque, Korean); one lacks them (Yoruba). The variation correlates with whether the language treats truth as a static property to be discovered or a state that can emerge.
+
+**Agentive nominalization for forger/counterfeiter (D4 × CF9) is VARIABLE.** Forger agentives are documented in several languages (Finnish *pemalsu*, Indonesian *pemalsu*, Turkish *sahtekâr*, Basque *gezurlari*) but not as consistently as "liar" agentives.
+
+### 3.3 Weak or Uncertain Areas
+
+Several cells in the constraint matrix are marked INSUFFICIENT DATA, particularly for agentive nominalization in the justice (D6), appearance/reality (D9), validity (D10), similarity (D11), and practical-reality (D12) dimensions. Causative constructions for similarity (D11) and practical reality (D12) are not systematically tested. Metalinguistic truth predicates (CF14) for dimensions other than propositional correspondence and deliberate deception are not consistently documented. Temporal constructions are not included as a distinct constructional function in the empirical matrix.
+
+The constraint on degree modification of propositional truth predicates is a strong tendency (5 of 8 languages) but not a universal. The distinction between grammatical unacceptability and pragmatic oddness is not always clear from the elicitation data, and this uncertainty affects the interpretation of several VARIABLE cells.
+
+---
+
+## 4. Candidate Universals and Outliers
+
+### 4.1 Strong Cross-Language Tendencies
+
+The following patterns are documented in all eight languages with consistent evidence across F1–F6 and G1–G8 analyses. They are described as strong tendencies rather than universals because the sample of eight languages is not sufficient to establish universality, and because some patterns show variation in degree or form even when present in all languages.
+
+1. **Lexical separation of deliberate deception from unintentional error** (all 8 languages, high confidence). The two clusters show different moral valence, different collocational patterns, and different derivational behavior in every language analyzed.
+
+2. **Agentive nominalization asymmetry: "liar" lexicalized; "truth-teller" absent or periphrastic** (all 8 languages, high confidence). This is the most consistent cross-language asymmetry in the dataset. The morphological resources exist in every language; the forms are simply not produced for the positive agent.
+
+3. **Compound formation [DECEPTION MODIFIER + DOMAIN NOUN] is universally productive** (all 8 languages, high confidence). The structural pattern is consistent across all languages and generates new compounds as new domains emerge.
+
+4. **Discourse marker grammaticalization from truth-domain roots** (all 8 languages, high confidence). At least one truth-domain form has grammaticalized into a discourse marker in every language, across unrelated language families.
+
+5. **Abstract nominalization from truth-domain bases is universally productive** (all 8 languages, high confidence). The specific suffixes differ typologically but the functional pattern is consistent.
+
+6. **Separation of authenticity/genuineness from propositional truth** (all 8 languages, high confidence). The two domains show different constructional behavior and different collocational patterns in every language, though some terms participate in both.
+
+7. **Reliability and credibility terms are freely gradable; core propositional truth predicates show resistance to degree modification in a majority of languages** (all 8 languages for reliability gradability; 5 of 8 for truth-predicate resistance; medium-high confidence). The contrast between the two is consistent, though the resistance to truth-predicate degree modification is not universal.
+
+8. **Positive inchoative constructions for propositional truth are more productive than negative inchoative constructions** (all 8 languages, high confidence). The negative direction is consistently expressed through discovery-of-falsity constructions rather than simple inchoatives.
+
+9. **Verification verbs substitute for direct causatives of propositional truth** (all 8 languages, high confidence). No language has a productive "make true" causative; the function is consistently expressed through lexical verification verbs.
+
+10. **Causing deception is more morphologically productive than causing propositional truth** (all 8 languages, high confidence). The asymmetry parallels the agentive and inchoative asymmetries.
+
+11. **Reliability and credibility form a distinct semantic cluster, consistently separated from propositional truth** (all 8 languages, high confidence). The distinction between "this source is reliable" and "this claim is true" is maintained across all eight languages.
+
+12. **Metalinguistic truth-telling constructions show asymmetric verb selection** (5 of 8 languages, medium-high confidence). The speech act of lying is expressed through a more morphologically condensed construction than the speech act of truth-telling in a majority of languages.
+
+### 4.2 Tentative or Weak Candidates
+
+The following patterns are present in the data but with weaker evidence, either because they are documented in fewer languages, because the evidence is primarily from F1/F3 rather than F4/F6, or because the interpretation is uncertain.
+
+- **Proverbial expressions asserting truth's ultimate triumph or difficulty** are documented in all eight languages but vary considerably in form and metaphor. The claim that this reflects a shared cultural framing goes beyond what the linguistic data alone establishes (medium confidence).
+
+- **Moral rightness and justice vocabulary is present in all languages but shows variable integration with propositional truth vocabulary** (all 8 languages for presence; medium confidence for the integration claim). The degree of merger between factual correctness and moral rightness within a single root varies considerably.
+
+- **Epistemic certainty and doubt form a distinct cluster in all languages** (all 8 languages, medium-high confidence). The degree of independence from the reliability cluster varies.
+
+### 4.3 Major Outliers
+
+**Yoruba** shows the strongest resistance to inchoative and causative constructions for propositional truth. While other languages show restricted or variable patterns, Yoruba lacks attested constructions for both directions of the propositional truth inchoative (marked [MISSING] in F6, not merely [MARGINAL]). Causative constructions for truth states are pragmatically odd and reinterpreted as verification or enabling. Yoruba also shows the most elaborated correspondence/matching cluster of any language in the dataset (*bá mu*, *ìbámu*, *jọ*, *ìjọra*, *àìbámu*), which is a positive outlier. The absence of a dedicated lexical antonym for *gidi* (genuine) is a further asymmetry not found in other languages.
+
+**Korean** shows a parallel resistance to inchoative and causative constructions for propositional truth, with morphological causatives for truth predicates absent (periphrastic *-게 하다* used instead). Korean also shows the most elaborated practical-reality versus theory cluster (*sil-* compounds) of any language in the dataset, and the native Korean antonym *그르다* (wrong) is archaic, surviving only in the fixed expression *옳고 그름* (right and wrong). The *진* (*jin*) morpheme appears in truth/genuineness, advancement/progress, and medical examination compounds, raising questions about polysemy versus homophony that cannot be resolved from synchronic data alone.
+
+**Georgian** shows the widest single-root semantic range in the dataset: the *mart'l-* root spans factual correctness, moral rightness, legal justice, orthography (*მართლწერა*), religious denomination (*მართლმადიდებელი*), and modal propriety (*მართებს*). Georgian is also the only language where the "lie/false" root (*ტყუილი*) extends to cover "futile/in vain" (*ტყუილად* "in vain," *ტყუილუბრალოდ* "pointlessly"). This extension has no parallel in the other seven languages.
+
+**Tamil** is the only language with a three-way register stratification of truth vocabulary: *uṇmai* (general, all registers), *mey* (literary/classical/spiritual), and *nijam* (colloquial/borrowed). The *mey* root generates an extensive cluster of philosophical and spiritual compounds (*meyññāṉam*, *meyyanpu*, *mey teyvam*, *mey pakti*) absent for *uṇmai*. No other language in the dataset shows this degree of register-based lexical differentiation within the truth domain.
+
+**Indonesian** uses analytic negation (*tidak* + adjective) for all truth-domain oppositions rather than a morphological prefix or suffix, making Indonesian's oppositions consistently constructional rather than morphological in the truth domain. Indonesian also shows the most elaborated legal validity cluster of any language (*sah*, *absah*, *batal*, *mengesahkan*, *pengesahan*, *keabsahan*, *kesahihan*).
+
+**Basque** shows a unique formal asymmetry in nominalization: the neutral *-tasun* suffix for positive moral qualities (*zintzotasuna* "honesty") versus the pejorative *-keria* suffix for negative moral qualities (*gezurkeria* "habitual lying," *faltsukeria* "falseness"). This formal encoding of a moral asymmetry is not documented in other languages. Basque also shows the most productive evaluative adjective suffix (*-garri*: *fidagarria*, *sinesgarria*, *zalantzagarria*, *frogagarria*) of any language in the dataset.
+
+**Finnish** shows the most elaborated verification/proof cluster (distinct verbs for proving, verifying, confirming, and checking) and the most productive inchoative/causative morphological pairs for truth-domain terms (*todellistua/todellistaa*, *toteutua/toteuttaa*, *todentua/todentaa*). Finnish also explicitly lacks a common expression for "becoming untrue," a gap documented in F6.
+
+**Turkish** shows the most elaborated rights and justice vocabulary (*hak*, *haklı*, *haksız*, *hakkaniyet*, *hakketmek*, *hak vermek*, *hak yemek*, *hakkını almak*, *hakkını helal etmek*, etc.) as part of the broader truth/correctness domain, and the most productive possessive-versus-privative morphological antonym pairs (*haklı/haksız*, *hatalı/hatasız*, *şüpheli/şüphesiz*).
+
+---
+
+## 5. Limitations and Future Work
+
+### 5.1 Sample Limitations
+
+The eight languages analyzed represent a convenience sample rather than a probability sample of the world's languages. Several major language families are unrepresented (Sino-Tibetan, Afroasiatic, Indo-European outside Finnish, Niger-Congo outside Yoruba, Austronesian outside Indonesian). The sample is biased toward languages with substantial written traditions and available linguistic expertise. Claims about cross-linguistic universality cannot be established from this sample alone; the findings should be treated as strong tendencies pending broader testing.
+
+### 5.2 Data Gaps
+
+Several constructional functions are not systematically tested across all languages. Agentive nominalization for the justice, appearance/reality, validity, similarity, and practical-reality dimensions is not consistently documented. Causative constructions for similarity and practical reality are not tested. Metalinguistic truth predicates for dimensions other than propositional correspondence and deliberate deception are not consistently documented. Temporal constructions are not included as a distinct constructional function. These gaps mean that several cells in the constraint matrix are marked INSUFFICIENT DATA and should not be interpreted as confirmed absences.
+
+The distinction between grammatical unacceptability and pragmatic oddness is not always clear from the elicitation data. Several VARIABLE cells may reflect pragmatic dispreference rather than grammatical restriction, and this uncertainty affects the interpretation of the constraint surface. Future work should include explicit grammaticality judgment tasks that distinguish these two sources of restriction.
+
+### 5.3 Methodological Limitations
+
+The F3 semantic grouping analyses involve analytical choices that may not be fully consistent across languages. Some groupings reflect the analyst's decisions about which items to cluster together, and different analysts might produce different groupings for the same data. The cross-language comparison in G2 and G3 attempts to identify recurring patterns, but the comparison is necessarily approximate given the different analytical choices made in each language's F3 analysis.
+
+The naturalness ratings in F6 (CORE, MARGINAL, UNCERTAIN, UNNATURAL) are based on native speaker judgments and analyst assessments, but the criteria for these ratings are not always explicitly specified. Some ratings may reflect frequency or register preferences rather than grammatical constraints. Future work should use more explicit rating scales and larger numbers of consultants.
+
+The constraint matrix (G7a) is derived inductively from the F-phase data and represents a summary of observed patterns rather than a formal grammatical model. The classification of cells as ALLOWED, BLOCKED, or VARIABLE involves judgment calls, particularly for cells where evidence is mixed or incomplete. The matrix should be treated as a research tool for identifying patterns and generating hypotheses rather than as a definitive statement of cross-linguistic constraints.
+
+### 5.4 Recommended Next Steps
+
+**Additional languages.** The most important extension would be to test the candidate universals identified in §4.1 against languages from unrepresented families, particularly Sino-Tibetan (Mandarin, Tibetan), Afroasiatic (Arabic, Amharic), Indo-European (Russian, Hindi), and additional Niger-Congo and Austronesian languages. The agentive asymmetry (CU-2) and the inchoative asymmetry (CU-9) are the highest-priority candidates for broader testing, as they are the most consistent findings in the current dataset.
+
+**Refined elicitation for the agentive asymmetry.** The finding that "truth-teller" agentives are universally absent or periphrastic is strong but requires more targeted investigation. Future work should include explicit elicitation of potential "truth-teller" agentive forms (asking speakers whether forms like *\*atọ́* in Yoruba or *\*진실쟁이* in Korean are possible, and if not, why not) to determine whether the blocking is grammatical or lexical.
+
+**Refined elicitation for degree modification.** The finding that core propositional truth predicates resist degree modification in five of eight languages requires more targeted investigation to distinguish grammatical unacceptability from pragmatic oddness. Future work should include explicit grammaticality judgment tasks with degree-modified truth predicates in both predicative and attributive positions.
+
+**Deeper analysis of the institutional validity dimension.** The finding that validity causatives (D10 × CF6/CF7) are ALLOWED while propositional truth causatives (D1 × CF6) are VARIABLE suggests that institutional/procedural validity behaves differently from propositional truth under causation. Future work should test this distinction more systematically across languages, including languages with highly elaborated legal vocabulary (Arabic, Japanese, German).
+
+**Investigation of the Georgian "futile/in vain" extension.** The semantic extension of *ტყუილი* from "lie" to "futile/in vain" is documented only in Georgian. Future work should investigate whether this extension is available in other languages (even if not lexicalized) through semantic acceptability tasks, and whether it reflects a cross-linguistically available conceptual pathway or a language-specific historical development.
+
+**Investigation of the Tamil register stratification.** Tamil's three-way register stratification of truth vocabulary is unique in the current sample. Future work should test whether comparable stratification exists in other Dravidian languages (Telugu, Kannada, Malayalam) and in other languages with long literary traditions (Sanskrit, Classical Arabic, Classical Chinese).
+
+**Systematic testing of the AOML LIFE axis.** The comparison with the AOML theoretical model (G7b) identified a potential conflict between AOML's prediction that abstract nominalization of LIFE is universally blocked and the empirical finding that similarity/resemblance nominalizations are natural across languages. Future work should test this conflict more systematically, including explicit elicitation of abstract nominalizations for resemblance and representational fidelity in languages not included in the current sample.
+
+**Broader testing of the causative constraint.** The finding that causing propositional truth is constrained while causing deception is productive raises questions about the scope and explanation of this asymmetry. Future work should test whether the constraint extends to other epistemic properties (causing knowledge, causing belief, causing certainty) and whether it is specific to propositional truth or reflects a more general principle about the causation of epistemic states.

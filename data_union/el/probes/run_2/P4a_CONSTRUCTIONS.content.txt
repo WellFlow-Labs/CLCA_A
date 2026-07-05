@@ -1,0 +1,146 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Greek (el)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[NP subject] + εἶναι/είναι (copula) + [truth-domain adjective (predicative)]
+
+### Examples
+- Ο ισχυρισμός είναι αληθής. / *O ishirismós íne alithís.* / "The claim is true."
+- Η κατάθεση κρίθηκε ψευδής. / *I katáthesi krítike psevdís.* / "The testimony was judged false."
+
+### Notes
+Greek uses a copular predicative construction as the primary attribution pattern; the adjective agrees in gender, number, and case with the subject NP. Attributive (prenominal) position is possible but less frequent for αληθής/ψευδής; αληθινός and σωστός are more common attributively (*αληθινή ιστορία*, *σωστή απάντηση*).
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+[NP subject] + δεν + είναι + [truth-domain adjective] — OR — [NP subject] + κρίθηκε/αποδείχθηκε + [negated adjective phrase]
+
+### Examples
+- Δεν είναι αληθινό αυτό που λες. / *Den íne alithinó aftó pu les.* / "What you are saying is not true."
+- Ο ισχυρισμός δεν είναι τεκμηριωμένος. / *O ishirismós den íne tekmirio̱ménos.* / "The claim is not substantiated."
+
+### Notes
+Sentential negation is formed by preverbal δεν; the adjective itself is not morphologically negated. Privative-prefix forms (αναξιόπιστος, αδιαμφισβήτητος) exist as lexicalized negatives but are not the productive negation strategy for most adjectives in this domain.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[truth-domain adjective] + [head noun] (prenominal, agreeing in gender/number/case) — OR — [head noun] + [genitive NP] for nominal modifiers
+
+### Examples
+- αληθινή ιστορία / *alithiní istoría* / "true story"
+- ψευδής κατάθεση / *psevdís katáthesi* / "false testimony"
+
+### Notes
+Adjectives in this domain freely occupy prenominal attributive position with full agreement inflection. Nominal modifiers (e.g., τεκμήριο αθωότητας, "presumption of innocence") use a following genitive NP rather than a compound or prefix.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[NP subject] + αποδεικνύεται / αποδείχθηκε / κρίνεται / κρίθηκε + [truth-domain adjective] — expressing transition to an evaluated state
+
+### Examples
+- Ο ισχυρισμός αποδείχθηκε αληθής. / *O ishirismós apodíhthike alithís.* / "The claim proved to be true."
+- Αποδείχθηκε αναξιόπιστος. / *Apodíhthike anaksiópistos.* / "He proved to be unreliable."
+
+### Notes
+Greek lacks a single dedicated inchoative copula for this domain. The transition-to-state meaning is expressed by passive or middle forms of αποδεικνύω ("to prove/demonstrate") or κρίνω ("to judge"), which simultaneously encode the process of evaluation and its result. A bare γίνεται ("becomes") construction is not idiomatic here.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+(no productive morphological causative identified for truth-domain adjectives)
+
+Periphrastic alternatives:
+- κάνω + [NP] + να + [subjunctive verb] — general causative
+- νοθεύω / πλαστογραφώ / ακυρώνω — lexical causatives within specific sub-domains
+
+### Examples
+- Νόθευσε τα εκλογικά αποτελέσματα. / *Nóthefse ta eklogika apotelesmata.* / "He falsified the election results." [lexical causative: cause to become spurious]
+- Ακύρωσε τη σύμβαση. / *Akíro̱se ti símvasi.* / "He annulled the contract." [lexical causative: cause to become invalid]
+
+### Notes
+Greek has no productive morphological causative suffix applicable across truth-domain adjectives. Causative meanings are expressed lexically: νοθεύω (cause to be adulterated/spurious), πλαστογραφώ (cause to be forged), ακυρώνω (cause to be invalid), νομιμοποιώ (cause to be legitimate). A general periphrastic causative with κάνω exists but is not idiomatic in this domain.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[adjectival base] + -εια / -ία / -τητα / -οσύνη → abstract noun denoting the property or state
+
+### Examples
+- αλήθεια / *alíthia* / "truth" (from αληθής + -εια)
+- αξιοπιστία / *aksiopistía* / "credibility, reliability" (from αξιόπιστος + -ία)
+
+### Notes
+Three suffixes are productive in this domain: -εια (αλήθεια, ακρίβεια), -ία (αξιοπιστία, αμφιβολία, νομιμότητα via -τητα), and -τητα (γνησιότητα, αυθεντικότητα, εγκυρότητα, σωστότητα, ορθότητα). The choice among suffixes is lexically determined, not rule-governed. All three yield fully productive abstract nouns used across legal, journalistic, and everyday registers.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[verbal/nominal base] + -τής (masc.) / -τρια or -τρα (fem.) → agent noun; OR compound [ψευδο-] + [role noun]
+
+### Examples
+- ψεύτης / *pséftis* / "liar" (agent of ψεύδομαι; masc.); ψεύτρα / *pséftra* / (fem.)
+- πλαστογράφος / *plastográfos* / "forger" (agent of πλαστογραφώ)
+
+### Notes
+Agentive nominalization for truth-domain roles is lexically restricted. ψεύτης/ψεύτρα (liar) is the primary everyday agent noun; πλαστογράφος (forger) is the legal term. No common agentive noun for "truth-teller" is in everyday use; the function is covered periphrastically (*αυτός που λέει την αλήθεια*) or by the adjective αληθινός applied to persons. The ψευδο- prefix generates pseudo-agent compounds (ψευδοεπιστήμονας, ψευδοπροφήτης) following a productive pattern.
+
+---
+
+## 8. EVIDENTIAL / EPISTEMIC-STATUS MARKING
+
+### Pattern
+[evidential adverb or fixed phrase] + [proposition] — marking the speaker's epistemic commitment or the evidential basis of a claim
+
+### Examples
+- Αποδεδειγμένως ψευδής ισχυρισμός. / *Apodedeignménos psevdís ishirismós.* / "A demonstrably false claim."
+- Εικαζόμενος δράστης. / *Ikazómenos drástis.* / "The alleged perpetrator."
+
+### Notes
+Greek marks evidential and epistemic status through adverbs derived from truth-domain adjectives (αποδεδειγμένως, αδιαμφισβήτητα, φαινομενικά) and through participial modifiers (εικαζόμενος, τεκμηριωμένος). These form a productive paradigm: the adverb or participle precedes or modifies the predicate/NP and signals whether a claim is proven, alleged, apparent, or beyond dispute. This pattern is especially productive in legal and journalistic registers.
+
+---
+
+## 9. DISCOURSE-FRAMING CONSTRUCTION
+
+### Pattern
+[fixed phrase] + [proposition] — speaker-oriented frame introducing a frank, corrective, or precision-marking statement
+
+### Examples
+- Η αλήθεια είναι ότι δεν υπάρχουν αποδείξεις. / *I alíthia íne óti den ipárhun apodíksis.* / "The truth is that there is no evidence."
+- Για να είμαι ακριβής, δεν το είπε ποτέ. / *Ya na íme akrivís, den to ípe poté.* / "To be precise, he never said it."
+
+### Notes
+A set of fixed expressions functions as discourse-level operators rather than propositional predicates: η αλήθεια είναι ότι, για να είμαι ακριβής, αλήθεια να λέμε, στην ουσία, ουσιαστικά. These are syntactically parenthetical or sentence-initial and signal the speaker's epistemic stance (frankness, precision, correction) toward the following proposition. They do not predicate truth of an external claim but frame the speaker's own utterance.
+
+---
+
+## 10. PSEUDO- COMPOUND PATTERN
+
+### Pattern
+ψευδο- (prefix) + [domain noun or adjective] → compound denoting something that has the form but not the substance of the base category
+
+### Examples
+- ψευδοεπιστήμη / *psevdoepistími* / "pseudoscience"
+- ψευδοδημοκρατία / *psevdodimokratía* / "pseudo-democracy, sham democracy"
+
+### Notes
+ψευδο- is a fully productive combining form in contemporary Greek, freely attaching to nouns and adjectives across domains (science, politics, religion, aesthetics, logic) to produce compounds meaning "false/sham X." The pattern is open-ended; new formations are coined as needed. This is the primary structural resource for expressing the concept of something that simulates a category without instantiating it.

@@ -1,0 +1,477 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: English (en)
+# Source: P1, P1b, P2a, P2b, P3, P4a, P4b, P5
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step analyzes how English encodes dynamic relations — becoming, causing, and remaining — involving the truth-related vocabulary documented in the preceding steps. All vocabulary is drawn exclusively from the CONTEXT. Where a construction is attested in the CONTEXT, it is documented with the relevant cross-reference. Where no common expression exists for a given combination, this is stated explicitly. Items are treated separately where their behavior differs; generalizations are stated only where the data supports them.
+
+The analysis is organized into four subsections: (1) Becoming a truth-related state, (2) Becoming a non-truth or opposed state, (3) Causing a truth-related state, (4) Stability and persistence of truth-related states. A fifth subsection records asymmetries and gaps.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 General Pattern
+
+As documented in P4a Section 4, English has no dedicated morphological inchoative for this domain. Becoming a truth-related state is expressed periphrastically through four attested strategies: *prove* + ADJ, *come true* (lexicalized, restricted to *true*), *become* + ADJ, and *turn out* (+ to be + ADJ or + ADJ). These are not interchangeable; their distribution is conditioned by the base item and the type of becoming involved.
+
+---
+
+### 1.2 *prove* + ADJ — Inchoative Frame
+
+**Pattern:** NP + *prove* + ADJ(truth-domain)
+
+This is the most productive inchoative-like frame in the domain, documented in P4a Section 4 and P4b. It covers *true*, *false*, *correct*, *genuine*, *authentic*, and *valid*. It is slightly more formal than *turn out* and is frequent in written registers.
+
+| Base Item | Example | Source | Notes |
+|---|---|---|---|
+| *true* | *His fears proved true when the results were announced.* | P2b, Item 1.4 | Epistemic confirmation of a prior prediction or belief. |
+| *false* | *The prediction proved false within a year.* | P2b, Item 2.6 | Epistemic disconfirmation. Parallel to *prove true*. |
+| *correct* | *His prediction proved correct.* | P2b, Item 6.6 | Parallel to *prove true*; used where a definite right answer is at issue. |
+| *genuine* | *The document proved genuine upon examination.* | P2b, Item 3.4 | Authenticity confirmed through investigation. |
+| *authentic* | *The painting proved authentic after extensive testing.* | P2b, Item 4.3 | Authenticity confirmed through technical analysis. |
+
+**Items for which *prove* + ADJ is not attested in the CONTEXT:** *accurate*, *sound*, *reliable*, *credible*, *sincere*, *honest*, *faithful*, *exact*, *verifiable*, *plausible*, *canonical*, *veridical*, *spurious*, *specious*, *apocryphal*, *counterfeit*, *fake*, *legitimate*, *bona fide*, *ersatz*. For these items, *turn out* or *become* serves where an inchoative frame is needed, but no specific examples are documented in the CONTEXT for most of them.
+
+---
+
+### 1.3 *come true* — Lexicalized Inchoative
+
+**Pattern:** NP + *come true*
+
+Documented in P1b Step 3 and P2b Item 1.1 as a lexicalized form restricted to *true* only. It carries a connotation of desired realization rather than neutral epistemic confirmation, and is not interchangeable with *prove true* in this sense. P4b explicitly notes this restriction.
+
+| Example | Source | Notes |
+|---|---|---|
+| *Her dream finally came true.* | P2b, Item 1.1 | Realization of a desired state; not an epistemic judgment about a proposition. |
+| *Winning the award was a dream come true.* | P2b, Item 1.15 | Nominalized form of the same construction. |
+
+**Restriction:** *Come true* is not available for *false*, *correct*, *genuine*, *authentic*, or any other P1 item. No parallel *come false*, *come genuine*, etc. is documented in the CONTEXT.
+
+---
+
+### 1.4 *turn out* + ADJ / *turn out to be* + ADJ — Neutral Inchoative
+
+**Pattern:** NP + *turn out* (+ *to be*) + ADJ(truth-domain)
+
+Documented in P4a Section 4 as broadly applicable and register-neutral, described as more neutral than *prove*. No specific examples are provided in P4a beyond the pattern description, but the pattern is attested across the CONTEXT in general descriptions.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The offer seemed too good to be true.* [→ *turned out to be false*] | P2b, Item 1.14 (implied) | The CONTEXT documents the static evaluation; the inchoative is implied but not given as a distinct example. |
+| *The story was dismissed as fake news.* [→ *turned out to be false*] | P2b, Item 11.2 (implied) | Same situation. |
+
+**Note:** The CONTEXT documents *turn out* as a pattern (P4a Section 4) but does not supply distinct worked examples for individual P1 items beyond the pattern description. This gap is preserved here.
+
+---
+
+### 1.5 *become* + ADJ — General Inchoative
+
+**Pattern:** NP + *become* + ADJ(truth-domain)
+
+Documented in P4a Section 4 as grammatically available but less frequent in this domain than *prove* or *turn out*. No distinct examples are provided in P4a. The CONTEXT does not supply worked examples for *become true*, *become valid*, etc. beyond the pattern description.
+
+**Note:** The CONTEXT documents *become* + ADJ as available (P4a Section 4) but supplies no distinct worked examples for individual P1 items. This gap is preserved here.
+
+---
+
+### 1.6 *establish one's bona fides* — Inchoative for Credential Status
+
+**Pattern:** NP + *establish* + *one's bona fides*
+
+Documented in P2b Item 26.1. This construction describes the process by which a person comes to be recognized as genuinely credentialed or acting in good faith. It is specific to *bona fides* (#26) and does not generalize to other P1 items.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The new director quickly established her bona fides by publishing a series of well-received papers.* | P2b, Item 26.1 | The subject moves from an unestablished to an established credential state. |
+
+---
+
+### 1.7 *canonize* — Inchoative for Canonical Status
+
+**Pattern:** NP + *canonize* + NP (passive: NP + *be canonized*)
+
+Documented in P2a Item 30.3 and P2b. The verb *canonize* describes the process by which a text, work, or person comes to be recognized as canonical or authoritative. It is specific to the *canonical* (#30) cluster.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The work has been canonized as a masterpiece of the genre.* | P2a, Item 30.3 | Passive inchoative: the work comes to occupy canonical status through a process of recognition. |
+
+---
+
+### 1.8 *legitimize* — Inchoative for Legitimate Status
+
+**Pattern:** NP + *legitimize* + NP (or passive)
+
+Documented in P2a Item 14.6. The verb *legitimize* describes the process by which something comes to be recognized as legitimate. It is specific to the *legitimate* (#14) cluster.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The election was intended to legitimize the new government.* | P2a, Item 14.6 | The government comes to hold legitimate status through the electoral process. |
+
+---
+
+## 2. BECOMING A NON-TRUTH OR OPPOSED STATE
+
+### 2.1 General Pattern
+
+Becoming a non-truth or opposed state is expressed through the same periphrastic strategies as Section 1, applied to negative-pole items (*false*, *invalid*, *inauthentic*, *illegitimate*, etc.), or through dedicated reversative verbs (*invalidate*, *delegitimize*, *falsify*). The reversative verbs are documented in P4a Section 5 and P2a.
+
+---
+
+### 2.2 *prove false* — Inchoative for Falsity
+
+Documented in P2b Item 2.6 and P4b. The primary inchoative frame for a proposition coming to be established as false.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The prediction proved false within a year.* | P2b, Item 2.6 | A prior claim is shown not to correspond to the facts. |
+
+---
+
+### 2.3 *ring false* — Inchoative-Like for Perceived Inauthenticity
+
+**Pattern:** NP + *ring false*
+
+Documented in P2b Item 2.7 and P4b. This construction describes a shift in evaluation: something that was perhaps initially accepted comes to seem inauthentic or implausible. P4b notes this construction is restricted to informal and journalistic registers.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The official explanation rang false to many observers.* | P2b, Item 2.7 | The explanation comes to be perceived as inauthentic. The past tense (*rang*) marks the shift in evaluation. |
+
+---
+
+### 2.4 *delegitimize* — Inchoative for Loss of Legitimacy
+
+**Pattern:** NP + *delegitimize* + NP (or passive)
+
+Documented in P2a Item 14.9. The verb *delegitimize* describes the process by which something comes to lose its legitimate status.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The campaign sought to delegitimize the opposition.* | P2a, Item 14.9 | The opposition moves from a state of recognized legitimacy toward a state of questioned or denied legitimacy. |
+
+---
+
+### 2.5 *invalidate* — Inchoative for Loss of Validity
+
+**Pattern:** NP + *invalidate* + NP (or passive)
+
+Documented in P2a Item 7.5 and P4a Section 5. The verb *invalidate* describes the process by which something comes to be rendered invalid.
+
+| Example | Source | Notes |
+|---|---|---|
+| *New evidence invalidated the earlier findings.* | P2a, Item 7.5; P4b | The findings move from a state of validity to a state of invalidity. |
+
+---
+
+### 2.6 *falsify* — Inchoative for Fraudulent Alteration or Demonstrated Falsity
+
+**Pattern:** NP + *falsify* + NP
+
+Documented in P2a Item 2.3 and P4a Section 5. *Falsify* covers two distinct senses: (a) to alter fraudulently (making something false that was genuine), and (b) in Popperian philosophy of science, to show a hypothesis to be false. Both senses involve a transition to a false or falsified state.
+
+| Example | Source | Notes |
+|---|---|---|
+| *She was charged with falsifying financial records.* | P2a, Item 2.3 | Records move from genuine to fraudulently altered. |
+
+---
+
+### 2.7 *strike a false note* — Inchoative for Perceived Inappropriateness
+
+**Pattern:** NP + *strike a false note* (+ *with* + NP)
+
+Documented in P2b Item 2.3. This construction describes a moment at which something comes to seem wrong or discordant.
+
+| Example | Source | Notes |
+|---|---|---|
+| *His apology struck a false note with the audience.* | P2b, Item 2.3 | The apology comes to be perceived as discordant or insincere at the moment of delivery. |
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE
+
+### 3.1 General Pattern
+
+As documented in P4a Section 5, English has no productive morphological causative for this domain. Causative meaning is expressed through dedicated causative verbs derived from the domain (*verify*, *authenticate*, *validate*, *falsify*, *legitimize*, *invalidate*, *delegitimize*, *canonize*) or periphrastically through *make* + NP + ADJ. The dedicated verbs are the primary strategy; *make* + NP + ADJ is grammatically available but less domain-specific.
+
+---
+
+### 3.2 *verify* — Causing a State of Established Truth
+
+**Pattern:** NP(agent) + *verify* + NP(proposition/claim)
+
+Documented in P1b Item 1.1, P4a Section 5, and P4b. *Verify* is described as "the most general causative verb in the domain" (P4b). It causes a claim or result to be established as true or accurate.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The laboratory verified the results.* | P4a, Section 5; P4b | The laboratory causes the results to be established as accurate. |
+| *Please verify your email address.* | P1b, Item 1.1 | Causing an address to be confirmed as genuine. |
+| *Verify the figures against the original records.* | P1b, Item 1.14 | Causing figures to be confirmed by comparison with an authoritative source. |
+
+---
+
+### 3.3 *authenticate* — Causing a State of Established Authenticity
+
+**Pattern:** NP(agent) + *authenticate* + NP(object/document)
+
+Documented in P2a Item 4.2. *Authenticate* causes an object or document to be established as genuine.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The signature was authenticated by a handwriting expert.* | P2a, Item 4.2 | The expert causes the signature to be established as genuine. |
+
+---
+
+### 3.4 *validate* — Causing a State of Recognized Validity
+
+**Pattern:** NP(agent) + *validate* + NP(result/claim/person)
+
+Documented in P2a Item 7.2 and P4a Section 5. *Validate* causes something to be confirmed or recognized as valid.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The results were validated by an independent team.* | P2a, Item 7.2 | The team causes the results to be recognized as valid. |
+
+---
+
+### 3.5 *legitimize* — Causing a State of Legitimacy
+
+**Pattern:** NP(agent/event) + *legitimize* + NP
+
+Documented in P2a Item 14.6 and P4a Section 5. *Legitimize* causes something to be recognized as legitimate.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The election was intended to legitimize the new government.* | P2a, Item 14.6 | The election causes the government to be recognized as legitimate. |
+
+---
+
+### 3.6 *canonize* — Causing a State of Canonical Status
+
+**Pattern:** NP(agent/process) + *canonize* + NP
+
+Documented in P2a Item 30.3 and P4a Section 5. *Canonize* causes a text, work, or person to be recognized as canonical or authoritative.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The work has been canonized as a masterpiece of the genre.* | P2a, Item 30.3 | A process of recognition causes the work to hold canonical status. |
+
+---
+
+### 3.7 *falsify* — Causing a State of Falsity or Fraudulent Alteration
+
+**Pattern:** NP(agent) + *falsify* + NP
+
+Documented in P2a Item 2.3 and P4a Section 5. *Falsify* causes records, data, or evidence to be made false through fraudulent alteration; in the Popperian sense, it causes a hypothesis to be shown false.
+
+| Example | Source | Notes |
+|---|---|---|
+| *She was charged with falsifying financial records.* | P2a, Item 2.3 | The agent causes the records to be in a false or fraudulently altered state. |
+
+---
+
+### 3.8 *invalidate* — Causing a State of Invalidity
+
+**Pattern:** NP(agent/evidence) + *invalidate* + NP
+
+Documented in P2a Item 7.5 and P4a Section 5. *Invalidate* causes something to be rendered invalid.
+
+| Example | Source | Notes |
+|---|---|---|
+| *New evidence invalidated the earlier findings.* | P2a, Item 7.5; P4b | The evidence causes the findings to be in a state of invalidity. |
+
+---
+
+### 3.9 *delegitimize* — Causing a State of Lost Legitimacy
+
+**Pattern:** NP(agent) + *delegitimize* + NP
+
+Documented in P2a Item 14.9 and P4a Section 5. *Delegitimize* causes something to lose its legitimate status.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The campaign sought to delegitimize the opposition.* | P2a, Item 14.9 | The campaign causes the opposition to be perceived as lacking legitimacy. |
+
+---
+
+### 3.10 *make* + NP + ADJ — Periphrastic Causative
+
+**Pattern:** NP(agent) + *make* + NP + ADJ(truth-domain)
+
+Documented in P4a Section 5 as grammatically productive but less domain-specific than the dedicated causative verbs. No distinct worked examples are provided in the CONTEXT beyond the pattern description (*make it true*, *make it valid*).
+
+**Note:** The CONTEXT documents this pattern as available (P4a Section 5) but supplies no distinct worked examples for individual P1 items. This gap is preserved here.
+
+---
+
+### 3.11 *give* + NP + *plausible deniability* — Causing a State of Deniability
+
+**Pattern:** NP(agent/structure) + *give* + NP + *plausible deniability*
+
+Documented in P2b Item 29.4. This construction describes causing a person to be in a position where they can plausibly deny knowledge or involvement.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The operation was structured to give the president plausible deniability.* | P2b, Item 29.4 | The structure of the operation causes the president to be in a state where denial is plausible. |
+
+---
+
+### 3.12 *question* + *bona fides* — Causing Doubt About Genuine Status
+
+**Pattern:** NP(agent) + *question* + NP's *bona fides*
+
+Documented in P2b Item 26.2. This construction describes causing a person's genuine credentials or intentions to be in doubt.
+
+| Example | Source | Notes |
+|---|---|---|
+| *Critics began to question the organization's bona fides after the scandal.* | P2b, Item 26.2 | The critics cause the organization's genuine status to be in a state of doubt. |
+
+---
+
+## 4. STABILITY AND PERSISTENCE OF TRUTH-RELATED STATES
+
+### 4.1 General Pattern
+
+English encodes the persistence of truth-related states through a set of copular constructions with *hold*, *remain*, and *stand*, documented in P2b and P4a. These constructions assert that a truth-related state continues to obtain across time, contexts, or cases.
+
+---
+
+### 4.2 *hold true* — Persistence of Truth Across Cases or Time
+
+**Pattern:** NP + *hold true* (+ *across* / *for* + NP)
+
+Documented in P2b Item 1.3. This construction asserts that a proposition remains valid or applicable.
+
+| Example | Source | Notes |
+|---|---|---|
+| *This observation holds true across all the cases examined.* | P2b, Item 1.3 | The truth of the observation persists across multiple cases. |
+
+---
+
+### 4.3 *remain valid* — Persistence of Validity
+
+**Pattern:** NP + *remain valid* (+ temporal or conditional phrase)
+
+Documented in P2b Item 7.4. This construction asserts that something continues to have legal or logical force.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The contract remains valid until the end of the year.* | P2b, Item 7.4 | The validity of the contract persists through a specified period. |
+
+---
+
+### 4.4 *hold valid* — Persistence of Validity Across Contexts
+
+**Pattern:** NP + *hold valid* (+ *across* / *in* + NP)
+
+Documented in P2b Item 7.5 as less common than *remain valid*. Rated [MARGINAL] in P4b.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The principle holds valid across different contexts.* | P2b, Item 7.5 | The validity of the principle persists across varying conditions. |
+
+---
+
+### 4.5 *stand corrected* — Acceptance of a Shift Away from a False State
+
+**Pattern:** NP + *stand corrected*
+
+Documented in P2b Item 6.4. This construction describes a speaker's acknowledgment that they were in a false or incorrect state and acceptance of the correction. It marks the endpoint of a transition from incorrect to corrected.
+
+| Example | Source | Notes |
+|---|---|---|
+| *I stand corrected — the date was in fact 1847, not 1874.* | P2b, Item 6.4 | The speaker acknowledges having been in an incorrect state and accepts the correction. |
+
+---
+
+### 4.6 *the same is true of* — Persistence of Truth Across Subjects
+
+**Pattern:** *the same is true of* + NP
+
+Documented in P2b Item 1.12. This discourse construction asserts that a truth established for one subject continues to hold for another.
+
+| Example | Source | Notes |
+|---|---|---|
+| *The same is true of the other cases examined.* | P2b, Item 1.12 | The truth established for one case is asserted to persist for additional cases. |
+
+---
+
+### 4.7 *tried and true* — Stability Through Repeated Testing
+
+**Pattern:** *tried and true* + NP (attributive)
+
+Documented in P1b Step 3 and P2b Item 1.6. This fixed phrase predicates that something has been tested repeatedly and has proven reliable. P1b Step 3 notes that it predicates reliability through experience rather than propositional truth per se.
+
+| Example | Source | Notes |
+|---|---|---|
+| *They relied on tried and true methods.* | P2b, Item 1.6 | The methods have been repeatedly tested and have consistently proven reliable. |
+
+---
+
+### 4.8 *self-correcting* — Structural Stability Through Error-Correction
+
+**Pattern:** NP + *be* + *self-correcting* (attributive or predicative)
+
+Documented in P2a Item 6.9. This construction predicates that a system or enterprise is capable of correcting its own errors without external intervention, implying a structural tendency toward truth over time.
+
+| Example | Source | Notes |
+|---|---|---|
+| *Science is often described as a self-correcting enterprise.* | P2a, Item 6.9 | Science is characterized as a system that tends toward truth through internal error-correction. |
+
+---
+
+### 4.9 *eternal verities* — Absolute Stability of Fundamental Truths
+
+**Pattern:** *eternal verities* (fixed nominal phrase)
+
+Documented in P1b Items 1.4 and 1.18. This fixed collocation predicates that certain truths are permanent and universal, not subject to change.
+
+| Example | Source | Notes |
+|---|---|---|
+| *He appealed to the eternal verities of justice and compassion.* | P1b, Item 1.18 | The truths in question are characterized as unchanging across time and context. |
+
+---
+
+## 5. ASYMMETRIES AND GAPS
+
+### 5.1 Asymmetry: *prove* + ADJ is not uniformly available
+
+*Prove* + ADJ is documented for *true*, *false*, *correct*, *genuine*, and *authentic* (P2b; P4a Section 4). It is not documented in the CONTEXT for *accurate*, *sound*, *reliable*, *credible*, *sincere*, *honest*, *faithful*, *exact*, *verifiable*, *plausible*, *canonical*, *veridical*, *spurious*, *specious*, *apocryphal*, *counterfeit*, *fake*, *legitimate*, *bona fide*, or *ersatz*. For these items, the CONTEXT does not supply inchoative examples beyond the general pattern descriptions in P4a.
+
+---
+
+### 5.2 Asymmetry: *come true* is restricted to *true*
+
+*Come true* is documented as restricted to *true* only (P1b Step 3; P2b Item 1.1; P4b). No parallel construction (*come false*, *come genuine*, *come authentic*) is documented in the CONTEXT. This is an asymmetry in the inchoative system: the lexicalized inchoative with a connotation of desired realization exists only for the positive pole.
+
+---
+
+### 5.3 Asymmetry: Causative verbs are concentrated at the positive pole
+
+The dedicated causative verbs documented in the CONTEXT (*verify*, *authenticate*, *validate*, *legitimize*, *canonize*) predominantly cause truth-related states at the positive pole. The negative-pole causative verbs (*falsify*, *invalidate*, *delegitimize*) are fewer and are derived by reversative prefixation (*in-*, *de-*) from positive-pole bases. No dedicated causative verb for causing a state of *spuriousness*, *speciousness*, *apocryphal* status, *ersatz* status, or *counterfeit* status is documented in the CONTEXT; these states are described through attributive constructions or through the general verb *fake* (as in *faking qualifications*, P2b Item 11.3) rather than through a dedicated causative verb.
+
+---
+
+### 5.4 Gap: No inchoative or causative constructions documented for *veridical*, *veracious*, *bona fide*, *ersatz*, *pseudo-*, *apocryphal*, *specious*, or *spurious*
+
+The CONTEXT does not document inchoative or causative constructions for these items. For *veridical* and *veracious*, this reflects their restricted register (philosophical and literary respectively) and the absence of dedicated verbal forms. For *bona fide* and *ersatz*, this reflects their status as fixed expressions or loanwords with limited morphological integration (P2a Items 22, 27). For *pseudo-*, this reflects its status as a bound prefix (P2a Item 28). For *apocryphal*, *specious*, and *spurious*, no causative or inchoative constructions are documented in the CONTEXT; these states are described through attribution rather than through dynamic constructions.
+
+---
+
+### 5.5 Gap: *become* + ADJ and *turn out* + ADJ are documented as patterns but supply no worked examples for individual P1 items
+
+P4a Section 4 documents both as available strategies, but neither P4a nor any earlier step supplies distinct worked examples for specific P1 items beyond the general pattern description. This gap is preserved here; no examples are generated beyond what the CONTEXT supplies.
+
+---
+
+### 5.6 Asymmetry: Stability constructions are concentrated around *true* and *valid*
+
+The stability constructions documented in Section 4 are concentrated around *hold true* (Item 1), *remain valid* / *hold valid* (Item 7), and the fixed phrases *tried and true* and *eternal verities* (Item 1 derivations). Stability constructions for *accurate*, *correct*, *genuine*, *authentic*, *honest*, *sincere*, *credible*, *reliable*, *faithful*, *exact*, *plausible*, *legitimate*, and *canonical* are not documented as distinct constructions in the CONTEXT, though the general copular frame (*remain* + ADJ) is grammatically available for all of them.
+
+---
+
+*End of P6 CHANGE, CAUSATION, AND STABILITY — English (en)*

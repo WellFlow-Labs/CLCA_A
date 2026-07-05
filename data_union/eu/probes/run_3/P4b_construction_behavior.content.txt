@@ -1,0 +1,45 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Basque (eu)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes |
+|---|---|---|---|---|---|
+| **1. ATTRIBUTION** — Predicative: ADJECTIVE/NOUN + *da* | *Egia da* | N/A | "It is true" | [CORE] | The standard predicative pattern for inherent or definitional properties; used across all registers. No restriction on nominal or adjectival predicates in this domain. |
+| **1. ATTRIBUTION** — Predicative: ADJECTIVE/NOUN + *da* | *Zilegi da* | N/A | "It is lawful / It is permissible" | [CORE] | Frequent in legal, ethical, and administrative discourse; the *da* copula is the unmarked choice for deontic and truth-domain adjectives. |
+| **2. NEGATIVE ATTRIBUTION** — Syntactic: ADJECTIVE/NOUN + *ez da* | *Ez da egia* | N/A | "It is not true" | [CORE] | Fully productive negation strategy; applies to any predicate in this domain without restriction. Standard in all registers. |
+| **2. NEGATIVE ATTRIBUTION** — Lexical: *ez-* + ADJECTIVE | *Ez-fidagarria da* | N/A | "It is unreliable / It is not trustworthy" | [MARGINAL] | Semi-lexicalized forms; not freely productive with all adjectives. Attested forms (*ez-fidagarria*, *ez-sinesgarria*, *ez-zilegia*) appear to be restricted to a closed or near-closed set. |
+| **3. ADNOMINAL MODIFICATION** — Indefinite attributive form preceding head noun | *Egiazko informazioa* | N/A | "True information / Genuine information" | [CORE] | The obligatory pattern for prenominal modification in this domain; the indefinite attributive form (*-zko*, *-ko*, *-tako*, *-ezko*) is required before a head noun. Highly frequent across all registers. |
+| **3. ADNOMINAL MODIFICATION** — Indefinite attributive form preceding head noun | *Gezurrezko lekukotasuna* | N/A | "False testimony / Perjury" | [CORE] | Frequent in legal and formal registers; the same morphological pattern applies consistently. No attested variation in the prenominal position for this domain. |
+| **4. BECOME / INCHOATIVE** — Root + *-tu*, intransitive | *Gauzak okertu dira* | N/A | "Things have gone wrong / Things have become crooked" | [CORE] | Standard inchoative pattern; used when no explicit agent is present. Attested across multiple roots in this domain (*okertu*, *usteldu*, *zuzendu*). |
+| **4. BECOME / INCHOATIVE** — Resultant state: ADJECTIVE + *egon* | *Oker nago* | N/A | "I am wrong / I am mistaken" | [CORE] | Marks contingent, reversible states; contrasts systematically with *izan* for inherent properties. Common in everyday and evaluative discourse. |
+| **5. CAUSATIVE** — Root + *-tu*, transitive with object | *Akatsak zuzendu* | N/A | "To correct the errors" | [CORE] | The standard transitive/causative reading of *-tu* verbs when an explicit object is present; frequent in professional, editorial, and legal contexts. |
+| **5. CAUSATIVE** — Root + *-tu*, transitive with object | *Epaia baliogabetu* | N/A | "To nullify the judgment" | [CORE] | Frequent in legal and administrative registers; the causative reading is determined by argument structure, not by any additional morphology. |
+| **6. ABSTRACT NOMINALIZATION** — Root + *-tasun* + *-a* | *Egiatasuna* | N/A | "Truthfulness / The quality of being true" | [CORE] | The primary abstract property nominalizer in this domain; highly productive and attested across a large set of roots. Used in formal, philosophical, and evaluative discourse. |
+| **6. ABSTRACT NOMINALIZATION** — Verbal stem + *-pen* | *Egiaztapen* | N/A | "Verification / Attestation (as result or document)" | [CORE] | Yields result or document nominals rather than property nominals; frequent in administrative and legal registers. Distinct from *-tasun* nominals in meaning and use. |
+| **7. AGENTIVE NOMINALIZATION** — Root + *-ti* + *-a* (habitual/characterological) | *Gezurtia* | N/A | "Liar (habitual)" | [CORE] | The primary pattern for moral character evaluation in this domain; implies a stable trait rather than a role. Common in everyday and evaluative discourse. |
+| **7. AGENTIVE NOMINALIZATION** — Root + *-gile* + *-a* (maker/doer) | *Iruzurgilea* | N/A | "Fraudster / Swindler" | [CORE] | Attested for doer/maker agents in this domain; used in legal and evaluative contexts. Less frequent than *-ti* forms for character evaluation. |
+| **8. PROCESS NOMINALIZATION** — Verbal stem + *-tze* | *Egiaztatze-prozesua* | N/A | "The verification process" | [CORE] | Standard process nominalization; used when the ongoing activity (rather than the result or the agent) is foregrounded. Frequent in procedural and administrative discourse. |
+| **8. PROCESS NOMINALIZATION** — Verbal stem + *-tze* | *Egokitze* | N/A | "Adaptation / The process of adapting" | [CORE] | Same pattern; used across a range of verbal stems in this domain. Contrasts systematically with *-pen* (result) and *-keta* (action/result) nominals. |
+| **9. PEJORATIVE ABSTRACT NOMINALIZATION** — Root + *-keria* | *Ustelkeria* | N/A | "Corruption / Moral decay" | [CORE] | Productive pejorative nominalizer; semantically consistent across all attested forms in this domain. Used in moral, political, and evaluative discourse. |
+| **9. PEJORATIVE ABSTRACT NOMINALIZATION** — Root + *-keria* | *Itxurakeria* | N/A | "Pretense / Superficiality" | [CORE] | Same pattern; the pejorative and blameworthy-conduct implication is stable across all attested instances. Distinct from neutral *-tasun* nominals in both form and evaluative force. |
+| **10. EPISTEMIC HEDGE ADVERBIALS** — Nominal + instrumental *-z* | *Itxuraz ondo dago* | N/A | "Apparently it is fine / It seems to be fine" | [CORE] | Sentence-level epistemic hedge; marks reduced speaker commitment. Frequent in spoken and journalistic registers. |
+| **10. EPISTEMIC HEDGE ADVERBIALS** — Nominal + instrumental *-z* | *Ustez erruduna da* | N/A | "Supposedly he/she is guilty / Allegedly guilty" | [CORE] | Frequent in legal, journalistic, and evaluative discourse; marks the proposition as based on belief or supposition rather than verified fact. Parallel adnominal forms (*itxurazko*, *ustezko*) are attested (see §3). |
+| **11. LIGHT-VERB CONSTRUCTIONS** — Truth-domain nominal + *esan* | *Gezurra esan* | N/A | "To tell a lie" | [CORE] | Primary verbal strategy for speech-act expressions in this domain; the nominal bears absolutive case and the light verb carries all inflection. Frequent across all registers. |
+| **11. LIGHT-VERB CONSTRUCTIONS** — Truth-domain nominal + *egin* | *Iruzurra egin* | N/A | "To commit fraud / To cheat" | [CORE] | Primary verbal strategy for action expressions in this domain where no dedicated *-tu* verb is attested. The *egin* vs. *esan* distribution follows a speech-act vs. action distinction consistently. |
+
+---
+
+## Alternate Constructions
+
+| Construction Type | Alternate Form | Notes |
+|---|---|---|
+| **2. NEGATIVE ATTRIBUTION** | Syntactic *ez da* vs. lexical *ez-* prefix | Both strategies are attested; syntactic negation is fully productive, lexical *ez-* is restricted to a semi-closed set of forms. These are not interchangeable in all contexts. |
+| **3. ADNOMINAL MODIFICATION** | Indefinite attributive (*egiazko*) vs. predicative/standalone definite (*egiazkoa*) | The indefinite form is obligatory prenominally; the definite form appears only in predicative or standalone nominal positions. This is a morphological alternation, not a choice between competing constructions. |
+| **4. BECOME / INCHOATIVE** | *-tu* intransitive vs. ADJECTIVE + *egon* | The *-tu* verb expresses the change of state; *egon* expresses the resultant state. These are not synonymous and are not interchangeable. |
+| **5. CAUSATIVE** | *-tu* transitive vs. *-tu* intransitive (§4) | The same morphological form; the causative vs. inchoative reading is determined entirely by argument structure. No alternate morphological causative is attested in this domain. |
+| **6. ABSTRACT NOMINALIZATION** | *-tasun* (property nominal) vs. *-pen* (result nominal) vs. *-keta* (action/result nominal) | All three are attested in this domain and are not interchangeable: *egiaztatze* (process), *egiaztapen* (result/document), *egiaztagiri* (physical certificate). |
+| **7. AGENTIVE NOMINALIZATION** | *-tzaile* (role/professional agent) vs. *-gile* (maker/doer agent) vs. *-ti* (habitual/characterological agent) | Three distinct agentive patterns are attested; they differ in the type of agency implied and are not freely interchangeable. |
+| **10. EPISTEMIC HEDGE ADVERBIALS** | Adverbial (*itxuraz*, *ustez*) vs. adnominal (*itxurazko*, *ustezko*) | The adverbial form (instrumental *-z*) modifies the sentence; the adnominal form (*-zko*) modifies a head noun (§3). Both are attested and productive. |

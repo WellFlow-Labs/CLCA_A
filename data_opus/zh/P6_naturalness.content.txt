@@ -1,0 +1,137 @@
+# P6 — CHANGE, CAUSATION, AND STABILITY (Chinese)
+
+Analysis of how truth-related vocabulary from CONTEXT encodes change-of-state, causation, and stability. All lexical material is drawn from P1–P5. Function words, aspect markers (了, 起来), and auxiliaries (会, 让, 使, 变, 成) are added as permitted.
+
+Throughout, a key finding from P4 is reconfirmed: **truth-domain adjectives in Chinese strongly resist productive inchoative/causative templates.** Change is overwhelmingly carried by *lexicalized idioms* (…成真, 真相大白, 弄假成真) and by *independent transitive verbs* (揭露, 查明, 核实, 证实, 纠正), not by morphological derivation on the adjectives themselves. Each subsection treats terms separately where their behavior diverges.
+
+---
+
+## 1. X BECOMES [TRUTH-RELATED STATE]
+
+### Pattern
+No productive [Adj + become] template exists for most truth adjectives. The inchoative meaning "becomes true/real" is carried almost entirely by **lexicalized idioms** built on 真, and by a small number of verb-result compounds with 真相.
+
+### Examples
+- 弄假成真 → nòng jiǎ chéng zhēn → "what began as pretense becomes real" (fake → real, idiom)
+- 真相大白 → zhēnxiàng dàbái → "the truth comes fully to light" (truth becomes manifest)
+- 信以为真 → xìn yǐ wéi zhēn → "to come to believe (something false) to be true" (a shift into taking-as-true)
+
+### Notes
+- 成真 ("become real") is attested **only** inside fixed idioms (弄假成真, and the 成真 pattern generally). The data does not support a productive *变真 / *变真实 / *变成真的 as a documented common construction for arbitrary subjects. Use beyond the idioms is **not attested in CONTEXT**.
+- 真相大白 is a lexicalized inchoative *for 真相 specifically* — the truth moving from concealed to revealed. This is the closest thing to a "X becomes truth-manifest" construction, but it is a fixed idiom, not a template.
+- For the abstract noun 真理 ("universal truth"), **no inchoative "becomes truth" expression exists** in CONTEXT — 真理 collocates with pursuit verbs (追求/掌握), not change-of-state.
+- For bisyllabic evaluatives (真实, 正确, 准确, 可靠), **no common inchoative is documented** (no attested *变正确, *变可靠 as fixed forms). This gap is preserved.
+
+---
+
+## 2. X BECOMES [NON-TRUTH / OPPOSED STATE]
+
+### Pattern
+Change *toward* the negative/opposed pole is likewise carried by **lexicalized idioms**, principally 名存实亡 (name persists, substance dies away). No productive [become + false] template is attested on the adjectives.
+
+### Examples
+- 名存实亡 → míng cún shí wáng → "(it) comes to exist in name only, defunct in substance" (substance → gone)
+- 弄假成真 → nòng jiǎ chéng zhēn → reverse polarity within the same idiom (pretense as the starting state)
+
+### Notes
+- 名存实亡 encodes a transition: 实 (substance/reality) moves to 亡 (gone), while 名 (name) persists. This is the clearest "becomes hollow/false-in-substance" inchoative in CONTEXT, but again it is a **fixed idiom**, not a productive frame.
+- There is **no attested common expression** for "X becomes fake" using 假 as a productive inchoative (no documented *变假 / *变成假的). 假 enters the 是假的 predication frame (static) and the idiom 弄假成真 (where 假 is the *source*, not the *result*).
+- For 错误/错: change *into* error is expressed not by inchoative morphology but by the **resultative complement** 错 (说错了, 做错了 — "said/did it wrong"), discussed under §4. This is the productive Chinese strategy for "ended up wrong," and is distinct from "X became false."
+- For 虚伪 ("hypocritical"): **no inchoative "becomes hypocritical" expression is documented.** Preserved as a gap.
+
+---
+
+## 3. Y CAUSES X TO BE [TRUTH-RELATED STATE]
+
+### Pattern
+**No productive morphological or light-verb causative on truth-domain adjectives is attested** (confirmed in P4a/P4b: no *使真化, no productive 使/让+Adj frame). The causative functional space is filled by **independent transitive verbs of revealing, verifying, and correcting**, whose objects are truth-*nouns* rather than the adjectives.
+
+### Examples
+- 揭露真相 → jiēlù zhēnxiàng → "to expose the truth" (cause the truth to be revealed)
+- 查明真相 → chámíng zhēnxiàng → "to ascertain the truth"
+- 核实情况 → héshí qíngkuàng → "to verify the situation (cause it to be confirmed as factual)"
+- 证实 → zhèngshí → "to confirm/corroborate (cause to be established as fact)"
+- 纠正错误 / 改正错误 → jiūzhèng / gǎizhèng cuòwù → "to correct an error (cause the wrong to become right)"
+
+### Notes
+- The causative-of-correctness is lexicalized in 纠正/改正 + 错误 ("make the error right"), where the *change-toward-correct* is encoded by the verb 纠正/改正 operating on the noun 错误 — **not** by a causative on 正确. There is **no attested *使正确 / 使……正确** as a common form in CONTEXT.
+- 证实 / 核实 / 属实: these encode "cause X to be confirmed as factual," with 实 (fact) as the bound result element. The causative-of-factuality is therefore **lexicalized into the verb**, not built productively. (属实 "be confirmed as true" is the resultant-state counterpart of 核实/证实.)
+- For genuineness (真/真实): **no causative "make X genuine" expression is documented.** One does not *make* something genuine in the CONTEXT data; one *distinguishes* it (辨别真伪, 鉴定真伪) — see §5. Preserved as a gap.
+- 落实 ("to implement, make concrete") is built on 实 but was flagged in P1b/Step 3 as a **peripheral, non-truth-domain shift** (实 = "concrete/substantial," not "factual-truth"). It is therefore **excluded** from the truth-causative analysis here, though it is structurally a causative ("cause to become solid/realized").
+
+---
+
+## 4. RESULTATIVE COMPLEMENTS — "ENDED UP RIGHT/WRONG"
+
+### Pattern
+The most productive *dynamic* truth-related construction in Chinese is the **resultative verb complement** using monosyllabic 对 / 错 (V + 对/错 + 了), encoding that an action turned out correct or erroneous. This is distinct from a copular change-of-state and is fully productive.
+
+### Examples
+- 说错了 → shuō cuò le → "said it wrong / misspoke" (speaking resulted in error)
+- 做错了 → zuò cuò le → "did it wrong"
+- 说对了 → shuō duì le → "said it right / guessed correctly" (speaking resulted in correctness)
+- 没错 → méi cuò → "no mistake / that's right" (negated resultative as fixed affirmation)
+
+### Notes
+- This is a genuinely productive dynamic construction, but it operates **only on the monosyllabic colloquial pair 对/错**, never on the bisyllabic 正确/错误 (confirmed P2b/P5 Opp. 12: no *说得正确 paralleling 说得对). The result-of-an-action sense is the proper domain of 对/错.
+- The aspect marker 了 here marks the completed transition into the correct/erroneous result — the nearest analog to a change-of-state for this subdomain.
+- 没错 is a **fixed negated affirmation** (P2b), not a live denial: the negation of the "error" result conventionally yields confirmation.
+
+---
+
+## 5. DYNAMIC HANDLING OF TRUTH (process verbs, not state-change)
+
+### Pattern
+Beyond change-of-state proper, CONTEXT documents a rich set of **process/activity verb–object collocations** that operate *on* truth-nouns. These encode dynamic engagement with truth (seeking, revealing, discriminating) without asserting that X itself changes state. Verb classes are non-interchangeable, selected by the noun (P4a §9).
+
+### Examples
+- 追求真理 / 掌握真理 → zhuīqiú / zhǎngwò zhēnlǐ → "pursue / grasp the truth" (pursuit verbs, abstract truth)
+- 揭露真相 / 隐瞒真相 / 掩盖真相 → jiēlù / yǐnmán / yǎngài zhēnxiàng → "expose / conceal / cover up the truth" (revealing-vs-concealing verbs)
+- 辨别真伪 / 鉴定真伪 → biànbié / jiàndìng zhēnwěi → "distinguish / authenticate genuine-vs-fake" (discrimination verbs)
+- 分辨真假 → fēnbiàn zhēnjiǎ → "tell true from false"
+
+### Notes
+- These are **process verbs**, not inchoatives/causatives: they do not make the truth become anything; they act upon it. They are listed here because they constitute the principal *dynamic* truth vocabulary in the language as documented.
+- Note the internal **dynamic polarity** within concealment vs. revelation: 揭露/查明 (bring to light) vs. 隐瞒/掩盖 (push out of view). This pair encodes opposed *directions of action* on 真相, complementing the inchoative 真相大白 in §1 (which encodes the *resulting state* of being revealed).
+- 真假难辨 → zhēn jiǎ nán biàn → "hard to tell true from false" — encodes the *difficulty* of the discrimination process (a stative evaluation of the dynamic act), not a change of state.
+
+---
+
+## 6. STABILITY / DEGREE-OF-CERTAINTY (no change implied)
+
+### Pattern
+A set of confirmatory/certainty terms encodes the speaker's settled conviction or the established status of a fact — **the opposite pole from change**: stability, fixity, established truth. These were flagged in P1b/P3 Group 7 as shifting toward *certainty* rather than correspondence-truth, but several directly encode "X is (firmly) established as so."
+
+### Examples
+- 确定 → quèdìng → "to determine; (be) certain, fixed" (encodes settling into certainty)
+- 确认 → quèrèn → "to confirm" (act of fixing a status as established)
+- 属实 → shǔshí → "be confirmed as true / accord with fact" (resultant established state)
+- 千真万确 → qiān zhēn wàn què → "absolutely true, beyond all doubt" (emphatic stability)
+- 证据确凿 → zhèngjù quèzáo → "the evidence is conclusive" (fixed, beyond change)
+
+### Notes
+- 确定 is the clearest **inchoative-of-certainty** ("come to be settled/fixed"), but its domain is *psychological/procedural certainty*, not truth-correspondence (P1b/P2a flag). Treated separately per the strict rule against assuming uniform behavior.
+- 属实 is notable as a **resultant-state** term: it names the end-state of the verification process (核实 → 属实), i.e. "having been verified, X now accords with fact." This is the stative counterpart to the causative §3 verbs.
+- 确凿 is **collocationally locked** to 证据/事实 (P2b) and denotes solidity/fixity beyond doubt — the antithesis of change.
+
+---
+
+## SUMMARY OF FINDINGS
+
+| Dynamic type | Productive in Chinese (this vocabulary)? | How it is encoded |
+|---|---|---|
+| X becomes true/real | **No** (gap) | Lexicalized idioms only: 弄假成真, 真相大白, 信以为真 |
+| X becomes false/hollow | **No** (gap) | Lexicalized idiom only: 名存实亡; (弄假成真 with 假 as source) |
+| Y makes X true/correct | **No** productive causative | Independent transitive verbs on truth-*nouns*: 揭露/查明 真相, 核实/证实, 纠正/改正 错误 |
+| Action ends up right/wrong | **Yes** (productive) | Resultative complement 对/错 + 了 (说错了, 说对了, 没错) — **monosyllabic only** |
+| Dynamic handling of truth | **Yes** (collocational) | Process verb–object sets, non-interchangeable: 追求 真理 / 揭露·隐瞒 真相 / 辨别 真伪 |
+| Settling into certainty / stability | Partly (certainty subdomain) | 确定, 确认, 属实, 千真万确, 证据确凿 — certainty/established-status, not correspondence-change |
+
+### Key asymmetries preserved
+1. **Inchoative and causative slots are empty for the adjectives** (真实, 正确, 准确, 可靠, 真诚, 虚伪). No *变真实, *使正确, *变假 are attested. Change is carried by **idioms** (toward a state) and by **independent verbs** (toward a noun-object).
+2. **Only monosyllabic 对/错 support a productive dynamic (resultative) construction**; their bisyllabic counterparts 正确/错误 do not (confirmed P5 Opp. 12). The "ended-up-wrong" sense belongs to 错, not 错误.
+3. **Genuineness (真/真实) has neither a causative nor a productive inchoative** in CONTEXT — one cannot "make X genuine"; one only *discriminates* genuine from fake (辨别真伪). Explicit gap.
+4. **真相 is the only truth-noun with a dedicated resultant-state idiom** (真相大白) *and* a rich revealing/concealing verb set (揭露/隐瞒/掩盖) — i.e. it is the most dynamically elaborated truth-noun. 真理 (abstract) takes pursuit verbs but **no change-of-state expression**.
+5. **Factuality-causation is lexicalized into verbs ending in 实** (核实, 证实, 属实) rather than built on a 实 adjective — confirming that 实 functions here as a bound *result/fact* element, not a freely causativizable adjective.
+
+# END

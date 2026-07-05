@@ -1,0 +1,208 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+**Preliminary note on scope and method:** This step documents how Southern Quechua encodes dynamic truth-related meanings — becoming, causing, and maintaining truth-related states — using only vocabulary attested in P1–P5. The primary construction types available in the data are: (a) the inchoative *tukuy* ("to become") construction documented in P4a §4; (b) the morphological causative with *-chay/-chiy* documented in P4a §5 and P2a; (c) the reflexive/passive verbalizing forms (*-siy*, *-kuy*) documented in P2a; (d) the participial *-sqa* forms used to describe resultant states; and (e) periphrastic constructions with *tiyan* ("it is necessary, there is") documented in P2b. Each truth-domain root is treated separately where its behavior differs. Gaps are preserved as gaps. Epistemic statuses are carried forward from prior steps.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE (*tukuy* constructions)
+
+### Pattern
+[truth-domain adjective/nominal] + *tukuy* ("to become, to turn into"), with tense and person inflection carried by *tukuy*. Documented in P4a §4 as a structurally regular pattern in Southern Quechua; specific attestation for truth-domain items is limited and both examples carry [UNCERTAIN] status from prior steps.
+
+---
+
+### 1.1 Becoming true / genuine
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Cheqaq tukun.` | cheqaq tuku-n | "He/she becomes truthful. / It turns out to be genuine." | [UNCERTAIN] | Attested in P4a §4; structurally regular. The subject may be a person (becoming honest) or a claim (turning out to be true). Tense and person inflection on *tukuy*. |
+| `Cheqa tukun.` | cheqa tuku-n | "It becomes true. / It turns out to be real." | [UNCERTAIN] | Parallel to the above with the bare root *cheqa*; not separately attested in prior steps but follows the same structural pattern. Flagged accordingly. |
+
+**Note:** No example with *chiqan tukuy* is separately attested in prior steps beyond the general statement in P4a §4 that the pattern is structurally regular. The form `Chiqan tukun` ("He/she/it becomes correct/just") is documented in P4a §4 with [UNCERTAIN] status and is carried forward here.
+
+---
+
+### 1.2 Becoming false / deceptive
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Llulla tukun.` | llulla tuku-n | "He/she becomes a liar. / It turns out to be false." | [UNCERTAIN] | The *tukuy* inchoative construction is documented in P4a §4 for truth-domain adjectives generally; no specific attestation of *llulla tukuy* is recorded in prior steps. The construction is structurally available but not confirmed for this root. |
+
+**Note:** No attested example of *llulla tukuy* is recorded in P1–P5. The absence is preserved. The form is structurally possible given the general *[adjective] + tukuy* pattern but cannot be assigned [CORE] status on that basis alone.
+
+---
+
+### 1.3 Becoming mistaken / erroneous
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Pantasqa tukun.` | pantasqa tuku-n | "He/she/it becomes mistaken. / It turns out to be erroneous." | [UNCERTAIN] | *Pantasqa* is the participial/adjectival form of *pantay* ("to err"); its combination with *tukuy* is structurally available but not specifically attested in prior steps. |
+
+**Note:** *Pantay* itself is a verb ("to err, to go astray") and does not require *tukuy* to express the inchoative meaning; the verbal form already encodes the event of becoming wrong. The *tukuy* construction with *pantasqa* would be redundant in many contexts. This is noted as a structural observation, not an interpretation.
+
+---
+
+### 1.4 Becoming correct / rectified
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Chiqan tukun.` | chiqan tuku-n | "He/she/it becomes correct. / It becomes just." | [UNCERTAIN] | Documented in P4a §4 with [UNCERTAIN] status; carried forward here. |
+| `Chiqanchasqa tukun.` | chiqanchasqa tuku-n | "It becomes rectified. / It turns out to have been set right." | [UNCERTAIN] | Combines the participial *chiqanchasqa* ("corrected, rectified") with *tukuy*; structurally available but not specifically attested in prior steps. |
+
+---
+
+## 2. CAUSING A TRUTH-RELATED STATE (morphological causatives)
+
+### Pattern
+Root + *-chay/-chiy* (causative verbalizing suffix), producing a transitive verb meaning "to cause [root]-state" or "to make [something] [root]." Documented in P4a §5 and P2a as the primary causative strategy for truth-domain items. Three forms are attested with [CORE] status: *cheqaqchay*, *chiqanchay*, and *llullachiy*.
+
+---
+
+### 2.1 Causing something to be established as true / authentic
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Kay qelqata cheqaqcharqan.` | kay qelqa-ta cheqaqcha-rqa-n | "He/she verified this document. / He/she authenticated this writing." | [CORE] | *Cheqaqchay* is the primary causative for establishing truth or authenticity; attested in legal and administrative contexts in P2a and P4a. The object is typically a document, claim, or person. Past tense *-rqa-* added here; the base form is attested. |
+| `Cheqaqchaykim kay qelqata.` | cheqaqcha-y-ki-m kay qelqa-ta | "You must verify this document." | [UNCERTAIN] | Documented in P2b C4.1 with [UNCERTAIN] status; carried forward. |
+
+---
+
+### 2.2 Causing something to be corrected / rectified
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Kay pantasqata chiqanchay tiyan.` | kay pantasqa-ta chiqancha-y tiyan | "This mistake needs to be corrected." | [UNCERTAIN] | Documented in P2b C19.1 and P4a §5 with [UNCERTAIN] status; carried forward. The construction combines *chiqanchay* with the obligative *tiyan* ("it is necessary"). |
+| `Chiqancharqan chay pantasqata.` | chiqancha-rqa-n chay pantasqa-ta | "He/she corrected that mistake. / He/she rectified that error." | [CORE] | *Chiqanchay* is attested in P2a and P4a as the primary causative for correction and rectification; the past tense form follows regular morphology. |
+
+---
+
+### 2.3 Causing someone to lie / believe something false
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Llullachirqan payta.` | llullachiqa-n pay-ta | "He/she deceived him/her. / He/she caused him/her to believe a lie." | [CORE] | Documented in P4a §5 and P4b §5 as the primary attested example of *llullachiy*; carried forward. |
+| `Llullachirqan chay qelqawan.` | llullachiqa-n chay qelqa-wan | "He/she deceived [them] with that document. / That document was used to mislead." | [CORE] | Extension of the attested *llullachiy* pattern with an instrumental phrase (*-wan*, "with, by means of"); follows regular morphology. The base form *llullachiy* is [CORE]; the specific instrumental extension is not separately attested. |
+
+---
+
+### 2.4 Causing clarity / making something explicit
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Sut'ichaway imachus cheqa kasqanta.` | sut'icha-wa-y ima-chus cheqa kasqa-n-ta | "Clarify for me what is true. / Explain to me what the truth of the matter is." | [UNCERTAIN] | Documented in P2b C24.1 with [UNCERTAIN] status; carried forward. *Sut'ichay* is the causative of *sut'i* ("clear, evident"); attested in P2a as [CORE]. |
+| `Sut'icharqan chay simikunata.` | sut'icha-rqa-n chay simi-kuna-ta | "He/she clarified those statements. / He/she made those words explicit." | [CORE] | *Sut'ichay* is attested in P2a as [CORE]; the past tense form with a nominal object follows regular morphology. |
+
+---
+
+## 3. BEING CAUSED TO BE IN A TRUTH-RELATED STATE (reflexive/passive forms)
+
+### Pattern
+Verbal stem + *-siy* (reflexive/reciprocal verbalizing suffix) or *-kuy* (reflexive verbalizing suffix), producing forms that describe a state of being verified, confirmed, or deceived. Documented in P2a for *cheqaqsiy* and *llullakuy*.
+
+---
+
+### 3.1 Being confirmed / turning out to be true
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Cheqaqsin chay.` | cheqaqsi-n chay | "That is being confirmed. / That is turning out to be true." | [UNCERTAIN] | *Cheqaqsiy* is documented in P1 and P2a with [UNCERTAIN] status as the reflexive/reciprocal form meaning "to be confirmed, to turn out to be true, to prove oneself genuine." Less frequently attested than *cheqaqchay*. |
+| `Cheqaqsirqan chay willakuy.` | cheqaqsi-rqa-n chay willakuy | "That account turned out to be true. / That report was confirmed." | [UNCERTAIN] | Past tense form of *cheqaqsiy*; follows regular morphology. The base form carries [UNCERTAIN] status from P1; carried forward. |
+
+---
+
+### 3.2 Lying / engaging in deception (reflexive verbal)
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Llullakun.` | llullaku-n | "He/she lies. / He/she is being deceptive." | [CORE] | *Llullakuy* is the primary verbal form for the act of lying; documented in P1, P2a, and P4a as [CORE]. Third-person present form. |
+| `Llullakurqan.` | llullaku-rqa-n | "He/she lied." | [CORE] | Past tense form of *llullakuy*; follows regular morphology. Attested in P2b C29.2 in the construction *Llullam willakurqa* ("He/she reported falsely"). |
+
+---
+
+## 4. RESULTANT STATES (*-sqa* participial forms)
+
+### Pattern
+Verbal stem + *-sqa* (past participle suffix), producing adjectival/nominal forms describing the resultant state of a process. Documented in P2a for *cheqaqsiy*, *llullakuy*, *pantay*, *chiqanchay*, and *qelqa*.
+
+---
+
+### 4.1 State of having been verified / confirmed as true
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Cheqaqsisqam chay.` | cheqaqsisqa-m chay | "That has been confirmed. / That has turned out to be true." | [UNCERTAIN] | Combines *cheqaqsiy* with *-sqa* to produce a resultant-state form; the base *cheqaqsiy* carries [UNCERTAIN] status from P1. |
+
+---
+
+### 4.2 State of having been corrected / rectified
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Chiqanchasqam chay.` | chiqanchasqa-m chay | "That has been corrected. / That has been set right." | [CORE] | *Chiqanchasqa* is documented in P2a and P4a as [CORE]; the predicate construction with *-mi* follows the standard pattern documented in P4a §1. |
+
+---
+
+### 4.3 State of having been lied / falsely stated
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Llullakusqam chay.` | llullakusqa-m chay | "That was a lie. / That was falsely stated." | [CORE] | *Llullakusqa* is documented in P2a as [CORE]; the predicate construction follows the standard pattern. |
+| `Llullasqam chay.` | llullasqa-m chay | "That has been falsified. / That has been misrepresented." | [UNCERTAIN] | *Llullasqa* is documented in P2a with [UNCERTAIN] status; carried forward. |
+
+---
+
+### 4.4 State of being mistaken / in error
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Pantasqam chay yuyay.` | pantasqa-m chay yuyay | "That opinion is mistaken." | [CORE] | Documented in P2b C26.1 as [CORE]; carried forward. |
+| `Pantasqam chay qelqa.` | pantasqa-m chay qelqa | "That document is erroneous. / That writing contains errors." | [CORE] | Extension of the attested *pantasqa* predicate construction to a documentary object; follows the same pattern as C26.1. |
+
+---
+
+### 4.5 State of being documented / on record
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Qelqasqam chay.` | qelqasqa-m chay | "That is documented. / That is on record." | [CORE] | Documented in P2b C28.1 as [CORE]; carried forward. |
+
+---
+
+## 5. STABILITY AND MAINTENANCE OF TRUTH-RELATED STATES
+
+### Pattern
+The data in P1–P5 do not document a dedicated construction for maintaining or preserving a truth-related state (e.g., "X remains true," "X stays honest"). The closest available constructions involve the emphatic suffix *-puni* ("absolutely, always, invariably") attached to *cheqaq*, producing *cheqaqpuni* ("absolutely true, certainly genuine"), which asserts that something is unquestionably and without exception the case. This is documented in P2a and P4a as [CORE].
+
+---
+
+### 5.1 Emphatic / absolute assertion of stable truth
+
+| Example | Transliteration | Translation | Naturalness | Notes |
+|---|---|---|---|---|
+| `Cheqaqpunim chay.` | cheqaqpuni-m chay | "That is absolutely true. / That is certainly genuine." | [CORE] | Documented in P2b C2.3 and P4a §1 as [CORE]; the *-puni* suffix asserts that the truth-state is absolute and without exception. Carried forward. |
+| `Cheqaqpunim cheqaq.` | cheqaqpuni-m cheqaq | "Truth is absolutely truth. / What is true is invariably true." | [UNCERTAIN] | Extension of the *cheqaqpuni* pattern to a tautological assertion of stable truth; not specifically attested in prior steps. Flagged accordingly. |
+
+**Note on absence:** No construction specifically encoding the maintenance or persistence of a truth-related state over time (e.g., a progressive or continuative aspect applied to truth-domain predicates) is documented in P1–P5. This absence is preserved. The *-puni* suffix encodes absoluteness rather than temporal persistence specifically.
+
+---
+
+## 6. SUMMARY OF ATTESTED DYNAMIC PATTERNS
+
+The following observations are directly supported by the data above and are reported without interpretation beyond what the data warrant.
+
+**Differential attestation of causative forms:** Three morphological causatives are attested with [CORE] status: *cheqaqchay* (causing truth/authentication), *chiqanchay* (causing correction/rectification), and *llullachiy* (causing deception/false belief). *Sut'ichay* (causing clarity) is attested as [CORE] in P2a but its specific dynamic constructions carry [UNCERTAIN] status in P2b. No morphological causative is attested for *allin*, *pantay*, *kikin*, *sut'i*, or *yachay* within the truth-evaluation domain in available sources.
+
+**Asymmetry between cheqaq and llulla in dynamic constructions:** The *cheqaq* root has an attested reflexive/passive form (*cheqaqsiy*, "to be confirmed, to turn out to be true") that describes a process of becoming verified, though this form carries [UNCERTAIN] status. No parallel reflexive/passive form is documented for *llulla* beyond *llullakuy* itself, which is the primary verbal form for the act of lying rather than a derived passive. This asymmetry is preserved without explanation.
+
+**Pantay as inherently dynamic:** *Pantay* ("to err, to make a mistake, to go astray") is itself a verbal root encoding a dynamic event (the act of going wrong), unlike *cheqa*, *llulla*, and *chiqan*, which are primarily adjectival/nominal roots that require *tukuy* or a causative suffix to express dynamic meanings. The *tukuy* inchoative construction with *pantasqa* would therefore be structurally redundant in many contexts, as noted in §1.3.
+
+**Tukuy constructions:** The *tukuy* inchoative is documented as structurally available for truth-domain adjectives (*cheqaq tukuy*, *chiqan tukuy*) but all specific examples carry [UNCERTAIN] status from P4a. No *tukuy* construction for *llulla* is specifically attested in P1–P5; the absence is preserved.
+
+**No dedicated stability construction:** No construction specifically encoding the maintenance or persistence of a truth-related state is documented in P1–P5. The *-puni* emphatic suffix (*cheqaqpuni*) is the closest available form, encoding absoluteness rather than temporal persistence.
+
+---
+
+*End of P6 Change, Causation, and Stability — Quechua (qu)*

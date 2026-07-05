@@ -1,0 +1,540 @@
+# CLCA Protocol v3.3 — P6 Change, Causation, and Stability
+# Language: Hebrew (he)
+
+---
+
+**Methodological note:** This step documents how Hebrew encodes dynamic meanings — becoming, causing, and maintaining — with respect to truth-related vocabulary established in P1–P5. All vocabulary is drawn exclusively from the CONTEXT. Auxiliary verbs, aspect markers, copulas, and function words are added as needed for grammatical well-formedness. Where no common expression exists for a given combination, this is explicitly stated. Terms are treated separately where their behavior differs. The analysis is organized by semantic type (becoming, causing, stability/maintenance, loss), with subsections for individual terms or term clusters where behavior diverges.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1.1 Pattern: הָפַךְ לְ- / nafakh le- ("became") + truth-domain noun or adjective
+
+This is the primary periphrastic inchoative construction documented in P4a (Construction 4) and P5 (Opposition 3). It applies broadly across the truth domain but with uneven naturalness depending on the term.
+
+---
+
+**1.1.1 — אֱמֶת / ʾemet**
+
+**Example:** זֶה הָפַךְ לְאֱמֶת
+**Transliteration:** ze hafakh le-ʾemet
+**English translation:** this became truth / this turned out to be true
+**Naturalness:** [CORE]
+**Notes:** Documented in P4a. Used when a claim, prediction, or rumor is subsequently confirmed as true. The construction implies a prior state of uncertainty or falsity that has been resolved. Common in journalistic and everyday discourse ("מה שנאמר אז הפך לאמת" — "what was said then turned out to be true").
+
+---
+
+**1.1.2 — בָּטֵל / batel**
+
+**Example:** הַחוֹזֶה הָפַךְ לְבָטֵל
+**Transliteration:** ha-ḥoze hafakh le-batel
+**English translation:** the contract became void
+**Naturalness:** [CORE]
+**Notes:** Documented in P4a. Used in legal contexts when a contract or document loses its validity through a subsequent event (e.g., expiry, breach, court ruling). The construction marks the transition from valid to void status.
+
+---
+
+**1.1.3 — תָּקֵף / taqef**
+
+**Example:** הַהֶסְכֵּם הָפַךְ לְתָקֵף עִם הַחֲתִימָה
+**Transliteration:** ha-heskem hafakh le-taqef ʿim ha-ḥatimah
+**English translation:** the agreement became valid upon signing
+**Naturalness:** [CORE]
+**Notes:** Used in legal and administrative contexts to mark the moment at which a document or agreement enters into force. The construction is compositional and not lexicalized; it is the standard way to express the coming-into-force of a legal instrument.
+
+---
+
+**1.1.4 — מְזֻיָּף / mezuyaf**
+
+**Example:** הַמָּסְמָךְ הָפַךְ לְמְזֻיָּף בְּיָדָיו
+**Transliteration:** ha-mismakh hafakh le-mezuyaf be-yadav
+**English translation:** the document became forged in his hands / he turned the document into a forgery
+**Naturalness:** [UNCERTAIN]
+**Notes:** This construction is grammatically possible but semantically awkward. Forgery is typically understood as a completed act rather than a gradual transition; the inchoative frame sits uneasily with the instantaneous nature of the act of falsification. The active causative construction (זִיֵּף אֶת הַמָּסְמָךְ, "he forged the document") is strongly preferred. The inchoative is not a common or natural expression for this term.
+
+---
+
+**1.1.5 — נָכוֹן / nakhon**
+
+**Example:** הַתַּחֲזִית הָפְכָה לִנְכוֹנָה
+**Transliteration:** ha-taḥazit hafkhah li-nekhonah
+**English translation:** the forecast turned out to be correct
+**Naturalness:** [CORE]
+**Notes:** Used when a prediction or claim is subsequently confirmed as correct. The feminine agreement form (נְכוֹנָה) is required when the subject is feminine. Common in journalistic and analytical discourse.
+
+---
+
+**1.1.6 — אֲמִתִּי / ʾamitī**
+
+**Example:** הַיַּחַס שֶׁלּוֹ הָפַךְ לְאֲמִתִּי יוֹתֵר עִם הַזְּמַן
+**Transliteration:** ha-yaḥas shello hafakh le-ʾamitī yoter ʿim ha-zman
+**English translation:** his attitude became more genuine over time
+**Naturalness:** [CORE]
+**Notes:** Used in psychological and interpersonal contexts to describe a gradual development toward greater genuineness. The comparative יוֹתֵר ("more") is natural here because ʾamitī admits of degrees. The construction is compositional.
+
+---
+
+**1.1.7 — מוּטְעֶה / mutʿe**
+
+**Example:** הוּא הָפַךְ לְמוּטְעֶה לְגַמְרֵי
+**Transliteration:** hu hafakh le-mutʿe le-gamre
+**English translation:** he became completely misled
+**Naturalness:** [CORE]
+**Notes:** Used to describe a process by which a person comes to hold a mistaken belief, often as a result of accumulated misleading information. The adverb לְגַמְרֵי ("completely") is a natural intensifier here.
+
+---
+
+### 1.2 Pattern: נַעֲשָׂה / naʿasah ("became, turned into") + truth-domain noun or adjective
+
+This is the near-synonym of הָפַךְ לְ- documented in P4a as an alternate inchoative verb. It is somewhat more colloquial and is used interchangeably with הָפַךְ לְ- in most contexts.
+
+---
+
+**Example:** הַשְּׁמוּעָה נַעֲשְׂתָה אֲמִתִּית
+**Transliteration:** ha-shmuʿah naʿasetat ʾamitit
+**English translation:** the rumor became real / the rumor turned out to be true
+**Naturalness:** [CORE]
+**Notes:** Slightly more colloquial than הָפַךְ לְ-. The agreement form (אֲמִתִּית, feminine) is required. Used in everyday and journalistic discourse.
+
+---
+
+**Example:** הַחוֹזֶה נַעֲשָׂה בָּטֵל
+**Transliteration:** ha-ḥoze naʿasah batel
+**English translation:** the contract became void
+**Naturalness:** [CORE]
+**Notes:** Near-synonym of הַחוֹזֶה הָפַךְ לְבָטֵל. Both are natural in legal discourse; הָפַךְ לְ- is slightly more formal.
+
+---
+
+### 1.3 Pattern: הִתְבָּרֵר שֶׁ- / hitbarer she- ("it turned out that") — epistemic inchoative
+
+This construction expresses the discovery or confirmation that something is true, rather than a change in the state of the world. It is the primary way of expressing "it turned out to be true" in Hebrew.
+
+---
+
+**Example:** הִתְבָּרֵר שֶׁהוּא צָדַק
+**Transliteration:** hitbarer she-hu tsadak
+**English translation:** it turned out that he was right
+**Naturalness:** [CORE]
+**Notes:** Extremely common in everyday and journalistic discourse. The construction expresses the epistemic transition from uncertainty to confirmed knowledge. It applies to any truth-domain term: הִתְבָּרֵר שֶׁהַמָּסְמָךְ מְזֻיָּף ("it turned out that the document was forged"), הִתְבָּרֵר שֶׁהַמֵּידָע לֹא מְדֻיָּק ("it turned out that the information was not accurate"). This is the most natural and frequent inchoative-epistemic construction in the truth domain.
+
+---
+
+**Example:** הִתְבָּרֵר שֶׁהַמֵּידָע לֹא מְהֵימָן
+**Transliteration:** hitbarer she-ha-meydaʿ lo meheymen
+**English translation:** it turned out that the information was not reliable
+**Naturalness:** [CORE]
+**Notes:** The construction is fully productive across truth-domain terms. The negated form (לֹא מְהֵימָן, לֹא נָכוֹן, etc.) is as natural as the positive form.
+
+---
+
+### 1.4 Pattern: הִתְגַּלָּה שֶׁ- / hitgallah she- ("it was revealed that") — disclosure inchoative
+
+Related to לְגַלּוֹת אֶת הָאֱמֶת (P2b, Construction 1.6), this construction expresses the coming-to-light of a previously hidden truth.
+
+---
+
+**Example:** הִתְגַּלָּה שֶׁהַחֲתִימָה מְזֻיֶּפֶת
+**Transliteration:** hitgallah she-ha-ḥatimah mezuyefet
+**English translation:** it was revealed that the signature was forged
+**Naturalness:** [CORE]
+**Notes:** Common in journalistic and legal discourse. Implies prior concealment, consistent with the semantics of לְגַלּוֹת אֶת הָאֱמֶת documented in P2b. The construction is productive across terms involving concealment and disclosure.
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE
+
+### 2.1 Pattern: הָפַךְ לְ- / hafakh le- + negated or opposed term
+
+---
+
+**2.1.1 — Becoming false / becoming a lie**
+
+**Example:** מַה שֶּׁהָיָה נָכוֹן הָפַךְ לְשֶׁקֶר
+**Transliteration:** mah she-hayah nakhon hafakh le-sheqer
+**English translation:** what was true became a lie / what was correct became false
+**Naturalness:** [CORE]
+**Notes:** Used in contexts where a previously accurate statement is subsequently falsified by changed circumstances or by deliberate distortion. Common in political and journalistic discourse.
+
+---
+
+**2.1.2 — Becoming void**
+
+**Example:** הַהֶסְכֵּם הָפַךְ לְבָטֵל מֵעִיקָּרוֹ
+**Transliteration:** ha-heskem hafakh le-batel me-ʿiqqaro
+**English translation:** the agreement became void from the outset / was declared null ab initio
+**Naturalness:** [CORE]
+**Notes:** The fixed legal expression בָּטֵל מֵעִיקָּרוֹ (P2b, Construction 16.2) combines naturally with the inchoative frame in legal rulings. The construction marks a judicial determination that invalidity existed from inception.
+
+---
+
+**2.1.3 — Becoming disqualified**
+
+**Example:** הָעֵד הָפַךְ לְפָסוּל
+**Transliteration:** ha-ʿed hafakh le-pasul
+**English translation:** the witness became disqualified
+**Naturalness:** [CORE]
+**Notes:** Used in legal contexts when a witness loses their qualified status due to a subsequent disqualifying event. The construction marks the transition from כָּשֵׁר to פָּסוּל status.
+
+---
+
+**2.1.4 — Becoming unreliable**
+
+**Example:** הַמָּקוֹר הָפַךְ לְלֹא מְהֵימָן
+**Transliteration:** ha-maqor hafakh le-lo meheymen
+**English translation:** the source became unreliable
+**Naturalness:** [CORE]
+**Notes:** The negated predicative form (לֹא מְהֵימָן) is used as the complement of הָפַךְ לְ-. This is the standard pattern since Hebrew lacks a single-word antonym for מְהֵימָן in common use.
+
+---
+
+**2.1.5 — Becoming misleading**
+
+**Example:** הַדִּיּוּחַ הָפַךְ לְמַטְעֶה
+**Transliteration:** ha-diyuaḥ hafakh le-matʿe
+**English translation:** the report became misleading
+**Naturalness:** [CORE]
+**Notes:** Used when a report or statement that was initially accurate becomes misleading due to changed circumstances or selective updating. Common in journalistic and legal contexts.
+
+---
+
+### 2.2 Pattern: אִיבֵּד אֶת / ibbed ʾet ("lost") + truth-domain abstract noun
+
+This construction expresses the loss of a truth-related quality and is an alternative to the inchoative for abstract nouns.
+
+---
+
+**Example:** הַמָּקוֹר אִיבֵּד אֶת אֲמִינוּתוֹ
+**Transliteration:** ha-maqor ibbed ʾet ʾaminuto
+**English translation:** the source lost its credibility
+**Naturalness:** [CORE]
+**Notes:** Very common in journalistic and political discourse. The construction uses the possessive suffix (-o, "its") on the abstract noun. Applies productively to other -ut abstracts: אִיבֵּד אֶת מְהֵימָנוּתוֹ ("lost its reliability"), אִיבֵּד אֶת תֹּקְפוֹ ("lost its validity/force").
+
+---
+
+**Example:** הַחוֹזֶה אִיבֵּד אֶת תֹּקְפוֹ
+**Transliteration:** ha-ḥoze ibbed ʾet toqfo
+**English translation:** the contract lost its validity / the contract expired
+**Naturalness:** [CORE]
+**Notes:** Standard in legal and administrative discourse for the expiry or invalidation of a document. The construction with תֹּקֶף is particularly common and natural.
+
+---
+
+**Example:** הוּא אִיבֵּד אֶת אֲמוּנָתוֹ
+**Transliteration:** hu ibbed ʾet ʾemunato
+**English translation:** he lost his faith / he lost his trust
+**Naturalness:** [CORE]
+**Notes:** Used in both religious (loss of faith) and interpersonal (loss of trust) contexts. The construction is fully compositional.
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE
+
+### 3.1 Pattern: Hifʿil causative verb (morphological causative)
+
+Documented in P4a (Construction 5) and P5 (Opposition 9). The Hifʿil binyan is the primary morphological causative in Hebrew and is productive across the truth domain.
+
+---
+
+**3.1.1 — לְהַטְעוֹת / lehatʿot — "to mislead, to cause to err"**
+
+**Example:** הַפִּרְסוּם הִטְעָה אֶת הַצְּרָכָנִים
+**Transliteration:** ha-pirssum hitʿah ʾet ha-tsarkhanim
+**English translation:** the advertisement misled the consumers
+**Naturalness:** [CORE]
+**Notes:** Documented in P2a (item 25.2) and P3 Group 12. The Hifʿil form הִטְעָה is the standard verb for causing someone to hold a mistaken belief or to be deceived. The fixed legal expression פִּרְסוּם מַטְעֶה (P2b) is the participial form of the same root.
+
+---
+
+**3.1.2 — לְהַצְדִּיק / lehatsdiq — "to justify, to vindicate"**
+
+**Example:** הַנְּסִיבוֹת לֹא הִצְדִּיקוּ אֶת הַהַחְלָטָה
+**Transliteration:** ha-nesibot lo hitsdiqū ʾet ha-haḥlatah
+**English translation:** the circumstances did not justify the decision
+**Naturalness:** [CORE]
+**Notes:** Documented in P2a (item 12.6) and P2b (Construction 12.6). The Hifʿil form הִצְדִּיק is the standard verb for justifying or vindicating a claim, action, or person. The negated form (לֹא הִצְדִּיק / זֶה לֹא מַצְדִּיק) is extremely common in moral and legal discourse.
+
+---
+
+**3.1.3 — לְהַאֲמִין / lehaʾamin — "to cause to believe, to believe"**
+
+**Example:** הוּא הֶאֱמִין לָהּ
+**Transliteration:** hu heʾemin lah
+**English translation:** he believed her
+**Naturalness:** [CORE]
+**Notes:** Documented in P1b (א-מ-נ, item 30). The Hifʿil form הֶאֱמִין is the standard modern Hebrew verb for "to believe." In its causative reading it means "to cause [someone] to believe"; in its more common intransitive reading it means "to believe [in someone or something]." The causative reading ("he made her believe") requires a different syntactic frame (הוּא הֶאֱמִין בָּהּ vs. הוּא גָּרַם לָהּ לְהַאֲמִין).
+
+---
+
+**3.1.4 — לְזַיֵּף / lezayyef — "to forge, to falsify"**
+
+**Example:** הוּא זִיֵּף אֶת הַמָּסְמָךְ
+**Transliteration:** hu ziyyef ʾet ha-mismakh
+**English translation:** he forged the document
+**Naturalness:** [CORE]
+**Notes:** Documented in P2a (item 8.2). The Piʿel form זִיֵּף is the standard verb for the act of forgery or falsification. This is a direct causative of the state מְזֻיָּף: the act of ziyyef produces the state mezuyaf.
+
+---
+
+**3.1.5 — לְשַׁקֵּר / leshaqer — "to lie, to tell a lie"**
+
+**Example:** הוּא שִׁיקֵּר לִי
+**Transliteration:** hu shiqqer li
+**English translation:** he lied to me
+**Naturalness:** [CORE]
+**Notes:** Documented in P2a (item 5.4). The Piʿel form שִׁיקֵּר is the standard everyday verb for lying. It is a causative of the state of being deceived: the act of shaqer produces the state of mutʿe in the recipient.
+
+---
+
+**3.1.6 — לְבַטֵּל / levatel — "to cancel, to annul, to nullify"**
+
+**Example:** בֵּית הַמִּשְׁפָּט בִּיטֵּל אֶת הַחוֹזֶה
+**Transliteration:** bet ha-mishpat bittel ʾet ha-ḥoze
+**English translation:** the court annulled the contract
+**Naturalness:** [CORE]
+**Notes:** Documented in P2a (item 16.2). The Piʿel form בִּיטֵּל is the standard verb for causing something to become בָּטֵל (void). This is the primary causative of the void state in legal discourse.
+
+---
+
+### 3.2 Pattern: גָּרַם לְ- / garam le- ("caused") + infinitive or noun — periphrastic causative
+
+This construction expresses causation periphrastically and is used when no morphological causative is available or when the causative relationship needs to be made explicit.
+
+---
+
+**Example:** הַמֵּידָע הַשָּׁגוּי גָּרַם לוֹ לִהְיוֹת מוּטְעֶה
+**Transliteration:** ha-meydaʿ ha-shaguy garam lo lihyot mutʿe
+**English translation:** the incorrect information caused him to be misled
+**Naturalness:** [CORE]
+**Notes:** Used when the causal chain needs to be made explicit. The construction גָּרַם לְ- + infinitive is fully productive and applies across the truth domain. It is more explicit and somewhat more formal than the Hifʿil causative.
+
+---
+
+**Example:** הַזִּיּוּף גָּרַם לְאִי-אֲמִינוּת הַמָּסְמָךְ
+**Transliteration:** ha-ziyyuf garam le-ʾi-ʾaminut ha-mismakh
+**English translation:** the forgery caused the document's lack of credibility
+**Naturalness:** [CORE]
+**Notes:** Used in analytical and legal discourse to specify the causal relationship between an act of falsification and the resulting loss of credibility. The construction with abstract -ut nouns is natural and common.
+
+---
+
+**Example:** הַהַחְלָטָה גָּרְמָה לְאִי-סְבִירוּת הַנּוֹהַל
+**Transliteration:** ha-haḥlatah garmeah le-ʾi-sevirut ha-nohal
+**English translation:** the decision caused the unreasonableness of the procedure
+**Naturalness:** [CORE]
+**Notes:** Used in administrative law discourse to specify the causal basis for a finding of unreasonableness. The construction is compositional and not lexicalized.
+
+---
+
+### 3.3 Pattern: הוֹכִיחַ שֶׁ- / hokiaḥ she- ("proved that") — causative of epistemic state
+
+This construction causes a change in the epistemic state of an audience by establishing the truth of a proposition.
+
+---
+
+**Example:** הוּא הוֹכִיחַ שֶׁהַמָּסְמָךְ מְזֻיָּף
+**Transliteration:** hu hokiaḥ she-ha-mismakh mezuyaf
+**English translation:** he proved that the document was forged
+**Naturalness:** [CORE]
+**Notes:** The verb הוֹכִיחַ (hokiaḥ, "to prove") is the standard causative of the epistemic state of knowing or accepting a truth. It applies productively across truth-domain terms: הוֹכִיחַ שֶׁהוּא צָדַק ("proved that he was right"), הוֹכִיחַ שֶׁהַמֵּידָע מְדֻיָּק ("proved that the information was accurate").
+
+---
+
+**Example:** הוּא הוֹכִיחַ שֶׁהָעֵד אֵינוֹ מְהֵימָן
+**Transliteration:** hu hokiaḥ she-ha-ʿed eyno meheymen
+**English translation:** he proved that the witness was not credible
+**Naturalness:** [CORE]
+**Notes:** Common in legal discourse. The negated form (אֵינוֹ מְהֵימָן) is the standard predicative negation in formal registers (אֵינוֹ being the formal equivalent of לֹא + copula).
+
+---
+
+### 3.4 Pattern: לְגַלּוֹת אֶת הָאֱמֶת / legallot ʾet ha-ʾemet — "to reveal the truth"
+
+Documented in P2b (Construction 1.6). This construction causes a change in the epistemic state of an audience by disclosing previously hidden truth.
+
+---
+
+**Example:** הַחֲקִירָה גִּלְּתָה אֶת הָאֱמֶת
+**Transliteration:** ha-ḥaqirah gilletah ʾet ha-ʾemet
+**English translation:** the investigation revealed the truth
+**Naturalness:** [CORE]
+**Notes:** The verb גִּלָּה (gillah, "revealed") is the Piʿel form of the root ג-ל-ה. The construction is the standard way of expressing the disclosure of hidden truth in journalistic, legal, and everyday contexts.
+
+---
+
+## 4. MAINTAINING A TRUTH-RELATED STATE
+
+### 4.1 Pattern: נִשְׁאַר / nishʾar ("remained") + truth-domain adjective
+
+This is the primary stative-continuative construction in Hebrew, expressing that a truth-related state persists.
+
+---
+
+**Example:** הַמָּסְמָךְ נִשְׁאַר תָּקֵף
+**Transliteration:** ha-mismakh nishʾar taqef
+**English translation:** the document remained valid
+**Naturalness:** [CORE]
+**Notes:** Used in legal and administrative contexts to affirm that a document's validity has not been affected by subsequent events. The construction is compositional and applies across truth-domain adjectives.
+
+---
+
+**Example:** הוּא נִשְׁאַר נֶאֱמָן לָעוּבְדוֹת
+**Transliteration:** hu nishʾar neʾeman la-ʿuvdot
+**English translation:** he remained faithful to the facts
+**Naturalness:** [CORE]
+**Notes:** Used in journalistic and historical contexts to evaluate whether a reporter or historian maintained fidelity to the facts over time. The construction with נֶאֱמָן לָעוּבְדוֹת (P1b, item 36) is natural and common.
+
+---
+
+**Example:** הַמֵּידָע נִשְׁאַר מְדֻיָּק
+**Transliteration:** ha-meydaʿ nishʾar meduyaq
+**English translation:** the information remained accurate
+**Naturalness:** [CORE]
+**Notes:** Used in scientific and journalistic contexts to affirm that information has not become outdated or imprecise. Common in contexts of data quality evaluation.
+
+---
+
+**Example:** הוּא נִשְׁאַר עַקְבִּי בְּעֶמְדוֹתָיו
+**Transliteration:** hu nishʾar ʿaqbī be-ʿemdotav
+**English translation:** he remained consistent in his positions
+**Naturalness:** [CORE]
+**Notes:** Used in political and journalistic discourse to evaluate whether a person has maintained consistent positions over time. The prepositional phrase בְּעֶמְדוֹתָיו ("in his positions") is a natural complement.
+
+---
+
+### 4.2 Pattern: שָׁמַר עַל / shamar ʿal ("maintained, kept") + truth-domain abstract noun
+
+This construction expresses active maintenance of a truth-related quality.
+
+---
+
+**Example:** הוּא שָׁמַר עַל אֲמִינוּתוֹ
+**Transliteration:** hu shamar ʿal ʾaminuto
+**English translation:** he maintained his credibility / he kept his credibility intact
+**Naturalness:** [CORE]
+**Notes:** Used in journalistic and political discourse to evaluate whether a person has actively preserved their credibility. The construction implies effort and agency in maintaining the quality, distinguishing it from the more passive נִשְׁאַר.
+
+---
+
+**Example:** הַמּוֹסָד שָׁמַר עַל מְהֵימָנוּתוֹ
+**Transliteration:** ha-mosad shamar ʿal meheymanuto
+**English translation:** the institution maintained its credibility
+**Naturalness:** [CORE]
+**Notes:** Common in institutional and organizational discourse. The construction applies productively to other -ut abstracts: שָׁמַר עַל עַקְבִּיּוּתוֹ ("maintained his consistency"), שָׁמַר עַל יֹשְׁרוֹ ("maintained his integrity").
+
+---
+
+**Example:** הוּא שָׁמַר עַל כַּנּוּתוֹ
+**Transliteration:** hu shamar ʿal kannuto
+**English translation:** he maintained his sincerity / he kept his honesty intact
+**Naturalness:** [CORE]
+**Notes:** Used in interpersonal and moral discourse to evaluate whether a person has preserved their genuine sincerity over time or under pressure.
+
+---
+
+### 4.3 Pattern: עָמַד בְּ- / ʿamad be- ("stood by, upheld") + truth-domain noun
+
+This construction expresses adherence to or maintenance of a truth-related commitment.
+
+---
+
+**Example:** הוּא עָמַד בְּדִבְרוֹ
+**Transliteration:** hu ʿamad be-divro
+**English translation:** he stood by his word / he kept his word
+**Naturalness:** [CORE]
+**Notes:** A very common expression for maintaining a commitment or promise. While not exclusively a truth-domain expression, it evaluates the correspondence between a person's stated commitment and their subsequent conduct — a dimension of נֶאֱמָן and יֹשֶׁר.
+
+---
+
+**Example:** הוּא עָמַד בְּעֶמְדָּתוֹ
+**Transliteration:** hu ʿamad be-ʿemdato
+**English translation:** he stood by his position / he maintained his position
+**Naturalness:** [CORE]
+**Notes:** Used in political and argumentative discourse to evaluate whether a person has maintained their stated position under pressure. Related to עַקְבִּי (consistency) in P3 Group 10.
+
+---
+
+## 5. ADDITIONAL DYNAMIC PATTERNS
+
+### 5.1 Pattern: לְהוֹדוֹת בָּאֱמֶת / lehodot ba-ʾemet — "to admit the truth"
+
+Documented in P2b (Construction 1.9). This construction expresses the epistemic transition from concealment or denial to acknowledgment of truth.
+
+---
+
+**Example:** בַּסּוֹף הוּא הוֹדָה בָּאֱמֶת
+**Transliteration:** ba-sof hu hodah ba-ʾemet
+**English translation:** in the end he admitted the truth
+**Naturalness:** [CORE]
+**Notes:** Common in legal, interpersonal, and political contexts. The adverb בַּסּוֹף ("in the end") is a natural collocate, marking the transition as the culmination of a process.
+
+---
+
+### 5.2 Pattern: לְהִתְעַמֵּת עִם הָאֱמֶת / lehitʿammet ʿim ha-ʾemet — "to confront the truth"
+
+Documented in P2b (Construction 1.18). This construction expresses the process of engaging with an unwelcome reality.
+
+---
+
+**Example:** הִגִּיעַ הַזְּמַן לְהִתְעַמֵּת עִם הָאֱמֶת
+**Transliteration:** higiaʿ ha-zman lehitʿammet ʿim ha-ʾemet
+**English translation:** the time has come to confront the truth
+**Naturalness:** [CORE]
+**Notes:** Common in political, psychological, and journalistic discourse. The construction implies a prior state of avoidance or denial and marks the transition to engagement with reality.
+
+---
+
+### 5.3 Pattern: לְעַוֵּת / לְסַלֵּף אֶת הָאֱמֶת — "to distort / to falsify the truth"
+
+Documented in P2b (Constructions 1.19 and 1.20). These constructions express the causation of a distorted or falsified state from a prior true state.
+
+---
+
+**Example:** הַדִּיּוּחַ סִלֵּף אֶת הָאֱמֶת
+**Transliteration:** ha-diyuaḥ sillef ʾet ha-ʾemet
+**English translation:** the report falsified/distorted the truth
+**Naturalness:** [CORE]
+**Notes:** P2b notes that לְסַלֵּף implies more active distortion than לְעַוֵּת. Both constructions express a causative transition from truth to distorted representation. Common in journalistic and legal contexts.
+
+---
+
+### 5.4 Pattern: חָזַר בּוֹ / ḥazar bo ("retracted, went back on") — reversal of a truth-claim
+
+This construction expresses the reversal of a previously stated position or claim, relevant to the consistency domain (P3 Group 10).
+
+---
+
+**Example:** הוּא חָזַר בּוֹ מֵהַטַּעֲנָה
+**Transliteration:** hu ḥazar bo me-ha-taʿanah
+**English translation:** he retracted the claim / he went back on the claim
+**Naturalness:** [CORE]
+**Notes:** Used in legal, political, and everyday discourse to describe the withdrawal of a previously stated claim or position. The construction is relevant to the עַקְבִּי / עַקְבִּיּוּת domain: retracting a claim is a form of inconsistency (אִי-עַקְבִּיּוּת). The construction is fully compositional.
+
+---
+
+### 5.5 Pattern: אִיבֵּד אֶת תֹּקְפוֹ / ibbed ʾet toqfo — "lost its validity"
+
+Documented under 2.2 above. This is the standard expression for the expiry or invalidation of a document or legal instrument, and is sufficiently frequent and conventionalized to warrant separate notation.
+
+---
+
+**Example:** הַדַּרְכּוֹן אִיבֵּד אֶת תֹּקְפוֹ
+**Transliteration:** ha-darkon ibbed ʾet toqfo
+**English translation:** the passport lost its validity / the passport expired
+**Naturalness:** [CORE]
+**Notes:** The most natural and common expression for document expiry in everyday administrative discourse. The construction with תֹּקֶף is more idiomatic than הַדַּרְכּוֹן הָפַךְ לְלֹא תָּקֵף, which is grammatically possible but less natural.
+
+---
+
+## 6. GAPS AND ASYMMETRIES
+
+**6.1 No common inchoative for מְזֻיָּף (mezuyaf):** As noted in 1.1.4, the inchoative construction הָפַךְ לְמְזֻיָּף is grammatically possible but semantically awkward. Forgery is conceptualized as an instantaneous act rather than a gradual transition; the causative לְזַיֵּף (section 3.1.4) is strongly preferred over any inchoative frame.
+
+**6.2 No morphological causative for נָכוֹן (nakhon):** There is no Hifʿil form meaning "to make correct" or "to cause to be correct" derived from נָכוֹן in common use. The causative meaning is expressed periphrastically (לְתַקֵּן, "to correct/fix," from root ת-ק-נ, is used for correcting errors, but this is not a derivation of nakhon). The gap is consistent with the observation in P4a that "a direct causative 'to make [something] true' is not a productive or common form."
+
+**6.3 No common inchoative for שַׁקְרָן (shaqran):** The agentive noun שַׁקְרָן denotes a habitual or characterological liar; there is no natural inchoative construction "he became a liar" using הָפַךְ לְשַׁקְרָן, though it is grammatically possible. The more natural expression would be הוּא הִתְחִיל לְשַׁקֵּר ("he started lying") using the verbal form.
+
+**6.4 Stability expressions are more natural with -ut abstracts than with adjectives:** The constructions שָׁמַר עַל אֲמִינוּתוֹ and שָׁמַר עַל מְהֵימָנוּתוֹ are more natural than *שָׁמַר עַל אָמִין or *שָׁמַר עַל מְהֵימָן. The -ut abstract nominalizations (P4a, Construction 6) are the preferred complements of stability and maintenance constructions, consistent with their function as the primary abstract nominal form in the truth domain.
+
+**6.5 הִתְבָּרֵר שֶׁ- is the most productive inchoative-epistemic construction:** Across all truth-domain terms, הִתְבָּרֵר שֶׁ- ("it turned out that") is the most natural and frequent way to express the coming-to-light of a truth-related state. It applies without restriction to all terms in the domain and does not require a specific inchoative verb for each term individually.

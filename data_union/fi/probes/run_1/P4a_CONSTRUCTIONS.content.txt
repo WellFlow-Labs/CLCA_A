@@ -1,0 +1,142 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Finnish (fi)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+Subject + *olla* (copula) + truth-domain adjective (predicative)
+
+### Examples
+- *Se on tosi.* → N/A → "It is true."
+- *Väite on perusteeton.* → N/A → "The claim is unfounded."
+
+### Notes
+Finnish uses the copula *olla* + predicative adjective in nominative. The subject is typically a proposition-denoting NP (*se*, *väite*, *selitys*). No special construction is required; this is the default predicative pattern.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+Subject + *ei ole* (negated copula) + predicative; OR *epä-* prefix on adjective + *olla*
+
+### Examples
+- *Se ei pidä paikkaansa.* → N/A → "That is not true / does not hold."
+- *Lähde on epäluotettava.* → N/A → "The source is unreliable."
+
+### Notes
+Two strategies coexist: (a) negated copula with the positive adjective (*ei ole tosi*, *ei ole oikein*), and (b) *epä-*-prefixed adjective with positive copula (*epäluotettava*, *epäuskottava*, *epäaito*). The fixed construction *ei pidä paikkaansa* ("does not hold its place") is the most frequent colloquial form for propositional falsity.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+Truth-domain adjective + head noun (adjective precedes noun in attributive position)
+
+### Examples
+- *luotettava lähde* → N/A → "a reliable source"
+- *perusteeton syytös* → N/A → "an unfounded accusation"
+
+### Notes
+Finnish adjectives precede the head noun and agree with it in case and number. Attributive position is the default for adnominal modification; no additional morphology distinguishes attributive from predicative use beyond agreement inflection.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+(a) *osoittautua* + translative of adjective; (b) *toteutua* (for propositions/predictions coming true); (c) *-utua* / *-ytya* inchoative suffix on adjective stem
+
+### Examples
+- *Väite osoittautui epätodeksi.* → N/A → "The claim turned out to be false."
+- *Ennuste toteutui.* → N/A → "The prediction came true."
+
+### Notes
+The periphrastic construction *osoittautua* + translative is the productive general-purpose inchoative for truth-domain adjectives (*osoittautua oikeaksi*, *todelliseksi*, *luotettavaksi*). The verb *toteutua* is specific to predictions, plans, and wishes "coming true" or being realized. The morphological inchoative *aitoutua* ("to become authentic") is attested but marginal.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+(a) *tehdä* + translative of adjective ("to make X"); (b) *-ntää* / *-stää* / *-ttaa* causative suffix on adjective stem
+
+### Examples
+- *Todisteet tekivät väitteen uskottavaksi.* → N/A → "The evidence made the claim credible."
+- *Hän väärensi asiakirjan.* → N/A → "He forged the document." (*väärentää* < *väärä* + *-ntää*)
+
+### Notes
+The periphrastic *tehdä* + translative is the productive general-purpose causative for truth-domain adjectives. Morphological causatives are lexicalized rather than fully productive: *väärentää* (to falsify), *todentaa* (to verify/authenticate), *oikaista* (to correct) are the main attested forms. No single suffix covers the full domain.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+Adjective/verb stem + *-uus* / *-yys* (quality nominalization); OR genitive-compound nominals (*totuuden-*, *todellisuuden-*)
+
+### Examples
+- *Lähteen luotettavuus on kyseenalainen.* → N/A → "The reliability of the source is questionable."
+- *Menettelyn asianmukaisuus tarkistettiin.* → N/A → "The propriety of the procedure was checked."
+
+### Notes
+The suffix *-uus* / *-yys* is the primary nominalizer for truth-domain adjectives: *totuus*, *aitous*, *luotettavuus*, *uskottavuus*, *pätevyys*, *tarkkuus*, *rehellisyys*, *oikeellisuus*, *valheellisuus*. Genitive-compound nominals (*totuudenmukaisuus*, *todellisuudentaju*) form a secondary productive pattern. Action nominals in *-minen* (*tarkistaminen*, *väärentäminen*) nominalize the corresponding verbs.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+Verb stem + *-ja* / *-jä* (agent suffix)
+
+### Examples
+- *Hän on luotettava todistaja.* → N/A → "He is a reliable witness." (*todistaja* < *todistaa* + *-ja*)
+- *Asiakirjojen väärentäjä pidätettiin.* → N/A → "The forger of documents was arrested." (*väärentäjä* < *väärentää* + *-jä*)
+
+### Notes
+The suffix *-ja* / *-jä* attaches to the verb stem to form agent nouns. Attested truth-domain agents: *todistaja* (witness/prover), *väärentäjä* (forger), *tarkistaja* (checker/verifier), *tarkkailija* (observer/monitor). There is no single lexicalized agent noun for "truth-teller"; the role is expressed periphrastically (*henkilö, joka puhuu totta* — "a person who speaks the truth") or via *rehellinen ihminen* ("an honest person").
+
+---
+
+## 8. PERIPHRASTIC STANCE CONSTRUCTIONS
+
+### Pattern
+*pitää* + essive of adjective ("to consider/regard as X"); *katsoa* + translative ("to deem X")
+
+### Examples
+- *Pidän selitystä uskottavana.* → N/A → "I consider the explanation credible."
+- *Viranomainen katsoi todistuksen päteväksi.* → N/A → "The authority deemed the certificate valid."
+
+### Notes
+These constructions express an agent's epistemic or evaluative stance toward a referent. *Pitää* + essive encodes ongoing assessment; *katsoa* + translative encodes a determination or ruling. Both are productive across the full range of truth-domain adjectives and are especially frequent in legal and administrative discourse.
+
+---
+
+## 9. VERB + *VÄÄRIN* / *OIKEIN* CONSTRUCTIONS
+
+### Pattern
+Verb of cognition or communication + adverb *väärin* ("wrongly") or *oikein* ("correctly")
+
+### Examples
+- *Ymmärsit minut väärin.* → N/A → "You misunderstood me."
+- *Vastasit oikein.* → N/A → "You answered correctly."
+
+### Notes
+The adverbs *väärin* and *oikein* (instructive/adverbial forms of *väärä* and *oikea*) combine productively with verbs of cognition, communication, and action (*ymmärtää*, *tulkita*, *vastata*, *käyttää*, *mennä*) to form misuse/correct-use constructions. This pattern does much of the work that English handles with *mis-* prefixation (*misunderstand*, *misinterpret*, *misuse*).
+
+---
+
+## 10. CORRESPONDENCE CONSTRUCTION
+
+### Pattern
+NP + *vastata* + partitive of *todellisuus* / *totuus* ("to correspond to reality/truth")
+
+### Examples
+- *Suunnitelma ei vastaa todellisuutta.* → N/A → "The plan does not correspond to reality."
+- *Kuvaus vastaa totuutta.* → N/A → "The description corresponds to the truth."
+
+### Notes
+The verb *vastata* ("to correspond to, to match") with a partitive complement is the standard construction for asserting or denying correspondence between a representation and reality. It is distinct from the predicative attribution pattern (Section 1) in that it explicitly encodes the correspondence relation between two entities rather than attributing a property to one.

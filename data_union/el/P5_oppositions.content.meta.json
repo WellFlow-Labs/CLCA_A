@@ -1,0 +1,21 @@
+{
+  "step": "P5_oppositions",
+  "phase": "M",
+  "merged_from": 3,
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "raw_metadata": {
+    "backend": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "temperature": 0.2,
+    "phase": "P",
+    "long_context_active": false,
+    "cache_enabled": false,
+    "usage": {
+      "estimated_input_tokens": 18210,
+      "input_tokens": 23092,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0
+    }
+  }
+}

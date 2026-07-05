@@ -1,0 +1,37 @@
+# F6 — NATURALNESS TABLE
+
+| Prompt # | Expression (Native Script) | Transliteration | Naturalness Rating | Notes |
+|----------|---------------------------|-----------------|-------------------|--------|
+| 1 | 소문이 사실이 되다 | somuni sasiri doeda | [MARGINAL] | Grammatically possible but semantically awkward. Preferred: 진실로 드러나다 (jinsilro deureonada) [CORE], 사실로 밝혀지다 (sasilro balkhyeojida) [CORE], 사실임이 확인되다 (sasirimi hwagindoeda) [CORE] |
+| 2 | 진실이 거짓이 되다 | jinsiri geojisi doeda | [MARGINAL] | Grammatically possible but pragmatically very restricted. Preferred: 거짓으로 판명되다 (geojiseuro panmyeongdoeda) [CORE], 거짓말로 밝혀지다 (geojinmallo balkhyeojida) [CORE], 허위로 드러나다 (heowiro deureonada) [CORE] |
+| 3a | 정보가 정확해지다 | jeongboga jeonghwakaejida | [CORE] | Natural for gradual improvement in accuracy |
+| 3b | 답이 맞게 되다 | dabi matge doeda | [MARGINAL] | Grammatically possible but pragmatically restricted. Preferred: 맞추다 (matchuda) [CORE], 고치다 (gochida) [CORE] |
+| 4a | 정보가 부정확해지다 | jeongboga bujeonghwakaejida | [MARGINAL] | Grammatically possible but less common than positive counterpart |
+| 4b | 답이 틀리게 되다 | dabi teullige doeda | [MARGINAL] | Pragmatically restricted. Preferred: 틀리다 (teullida) [CORE] as stative, 잘못되다 (jalmotdoeda) [CORE] for processes going wrong |
+| 5 | 가짜가 진짜가 되다 | gajjaga jinjjaga doeda | [MARGINAL] | Pragmatically very restricted. Preferred: 진품으로 판명되다 (jinpumeuro panmyeongdoeda) [CORE], 진본임이 밝혀지다 (jinbonimi balkhyeojida) [CORE] |
+| 6 | 진짜가 가짜가 되다 | jinjjaga gajjaga doeda | [MARGINAL] | Pragmatically very restricted. Preferred: 가짜로 판명되다 (gajjaro panmyeongdoeda) [CORE], 모조품으로 밝혀지다 (mojopumeuro balkhyeojida) [CORE] |
+| 7 | 그 사람이 정직해졌다 | geu sarami jeongjikhaejyeotda | [CORE] | Natural for character development or change |
+| 8 | 그녀가 솔직해졌다 | geunyeoga soljikhaejyeotda | [CORE] | Natural, especially in relationship development contexts |
+| 9 | 사실이 확실해지다 | sasiri hwaksilhaejida | [CORE] | Natural for epistemic state changes |
+| 10 | 진실이 명백해지다 | jinsiri myeongbaekhaejida | [CORE] | Natural for evidential clarity increasing. Preferred alternative: 드러나다 (deureonada) [CORE] |
+| 11 | 이야기가 그럴듯해지다 | iyagiga geureoldeuthaejida | [MARGINAL] | Grammatically possible but uncommon. Preferred: 그럴듯하게 들리다 (geureoldeuthage deullida) [CORE] |
+| 12 | 신빙성이 높아지다 | sinbingseongi nopajida | [CORE] | Natural for credibility increasing |
+| 13 | 진실이 드러나다 | jinsiri deureonada | [CORE] | Primary way Korean conceptualizes truth emergence |
+| 14 | 거짓말이 들통나다 | geojinmari deultongada | [CORE] | Natural for lie exposure |
+| 15 | (making something true) | N/A | [UNCERTAIN] | No productive pattern identified. Alternatives: 실현하다 (silhyeonhada) [CORE] for realization, 증명하다 (jeungmyeonghada) [CORE] for proving |
+| 16 | (falsifying propositions) | N/A | [UNCERTAIN] | No productive pattern identified. Alternatives: 조작하다 (jojakada) [CORE] for fabrication, 왜곡하다 (waegokada) [CORE] for distortion |
+| 17 | 진실을 밝히다 | jinsireul balkhida | [CORE] | Primary way to express causing truth to be known |
+| 18 | 진실을 숨기다 | jinsireul sumgida | [CORE] | Natural for hiding truth |
+| 19 | 사실을 확인하다 | sasireul hwaginhada | [CORE] | Natural for verifying facts |
+| 20 | 그에게 진실을 말하게 하다 | geuege jinsireul malhage hada | [CORE] | Natural causative construction |
+| 21 | 그에게 거짓말을 하게 하다 | geuege geojinmareul hage hada | [CORE] | Natural causative construction |
+| 22 | 답을 맞추다 | dabeul matchuda | [CORE] | Natural for correcting/making correct |
+| 23 | 정보를 정확하게 하다 | jeongboreul jeonghwakhage hada | [CORE] | Natural for making accurate |
+| 24 | 사람을 정직하게 만들다 | sarameul jeongjikage mandeulda | [MARGINAL] | Pragmatically restricted. Preferred: 정직하게 키우다 (jeongjikage kiuda) [CORE], 정직함을 가르치다 (jeongjikameul gareuchida) [CORE] |
+| 25 | 사람을 솔직하게 만들다 | sarameul soljikage mandeulda | [MARGINAL] | Pragmatically restricted. Preferred: 솔직하게 말하게 하다 (soljikage malhage hada) [CORE], 마음을 열게 하다 (maeumeul yeolge hada) [CORE] |
+| 26a | 진실을 유지하다 | jinsireul yujihada | [MARGINAL] | Pragmatically odd |
+| 26b | 진실을 지키다 | jinsireul jikida | [CORE] | Natural in moral/ethical contexts |
+| 27 | 진품을 보존하다 | jinpumeul bojonhada | [CORE] | Natural for physical preservation |
+| 28 | 진실은 변하지 않는다 | jinsireun byeonhaji anneunda | [CORE] | Natural in philosophical/moral discourse |
+| 29 | 진실을 왜곡하다 | jinsireul waegokada | [CORE] | Natural for distorting truth |
+| 30 | 증거를 조작하다 | jeunggeoreul jojakada | [CORE] | Natural for fabricating evidence |

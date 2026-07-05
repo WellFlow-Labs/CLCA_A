@@ -1,0 +1,445 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Finnish (fi)
+
+---
+
+## Preliminary Note on Scope and Method
+
+This step documents how Finnish encodes dynamic relations involving truth-related vocabulary from the CONTEXT: becoming a truth-related state, ceasing to be one, causing something to enter or leave such a state, and related expressions of stability or resistance to change. The analysis draws exclusively on vocabulary, constructions, and patterns documented in P1, P1b, P2a, P2b, P3, P4a, P4b, and P5. Where a dynamic expression is absent or rare for a particular item, this is stated explicitly. Items are grouped by the type of dynamic relation encoded rather than by base item, because the CONTEXT reveals that different truth-related terms participate in different dynamic patterns and these patterns do not align uniformly across the vocabulary.
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE
+
+### 1a. *osoittautua* + translative
+
+**Pattern:** Subject NP + *osoittautua* + translative of truth-domain adjective
+
+**Description:** The verb *osoittautua* ("to turn out to be, to prove to be") is the primary productive construction for encoding the transition of a referent into a recognized truth-related state. It is documented in P4a as the "productive general-purpose inchoative for truth-domain adjectives" and appears in P2b with multiple truth-domain complements. The translative case encodes the state entered.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Väite osoittautui epätodeksi.* | "The claim turned out to be false." | P4b |
+| *Ennuste osoittautui oikeaksi.* | "The prediction turned out to be correct." | P2b Item 4, Construction 7 |
+| *Uhka osoittautui todelliseksi.* | "The threat turned out to be real." | P2b Item 6, Construction 5 |
+| *Lähde osoittautui luotettavaksi.* | "The source proved to be reliable." | P2b Item 8, Construction 5 |
+
+**Notes:** This construction is productive across the full range of truth-domain adjectives documented in the CONTEXT. The implicit structure encodes an evaluator (often institutional or journalistic) who arrives at a determination after observation or investigation. The construction does not encode who caused the transition; it encodes the outcome of a process of coming to be recognized as having a property.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1b. *toteutua* (for predictions, plans, and wishes coming true)
+
+**Pattern:** Subject NP (prediction, plan, wish) + *toteutua*
+
+**Description:** The verb *toteutua* ("to be realized, to come true, to materialize") is documented in P1b Root 1 and P4a as specific to subjects with a prospective or intentional character: predictions, plans, wishes, hopes. It is explicitly distinguished in P4b from *osoittautua*: "*toteutua* is restricted to propositions with a prospective or intentional character... Not interchangeable with *osoittautua* for general truth-domain inchoatives."
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Ennuste toteutui.* | "The prediction came true." | P4a, P4b |
+| *Unelma toteutui.* | "The dream was realized / came true." | P1b Root 1, item 30 |
+
+**Notes:** *Toteutua* encodes the transition from a projected or desired state to an actual state. It belongs to the *tosi/tode-* root family (via *toteuttaa* / *toteutua*) and carries the meaning of something becoming real or actual. It does not apply to static truth-evaluation of propositions (*se on tosi*) but specifically to the dynamic realization of something previously anticipated.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1c. *tulla ilmi* (truth coming to light)
+
+**Pattern:** *Totuus* (or equivalent NP) + *tulla ilmi*
+
+**Description:** The fixed verb-particle construction *tulla ilmi* ("to come to light, to be revealed") is documented in P2b Item 1, Construction 9 as a standard construction with *totuus* as subject. It encodes the transition of truth from a hidden or unknown state to a publicly known or disclosed state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Totuus tulee ilmi.* | "The truth comes out / comes to light." | P2b Item 1, Construction 9 |
+
+**Notes:** *Tulla ilmi* is a fixed construction that does not take truth-domain adjectives as complements; it takes a noun subject (*totuus*, or by extension other fact-denoting nouns). It encodes revelation rather than evaluation: the truth transitions from concealed to disclosed. The CONTEXT places this in P3 Group 4 (legal and investigative discourse) as well as in the general truth-assertion cluster.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 1d. Morphological inchoative *-utua* / *-ytya*
+
+**Pattern:** Adjective stem + *-utua* / *-ytya* inchoative suffix
+
+**Description:** P4a documents this as a morphological inchoative strategy, but P4b explicitly marks it as [MARGINAL]: "Attested but marginal; not productively available across the truth-domain adjective class. Lexical coverage is sparse and individual forms should not be assumed to exist without attestation." The only form documented in the CONTEXT is *aitoutua* ("to become authentic").
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *(aitoutua)* | "to become authentic" | P2a Item 3, Derived Form 2; P4a |
+
+**Notes:** *Aitoutua* is described in P2a as "used in philosophical and psychological discourse to describe a process by which something or someone comes to be or becomes authentic." It is marked [MARGINAL] in P2a. No other morphological inchoative of this type is documented for truth-domain adjectives in the CONTEXT. This pattern should not be assumed to extend to other items without independent attestation.
+
+**Epistemic status:** [MARGINAL]
+
+---
+
+## 2. BECOMING A NON-TRUTH / OPPOSED STATE
+
+### 2a. *osoittautua* + translative of negative adjective
+
+**Pattern:** Subject NP + *osoittautua* + translative of negated truth-domain adjective
+
+**Description:** The same *osoittautua* construction documented in Section 1a applies equally to transitions into negative truth-related states. The translative complement takes the *epä-*-prefixed or otherwise negated form of the adjective.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Väite osoittautui epätodeksi.* | "The claim turned out to be false." | P4a, P4b |
+
+**Notes:** The CONTEXT does not document separate constructions for "becoming false" versus "becoming true"; the same *osoittautua* frame handles both directions by varying the translative complement. This is consistent with the general productivity of the construction noted in P4a and P4b.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2b. *vääristää* / *vääristely* (distortion as a process)
+
+**Pattern:** Agent NP + *vääristää* + object NP (facts, data, history)
+
+**Description:** *Vääristää* ("to distort, to falsify, to misrepresent, to skew") is documented in P1b Root 3 and P3 Group 7 as encoding the act of causing something accurate to become distorted or misrepresented. It encodes a dynamic process of falsification applied to representations, facts, or data.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *vääristää tosiasioita* | "to distort the facts" | P1b Root 3, item 13 |
+| *vääristää kilpailua* | "to distort competition" | P1b Root 3, peripheral extensions |
+| *historian vääristely* | "distortion of history" | P1b Root 3, item 16; P3 Group 7 |
+
+**Notes:** The CONTEXT explicitly distinguishes *vääristää* / *vääristely* (deliberate distortion of representations) from *vääristymä* (systematic unintentional deviation). The former encodes an agent causing a transition from accurate to distorted; the latter encodes a state of deviation without implying intent (see Section 5 below).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 2c. *väärentää* (falsification of objects and documents)
+
+**Pattern:** Agent NP + *väärentää* + object NP (document, signature, currency, history)
+
+**Description:** *Väärentää* ("to forge, to falsify, to counterfeit") is documented in P1, P1b Root 3, P2a, P2b, and P3 Group 7. It encodes the deliberate act of causing something genuine to be replaced by or represented as a false version. Unlike *vääristää*, which applies to representations and data, *väärentää* applies primarily to physical objects and documents.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *väärentää asiakirja* | "to forge a document" | P2b Item 15, Construction 1 |
+| *väärentää allekirjoitus* | "to forge a signature" | P2b Item 15, Construction 3 |
+| *väärentää rahaa* | "to counterfeit money" | P2b Item 15, Construction 4 |
+| *väärentää historiaa* | "to falsify history" | P2b Item 15, Construction 2 |
+
+**Notes:** *Väärentää* is a morphological causative (*väärä* + *-ntää*) and is fully lexicalized. It encodes a transition from genuine to counterfeit caused by a deliberate agent. The result of this process is named by *väärennös* (forgery, counterfeit), which is the state-noun corresponding to the completed transition.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 3. CAUSING SOMETHING TO BE A TRUTH-RELATED STATE
+
+### 3a. *tehdä* + translative (general-purpose causative)
+
+**Pattern:** Causal agent/NP + *tehdä* + object NP + translative of truth-domain adjective
+
+**Description:** P4a documents *tehdä* + translative as the "productive general-purpose causative" for truth-domain adjectives, and P4b confirms it is [CORE] and "fully productive across truth-domain adjectives in the translative." It encodes an agent or factor causing a referent to enter a truth-related state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *Todisteet tekivät väitteen uskottavaksi.* | "The evidence made the claim credible." | P4a, P4b |
+
+**Notes:** The CONTEXT provides one explicit example but the construction is described as fully productive. By extension from the documented pattern, the following are structurally available: *tehdä väitteen todeksi* ("to make the claim true"), *tehdä lähteen luotettavaksi* ("to make the source reliable"), *tehdä päätöksen oikeutetuksi* ("to make the decision justified"). These are structural extensions of the documented pattern and are noted here as such rather than as independently attested examples.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3b. *todistaa* (causing a claim to be established as true or false)
+
+**Pattern:** Agent NP + *todistaa* + object NP (claim, proposition); OR *todistaa* + object NP + *epätodeksi* (translative)
+
+**Description:** *Todistaa* ("to prove, to testify, to witness") is documented throughout the CONTEXT as encoding the act of establishing the truth or falsity of a claim through evidence or argument. In its basic use it causes a claim to be recognized as true; with the translative complement *epätodeksi* it causes a claim to be recognized as false.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *todistaa väite* | "to prove a claim" | P1 item 21 |
+| *väite voidaan todistaa epätodeksi* | "the claim can be proved false" | P2b Item 14, Construction 2 |
+| *todistetusti väärä* | "demonstrably false" | P1b Root 1, item 23 |
+
+**Notes:** *Todistaa* encodes a causative epistemic relation: an agent brings about a state in which a proposition is recognized as true or false by producing evidence or argument. The adverb *todistetusti* ("demonstrably, as has been proven") encodes the resultant state from the perspective of the outcome rather than the process.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3c. *todentaa* (causing something to be verified or authenticated)
+
+**Pattern:** Agent NP + *todentaa* + object NP (identity, data, document)
+
+**Description:** *Todentaa* ("to verify, to authenticate, to confirm, to validate") is documented in P1b Root 1 and P2a as a morphological causative (*tode-* + *-ntaa*) encoding the act of confirming that something is real, correct, or authentic. It causes a referent to enter a verified or authenticated state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *todentaa henkilöllisyys* | "to verify identity" | P1b Root 1, item 24 |
+| *todentaa tiedot* | "to verify the data" | P1b Root 1, item 24 |
+| *kaksivaiheinen todennus* | "two-factor authentication" | P2a Item 7 (cross-ref); P1b Root 1, item 25 |
+
+**Notes:** *Todentaa* is distinguished from *tarkistaa* (to check) in the CONTEXT: *todentaa* confirms that something is real or authentic, while *tarkistaa* checks whether something is accurate or in order. Both are causative in the sense that an agent brings about a state of verified or checked status, but they apply to different objects and in different institutional contexts (see P5 Opposition 42).
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3d. *tarkistaa* (causing something to be checked or verified)
+
+**Pattern:** Agent NP + *tarkistaa* + object NP (information, passport, document)
+
+**Description:** *Tarkistaa* ("to check, to verify, to inspect, to review") is documented in P1, P2a, P2b, and P3 as encoding the act of examining something to determine whether it is accurate, correct, or in order. It causes a referent to enter a checked or verified state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *tarkistaa tiedot* | "to verify the information" | P1 item 20; P2b Item 20, Construction 1 |
+| *tarkistaa passi* | "to check the passport" | P1 item 20; P2b Item 20, Construction 2 |
+
+**Notes:** The result nominal *tarkistus* ("check, verification") names the state or product of this causative act. *Tarkistaa* is productive and common across administrative, legal, and everyday contexts. Unlike *todentaa*, it does not necessarily result in a positive confirmation of authenticity; it initiates a process whose outcome may be positive or negative.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3e. *oikaista* (causing an error to be corrected)
+
+**Pattern:** Agent NP + *oikaista* + object NP (error, misunderstanding, misrepresentation)
+
+**Description:** *Oikaista* ("to correct, to rectify, to straighten, to set right") is documented in P1b Root 2 and P2b as encoding the act of correcting an error, misrepresentation, or misalignment. It causes a referent to transition from an incorrect to a correct state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *oikaista virhe* | "to correct an error" | P1b Root 2, item 17 |
+| *oikaista väärinkäsitys* | "to correct a misunderstanding" | P1b Root 2, item 17; P2b Item 4, Construction 2 |
+| *lehti julkaisi oikaisun* | "the newspaper published a correction" | P1b Root 2, item 18 |
+
+**Notes:** *Oikaista* is a morphological causative (*oikea* + *-ista*) encoding the transition from wrong/crooked to right/straight. The result nominal *oikaisu* ("correction, rectification, erratum") names the product of this causative act. It is used in journalistic, legal, and everyday contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3f. *oikeuttaa* (causing something to be justified or authorized)
+
+**Pattern:** Agent/factor NP + *oikeuttaa* + object NP (action, claim)
+
+**Description:** *Oikeuttaa* ("to justify, to entitle, to authorize, to warrant") is documented in P1b Root 2 and P2a as encoding the act of providing grounds that make an action or claim legitimate. It causes a referent to enter a justified or authorized state.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *mikään ei oikeuta väkivaltaa* | "nothing justifies violence" | P1b Root 2, item 20 |
+| *laki oikeuttaa tähän* | "the law entitles one to this" | P1b Root 2, item 20 |
+
+**Notes:** *Oikeuttaa* is a morphological causative (*oikeus* + *-ttaa*) encoding the conferral of justification or entitlement. The result nominal *oikeutus* ("justification, entitlement, authorization, warrant") names the resulting state. The CONTEXT places *oikeuttaa* in both Group 8 (adequate grounds) and Group 12 (justice and rights), reflecting its dual epistemic and moral-legal application.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 3g. *toteuttaa* (causing something to be realized or implemented)
+
+**Pattern:** Agent NP + *toteuttaa* + object NP (plan, dream, project)
+
+**Description:** *Toteuttaa* ("to implement, to realize, to carry out, to execute") is documented in P1b Root 1 as a morphological causative (*tote-* + *-uttaa*) encoding the act of bringing something into reality. It causes a projected or planned state to become actual.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *toteuttaa suunnitelma* | "to implement a plan" | P1b Root 1, item 29 |
+| *toteuttaa unelma* | "to realize a dream" | P1b Root 1, item 29 |
+
+**Notes:** *Toteuttaa* is the causative counterpart of *toteutua* (Section 1b): *toteutua* encodes the intransitive coming-true of a plan or prediction, while *toteuttaa* encodes the transitive act of an agent bringing it about. Both belong to the *tosi/tode-* root family and encode the transition from projected to actual. The CONTEXT flags this as a peripheral extension of the truth root into practical execution contexts.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 4. CAUSING SOMETHING TO LOSE A TRUTH-RELATED STATE
+
+### 4a. *kyseenalaistaa* + truth-related nominal (causing reliability or credibility to be questioned)
+
+**Pattern:** Agent NP + *kyseenalaistaa* + truth-related nominal (reliability, credibility)
+
+**Description:** *Kyseenalaistaa* ("to call into question, to challenge") is documented in P2b Item 9, Construction 3 as combining with *luotettavuus* to encode the act of challenging the reliability of a source or institution. It causes a referent to transition from an unquestioned reliable state to a questioned one.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *kyseenalaistaa todistajan luotettavuus* | "to call the witness's reliability into question" | P2b Item 9, Construction 3 |
+
+**Notes:** The CONTEXT documents this construction specifically with *luotettavuus*. The construction is structurally available with other truth-domain nominals (*uskottavuus*, *pätevyys*) but these are not independently attested in the CONTEXT and are not reported here as attested examples.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 4b. *menettää* + truth-related nominal (losing reliability or credibility)
+
+**Pattern:** Subject NP + *menettää* + truth-related nominal
+
+**Description:** The verb *menettää* ("to lose") is not itself a truth-domain item but is documented in the CONTEXT in the compound *luotettavuusongelma* ("credibility/reliability problem") context, which implies a process of losing credibility. The CONTEXT does not provide a direct attested example of *menettää* + truth-domain nominal, but the *luotettavuusongelma* entry in P2a Item 9 describes "a situation in which the reliability or credibility of a source, institution, or person is in question," implying a prior state of reliability that has been lost or compromised.
+
+**Attested examples from CONTEXT:** No direct example of *menettää* + truth-domain nominal is attested in the CONTEXT.
+
+**Notes:** The absence of a directly attested example is reported explicitly. The CONTEXT documents the nominal *luotettavuusongelma* ("reliability problem") and the construction *kyseenalaistaa luotettavuus* ("to call reliability into question"), both of which presuppose a prior state of reliability that is being challenged or lost, but neither directly encodes the loss event itself.
+
+**Epistemic status:** [UNCERTAIN — no direct attestation in CONTEXT]
+
+---
+
+### 4c. *paljastaa väärennös* (causing a forgery to be exposed)
+
+**Pattern:** Agent NP + *paljastaa* + *väärennös* (or equivalent)
+
+**Description:** *Paljastaa* ("to expose, to reveal") is documented in P2b Item 16, Construction 2 as combining with *väärennös* to encode the act of identifying and exposing a forgery. It causes a counterfeit object to transition from an undetected to a detected state, which simultaneously causes the false claim of genuineness to be recognized as false.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *paljastaa väärennös* | "to expose a forgery; to reveal a fake" | P2b Item 16, Construction 2 |
+
+**Notes:** This construction encodes a causative epistemic event: an agent brings about a state in which a forgery is publicly recognized as such. It is the inverse of *väärentää* (Section 2c): where *väärentää* causes something genuine to be replaced by a fake, *paljastaa väärennös* causes a fake to be recognized as such.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 5. STABILITY AND RESISTANCE TO CHANGE
+
+### 5a. *vääristymä* (stable systematic deviation without agent)
+
+**Pattern:** NP + *vääristymä* (as a stable property noun)
+
+**Description:** *Vääristymä* ("distortion, bias, skew, aberration") is documented in P1b Root 3 and P3 as encoding a stable systematic deviation from accurate representation, explicitly distinguished from deliberate distortion (*vääristely*). It names a state of deviation that persists without necessarily having been caused by an agent.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *mittausvääristymä* | "measurement distortion" | P1b Root 3, item 14 |
+| *kognitiivinen vääristymä* | "cognitive bias" | P1b Root 3, item 14; P3 Group 10 |
+
+**Notes:** *Vääristymä* encodes a stable state rather than a dynamic transition. It is the result nominalization of *vääristyä* ("to become distorted"), which is the intransitive/reflexive counterpart of *vääristää* ("to distort"). The CONTEXT explicitly places *vääristymä* in Group 10 (accuracy evaluation) rather than Group 7 (deliberate misrepresentation), noting that it "does not necessarily imply intent." It represents a truth-related state that is stable and systematic rather than the outcome of a specific causative event.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 5b. *oikeusvoima* / *lainvoimainen* (legal force as a stable binding state)
+
+**Pattern:** NP + *oikeusvoima* (as a stable property); *lainvoimainen* (as a stable adjective)
+
+**Description:** *Oikeusvoima* ("legal force, res judicata, binding legal effect") and *lainvoimainen* ("having the force of law, final") are documented in P1b Root 2 as encoding the stable binding state of a court decision. The CONTEXT notes that a judgment has *oikeusvoima* "regardless of its factual accuracy," which makes this a case where a truth-related institutional state is explicitly stable and resistant to revision.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *tuomion oikeusvoima* | "the legal force of the judgment" | P1b Root 2, item 29 |
+| *lainvoimainen* | "having the force of law, final" | P1b Root 2, item 29 |
+
+**Notes:** The CONTEXT explicitly flags *oikeusvoima* as a peripheral extension in P1b, noting that "the root appears in a context where a judgment has binding force regardless of its factual accuracy." This makes it a case where institutional stability is explicitly decoupled from correspondence to truth — a legally stable state that is not necessarily a true state. This is documented here as a stability pattern rather than a truth-correspondence pattern.
+
+**Epistemic status:** [CORE]
+
+---
+
+### 5c. *todellisuudentaju* (stable capacity to perceive reality)
+
+**Pattern:** NP + *todellisuudentaju* (as a stable property noun); *puuttua* + *todellisuudentaju* (absence of the capacity)
+
+**Description:** *Todellisuudentaju* ("sense of reality, grasp of reality") is documented in P1b Root 1 and P2a as encoding a stable cognitive capacity to perceive what is real. The CONTEXT provides an example of its absence (*häneltä puuttuu todellisuudentaju* — "he lacks a sense of reality"), which encodes a stable deficit rather than a dynamic transition.
+
+**Attested examples from CONTEXT:**
+
+| Finnish | Translation | Source |
+|---|---|---|
+| *häneltä puuttuu todellisuudentaju* | "he lacks a sense of reality" | P1b Root 1, item 14 |
+
+**Notes:** *Todellisuudentaju* encodes a stable dispositional property rather than a dynamic state. Its absence (*puuttua* — "to be lacking, to be absent") is encoded as a stable deficit. The CONTEXT does not document a construction for acquiring or losing *todellisuudentaju* dynamically; it appears only as a stable property or its absence.
+
+**Epistemic status:** [CORE]
+
+---
+
+## 6. SUMMARY TABLE
+
+| Dynamic type | Primary construction | Key vocabulary | Epistemic status |
+|---|---|---|---|
+| Becoming true/real/reliable | *osoittautua* + translative | *oikeaksi*, *todelliseksi*, *luotettavaksi* | [CORE] |
+| Prediction/plan coming true | *toteutua* | *ennuste toteutui*, *unelma toteutui* | [CORE] |
+| Truth coming to light | *tulla ilmi* | *totuus tulee ilmi* | [CORE] |
+| Becoming authentic (morphological) | *aitoutua* | *(aitoutua)* | [MARGINAL] |
+| Becoming false/unreal | *osoittautua* + negative translative | *epätodeksi*, *vääräksi* | [CORE] |
+| Deliberate distortion of representations | *vääristää* / *vääristely* | *tosiasioita*, *historiaa* | [CORE] |
+| Deliberate falsification of objects | *väärentää* | *asiakirja*, *allekirjoitus*, *rahaa* | [CORE] |
+| Causing credibility | *tehdä* + translative | *uskottavaksi*, *luotettavaksi* | [CORE] |
+| Proving true or false | *todistaa* / *todistaa epätodeksi* | *väite*, *väite voidaan todistaa epätodeksi* | [CORE] |
+| Verifying/authenticating | *todentaa* | *henkilöllisyys*, *tiedot* | [CORE] |
+| Checking/verifying | *tarkistaa* | *tiedot*, *passi* | [CORE] |
+| Correcting an error | *oikaista* | *virhe*, *väärinkäsitys* | [CORE] |
+| Justifying/authorizing | *oikeuttaa* | *toiminta*, *vaatimus* | [CORE] |
+| Realizing/implementing | *toteuttaa* | *suunnitelma*, *unelma* | [CORE] |
+| Challenging reliability | *kyseenalaistaa* + nominal | *luotettavuus* | [CORE] |
+| Losing reliability | *menettää* + nominal | — | [UNCERTAIN — not attested] |
+| Exposing a forgery | *paljastaa väärennös* | *väärennös* | [CORE] |
+| Stable systematic deviation | *vääristymä* (state noun) | *kognitiivinen vääristymä* | [CORE] |
+| Stable legal binding force | *oikeusvoima* / *lainvoimainen* | *tuomion oikeusvoima* | [CORE] |
+| Stable perceptual capacity | *todellisuudentaju* | *puuttuu todellisuudentaju* | [CORE] |
+
+---
+
+## 7. CROSS-CUTTING OBSERVATIONS
+
+**7.1 Asymmetry between becoming-true and becoming-false**
+
+The CONTEXT documents a single productive construction (*osoittautua* + translative) that handles both directions of transition — into truth-related states and out of them — by varying the translative complement. There is no separate dedicated construction for "becoming false" that is distinct from "becoming true." The directionality is encoded in the complement, not in the verb.
+
+**7.2 Asymmetry between causing-true and causing-false**
+
+The causative domain shows a notable asymmetry. Causing something to be recognized as true or reliable is encoded by multiple constructions: *tehdä* + translative (general), *todistaa* (proving), *todentaa* (authenticating), *tarkistaa* (checking), *oikaista* (correcting). Causing something to become false or counterfeit is encoded by *väärentää* (for objects) and *vääristää* (for representations), but there is no general-purpose causative construction for "making a proposition false" parallel to *tehdä uskottavaksi* ("making credible"). The CONTEXT does not document a construction *tehdä epätodeksi* ("to make false") as an attested form, though it would be structurally available.
+
+**7.3 Intentionality distinction within the falsification cluster**
+
+The CONTEXT explicitly distinguishes between *vääristymä* (unintentional systematic deviation, stable state) and *vääristely* / *vääristää* (deliberate distortion, dynamic process). This distinction is encoded lexically rather than constructionally: the same root (*väärä*) generates both the state noun (*vääristymä*) and the agentive verb (*vääristää*), but they are used in different contexts with different implications for intent.
+
+**7.4 The *tode-* root covers both static and dynamic truth**
+
+The *tosi/tode-* root family covers both static truth-assertion (*se on tosi*, *totuus*) and dynamic processes of realization (*toteutua*, *toteuttaa*), verification (*todentaa*, *todennus*), and proof (*todistaa*, *todistus*). This breadth is documented in P1b Root 1 and is reflected in the range of dynamic constructions in this step. No other root in the CONTEXT covers as wide a range of dynamic truth-related meanings.
+
+**7.5 Absence of a dedicated "remain true" or "stay reliable" construction**
+
+The CONTEXT does not document a dedicated construction for the stability or persistence of a truth-related state (e.g., "X remains true," "X stays reliable"). Stability is encoded by the absence of change rather than by a positive stability construction. The closest documented forms are state nouns (*vääristymä*, *todellisuudentaju*, *oikeusvoima*) that name stable properties, but these are nominal rather than verbal encodings of persistence.

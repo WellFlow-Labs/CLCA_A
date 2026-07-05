@@ -1,0 +1,101 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Sanskrit (sa)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Zero-copula nominal sentence (predicate-initial); copula-present variant (*asti*/*bhavati* post-predicate); neuter singular predicative form as default shape | *satyaṃ paraṃ dharmaḥ*; *satyam etat*; *vedaḥ pramāṇam (asti)*; *satyaṃ brahma* | No substitution required; construction is fully productive and [CORE] across registers | None |
+| **ADNOM** | Free adjective preceding noun (agreement in gender/number/case); genitive phrase (*X-sya Y*); indeclinable modifier + head noun; *tatpuruṣa*/*karmadhāraya* compound | *yathārthaṃ jñānam*; *dharmasya tattvaṃ nihitaṃ guhāyām*; *śuddhaḥ pāṭhaḥ*; *mithyājñānam*; *mithyā jñānam* | No substitution required; four distinct sub-strategies all [CORE]; compound strategy dominant in technical prose | None |
+| **BECOME** | *jāyate* (arising/production); *utpadyate* (production of cognitive state); *nivartate* (cessation, inverse transition); *pramāṇa-bhūta* compound (lexicalized inchoative result) | *pramā jāyate*; *pramā utpadyate*; *bhramaḥ jāyate*; *mithyājñānaṃ nivartate*; *pramāṇabhūtaḥ (bhavati)* | No substitution required; multiple [CORE] constructions cover both arising and cessation transitions; *bhavati* covers stative and inchoative but is less specific than *jāyate*/*utpadyate* | None |
+| **REVELATION** | **MISSING (structural gap)** | — | No construction in P4a/P4b corresponds to a revelation or discovery frame (X is found/shown to be true; truth comes to light). The discourse-marking adverbial (§10: *vastutaḥ*, *paramārthataḥ*) asserts a deeper-level truth but does not encode the event of revelation or discovery as such. | Structural gap |
+| **CAUSATION (factual)** | Periphrastic causative with *āpādaya-* (truth-domain nominal as object); morphological causative *satyāpayati* [MARGINAL]; periphrastic *karaṇa* compound *pramāṇīkaraṇa* [MARGINAL]; liturgical causative of *gam-* (*gamaya*) [fixed formula] | *doṣam āpādayati*; *satyāpayati*; *pramāṇīkaraṇa*; *asato mā sad gamaya* | No full substitution; *āpādaya-* is [CORE] for introducing a fault/defect; morphological and *karaṇa* causatives are [MARGINAL] or register-restricted; no single [CORE] causative construction covers the full factual-causation range | Partial availability: [CORE] coverage is narrow (fault-introduction context); broader causative expression is [MARGINAL] or register-restricted |
+| **CAUSATION (character)** | **MISSING (structural gap)** | — | No construction in P4a/P4b encodes the sense that a person or source *makes* something true by virtue of their character or authority (e.g., "his word makes it true"). The agentive nominalization *satyavādin* (§7) identifies a truth-telling agent but does not encode a causative relationship between agent character and propositional truth. *Pramāṇīkaraṇa* (§5) encodes validation/authentication but is [MARGINAL] and register-restricted. | Structural gap |
+| **VERIFICATION** | Morphological causative nominal *satyāpana* ("verification, attestation") [MARGINAL]; *satyāpayati* ("causes to be verified / authenticates") [MARGINAL]; *pramāṇīkaraṇa* ("validation, authentication") [MARGINAL] | *satyāpana*; *satyāpayati*; *pramāṇīkaraṇa* | All attested verification constructions are [MARGINAL]; restricted to legal/administrative register (*satyāpana*, *satyāpayati*) or modern Sanskrit-influenced usage (*pramāṇīkaraṇa*); no [CORE] verification construction is attested in classical philosophical prose | Partial availability: verification meaning is expressible but only through [MARGINAL], register-restricted constructions |
+| **DISCONFIRMATION** | Negative attribution with *na* + predicate nominal (zero-copula); existential negation *nāsti* / *na … asti*; prefixal negation (*a-*/*an-*); class-denial formula (*hetvābhāso na hetuḥ*) | *bhramo na pramā*; *pramāṇaṃ nāsti*; *na tatra pramāṇam asti*; *hetvābhāso na hetuḥ*; *asatyam idam* | VERIFICATION and DISCONFIRMATION do **not** share the same construction: verification is expressed through causative/administrative formations (§5), while disconfirmation is expressed through negative attribution constructions (§2). The two are structurally distinct. | None for disconfirmation itself; gap is in VERIFICATION, not here |
+| **NEGATION** | Syntactic *na* + predicate nominal (zero-copula); existential *nāsti* (*na* + *asti*); morphological prefixal negation (*a-*/*an-*) incorporated into adjective/nominal | *na yuktam etat*; *pramāṇaṃ nāsti*; *asatyam idam*; *apramāṇa* | Both analytic (syntactic *na*) and morphological (prefixal *a-*/*an-*) strategies are [CORE] and productive; the two are described as functionally parallel and often interchangeable, with the syntactic form preferred for locally scoped or emphatic negation and the morphological form tending toward lexicalization | None; both strategies fully available |
+| **NOMINALIZATION** | Abstract nominalization with *-tā* suffix (feminine); abstract nominalization with *-tva* suffix (neuter); *-ya* after vṛddhi (restricted to *pramāṇa*-family: *prāmāṇya*); agentive nominalization with *-vādin*, *-bhāṣin*, *-tṛ*, *-jña* | *satyatā*; *satyatva*; *mithyātva*; *mithyātā*; *prāmāṇya*; *satyavādin*; *anṛta-bhāṣin*; *pramātṛ*; *ṛta-jña* | No substitution required; multiple [CORE] nominalization strategies cover both abstract property naming (*-tā*/*-tva*) and agentive roles (*-vādin*, *-bhāṣin*, *-tṛ*); *-jña* is [MARGINAL] | None for the pattern overall; *-jña* is [MARGINAL] |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 BECOME is not substituted by REVELATION
+
+The BECOME operator is well-served by multiple [CORE] constructions (*jāyate*, *utpadyate*, *nivartate*, *pramāṇa-bhūta*). These constructions encode the arising or cessation of a cognitive state (valid cognition, erroneous cognition) as a process with a grammatical subject. No REVELATION construction is attested: there is no construction in P4a/P4b that encodes the frame "X is found to be true" or "the truth of X comes to light" as a distinct event type. The discourse-marking adverbials (§10: *vastutaḥ*, *paramārthataḥ*, *tattvataḥ*) assert that a proposition holds at a deeper or ultimate level of analysis, but they do not encode the event of a truth being uncovered or revealed. REVELATION is therefore absent rather than substituted.
+
+### 2.2 VERIFICATION is not substituted by DISCOVERY; it is partially available through causative formations
+
+No DISCOVERY construction is attested in P4a/P4b. VERIFICATION is expressible, but only through [MARGINAL] constructions restricted to legal and administrative registers (*satyāpana*, *satyāpayati*) or to modern Sanskrit-influenced usage (*pramāṇīkaraṇa*). In classical philosophical prose, the closest functional equivalent to verification is the epistemological apparatus of *pramāṇa* (valid means of knowledge), but this is encoded as a nominal category (§1 ATTR, §2 NEGATION: *pramāṇaṃ nāsti*) rather than as a verbal or causative construction expressing the act of verifying. The act of verifying is thus not expressed through a [CORE] construction in the philosophical register.
+
+### 2.3 VERIFICATION and DISCONFIRMATION do not share the same construction
+
+These two operators are expressed through structurally distinct constructions. DISCONFIRMATION is expressed through negative attribution (§2: *na* + predicate nominal, *nāsti*, prefixal *a-*/*an-*), all of which are [CORE]. VERIFICATION is expressed through causative formations (§5), which are [MARGINAL] or register-restricted. The asymmetry is notable: disconfirmation has robust [CORE] expression across registers, while verification lacks a [CORE] construction in classical philosophical prose.
+
+### 2.4 NEGATION: both analytic and morphological strategies are available and productive
+
+Sanskrit employs two parallel negation strategies in the truth domain. The syntactic strategy (*na* + predicate nominal, zero-copula) is used when negation is locally scoped or pragmatically emphatic. The morphological strategy (prefixal *a-*/*an-*) is incorporated directly into the adjective or nominal and tends toward lexicalization (*asatya*, *ayukta*, *anucita*, *apramāṇa*). P4b describes these as functionally parallel and often interchangeable. No consistent semantic distinction between the two strategies is reported; the choice is described as a matter of scope and emphasis rather than meaning. Both strategies are [CORE].
+
+### 2.5 Positive/negative asymmetries in agentive nominalization
+
+Within the agentive nominalization pattern (§7), the *-vādin* suffix shows an observable distributional asymmetry: *satyavādin* (positive) and *asatyavādin* / *mithyāvādin* (negative) are both [CORE] and well-attested. However, the epistemological agent role (the knower of truth) is not filled by a *-vādin* compound; it is filled by *pramātṛ* (suffix *-tṛ*), which is restricted to the epistemological technical register. The speech-domain agentive (*-vādin*, *-bhāṣin*) and the epistemological-domain agentive (*-tṛ*) occupy non-overlapping functional niches. The *-jña* suffix (*ṛta-jña*) occupies a third niche (knowing, not speaking) and is [MARGINAL].
+
+### 2.6 CAUSATION (factual) is narrowly available; CAUSATION (character) is absent
+
+The *āpādaya-* periphrastic causative (§5) is [CORE] but is attested specifically in the context of introducing a fault or defect in an opponent's position (*doṣam āpādayati*). This is a narrow instantiation of factual causation. The morphological causative formations (*satyāpana*, *satyāpayati*) are [MARGINAL] and register-restricted. No construction encodes the sense that a person's character or authority causes a proposition to be true or to be accepted as true. The *pramāṇīkaraṇa* formation (making something into an authority) approaches this meaning but is [MARGINAL] and associated with modern Sanskrit-influenced usage rather than classical philosophical prose.
+
+### 2.7 Discourse-marking adverbials (§10) function as propositional-level operators without a periphrastic equivalent
+
+The *-taḥ* adverbial forms (*vastutaḥ*, *paramārthataḥ*, *tattvataḥ*) function as sentence-level operators asserting that the accompanying proposition corresponds to the actual or ultimate state of affairs. P4b explicitly notes that no periphrastic equivalent ("it is true that…") is reported as a common alternate. These forms are therefore the sole [CORE] device for this propositional-operator function. They are structurally adverbial (derived by the *-taḥ* suffix from nominal bases) but function semantically over the entire proposition.
+
+### 2.8 The concessive construction (§12) is lexically restricted to *satyam*
+
+The concessive use of *satyam* (*satyaṃ tu*, *satyaṃ tathāpi*) is the only truth-domain construction with an explicit lexical restriction: no other truth-domain term participates in this pattern with comparable frequency. *Satyam* in this construction does not predicate truth of a proposition but functions as a discourse particle. This represents a pragmatic specialization of a single lexical item rather than a productive construction type.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No construction encodes the event of a truth being uncovered, revealed, or found to be the case. The discourse-marking adverbials (§10) assert ultimate-level truth but do not encode the event of revelation. |
+| **CAUSATION (character)** | No construction encodes the sense that a person's character, authority, or status causes a proposition to be true or to be accepted as true. The agentive nominalizations (§7) identify truth-telling agents but do not encode a causative relationship between agent character and propositional truth. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **VERIFICATION (classical philosophical register)** | No single [CORE] lexical item or construction in classical philosophical prose encodes the act of verifying a proposition. *Satyāpana* and *satyāpayati* fill this role in legal/administrative Sanskrit but are absent from the philosophical register as [CORE] items. *Pramāṇa* encodes the instrument of valid cognition but not the act of verification as a verbal or causative event. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps are identifiable from P4a/P4b data alone. The absence of REVELATION and CAUSATION (character) constructions reflects structural and lexical absences in the attested data; the data do not provide evidence for or against whether these concepts are expressible through extended circumlocution.
+
+### 3.4 Asymmetric Gaps
+
+| Asymmetry | Description |
+|---|---|
+| **VERIFICATION vs. DISCONFIRMATION** | DISCONFIRMATION is fully available through multiple [CORE] constructions (§2). VERIFICATION is only partially available through [MARGINAL], register-restricted constructions (§5). The positive act of confirming/verifying is structurally underrepresented relative to the negative act of denying/disconfirming. |
+| **CAUSATION (factual): fault-introduction vs. truth-establishment** | The [CORE] causative construction (*doṣam āpādayati*) is attested specifically for introducing a fault or defect, not for establishing a truth. Causation in the direction of truth-establishment is [MARGINAL] or absent at the [CORE] level. |
+| **Agentive nominalization: speech domain vs. epistemic domain** | The *-vādin* and *-bhāṣin* agentive patterns are [CORE] and productive across positive and negative forms in the speech domain. The epistemic-agent role (*pramātṛ*) is [CORE] but restricted to a fixed technical term within a single triad; it is not freely productive across the truth-domain vocabulary. The *-jña* pattern is [MARGINAL]. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Basis |
+|---|---|---|
+| **ATTR** | **Fully available** | Multiple [CORE] constructions (zero-copula nominal sentence, copula-present variant) across all registers and text types |
+| **ADNOM** | **Fully available** | Four [CORE] sub-strategies (free adjective, genitive phrase, indeclinable modifier, compound); compound strategy dominant in technical prose |
+| **BECOME** | **Fully available** | Multiple [CORE] constructions covering arising (*jāyate*, *utpadyate*), cessation (*nivartate*), and lexicalized result (*pramāṇa-bhūta*); symmetric across valid and erroneous cognition |
+| **NEGATION** | **Fully available** | Both analytic (*na* + predicate nominal) and morphological (*a-*/*an-* prefix) strategies are [CORE], productive, and described as functionally parallel |
+| **NOMINALIZATION** | **Fully available** | Abstract nominalization (*-tā*, *-tva*, *-ya*) and agentive nominalization (*-vādin*, *-bhāṣin*, *-tṛ*) all [CORE]; *-jña* [MARGINAL] but does not affect overall availability |
+| **DISCONFIRMATION** | **Fully available** | Multiple [CORE] constructions (§2: *na* + predicate nominal, *nāsti*, prefixal negation, class-denial formula) across philosophical, epistemological, and legal registers |
+| **CAUSATION (factual)** | **Partially available** | *Āpādaya-* periphrastic causative is [CORE] but attested in a narrow context (fault-introduction); morphological causative formations are [MARGINAL] and register-restricted; no [CORE] construction covers the full factual-causation range |
+| **VERIFICATION** | **Partially available** | Expressible through [MARGINAL] constructions (*satyāpana*, *satyāpayati*, *pramāṇīkaraṇa*) restricted to legal/administrative or modern Sanskrit-influenced usage; absent as a [CORE] construction in classical philosophical prose |
+| **REVELATION** | **Missing entirely** | No construction in P4a/P4b encodes the event of a truth being uncovered or revealed; discourse-marking adverbials (§10) assert ultimate-level truth but do not encode the revelation event |
+| **CAUSATION (character)** | **Missing entirely** | No construction encodes the sense that a person's character or authority causes a proposition to be true or to be accepted as true |

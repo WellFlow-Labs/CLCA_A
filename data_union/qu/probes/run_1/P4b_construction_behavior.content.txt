@@ -1,0 +1,41 @@
+# CLCA Protocol v3.4 — P4b Construction Usage & Constraints
+# Language: Quechua (Southern: Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## Construction Usage Table
+
+| Construction Type | Example | Transliteration | Translation | Naturalness Rating | Usage Notes | Attested Alternates |
+|---|---|---|---|---|---|---|
+| **1. Attribution** | cheqa qelqa | *cheqa qelqa* | 'authentic document / genuine text' | [CORE] | Standard prenominal adjective-noun order; no linking morphology required. Appears across registers including legal, religious, and everyday speech. | *cheqaq* (agentive form) in some attributive positions (see §7) |
+| **1. Attribution** | llulla simi | *llulla simi* | 'false word / lying speech' | [CORE] | Equally standard; no restrictions noted beyond those applying to the lexical item *llulla* itself. | None attested |
+| **2. Negative Attribution (prenominal)** | mana cheqa qelqa | *mana cheqa qelqa* | 'inauthentic document / not a genuine text' | [CORE] | *Mana* precedes the adjective-noun sequence; *-chu* does not appear in prenominal attributive position. Restricted to attributive (non-predicative) contexts. | Predicative negative: *mana allinchu* |
+| **2. Negative Attribution (predicative)** | mana allinchu | *mana allinchu* | 'it is not good / it is wrong / it is bad' | [CORE] | *-chu* is obligatory on the predicate in negative declarative clauses; its absence would be ungrammatical. Applies across predicative contexts. | Prenominal negative: *mana cheqa qelqa* |
+| **3. Adnominal Modification (participial)** | cheqanchasqa qelqa | *cheqanchasqa qelqa* | 'a verified/certified document' | [CORE] | Participial modifier (*-sqa*) follows the same prenominal order as simple adjectives. Appears in formal and legal registers. | Simple attributive: *cheqa qelqa* |
+| **3. Adnominal Modification (possessive nominalization)** | cheqa kaynin | *cheqa kaynin* | 'its true nature / what it genuinely is' | [MARGINAL] | Restricted to philosophical and religious registers; expresses essential nature rather than a simple property. Less frequent than simple attributive or participial forms. | Simple attributive: *cheqa qelqa* |
+| **4. Become / Inchoative** | cheqakay | *cheqakay* | 'to become true / to be realized / to come true' | [CORE] | Attested for *cheqa*, *allin*, and *sumaq*; productive within that set. Contrasts systematically with the transitive *-ncha-* causative. | Causative counterpart: *cheqanchay* |
+| **4. Become / Inchoative** | allinkay | *allinkay* | 'to become good / to get well / to improve / to recover' | [CORE] | Common in everyday speech including health and recovery contexts. No *-ka-* inchoative is documented for *llulla*; that gap is preserved here. | Causative counterpart: *allinchay* (implied by system) |
+| **5. Causative (-ncha-)** | cheqanchay | *cheqanchay* | 'to verify / to confirm / to make true / to correct' | [CORE] | Applies to adjectival roots (*cheqa*, *allin*, *sut'i*, *sumaq*); yields transitive verbs of making or establishing. Appears in legal, administrative, and everyday registers. | Reflexive extension: *cheqanchakuy* (§9) |
+| **5. Causative (-chi-)** | pantachiy | *pantachiy* | 'to mislead / to cause someone to err' | [CORE] | Applies to verbal roots (*panta-*, *llulla-*, *yacha-*); yields verbs of causing an action in another. *Llulla* uses *-chi-* (*llullachiy*) rather than *-ncha-*; this asymmetry is preserved as attested. | *llullachiy* 'to cause to lie' (same pattern) |
+| **6. Abstract Nominalization** | cheqa kay | *cheqa kay* | 'truth / reality / the state of being true / genuineness' | [CORE] | Productive across evaluative roots. Appears in philosophical, religious, and legal registers as well as everyday speech. | Possessive extension: *cheqa kaynin* (§3) |
+| **6. Abstract Nominalization** | allin kay | *allin kay* | 'goodness / well-being / the state of being good or right' | [CORE] | Same productive pattern; no restrictions noted beyond those of the lexical root. | None attested beyond possessive extension pattern |
+| **7. Agentive Nominalization** | llullaq | *llullaq* | 'liar / one who lies / deceiver' | [CORE] | Standard agentive nominalizer on verbal base; common across registers. *Llullakuq* (habitual) is an attested variant with added habitual nuance. | *llullakuq* (habitual variant) |
+| **7. Agentive Nominalization** | cheqanchaq | *cheqanchaq* | 'one who verifies / a verifier / one who confirms' | [CORE] | Applied to the *-ncha-* verbal base; appears in formal and legal registers. *Cheqaq* (from adjectival root directly) is the standard attributive form meaning 'truthful'. | *cheqaq* 'truthful / genuine' (direct adjectival root + *-q*) |
+| **8. Evidential: Direct (-m/-mi)** | cheqam | *cheqam* | 'it is true (I know directly)' | [CORE] | Grammatically obligatory system; marks first-hand knowledge. Applies to all truth-evaluation predicates in this inventory. | *-s/-si* (reportative); *-chá* (conjectural) |
+| **8. Evidential: Reportative (-s/-si)** | cheqas | *cheqas* | 'it is true (reportedly)' | [CORE] | Marks information received from another source; obligatory in the evidential system. No optionality noted; the choice among the three enclitics is grammatically conditioned by source of knowledge. | *-m/-mi* (direct); *-chá* (conjectural) |
+| **8. Evidential: Conjectural (-chá)** | cheqachá | *cheqachá* | 'it is probably true' | [CORE] | Marks inference or conjecture; attested on *llulla* as well (*llullachá*). Applies across all truth-evaluation predicates documented. | *-m/-mi* (direct); *-s/-si* (reportative) |
+| **8. Evidential: Conjectural on negative root** | llullachá | *llullachá* | 'it is probably a lie / I suspect it is false' | [CORE] | Same conjectural enclitic applied to *llulla*; no structural difference from the *cheqachá* pattern. | *cheqachá* (same pattern, different root) |
+| **9. Reflexive / Self-directed Verification** | cheqanchakuy | *cheqanchakuy* | 'to verify for oneself / to assure oneself of the truth' | [CORE] | Attested for *cheqa*, *allin*, and *sut'i*; productive within that set. Shifts action from externally directed to self-directed or internally motivated. | Externally directed base: *cheqanchay* (§5) |
+| **9. Reflexive / Self-directed Verification** | allinchakuy | *allinchakuy* | 'to correct oneself / to improve oneself / to set oneself right' | [CORE] | Same productive sub-pattern; no additional restrictions noted beyond those of the base *-ncha-* construction. | Externally directed base: *allinchay* |
+| **10. Propositional Knowledge (positive)** | cheqa kasqanta yachani | *cheqa kasqanta yachani* | 'I know that it is true / I know it to be genuine' | [CORE] | Standard pattern for propositional knowledge ('knowing that') in Southern Quechua; nominalized predicate takes accusative *-ta* as object of *yachay*. | *riqsiy* ('to recognize') as alternate matrix verb |
+| **10. Propositional Knowledge (negative)** | pantasqa kasqanta mana yachanichu | *pantasqa kasqanta mana yachanichu* | 'I did not know that it was wrong / I was unaware of the error' | [CORE] | Negation of the knowledge verb (*mana … -chu*) expresses ignorance; attested as relevant in legal contexts for disclaiming responsibility. Follows the same nominalization pattern as the positive form. | Positive counterpart: *cheqa kasqanta yachani* |
+
+---
+
+## Summary Notes
+
+**No constructions in this inventory received an [UNCERTAIN] rating.** All ten construction types are represented by examples with consistent structural descriptions and cross-referenced internal contrasts (e.g., *-ncha-* vs. *-chi-* causatives; *-ka-* inchoative vs. *-ncha-* causative; prenominal vs. predicative negation). The single [MARGINAL] rating assigned to the possessive nominalization *cheqa kaynin* reflects the explicit register restriction stated in P4a (philosophical and religious registers only), not structural doubt.
+
+**The gap in the inchoative paradigm** (*llulla* lacking a *-ka-* form) is preserved as reported and not filled by inference.
+
+**Alternate constructions listed** are drawn exclusively from forms already attested within the P4a inventory; no new forms have been introduced.

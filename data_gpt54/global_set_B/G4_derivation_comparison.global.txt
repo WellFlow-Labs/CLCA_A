@@ -1,0 +1,124 @@
+## Cross-language comparison of derivational and morphological strategies
+
+| Strategy Type | Description | Languages Using It | Concrete Examples | Distribution / Notes |
+|---|---|---|---|---|
+| Abstract property nominalization from adjectives or evaluative bases | Formation of nouns meaning “truth,” “correctness,” “accuracy,” “authenticity,” “reliability,” etc. from adjectival or evaluative stems | zh, he, sa, el, en, sw, tl | zh 真实性, 正确性, 准确性, 可靠性, 可信度; he מהימנות, אמינות, דיוק, אמיתות; sa सत्यता, यथार्थता, सम्यक्त्व, प्रामाण्य; el ορθότητα, αυθεντικότητα, γνησιότητα, εγκυρότητα, πιστότητα; en truthfulness, correctness, accuracy, authenticity, validity, reliability, credibility; sw ukweli, usahihi, uhalisia, uaminifu; tl katotohanan, saligan | **Widely attested.** Very strong cross-language pattern, though morphology differs greatly: suffixes in en/el/he/sa, character compounds in zh, noun-class/nominal prefixes in sw, circumfix-like nominal formation in tl. |
+| Negative derivation by prefixal negation | Building opposites such as untrue, invalid, inauthentic, inaccurate by adding a negative prefix | zh, he, sa, en | zh 不实, 不可信, 不可靠, 不正确, 不准确, 不真实; he לא נכון, לא מדויק, לא אמין, לא מהימן, בלתי מדויק, בלתי מוצדק; sa असत्य, अयथार्थ, अप्रामाण्य, अप्रमाणिक, अनृत; en untrue, incorrect, inaccurate, invalid, unreliable, untrustworthy, inauthentic, illegitimate, unlawful, unjust, unfair | **Widely attested.** But not uniform: zh and he rely heavily on free/analytic negators too; sa and en show many lexicalized prefixed opposites. |
+| Analytic negation of evaluative predicates | Opposition expressed by a separate negator rather than a new lexical item | zh, he, el, tl, sw, qu | zh 不可信, 不可靠, 不正确; he זה לא נכון, לא מדויק, לא אמין; el δεν είναι σωστό, δεν είναι αληθές; tl Hindi tama, Hindi pa tiyak; sw si kweli, si sahihi; qu mana allin, mana chiqaq | **Widely attested.** Especially important where no dedicated antonym is documented. Often the default negative strategy. |
+| Agentive person derivation for liar / truthful person / trustworthy person | Formation of person nouns from truth/falsity or trust stems | zh, sa, en, sw, qu | zh 伪造者; sa सत्यवादिन्, असत्यवादिन्; en liar, forger, truth-teller; sw mkweli, mwongo, mwaminifu; qu llullaq | **Moderately attested.** Stronger on the negative side (“liar,” “forger”) than on the positive side in several languages. |
+| Person-denoting noun phrase instead of compact agent noun | Use of descriptive compounds/phrases rather than a single lexical agent noun | zh, he, qu | zh 说真话的人; he איש אמת, לומר את האמת as preferred over a productive agentive; qu llulla runa | **Moderately attested.** Often used where a compact positive “truth-teller” noun is weak or absent. |
+| Adverb formation from truth/correctness/authenticity adjectives | Deriving “truly,” “accurately,” “correctly,” “faithfully,” etc. | zh, he, sa, el, en | zh 准确地, 如实地, 逼真地, 正当地; he באמת, בדיוק, בצדק; sa यथार्थतः, तत्त्वतः, प्रमाणतः, अप्रमादेन; el αληθινά, ακριβώς, ουσιωδώς, ειλικρινά; en truly, accurately, correctly, faithfully, precisely, properly, legitimately | **Widely attested.** Formal means vary: suffixes, particles, case-marked forms, or lexicalized adverbials. |
+| Degree/measure nominalization | Deriving nouns for “degree of credibility/realism/distortion” | zh, he, el, en | zh 可信度, 仿真度, 失真度; he מידת הדיוק, אמינות גבוהה/נמוכה, מהימנות המקור; el βαθμός ακρίβειας; en degree of accuracy, level of accuracy | **Moderately attested.** Strongest in zh; elsewhere often phrase-level rather than tightly morphological. |
+| Compound formation with “true/false” as first element | Building lexical compounds where the truth-value element modifies a noun | zh, sa, el, tl, sw, en | zh 真话, 假话, 真品, 假货, 真相, 真伪; sa सत्यवचन, असत्यवचन, सत्यभाषण; el αληθής δήλωση, ψευδής δήλωση, αληθοφανής; tl totoong balita, tunay na ginto, pekeng dokumento; sw habari za uongo, llike ya kweli/ya uongo constructions; en true story, false claim, fake news, counterfeit money | **Widely attested.** Sometimes true compounding, sometimes adjective+noun collocation; still a recurring lexical-structural strategy. |
+| Compound formation with speech nouns | Truth/falsity encoded through compounds with “speech/word/statement” nouns | zh, sa, qu, el, he | zh 真话, 假话, 虚假陈述; sa सत्यवचन, असत्यवचन, सत्यभाषण; qu chiqaq simi, llulla simi; el αληθής δήλωση, ψευδής δήλωση; he דבר אמת | **Moderately attested.** Especially visible in languages with strong moralized speech vocabulary. |
+| Compound formation with person nouns | Truth/falsity encoded through compounds with “person” nouns | sa, sw, qu, zh, he | sa सत्यवादिन्, असत्यवादिन्; sw mkweli, mwongo, mwaminifu; qu llulla runa; zh 伪造者; he איש אמת | **Moderately attested.** Often lexicalized and morally loaded. |
+| Compound formation with document / evidence / source nouns | Specialized lexical combinations for authenticity, falsity, or validity of documents and evidence | zh, he, el, en, tl, sw | zh 假证, 伪造证件, 虚假信息; he מסמך מזויף, זיוף חתימה, מקור מהימן; el πλαστή υπογραφή, αυθεντικό έγγραφο, παραποιημένο έγγραφο; en forged document, counterfeit document, reliable source; tl pekeng dokumento, mapagkakatiwalaang impormasyon, beripikadong account; sw chanzo kinachoaminika, ushahidi unaoaminika, cheti bandia | **Widely attested.** Often phrase-level but highly entrenched. |
+| Abstract noun + genitive/complement construction | Evaluative noun takes a complement naming what is true/accurate/valid/reliable | zh, he, sa, el, en, sw | zh 报告的真实性, 证词的可信度; he מהימנות המקור, מהימנות הנתונים; sa वाक्यस्य सत्यता, ज्ञानस्य प्रामाण्यम्; el η αυθεντικότητα του έργου, ορθότητα των στοιχείων; en the accuracy of the report, the authenticity of the signature; sw usahihi wa taarifa, usahihi wa data | **Widely attested.** A major cross-language way to package abstract evaluation. |
+| Privative or antonymic derivation inside technical families | Systematic opposition within a derivational family, especially in scholastic or formal vocabulary | sa, en, zh, he | sa प्रमाण / अप्रमाण, प्रामाण्य / अप्रामाण्य, यथार्थ / अयथार्थ; en valid / invalid, legitimacy / illegitimacy; zh 属实 / 失实, 真实 / 虚假; he מדויק / בלתי מדויק | **Moderately attested.** Especially strong in Sanskrit and English. |
+| Participial/result-state derivation | Using participial or resultative forms for “mistaken,” “forged,” “falsified,” “believed,” etc. | sa, he, el, qu | sa pantasqa-like participles? actually Sanskrit: प्रमाणीकृत, युक्त, मिथ्या ज्ञानम् less direct; he מזויף, מוצדק; el παραποιημένος; qu pantasqa, llullasqa, iñisqa, pantachisqa | **Moderately attested.** Particularly salient in he/el/qu. Often restricted to certain lexical families. |
+| Causative derivation for causing error / justification / validation | Morphological or lexical derivation meaning “cause to err,” “justify,” “authenticate,” “validate” | sa, he, en, qu, zh, tl | sa प्रमाणीकरणम्, प्रमाणीकृत; he להצדיק; en authenticate, validate, invalidate, justify; qu pantachiy; zh 纠正, 伪造 as lexical causatives; tl wastuhin, beripikahin | **Moderately attested.** But usually **subdomain-specific**, not a general “make true” strategy. |
+| Inchoative / realization derivation in a truth family | Dedicated derivation meaning “come true / turn out true” | tl, en, zh, sa | tl magkatotoo, nagkatotoo; en come true, prove true; zh dynamic patterns with 变得 + 真实/可信/准确, but not with 属实; sa सत्यतां गच्छति (marginal), प्रमा जायते | **Moderately attested**, but uneven. Strong in tl and en; restricted or marginal elsewhere. |
+| Relative-clause or participial modifier for credibility | Credibility expressed through verbal/relative morphology rather than a simple adjective | sw, tl, he | sw chanzo kinachoaminika, ushahidi unaoaminika; tl mapagkakatiwalaang impormasyon, maaasahang datos; he נראה מהימן / נראה אמין | **Moderately attested.** Especially characteristic in sw and tl. |
+| Noun-class / agreement-based adjectival stems | Truth/falsity/correctness expressed through agreeing stems rather than invariant adjectives | sw, he (agreement), zh less so, qu not comparable | sw -kweli, -ongo, -sahihi with wa/ya/cha etc.; he agreement in עדות מהימנה, נתונים מהימנים | **Moderately attested.** Strongly structural in sw; ordinary agreement in he. |
+| Linker/attributive morphology before nouns | Attributive forms marked by linker or bound morphology | tl, zh (bare compounds), sw (genitive/agreement) | tl totoong, wastong, pekeng, tunay na; zh 真话, 假货, 虚假信息; sw habari za uongo, bidhaa ya asili | **Moderately attested.** Surface mechanisms differ, but recurrent as a noun-modifying strategy. |
+| Fixed discourse-marker derivation from truth terms | Truth words develop into discourse markers meaning “honestly / actually / in fact” | zh, he, el, en, tl, sw, sa | zh 说真的, 如实; he למען האמת, האמת היא ש־, באמת; el η αλήθεια είναι ότι, στην πραγματικότητα; en truth be told, in truth; tl sa totoo lang, sa katotohanan; sw kwa kweli, kweli ni kwamba; sa यथार्थतः, तत्त्वतः in more formal discourse | **Widely attested.** Often lexicalized/fossilized rather than productive. |
+| Idiomatic fixed compounds or set phrases | Lexicalized expressions whose internal morphology is still analyzable but no longer broadly productive | zh, he, el, en, tl, sw, sa | zh 名副其实, 货真价实, 原汁原味; he רגע של אמת, מבחן האמת; el κατ’ ουσίαν, κατά γράμμα; en the real thing, ring true, moment of truth; tl sa totoo lang, walang saligan; sw kwa kweli, ukweli mtupu; sa सत्यं वद, प्रमाणेन सिद्धम् | **Widely attested.** Often central in actual usage despite low productivity. |
+| Specialized scholastic/technical derivational families | Dense lexical families built around epistemic validity, proof, or essence | sa, zh, he, el, en | sa प्रमाण, प्रमा, प्रमाता, प्रमेय, प्रामाण्य, अप्रामाण्य, प्रमाणिक; zh 本质, 实质, 正当性, 真实性; he מהימן/מהימנות, אמין/אמינות, צדק/הצדקה/מוצדק; el ουσία/ουσιώδης/ουσιαστικός, έγκυρος/εγκυρότητα; en valid/validity/invalidate, just/justify/justification | **Moderately attested**, but especially elaborate in **sa**. |
+| Lexicalized family drift / semantic divergence | A formally related derivative survives but with shifted meaning outside the core truth domain | he, sw, en, zh | he נכונות often ‘readiness’; sw uongozi ‘leadership’ not ‘falsehood’; en realize/realization partly detached from “real”; zh 道地 narrow domain-specific authenticity | **Moderately attested.** Important asymmetry: not every formal relative remains semantically central to truth. |
+| One-way derivation from base adjective to abstract noun, but not back to productive family | A base yields an abstract noun, but the abstract noun does not itself support further common derivation | zh, he, sa, el, tl | zh many “no common derivation identified” from 真实性 etc.; he no further common derivation from מהימנות, אמינות; sa no further common derivation from सत्यता, यथार्थता; el many abstract nouns stop there; tl katotohanan and saligan mostly terminal in the supplied data | **Widely attested.** A common asymmetry in the dataset. |
+
+---
+
+## Short narrative analysis
+
+### Recurring patterns across unrelated language families
+Several strategies recur across very different language families.
+
+First, **abstract nominalization** is one of the strongest recurring patterns. Languages repeatedly build nouns for “truth,” “accuracy,” “validity,” “authenticity,” or “trustworthiness” from adjectival or evaluative bases: compare **zh 真实性 / 准确性**, **he אמינות / מהימנות**, **sa सत्यता / प्रामाण्य**, **el αυθεντικότητα / εγκυρότητα**, **en authenticity / validity / reliability**, **sw ukweli / usahihi / uaminifu**, and **tl katotohanan**.
+
+Second, **negative derivation or negated predication** is widespread. Some languages use bound negatives productively (**sa असत्य, अयथार्थ; en untrue, invalid; zh 不实**), while others rely heavily on analytic negation (**he לא נכון, el δεν είναι σωστό, tl Hindi tama, sw si kweli, qu mana allin**).
+
+Third, many languages use **compounding or tight noun-modifier constructions** to build truth-domain vocabulary around speech, persons, documents, and goods. This appears in **zh 真话, 假货**, **sa सत्यवचन, असत्यवादिन्**, **qu llulla simi, llulla runa**, **el πλαστή υπογραφή**, **en fake news, true story, forged document**, **tl pekeng dokumento**, and **sw habari za uongo, dawa bandia**.
+
+Fourth, many languages develop **discourse markers from truth words**: “to tell the truth,” “in truth,” “actually,” “really.” This is strongly attested in **zh, he, el, en, tl, sw**, and also in more formal ways in **sa**.
+
+### Striking asymmetries
+A major asymmetry is that **negative person terms are often more lexicalized than positive ones**. The dataset repeatedly gives compact forms for “liar” or “forger”:
+- **he** has no equally common everyday single-word counterpart to a positive truth-teller.
+- **en** has **liar** as fully ordinary, while **truth-teller** is marked.
+- **sw** has **mwongo** and **mkweli**, but the lying side is especially salient in accusation.
+- **qu** has **llullaq / llulla runa**, while positive truth-person forms are less central.
+
+Another asymmetry is that **truth-confirmation and authenticity-checking often have dedicated verbs or constructions, but “make true” is usually absent**. Languages more readily lexicalize:
+- “verify/authenticate/validate” than “make true”
+- “mislead/cause error” than “cause truth”
+
+This is especially clear in **en authenticate / validate**, **he להצדיק**, **tl beripikahin**, **qu pantachiy**, and **sa प्रमाणीकृत / प्रमाणीकरणम्**.
+
+### One-way or blocked derivational pathways
+Several one-way patterns recur:
+
+- **Adjective/base → abstract noun** is common, but the reverse is often not productive in the supplied data.
+  - **zh**: 真实性, 准确性, 正当性 are common, but many of these nouns have no further common derivation listed.
+  - **he**: מהימנות, אמינות, אמיתות are established, but often stop there.
+  - **sa**: सत्य → सत्यता, यथार्थ → यथार्थता, but the abstract nouns themselves often show no further common derivation.
+  - **el**: αυθεντικός → αυθεντικότητα, γνήσιος → γνησιότητα, but many abstract nouns are endpoints.
+  - **tl**: katotohanan and saligan are central nouns, but not shown as bases for further productive families.
+
+- **Truth base → “come true”** is not broadly available cross-linguistically.
+  - Strongly supported in **tl** (**magkatotoo, nagkatotoo**)
+  - Strongly supported in **en** (**come true, prove true**)
+  - Only restricted or marginal elsewhere
+  - Explicitly absent or not identified in **he, sw, qu**, and weak in **sa**
+
+- **Authenticity base → “become authentic/genuine”** is often blocked.
+  - The data repeatedly notes no common dedicated inchoative for this in **he, el, en, tl, sw**
+  - Instead languages prefer **verification/result** expressions.
+
+### Productive vs restricted vs lexicalized patterns
+
+#### Productive
+- **Abstract nominalization** is productive or at least broadly recurrent in **zh, he, sa, el, en, sw**
+- **Negative derivation/negated predication** is productive in most languages
+- **Attributive noun modification** for true/false/fake/correct is broadly productive in **zh, el, en, tl, sw**
+- **Speech-object constructions** like “tell the truth / tell a lie” are highly productive in **he, sa, el, en, sw**
+
+#### Restricted
+- **Inchoative truth derivation** is restricted:
+  - strong in **tl** and **en**
+  - marginal in **sa**
+  - absent/unclear in **he, sw, qu**
+- **Causative truth derivation** is restricted:
+  - usually limited to subdomains like validation, authentication, justification, or misleading
+- **Participial/result-state derivation** is strong only in certain families, especially **he, el, qu**
+
+#### Lexicalized / fossilized
+- Many discourse markers and idioms are lexicalized:
+  - **zh 名副其实, 货真价实**
+  - **he רגע של אמת, למען האמת**
+  - **el κατ’ ουσίαν, κατά γράμμα**
+  - **en ring true, the real thing, truth be told**
+  - **tl sa totoo lang, walang saligan**
+  - **sw kwa kweli, ukweli mtupu**
+  - **sa सत्यं वद, प्रमाणेन सिद्धम्**
+- Some formally related items have drifted semantically:
+  - **he נכונות**
+  - **sw uongozi**
+  - **en realize**
+  - these are best treated as related but not central truth-domain derivations
+
+#### Unclear or weakly attested
+- **qu** has several weakly supported or uncertain forms for adverbial truth and exactness (**chiqaqta, qampa**)
+- **sa** has marginal inchoatives like **सत्यतां गच्छति**
+- **el** has uncertain adverbial derivation from **έγκριτος**
+- **tl** and **sw** show many stative evaluative forms but fewer clearly documented derivational expansions outside a few families
+
+## Overall
+The strongest recurring cross-language strategies are:
+1. **abstract nominalization**
+2. **negative derivation or analytic negation**
+3. **compound / modifier constructions with truth, falsity, authenticity, and correctness terms**
+4. **agentive derivation, especially on the falsehood side**
+5. **lexicalized discourse markers from truth words**
+
+By contrast, broad **inchoative** and **causative** derivation for truth states is much less general. Where dynamic morphology exists, it is usually **subdomain-specific**: “come true,” “mislead,” “authenticate,” “validate,” “justify,” rather than a single productive truth-domain pattern.

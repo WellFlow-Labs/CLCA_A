@@ -1,0 +1,94 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+**Language: English (en)**
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Copula + predicate adjective (P4a §1); Adnominal prenominal (P4a §3); Predicate complement with epistemic verb (P4a §8) | *The statement is true.*; *a false claim*; *The court found the testimony credible.* | No substitution required; three distinct surface forms all serve attributive function | None |
+| **ADNOM** | Prenominal adjective + noun; postnominal relative clause (P4a §3) | *a true statement*; *a claim that is accurate* | No substitution required; both orders attested without morphological change | None |
+| **BECOME** | Periphrastic inchoative: *become* / *turn out to be* + adjective; *prove* + adjective; fixed idiom *come true* (P4a §4) | *The rumor proved false.*; *Her prediction came true.* | REVELATION (see §2 below) partially substitutes via *prove*; *come true* is lexically restricted | No structural gap; lexical restriction on *come true*; see Asymmetric Gap note |
+| **REVELATION** | *Prove* + adjective; *turn out to be* + adjective (P4a §4); *that*-clause complement of epistemic verb (P4a §8) | *The rumor proved false.*; *Investigators established that the document was fraudulent.* | **SUBSTITUTED BY** BECOME/*prove* construction in many contexts; no dedicated REVELATION morpheme or verb | No structural gap; REVELATION and BECOME share the *prove* construction |
+| **CAUSATION (factual)** | Periphrastic: *render* / *make* + object + adjective; lexical causatives *verify*, *validate*, *authenticate*, *falsify* (P4a §5) | *New evidence rendered the earlier findings invalid.*; *The laboratory verified the results.* | No substitution required; both periphrastic and lexical strategies attested | None |
+| **CAUSATION (character)** | Periphrastic: *make* / *render* + object + adjective applied to persons or sources; agentive nominalizations (*truth-teller*, *falsifier*) marginally (P4a §7) | *Her conduct rendered her account unreliable.* [pattern attested; this specific example constructed from attested frame]; *a truth-teller* | No dedicated construction distinct from factual causation; same frame applies; agentive nominals are marginal | **Lexical gap**: no productive agentive nominal series; character-directed causation uses the same periphrastic frame as factual causation |
+| **VERIFICATION** | Lexical causatives *verify*, *authenticate*, *validate* (P4a §5); predicate complement with epistemic verb *establish*, *find*, *confirm* (P4a §8) | *The laboratory verified the results.*; *Investigators established that the document was fraudulent.* | No substitution required within formal registers; periphrastic alternatives available in conversational registers | None |
+| **DISCONFIRMATION** | Lexical causative *falsify*; periphrastic *render* + negative adjective; *prove* + negative adjective; *that*-clause with negative predicate (P4a §4, §5, §8) | *New evidence rendered the earlier findings invalid.*; *The rumor proved false.* | **SUBSTITUTED BY** BECOME/*prove* + negative adjective and CAUSATION (factual) periphrastic; no dedicated DISCONFIRMATION verb parallel to *verify* | **Asymmetric lexical gap**: *falsify* covers deliberate distortion more than neutral disconfirmation; no single verb directly parallels *verify* in the disconfirmatory direction for neutral evidential contexts |
+| **NEGATION** | Analytic: copula + *not* + adjective; synthetic: prefixed adjective (*in-*, *un-*, *il-*, *dis-*) (P4a §2) | *The claim is not accurate.*; *The claim is inaccurate.* | Both strategies available; analytic is universal across P1 inventory; synthetic is lexically restricted | **Asymmetric lexical gap**: prefixed forms unavailable for some items (*\*unfalse*, *\*unfraudulent*); analytic negation fills the gap for all items |
+| **NOMINALIZATION** | Abstract property nominalization (*-ity*, *-ness*, *-hood*, *-cy*, *-th*); process/event nominalization (*-tion*); agentive nominalization (*-er*/*-or*, compound) (P4a §6, §7) | *truth*, *accuracy*, *validity*; *falsification*, *verification*; *truth-teller*, *falsifier* | No substitution required for property and process types; agentive type is marginal and non-productive across full P1 inventory | **Lexical gap**: agentive nominalization is sparse; no productive agentive series across P1 items |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME share the *prove* construction
+
+The P4a and P4b data do not provide separate constructions for BECOME (a state coming into being) and REVELATION (a state being discovered or disclosed). Both meanings are expressed by the same surface form: *prove* + predicate adjective (*The rumor proved false*). The verb *prove* carries both the inchoative implication (the state came to obtain) and the evidential implication (this was established through testing or demonstration). No dedicated REVELATION verb or morpheme is attested in the data that is distinct from the inchoative *prove*/*turn out to be* construction. The two operators are therefore not formally distinguished in English as documented here; *prove* serves both functions simultaneously. *Turn out to be* similarly conflates the two. The only construction that is purely inchoative without an evidential component is *become* + adjective, but this form is not illustrated with truth-domain examples in P4a and is listed only as a background option.
+
+### 2.2 VERIFICATION and DISCONFIRMATION are asymmetric
+
+The data show a directional asymmetry between VERIFICATION and DISCONFIRMATION. VERIFICATION has dedicated lexical causatives: *verify*, *authenticate*, *validate*. These are described as common in formal, technical, scientific, and legal registers. DISCONFIRMATION has no parallel dedicated verb for neutral evidential contexts. *Falsify* is the closest candidate, but P4b notes that in non-logical contexts it implies deliberate distortion rather than neutral evidential disconfirmation. The disconfirmatory direction is therefore expressed by the BECOME/*prove* construction (*proved false*, *proved incorrect*) or by the CAUSATION periphrastic (*rendered invalid*, *made false*), both of which are shared with other operators. This is an asymmetric lexical gap: the positive (confirmatory) direction has dedicated vocabulary; the negative (disconfirmatory) direction does not, and relies on constructions that also serve other functions.
+
+### 2.3 NEGATION is both analytic and morphological, with asymmetric coverage
+
+English employs two negation strategies documented in P4a §2. Analytic negation (*not* + adjective) is universal: it applies to every item in the P1 inventory without exception and is the default in spoken and informal registers. Synthetic (morphological) negation via derivational prefix is available for most but not all P1 items. The gap is lexically specific: *\*unfalse* and *\*unfraudulent* are unattested. For items where a prefixed form exists, the two strategies are described as largely interchangeable in propositional content, with register and emphasis differences. The analytic strategy therefore functions as a universal fallback that fills all gaps left by the morphological strategy. There is no case in the data where negation of a P1 adjective is unavailable; the gap is in the morphological strategy only, not in the negation operator as a whole.
+
+### 2.4 CAUSATION (character) is not formally distinguished from CAUSATION (factual)
+
+The P4a and P4b data describe a single causative construction frame — periphrastic *make*/*render* + object + adjective, and lexical causatives — without distinguishing between causation applied to propositions or evidence (factual) and causation applied to persons or sources (character). The same frame (*render* + NP + adjective) can in principle apply to either target. The agentive nominalizations (*truth-teller*, *falsifier*) documented in P4a §7 are the closest constructions that encode character-directed evaluation, but they are rated [MARGINAL] and are not productive across the P1 inventory. No dedicated construction for character-directed causation is identified in the data.
+
+### 2.5 DISCOVERY does not substitute for CAUSATION in the data
+
+The data do not document a DISCOVERY operator as a distinct construction type. The predicate complement with epistemic verb (P4a §8) — *The court found the testimony credible*; *Investigators established that the document was fraudulent* — comes closest to encoding discovery or determination, but this construction is classified in P4a as a distinct pattern encoding both the truth-domain evaluation and the epistemic agent. It does not substitute for CAUSATION; it is a separate construction type that encodes the agent of evaluation rather than the cause of a state change.
+
+### 2.6 Compounding is restricted to *truth* and *false*
+
+The compound noun construction (P4a §10) is noted as specific to *truth* and *false* within the P1 inventory. Other P1 adjectives (*accurate*, *valid*, *sincere*, *credible*, etc.) do not participate productively in this pattern. This is a lexically restricted asymmetry within the NOMINALIZATION and ADNOM domains: the compounding resource is available for two items only.
+
+### 2.7 Discourse-marker constructions are pragmatically distinct
+
+The discourse-marker construction (P4a §9) does not map onto any of the ten CLCA operators listed above. It does not predicate truth of a proposition, does not cause or verify a state, and does not nominalize a property. It functions as a speaker-stance marker. It is included in the P4a inventory but falls outside the operator mapping task; it is noted here for completeness and to confirm that it has been considered and excluded from the mapping table on principled grounds derived from the P4a notes themselves.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+**None identified.** All ten CLCA operators can be expressed in English using attested constructions documented in P4a and P4b. No operator requires a construction type that is entirely absent from the language's grammatical resources.
+
+### 3.2 Lexical Gaps
+
+1. **Agentive nominalization across the P1 inventory.** No productive agentive nominal series exists for truth-domain adjectives. *Truth-teller* is a compound restricted to one culturally specific meaning. *Falsifier*, *authenticator*, *validator*, *verifier* are marginal and restricted to technical registers. The agentive for a person characterized by lack of credibility or honesty is expressed periphrastically (*an unreliable witness*, *a dishonest person*) with no dedicated nominal form derived from P1 roots.
+
+2. **Prefixed negative forms for *false* and *fraudulent*.** *\*Unfalse* and *\*unfraudulent* are unattested. Analytic negation (*not false*, *not fraudulent*) fills this gap without structural cost, so the lexical gap does not produce a functional gap.
+
+3. **Dedicated neutral disconfirmation verb.** No single verb parallel to *verify* exists for the disconfirmatory direction in neutral evidential contexts. *Falsify* is available but carries the additional implication of deliberate distortion in non-logical use. The gap is filled by the *prove* + negative adjective construction and by periphrastic causatives.
+
+### 3.3 Conceptual Gaps
+**None identified from the data.** No CLCA operator is blocked as a conceptual category in English. All ten operators correspond to meanings that English can express. The data provide no evidence that any operator is conceptually unavailable or systematically avoided.
+
+### 3.4 Asymmetric Gaps
+
+1. **VERIFICATION vs. DISCONFIRMATION (positive/negative asymmetry).** VERIFICATION has dedicated lexical causatives (*verify*, *authenticate*, *validate*) rated [CORE] in formal registers. DISCONFIRMATION lacks a parallel dedicated verb for neutral evidential contexts; *falsify* is available but semantically skewed toward deliberate distortion. The positive (truth-confirming) direction is lexically richer than the negative (truth-denying) direction.
+
+2. **Synthetic negation coverage.** Prefixed negative forms are available for most but not all P1 items. The gap is on the negative side of specific items (*false*, *fraudulent*) only; no item lacks a positive form while having a negative form.
+
+3. ***Come true* restriction.** The inchoative idiom *come true* is available only for the positive truth direction (hopes, predictions, dreams coming to be true) and does not extend to other P1 adjectives or to the negative direction. No parallel idiom *come false* is attested.
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Availability Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Three surface forms attested (copula + predicate adjective, prenominal adnominal, predicate complement with epistemic verb); no register or lexical restriction on the core copula frame |
+| **ADNOM** | **Fully available** | Both prenominal and postnominal relative clause forms attested; no morphological change required; full P1 inventory participates |
+| **BECOME** | **Fully available** | Expressed periphrastically via *become*, *prove*, *turn out to be*; no dedicated morpheme; *come true* is a marginal lexically restricted variant within the same operator |
+| **REVELATION** | **Available with substitution** | **SUBSTITUTED BY** the BECOME/*prove* construction; *prove* + adjective and *turn out to be* serve both BECOME and REVELATION functions simultaneously; no dedicated REVELATION-only form is attested |
+| **CAUSATION (factual)** | **Fully available** | Both periphrastic (*render*/*make* + object + adjective) and lexical causative (*verify*, *validate*, *authenticate*, *falsify*) strategies attested; register variation documented but no functional gap |
+| **CAUSATION (character)** | **Partially available** | Same periphrastic frame as factual causation; no formally distinct construction; agentive nominals are marginal and non-productive; character-directed causation relies on the general causative frame without dedicated resources |
+| **VERIFICATION** | **Fully available** | Dedicated lexical causatives (*verify*, *authenticate*, *validate*) attested as [CORE] in formal registers; predicate complement with epistemic verb also available |
+| **DISCONFIRMATION** | **Available with substitution** | **SUBSTITUTED BY** BECOME/*prove* + negative adjective and CAUSATION periphrastic; *falsify* available but semantically restricted to deliberate distortion in non-logical use; no neutral dedicated disconfirmation verb parallel to *verify* |
+| **NEGATION** | **Fully available** | Analytic negation (*not* + adjective) is universal across full P1 inventory; synthetic prefixed negation is available for most items with lexically specific gaps (*\*unfalse*, *\*unfraudulent*) filled by analytic strategy |
+| **NOMINALIZATION** | **Partially available** | Property nominalization and process/event nominalization are fully available and productive; agentive nominalization is marginal and non-productive across the P1 inventory, constituting a lexical gap within this operator |

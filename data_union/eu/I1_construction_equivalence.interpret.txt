@@ -1,0 +1,109 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Basque (eu)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicative: NOUN/ADJECTIVE + *da* (copula *izan*) | *Egia da*; *Gezurra da*; *Egiazkoa da agiri hori.*; *Zilegi da* | Direct. Both nominal (*egia*, *gezurra*) and adjectival (*egiazkoa*, *sinesgarria*, *zuzena*) bases participate without structural difference. | None |
+| **ADNOM** | Relational adjective: root + *-zko* / *-ko* / *-ezko* / *-tako* + head noun | *Egiazko lekukotasuna*; *Gezurrezko agiria*; *Benetako arazoa* | Direct. Indefinite attributive form is obligatory prenominally; definite form (*egiazkoa*) is restricted to predicative/standalone positions. This is a morphological alternation, not a competing construction. | None |
+| **BECOME** | (a) Suffixed *-tu* intransitive + *da* auxiliary; (b) periphrastic *bihurtu da* + truth-domain complement; (c) resultant state: ADJECTIVE + *egon* | *Zintzotu*; *Okertu*; *Egia bihurtu da.*; *Oker nago* | Direct for (b). Pattern (a) is lexically restricted: *okertu* and *zintzotu* are attested; no *-tu* inchoative from *egia* or *gezurra* is attested. Pattern (c) expresses the resultant state, not the change event. | Partial lexical gap in *-tu* inchoative: the pattern does not extend freely across the full domain. |
+| **REVELATION** | Not attested as a distinct construction in P4a/P4b. | — | No dedicated revelation construction is identified. The closest functional neighbor is the periphrastic *bihurtu da* construction (*Egia bihurtu da*, "it turned out to be true"), which can carry a revelation-like reading in context, but this is not documented as a distinct operator. | **MISSING (structural gap)** — no dedicated revelation construction is attested. The *bihurtu da* construction covers inchoative change-of-state and may overlap with revelation readings contextually, but is not documented as a revelation operator. |
+| **CAUSATION (factual)** | (a) Lexicalized *-tu* transitive verbs (*egiaztatu*, *ziurtatu*, *zuzendu*, *baliogabetu*); (b) morphological *-arazi* causative (*egiaztarazi*, *sinetsarazi*); (c) periphrastic *eragin* / *behartu* + infinitive | *Egiaztarazi zion.*; *Egia esan eragin zion.*; *Akatsak zuzendu*; *Epaia baliogabetu* | Direct. Three strategies are attested. Periphrastic *eragin* + infinitive is the most commonly attested in this domain; *-arazi* is grammatically productive but low-frequency for truth-domain verbs; *-tu* transitives are lexicalized. | None |
+| **CAUSATION (character)** | No dedicated construction for causing a change in a person's epistemic or moral character is identified as a distinct operator. The *-arazi* causative (*sinetsarazi*, "to make someone believe") covers causing a belief state. The *-tu* transitive (*zintzotu* used transitively) would yield "to make honest" but is not documented with an explicit causee in P4a. | *Gezurra sinetsarazi* | **SUBSTITUTED BY** CAUSATION (factual) via *-arazi* causative for belief-state causation. No construction specifically targeting character change (as distinct from factual causation) is documented. | **MISSING (structural gap)** as a distinct operator. Belief-state causation (*sinetsarazi*) is attested; character-change causation is not documented as a separate construction. |
+| **VERIFICATION** | (a) Lexicalized *-tu* transitive: *egiaztatu* ("to verify/confirm"); (b) process nominalization: *egiaztatzea* ("the verifying"); (c) result nominalization: *egiaztapen* ("verification as result/document"); (d) translative construction: *egiazkotzat jo* ("to consider as genuine") | *Egiaztarazi zion.*; *Egiaztatzea*; *Egiaztapen*; *Egiazkotzat jo* | Direct. Multiple constructions cover verification: the verbal (*egiaztatu*), the process nominal (*egiaztatzea*), the result nominal (*egiaztapen*), and the institutional-judgment translative (*egiazkotzat jo*). These are not interchangeable: they differ in whether the process, result, or institutional act is foregrounded. | None |
+| **DISCONFIRMATION** | No dedicated disconfirmation construction is identified as a distinct operator in P4a/P4b. Negative attribution (*ez da egia*, *ez da sinesgarria*) expresses that something is not true/credible. The privative *-gabe* (*baliogabea*, "invalid") and the *ezin* construction (*frogaezina*, "unprovable") cover property-absence and impossibility respectively. | *Ez da egia hori.*; *Baliogabea*; *Frogaezina* | **SUBSTITUTED BY** NEGATION for propositional disconfirmation. **SUBSTITUTED BY** PRIVATIVE construction for property-absence disconfirmation. No single construction specifically encodes the act of disconfirming or refuting a claim as a distinct operator. | **NO COMMON EXPRESSION — circumlocution required** for the act of disconfirmation as a distinct speech act. The semantic space is covered by NEGATION + ATTR and by privative constructions, but no dedicated disconfirmation verb or construction is documented. |
+| **NEGATION** | (a) Syntactic: preverbal *ez* + finite verb (*ez da*); (b) lexical: *ez-* prefix on adjective (*ez-fidagarria*, *ez-sinesgarria*); (c) privative suffix *-gabe* (*baliogabea*); (d) impossibility marker *ezin* (*frogaezina*); (e) *-gaitz* / *-kaitz* negative counterpart to *-garri* (*fidagaitza*, *sineskaitza*) | *Ez da egia*; *Ez da egia hori.*; *Ez-fidagarria da*; *Baliogabea*; *Frogaezina*; *Fidagaitza* | Direct. Both analytic (syntactic *ez da*) and morphological strategies are attested. The syntactic strategy is fully productive; the morphological strategies (*ez-* prefix, *-gabe*, *ezin*, *-gaitz*) are each restricted to specific bases or semantic subtypes and are not interchangeable with each other. | None as a category. Internal distribution among sub-strategies is constrained (see §2). |
+| **NOMINALIZATION** | (a) *-tasun* abstract property nominal (*ziurtasuna*, *zintzotasuna*, *fidagarritasuna*); (b) *-pen* result nominal (*egiaztapen*, *frogapen*); (c) *-tze* process nominal (*egiaztatzea*, *frogatzea*); (d) *-keria* pejorative habitual nominal (*gezurkeria*, *itxurakeria*, *ustelkeria*); (e) *-tzaile* agentive nominal (*zuzentzaile*); (f) *-ti* habitual/characterological agentive (*gezurtia*); (g) *-gile* maker/doer agentive (*iruzurgilea*) | *Zintzotasuna*; *Fidagarritasuna*; *Egiaztapen*; *Egiaztatzea*; *Gezurkeria*; *Gezurtia*; *Iruzurgilea* | Direct. Multiple nominalization types are attested and are not interchangeable: *-tasun* (abstract property), *-pen* (result/outcome), *-tze* (ongoing process), *-keria* (pejorative habitual practice), *-tzaile* / *-gile* / *-ti* (agentive). | None as a category. Internal asymmetry: no *-ti* agentive for truth-telling is attested (see §3). |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+No dedicated REVELATION construction is attested in the data. The periphrastic *bihurtu da* construction, documented as the general inchoative strategy under BECOME, can carry a reading that overlaps with revelation in certain contexts: *Egia bihurtu da* ("it has become true / it turned out to be true") admits a reading in which a previously unknown truth comes to light. However, P4a and P4b document this construction exclusively under the BECOME/inchoative operator and do not identify a distinct revelation reading as a separate construction type. No dedicated verb or construction meaning "to be revealed as true" or "to turn out to be X" is identified as a separate operator. The BECOME construction therefore covers the semantic space that a REVELATION construction would occupy, but this coverage is incidental to the construction's primary inchoative function and is not documented as a systematic substitution.
+
+### 2.2 VERIFICATION and CAUSATION (factual)
+
+The VERIFICATION and CAUSATION (factual) operators share some of the same morphological material. The lexicalized *-tu* transitive verb *egiaztatu* ("to verify") functions as a VERIFICATION verb in most documented uses, but its morphological structure (*egiazta-* + *-tu*) is the same as other *-tu* transitives that carry causative readings (*zuzendu*, "to correct"; *baliogabetu*, "to nullify"). P4b notes that *egiaztatu* carries "an implicit causative meaning" institutionally established rather than compositionally derived. The *-arazi* causative *egiaztarazi* ("to cause to be verified") is documented as a CAUSATION (factual) form built on the same verbal stem. The two operators are therefore formally related but are not documented as substituting for each other: VERIFICATION is expressed by *egiaztatu* (intransitive-like, agent acts on proposition), while CAUSATION (factual) in the verification sub-domain is expressed by *egiaztarazi* (agent causes another to verify).
+
+### 2.3 DISCONFIRMATION and NEGATION
+
+DISCONFIRMATION as a distinct operator — the act of actively refuting or disproving a claim — is not attested as a separate construction. The data show that the semantic space of disconfirmation is covered by two substitution strategies: (a) NEGATION applied to ATTR (*ez da egia hori*, "that is not true"), which denies the truth of a proposition without encoding the act of refutation as such; and (b) the PRIVATIVE construction (*baliogabea*, "invalid"; *frogaezina*, "unprovable"), which denies that a property holds or that a verification is possible. Neither of these is a dedicated disconfirmation construction: NEGATION + ATTR is a general negation pattern, and the PRIVATIVE construction expresses property-absence or impossibility rather than the speech act of disconfirming. No verb meaning "to disprove" or "to refute" is documented in P4a/P4b.
+
+### 2.4 NEGATION: Analytic vs. Morphological Strategies
+
+NEGATION in this domain is expressed by both analytic and morphological means, and these are not interchangeable. The analytic strategy (preverbal *ez* + finite verb *da*) is fully productive and applies to any predicate in the truth domain without restriction. The morphological strategies are each restricted to specific bases or semantic subtypes:
+
+- The *ez-* prefix on adjectives (*ez-fidagarria*, *ez-sinesgarria*, *ez-zilegia*) is semi-lexicalized and applies to a near-closed set of forms; it is not freely productive.
+- The *-gabe* privative applies to nominal and verbal roots to express absence of a property (*baliogabea*); it does not express propositional negation.
+- The *ezin* construction applies to verbal roots to express impossibility (*frogaezina*); it is not interchangeable with *-gabe*.
+- The *-gaitz* / *-kaitz* suffix is the consistent negative counterpart to *-garri* adjectivals (*fidagaitza* vs. *fidagarria*); it is not used outside this pairing.
+
+The analytic *ez da* strategy is therefore the only fully productive negation construction; the morphological strategies each occupy a restricted and non-overlapping semantic niche.
+
+### 2.5 Asymmetry: Truth-telling vs. Falsehood Agents
+
+A consistent asymmetry is documented across the agentive nominalization domain. The falsehood side has a fully lexicalized, single-word agentive nominal: *gezurtia* ("the liar"), formed with the *-ti* habitual/characterological suffix. No parallel form exists for the truth-telling agent: no *egiati*, *egiazkoti*, or *egiazale* is attested. The truth-telling agent is expressed periphrastically via a relative clause (*egia esaten duena*, "the one who tells the truth") or by character adjectives (*zintzoa*, *jatorra*) that express a property rather than an agentive role. This asymmetry is documented in P4a and P4b as a lexical gap on the truth side of the domain, not as a morphosyntactic gap: the *-ti* suffix is available in principle but no form has been lexicalized for the truth-telling agent.
+
+A parallel asymmetry is noted for the *-keria* pejorative nominalization: all attested *-keria* forms in this domain (*gezurkeria*, *itxurakeria*, *ustelkeria*, *faltsukeria*, *okerkeria*) are on the falsehood/deception side. No *-keria* form on the truth side is documented, which is consistent with the inherently pejorative semantics of the suffix.
+
+### 2.6 CAUSATION (character) and CAUSATION (factual)
+
+No construction specifically targeting the causing of a change in a person's moral character (as distinct from causing a factual state or a belief state) is documented as a separate operator. The *-arazi* causative *sinetsarazi* ("to make someone believe a lie") covers causing a belief state, which is the closest attested form to character causation. The *-tu* transitive use of *zintzotu* ("to make honest") would in principle yield a character-causation reading, but no example with an explicit causee is documented in P4a/P4b. CAUSATION (character) is therefore not attested as a distinct operator and is covered, to the extent it is expressed at all, by CAUSATION (factual) via the *-arazi* causative.
+
+### 2.7 Epistemic Hedging as a Distinct Functional Domain
+
+The epistemic hedge constructions (*ziurrenik*, *antza denez*, *itxuraz*, *ustez*) do not map onto any of the ten CLCA canonical operators listed in the task. They are documented in P4a/P4b as a distinct functional domain (epistemic modulation of propositional commitment) and are noted here for completeness. They are not substitutes for any of the canonical operators but represent an additional functional layer in the truth domain.
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No dedicated construction encoding the event of a truth being revealed or coming to light is attested. The BECOME construction (*bihurtu da*) may contextually overlap with revelation readings but is not documented as a revelation operator. This is a structural gap: no construction type in P4a/P4b is assigned this function. |
+| **DISCONFIRMATION** | No dedicated construction encoding the act of disconfirming or refuting a claim is attested. The semantic space is covered by NEGATION + ATTR and by PRIVATIVE constructions, but neither is a dedicated disconfirmation operator. |
+| **CAUSATION (character)** | No construction specifically encoding the causing of a change in a person's moral character (as distinct from factual causation or belief-state causation) is documented as a distinct operator. |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **Truth-telling agentive nominal** | No single-word agentive nominal for "truth-teller" is attested. The *-ti* suffix is available but no form (*egiati*, *egiazkoti*, or similar) has been lexicalized. The concept is expressed periphrastically (*egia esaten duena*). This is a lexical gap, not a morphosyntactic gap. |
+| **Inchoative *-tu* from *egia* or *gezurra*** | No *-tu* inchoative verb derived directly from *egia* ("truth") or *gezurra* ("lie/falsehood") is attested. The *-tu* inchoative pattern is available in the language but has not been lexicalized for these bases. |
+| **Dedicated disconfirmation verb** | No verb meaning "to disprove" or "to refute" is documented in P4a/P4b. |
+
+### 3.3 Conceptual Gaps
+
+No conceptual gaps — cases where the semantic operation appears to be blocked or unavailable in principle — are identifiable from the data. All gaps documented above are either structural (no construction type assigned) or lexical (no word lexicalized for an available pattern). The data do not support a claim that any operation is conceptually unavailable in Basque.
+
+### 3.4 Asymmetric Gaps (Only Negative or Only Positive Forms Missing)
+
+| Asymmetry | Description |
+|---|---|
+| **Agentive nominalization: falsehood side only** | *Gezurtia* ("liar") is fully lexicalized with the *-ti* suffix. No parallel *-ti* form for the truth-telling agent is attested. The truth side requires periphrasis (*egia esaten duena*) or a property adjective (*zintzoa*, *jatorra*). |
+| **Pejorative nominalization (*-keria*): falsehood/deception side only** | All attested *-keria* forms in this domain are on the falsehood or deception side (*gezurkeria*, *itxurakeria*, *ustelkeria*, *faltsukeria*, *okerkeria*). No *-keria* form on the truth side is documented. This is consistent with the inherently pejorative semantics of the suffix and does not constitute a gap in the same sense as the agentive asymmetry. |
+| **Lexical *ez-* prefix negation: restricted set** | The *ez-* prefix negation is attested for *fidagarria* → *ez-fidagarria*, *sinesgarria* → *ez-sinesgarria*, *zilegia* → *ez-zilegia*, but is not documented for all adjectives in the domain. The positive forms are all available; the *ez-* negative forms are available only for a near-closed set. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Predicative NOUN/ADJECTIVE + *da* is productive, unrestricted across registers, and attested for both nominal and adjectival bases. |
+| **ADNOM** | **Fully available** | Relational adjective formation (*-zko*, *-ko*, *-ezko*, *-tako*) is productive and obligatory in prenominal position. The morphological alternation between indefinite attributive and predicative/definite forms is systematic. |
+| **BECOME** | **Partially available** | The periphrastic *bihurtu da* construction is fully productive. The *-tu* intransitive inchoative is lexically restricted and does not extend freely across the domain. The resultant-state construction (ADJECTIVE + *egon*) is available but expresses the state following change, not the change event itself. |
+| **REVELATION** | **Missing entirely** | No dedicated revelation construction is attested. The *bihurtu da* BECOME construction may contextually overlap with revelation readings but is not documented as a revelation operator. |
+| **CAUSATION (factual)** | **Fully available** | Three strategies are attested: lexicalized *-tu* transitives, morphological *-arazi* causative, and periphrastic *eragin* / *behartu* + infinitive. Periphrastic strategies are the most commonly attested in this domain. |
+| **CAUSATION (character)** | **Available with substitution** | Belief-state causation is attested via *-arazi* (*sinetsarazi*). Character-change causation is not documented as a distinct operator and is covered, to the extent attested, by CAUSATION (factual) strategies. |
+| **VERIFICATION** | **Fully available** | Multiple constructions cover verification: verbal (*egiaztatu*), process nominal (*egiaztatzea*), result nominal (*egiaztapen*), and institutional-judgment translative (*egiazkotzat jo*). These are not interchangeable and cover distinct aspects of the verification domain. |
+| **DISCONFIRMATION** | **Available with substitution** | No dedicated disconfirmation construction is attested. The semantic space is covered by NEGATION + ATTR (*ez da egia*) and by PRIVATIVE constructions (*baliogabea*, *frogaezina*). Circumlocution is required for the act of disconfirmation as a distinct speech act. |
+| **NEGATION** | **Fully available** | Both analytic (preverbal *ez da*) and morphological strategies (*ez-* prefix, *-gabe*, *ezin*, *-gaitz*) are attested. The analytic strategy is fully productive; the morphological strategies are each restricted to specific bases or semantic subtypes and are not interchangeable with each other or with the analytic strategy. |
+| **NOMINALIZATION** | **Fully available** | Multiple nominalization types are attested and productive: *-tasun* (abstract property), *-pen* (result), *-tze* (process), *-keria* (pejorative habitual), *-tzaile* / *-gile* / *-ti* (agentive). These are not interchangeable. An asymmetric lexical gap exists on the truth-telling side of agentive nominalization. |

@@ -1,0 +1,172 @@
+# CLCA Protocol v3.3 - I1 Construction Equivalence & Missingness Analysis
+## Language: Sanskrit (sa)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | Copular construction with bhavati/asti; zero-copula variant | satyaṃ bhavati "is true"; mithyā bhavati "is false/illusory" | Direct equivalent. Zero-copula variant equally natural. | None |
+| **ADNOM** | Tatpuruṣa compound formation; genitive construction (marginal) | satyavacanam "true statement"; satyasya vacanam "utterance of truth" | Direct equivalent. Compound strongly preferred over analytic genitive. | None |
+| **BECOME** | Verb bhū (bhavati) with predicative adjective; jāyate for cognitive states | mithyā bhavati "becomes false"; pramā jāyate "valid knowledge arises" | Direct equivalent. Bhū serves both copular and inchoative functions; jāyate specifically inchoative for epistemic states. | None |
+| **REVELATION** | **NO COMMON EXPRESSION** | — | **SUBSTITUTED BY BECOME (jāyate)** for epistemic states; **SUBSTITUTED BY INSTRUMENTAL MEANS** (pramāṇena jñāyate "is known through valid means") for discovery events | Structural gap for dedicated revelation construction |
+| **CAUSATION (factual)** | **NO COMMON EXPRESSION** for direct causative of truth-predicates | — | **SUBSTITUTED BY INSTRUMENTAL MEANS** (pramāṇena jñāyate "is known by means of pramāṇa"; hetunā "by reason") | Structural gap; causative morphology theoretically available but unattested |
+| **CAUSATION (character)** | Agentive nominalization with -in suffix or compound with vādin/kārin | satyavādin "truth-speaker"; mithyāvādin "liar" | Partial equivalent. Characterizes agents by habitual relationship to truth, but not causative in strict sense. | Functional substitution rather than direct causation |
+| **VERIFICATION** | Instrumental means construction; interrogative challenge | pramāṇena jñāyate "is known through valid means"; kiṃ pramāṇam "what is the proof?" | Partial equivalent. Expresses epistemic warrant/justification rather than verification process per se. | Functional substitution |
+| **DISCONFIRMATION** | **NO COMMON EXPRESSION** distinct from negation | — | **SUBSTITUTED BY NEGATIVE ATTRIBUTION** (satyaṃ na bhavati "is not true") or **SUBSTITUTED BY INSTRUMENTAL MEANS** with negative (na pramāṇena "not by valid means") | Structural gap; no dedicated disconfirmation construction |
+| **NEGATION** | Syntactic negation (na + verb/predicate); morphological negation (a-/an- prefix) | satyaṃ na bhavati "is not true"; asatyaṃ bhavati "is untrue/false" | Direct equivalent. Both analytic and morphological strategies available and productive. | None |
+| **NOMINALIZATION** | Abstract nominalization (-tā/-tva suffixes); agentive nominalization (-in suffix, compounds) | satyatā "truthfulness"; mithyātva "falsity"; satyavādin "truth-speaker" | Direct equivalent. Highly productive for both abstract and agentive forms. | None |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION → BECOME / INSTRUMENTAL MEANS
+Sanskrit lacks a dedicated construction for revelation or discovery of truth. The semantic domain is covered by two distinct patterns:
+
+1. **For epistemic states arising**: The inchoative verb jāyate "arises, is produced" substitutes for revelation when describing the genesis of knowledge (pramā jāyate "valid knowledge arises"). This emphasizes the coming-into-being of a cognitive state rather than the unveiling of pre-existing truth.
+
+2. **For discovery events**: The instrumental means construction (pramāṇena jñāyate "is known through valid means") substitutes for revelation by specifying the epistemic source. This construction focuses on the means of knowledge rather than the moment of discovery.
+
+### CAUSATION (factual) → INSTRUMENTAL MEANS
+Despite productive causative morphology (NIC suffix) in Sanskrit, truth-domain predicates do not appear in causative constructions. Instead:
+
+- **Instrumental case** expresses causal relationships: pramāṇena jñāyate "is known by means of pramāṇa" (instrument as cause of knowledge)
+- **Ablative case** can express source/cause: avidyayā "through ignorance" (ignorance as cause of error)
+- **Compound verbs** with jñāpayati "causes to know" exist but are not used with truth-predicates directly
+
+This represents a **structural gap**: the language possesses the morphological resources but does not deploy them in this semantic domain.
+
+### CAUSATION (character) → AGENTIVE NOMINALIZATION
+The language does not causatively derive character traits from truth-predicates (e.g., *"make someone truthful"). Instead:
+
+- **Agentive nominalizations** characterize persons by habitual relationship to truth: satyavādin "truth-speaker" (one who habitually speaks truth)
+- These forms describe **dispositional properties** rather than causative processes
+- The construction is highly productive but functionally distinct from causation
+
+### VERIFICATION → INSTRUMENTAL MEANS / INTERROGATIVE CHALLENGE
+Sanskrit lacks a dedicated verification construction. Two patterns provide functional coverage:
+
+1. **Instrumental means construction**: pramāṇena jñāyate "is known through valid means" expresses epistemic warrant/justification
+2. **Interrogative challenge**: kiṃ pramāṇam "what is the proof?" demands verification in dialectical contexts
+
+Both emphasize **epistemic source** rather than verification process. The language conceptualizes this domain in terms of means of knowledge (pramāṇa) rather than verification procedures.
+
+### DISCONFIRMATION → NEGATIVE ATTRIBUTION
+No construction specifically marks disconfirmation as distinct from simple negation. The language uses:
+
+- **Negative attribution**: satyaṃ na bhavati "is not true"
+- **Morphological negation**: asatyaṃ "untrue/false"
+- **Instrumental with negation**: na pramāṇena "not by valid means"
+
+These express **denial of truth-value** but not the process of disconfirming a prior belief.
+
+### Morphological vs. Syntactic Negation
+Sanskrit shows **no asymmetry** between morphological (a-/an- prefix) and syntactic (na + predicate) negation:
+
+- Both strategies equally productive
+- Morphological forms (asatya, amithyā) function as independent lexical items with slightly broader semantic range
+- Choice often stylistic or context-dependent
+- No restriction by truth-domain term (both satya and mithyā accept both strategies)
+
+### Standpoint Constructions (Unique Pattern)
+Sanskrit develops specialized constructions for **epistemic/metaphysical perspective** not mapped to canonical CLCA categories:
+
+- **Ablative standpoint**: paramārthataḥ "from the ultimate standpoint"
+- **Locative domain**: vyavahāre "at the conventional level"
+
+These mark **relativization of truth-claims** to level of analysis, central to two-truths doctrine. This represents a **language-specific elaboration** beyond canonical operators.
+
+### Symmetry Across Positive/Negative Terms
+All attested constructions show **parallel distribution** for positive (satya) and negative (mithyā, asatya) terms:
+
+- No construction restricted to only positive or only negative forms
+- No asymmetries in productivity or naturalness
+- Both terms appear in all 15 identified construction types
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+1. **REVELATION**: No dedicated construction for discovery/unveiling of truth
+   - Substituted by BECOME (jāyate) for epistemic states
+   - Substituted by INSTRUMENTAL MEANS for knowledge acquisition
+
+2. **CAUSATION (factual)**: No causative derivation of truth-predicates
+   - Causative morphology (NIC) theoretically available but unattested in truth domain
+   - Substituted by INSTRUMENTAL MEANS for expressing causal relationships
+
+3. **DISCONFIRMATION**: No construction distinguishing disconfirmation from simple negation
+   - Substituted by NEGATIVE ATTRIBUTION
+   - No dedicated marker for refutation or falsification process
+
+### Lexical Gaps
+None identified. The language possesses rich vocabulary across the truth domain (satya, mithyā, pramā, pramāṇa, etc.) with productive derivational morphology.
+
+### Conceptual Gaps
+1. **Verification as process**: Language conceptualizes epistemic warrant in terms of **means of knowledge** (pramāṇa) rather than verification procedures
+   - Not a missing concept, but a different conceptual organization
+   - Instrumental means construction serves analogous function
+
+2. **Causation of truth-states**: Language avoids causative constructions with truth-predicates
+   - May reflect conceptual constraint: truth/falsity as properties discovered rather than caused
+   - Causation expressed for **knowledge** (jñāpayati "causes to know") but not for **truth-value**
+
+### Asymmetric Gaps
+None identified. All constructions show symmetric distribution across:
+- Positive vs. negative terms (satya/mithyā)
+- Truth vs. falsity predicates
+- Abstract vs. concrete applications
+
+### Language-Specific Elaborations (Not Gaps)
+1. **Standpoint constructions** (ablative/locative): Highly developed system for marking epistemic perspective
+2. **Dual contrast construction**: Specialized morphology for binary oppositions
+3. **Emphatic affirmation** (eva particle): Productive system for emphasis/exclusivity
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+- **ATTR**: Copular construction (bhavati/asti) and zero-copula variant
+- **ADNOM**: Compound formation (tatpuruṣa) and genitive construction
+- **BECOME**: Inchoative bhavati and jāyate for epistemic states
+- **NEGATION**: Both syntactic (na) and morphological (a-/an-) strategies
+- **NOMINALIZATION**: Abstract (-tā/-tva) and agentive (-in, compounds) forms
+
+### Available with Substitution
+- **REVELATION**: Substituted by BECOME (jāyate) for epistemic arising; substituted by INSTRUMENTAL MEANS (pramāṇena jñāyate) for knowledge acquisition
+  - *Functional coverage through two distinct constructions*
+
+- **CAUSATION (factual)**: Substituted by INSTRUMENTAL MEANS (instrumental case + passive verb)
+  - *Expresses causal relationships through case marking rather than verbal morphology*
+
+- **VERIFICATION**: Substituted by INSTRUMENTAL MEANS (pramāṇena jñāyate) and INTERROGATIVE CHALLENGE (kiṃ pramāṇam)
+  - *Expresses epistemic warrant rather than verification process*
+
+- **CAUSATION (character)**: Substituted by AGENTIVE NOMINALIZATION (satyavādin, etc.)
+  - *Characterizes agents dispositionally rather than causatively*
+
+### Partially Available
+- **DISCONFIRMATION**: Only through NEGATIVE ATTRIBUTION; no dedicated construction for refutation/falsification distinct from simple negation
+  - *Can express denial but not the process of disconfirming*
+
+### Missing Entirely
+None. All canonical operators have either direct equivalents or functional substitutes.
+
+---
+
+## Summary of Constructional Profile
+
+Sanskrit provides **direct equivalents** for 5 of 10 canonical operators (ATTR, ADNOM, BECOME, NEGATION, NOMINALIZATION) and **functional substitutes** for the remaining 5 (REVELATION, CAUSATION factual/character, VERIFICATION, DISCONFIRMATION).
+
+The language shows:
+- **High morphological productivity**: Compounding, derivational suffixes, and case marking provide rich resources
+- **Preference for nominal strategies**: Instrumental case and agentive nominalization substitute for verbal causation
+- **Epistemic focus**: Constructions emphasize means of knowledge (pramāṇa) over verification/discovery processes
+- **No asymmetries**: Symmetric distribution across positive/negative terms and truth/falsity predicates
+- **Specialized elaborations**: Standpoint constructions (ablative/locative) for epistemic perspective not captured by canonical categories
+
+The primary **structural gap** is causative derivation of truth-predicates, despite available morphology. This appears to reflect a **conceptual constraint** rather than morphological limitation: truth-value as discovered property rather than caused state.

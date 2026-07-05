@@ -1,0 +1,176 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+# Language: Greek (el)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---------------|-------------------------|------------|---------------------------|----------|
+| **ATTR** | X είναι TRUTH-TERM | αυτό είναι αλήθεια "this is truth/true" | Direct mapping | — |
+| **ADNOM** | TRUTH-ADJ + NOUN | αληθινή ιστορία "true story" | Direct mapping | — |
+| **BECOME** | γίνομαι + TRUTH-ADJ | γίνεται σωστό "it becomes correct" | Marginal; REVELATION preferred for truth emergence | Semantic restriction |
+| **REVELATION** | βγαίνω/αποκαλύπτω + η αλήθεια | βγαίνει η αλήθεια στο φως "the truth comes to light" | Direct mapping; substitutes for BECOME with core truth terms | — |
+| **CAUSATION (factual)** | κάνω + X + TRUTH-ADJ | το κάνει σωστό "it makes it correct" | Marginal analytic form; morphological causatives preferred in formal contexts | **NO COMMON EXPRESSION** for "make true" |
+| **CAUSATION (character)** | — | — | **MISSING (structural gap)** | Structural gap |
+| **VERIFICATION** | αληθεύομαι (passive/middle) | αληθεύτηκε η πρόβλεψη "the prediction proved true" | Direct mapping (marginal frequency) | — |
+| **DISCONFIRMATION** | ακυρώνω + OBJECT | ακυρώνω το έγγραφο "I invalidate the document" | Direct mapping for invalidation | — |
+| **NEGATION** | δεν + είναι + TRUTH-TERM | αυτό δεν είναι αλήθεια "this is not true" | Analytic negation; also lexical negation (ψέμα, λάθος) | — |
+| **NOMINALIZATION (abstract)** | TRUTH-ROOT + -ότητα/-εια/-ία | ορθότητα "correctness" | Direct mapping | — |
+| **NOMINALIZATION (agentive)** | TRUTH-ROOT + agent suffix | ψεύτης "liar" | Direct mapping for negative agents | **Asymmetric gap**: no common positive agentive |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### REVELATION substitutes for BECOME
+Greek strongly prefers REVELATION constructions (βγαίνω/αποκαλύπτω + η αλήθεια) over BECOME constructions (γίνομαι + TRUTH-ADJ) when expressing truth emergence. The P4b data marks BECOME as [MARGINAL] with the note: "More natural with correctness/clarity terms (σωστός, σαφής) than with core truth terms (αλήθεια). Truth is typically conceptualized as static rather than emergent."
+
+This represents a conceptual preference: truth is not something that *becomes* but rather something that *is revealed* or *comes to light*. The BECOME construction is available for correctness and clarity (γίνεται σωστό "it becomes correct," γίνεται σαφής "it becomes clear") but resisted for core truth vocabulary.
+
+### VERIFICATION as middle/passive voice
+Greek expresses VERIFICATION through the middle/passive voice construction αληθεύομαι rather than through a separate causative or transitive verb. This construction (αληθεύτηκε η πρόβλεψη "the prediction proved true") is marked [MARGINAL] in P4b, indicating it is less common than active forms but productive for expressing confirmation of predictions or claims.
+
+### DISCONFIRMATION through morphological causative
+Greek uses the morphological causative ακυρώνω "invalidate" (from άκυρος "invalid") rather than analytic causation for DISCONFIRMATION. This is marked [CORE] and "highly productive with institutional objects (documents, decisions, contracts)." The pattern is restricted to formal/institutional contexts.
+
+### Analytic vs. Lexical NEGATION
+Greek employs both strategies equally:
+- **Analytic**: δεν + positive term (δεν είναι αλήθεια "is not true")
+- **Lexical**: inherently negative terms (είναι ψέμα "is a lie," είναι λάθος "is wrong")
+
+P4b notes: "Both analytic negation (δεν + positive) and lexical negation (ψέμα, λάθος) are equally productive. Choice depends on emphasis and register."
+
+### Asymmetry in agentive nominalization
+Greek shows strong productivity for **negative agents** (ψεύτης "liar," ψεύτρα "female liar," ψευταράς "big liar," απατεώνας "swindler") but lacks common positive equivalents. P4a notes: "No common agentive noun for 'truth-teller' in everyday use (αληθολόγος exists but is marginal/literary)."
+
+This represents an asymmetric gap where the morphological pattern is available but culturally/lexically restricted to negative characterizations.
+
+### Light verb constructions as obligatory patterns
+Greek requires light verbs for two core operations:
+- **Truth-telling**: λέω + την αλήθεια/ψέματα (obligatory; no single-word verb in colloquial Greek)
+- **Error-making**: κάνω + λάθος (obligatory; λάθος does not function as verb)
+
+P4a explicitly notes: "The verb λέω is obligatory; no single-word verb equivalent to English 'lie' exists (*ψεμίζω is not standard)." The formal alternative ψεύδομαι exists but is marked as "more formal" in P4b.
+
+### Morphological vs. Analytic CAUSATION
+Greek shows a split:
+- **Analytic causation** (κάνω + adjective) is marked [MARGINAL] for truth domain
+- **Morphological causatives** (ακυρώνω "invalidate," βεβαιώνω "certify") are [CORE] in formal/institutional contexts
+
+P4a notes: "Greek has both analytic causatives (κάνω + adjective) and morphological causatives (ακυρώνω 'invalidate,' βεβαιώνω 'certify'). The morphological pattern is productive for legal/administrative terms but not for core truth vocabulary."
+
+Critically, P4a identifies a lexical gap: "While ακυρώνω 'invalidate' exists, there is no parallel *αληθώνω 'make true' or *σωστώνω 'make correct.' Causation is expressed analytically (κάνω σωστό)."
+
+---
+
+## 3. Missingness Summary
+
+### Structural Gaps
+
+1. **CAUSATION (character)**: No construction attested for causing someone to become a truth-teller or liar as a character trait. Greek can express causing someone to lie on a specific occasion (through general causative constructions) but lacks a specialized construction for character causation in the truth domain.
+
+2. **Degree modification of core truth terms**: P4a explicitly notes: "Greek does not commonly use degree modifiers (*'very true,' *'somewhat false') with core truth vocabulary. Instead, it uses different lexical items (απόλυτη αλήθεια 'absolute truth') or emphatic constructions."
+
+3. **Comparative truth constructions**: P4a notes: "No standard construction for comparing truth-values (*'more true than'). Greek uses alternative strategies (πιο σωστό 'more correct' works for correctness but not for truth per se)."
+
+### Lexical Gaps
+
+1. **Single-word causative for "make true"**: P4a explicitly identifies this gap: "While ακυρώνω 'invalidate' exists, there is no parallel *αληθώνω 'make true' or *σωστώνω 'make correct.'"
+
+2. **Common positive agentive nominalization**: P4a notes: "No common agentive noun for 'truth-teller' in everyday use (αληθολόγος exists but is marginal/literary)."
+
+3. **Single-word verb for "lie" in colloquial Greek**: P4a notes: "The verb λέω is obligatory; no single-word verb equivalent to English 'lie' exists (*ψεμίζω is not standard). The verb ψεύδομαι exists but is more formal."
+
+### Conceptual Gaps
+
+1. **BECOME with core truth terms**: Not a complete gap but a semantic restriction. P4b marks this [MARGINAL] with the explanation: "Truth is typically conceptualized as static rather than emergent." The construction exists but is conceptually blocked for core truth vocabulary, preferring REVELATION instead.
+
+2. **Evidential marking on truth terms**: P4a notes: "Greek does not grammatically mark evidentiality on truth vocabulary. Source of knowledge is expressed through separate constructions, not integrated into truth-marking."
+
+3. **Habitual truth-telling constructions**: P4a notes: "No specialized aspectual construction for habitual truth-telling distinct from general habitual aspect marking."
+
+### Asymmetric Gaps
+
+1. **Agentive nominalization**: Highly productive for negative agents (ψεύτης, απατεώνας) but no common positive equivalent in everyday use.
+
+2. **Morphological causatives**: ακυρώνω "invalidate" exists but no parallel *αληθώνω "make true."
+
+3. **Color modification**: Productive with ψέμα (άσπρο ψέμα "white lie," μαύρο ψέμα "black lie") but P4b notes this is "specific to ψέμα (not productive with other truth terms)."
+
+4. **Living construction**: P4b notes ζω στο ψέμα "live a lie" is "specific to ψέμα (not used with λάθος)."
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+### Fully Available
+
+- **ATTR**: X είναι TRUTH-TERM (standard copular construction)
+- **ADNOM**: TRUTH-ADJ + NOUN (standard attributive modification)
+- **REVELATION**: βγαίνω/αποκαλύπτω + η αλήθεια (intransitive and transitive forms)
+- **DISCONFIRMATION**: ακυρώνω + OBJECT (morphological causative for invalidation)
+- **NEGATION**: Both analytic (δεν + positive) and lexical (inherently negative terms)
+- **NOMINALIZATION (abstract)**: TRUTH-ROOT + -ότητα/-εια/-ία (highly productive)
+
+### Available with Substitution
+
+- **BECOME**: Available as γίνομαι + TRUTH-ADJ but marginal with core truth terms; **REVELATION substitutes** for truth emergence
+- **VERIFICATION**: Available as αληθεύομαι (middle/passive voice) but marginal frequency; more commonly expressed through active revelation constructions
+
+### Partially Available
+
+- **CAUSATION (factual)**: 
+  - Analytic form (κάνω + adjective) marked [MARGINAL]
+  - Morphological causatives available for specific operations (ακυρώνω "invalidate," βεβαιώνω "certify") but **NO COMMON EXPRESSION** for general "make true"
+  - Restricted to correctness domain (κάνω σωστό) rather than core truth domain
+
+- **NOMINALIZATION (agentive)**: 
+  - Fully productive for negative agents (ψεύτης, απατεώνας)
+  - **Asymmetric gap**: no common positive agentive in everyday use
+
+### Missing Entirely
+
+- **CAUSATION (character)**: No specialized construction for causing someone to become a truth-teller or liar as a character trait
+- **Degree modification**: No productive pattern for degree modification of core truth terms (*"very true")
+- **Comparative constructions**: No standard construction for comparing truth-values (*"more true than")
+- **Evidential marking**: No grammatical integration of evidentiality into truth-marking
+
+---
+
+## 5. Additional Observations
+
+### Multi-word expressions functioning as operators
+
+Several multi-word expressions function as complete operators:
+
+1. **λέω + την αλήθεια/ψέματα**: Functions as verbal operator for truth-telling/lying (light verb construction)
+2. **κάνω + λάθος**: Functions as verbal operator for error-making (light verb construction)
+3. **πιάνω + X + στο ψέμα/λάθος**: Functions as verbal operator for catching in falsehood
+4. **ζω + στο ψέμα**: Functions as verbal operator for living in falsehood
+
+These are not circumlocutions but grammaticalized multi-word operators marked [CORE] in P4b.
+
+### Prefix productivity
+
+Two prefixes show exceptional productivity:
+
+1. **ψευδο-** (pseudo-): "Exceptionally productive in Greek, creating compounds across multiple domains (scientific, legal, religious). Documented extensively in P1b. Pattern remains productive for new coinages."
+
+2. **ορθο-** (ortho-): "Highly productive, particularly in technical, religious, and educational domains. Creates compounds indicating both physical straightness and abstract correctness."
+
+These function as productive morphological operators for creating new truth-domain vocabulary.
+
+### Register stratification
+
+Several constructions show register restrictions:
+
+- **ψεύδομαι** (formal) vs. **λέω ψέματα** (colloquial) for "lie"
+- **αληθεύομαι** (formal) vs. active alternatives for verification
+- **Morphological causatives** (formal/institutional) vs. analytic causatives (general)
+
+This represents functional equivalence across registers rather than true gaps.
+
+---
+
+**END OF I1 CONSTRUCTION EQUIVALENCE & MISSINGNESS ANALYSIS**

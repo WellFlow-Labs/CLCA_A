@@ -1,0 +1,438 @@
+# CLCA Protocol v3.3 — P6 CHANGE, CAUSATION, AND STABILITY
+# Language: Basque (eu)
+# Layer: P6_naturalness
+
+---
+
+## Preliminary Note on Method
+
+This step documents how Basque encodes change, causation, and stability in truth-related meanings, drawing exclusively on vocabulary and constructions attested in the CONTEXT (P1–P5 and I1). Each subsection treats a distinct lexical item or cluster. Where the CONTEXT provides direct evidence of a dynamic expression, it is cited. Where the CONTEXT documents a morphological pattern but does not provide a specific attested example for a given base, this is stated explicitly and the form is marked accordingly. Where no common expression exists, this is stated.
+
+The primary morphological resources documented in the CONTEXT for encoding change and causation are:
+
+- **Inchoative/causative *-tu***: documented in P4a (Construction 4 and 5) as yielding verbs that read as "become X" (intransitive) or "make X" (transitive) depending on argument structure. Attested examples in the truth domain: *zintzotu*, *okertu*, *gardendu*, *usteldu*, *egokitu*, *zuzendu*, *baliogabetu*, *baliozkotu*, *legitimatu*, *zilegitu*, *egiaztatu*, *autentifikatu*, *faltsifikatu*, *zehaztu*, *frogatu*, *berdindu*.
+- **Productive causative *-arazi***: documented in P4a (Construction 5) as a productive suffix on verbal stems. Attested example in the truth domain: *sinetsarazi* (via *gezurra sinetsarazi*). *Egiaztarazi* is documented in P4a §5 as relatively low-frequency.
+- **Periphrastic causative *eragin* + infinitive**: documented in P4a §5 and P4b §5 as the primary causative strategy for roots without a dedicated causative verb.
+- **Lexicalized transitive verbs**: *egiaztatu*, *ziurtatu*, *zuzendu*, *baliozkotu*, *baliogabetu*, *faltsifikatu*, *gezurtatu*, *itxuratu*, *frogatu*, *autentifikatu*, *zehaztu*, *legitimatu*, *berdindu*, *egokitu* — documented as transitive verbs with implicit causative meaning.
+- **Periphrastic inchoative *bihurtu***: documented in P4a §4 as the general inchoative strategy across the truth domain where no suffixed *-tu* inchoative is attested.
+- **Light-verb constructions**: *egin* (to do/make), *esan* (to say/tell), *gorde* (to keep/hide), *ukatu* (to deny), *aitortu* (to admit), *jarri* (to put/set), *zabaldu* (to spread), *salatu* (to denounce), *atera* (to bring out) — documented in P4a §11 and P4b.
+- **Stability constructions**: *egon* (stative copula, contingent states), *izan* (equative copula, inherent properties), *izaten jarraitu* (to continue to be), *bizi da* (lives on), *gorde* (to keep/preserve).
+- **Loss/acquisition collocations**: *galdu* (to lose), *irabazi* (to earn/gain), *erakutsi* (to show/demonstrate).
+
+---
+
+## 1. BECOMING A TRUTH-RELATED STATE (*-tu* INTRANSITIVE / INCHOATIVE)
+
+### Pattern
+Root adjective or noun + *-tu* verbal suffix, used intransitively (no explicit agent). Documented in P4a §4 and P4b. The causative and inchoative readings are morphologically identical; transitivity is determined by argument structure alone.
+
+---
+
+### 1.1 *okertu* — "to go wrong / to become crooked / to become distorted"
+
+**Pattern:** NP (subject) + *okertu* + *da* / *dira* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Gauzak okertu dira* | "Things have gone wrong." | [CORE] | Documented in P1b 3.22; P2a 7.2; P4a §4; P4b as the primary attested inchoative example in the truth domain. The auxiliary *dira* (3pl of *izan*) marks the perfective resultant state. |
+| *Egoera okertu da* | "The situation has worsened / gone wrong." | [CORE] | Documented in P2a. The *da* auxiliary marks the intransitive change-of-state. |
+| *Egurra okertu da* | "The wood has warped / The wood has bent." | [CORE] | Documented in P1b Step 3 Peripheral Extensions (from *zuzen-*) as a peripheral use applied to physical deformation. |
+
+**Notes:** P2a documents *okertu* as used "both transitively (to distort or bend something) and intransitively (to go wrong, to err)." P2b documents *oker joan* ("to go wrong; to go astray; to turn out badly") as a parallel construction. The inchoative reading covers both the physical sense (to become bent/crooked) and the evaluative sense (to go wrong, to deteriorate). P4a lists *okertu* as a [CORE] inchoative example and the only suffixed *-tu* inchoative in the truth domain that is well-attested.
+
+**Naturalness:** [CORE]
+
+---
+
+### 1.2 *usteldu* — "to become corrupt / to rot"
+
+**Pattern:** NP (subject) + *usteldu* + *da* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Sistema usteldu da* | "The system has become corrupt / The system has rotted." | [CORE] | Documented in P2a 22.2. The CONTEXT explicitly documents both physical ("to rot") and moral/political ("to become corrupt") inchoative readings. The auxiliary *da* (3sg of *izan*) marks the perfective resultant state. |
+
+**Notes:** The CONTEXT documents *usteldu* as covering both physical and moral/political senses, and notes it can be used transitively (causing corruption) as well as intransitively (becoming corrupt). No explicit transitive example sentence is provided in the CONTEXT; the documented example (*sistema usteldu da*) is intransitive. Also classifiable as a loss-of-integrity expression.
+
+**Naturalness:** [CORE]
+
+---
+
+### 1.3 *egokitu* — "to adapt / to adjust"
+
+**Pattern:** NP (subject) + *egokitu* (+ allative goal)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Baldintzetara egokitu* | "To adapt to the conditions / To adjust to the conditions." | [CORE] | Documented in P2a 19.2. The allative *-ra* on *baldintzetara* ("to the conditions") marks the target state or context of adaptation. |
+
+**Notes:** This is an inchoative-like construction where the subject undergoes a change of fit relative to a context. The transitive reading (*testua egokitu*, "to adapt the text") involves an explicit object; see §2.11 below.
+
+**Naturalness:** [CORE]
+
+---
+
+### 1.4 *zuzendu* (intransitive reading) — "to become straight / to straighten"
+
+**Pattern:** NP (subject) + *zuzendu* + *da* / *egin da* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Akatsa zuzendu egin da* | "The error has been corrected / has corrected itself." | [CORE] | Documented in P2a. *Zuzendu* with *da* auxiliary; the change-of-state reading is supported by context. |
+
+**Notes:** The CONTEXT documents *zuzendu* as polyfunctional (inchoative or causative depending on argument structure, per P4a §5), but does not provide an explicit intransitive example sentence beyond the above. The causative reading (*akatsak zuzendu*, "to correct the errors") is the primary attested use. The inchoative reading is documented as structurally possible (P4a §4) but no specific intransitive example sentence is given in the CONTEXT for the bare intransitive form.
+
+**Naturalness:** [CORE]
+
+---
+
+### 1.5 *zilegitu* (intransitive reading) — "to become lawful"
+
+**Pattern:** NP (subject) + *zilegitu* + *egin da* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Jarduera hori zilegitu egin da* | "That activity has become lawful." | [MARGINAL] | Documented in P2a D24.3 as marginal. The *bihurtu* periphrastic (*zilegi bihurtu da*) is noted as the more productive alternative. |
+
+**Notes:** P2a explicitly marks *zilegitu* as marginal. Documented in legal and ethical contexts.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### 1.6 *gardendu* — "to become transparent / to make transparent"
+
+**Pattern (inchoative):** NP (subject, typically an institution or process) + *gardendu* + *da* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Erakundea gardendu da* | "The institution has become more transparent / has opened up." | [MARGINAL] | Documented in P2a as available, yielding the inchoative reading. |
+
+**Notes:** P2a documents *gardendu* as used "in administrative and institutional contexts to describe the act of making processes or information more transparent or open" and "in discussions of institutional reform and accountability." Rated [MARGINAL] in P2a, reflecting lower frequency relative to the nominal *gardentasun* and adjectival *garden*.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### 1.7 *zintzotu* — "to become honest"
+
+**Pattern (inchoative):** NP (subject) + *zintzotu* + *da* (auxiliary, intransitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Zintzotu da* | "He/she has become honest; he/she has reformed." | [CORE] | Documented in P2a, P4a (Construction 4) as the primary attested inchoative in the moral-character domain. |
+
+**Notes:** P2a describes *zintzotu* as used "in moral and educational contexts, often with reference to children or persons who have changed their behavior." The intransitive use with *da* auxiliary yields the inchoative reading without ambiguity in context. This is the most directly attested inchoative in the truth-related moral domain.
+
+**Naturalness:** [CORE]
+
+---
+
+### Items for which no inchoative *-tu* form is attested in CONTEXT
+
+The following items do not have an attested inchoative *-tu* form in the CONTEXT:
+
+- *egia*, *egiazkoa*: No verb meaning "to become true" built on *egia-* is documented. The CONTEXT documents *egiaztatu* (to verify) but this is a causative/transitive form, not an inchoative.
+- *gezurra*, *gezurrezkoa*: No verb meaning "to become false" built on *gezurr-* is documented. The CONTEXT explicitly notes (P2a item 4 note) that no verbal derivation parallel to *egiaztatu* is identified as a common form for the *gezurr-* root.
+- *zehatza*: *Zehaztu* is documented (P2a 8.2) but its primary meaning is "to specify, to determine precisely" — a causative/transitive action, not an inchoative. No construction meaning "to become precise" is attested.
+- *fidagarria*, *sinesgarria*: No inchoative *-tu* forms are documented. The CONTEXT explicitly notes (P2a items 9 and 10) that no verbal derivation directly from these adjectives is identified as a common form.
+- *zintzoa*, *leiala*: No inchoative *-tu* forms are documented beyond *zintzotu* (§1.7 above). The CONTEXT explicitly notes (P2a item 20) that no verbal derivation directly from *zintzoa* is identified as a common form beyond the attested *zintzotu*.
+- *baliozko*: *Baliozkotu* is documented (P2a 11.3) but as a causative ("to validate"), not an inchoative. *Baliogabetu* (P2a 11.5) is similarly causative ("to invalidate").
+
+---
+
+## 2. BECOMING A TRUTH-RELATED STATE (PERIPHRASTIC *bihurtu* INCHOATIVE)
+
+### Pattern
+NP (subject) + [truth-domain nominal or adjectival] + *bihurtu* + *da* (auxiliary, intransitive).
+*Bihurtu* (to become, to turn into) is documented in P4a §4 as the general inchoative strategy across the truth domain where no suffixed *-tu* inchoative is attested. No restriction on which truth-domain term can appear as complement is documented in the CONTEXT.
+
+---
+
+### 2.1 *egia bihurtu da* — "X turns out to be true / becomes truth"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Bere aurreikuspena egia bihurtu da.* | "His/her prediction has turned out to be true." | [CORE] | *Bihurtu* is the general inchoative strategy documented in P4a §4. *Egia* occupies the complement position. This is the standard construction for the transition from non-truth to truth status. |
+| *Gezurra egia bihurtu da.* | "The lie has become truth." | [CORE] | Attested as a rhetorical construction; both P1 nominals appear, with *bihurtu* marking the transition. |
+
+**Notes:** No suffixed *-tu* inchoative from *egia* is attested (P4a §4 explicitly notes this gap). The *bihurtu* periphrastic is the only documented strategy.
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.2 *benetakoa bihurtu da* — "X becomes genuine / authentic"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Itxurazko maitasuna benetakoa bihurtu da.* | "The apparent love has become genuine." | [CORE] | Combines *itxurazko* (ostensible; P2a D18.5) with *benetakoa* (genuine; P1-3) via *bihurtu*. The construction directly encodes the transition from appearance to genuine status. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.3 *baliozkoa bihurtu da* — "X becomes valid / gains validity"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Agiri hori baliozkoa bihurtu da.* | "That document has become valid." | [CORE] | Standard *bihurtu* inchoative with *baliozkoa* (valid; P1-13) as complement. Used in administrative and legal contexts. |
+
+**Notes:** No suffixed *-tu* inchoative from *balio* in the validity sense is attested. *Balioztatu* (P2a D12.5) means to validate (a caused state), not to become valid spontaneously.
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.4 *baliogabea bihurtu da* — "X becomes invalid / loses validity"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Kontratu hori baliogabea bihurtu da.* | "That contract has become invalid." | [CORE] | *Bihurtu* with *baliogabea* (invalid; P1-14) as complement. |
+| *Agiri hori baliogabetu egin da.* | "That document has become null / has been nullified." | [CORE] | *Baliogabetu* with the auxiliary *egin da* marks the change-of-state. The verb covers both spontaneous invalidity and caused invalidity depending on context; the intransitive reading is supported by the *da* auxiliary. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.5 *gezurra bihurtu da* — "X becomes false / turns into a lie"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Egia gezurra bihurtu da.* | "The truth has become a lie." | [CORE] | Rhetorical construction; the reverse of *gezurra egia bihurtu da* (§2.1). Both orderings are structurally available via *bihurtu*. |
+
+**Notes:** No suffixed *-tu* inchoative from *gezurra* or *faltsu-* is attested in the CONTEXT. The *bihurtu* periphrastic is the only documented strategy.
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.6 *sinesgarria bihurtu da* — "X becomes credible / believable"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Bere kontakizuna sinesgarria bihurtu da.* | "His/her account has become credible." | [CORE] | Standard *bihurtu* inchoative. No suffixed *-tu* inchoative from *sines-* in this sense is attested in the CONTEXT. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.7 *fidagaitza bihurtu da* — "X becomes unreliable / untrustworthy"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Iturri hori fidagaitza bihurtu da.* | "That source has become unreliable." | [CORE] | *Bihurtu* with *fidagaitza* (unreliable; P2a D9.2) as complement. No suffixed *-tu* inchoative from *fida-* in this sense is attested in the CONTEXT. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 2.8 *zuzena bihurtu da* — "X becomes correct"
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Erantzuna zuzena bihurtu da.* | "The answer has become correct." | [CORE] | *Bihurtu* with *zuzena* (correct; P1-6). |
+
+**Naturalness:** [CORE]
+
+---
+
+## 3. CAUSING A TRUTH-RELATED STATE (*-tu* TRANSITIVE / CAUSATIVE)
+
+### Pattern
+Root adjective or noun + *-tu* verbal suffix, used transitively with an explicit object. Documented in P4a §5 and P4b. The causative and inchoative readings are morphologically identical; transitivity is determined by argument structure.
+
+---
+
+### 3.1 *zuzendu* (transitive) — "to correct / to rectify / to direct"
+
+**Pattern:** NP (agent) + NP (patient, error or text or person) + *zuzendu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Akatsak zuzendu ditu* | "He/she has corrected the errors." | [CORE] | Documented in P1b 3.4; P2a 6.2; P4a §5; P4b. |
+| *Akatsak zuzendu* | "To correct the errors." | [CORE] | Documented in P1b 3.4; P2a 6.2; P4a §5; P4b. The object bears absolutive case. |
+| *Oker zuzendu* | "To correct a mistake; to right a wrong." | [CORE] | Documented in P1b and P2b. |
+| *Bidegabekeria zuzendu* | "To rectify an injustice." | [CORE] | Documented in P2a. |
+| *Gutuna zuzendu* | "To address a letter." | [CORE] | Documented in P2a. |
+
+**Notes:** P2a documents *zuzendu* as a [CORE] verb used "across multiple domains: correcting errors in writing or speech, rectifying moral or legal wrongs, directing or steering a course." The causative reading is primary for this verb.
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.2 *baliogabetu* (transitive) — "to invalidate / to nullify"
+
+**Pattern:** NP (agent/institution) + NP (patient) + *baliogabetu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Epaia baliogabetu* | "To nullify the judgment / To invalidate the judgment." | [CORE] | Documented in P2a 11.5; P4a §5; P4b. |
+| *Epaileak kontratua baliogabetu du* | "The judge has invalidated the contract." | [CORE] | Documented in P2a D12.3 as the standard legal verb for this act. |
+| *Epaileak erabakia baliogabetu du* | "The judge has invalidated the decision." | [CORE] | Documented in P2a. |
+
+**Notes:** P2a documents *baliogabetu* as "the semantic counterpart of *baliozkotu*," used "in legal and administrative contexts to denote the act of declaring something invalid or void." Rated [CORE] in P2a.
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.3 *baliozkotu* (transitive) — "to validate / to make valid"
+
+**Pattern:** NP (agent/institution) + NP (patient, document or decision) + *baliozkotu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Baliozkotu* | "To validate / To make valid / To legitimize." | [MARGINAL] | Documented in P2a 11.3. No specific example sentence is provided in the CONTEXT beyond the verb description. |
+| *Ofizialki baliozkotu dute erabakia* | "They have officially validated the decision." | [MARGINAL] | Documented in P2b as *ofizialki baliozkotu*. |
+
+**Notes:** P1 and P2a document *baliozkotu* as a transitive verb used in legal and administrative registers "to denote the formal act of conferring validity on a document, decision, or act." Rated [MARGINAL] in P1 and P2a, reflecting its restriction to formal registers.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### 3.4 *legitimatu* (transitive) — "to legitimize"
+
+**Pattern:** NP (agent) + NP (patient) + *legitimatu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Boterea legitimatu* | "To legitimize power." | [CORE] | Documented in P2a 12.2. An agent causes power or authority to acquire the status of legitimacy. Used in political and legal discourse. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.5 *zilegitu* (transitive) — "to make lawful / to legitimize / to permit"
+
+**Pattern:** NP (agent) + NP (patient) + *zilegitu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Zilegitu* | "To make lawful / To legitimize / To permit." | [MARGINAL] | Documented in P2a 13.3. No specific example sentence is provided. |
+
+**Notes:** The CONTEXT documents *zilegitu* as a verb meaning "to make something lawful or permissible," used in legal and ethical contexts. Epistemic status is [MARGINAL] in P2a.
+
+**Naturalness:** [MARGINAL]
+
+---
+
+### 3.6 *egiaztatu* (transitive) — "to verify / to certify / to confirm"
+
+**Pattern:** NP (agent/institution) + NP (patient, the thing verified) + *egiaztatu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Datuak egiaztatu ditu* | "He/she has verified the data; he/she has confirmed the data." | [CORE] | Documented in P1, P2b, P4a. |
+| *Datuak egiaztatu* | "To verify the data." | [CORE] | Documented in P1b 1.6; P2a 1.5–1.6; P4a §11 (note). |
+| *Sinadura egiaztatu* | "To certify a signature." | [CORE] | Documented in P1b 1.6. |
+| *Behar bezala egiaztatu* | "To verify properly; to verify as required." | [CORE] | Documented in P2b. |
+
+**Notes:** P4a documents *egiaztatu* as a [CORE] causative/transitive verb: "the implicit causative reading is institutionally established rather than compositionally derived in active use." The verb is lexicalized as a transitive act of verification. No inchoative use (*egiaztatu da*, "it has become verified") is attested in the CONTEXT; the passive/resultative state is expressed periphrastically (see §4.1 below).
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.7 *autentifikatu* (transitive) — "to authenticate"
+
+**Pattern:** NP (agent) + NP (patient) + *autentifikatu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Sinadura autentifikatu* | "To authenticate a signature." | [CORE] | Documented in P2a 15.2. An agent causes a signature, document, or object to acquire the status of being authenticated. Used in legal, administrative, and digital security contexts. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.8 *faltsifikatu* (transitive) — "to falsify / to forge"
+
+**Pattern:** NP (agent) + NP (patient, document or data) + *faltsifikatu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Agiriak faltsifikatu ditu* | "He/she has falsified the documents; he/she has forged the papers." | [CORE] | Documented in P2b. |
+| *Datuak faltsifikatu ditu* | "He/she has falsified the data." | [CORE] | Documented in P2b. |
+| *Dokumentua faltsifikatu* | "To forge a document / To falsify a document." | [CORE] | Documented in P2a 14.3; P2b 14.4. |
+
+**Notes:** P2b directly attests both collocations as the most common contexts for *faltsifikatu*. The verb is lexicalized as a transitive act of deliberate falsification. No inchoative use is attested or expected; the change is always agentively caused. This is the causative of inauthenticity, contrasting with *autentifikatu* (Opposition 15 in P5).
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.9 *zehaztu* (transitive) — "to specify / to determine precisely"
+
+**Pattern:** NP (agent) + NP (patient) + *zehaztu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Data zehaztu* | "To specify the date." | [CORE] | Documented in P2a 8.2. |
+| *Baldintza zehaztu* | "To define the conditions precisely." | [CORE] | Documented in P2a 8.2. |
+
+**Notes:** An agent causes a date, condition, or fact to acquire the status of being precisely specified. Used in scientific, legal, and administrative contexts. Primary meaning is "to specify, to determine precisely" — a causative/transitive action; no construction meaning "to become precise" is attested.
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.10 *frogatu* (transitive) — "to prove / to demonstrate"
+
+**Pattern:** NP (agent) + NP (patient) + *frogatu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Abokatuak bere errugabetasuna frogatu du* | "The lawyer has proven his/her innocence." | [CORE] | Documented in P2a D28.1 as the standard transitive verb for the act of proving. Very common in legal and scientific contexts. |
+| *Fidagarria dela frogatu* | "To prove that it is reliable." | [CORE] | Documented in P2b 9.3; P4a §11. |
+| *Faltsua dela frogatu* | "To prove that it is false." | [CORE] | Documented in P2b 14.3; P4a §11. |
+
+**Notes:** *Frogatu* is the primary verb for demonstrating truth or fact through evidence. An agent causes a claim or fact to acquire the status of being proven.
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.11 *egokitu* (transitive) — "to adapt / to adjust"
+
+**Pattern:** NP (agent) + NP (patient) + *egokitu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Testua egokitu* | "To adapt the text." | [CORE] | Documented in P2a 19.2; P2b 19.3. |
+
+**Notes:** An agent causes a text, material, or situation to become appropriate for a given context. The transitive reading (*testua egokitu*, "to adapt the text") involves an explicit object; the reflexive-like reading (*baldintzetara egokitu*, "to adapt to the conditions") involves an allative goal (see §1.5 above).
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.12 *berdindu* (transitive) — "to equalize"
+
+**Pattern:** NP (agent) + NP (patient) + *berdindu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| *Aukerak berdindu* | "To equalize opportunities." | [CORE] | Documented in P2a 18.3. An agent causes opportunities or things to become equal. Used in social and political discourse. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.13 *usteldu* (transitive reading) — "to corrupt / to cause to rot"
+
+**Pattern:** NP (agent) + NP (patient) + *usteldu* + *du* (auxiliary, transitive)
+
+| Example | Translation | Naturalness | Notes |
+|---|---|---|---|
+| (no explicit transitive example given in CONTEXT) | "To corrupt / To cause to rot." | [CORE] | Documented in P2a 22.2 as covering both physical and moral/political senses. No explicit transitive example sentence is provided in the CONTEXT; the documented example (*sistema usteldu da*) is intransitive. |
+
+**Naturalness:** [CORE]
+
+---
+
+### 3.14 *gardendu* (transitive) — "to make transparent"
+
+**Pattern:**

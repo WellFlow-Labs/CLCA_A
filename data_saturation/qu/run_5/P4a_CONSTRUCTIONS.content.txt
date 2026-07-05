@@ -1,0 +1,146 @@
+# CLCA Protocol v3.4 — P4a CONSTRUCTIONS
+# Language: Quechua (Southern, Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. ATTRIBUTION
+
+### Pattern
+[Truth/falsity adjective] + [Noun] — attributive modifier precedes head noun; no copula required in nominal phrases.
+
+### Examples
+- *cheqa runa* → cheqa runa → "honest/genuine person"
+- *llulla simi* → llulla simi → "false word / lying speech"
+
+### Notes
+Quechua adjectives precede the noun they modify with no agreement morphology. The same root (*cheqa*, *llulla*) functions as both attributive adjective and predicate without change of form.
+
+---
+
+## 2. NEGATIVE ATTRIBUTION
+
+### Pattern
+*mana* + [adjective/predicate] + *-chu* — negation particle *mana* precedes the predicate; negative polar suffix *-chu* is suffixed to the predicate.
+
+### Examples
+- *Mana cheqachu.* → Mana cheqa-chu → "It is not true / not genuine."
+- *Mana allinchu.* → Mana allin-chu → "It is not right / not correct."
+
+### Notes
+*Mana* ... *-chu* is the standard negation frame across all predicative constructions in Southern Quechua. The suffix *-chu* is obligatory in negated predicates; *mana* alone is insufficient. Attributive negation follows the same pattern when the adjective is used predicatively.
+
+---
+
+## 3. ADNOMINAL MODIFICATION
+
+### Pattern
+[Modifier] + [Head noun] — modifiers (including participial and agentive forms) precede the head noun; no linker or agreement morphology.
+
+### Examples
+- *cheqanchasqa qelqa* → cheqancha-sqa qelqa → "verified/confirmed document"
+- *cheqaq simi* → cheqaq simi → "truthful speech / genuine word"
+
+### Notes
+Both simple adjectives (*cheqa*) and derived participial/agentive forms (*cheqanchasqa*, *cheqaq*) precede the head noun in the same position. There is no morphological distinction between attributive and predicative adjective forms.
+
+---
+
+## 4. BECOME / INCHOATIVE
+
+### Pattern
+[Root] + *-ya-* + *-y* (infinitive/nominalization) — the verbalizer *-ya-* derives an inchoative verb from an adjectival or nominal base.
+
+### Examples
+- *llullayay* → llulla-ya-y → "to become false / to turn deceptive"
+- *allinyay* → allin-ya-y → "to become good / to improve / to become right"
+
+### Notes
+The suffix *-ya-* is the productive inchoative/stative verbalizer in Southern Quechua, attaching to adjectival bases to produce change-of-state verbs. The *cheqa* root does not attest a direct *cheqayay* form; its inchoative meaning is expressed through *cheqanchay* (see §5) or periphrasis.
+
+---
+
+## 5. CAUSATIVE
+
+### Pattern
+[Verbal stem] + *-chi-* + *-y* — the causative suffix *-chi-* derives a causative verb from an existing verbal stem.
+
+### Examples
+- *pantachiy* → panta-chi-y → "to cause to err / to mislead"
+- *llullachiy* → llulla-chi-y → "to cause someone to lie / to induce false testimony"
+
+### Notes
+The *-chi-* causative is productive across the truth-domain verbal stems (*panta-*, *llulla-*, *riqsi-*, *yacha-*). The *cheqa* root uses a distinct verbalizer *-ncha-* (*cheqanchay*, "to verify/correct/establish as true") rather than bare *-chi-*, reflecting an asymmetry in how the root forms a verbal stem.
+
+---
+
+## 6. ABSTRACT NOMINALIZATION
+
+### Pattern
+[Adjective/verb root] + *kay* (nominalized copula "being") — produces an abstract nominal denoting the property or state.
+
+### Examples
+- *cheqa kay* → cheqa kay → "truth / reality / the state of being true"
+- *pantay* → panta-y → "error / the act of erring / being wrong" (infinitive-as-nominal)
+
+### Notes
+Two strategies are attested: (a) [root] + *kay* for abstract property nominals (*cheqa kay*, "truthfulness/reality"), used in formal and reflective registers; (b) the verbal infinitive in *-y* (*pantay*, *llullakuy*) functioning as a process nominal in everyday use. The *kay* construction is more restricted in register than the infinitive nominalization.
+
+---
+
+## 7. AGENTIVE NOMINALIZATION
+
+### Pattern
+[Verbal stem] + *-q* — the agentive suffix *-q* derives a nominal/adjectival form denoting the agent or habitual performer of the action.
+
+### Examples
+- *llullaq* → llulla-q → "liar / one who lies / deceiver"
+- *yachaq* → yacha-q → "one who knows / knower / expert"
+
+### Notes
+The suffix *-q* is the productive agentive nominalizer across all verbal stems in the truth domain (*cheqaq*, *llullaq*, *pantaq*, *riqsiq*, *yachaq*, *llullakuq*). The resulting forms function as both nouns (characterizing persons) and adjectives (modifying nouns). *Cheqaq* is unusual in that it is itself the most common predicative form of the truth root, making the agentive and the predicate formally identical.
+
+---
+
+## 8. EVIDENTIAL MARKING ON TRUTH PREDICATES
+
+### Pattern
+[Truth predicate] + evidential suffix (*-mi/-m* direct; *-si/-s* reportative; *-chus* dubitative) — evidential suffixes attach obligatorily to predicates in assertive contexts, encoding the speaker's epistemic source.
+
+### Examples
+- *Cheqaqmi.* → cheqaq-mi → "It is indeed true (I know directly)."
+- *Cheqaqsi.* → cheqaq-si → "It is reportedly true (I heard it from someone)."
+
+### Notes
+Evidential marking is grammatically obligatory in Southern Quechua assertive sentences, not an optional addition. The three-way contrast (direct / reportative / dubitative) applies systematically to truth predicates (*cheqaq*, *hina*, *allin*), producing a paradigm in which the epistemic source of a truth claim is encoded in the predicate form itself.
+
+---
+
+## 9. CORRECTIVE TOPIC CONSTRUCTION
+
+### Pattern
+*cheqaqa* (= *cheqa* + topic marker *-qa*) + corrective statement — the topicalized truth form introduces a statement that replaces a prior inaccurate claim.
+
+### Examples
+- *Cheqaqam, mana hinachu.* → Cheqaqa-m, mana hina-chu → "The truth is, it is not like that."
+- *Cheqaqam, kay hinam.* → Cheqaqa-m, kay hina-m → "The truth is, it is like this."
+
+### Notes
+This is a discourse-level construction in which *cheqaqa* functions as a pragmatic marker of correction rather than a simple truth predicate. The topic suffix *-qa* signals a shift in discourse frame; the direct evidential *-m* on *cheqaqa* marks the speaker's commitment to the corrective statement that follows.
+
+---
+
+## 10. ADVERBIAL TRUTH MODIFIER ON SPEECH VERBS
+
+### Pattern
+[Truth/falsity term] + *-ta* (accusative/adverbial) + [speech verb] — the truth-evaluation term appears in the accusative case as an adverbial modifier of a verb of speaking or reporting.
+
+### Examples
+- *Cheqaqtam rimani.* → Cheqaq-ta-m rimani → "I am speaking the truth / I speak truthfully."
+- *Cheqaqtam willakuni.* → Cheqaq-ta-m willakuni → "I am reporting truthfully / I give a true account."
+
+### Notes
+The *-ta* suffix here functions adverbially, not as a direct object marker. This construction is the standard form for asserting that one's speech is truthful in Southern Quechua testimonial and everyday discourse. The pattern extends to *llullata rimay* (to speak falsely) with the same structural frame.
+
+---
+
+*End of P4a Constructions — Quechua (qu)*

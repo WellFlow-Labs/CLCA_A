@@ -1,0 +1,134 @@
+# CLCA Protocol v3.3 — I1 Construction Equivalence & Missingness Analysis
+## Language: Quechua (Southern: Cusco-Collao / Ayacucho-Chanka)
+
+---
+
+## 1. Constructional Mapping Table
+
+| CLCA Operator | Attested Construction(s) | Example(s) | Equivalent / Substitution | Gap Type |
+|---|---|---|---|---|
+| **ATTR** | Predicate-adjectival + evidential *-m/-mi* (copula absent); prenominal adjective-noun juxtaposition | *Cheqam*; *Llullam chay*; *cheqa qelqa*; *llulla simi* | Direct mapping. Evidential clitic *-m/-mi* is the primary assertive marker; no copula required in present tense. Past/reported contexts use overt copula *kasqa* (*cheqa kasqam*). | None |
+| **ADNOM** | Prenominal adjective-noun juxtaposition (uninflected modifier); participial modifier (*-sqa*) in prenominal position; possessive nominalization (*cheqa kaynin*) | *cheqa runa*; *cheqanchasqa qelqa*; *cheqa kaynin* | Direct mapping. Participial (*-sqa*) and simple adjectival forms occupy the same prenominal slot. Possessive nominalization is restricted to philosophical/religious registers (rated [MARGINAL]). | None for core pattern; possessive nominalization is register-restricted |
+| **BECOME** | Root + *-ka-* + *-y* (intransitive verbalizer); root + *-ya-* + *-y* (inchoative suffix on adjectival bases); *[adjective] + tukuy* (periphrastic, [UNCERTAIN]) | *cheqakay*; *allinkay*; *allinyay*; *Chiqan tukun* [UNCERTAIN] | Direct mapping for *-ka-* and *-ya-* pathways. *Tukuy* periphrasis is structurally regular but has limited specific attestation for truth-domain items. No BECOME form attested for *llulla*. | Lexical gap: no BECOME form for *llulla*. *Tukuy* periphrasis is [UNCERTAIN] for truth-domain items. |
+| **REVELATION** | Not attested as a distinct construction type in P4a/P4b | — | **MISSING (structural gap)** — No construction specifically encoding "it turns out to be true/false" as a revelation event is documented. The propositional knowledge construction (*cheqa kasqanta yachani*) and the past-copula form (*cheqa kasqam*) approach this domain but are not described as revelation constructions. | Structural gap. See §2 for discussion of partial overlap with BECOME and propositional knowledge. |
+| **CAUSATION (factual)** | Root + *-ncha-* + *-y* (causative verbalizer on adjectival roots); root + *-chi-* + *-y* (causative on verbal/adjectival roots) | *cheqanchay* 'to verify/confirm/make true'; *chiqanchay* 'to correct'; *pantachiy* 'to mislead/cause to err' | Direct mapping. *-ncha-* applies to adjectival roots; *-chi-* applies to verbal roots. The two pathways are morphologically distinct but functionally parallel for factual causation. | None |
+| **CAUSATION (character)** | Root + *-chi-* + *-y* applied to person-directed deception/truth-telling; agentive nominalization (*llullaq*, *llullakuq*) characterizes habitual agents | *llullachiy* 'to cause to lie / to deceive'; *llullakuq* 'habitual liar' | Partial mapping. The causative *llullachiy* covers the action of causing false belief in another. Habitual character is expressed through agentive nominalization (*llullakuq*) rather than a dedicated CAUSATION (character) construction. No single construction simultaneously encodes both the causal act and the character attribution. | Partial: character attribution is distributed across causative verb and agentive nominal; no unified construction. |
+| **VERIFICATION** | Root + *-ncha-* + *-y* (*cheqanchay*); root + *-ncha-* + *-ku-* + *-y* (reflexive: *cheqanchakuy*); propositional knowledge construction (*cheqa kasqanta yachani*); ability periphrasis (*cheqachiyta atiy*) | *cheqanchay* 'to verify/confirm'; *cheqanchakuy* 'to verify for oneself'; *cheqa kasqanta yachani* 'I know it to be true' | Direct mapping for *cheqanchay* and *cheqanchakuy*. The propositional knowledge construction and ability periphrasis are functionally adjacent but not identical to VERIFICATION. | None for core pattern |
+| **DISCONFIRMATION** | *Mana* + predicate + *-chu* (standard negation frame); *chiqanchay* 'to correct (an error)'; *pantachiy* 'to mislead / cause to err' | *Manan cheqachu*; *Mana cheqachu*; *Kay pantasqata chiqanchay tiyan* | VERIFICATION and DISCONFIRMATION do **not** share the same construction. VERIFICATION uses *-ncha-* causative (*cheqanchay*); DISCONFIRMATION uses the *mana…-chu* negation frame or the corrective causative (*chiqanchay*). See §2. | None; the two operators are formally distinct |
+| **NEGATION** | *Mana* + predicate + *-chu* (predicative); *mana* + adjective-noun (prenominal, no *-chu*) | *Manan cheqachu*; *Mana cheqachu*; *mana cheqa qelqa*; *Mana chiqanmi chay ruway* | Direct mapping. Negation is **morphological** (the *mana…-chu* discontinuous frame is obligatory in predicative contexts) and **analytic** in prenominal attributive contexts (*mana* alone, no *-chu*). The two environments are structurally distinct. | None |
+| **NOMINALIZATION** | Adjective + *kay* (abstract nominal); possessed form *cheqan* + case suffixes; bare root used nominally; *-sqa* + possessive + case (nominalized clause); bare infinitive nominalization; root + *-ka-* + *-y* + *-ta* (accusative verbal nominalization) | *cheqa kay*; *allin kay*; *cheqan*; *cheqanta rimay*; *Llullakusqanmantam p'enqakun*; *Cheqakayta*; *Cheqaqta rimay allinmi* | Direct mapping across multiple strategies. No single dedicated abstract-nominalization suffix exists (explicitly noted in P4a/P4b). Multiple strategies are in complementary distribution by register and syntactic position. No abstract nominal for *llulla* as a noun ('falsehood') is attested; the concept is expressed through bare adjective or verbal nominalization. | Lexical gap: no abstract nominal *llulla-kay* or equivalent for 'falsehood' as a standalone noun is attested. |
+
+---
+
+## 2. Substitution Patterns (Narrative)
+
+### 2.1 REVELATION and BECOME
+
+No construction specifically labeled or functioning as REVELATION (i.e., a construction encoding the event of a truth-value being disclosed or discovered by a subject) is documented in P4a or P4b. The closest attested forms are:
+
+- The past-copula construction *cheqa kasqam* ("it turned out to be true"), which is described in P4a as appearing in "third-person past or reported contexts." This form encodes a retrospective or reported truth-state but is described as a contextual variant of the ATTR construction (with overt copula *kasqa*), not as a distinct REVELATION construction.
+- The propositional knowledge construction *cheqa kasqanta yachani* ("I know that it is true") encodes the subject's epistemic access to a truth-state but is classified in P4a/P4b under propositional knowledge (§10), not as a revelation event.
+
+The BECOME constructions (*cheqakay*, *allinkay*, *allinyay*) encode a change of state (becoming true/good) but do not encode the disclosure or discovery of a pre-existing truth. On the basis of the data in P4a and P4b, REVELATION is a structural gap: no construction is documented that specifically encodes the event of a truth being revealed or discovered as distinct from the state of being true or the act of becoming true.
+
+### 2.2 CAUSATION (factual) vs. CAUSATION (character)
+
+The two causative pathways (*-ncha-* and *-chi-*) both map onto CAUSATION (factual): they encode the act of making something true, correcting an error, or causing someone to err or believe a falsehood. Neither pathway is described as specifically encoding character-level causation (i.e., the act of making someone into a liar or a truthful person as a stable trait).
+
+Character attribution is instead expressed through agentive nominalization: *llullaq* ("liar"), *llullakuq* ("habitual liar"), *cheqaqniyuq* ("one who possesses truthfulness"). The habitual nuance of *llullakuq* (reflexive *-ku* + agentive *-q*) is the closest attested form to a character-level description, but it is a nominal, not a causative construction. There is no attested construction of the form "to make someone into a liar" (as a character transformation) distinct from "to cause someone to lie" (as a single act). The two meanings are not formally distinguished in the data.
+
+### 2.3 VERIFICATION vs. DISCONFIRMATION
+
+VERIFICATION and DISCONFIRMATION do not share the same construction in Southern Quechua as documented in P4a/P4b.
+
+- VERIFICATION is expressed by the *-ncha-* causative (*cheqanchay*, *cheqachiy*) and its reflexive extension (*cheqanchakuy*).
+- DISCONFIRMATION is expressed by the *mana…-chu* negation frame (*Manan cheqachu*, *Mana cheqachu*) and by the corrective causative *chiqanchay* ("to correct a mistake").
+
+The corrective causative *chiqanchay* is functionally adjacent to DISCONFIRMATION in that it encodes the act of rectifying something that was wrong, but it is morphologically a CAUSATION construction, not a negation construction. The *mana…-chu* frame is the primary formal expression of DISCONFIRMATION.
+
+### 2.4 Asymmetries: Truth vs. Falsity
+
+Several systematic asymmetries between the *cheqa* (truth) and *llulla* (falsehood) paradigms are documented:
+
+- **BECOME:** *cheqakay* and *allinkay* are attested; no BECOME form for *llulla* is documented. P4a explicitly notes: "No inchoative form of *llulla* is attested as a common expression in the sources consulted."
+- **Abstract nominalization:** *cheqa kay*, *cheqan*, *cheqanta* are attested as abstract nominals for "truth." No parallel abstract nominal (*llulla kay* or equivalent) for "falsehood" as a standalone noun is attested. P4a states: "No parallel abstract nominal is attested for *llulla* in the sources consulted; the concept of 'falsehood' as an abstract noun is expressed through the bare adjective or through verbal nominalizations."
+- **Agentive nominalization:** *llullaq* and *llullakuq* function primarily as person-characterizations ("liar"). *Cheqaq* functions primarily as an adjective ("genuine, authentic") rather than as a person-characterization. This asymmetry is explicitly noted in P4a as present in the attested data.
+- **Adverbial construction:** The adverbial truth-assertion construction (*cheqaqta rimay*, *cheqaqtam yachani*) is documented for *cheqa* but P4a notes "no direct parallel in the *llulla* paradigm."
+- **Prohibitive moral injunction:** The *ama…-chu* prohibitive construction is attested exclusively with *llulla* and *llullakuy* among truth-domain items. No parallel prohibitive is documented for *cheqa*, *chiqan*, or *allin*.
+- **Reflexive/self-directed:** The *-ncha-ku-y* reflexive construction is attested for *cheqa*, *allin*, and *sut'i*; no reflexive self-directed form is documented for *llulla* in this pattern.
+
+### 2.5 Negation: Analytic vs. Morphological
+
+Negation in Southern Quechua as documented is **both analytic and morphological**, depending on syntactic environment:
+
+- In **predicative** contexts, negation is expressed by the discontinuous frame *mana…-chu*, where *mana* is a free negation particle and *-chu* is an obligatory suffix on the predicate. This is described as a morphological requirement: omission of *-chu* would be ungrammatical.
+- In **prenominal attributive** contexts, negation is expressed by *mana* alone preceding the adjective-noun sequence, without *-chu*. This is the analytic pattern.
+
+The two environments are structurally distinct and the choice between them is conditioned by syntactic position, not by the lexical content of the truth-domain item.
+
+### 2.6 Light Verbs and Periphrastic Constructions
+
+The following constructions use light verbs as semantic carriers:
+
+- *tukuy* ("to become") in the BECOME periphrasis (*Chiqan tukun*, *Cheqaq tukun*) — *tukuy* carries tense and person inflection; the truth-domain adjective is the semantic head. Rated [UNCERTAIN] due to limited specific attestation.
+- *tiyan* ("it is necessary / it exists") in the deontic periphrasis (*Cheqanta rimanayki tiyan*) — *tiyan* is the deontic carrier; the nominalized verb phrase carries the propositional content.
+- *atiy* ("to be able to") in the ability periphrasis (*Cheqachiyta atiy*) — *atiy* is the modal carrier; the infinitive of the truth-evaluation verb carries the propositional content.
+- *yachay* ("to know") in the propositional knowledge construction (*cheqa kasqanta yachani*) — *yachay* is the epistemic carrier; the nominalized predicate is the propositional argument.
+
+In all four cases, the truth-domain item is expressed in the nominalized or adjectival complement, and the light verb carries grammatical categories (tense, person, modality).
+
+---
+
+## 3. Missingness Summary
+
+### 3.1 Structural Gaps
+
+| Gap | Description |
+|---|---|
+| **REVELATION** | No construction specifically encoding the event of a truth being revealed or discovered (as distinct from BECOME or propositional knowledge) is documented in P4a or P4b. The past-copula form *cheqa kasqam* is the closest attested form but is described as a contextual variant of ATTR, not a distinct REVELATION construction. **MISSING (structural gap).** |
+
+### 3.2 Lexical Gaps
+
+| Gap | Description |
+|---|---|
+| **BECOME for *llulla*** | No inchoative form (*llullakay*, *llullayay*, or equivalent) is attested. P4a explicitly notes this absence. The gap is lexically specific to the *llulla* root; the BECOME construction itself is available on other roots. |
+| **Abstract nominal for 'falsehood'** | No abstract nominal equivalent to *cheqa kay* / *cheqan* is attested for *llulla*. The concept of "falsehood" as an abstract noun is expressed through the bare adjective or verbal nominalizations. P4a explicitly notes this absence. |
+| **Adverbial form for *llulla*** | The adverbial construction (*cheqaqta*, *cheqaqtam*) has no documented parallel in the *llulla* paradigm. P4a explicitly notes this. |
+
+### 3.3 Conceptual Gaps
+
+| Gap | Description |
+|---|---|
+| **CAUSATION (character) as unified construction** | No single construction simultaneously encodes both the causal act and the character attribution (i.e., "to make someone into a liar" as a stable trait transformation). The meaning is distributed across the causative verb (*llullachiy*) and the agentive nominal (*llullakuq*). This is not described as a blocked operation but as an absence of a unified form. |
+
+### 3.4 Asymmetric Gaps (only one polarity attested)
+
+| Gap | Description |
+|---|---|
+| **BECOME: truth-polarity only** | BECOME constructions are attested for *cheqa* and *allin* (truth/good polarity); none are attested for *llulla* (false polarity). |
+| **Abstract nominalization: truth-polarity only** | Abstract nominals (*cheqa kay*, *cheqan*) are attested for the truth polarity; no parallel form is attested for the false polarity. |
+| **Adverbial assertion: truth-polarity only** | The adverbial construction (*cheqaqta rimay*) is attested for the truth polarity; no parallel is documented for *llulla*. |
+| **Prohibitive moral injunction: false-polarity only** | The *ama…-chu* prohibitive is attested exclusively with *llulla* and *llullakuy*; no parallel prohibitive is documented for *cheqa*, *chiqan*, or *allin*. |
+| **Reflexive/self-directed (*-ncha-ku-y*): truth-polarity only** | Attested for *cheqa*, *allin*, *sut'i*; not documented for *llulla*. |
+| **Agentive nominalization as person-characterization: false-polarity primary** | *Llullaq* / *llullakuq* function primarily as person-characterizations ("liar"). *Cheqaq* functions primarily as an adjective ("genuine") rather than a person-characterization. The asymmetry is explicitly noted in P4a. |
+
+---
+
+## 4. Canonicalized Operator Inventory
+
+| CLCA Operator | Status | Notes |
+|---|---|---|
+| **ATTR** | **Fully available** | Predicate-adjectival + evidential *-m/-mi* (copula absent in present tense); prenominal adjective-noun juxtaposition. Attested across registers for *cheqa*, *llulla*, *chiqan*, *allin*, *sut'i*, *kikin*. |
+| **ADNOM** | **Fully available** | Prenominal uninflected adjective; participial (*-sqa*) prenominal modifier. Possessive nominalization (*cheqa kaynin*) is available but register-restricted ([MARGINAL]). |
+| **BECOME** | **Partially available** | Available for *cheqa* (*cheqakay*), *allin* (*allinkay*, *allinyay*), and *sumaq*. Not attested for *llulla*. *Tukuy* periphrasis is structurally available but [UNCERTAIN] for truth-domain items specifically. |
+| **REVELATION** | **Missing entirely** | No construction specifically encoding revelation of a truth-state is documented. The past-copula form *cheqa kasqam* is the closest attested form but is classified as a contextual variant of ATTR. |
+| **CAUSATION (factual)** | **Fully available** | Two morphological pathways: *-ncha-* on adjectival roots (*cheqanchay*, *chiqanchay*); *-chi-* on verbal/adjectival roots (*llullachiy*, *pantachiy*). Reflexive extension (*-ncha-ku-y*) also available. |
+| **CAUSATION (character)** | **Partially available** | The causative verb (*llullachiy*) covers the act of causing false belief; habitual character is expressed through agentive nominalization (*llullakuq*). No unified construction encoding both simultaneously is attested. |
+| **VERIFICATION** | **Fully available** | *cheqanchay* (externally directed); *cheqanchakuy* (self-directed). Propositional knowledge construction (*cheqa kasqanta yachani*) and ability periphrasis (*cheqachiyta atiy*) are functionally adjacent. |
+| **DISCONFIRMATION** | **Fully available** | *mana…-chu* negation frame (primary); corrective causative *chiqanchay* (functionally adjacent). VERIFICATION and DISCONFIRMATION use formally distinct constructions. |
+| **NEGATION** | **Fully available** | Morphological (*mana…-chu* discontinuous frame) in predicative contexts; analytic (*mana* alone) in prenominal attributive contexts. Both environments are fully documented. |
+| **NOMINALIZATION** | **Fully available (with lexical gap)** | Multiple strategies: adjective + *kay*; possessed form *cheqan* + case; bare root; *-sqa* + possessive + case; bare infinitive; accusative verbal nominalization (*cheqakayta*). No abstract nominal for 'falsehood' (*llulla*) is attested; that specific lexical slot is a gap within an otherwise available construction type. |
+
+---
+
+*End of I1 Construction Equivalence & Missingness Analysis — Quechua (qu)*

@@ -1,0 +1,656 @@
+# G9 — GLOBAL CONVERGENCE REPORT
+
+## 1. SCOPE AND DATA
+
+### 1.1 Languages Analyzed
+
+This report synthesizes cross-linguistic analysis of truth-related vocabulary and constructions across eight languages representing diverse typological profiles and genealogical affiliations:
+
+- **zh (Mandarin Chinese)**: Sino-Tibetan; isolating morphology
+- **he (Hebrew)**: Semitic; root-and-pattern morphology
+- **sa (Sanskrit)**: Indo-European; fusional morphology; classical/literary language
+- **el (Greek)**: Indo-European; fusional morphology
+- **en (English)**: Indo-European (Germanic-Romance hybrid); mixed morphology
+- **tl (Tagalog)**: Austronesian; agglutinative morphology
+- **sw (Swahili)**: Niger-Congo (Bantu); agglutinative morphology with extensive Arabic loans
+- **qu (Quechua)**: Quechuan; agglutinative morphology with obligatory evidentials
+
+### 1.2 Analytical Components
+
+The analysis proceeded through two phases:
+
+**F-Phase (Language-Specific Analysis)**:
+- **F1**: Core vocabulary inventory (truth, falsehood, correctness, genuineness, etc.)
+- **F2a**: Derivational patterns (abstract nouns, causatives, agentives, adverbials)
+- **F2b**: Multi-word constructions and collocations
+- **F3**: Semantic groupings within each language
+- **F4**: Systematic construction types (attribution, negation, modification, causation, etc.)
+- **F5**: Opposition structures (lexical, morphological, constructional)
+- **F6**: Naturalness ratings for targeted construction types (inchoatives, causatives, maintenance, etc.)
+
+**G-Phase (Cross-Language Synthesis)**:
+- **G1**: Summary of semantic organization patterns
+- **G2**: Lexical partition comparison (how languages divide the semantic space)
+- **G3**: Emergent semantic dimensions across languages
+- **G4**: Derivational and morphological strategy comparison
+- **G5**: Construction type comparison
+- **G6**: Opposition and asymmetry comparison
+- **G7a**: Data-derived constraint matrix (dimensions × functions)
+- **G7b**: Comparison with theoretical model (AOML)
+- **G8**: Candidate universals, outliers, and open questions
+
+### 1.3 Data Completeness
+
+All eight languages received full F1–F6 analysis. Variation in data richness reflects:
+
+- **Register differences**: Sanskrit data emphasizes philosophical/classical registers; other languages include more colloquial material
+- **Lexical density**: Chinese shows extensive compounding; Hebrew shows rich root-based derivation; Greek shows productive pseudo-X formations
+- **Construction testing**: F6 naturalness ratings focused on inchoatives, causatives, and maintenance constructions; other construction types inferred from F4 productivity patterns
+- **Historical depth**: Sanskrit represents classical stage; others represent contemporary spoken varieties
+
+No systematic gaps prevent cross-language comparison, though some language-specific elaborations (Sanskrit epistemological vocabulary, Greek technical extensions) lack direct parallels.
+
+---
+
+## 2. CORE CROSS-LANGUAGE FINDINGS
+
+### 2.1 Semantic Organization and Partitioning
+
+#### Major Lexical Distinctions
+
+Languages show recurring but not universal tendencies to partition the truth-domain through dedicated lexemes:
+
+**Propositional Truth vs. Material Authenticity** (6/8 languages):
+- **Chinese**: 实 (shí) for factual correspondence vs. 真 (zhēn) for material genuineness
+- **Greek**: αλήθεια (alítheia) for propositional truth vs. γνήσιος (gnísios)/αυθεντικός (afthentikós) for material authenticity
+- **English**: *true* (primarily propositional) vs. *genuine*/*authentic* (primarily material)
+- **Tagalog**: *totoo* (factual truth) vs. *tunay* (genuineness/authenticity)
+- **Swahili**: *kweli*/*ukweli* (truth of statements) vs. *halisi* (genuineness of objects)
+- **Hebrew**: אמת (*emet*, truth) vs. אמיתי (*amiti*, genuine) — though derived from same root
+
+**Exceptions**: Sanskrit सत्य (*satya*) and Quechua *chiqan* cover both domains without clear internal lexical distinction, suggesting this partition can be handled constructionally rather than requiring separate lexemes.
+
+**Simple Correctness vs. Precision/Accuracy** (5/8 languages):
+- **Chinese**: 对/错 (*duì*/*cuò*) for binary correctness vs. 准确 (*zhǔnquè*) for precision
+- **Hebrew**: נכון (*nakhon*) for correctness vs. מדויק (*meduyak*) for precision
+- **Greek**: σωστός (*sostós*) for correctness vs. ακριβής (*akrivís*) for exactness
+- **English**: *correct*/*right* vs. *accurate*/*precise*
+- **Swahili**: *sahihi* (correct) vs. *madhubuti* (precise/reliable)
+
+This distinction appears more elaborated in languages with strong scientific/technical registers.
+
+**Honesty/Sincerity (Character) vs. Factual Accuracy** (6/8 languages):
+- **Chinese**: 诚实 (*chéngshí*, honest person) vs. 真实 (*zhēnshí*, true statement)
+- **Hebrew**: כנה (*kene*, sincere) vs. אמת (*emet*, truth)
+- **Greek**: ειλικρινής (*eilikrinís*, sincere) vs. αλήθεια (*alítheia*, truth)
+- **English**: *honest*/*truthful* (persons) vs. *true* (statements)
+- **Tagalog**: *tapat* (sincere, honest) vs. *totoo* (factually true)
+- **Swahili**: *halisi* or borrowed *sinsero* vs. *kweli*
+
+**Exceptions**: Sanskrit and Quechua use compounds (*satyavādin* "truth-speaker", *chiqan runa* "truthful person") rather than dedicated sincerity lexemes.
+
+**Deception/Lying vs. Simple Error/Mistake** (8/8 languages):
+Universal distinction maintained across all languages, separating intentional falsehood (morally condemned) from unintentional error (morally neutral or less condemned).
+
+#### Semantic Mergers and Conflations
+
+**Truth-Justice Conflation** (2/8 languages):
+- **Hebrew**: צדק (*tsedek*) covers both "being right/correct" and "justice/righteousness"
+- **Swahili**: *haki* (from Arabic *ḥaqq*) covers "truth/correctness" and "rights/justice"
+
+Other languages maintain clearer separation (Chinese 正确 vs. 正义, Greek αλήθεια vs. δικαιοσύνη, English *true* vs. *just*).
+
+**Single Root Spanning Multiple Domains** (Hebrew):
+The root א-מ-נ (*ʾ-m-n*) uniquely covers truth (אמת *emet*), reliability (אמין *amin*), faithfulness (נאמן *ne'eman*), and belief (אמונה *emuna*) — a major semantic merger not paralleled in other languages.
+
+### 2.2 Derivational Patterns
+
+#### Universal or Near-Universal Patterns
+
+**Abstract Nominalization** (8/8 languages):
+All languages show productive derivation of abstract quality nouns, though strategies vary:
+- Suffixation: Chinese -性, Hebrew -וּת, Sanskrit -त्व/-ता, Greek -ότητα/-ία, English -*ness*/-*ity*
+- Circumfixation: Tagalog *ka-...-an*, Swahili *u-...-a*
+- Periphrasis: Quechua nominalized copula
+
+No restrictions observed on which truth-domain terms can nominalize. Essential for formal and philosophical discourse.
+
+**Adverbial Derivation** (8/8 languages):
+All languages productively create manner adverbs, though strategies vary:
+- Suffixation: Chinese -地, Greek -ά/-ως, English -*ly*
+- Prepositional phrases: Hebrew ב-, Greek σε/κατά, Tagalog *sa*, Swahili *kwa*
+- Case marking: Sanskrit ablative -तः, Quechua ablative -*manta*
+
+Many adverbial forms grammaticalize into discourse markers (Hebrew באמת, Greek αλήθεια, English *really*, Tagalog *totoo lang*).
+
+**Morphological Negation** (8/8 languages):
+All languages show highly productive negation through prefixes or proclitics:
+- Prefixal: Sanskrit अ-/अन-, Greek α-, English *un-*/*in-*/*dis-*
+- Proclitic: Chinese 不, Hebrew לא, Tagalog *hindi*/*di-*, Swahili *mana*, Quechua *mana*
+
+Creates systematic oppositions (true/untrue, correct/incorrect) and coexists with lexical antonyms.
+
+**Causative Verification** (6/8 languages):
+Six languages show dedicated causative morphology for "make true/verify/confirm":
+- Affixal: Hebrew *hif'il*, Greek -ώνω, Tagalog *pa-*, Swahili -*isha*, Quechua -*cha-*
+- Alternative: Chinese resultative compounds (证实, 落实)
+- Separate roots: English *verify*/*prove* (from Latin), Sanskrit uses separate roots
+
+Extremely common in legal, administrative, and investigative contexts.
+
+#### Systematic Asymmetries in Derivation
+
+**Agentive Nominalization Asymmetry**:
+- **Negative agents** (liar, deceiver): Productive in all 8 languages
+- **Positive agents** (truth-teller): Blocked or uses circumlocution in 6/8 languages
+
+Only Sanskrit (सत्यवादिन् *satyavādin*) and Quechua (*chiqan rimaq*) show productive formation for both poles. Other languages use:
+- Circumlocution: Chinese 说真话的人 "person who speaks truth"
+- Participial phrases: Hebrew דובר אמת "speaker of truth"
+- Possessive constructions: Swahili *mwenye ukweli* "one having truth"
+- Marginal compounds: English *truth-teller*
+
+This represents the strongest universal blocking pattern in the data.
+
+**Causative Directionality**:
+- **Verification** (make true/verify): Productive in 6/8 languages
+- **Falsification** (make false): Blocked or uses different strategies in 8/8 languages
+
+Languages describe falsification through:
+- Deception verbs (deceive, mislead)
+- Corruption verbs (corrupt, pervert, distort)
+- Forgery verbs (forge, counterfeit)
+
+Rather than direct causatives from false/lie roots.
+
+### 2.3 Constructional Patterns
+
+#### Universal Constructions
+
+**Basic Predication** (8/8 languages):
+All languages allow copular or stative attribution of truth-domain properties. Formal realization varies (zero copula in Hebrew/Greek/Sanskrit present tense; obligatory copula in Chinese/English/Tagalog/Swahili/Quechua), but function is universal.
+
+**Light Verb Constructions** (8/8 languages):
+Highly conventionalized verb-object combinations for "tell the truth" and "tell lies" appear across all languages despite structural variation:
+- Chinese 说实话/说谎
+- Hebrew לומר את האמת/לספר שקרים
+- Sanskrit सत्यं वद/असत्यं वदति
+- Greek λέω την αλήθεια/λέω ψέματα
+- English *tell the truth*/*tell lies*
+- Tagalog *magsabi ng totoo*/*magsinungaling*
+- Swahili *sema ukweli*/*sema uongo*
+- Quechua *chiqanta rimay*/*llullata rimay*
+
+Pattern extends to "make mistake/error" in 7/8 languages.
+
+**Comparative Constructions** (8/8 languages):
+All languages use analytic comparison (*more*/*most* + adjective). No synthetic comparative or superlative forms attested for truth-domain terms, even in languages that have synthetic comparison for other adjectives (English *good*/*better*/*best* but *true*/*more true*/*most true*).
+
+#### Recurrent Constructional Asymmetries
+
+**Revelation vs. Simple Inchoative**:
+Six languages show preference for metaphorical revelation constructions (truth emerging, coming to light) over simple inchoative "become true":
+- Chinese 真相大白 "truth becomes bright"
+- Hebrew האמת תצא לאור "truth will come to light"
+- Greek βγαίνει η αλήθεια στη φόρα "truth comes to surface"
+- English "the truth will out"
+- Tagalog *lumabas ang katotohanan*
+- Swahili *ukweli unadhihirika*
+
+Simple "become true" constructions are marginal or blocked in 7/8 languages. This suggests truth is conceptualized as pre-existing and revealed rather than coming into being.
+
+**Revelation Intransitive, Concealment Transitive**:
+In 6/8 languages, truth revelation constructions are intransitive or passive (truth emerges on its own); truth concealment constructions are transitive and agentive (someone hides truth). This reflects conceptual asymmetry: truth has inherent tendency to emerge; concealment requires active suppression.
+
+**Positive vs. Negative Emergence**:
+Positive state emergence (become good, become complete) is productive where tested; negative state emergence (become false, become wrong) is blocked or highly restricted in 7/8 languages. Important qualification: this applies to autonomous state emergence, not action performance — "make mistakes" is productive across languages.
+
+### 2.4 Opposition Structures
+
+#### Universal Opposition Types
+
+**Core Lexical Oppositions**:
+All languages show dedicated lexical pairs for fundamental contrasts:
+- Truth vs. falsehood (Chinese 真/假, Hebrew אמת/שקר, Sanskrit सत्य/मिथ्या, Greek αλήθεια/ψέμα, English *true*/*false*, Tagalog *totoo*/*kasinungalingan*, Swahili *kweli*/*uongo*, Quechua *chiqan*/*llulla*)
+- Correctness vs. error (varying strategies: lexical pairs in 5/8 languages; morphological negation in 3/8)
+- Genuineness vs. fakeness (lexically distinct in 6/8 languages)
+
+**Morphological Negation**:
+All languages show productive negation creating systematic oppositions (true/not-true, correct/incorrect, honest/dishonest). Both analytic (not + adjective) and synthetic (un-/in- + adjective) strategies coexist in most languages.
+
+**Constructional Oppositions**:
+Parallel constructions with contrasting terms appear universally:
+- Adnominal modification: "true X" vs. "false X" (fully productive in all languages)
+- Speech acts: "tell truth" vs. "tell lies" (conventionalized in all languages)
+- Disjunctive presentations: "true or false" (fixed expressions in all languages)
+
+#### Asymmetric Oppositions
+
+**Singular Truth vs. Plural Lies**:
+In several languages (Hebrew, Greek, English, Tagalog), "truth" appears singular while "lies" appears plural in conventionalized constructions. May reflect conceptualization of truth as unified correspondence vs. lies as multiple possible deviations.
+
+**Revelation vs. Concealment Valency**:
+Truth revelation typically intransitive; truth concealment typically transitive (6/8 languages). Suggests truth conceptualized as having inherent tendency to surface; concealment requires active agent.
+
+---
+
+## 3. GLOBAL CONSTRAINT SUMMARY
+
+### 3.1 Strongly Supported Constraints
+
+The following constraints show consistent patterns across all or nearly all languages:
+
+#### Universal Allowances
+
+**Basic Constructional Functions** (8/8 languages):
+- **Predication**: All dimensions allow basic copular attribution ("X is true/correct/genuine")
+- **Negation**: All dimensions allow morphological or analytic negation ("X is not true/incorrect")
+- **Adnominal modification**: All dimensions allow noun modification ("true story", "false witness")
+- **Abstract nominalization**: All dimensions allow quality noun derivation ("truth", "honesty", "accuracy")
+- **Adverbial derivation**: All dimensions allow manner adverb formation ("truly", "honestly", "accurately")
+- **Comparison**: All dimensions allow analytic comparative/superlative ("more true", "most accurate")
+
+These represent the minimal constructional toolkit for truth-domain evaluation. No language can express truth-domain meanings without them.
+
+#### Universal or Near-Universal Blockings
+
+**Positive Agentive Nominalization** (blocked in 6/8 languages):
+Dedicated agent nouns for "truth-teller" or "honest person" are blocked or require circumlocution in most languages. Only Sanskrit and Quechua show productive morphological formation. Other languages use:
+- Participial phrases (Hebrew דובר אמת "speaker of truth")
+- Possessive constructions (Swahili *mwenye ukweli* "one having truth")
+- Circumlocution (Chinese 说真话的人 "person who speaks truth")
+- Marginal compounds (English *truth-teller*)
+
+**Contrast**: Negative agentives (liar, deceiver) are productive in all 8 languages.
+
+**Causative Falsification** (blocked in 8/8 languages):
+No language shows productive causative meaning "make false" derived from false/lie roots. Languages instead describe falsification through:
+- Deception verbs (deceive, mislead, trick)
+- Corruption verbs (corrupt, pervert, distort)
+- Forgery verbs (forge, counterfeit, falsify — often from different roots)
+
+**Contrast**: Causative verification (make true/verify/confirm) is productive in 6/8 languages.
+
+**Objects Becoming Genuine** (blocked in 7/8 languages):
+Constructions for objects spontaneously "becoming genuine" are absent or highly marginal. Authenticity is established through verification (was proven genuine, turned out to be authentic), not through spontaneous change. Reflects conceptualization of authenticity as inherent property that is discovered, not achieved.
+
+**Simple Inchoative "Become True"** (restricted in 7/8 languages):
+Direct inchoative constructions for "become true" are marginal or blocked. Languages prefer:
+- Revelation metaphors (truth emerging, coming to light)
+- Evidential constructions (proved true, turned out to be true)
+- Realization of predictions (dreams came true — lexically restricted in English)
+
+Only Sanskrit shows unrestricted inchoative use. This suggests truth is conceptualized as pre-existing and revealed rather than coming into being.
+
+### 3.2 Moderately Supported Patterns
+
+The following patterns show consistent tendencies but with notable variation:
+
+#### Directional Asymmetries
+
+**Verification vs. Falsification**:
+- Verification causatives productive in 6/8 languages
+- Falsification causatives blocked in 8/8 languages
+- Strength varies: some languages show marginal falsification constructions; most show complete absence
+
+**Positive vs. Negative Emergence**:
+- Positive state emergence (become good, become complete) productive where tested
+- Negative state emergence (become false, become wrong) blocked in 7/8 languages
+- Important qualification: applies to autonomous state emergence, not action performance ("make mistakes" is productive)
+
+**Revelation vs. Concealment Valency**:
+- Truth revelation intransitive/passive in 6/8 languages
+- Truth concealment transitive/agentive in 6/8 languages
+- Less prominent in Sanskrit and Quechua
+
+#### Lexical Elaboration Asymmetries
+
+**Deception vs. Honesty Vocabulary**:
+Multiple languages show richer vocabulary for deception, lying, and trickery than for honesty and truth-telling. Observed in Chinese, Greek, Tagalog, English. Reflects cognitive salience of threats and social need to identify dishonesty.
+
+**Error vs. Correctness Vocabulary**:
+Several languages show elaborate error vocabulary but less elaborate correctness vocabulary beyond basic terms. Reflects cognitive bias toward marking deviations from norms.
+
+### 3.3 Weak or Uncertain Areas
+
+#### Dimensions with Variable Cross-Language Support
+
+**Precision/Accuracy as Separate Dimension**:
+Clearly lexicalized in 5/8 languages; less clear in 3/8. Theoretical ambiguity: is precision a separate dimension or degree modification of truth (DEG[VER])? Both models are defensible.
+
+**Validity/Legitimacy as Separate Dimension**:
+Lexicalized in 4/8 languages (Hebrew, Greek, English, Swahili) in legal/administrative contexts. Other languages show less clear distinction from general correctness.
+
+**Reliability/Dependability**:
+Lexicalized in 4/8 languages; conflated with accuracy or sincerity in others. May represent temporal consistency (TEMP[SINC] or TEMP[VER]) rather than separate dimension.
+
+**Completeness/Wholeness**:
+Lexicalized in 5/8 languages; applied to truth in constructions like "whole truth" vs. "half-truth." Unclear whether this is truth-domain-specific dimension or general property applicable across domains.
+
+**Clarity/Obviousness**:
+Lexicalized in 5/8 languages. Concerns epistemic accessibility (how easily truth is perceived) rather than truth-value itself. May be degree of epistemic accessibility (DEG[VER]) rather than separate dimension.
+
+#### Language-Specific Elaborations
+
+**Sanskrit Philosophical Vocabulary**:
+- Two-truths doctrine (व्यवहार/परमार्थ conventional/ultimate truth) — unique systematic lexicalization
+- Epistemological validity framework (प्रमाण-*śāstra* with six *pramāṇas*) — unique systematic elaboration
+- Not attested as universal dimensions in other languages
+
+**Chinese Substantiality Dimension**:
+实/虚 (*shí*/*xū*) opposition (substantial/concrete vs. empty/hollow) extensively elaborated in Chinese. Quechua shows some parallel (*hunt'a*/*ch'usaq* full/empty) but other languages lack systematic equivalent.
+
+**Greek Pseudo-X Compounding**:
+Extremely productive ψευδ- (*pseud-*) compounding for critical/polemical terms (ψευδοεπιστήμη "pseudoscience", ψευδοδημοκρατία "pseudo-democracy"). English borrows pattern but less productive; other languages lack equivalent.
+
+### 3.4 Context-Dependent Constraints
+
+**Register Effects**:
+Some dimensions appear primarily in specific registers:
+- Philosophical: Sanskrit two-truths doctrine, essence vocabulary
+- Technical/scientific: Precision/accuracy distinctions more elaborated
+- Legal/administrative: Validity/legitimacy distinctions more elaborated
+- Aesthetic: Lifelikeness/verisimilitude vocabulary marginal in everyday speech
+
+**Polarity Conditioning**:
+Many constraints show polarity asymmetries:
+- Negative pole more productive than positive in agentive nominalization
+- Positive emergence more natural than negative emergence
+- Verification more productive than falsification
+
+**Target Type Conditioning**:
+Some constraints appear to depend on what is being evaluated:
+- Dispositional targets (character traits) resist external causation
+- Ontological targets (material authenticity) resist positive causation but allow negative
+- Propositional targets allow verification but block simple inchoative
+
+---
+
+## 4. CANDIDATE UNIVERSALS AND OUTLIERS
+
+### 4.1 Strong Candidate Universals (HIGH Confidence)
+
+Based on attestation in all or nearly all languages without exceptions:
+
+**Constructional Universals**:
+1. Basic predication universally licensed (8/8 languages)
+2. Morphological negation universally productive (8/8 languages)
+3. Abstract nominalization universally productive (8/8 languages)
+4. Adnominal modification universally productive (8/8 languages)
+5. "Speak truth/lies" constructions universally conventionalized (8/8 languages)
+6. Analytic comparison only; no synthetic forms (8/8 languages)
+
+**Semantic Universals**:
+1. Core truth-falsehood opposition universally lexicalized (8/8 languages)
+2. Deception vs. error universally distinguished (8/8 languages)
+3. Evidence/proof vs. truth/claim universally distinguished (8/8 languages)
+
+**Asymmetry Universals**:
+1. Negative agentive productive, positive agentive blocked (6/8 languages; exceptions: Sanskrit, Quechua)
+2. Causative verification productive, causative falsification blocked (verification 6/8; falsification blocked 8/8)
+3. Positive emergence natural, negative emergence blocked (7/8 languages; applies to states, not actions)
+
+### 4.2 Strong Tendencies (MEDIUM-HIGH Confidence)
+
+Patterns showing consistent cross-language support but with notable exceptions:
+
+1. **Propositional truth vs. material authenticity distinction** (6/8 languages; exceptions: Sanskrit, Quechua)
+2. **Honesty/sincerity vs. factual accuracy distinction** (6/8 languages; exceptions: Sanskrit, Quechua use compounds)
+3. **Revelation intransitive, concealment transitive** (6/8 languages; less prominent in Sanskrit, Quechua)
+4. **Inchoative "become true" restricted, revelation preferred** (7/8 languages; Sanskrit more flexible)
+5. **Discourse marker grammaticalization** (7/8 living languages; not classical Sanskrit)
+6. **Deception vocabulary more elaborate than honesty vocabulary** (observed in 4/8 languages; likely present in others)
+
+### 4.3 Major Outliers
+
+#### Language-Level Outliers
+
+**Sanskrit — Philosophical Elaboration**:
+- Two-truths doctrine vocabulary (व्यवहार/परमार्थ) with dedicated adverbials — **unique**
+- Epistemological validity framework (प्रमाण-*śāstra*) — **unique systematic elaboration**
+- Dual number for binary oppositions — shared with Hebrew but more systematic
+- Ablative standpoint marking (-तः) — **unique systematic use**
+
+Reflects Sanskrit's role as classical philosophical metalanguage. Represents cultural/historical elaboration rather than universal semantic structure.
+
+**Quechua — Evidential Integration**:
+- Obligatory grammatical evidentials (-*mi*/-*si*/-*cha*) integrated with truth vocabulary
+- *chiqapmi* "it is truly so (I know directly)" vs. *chiqapsi* "it is reportedly true"
+- **Typologically rare feature**; no other sampled language shows grammatical evidentials
+
+Represents Quechuan family typology, not universal pattern.
+
+**Greek — Pseudo-X Productivity**:
+- Extremely productive ψευδ- compounding for critical terms (ψευδοεπιστήμη "pseudoscience", ψευδοδημοκρατία "pseudo-democracy")
+- English borrows pattern but less productive
+- Other languages lack equivalent systematic pattern
+
+Reflects Greek's role in academic/intellectual discourse.
+
+**Chinese — Resultative Verb Compounds**:
+- Preferred strategy for causative verification/correction (改正, 证实, 落实)
+- Other languages use affixal causatives or periphrastic constructions
+- Represents characteristic Chinese morphological strategy (isolating language with compounding)
+
+Typologically distinct but functionally equivalent to other languages' causative strategies.
+
+#### Construction-Level Outliers
+
+**English "Come True" Restriction**:
+Fixed expression for realization of predictions (*His dreams came true*) but blocks *come false and marks *become true as awkward. Likely lexical fossilization rather than deep structural principle.
+
+**Tagalog "Tama Na" Semantic Shift**:
+*tama* "correct" → *tama na* "enough, stop" represents language-specific grammaticalization pathway from correctness to cessation domain.
+
+**Hebrew Binyan Alternations**:
+Semitic root-and-pattern morphology creates systematic voice alternations not paralleled in other languages. Functionally equivalent to affixation but formally distinct.
+
+#### Dimension-Specific Outliers
+
+**Chinese Substantiality Dimension**:
+实/虚 (*shí*/*xū*) opposition extensively elaborated with fixed expressions (华而不实 "flashy but lacking substance", 脚踏实地 "down-to-earth"). Quechua shows some parallel (*hunt'a*/*ch'usaq*) but other languages lack systematic equivalent.
+
+**Hebrew Truth-Justice Conflation**:
+צדק (*tsedek*) covers both factual correctness and moral righteousness. Swahili *haki* shows similar pattern (possibly through Arabic influence). Other languages maintain clearer separation.
+
+**Greek Technical Extensions**:
+ορθ- (*orth-*) root extends into medical (ορθοπεδική "orthopedics"), linguistic (ορθογραφία "orthography"), geometric (ορθογώνιος "right-angled"), and philosophical (ορθολογισμός "rationalism") domains. Chinese shows some parallel but less systematic.
+
+---
+
+## 5. LIMITATIONS AND FUTURE WORK
+
+### 5.1 Data Gaps
+
+#### Language Coverage
+
+**Sample size**: Eight languages provide strong evidence for recurrent patterns but may be insufficient for absolute universal claims. Patterns showing 8/8 attestation are strongest candidates; patterns showing 4-6/8 attestation are strong tendencies requiring expanded coverage.
+
+**Typological gaps**: Current sample lacks:
+- Polysynthetic languages
+- Tone languages (beyond Chinese)
+- Sign languages
+- Creoles and pidgins
+- Additional isolating languages
+- Additional languages with grammatical evidentials
+
+**Genealogical gaps**: Heavy Indo-European representation (4/8 languages: Sanskrit, Greek, English, Hebrew if including Semitic). Would benefit from:
+- Additional Niger-Congo languages beyond Swahili
+- Additional Austronesian languages beyond Tagalog
+- Additional Sino-Tibetan languages beyond Chinese
+- Dravidian, Uralic, Turkic, Austroasiatic, etc.
+
+#### Construction Coverage
+
+**F6 naturalness testing** focused on:
+- Inchoative constructions (become true/false)
+- Causative constructions (make true/verify, make false/falsify)
+- Maintenance constructions (keep/preserve truth)
+- Discovery/revelation constructions
+
+**Not systematically tested**:
+- Agentive nominalization (inferred from F1/F2 but not directly tested in F6)
+- Temporal constructions (was true, will be true, has always been true)
+- Conditional constructions (if true, when true)
+- Evidential framing beyond Quechua
+- Fallacy-inducing constructions (meta-axis substitution, level-crossing)
+
+#### Domain Coverage
+
+**Underrepresented domains**:
+- Aesthetic/representational truth (lifelikeness, verisimilitude) — marginal in everyday data
+- Philosophical/technical registers — Sanskrit well-represented; others less so
+- Legal/administrative registers — some coverage but could be expanded
+- Religious/spiritual truth — limited systematic coverage
+
+**Missing dimensions**:
+- Temporal aspects of truth (eternal vs. contingent truth)
+- Subjective vs. objective truth (some evidence in Sanskrit *ukweli wa ndani*/*wa nje* but not systematic)
+- Degrees of certainty beyond basic certain/doubtful
+- Source or authority of truth claims
+
+### 5.2 Methodological Limitations
+
+#### Inference from Limited Construction Types
+
+Many constraint matrix cells rely on inference from F4 productivity patterns rather than direct F6 naturalness testing. Cells marked VARIABLE may include:
+- Genuine cross-language variation
+- Data gaps (construction not tested)
+- Register-specific patterns (not captured in everyday data)
+
+#### Register Stratification
+
+Current data may under-represent:
+- Philosophical registers (where ESS and LIFE dimensions may be prominent)
+- Technical/scientific registers (where precision distinctions are elaborated)
+- Legal/formal registers (where validity distinctions are systematic)
+- Colloquial/informal registers (where discourse markers are most active)
+
+#### Diachronic Dimension
+
+Current analysis is synchronic. Missing:
+- Historical development of truth-domain vocabulary
+- Grammaticalization pathways (e.g., how discourse markers emerge)
+- Semantic change patterns (e.g., Tagalog *tama na* shift)
+- Borrowing and contact effects (e.g., Arabic influence on Swahili)
+
+#### Fallacy Analysis Absent
+
+AOML predictions about meta-axis substitution (Rule R5) and level-crossing (UFA Type 4) cannot be directly tested without analyzing actual arguments and fallacies. Current data shows lexicalization patterns consistent with these rules but doesn't test inferential behavior.
+
+### 5.3 Recommended Next Steps
+
+#### Immediate Priorities (High Impact, Feasible)
+
+**1. Expand F6 Naturalness Testing**:
+- Systematically test agentive nominalization (currently inferred from F1/F2)
+- Test temporal constructions (was true, will be true, eternal truth)
+- Test conditional constructions more systematically
+- Test maintenance/preservation constructions across more dimensions
+
+**2. Reconcile Sample Overlap**:
+- Determine which languages appear in both AOML (16 languages) and current empirical (8 languages) samples
+- Investigate discrepancies (e.g., Rule R1 universal blocking vs. empirical variable restriction)
+- Clarify whether differences reflect sample variation or genuine theoretical issues
+
+**3. Register-Stratified Sampling**:
+- Collect philosophical/technical register data to test ESS and LIFE dimensions
+- Collect legal/administrative data to test validity/legitimacy systematically
+- Collect aesthetic/literary data to test verisimilitude vocabulary
+- Compare everyday vs. specialized register patterns
+
+**4. Clarify Theoretical Ambiguities**:
+- Distinguish verification (establish pre-existing) from creation (manufacture de novo) in authenticity causation
+- Distinguish direct instant causation from indirect long-term cultivation in dispositional causation
+- Specify whether Rule R4 (emergence bias) applies to states only or also to actions
+- Clarify whether VERIF is axis (claim-type) or operator (process)
+
+#### Medium-Term Goals (Require Expanded Data)
+
+**5. Expand Language Coverage**:
+- Add 8-12 additional languages targeting typological and genealogical gaps
+- Prioritize: polysynthetic language, additional evidential language, additional tone language, creole, sign language
+- Test whether patterns showing 6/8 attestation extend to broader sample
+
+**6. Fallacy Analysis**:
+- Collect actual arguments and analyze truth-domain fallacies
+- Test Rule R5 (meta-axis substitution): does "very precise" illegitimately substitute for "true"?
+- Test level-crossing predictions (TEMP, DEG)
+- Examine whether precision violations constitute distinct fallacy types
+
+**7. Temporal Construction Analysis**:
+- Systematically test TEMP meta-axis predictions
+- Examine whether past/present/future truth-claims require different validation
+- Test whether level-crossing creates fallacies ("was true then" → "is true now")
+- Analyze temporal stability vocabulary (eternal truth, contingent truth)
+
+**8. Diachronic Investigation**:
+- Trace historical development of truth-domain vocabulary in well-documented languages
+- Analyze grammaticalization pathways (discourse markers, causatives, evidentials)
+- Examine semantic change patterns and their constraints
+- Investigate borrowing and contact effects
+
+#### Long-Term Goals (Require Theoretical Development)
+
+**9. Refine Constraint Formulations**:
+- Revise Rule R1 based on empirical evidence (universal block vs. severe restriction with indirect pathways)
+- Strengthen causative falsification constraint (blocked, not just restricted)
+- Add action vs. state distinction to Rule R4
+- Clarify verification vs. creation in Rule R3
+
+**10. Extend Operator Set**:
+- Add AGENT operator with polarity-conditioned licensing (negative productive, positive blocked)
+- Consider adding MANNER operator for adverbial derivation (universally productive)
+- Consider modeling light verb constructions (universally conventionalized)
+- Evaluate whether discourse marker grammaticalization should be modeled
+
+**11. Investigate Unmodeled Dimensions**:
+- Determine whether substantiality (D8) is universal or cultural elaboration
+- Determine whether completeness (D11) is truth-domain-specific or general property
+- Determine whether clarity (D12) is separate dimension or epistemic accessibility degree
+- Investigate certainty/confidence (D13) as epistemic stance vs. semantic dimension
+
+**12. Cross-Architectural Validation**:
+- Compare truth-domain constraints with other semantic domains (color, kinship, emotion, etc.)
+- Test whether asymmetries (agentive, causative, emergence) extend beyond truth-domain
+- Examine whether target-type ontology (FACTUAL, EPISTEMIC, DISPOSITIONAL) applies cross-domain
+- Investigate whether meta-axis structure (DEG, TEMP) shows similar constraints in other domains
+
+---
+
+## 6. CONCLUSION
+
+This cross-linguistic investigation reveals both striking convergences and principled divergences in how languages organize truth-related meaning.
+
+**Core convergences** include:
+- Universal availability of basic constructional functions (predication, negation, modification, nominalization)
+- Universal lexicalization of fundamental oppositions (truth/falsehood, deception/error)
+- Universal distinction between evidential support and propositional content
+- Systematic asymmetries in derivational productivity (negative agents vs. positive agents, verification vs. falsification)
+- Recurrent conceptual metaphors (truth as hidden object that emerges)
+
+**Principled divergences** include:
+- Language-specific philosophical elaborations (Sanskrit two-truths doctrine, epistemological framework)
+- Typological variations in morphological realization (affixation vs. compounding vs. root-and-pattern)
+- Cultural emphases (Chinese substantiality, Greek critical vocabulary)
+- Register-specific dimensions (philosophical essence, aesthetic verisimilitude)
+
+The data supports a model in which:
+1. **Core semantic dimensions** (propositional truth, material authenticity, deception, error) are universally relevant
+2. **Basic constructional functions** (predication, negation, modification) are universally available
+3. **Systematic asymmetries** (agentive, causative, emergence) reflect universal cognitive or conceptual biases
+4. **Elaborations and extensions** vary by cultural emphasis, historical development, and register specialization
+
+The constraint matrix derived from this data provides a foundation for:
+- Predicting which constructions are natural vs. marked in unstudied languages
+- Identifying language-specific innovations against universal background
+- Understanding why certain derivational pathways are blocked while others are productive
+- Explaining systematic asymmetries in truth-domain vocabulary across languages
+
+However, several important questions remain open, particularly regarding:
+- The strength of dispositional causation blocking (universal vs. severe restriction)
+- The status of precision, reliability, and completeness (separate dimensions vs. modifications)
+- The universality of dimensions showing 4-6/8 attestation
+- The role of register and domain in conditioning constraints
+
+Addressing these questions will require expanded language coverage, register-stratified sampling, systematic testing of underexplored construction types, and integration with fallacy analysis to test inferential predictions.
