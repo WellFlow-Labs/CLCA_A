@@ -2,7 +2,7 @@
 
 Reproducible code, prompts, and data for the four-paper series **"Foundations of the Convergent Semantic Architecture."** CLCA recovers a shared semantic architecture for truth-related meaning by decompiling how sixteen unrelated languages compose it, and derives from that architecture a structural account of reasoning error (the Universal Fallacy Architecture) and of truth itself.
 
-> **Papers:** _link to be added._ This repository is the companion artifact: everything needed to inspect, run, and build on the findings.
+> **Papers:** Paper I is available at https://doi.org/10.5281/zenodo.21709636 (Papers II-IV forthcoming). This repository is the companion artifact: everything needed to inspect, run, and build on the findings.
 
 ## What's here
 
@@ -90,4 +90,6 @@ The knowledge here — the architecture, the legality matrix, the fallacy taxono
 
 ## Citation
 
-Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I–IV). _Citation details to be added once preprints are posted._
+Seeley, B. A. (2026). *Cross-Linguistic Compositional Analysis (CLCA): A Reproducible Protocol for Recovering Shared Conceptual Structure from Cross-Linguistic Evidence.* Paper I, Foundations of the Convergent Semantic Architecture. https://doi.org/10.5281/zenodo.21709636
+
+The series as a whole: Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I-IV). Papers II-IV forthcoming.
