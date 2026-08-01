@@ -1,5 +1,5 @@
 # Comprehensive Universal Map of Logical Fallacies
-## 97 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
+## 98 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
 ### Companion Document to Paper II: The Universal Fallacy Architecture
 ### Brent Alan Seeley · WellFlow Labs · April 2026, revised July 2026 (entries 95–98 added)
 
@@ -29,6 +29,15 @@ inferred, firsthand). Treating a meta-axis modification as if it established the
 underlying claim is the substitution family M[A] does not yield A, formalized as
 rules R5, R6, R8, and R9 in Paper II.
 
+**Numbering.** Entry numbers are stable identifiers, not a running tally. When an
+entry is reclassified its original number travels with it (so #23 Equivocation and
+#93 Red Herring sit in Type 5, #72 and #73 in Type 2), which is why the numbers are
+not contiguous within a section. Later additions are appended rather than
+interleaved. A fallacy analyzed two ways appears twice and is counted once (Appeal
+to Tradition at #49 and #94). Where one name covers two structurally distinct
+errors, both are listed and both are counted (Appeal to Emotion at #2 and #99).
+The document therefore has 99 numbered entries and 98 distinct fallacies.
+
 **Reading an entry.** The AOML Violation column names the constraint breached and,
 in parentheses, which AOML component it belongs to (Axis, Operator, Method, Level,
 or Contrast). An arrow marks a substitution, source to target. So entry 1,
@@ -45,7 +54,7 @@ the structural rules defined in Paper II and AOML v2.2.
 | # | Fallacy | Brief Description | AOML Violation | Notes |
 |---|---------|------------------|----------------|-------|
 | 1 | Ad Hominem | Attacking the person instead of the argument | SINC → VER (Axis) | Character/intent as empirical disproof |
-| 2 | Appeal to Emotion | Using emotions to persuade rather than logic | SINC/EMOTION → VER (Axis) | Affective resonance as veridical evidence |
+| 2 | Appeal to Emotion (affective substitution) | An emotional consideration is offered where the claim's own axis requires evidence | SINC → VER (Axis) | The classic axis transfer: sympathy, fear, or indignation supplied in place of veridical support. Distinguish from #99, where it is the *intensity* of feeling rather than its content that is treated as probative |
 | 3 | Appeal to Pity | Sympathy to persuade | SINC → VER (Axis) | Emotional vulnerability replaces proof |
 | 4 | Appeal to Fear | Fear to persuade | SINC → VER (Axis) | Emotional → Veridical |
 | 5 | Appeal to Flattery | Praise to persuade | SINC → VER (Axis) | Affective → Veridical |
@@ -99,10 +108,11 @@ the structural rules defined in Paper II and AOML v2.2.
 | 44 | Negative from Affirmative | Negative from positive premises | POLARITY misused (Operator) | Polarity operator error |
 | 45 | Amphiboly | Grammatical ambiguity leads to false conclusion | STRUCTURE ambiguity (Operator) | Syntactic scope; distinct from Equivocation (lexical) |
 | 46 | Kafkatrap | Denial of accusation as evidence of guilt | CAUSE/RESULT reversed (Operator) | Self-sealing argument structure |
+| 99 | Appeal to Emotion (intensity substitution) | Strength of feeling treated as establishing the claim | DEG[A] ↛ A (R5) | Meta-axis substitution: the degree of conviction or affect is substituted for the truth of what is felt. The reading Paper II lists under R5; distinguish from #2, the axis-transfer reading |
 | 72 | Conjunction Fallacy | Specific more probable than general | LIKE[VER] ↛ VER (R8) | Representativeness: resemblance to a stereotype substituted for probability; the composition violates P(A∧B) ≤ P(A). Reclassified from Type 4 |
 | 73 | Double Counting | Overcounting probability | Unlicensed composition (Operator) | Non-independent evidence composed as though independent. Reclassified from Type 4 |
 
-**Type 2 count: 24** (includes #72 Conjunction Fallacy and #73 Double Counting, reclassified from Type 4 under the operator-licensing reading; their original sequence IDs are retained)
+**Type 2 count: 25** (includes #72 Conjunction Fallacy and #73 Double Counting, reclassified from Type 4 under the operator-licensing reading, and #99 Appeal to Emotion in its R5 intensity reading; original sequence IDs are retained)
 
 ---
 
@@ -252,7 +262,7 @@ the structural rules defined in Paper II and AOML v2.2.
 | UFA Type | Name | Condition Violated | Count | Description |
 |----------|------|--------------------|-------|-------------|
 | Type 1 | Axis Transfer Error | Category | 23 | One kind of truth substituted for another |
-| Type 2 | Operator Overextension | Composition licensing | 24 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
+| Type 2 | Operator Overextension | Composition licensing | 25 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
 | Type 3 | Verification Habitat Mismatch | Validation | 13 | Wrong evidence type for the claim |
 | Type 2+3 | Operator + Method compound | Composition + Validation | 1 | Operator overextension combined with method mismatch |
 | Type 2+4 | Operator + Level compound | Composition + Stratification | 6 | Operator overextension combined with level misalignment |
@@ -261,9 +271,9 @@ the structural rules defined in Paper II and AOML v2.2.
 | Type 1+5 | Axis + Contrast compound | Category + Opposition topology | 1 | Axis transfer combined with contrast frame corruption |
 | Type 2+5 | Operator + Contrast compound | Composition + Opposition topology | 2 | Operator overextension combined with contrast frame collapse |
 | Type 5+4 | Contrast + Level compound | Opposition topology + Stratification | 1 | Contrast frame collapse combined with level misalignment |
-| | **Total unique entries** | | **97** | |
+| | **Total unique entries** | | **98** | |
 
-*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision, giving 98 numbered entries and 97 distinct fallacies. The total represents 97 unique fallacies with primary and compound classifications.*
+*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision. Entry #99 splits Appeal to Emotion into its two structurally distinct readings (see the numbering note above), giving 99 numbered entries and 98 distinct fallacies. The total represents 98 unique fallacies with primary and compound classifications.*
 
 ---
 
@@ -292,6 +302,19 @@ Each fallacy type corresponds to a violation of one condition for coherent disti
 - **Type 5 (Contrast)** → Opposition topology precondition: the space of possible distinctions must be correctly configured
 
 The first four conditions correspond to the four AOML tuple components (A, O, M, L). Type 5 corresponds to the opposition-topology precondition (tokened the FRAME in the AOML v2.2 reference) that makes the other four possible. Four independent philosophical traditions each identified one of these conditions independently over 2,400 years.
+
+---
+
+## Related Documents
+
+This map is one artifact in a series; several questions it raises are answered elsewhere.
+
+- **Paper II, The Universal Fallacy Architecture.** Defines the AOML tuple, the structural rules R1 through R9 including the meta-axis substitution family M[A] does not yield A, and the derivation of the five types. The place to go for anything this map references but does not define.
+- **Paper III, Given Distinction.** The closure argument: why there are exactly five types, why the opposition topology is a precondition rather than a fifth coordinate condition, and the historical convergence across independent traditions.
+- **Terminology Correspondence** (companion). Maps every term used here to its nearest counterpart in linguistics, philosophy and epistemology, formal logic, and computer science, including a section that places the five violation types against argumentation theory, philosophy of logic, cognitive science, and AI vocabulary.
+- **Paper I, Cross-Linguistic Compositional Analysis.** The cross-linguistic evidence the axes rest on. https://doi.org/10.5281/zenodo.21709636
+
+On the exhaustiveness claim specifically: Paper II section 6.7 reports a pre-registered inter-rater study in which independent raters classified this inventory using only the five type definitions, with a *fallacy but fits no type* option available on every item and salted distractor items included. That study, not this map, is where the claim that no sixth type is required is put at risk.
 
 ---
 
