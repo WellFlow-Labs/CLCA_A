@@ -5,6 +5,40 @@
 
 ---
 
+## How to Read This Map
+
+This is a companion to Paper II, but it is written to be readable on its own.
+Each entry names a fallacy, gives a brief description, and records which AOML
+constraint it violates.
+
+**The six semantic axes** (the kinds of truth a claim can be about):
+
+| Axis | Tracks | Settled by |
+|---|---|---|
+| **VER** | Veridical truth: is it so, in the world? | observation, measurement, experiment |
+| **AUTH** | Authenticity: is it the genuine item? | provenance, chain of custody |
+| **SINC** | Sincerity: is the speaker's inner state as presented? | behavioral consistency, testimony |
+| **NORM** | Normative correctness: is it right, proper, just? | principle, consequence, consensus |
+| **ESS** | Essence: what is it by definition or nature? | formal logic, definition, proof |
+| **VERIF** | Verification: has it been established or tested? | experiment, statistics, formal proof |
+
+**The four meta-axes** modify a claim on a host axis without being that axis:
+**DEG** (degree or intensity), **TEMP** (temporal position), **LIKE** (resemblance
+to the host property without being it), **EVID** (source-marking: reported,
+inferred, firsthand). Treating a meta-axis modification as if it established the
+underlying claim is the substitution family M[A] does not yield A, formalized as
+rules R5, R6, R8, and R9 in Paper II.
+
+**Reading an entry.** The AOML Violation column names the constraint breached and,
+in parentheses, which AOML component it belongs to (Axis, Operator, Method, Level,
+or Contrast). An arrow marks a substitution, source to target. So entry 1,
+Ad Hominem, reads `SINC → VER (Axis)`: evidence about a speaker's sincerity is
+substituted for evidence about the veridical truth of a claim, and the component
+violated is the Axis condition. Named rules (R1, R3, R4, R5, R6, R7, R8, R9) are
+the structural rules defined in Paper II and AOML v2.2.
+
+---
+
 ## Type 1: Axis Transfer Error (Category Condition)
 *One kind of truth substituted for another. The pattern holds across domains, but the axis of the claim changes without justification.*
 
