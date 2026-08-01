@@ -1,7 +1,7 @@
 # Terminology Correspondence Table
 ## Mapping CLCA/AOML/UFA Vocabulary to Standard Disciplinary Terms
-### Companion Document to the Foundations of the Convergent Semantic Architecture (Papers I–III)
-### Brent Alan Seeley · Independent Researcher · April 2026
+### Companion Document to the Foundations of the Convergent Semantic Architecture (Papers I–IV)
+### Brent Alan Seeley · WellFlow Labs · April 2026
 
 ---
 

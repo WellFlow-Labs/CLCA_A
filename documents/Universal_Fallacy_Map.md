@@ -1,7 +1,7 @@
 # Comprehensive Universal Map of Logical Fallacies
 ## 97 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
 ### Companion Document to Paper II: The Universal Fallacy Architecture
-### Brent Alan Seeley · Independent Researcher · April 2026, revised July 2026 (entries 95–98 added)
+### Brent Alan Seeley · WellFlow Labs · April 2026, revised July 2026 (entries 95–98 added)
 
 ---
 
