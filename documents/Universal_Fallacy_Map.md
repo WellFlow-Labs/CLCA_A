@@ -5,7 +5,7 @@
 
 ---
 
-## Type 1: Axis Transfer Error
+## Type 1: Axis Transfer Error (Category Condition)
 *One kind of truth substituted for another. The pattern holds across domains, but the axis of the claim changes without justification.*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
@@ -38,7 +38,7 @@
 
 ---
 
-## Type 2: Operator Overextension
+## Type 2: Operator Overextension (Composition Licensing Condition)
 *A compositional operator is applied beyond its licensed semantic scope. Includes meta-axis substitution subtypes (R5, R6, R8, R9) and polarity conditioning (R3, R7).*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
@@ -72,7 +72,7 @@
 
 ---
 
-## Type 3: Verification Habitat Mismatch
+## Type 3: Verification Habitat Mismatch (Validation Condition)
 *The axis is correctly identified, but the validation method is inappropriate. Wrong kind of evidence for the kind of claim being made.*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
@@ -134,7 +134,7 @@
 
 ---
 
-## Type 4: Stratification Misalignment
+## Type 4: Stratification Misalignment (Stratification Condition)
 *Inference crosses levels of abstraction, probability, or temporal position without justification.*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
@@ -153,7 +153,7 @@
 
 ---
 
-## Type 5: Contrast Frame Collapse
+## Type 5: Contrast Frame Collapse (Opposition Topology, the Precondition)
 *False or inverted opposition imposed. A multidimensional space is forced into a binary, or contrast boundaries are manipulated. Also includes relevance failures (off-question diversion) and identity-persistence failures (meaning drift), which mis-specify or fail to maintain the opposition frame over a discourse; see Paper III §6.*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
@@ -215,19 +215,19 @@
 
 ## Summary Statistics
 
-| UFA Type | Name | Count | Description |
-|----------|------|-------|-------------|
-| Type 1 | Axis Transfer Error | 23 | One kind of truth substituted for another |
-| Type 2 | Operator Overextension | 24 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
-| Type 3 | Verification Habitat Mismatch | 13 | Wrong evidence type for the claim |
-| Type 2+3 | Operator + Method compound | 1 | Operator overextension combined with method mismatch |
-| Type 2+4 | Operator + Level compound | 6 | Operator overextension combined with level misalignment |
-| Type 4 | Stratification Misalignment | 9 | Illegitimate level jump |
-| Type 5 | Contrast Frame Collapse | 17 | False or inverted opposition (includes relevance/identity-persistence failures, Paper III §6) |
-| Type 1+5 | Axis + Contrast compound | 1 | Axis transfer combined with contrast frame corruption |
-| Type 2+5 | Operator + Contrast compound | 2 | Operator overextension combined with contrast frame collapse |
-| Type 5+4 | Contrast + Level compound | 1 | Contrast frame collapse combined with level misalignment |
-| | **Total unique entries** | **97** | |
+| UFA Type | Name | Condition Violated | Count | Description |
+|----------|------|--------------------|-------|-------------|
+| Type 1 | Axis Transfer Error | Category | 23 | One kind of truth substituted for another |
+| Type 2 | Operator Overextension | Composition licensing | 24 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
+| Type 3 | Verification Habitat Mismatch | Validation | 13 | Wrong evidence type for the claim |
+| Type 2+3 | Operator + Method compound | Composition + Validation | 1 | Operator overextension combined with method mismatch |
+| Type 2+4 | Operator + Level compound | Composition + Stratification | 6 | Operator overextension combined with level misalignment |
+| Type 4 | Stratification Misalignment | Stratification | 9 | Illegitimate level jump |
+| Type 5 | Contrast Frame Collapse | Opposition topology *(precondition)* | 17 | False or inverted opposition (includes relevance/identity-persistence failures, Paper III §6) |
+| Type 1+5 | Axis + Contrast compound | Category + Opposition topology | 1 | Axis transfer combined with contrast frame corruption |
+| Type 2+5 | Operator + Contrast compound | Composition + Opposition topology | 2 | Operator overextension combined with contrast frame collapse |
+| Type 5+4 | Contrast + Level compound | Opposition topology + Stratification | 1 | Contrast frame collapse combined with level misalignment |
+| | **Total unique entries** | | **97** | |
 
 *Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision, giving 98 numbered entries and 97 distinct fallacies. The total represents 97 unique fallacies with primary and compound classifications.*
 
