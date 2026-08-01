@@ -1,7 +1,7 @@
 # Comprehensive Universal Map of Logical Fallacies
-## 94 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
+## 97 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
 ### Companion Document to Paper II: The Universal Fallacy Architecture
-### Brent Alan Seeley · Independent Researcher · April 2026
+### Brent Alan Seeley · Independent Researcher · April 2026, revised July 2026 (entries 95–98 added)
 
 ---
 
@@ -65,8 +65,10 @@
 | 44 | Negative from Affirmative | Negative from positive premises | POLARITY misused (Operator) | Polarity operator error |
 | 45 | Amphiboly | Grammatical ambiguity leads to false conclusion | STRUCTURE ambiguity (Operator) | Syntactic scope; distinct from Equivocation (lexical) |
 | 46 | Kafkatrap | Denial of accusation as evidence of guilt | CAUSE/RESULT reversed (Operator) | Self-sealing argument structure |
+| 72 | Conjunction Fallacy | Specific more probable than general | LIKE[VER] ↛ VER (R8) | Representativeness: resemblance to a stereotype substituted for probability; the composition violates P(A∧B) ≤ P(A). Reclassified from Type 4 |
+| 73 | Double Counting | Overcounting probability | Unlicensed composition (Operator) | Non-independent evidence composed as though independent. Reclassified from Type 4 |
 
-**Type 2 count: 22**
+**Type 2 count: 24** (includes #72 Conjunction Fallacy and #73 Double Counting, reclassified from Type 4 under the operator-licensing reading; their original sequence IDs are retained)
 
 ---
 
@@ -114,8 +116,21 @@
 | 63 | Hot Hand Fallacy | Random streaks as meaningful | PATTERN overextended + statistical levels (Operator + Level) | Pattern overinterpretation across levels |
 | 64 | Regression Fallacy | Mistaking regression to mean | STATISTICAL CAUSE + levels (Operator + Level) | Statistical CAUSE error across levels |
 | 65 | Sunk Cost Fallacy | Continuing due to prior investment | TEMP meta-axis + PAST → FUTURE (Operator + Level) | Past level misaligned with future (R6) |
+| 95 | Fallacy of Accident | A general rule applied to an exceptional case outside its licensing conditions | RULE overextension + contextual levels (Operator + Level) | Rule overextension across contextual levels; classical mirror of hasty generalization (instance→rule vs. rule→exception) |
 
-**Type 2+4 count: 5**
+**Type 2+4 count: 6**
+
+---
+
+## Type 2+5 Compound
+*Operator overextension combined with contrast frame collapse.*
+
+| # | Fallacy | Brief Description | AOML Violation | Notes |
+|---|---------|------------------|----------------|-------|
+| 96 | Fallacy of Relative Privation | A problem dismissed because a worse problem exists | DEG[A] < DEG[B] → ¬NORM[attend(A)] (Operator, R5 family) + exclusive-admissibility frame (Contrast) | Meta-axis substitution (M[A] ↛ A family): priority ordering collapsed into exclusive admissibility. Distinct from whataboutism (no counter-accusation) and the Nirvana fallacy (real-vs-real, not real-vs-ideal) |
+| 97 | Fallacy of the Single Cause | A contributing cause presented as the exhaustive explanation of a multicausal outcome | CAUSE scope amplification (Operator) + causal-field foreclosure (Contrast) | Partial causal license inflated to exhaustive scope. Distinct from post hoc: the causal link may be genuine; the exhaustiveness is not |
+
+**Type 2+5 count: 2**
 
 ---
 
@@ -129,19 +144,17 @@
 | 68 | Composition Fallacy | Whole has parts' properties | PARTS → WHOLE (Level) | Parts → Whole attribution |
 | 69 | Division Fallacy | Parts have whole's properties | WHOLE → PARTS (Level) | Whole → Parts attribution |
 | 70 | Argument from Anecdote | Anecdote as general evidence | INSTANCE → GENERAL (Level) | Single story → Universal rule |
-| 71 | Base Rate Fallacy | Ignoring base rates | INDIVIDUAL vs GROUP probabilities (Level) | Individual from group probabilities |
-| 72 | Conjunction Fallacy | Specific more probable than general | PROBABILITY levels (Level) | Probability level misalignment |
-| 73 | Double Counting | Overcounting probability | COUNTING levels (Level) | Multiple counting levels |
+| 71 | Base Rate Fallacy | Ignoring base rates | INDIVIDUAL vs GROUP probabilities (Level) | Individual-level conclusion requires class-level information to license it; the level bridge is dropped |
 | 74 | Nirvana Fallacy | Compare to unattainable ideal | IDEAL vs ACTUAL (Level) | Ideal vs. actual level confusion |
 | 75 | Historian's Fallacy | Anachronistic judgment | TEMPORAL levels (Level) | Temporal level confusion |
 | 76 | Presentism | Current standards on past | TEMPORAL levels (Level) | Temporal stratification error |
 
-**Type 4 count: 11**
+**Type 4 count: 9**
 
 ---
 
 ## Type 5: Contrast Frame Collapse
-*False or inverted opposition imposed. A multidimensional space is forced into a binary, or contrast boundaries are manipulated. Also includes relevance failures (off-question diversion) and identity-persistence failures (meaning drift), which mis-specify or fail to maintain the opposition frame over a discourse — see Paper III §6.*
+*False or inverted opposition imposed. A multidimensional space is forced into a binary, or contrast boundaries are manipulated. Also includes relevance failures (off-question diversion) and identity-persistence failures (meaning drift), which mis-specify or fail to maintain the opposition frame over a discourse; see Paper III §6.*
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
 |---|---------|------------------|----------------|-------|
@@ -160,8 +173,8 @@
 | 89 | Incomplete Comparison | Comparison without basis | COMPARISON incomplete (Contrast) | Incomplete opposition frame |
 | 90 | Thought-Terminating Cliché | Cliché ends discussion | CLOSURE artificial (Contrast) | Artificial discussion closure |
 | 91 | Motte and Bailey | Defending strong claim by retreating to weaker one | BOUNDARY dynamic (Contrast) | Two claims of different strength treated as equivalent |
-| 23 | Equivocation | Ambiguous terms to mislead | FRAME drift over occurrences (temporal) | A term's distinction drifts mid-argument — an identity-persistence failure = maintenance of the opposition frame over time (Paper III §6) |
-| 93 | Red Herring | Irrelevant distraction | FRAME — off-question claim (Contrast) | Presents an off-question claim as occupying the position at issue; a same-axis diversion is a pure FRAME failure (Paper III §6). +Type 1 only when an axis-shift is also present |
+| 23 | Equivocation | Ambiguous terms to mislead | FRAME drift over occurrences (temporal) | A term's distinction drifts mid-argument, an identity-persistence failure = maintenance of the opposition frame over time (Paper III §6) |
+| 93 | Red Herring | Irrelevant distraction | FRAME, off-question claim (Contrast) | Presents an off-question claim as occupying the position at issue; a same-axis diversion is a pure FRAME failure (Paper III §6). +Type 1 only when an axis-shift is also present |
 
 **Type 5 count: 17** *(includes #23 Equivocation and #93 Red Herring, reclassified under the FRAME / opposition-topology reading of Paper III §6; their original sequence IDs are retained)*
 
@@ -189,21 +202,34 @@
 
 ---
 
+## Type 5+4 Compound
+*Contrast frame collapse combined with stratification misalignment.*
+
+| # | Fallacy | Brief Description | AOML Violation | Notes |
+|---|---------|------------------|----------------|-------|
+| 98 | Package-Deal Fallacy | Separable claims or commitments fused into one indivisible object of acceptance or rejection | False fusion of the option space (Contrast) + component/package evaluation transfer (Level) | The inverse topology of false dilemma. Distinct from guilt by association (relational transfer) and composition (property inference after fusion) |
+
+**Type 5+4 count: 1**
+
+---
+
 ## Summary Statistics
 
 | UFA Type | Name | Count | Description |
 |----------|------|-------|-------------|
 | Type 1 | Axis Transfer Error | 23 | One kind of truth substituted for another |
-| Type 2 | Operator Overextension | 22 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
+| Type 2 | Operator Overextension | 24 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
 | Type 3 | Verification Habitat Mismatch | 13 | Wrong evidence type for the claim |
 | Type 2+3 | Operator + Method compound | 1 | Operator overextension combined with method mismatch |
-| Type 2+4 | Operator + Level compound | 5 | Operator overextension combined with level misalignment |
-| Type 4 | Stratification Misalignment | 11 | Illegitimate level jump |
+| Type 2+4 | Operator + Level compound | 6 | Operator overextension combined with level misalignment |
+| Type 4 | Stratification Misalignment | 9 | Illegitimate level jump |
 | Type 5 | Contrast Frame Collapse | 17 | False or inverted opposition (includes relevance/identity-persistence failures, Paper III §6) |
 | Type 1+5 | Axis + Contrast compound | 1 | Axis transfer combined with contrast frame corruption |
-| | **Total unique entries** | **93** | |
+| Type 2+5 | Operator + Contrast compound | 2 | Operator overextension combined with contrast frame collapse |
+| Type 5+4 | Contrast + Level compound | 1 | Contrast frame collapse combined with level misalignment |
+| | **Total unique entries** | **97** | |
 
-*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. The total represents 93 unique fallacies with primary and compound classifications.*
+*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision, giving 98 numbered entries and 97 distinct fallacies. The total represents 97 unique fallacies with primary and compound classifications.*
 
 ---
 
@@ -226,7 +252,7 @@
 Each fallacy type corresponds to a violation of one condition for coherent distinction-making (Paper III):
 
 - **Type 1 (Axis)** → Category condition: the system must track what kind of distinction it is making
-- **Type 2 (Operator)** → Composition licensing condition: compositions must be licensed (includes R1–R4 and R7 structural rules; R5, R6, R8, R9 meta-axis substitution — the M[A] ↛ A family)
+- **Type 2 (Operator)** → Composition licensing condition: compositions must be licensed (includes R1–R4 and R7 structural rules; R5, R6, R8, R9 meta-axis substitution: the M[A] ↛ A family)
 - **Type 3 (Method)** → Validation condition: evidence must match the claim type
 - **Type 4 (Level)** → Stratification condition: level boundaries must be preserved across inference
 - **Type 5 (Contrast)** → Opposition topology precondition: the space of possible distinctions must be correctly configured
