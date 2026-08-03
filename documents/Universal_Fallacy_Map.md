@@ -2,6 +2,7 @@
 ## Classical and Contemporary Fallacies Mapped to Five Structural Error Types
 ### Companion Document to Paper II: The Universal Fallacy Architecture
 ### Brent Alan Seeley · WellFlow Labs · April 2026, revised July–August 2026 (entries 95–101 added)
+### DOI: https://doi.org/10.5281/zenodo.21766167
 
 ---
 
