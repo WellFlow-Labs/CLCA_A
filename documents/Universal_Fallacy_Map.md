@@ -323,3 +323,4 @@ On the exhaustiveness claim specifically: Paper II section 6.7 reports a pre-reg
 
 *Companion document to: Seeley, B.A. (2026). The Universal Fallacy Architecture. Paper II, Foundations of the Convergent Semantic Architecture.*
 *Structural foundation: Seeley, B.A. (2026). Given Distinction. Paper III, Foundations of the Convergent Semantic Architecture.*
+*Empirical foundation: Seeley, B.A. (2026). Cross-Linguistic Compositional Analysis (CLCA). Paper I, Foundations of the Convergent Semantic Architecture. https://doi.org/10.5281/zenodo.21709636*
