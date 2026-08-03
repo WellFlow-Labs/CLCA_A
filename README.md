@@ -94,5 +94,7 @@ Seeley, B. A. (2026). *Cross-Linguistic Compositional Analysis (CLCA): A Reprodu
 
 Companion: Seeley, B. A. (2026). *The Universal Fallacy Map: Classical and Contemporary Fallacies Mapped to Five Structural Error Types.* https://doi.org/10.5281/zenodo.21766167
 
+Companion: Seeley, B. A. (2026). *Terminology Correspondence: Mapping CLCA/AOML/UFA Vocabulary to Standard Disciplinary Terms.* https://doi.org/10.5281/zenodo.21781768
+
 
 The series as a whole: Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I-IV). Papers II-IV forthcoming.
