@@ -1,5 +1,5 @@
 # Comprehensive Universal Map of Logical Fallacies
-## 98 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
+## 100 Classical and Contemporary Fallacies Mapped to Five Structural Error Types
 ### Companion Document to Paper II: The Universal Fallacy Architecture
 ### Brent Alan Seeley · WellFlow Labs · April 2026, revised July 2026 (entries 95–98 added)
 
@@ -35,8 +35,9 @@ entry is reclassified its original number travels with it (so #23 Equivocation a
 not contiguous within a section. Later additions are appended rather than
 interleaved. A fallacy analyzed two ways appears twice and is counted once (Appeal
 to Tradition at #49 and #94). Where one name covers two structurally distinct
-errors, both are listed and both are counted (Appeal to Emotion at #2 and #99).
-The document therefore has 99 numbered entries and 98 distinct fallacies.
+errors, both are listed and both are counted: Appeal to Emotion at #2 and #99,
+Appeal to Authority at #48 and #100, Bandwagon/Argumentum ad Populum at #47 and
+#101. The document therefore has 101 numbered entries and 100 distinct fallacies.
 
 **Reading an entry.** The AOML Violation column names the constraint breached and,
 in parentheses, which AOML component it belongs to (Axis, Operator, Method, Level,
@@ -77,7 +78,7 @@ the structural rules defined in Paper II and AOML v2.2.
 | 22 | Masked-Man Fallacy | Identity substitution error | ESS confusion (Axis) | Identity axis confusion |
 | 24 | Category Error | Misapplying concepts across categories | Multiple axes (Axis) | Pure category/axis violation (prototypical) |
 
-**Type 1 count: 24**
+**Type 1 count: 23**
 
 ---
 
@@ -109,10 +110,12 @@ the structural rules defined in Paper II and AOML v2.2.
 | 45 | Amphiboly | Grammatical ambiguity leads to false conclusion | STRUCTURE ambiguity (Operator) | Syntactic scope; distinct from Equivocation (lexical) |
 | 46 | Kafkatrap | Denial of accusation as evidence of guilt | CAUSE/RESULT reversed (Operator) | Self-sealing argument structure |
 | 99 | Appeal to Emotion (intensity substitution) | Strength of feeling treated as establishing the claim | DEG[A] ↛ A (R5) | Meta-axis substitution: the degree of conviction or affect is substituted for the truth of what is felt. The reading Paper II lists under R5; distinguish from #2, the axis-transfer reading |
+| 100 | Appeal to Authority (evidential substitution) | The fact that a claim is authoritatively asserted treated as establishing it | EVID[A] ↛ A (R9) | Meta-axis substitution: the source-marking of a claim (authoritatively asserted, reported) treated as itself establishing it. The reading Paper II lists under R9; distinguish from #48, the habitat-mismatch reading |
+| 101 | Argumentum ad Populum (intensity substitution) | Widespread or intense belief treated as establishing truth | DEG[VER] ↛ VER (R5) | Meta-axis substitution: the prevalence or intensity of belief treated as constituting truth. The reading Paper II lists under R5; distinguish from #47, the consensus-as-method reading |
 | 72 | Conjunction Fallacy | Specific more probable than general | LIKE[VER] ↛ VER (R8) | Representativeness: resemblance to a stereotype substituted for probability; the composition violates P(A∧B) ≤ P(A). Reclassified from Type 4 |
 | 73 | Double Counting | Overcounting probability | Unlicensed composition (Operator) | Non-independent evidence composed as though independent. Reclassified from Type 4 |
 
-**Type 2 count: 25** (includes #72 Conjunction Fallacy and #73 Double Counting, reclassified from Type 4 under the operator-licensing reading, and #99 Appeal to Emotion in its R5 intensity reading; original sequence IDs are retained)
+**Type 2 count: 27** (includes #72 Conjunction Fallacy and #73 Double Counting, reclassified from Type 4 under the operator-licensing reading, and the meta-axis substitution readings #99 Appeal to Emotion (R5), #100 Appeal to Authority (R9), and #101 Argumentum ad Populum (R5); original sequence IDs are retained)
 
 ---
 
@@ -121,8 +124,8 @@ the structural rules defined in Paper II and AOML v2.2.
 
 | # | Fallacy | Brief Description | AOML Violation | Notes |
 |---|---------|------------------|----------------|-------|
-| 47 | Bandwagon | True because many believe it | CONSENSUS → VER (Method) | Consensus as empirical verification |
-| 48 | Appeal to Authority | Irrelevant authority as evidence | AUTH/TESTIMONY misapplied (Method) | Expertise misapplied across domains |
+| 47 | Bandwagon (consensus as method) | The agreement of many offered as verification of a claim | CONSENSUS → VER (Method) | Consensus offered as a validation method for a claim whose axis requires observation. Distinguish from #101, where the sheer prevalence or intensity of belief is treated as itself establishing truth |
+| 48 | Appeal to Authority (habitat mismatch) | Expert testimony used outside the expert's axis of competence | AUTH/TESTIMONY misapplied (Method) | Expertise misapplied across domains. Distinguish from #100, where the mere fact of authoritative assertion is treated as establishing the claim |
 | 49 | Appeal to Tradition | Right because traditional | AUTH → NORM (Method) | Custom as evidence |
 | 50 | Argument from Silence | Absence of evidence as evidence | NULL → VER (Method) | Null as positive evidence |
 | 51 | Appeal to Ignorance | Truth from absence of disproof | NULL → VER (Method) | Absence of counter-evidence as validation; distinct from Arg. from Silence |
@@ -231,7 +234,7 @@ the structural rules defined in Paper II and AOML v2.2.
 |---|---------|------------------|----------------|-------|
 | 92 | Whataboutism | Diverting with counter-accusations | SINC → VER (Axis) + CONTRAST | Axis diversion + false equivalence |
 
-**Type 1+5 count: 2**
+**Type 1+5 count: 1**
 
 ---
 
@@ -262,7 +265,7 @@ the structural rules defined in Paper II and AOML v2.2.
 | UFA Type | Name | Condition Violated | Count | Description |
 |----------|------|--------------------|-------|-------------|
 | Type 1 | Axis Transfer Error | Category | 23 | One kind of truth substituted for another |
-| Type 2 | Operator Overextension | Composition licensing | 25 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
+| Type 2 | Operator Overextension | Composition licensing | 27 | Illicit compositional rule applied (includes R3, R5, R6, R7, R8, R9 subtypes) |
 | Type 3 | Verification Habitat Mismatch | Validation | 13 | Wrong evidence type for the claim |
 | Type 2+3 | Operator + Method compound | Composition + Validation | 1 | Operator overextension combined with method mismatch |
 | Type 2+4 | Operator + Level compound | Composition + Stratification | 6 | Operator overextension combined with level misalignment |
@@ -271,9 +274,9 @@ the structural rules defined in Paper II and AOML v2.2.
 | Type 1+5 | Axis + Contrast compound | Category + Opposition topology | 1 | Axis transfer combined with contrast frame corruption |
 | Type 2+5 | Operator + Contrast compound | Composition + Opposition topology | 2 | Operator overextension combined with contrast frame collapse |
 | Type 5+4 | Contrast + Level compound | Opposition topology + Stratification | 1 | Contrast frame collapse combined with level misalignment |
-| | **Total unique entries** | | **98** | |
+| | **Total unique entries** | | **100** | |
 
-*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision. Entry #99 splits Appeal to Emotion into its two structurally distinct readings (see the numbering note above), giving 99 numbered entries and 98 distinct fallacies. The total represents 98 unique fallacies with primary and compound classifications.*
+*Note: Appeal to Tradition (#49/#94) is counted once. Several Type 3 entries (Confirmation Bias, Cherry Picking, Nut-Picking, Survivorship Bias) note possible compound components in their AOML Violation column but are primarily classified as Type 3. Entries #95–#98 were added in the July 2026 revision. Entries #99–#101 split names that each cover two structurally distinct errors (Appeal to Emotion #2/#99; Appeal to Authority #48/#100; Bandwagon/Argumentum ad Populum #47/#101), giving 101 numbered entries and 100 distinct fallacies. The total represents 100 unique fallacies with primary and compound classifications.*
 
 ---
 
