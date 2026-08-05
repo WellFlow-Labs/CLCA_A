@@ -96,5 +96,7 @@ Companion: Seeley, B. A. (2026). *The Universal Fallacy Map: Classical and Conte
 
 Companion: Seeley, B. A. (2026). *Terminology Correspondence: Mapping CLCA/AOML/UFA Vocabulary to Standard Disciplinary Terms.* https://doi.org/10.5281/zenodo.21781768
 
+Companion: Seeley, B. A. (2026). *AOML v2.2: Semantic Constraint Architecture. Claim Structure, Structural Rules, and Validation Habitats.* https://doi.org/10.5281/zenodo.21792514
+
 
 The series as a whole: Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I-IV). Papers II-IV forthcoming.
