@@ -92,6 +92,8 @@ The knowledge here — the architecture, the legality matrix, the fallacy taxono
 
 Seeley, B. A. (2026). *Cross-Linguistic Compositional Analysis (CLCA): A Reproducible Protocol for Recovering Shared Conceptual Structure from Cross-Linguistic Evidence.* Paper I, Foundations of the Convergent Semantic Architecture. https://doi.org/10.5281/zenodo.21709636
 
+Seeley, B. A. (2026). *The Universal Fallacy Architecture: Structural Error Prediction from AOML Constraint Geometry.* Paper II, Foundations of the Convergent Semantic Architecture. https://doi.org/10.5281/zenodo.21998398
+
 Companion: Seeley, B. A. (2026). *The Universal Fallacy Map: Classical and Contemporary Fallacies Mapped to Five Structural Error Types* (Second Edition). https://doi.org/10.5281/zenodo.21880635 (all versions: https://doi.org/10.5281/zenodo.21766167)
 
 Companion: Seeley, B. A. (2026). *Terminology Correspondence: Mapping CLCA/AOML/UFA Vocabulary to Standard Disciplinary Terms.* https://doi.org/10.5281/zenodo.21781768
