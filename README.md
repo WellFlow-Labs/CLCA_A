@@ -2,14 +2,26 @@
 
 Reproducible code, prompts, and data for the four-paper series **"Foundations of the Convergent Semantic Architecture."** CLCA recovers a shared semantic architecture for truth-related meaning by decompiling how sixteen unrelated languages compose it, and derives from that architecture a structural account of reasoning error (the Universal Fallacy Architecture) and of truth itself.
 
-> **Papers:** Paper I is available at https://doi.org/10.5281/zenodo.21709636 (Papers II-IV forthcoming). This repository is the companion artifact: everything needed to inspect, run, and build on the findings.
+> **Papers:** Paper I is available at https://doi.org/10.5281/zenodo.21709636 and Paper II at https://doi.org/10.5281/zenodo.21998398 (Papers III-IV forthcoming). This repository is the companion artifact: everything needed to inspect, run, and build on the findings.
+
+## Where to start
+
+Two papers, four companion documents, and a data repository is a lot to meet at once. You don't need it all — pick the door that matches what you came for:
+
+- **Just curious?** Start with the [Universal Fallacy Map](https://doi.org/10.5281/zenodo.21880635). You already know what *post hoc* and *ad hominem* are. The Map takes a hundred-plus classical fallacies and shows them collapsing into five structural error types; no new vocabulary is needed to see the pattern.
+- **Philosopher or argumentation theorist?** [Paper II](https://doi.org/10.5281/zenodo.21998398) is the flagship: it derives the five error types from a constraint architecture and predicts the fallacy catalogue instead of curating it. Keep the Map open beside it; the [Terminology Correspondence](https://doi.org/10.5281/zenodo.21781768) maps this vocabulary onto standard disciplinary terms.
+- **Linguist, or checking the evidence?** [Paper I](https://doi.org/10.5281/zenodo.21709636) is the foundation: the sixteen-language protocol and what emerged from it. This repository is its companion — prompts, code, and the full runs.
+- **Engineer?** The [oAOML ledger](https://doi.org/10.5281/zenodo.21960566) applies the same five types to eighteen canonical engineering failures (Therac-25, Ariane 5, Mars Climate Orbiter), analyzed at the level of the individual judgments that failed.
+- **Want the machinery itself?** The [AOML v2.2 spec](https://doi.org/10.5281/zenodo.21792514) is the full constraint architecture: axes, operators, validation methods, and the legality matrix.
+
+The one-sentence version of the whole program: truth claims come in a small number of kinds, each with its own ways of being checked; modulating a claim (sourcing it, hedging it, likening it) never by itself establishes the claim (M[A] ↛ A); and most reasoning errors, human or machine, are one of five structural ways of breaking those rules.
 
 ## What's here
 
 - **The protocol** (`src/`, `prompts/`, `configs/`) — a reproducible, LLM-assisted pipeline that elicits structured, language-specific data and synthesizes it cross-linguistically. The prompts contain no axis names and no theoretical vocabulary; the architecture is meant to emerge from the data, not be imposed on it.
 - **The architecture** (`aoml/`, `Aoml_v2.2_constraint_architecture.html`) — AOML v2.2: six primary axes, four meta-axes, the operators and levels, and the structural rules. Machine-readable matrices plus a human-readable reference.
 - **The data** (`data*/`) — the full outputs behind the papers (see below).
-- **Reference** (`documents/`) — the Universal Fallacy Map (94 fallacies mapped to 5 error types) and a terminology-correspondence table. The four papers themselves are posted on a preprint server (see *Papers* above) and will be cross-linked here once final.
+- **Reference** (`documents/`) — the Universal Fallacy Map (Second Edition: 102 entries mapped to five structural error types), the oAOML engineering failure analyses, and a terminology-correspondence table. The papers themselves are on Zenodo (see *Citation* below).
 
 ## The sixteen languages
 
@@ -103,4 +115,4 @@ Companion: Seeley, B. A. (2026). *AOML v2.2: Semantic Constraint Architecture. C
 Companion: Seeley, B. A. (2026). *oAOML: Engineering Failure Analyses. Canonical Incidents Mapped to the Five Structural Violation Types.* https://doi.org/10.5281/zenodo.21960566
 
 
-The series as a whole: Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I-IV). Papers II-IV forthcoming.
+The series as a whole: Seeley, B. A. (2026). *Foundations of the Convergent Semantic Architecture* (Papers I-IV). Papers III-IV forthcoming.
