@@ -555,7 +555,7 @@
           "primary_axes": [
             "SINC"
           ],
-          "cause_licensing": "UNIVERSALLY BLOCKED (Rule R1, p < 1e-9, 16 of 16 languages).",
+          "cause_licensing": "UNIVERSALLY BLOCKED (Rule R1, 16 of 16 languages, both protocols).",
           "become_licensing": "Marginal — character development is possible but internally driven, not a simple state transition."
         }
       },
@@ -568,7 +568,7 @@
       "licensed": "structurally permitted as default",
       "restricted": "licensed under conditions specified in Layer 3 Structural Rules",
       "blocked": "structurally prohibited",
-      "universally_blocked": "blocked across all 16 tested languages (p < 1e-9)"
+      "universally_blocked": "blocked across all 16 tested languages, both protocols"
     },
     "axes_x_operators": {
       "VER": {
