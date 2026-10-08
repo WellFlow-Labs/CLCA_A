@@ -459,6 +459,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
 .m-stat { background: #e8f4e0; color: #1a4010; border: 1px solid #90b870; }
 .m-con  { background: #fef8e0; color: #5a4000; border: 1px solid #c8a840; }
 .m-pri  { background: #fce8e8; color: #601010; border: 1px solid #d08080; }
+.m-intro { background: #eaf6f6; color: #0d5858; border: 1px solid #70b0b0; }
 
 .fallacy-tag {
   font-family: 'Source Code Pro', monospace; font-size: 8px;
@@ -645,32 +646,31 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <div class="eyebrow">AOML · Axis–Operator–Method–Level · Three-Layer Constraint Architecture</div>
       <h1>Semantic Constraint Architecture<br><em>Claim Structure · Structural Rules · Validation Habitats</em></h1>
       <p class="header-desc">
-        Minimal formal core derived from Cross-Linguistic Compositional Analysis (CLCA) across 16 typologically unrelated languages
+        Minimal formal core derived from Cross-Linguistic Compositional Analysis (CLCA) across 16 languages from thirteen independent lineages (twelve families and one isolate)
         and consolidated against the 16-language union pipeline. Separates primitive claim structure (six primary axes, four meta-axes,
         core operators, four levels) from empirically discovered structural rules (R1–R9) and validation-habitat constraints.
         Its central result is the <strong>meta-axis substitution family</strong> — a single schema, M[A] ↛ A, instantiated on each of
         the four meta-axes — which grounds the Universal Fallacy Architecture (UFA) without ontology inflation.
       </p>
-      <p class="header-desc" style="font-size:13px; margin-top:8px;"><strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.21792514" style="color:inherit;">10.5281/zenodo.21792514</a> (archival document version of this specification)</p>
+      <p class="header-desc" style="font-size:13px; margin-top:8px;"><strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.23243616" style="color:inherit;">10.5281/zenodo.23243616</a> (archival document version of this specification, Revision 2; all versions: <a href="https://doi.org/10.5281/zenodo.21792513" style="color:inherit;">10.5281/zenodo.21792513</a>). Where this page and the archival specification differ, the specification governs.</p>
       <div class="stats-row">
         <div class="stat"><span class="stat-val">6</span><span class="stat-lbl">Primary Axes</span></div>
         <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">Meta-Axes</span></div>
-        <div class="stat"><span class="stat-val">7</span><span class="stat-lbl">Core Operators</span></div>
+        <div class="stat"><span class="stat-val">8</span><span class="stat-lbl">Semantic Operators</span></div>
         <div class="stat"><span class="stat-val">3</span><span class="stat-lbl">Target Types</span></div>
         <div class="stat"><span class="stat-val">4</span><span class="stat-lbl">Levels</span></div>
-        <div class="stat"><span class="stat-val">8</span><span class="stat-lbl">Methods</span></div>
+        <div class="stat"><span class="stat-val">9</span><span class="stat-lbl">Methods</span></div>
         <div class="stat"><span class="stat-val">9</span><span class="stat-lbl">Structural Rules</span></div>
         <div class="stat"><span class="stat-val">5</span><span class="stat-lbl">UFA Types</span></div>
       </div>
       <p class="header-desc" style="font-size:12px; margin-top:10px; max-width:640px;">
-        <strong>Note on the operator count.</strong> &ldquo;7 Core Operators&rdquo; counts the operators the
-        legality matrix (&sect;&nbsp;II) differentially licenses: ATTR, CAUSE, BECOME, RESULT, ABSTR, STRAT, REVEAL.
-        CONTR (negative or contrastive attribution) is a coordinate operator of the same layer, but it is not
-        differentially licensed: its matrix column is uniformly licensed (&#10003; on every axis), because
-        negation is not licensed or blocked per axis in the way the others are; its own
-        misuse is a Type&nbsp;2 violation, and it is distinct from the opposition topology whose
-        mis-specification is Type&nbsp;5. The full operator inventory in Layer&nbsp;1C is therefore eight,
-        which is the count the papers use.
+        <strong>Note on the operator count.</strong> The Layer&nbsp;1C inventory is eight cross-linguistically recovered semantic operators: ATTR, CAUSE, BECOME,
+        RESULT, ABSTR, STRAT, CONTR, REVEAL. Seven of them (all but CONTR) are differentially licensed in the legality
+        matrix (&sect;&nbsp;II); CONTR&rsquo;s column is uniformly licensed (&#10003; on every axis), because negation is not
+        licensed or blocked per axis in the way the others are. Earlier statements of &ldquo;7 core operators&rdquo; used the
+        count in two ways: for this differentially licensed subset, and for the seven operators probed before REVEAL
+        emerged. In neither use is seven a claim that the inventory is closed. CONTR&rsquo;s own misuse is a Type&nbsp;2
+        violation, distinct from the opposition topology whose mis-specification is Type&nbsp;5.
       </p>
     </div>
     <div class="version-badge">AOML v2.2</div>
@@ -749,7 +749,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
     <tr class="data-row">
       <td><span class="axis-code">SINC</span><strong>SINCERITY</strong><br><span class="badge b-disp">Dispositional</span></td>
       <td>Honesty of intent</td>
-      <td>Inner alignment between stated and actual belief or intention. Validated by testimony and pattern of conduct — not directly observable. Virtue, not fact.</td>
+      <td>Inner alignment between stated and actual belief or intention. Validated by testimony, first-person access (INTROSPECTION), and pattern of conduct — not directly observable. Virtue, not fact.</td>
       <td><span class="badge b-disp">Dispositional</span></td>
       <td>Subregions: honesty, reliability, faithfulness. Universal causation block (R1)</td>
     </tr>
@@ -772,7 +772,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>Evidential proof</td>
       <td>The process of establishing, proving, or confirming a claim through appropriate evidence. Distinct from VERIDICAL: VERIF is the epistemic act of validation, not the state of correspondence.</td>
       <td><span class="badge b-ep">Epistemic</span></td>
-      <td>Runs claim→world (see §V). Strong RESULT and ATTR licensing</td>
+      <td>Runs claim→world (see Layer 2). Strong RESULT and ATTR licensing</td>
     </tr>
 
     <!-- META-AXES -->
@@ -790,14 +790,14 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>Position modifier</td>
       <td>Order, direction, and persistence of a claim across time. Ordinal: before/after, already/not yet, earlier/later. Adds internal stratification (past / present / future levels). Analogous to ∫f(x).</td>
       <td>—</td>
-      <td>Inherits operators from host axis. Internal level stratification generates Type 4 UFA violations when crossed. Now CLCA-confirmed via the reliability construction (sustained sincerity = TEMP[SINC], attested in both sets); substitution prohibited (R6)</td>
+      <td>Inherits operators from host axis. Crossing its internal level strata without license is a Type 2 root at a Type 4 locus (R6). CLCA-confirmed via the reliability construction (sustained sincerity = TEMP[SINC], attested in both sets); substitution prohibited (R6)</td>
     </tr>
     <tr class="data-row meta-row">
       <td><span class="axis-code meta">LIKE</span><strong>LIKENESS</strong><br><span class="badge b-meta">Meta</span></td>
       <td>Similative modifier</td>
       <td>"Resembles A without being A." The grammaticalized similative — verisimilitude is LIKE[VER], lifelikeness its aesthetic subset. Host-dependent valence: forgery (AUTH), hypocrisy (SINC), sophistry (VERIF), demagoguery (NORM), truthiness (VER), illusion (ESS). Reclassifies what v2.1 listed as the LIFE primary axis.</td>
       <td>—</td>
-      <td>Inherits operators from host; cannot substitute for it (R8). Truth-stem + similative compound attested in 6 unrelated traditions [CLCA-BOTH]</td>
+      <td>Inherits operators from host; cannot substitute for it (R8). Truth-stem + similative compound attested in six traditions from four independent lineages [CLCA-BOTH]</td>
     </tr>
     <tr class="data-row meta-row">
       <td><span class="axis-code meta">EVID</span><strong>EVIDENTIALITY</strong><br><span class="badge b-meta">Meta</span></td>
@@ -834,9 +834,9 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
     <tr class="data-row">
       <td><span class="axis-code">RESULT</span><strong>RESULT</strong></td>
       <td>State established</td>
-      <td>"X proved/turned out to be [axis]" — marks an achieved or discovered state. Universally licensed. The pathway through which REVEAL-type constructions are often realized.</td>
+      <td>"X proved/turned out to be [axis]" — marks an achieved or discovered state. Licensed on every axis but ESS, where it is marginal. The pathway through which REVEAL-type constructions are often realized.</td>
       <td>—</td>
-      <td>✓ All axes. Near-universal licensing</td>
+      <td>✓ on five axes; △ marginal for ESS</td>
     </tr>
     <tr class="data-row">
       <td><span class="axis-code">ABSTR</span><strong>ABSTRACTION</strong></td>
@@ -850,7 +850,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>Layered distinction</td>
       <td>"Inner vs outer truth / surface vs deep sincerity" — marks internal contrast within an axis. Universally attested. The operation through which levels become linguistically accessible.</td>
       <td>—</td>
-      <td>✓ All axes. Restricted for AUTH and SINC (surface stratification less natural)</td>
+      <td>✓ on four axes; △ restricted for AUTH and SINC (surface stratification less natural)</td>
     </tr>
     <tr class="data-row">
       <td><span class="axis-code">CONTR</span><strong>CONTRAST</strong></td>
@@ -865,7 +865,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>Disclosure of latent truth</td>
       <td>"X was revealed to be [axis]" — presupposes a latent pre-existing host-axis state, disclosed rather than constructed. Attested in the intransitive truth-revelation construction across 16/16 languages in both CLCA sets (Sets A &amp; B). The former "LIFE blocks REVEAL" diagnostic is retired: LIKE[A] is resemblance with no latent A to disclose, so the restriction follows from the meta-axis structure, not a separate axis.</td>
       <td>—</td>
-      <td>Provisional primitive (pending cross-architectural validation). Encodes a structural presupposition that RESULT + STRAT cannot reconstruct. See § II for full operator–axis licensing.</td>
+      <td>Validated primitive (the provisional annotation was discharged by the de-leaked two-family retest reported in Papers I and II, 2026-07). Encodes a structural presupposition that RESULT + STRAT cannot reconstruct. See § II for full operator–axis licensing.</td>
     </tr>
 
     <!-- LEVELS -->
@@ -874,7 +874,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
     <tr class="data-row"><td><span class="axis-code">EMP</span><strong>EMPIRICAL</strong></td><td>Physical observation</td><td>Claims grounded in observable, testable states of the world. Validated by OBSERVATION or EXPERIMENT.</td><td>—</td><td>Default for VER, AUTH</td></tr>
     <tr class="data-row"><td><span class="axis-code">CONV</span><strong>CONVENTIONAL</strong></td><td>Social / legal norms</td><td>Claims grounded in institutional, cultural, or socially agreed standards. Validated by CONSENSUS or PRINCIPLE.</td><td>—</td><td>Default for SINC, NORM</td></tr>
     <tr class="data-row"><td><span class="axis-code">FORM</span><strong>FORMAL</strong></td><td>Logical / mathematical</td><td>Claims grounded in logical or mathematical necessity. Validated by LOGIC or STATISTICS.</td><td>—</td><td>Default for ESS, VERIF</td></tr>
-    <tr class="data-row"><td><span class="axis-code">ULT</span><strong>ULTIMATE</strong></td><td>Metaphysical / definitional</td><td>Claims grounded in fundamental or definitional necessity. Not falsifiable by empirical counter-example.</td><td>—</td><td>ESS claims often reach ULTIMATE. Level-crossing without justification = Type 4 UFA</td></tr>
+    <tr class="data-row"><td><span class="axis-code">ULT</span><strong>ULTIMATE</strong></td><td>Metaphysical / definitional</td><td>Claims grounded in fundamental or definitional necessity. Not falsifiable by empirical counter-example.</td><td>—</td><td>ESS claims often reach ULTIMATE. A level-crossing without license is a Type 2 root at a Type 4 locus; a Type 4 root is a judgment form that no legal level assignment makes well-formed</td></tr>
 
     <!-- TARGET TYPES -->
     <tr class="target-sep"><td colspan="5">LAYER 2 — TARGET-TYPE CLASSES · cross-cutting structural partition over the primary-axis space; governs differential operator licensing</td></tr>
@@ -898,7 +898,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>Character states</td>
       <td>SINC — stable inner tendencies of agents. Not observable states of the world, not epistemic states — they are cultivated through practice and revealed through pattern of conduct. Universal causation block (R1) applies exclusively to this type.</td>
       <td><span class="badge b-tgt">Cross-cutting</span></td>
-      <td>CAUSE universally blocked (16/16 languages, both protocols). BECOME marginal. RESULT and REVEAL licensed. This is the deepest structural constraint in the system.</td>
+      <td>CAUSE universally blocked (16/16 languages: 8/8 in each protocol&rsquo;s language set). BECOME marginal. RESULT and REVEAL licensed. This is the deepest structural constraint in the system.</td>
     </tr>
 
   </tbody>
@@ -909,7 +909,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
   <span class="callout-title ct-teal">LIKE[A] — the similative</span>
   "Resembles A without being A." Host-dependent valence: positive for the aesthetic LIKE[VER] (lifelikeness, the goal of art),
   negative elsewhere — LIKE[AUTH] = forgery, LIKE[SINC] = hypocrisy, LIKE[VERIF] = sophistry, LIKE[NORM] = demagoguery, LIKE[ESS] = illusion.
-  Verisimilitude = LIKE[VER]. Grammaticalized via a truth-stem + similative compound in six unrelated traditions
+  Verisimilitude = LIKE[VER]. Grammaticalized via a truth-stem + similative compound in six traditions from four independent lineages
   (Latin <em>vēri-similis</em>, Tagalog <em>parang totoo</em>, Quechua <em>cheqa hina</em>, Chinese 逼真, Greek αληθοφανής, Sanskrit <em>-ābhāsa</em>).
   Distinct from DEG: DEG is how-much (on A’s scale); LIKE is resemblance (off A’s scale). Substitution LIKE[A] ↛ A is prohibited by R8.
 </div>
@@ -944,14 +944,14 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
   This is the primitive legality layer only. It shows whether an operator is licensed (✓), restricted/conditioned (△),
   or blocked (✗) for each primary axis as a default structural fact.
   Polarity effects, target-type effects, and meta-axis substitution errors are captured in Structural Rules (§III),
-  not in this table. REVEAL is a provisional primitive (v2.2); the former LIFE/REVEAL diagnostic is retired — see § I.
+  not in this table. REVEAL is a validated primitive (v2.2; its provisional annotation was discharged 2026-07); the former LIFE/REVEAL diagnostic is retired — see § I.
 </div>
 
 <div class="legend">
   <div class="legend-item"><div class="swatch" style="background:var(--ok-bg);border-color:var(--ok-bdr);color:var(--ok-sym);">✓</div>Licensed — default structurally permitted</div>
   <div class="legend-item"><div class="swatch" style="background:var(--rk-bg);border-color:var(--rk-bdr);color:var(--rk-sym);">△</div>Restricted — licensed under conditions (see §III)</div>
   <div class="legend-item"><div class="swatch" style="background:var(--no-bg);border-color:var(--no-bdr);color:var(--no-sym);">✗</div>Blocked — structurally prohibited</div>
-  <div class="legend-item"><div class="swatch" style="background:var(--ub-bg);border:2px solid var(--ub-bdr);color:var(--ub-sym);">✗</div>Universal block — 16/16 languages, both protocols</div>
+  <div class="legend-item"><div class="swatch" style="background:var(--ub-bg);border:2px solid var(--ub-bdr);color:var(--ub-sym);">✗</div>Universal block — 16/16 languages, 8/8 in each protocol&rsquo;s set</div>
   <div class="leg-div"></div>
   <span class="leg-note">Target type shown in row · Conditions in §III · REVEAL confirmed (v2.2)</span>
 </div>
@@ -1064,7 +1064,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <span class="badge b-disp">Dispositional</span>
       </td>
       <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
-      <td class="op-cell cub"><span class="sym">✗</span><span class="ev">16/16 languages</span><span class="fl">UNIVERSAL BLOCK · BOTH PROTOCOLS</span></td>
+      <td class="op-cell cub"><span class="sym">✗</span><span class="ev">16/16 languages</span><span class="fl">UNIVERSAL BLOCK · 8/8 IN EACH SET</span></td>
       <td class="op-cell cr"><span class="sym">△</span><span class="ev">Marginal</span><span class="fl">character development is possible but internally driven — not simple transition</span></td>
       <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
       <td class="op-cell cl"><span class="sym">✓</span><span class="ev">Universal</span></td>
@@ -1107,7 +1107,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td class="op-cell c-meta" colspan="8"><span class="sym">↑ inherits from host primary axis across all operators</span></td>
     </tr>
     <tr class="meta-note-row">
-      <td colspan="9"><strong>Substitution Constraint (R5):</strong> DEG[A] cannot substitute for A in any inference step. Degree of a claim ≠ the claim itself. <em>Appeal to Probability: DEG[VER] → VER. Appeal to Emotion: DEG[SINC] → VER. Both are Type 2 Operator Overextension (Meta-Axis Substitution subtype) in UFA.</em></td>
+      <td colspan="9"><strong>Substitution Constraint (R5):</strong> DEG[A] cannot substitute for A in any inference step. Degree of a claim ≠ the claim itself. <em>Appeal to Probability: DEG[VER] → VER. Appeal to Emotion in its intensity reading: DEG[A] → A, strength of conviction offered for the claim itself (map #99; its affective-substitution reading, SINC → VER, is a Type 1 axis transfer, map #2). Both are Type 2 Operator Overextension (Meta-Axis Substitution subtype) in UFA.</em></td>
     </tr>
 
     <tr class="data-row" style="background:var(--plum-bg);">
@@ -1120,7 +1120,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td class="op-cell c-meta" colspan="8"><span class="sym">↑ inherits from host primary axis · adds past / present / future stratification</span></td>
     </tr>
     <tr class="meta-note-row">
-      <td colspan="9"><strong>Substitution Constraint (R6):</strong> TEMP[A] cannot substitute for A. Recency or temporal position cannot validate a claim on its host axis without independent method. TEMP also introduces past/present/future level structure — crossing these levels without justification = UFA Type 4 Stratification Failure. <em>Examples: Appeal to Novelty (TEMP[NORM] → NORM), Sunk Cost (∫past → future obligation), Presentism (present standards applied to past events). Note: TEMP emerged in CLCA-Revision (D21) but not CLCA-1.1 synthesis — cross-architectural confirmation pending.</em></td>
+      <td colspan="9"><strong>Substitution Constraint (R6):</strong> TEMP[A] cannot substitute for A. Recency or temporal position cannot validate a claim on its host axis without independent method. TEMP also introduces past/present/future level structure — crossing these levels without license is a Type 2 root at a Type 4 locus. <em>Examples: Appeal to Novelty (TEMP[NORM] → NORM; Type 2), Sunk Cost (∫past → future obligation; Type 2 root at a Type 4 locus), Presentism (present standards applied to past events; Type 2 root at a Type 4 locus). TEMP is CLCA-confirmed through the reliability construction (Layer 1B; § VI, row 1).</em></td>
     </tr>
 
   </tbody>
@@ -1223,12 +1223,12 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <span class="rule-name">Temporal Meta-Axis Substitution</span>
       </td>
       <td>
-        <div class="rule-form">TEMP[A] ↛ A · internal level-crossing → Type 4</div>
-        <div class="rule-body">The temporal position of a claim cannot substitute for the claim itself, and crossing TEMP’s internal past/present/future strata without justification produces a stratification error. <em>v2.2:</em> TEMP gains cross-linguistic footing through the reliability construction (sustained sincerity = TEMP[SINC]).</div>
+        <div class="rule-form">TEMP[A] ↛ A · unlicensed internal level-crossing → Type 2 root at a Type 4 locus</div>
+        <div class="rule-body">The temporal position of a claim cannot substitute for the claim itself, and crossing TEMP’s internal past/present/future strata without license fails at a stratification locus. <em>v2.2:</em> TEMP gains cross-linguistic footing through the reliability construction (sustained sincerity = TEMP[SINC]).</div>
         <div class="rule-ex">Newer ≠ better (Appeal to Novelty). Past investment ≠ future warrant (Sunk Cost). Present standards on past events (Presentism).</div>
       </td>
-      <td>[FALLACY] for the substitution; [CLCA-BOTH] for TEMP itself via reliability (§ VI.1).</td>
-      <td><span class="rule-ufa">Type 2 / Type 4</span></td>
+      <td>[FALLACY] for the substitution; [CLCA-BOTH] for TEMP itself via reliability (§ VI, row 1).</td>
+      <td><span class="rule-ufa">Type 2 (root) · Type 4 (locus)</span></td>
     </tr>
     <tr>
       <td>
@@ -1253,7 +1253,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <div class="rule-body">Resembling A cannot substitute for being A. One schema whose violation, per host axis, is a named deception: forgery (AUTH), sophistry (VERIF), hypocrisy (SINC), demagoguery (NORM), truthiness (VER), illusion (ESS). <strong>New in v2.2.</strong></div>
         <div class="rule-ex">A convincing fake (LIKE[AUTH]) passed off as genuine = forgery. Truth-resembling rhetoric (LIKE[VER]) passed off as true = truthiness.</div>
       </td>
-      <td>Confirmed [CLCA-BOTH]: truth-stem + similative compound grammaticalized in six unrelated traditions.</td>
+      <td>Confirmed [CLCA-BOTH]: truth-stem + similative compound grammaticalized in six traditions from four independent lineages.</td>
       <td><span class="rule-ufa">Type 2 — Operator Overextension (Meta-Axis Substitution subtype)</span></td>
     </tr>
     <tr>
@@ -1291,10 +1291,21 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
   <span class="callout-title ct-slate">Note on names that recur across types</span>
   The violations listed in the final column are habitat readings: the method component of an error event.
   Several of these names carry a primary classification elsewhere in the companion Universal Fallacy Map;
-  the Naturalistic Fallacy, Appeal to Nature, and the Is-Ought Error are classified there as Type&nbsp;1
+  the Naturalistic Fallacy, Appeal to Nature, and the Is-Ought Gap are classified there as Type&nbsp;1
   axis transfers (map #14&ndash;#16), because the axis moves (VER &rarr; NORM) while the observational
-  method is carried along un-updated. The habitat mismatch listed here is the method component of that
-  same event, not a competing classification.
+  method is carried along un-updated, which is why they are listed in the NORM row. The habitat mismatch
+  listed here is the method component of that same event, not a competing classification. The same holds
+  for other names in the column whose primary classification in the Map is elsewhere (Argumentum ad Populum,
+  Ad Hominem, Appeal to Consequences, No True Scotsman); and some entries are descriptive labels for the
+  habitat mismatch rather than Map entries.
+</div>
+
+<div class="callout callout-slate">
+  <span class="callout-title ct-slate">Method inventory</span>
+  Nine methods plus NONE: OBSERVATION, EXPERIMENT, PROVENANCE, TESTIMONY, LOGIC, STATISTICS, CONSENSUS,
+  PRINCIPLE, and INTROSPECTION (first-person access). INTROSPECTION is in habitat for SINC, admissible under
+  burden for NORM (substantive-moral pole only, through the SINC rider of &sect;&nbsp;VI, row 2), and out of habitat
+  for VER, AUTH, ESS and VERIF.
 </div>
 
 <div class="table-wrap">
@@ -1320,11 +1331,11 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <span class="method-chip m-con">CONSENSUS</span>
         <span class="method-chip m-test">TESTIMONY</span>
         <span class="method-chip m-pri">PRINCIPLE</span>
+        <span class="method-chip m-intro">INTROSPECTION</span>
       </td>
       <td>
         <span class="fallacy-tag">Appeal to Authority</span>
         <span class="fallacy-tag">Bandwagon</span>
-        <span class="fallacy-tag">Appeal to Nature</span>
         <span class="fallacy-tag">Argumentum ad Populum</span>
       </td>
     </tr>
@@ -1337,6 +1348,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>
         <span class="method-chip m-con">CONSENSUS</span>
         <span class="method-chip m-obs">OBSERVATION</span> (appearance alone)
+        <span class="method-chip m-intro">INTROSPECTION</span>
       </td>
       <td>
         <span class="fallacy-tag">Argument from Appearance</span>
@@ -1347,6 +1359,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td><strong>SINCERITY</strong><br><span style="font-family:monospace;font-size:9px;color:var(--slate);">SINC</span></td>
       <td>
         <span class="method-chip m-test">TESTIMONY</span>
+        <span class="method-chip m-intro">INTROSPECTION</span> (first-person access)
       </td>
       <td><span class="method-chip m-obs">OBSERVATION</span> of conduct pattern over time</td>
       <td>
@@ -1366,14 +1379,15 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <span class="method-chip m-pri">PRINCIPLE</span>
         <span class="method-chip m-con">CONSENSUS</span>
       </td>
-      <td><span class="method-chip m-log">LOGIC</span> for formal derivation from principles</td>
+      <td><span class="method-chip m-log">LOGIC</span> for formal derivation from principles · <span class="method-chip m-intro">INTROSPECTION</span> (burdened; substantive-moral pole only, via the SINC rider)</td>
       <td>
         <span class="method-chip m-obs">OBSERVATION</span>
         <span class="method-chip m-exp">EXPERIMENT</span>
       </td>
       <td>
         <span class="fallacy-tag">Naturalistic Fallacy</span>
-        <span class="fallacy-tag">Is-Ought Error</span>
+        <span class="fallacy-tag">Appeal to Nature</span>
+        <span class="fallacy-tag">Is-Ought Gap</span>
         <span class="fallacy-tag">Appeal to Consequences</span>
       </td>
     </tr>
@@ -1387,6 +1401,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
         <span class="method-chip m-obs">OBSERVATION</span>
         <span class="method-chip m-con">CONSENSUS</span>
         <span class="method-chip m-stat">STATISTICS</span>
+        <span class="method-chip m-intro">INTROSPECTION</span>
       </td>
       <td>
         <span class="fallacy-tag">Essentialism from Observation</span>
@@ -1405,6 +1420,7 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
       <td>
         <span class="method-chip m-test">TESTIMONY</span> (as sole evidence)
         <span class="method-chip m-con">CONSENSUS</span>
+        <span class="method-chip m-intro">INTROSPECTION</span>
       </td>
       <td>
         <span class="fallacy-tag">Ipse Dixit</span>
@@ -1487,13 +1503,13 @@ tbody tr.data-row:hover { background: rgba(122,84,16,0.025); }
 <h3>The single open conflict</h3>
 <p><strong>FRAME bivalence vs. Advaita <em>anirvacanīya</em>.</strong> The only refinement not resolved into existing structure. Sanskrit’s
 <em>mithyā</em> — genuinely indeterminable as either <em>sat</em> (real) or <em>asat</em> (unreal), a stable third ontological value resisting the opposition FRAME’s
-binary assumption — is single-tradition, single-language [CLCA-B], with no cross-corpus parallel, and is held open by the data’s own open question
-(G8 OQ-11). The FRAME remains binary by default; the three-valued ontology is recorded as a scoped open question pending evidence that other traditions
+binary assumption — is single-tradition, single-language [CLCA-B], with no cross-corpus parallel, and is held open as an open question
+in the data itself. The FRAME remains binary by default; the three-valued ontology is recorded as a scoped open question pending evidence that other traditions
 independently lexicalize a third ontological value. <strong>The decision is deferred — appropriately so: it should not be resolved on one tradition’s
 evidence.</strong> That one genuine residual, not swept in after six clean dissolutions, is what gives the stability principle (§ V) its discriminating power.</p>
 
 <div class="doc-footer">
-  <strong>Architecture:</strong> AOML v2.2 (Axis–Operator–Method–Level) · six primary axes · four meta-axes · seven core operators (+ REVEAL provisional) · four levels · nine structural rules (R1–R9).
+  <strong>Architecture:</strong> AOML v2.2 (Axis–Operator–Method–Level) · six primary axes · four meta-axes · eight semantic operators (seven differentially licensed; CONTR uniformly licensed; REVEAL validated) · four levels · nine structural rules (R1–R9).
   Human-readable companion: <code>aoml/AOML_v2.2_architecture.md</code>. Machine-readable: <code>aoml/aoml_constraint_matrix_v2.2.json</code>.
   Empirical basis: CLCA G-phase outputs over 16 languages (Sets A &amp; B, no shared languages) plus the 16-language union pipeline.
   <br>
@@ -1501,7 +1517,7 @@ evidence.</strong> That one genuine residual, not swept in after six clean disso
   R7 (agentive polarity asymmetry), R8 (LIKE substitution), R9 (EVID substitution) added; R1 refined (direct causation blocked, indirect facilitation attested);
   the v2.1 core empirically ratified by the union pipeline. CONTR (the negation operator) and the opposition FRAME (the Type-5 precondition) are distinguished — see § I. The abandoned "causal-fabrication" v2.2 draft (VALID / IDEAL / § VI meta-principle) is superseded by this document.
   <br>
-  UFA type classifications: Type 1 Axis Transfer Error · Type 2 Operator Overextension (incl. the meta-axis substitution family R5/R6/R8/R9) · Type 3 Verification Habitat Mismatch · Type 4 Stratification Failure · Type 5 Contrast Frame Collapse.
+  UFA type classifications: Type 1 Axis Transfer Error · Type 2 Operator Overextension (incl. the meta-axis substitution family R5/R6/R8/R9) · Type 3 Verification Habitat Mismatch · Type 4 Stratification Failure (First Edition name: Stratification Misalignment; a Type 4 root is a judgment form no legal level assignment makes well-formed, and a repairable level-crossing is a Type 2 root at a Type 4 locus) · Type 5 Contrast Frame Collapse.
 </div>
 
 </div><!-- /page -->

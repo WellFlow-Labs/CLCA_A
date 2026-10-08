@@ -1,7 +1,14 @@
 {
   "aoml_version": "2.2",
   "architecture": "three-layer",
-  "description": "AOML v2.2 Semantic Constraint Architecture. Six primary axes, four meta-axes (DEG, TEMP, LIKE, EVID), seven operators + provisional REVEAL, four levels, structural rules R1-R9. Derived from v2.1 plus the 16-language union-pipeline delta (data_union/aoml_v2.2_delta_from_union.md). Verisimilitude reclassified from the LIFE primary axis to the LIKE meta-axis; evidentiality added as the EVID meta-axis.",
+  "specification": {
+    "title": "AOML v2.2: Semantic Constraint Architecture",
+    "revision": "Revision 2",
+    "version_doi": "10.5281/zenodo.23243616",
+    "concept_doi": "10.5281/zenodo.21792513",
+    "note": "The specification is normative; where this file and the specification differ, the specification governs."
+  },
+  "description": "AOML v2.2 Semantic Constraint Architecture, aligned with the specification's Revision 2. Six primary axes, four meta-axes (DEG, TEMP, LIKE, EVID), eight semantic operators (seven differentially licensed; CONTR uniformly licensed), four levels, nine methods plus NONE, structural rules R1-R9. Derived from v2.1 plus the 16-language union-pipeline delta (data_union/aoml_v2.2_delta_from_union.md). Verisimilitude reclassified from the LIFE primary axis to the LIKE meta-axis; evidentiality added as the EVID meta-axis.",
   "layer_1": {
     "primary_axes": {
       "description": "Answer: what kind of claim is being made? Each axis represents a distinct truth-claim kind with non-interchangeable validation requirements. Seven axes constitute the minimal set required to explain cross-linguistic contrast patterns in the truth domain.",
@@ -88,7 +95,7 @@
           "name": "TEMPORAL",
           "description": "Position modifier. Order, direction, and persistence of a claim across time. Ordinal: before/after, already/not yet, earlier/later. Adds internal stratification: past, present, and future levels. Structurally analogous to the integral of the primary-axis claim over time.",
           "inherits_operators_from": "host primary axis",
-          "substitution_constraint": "TEMP[A] cannot substitute for A in any inference step. Internal level crossing (past/present/future) without justification = UFA Type 4. See Structural Rule R6.",
+          "substitution_constraint": "TEMP[A] cannot substitute for A in any inference step. Crossing TEMP's internal levels (past/present/future) without license is a Type 2 root at a Type 4 locus. See Structural Rule R6.",
           "empirical_status": "Confirmed [CLCA-BOTH] via the reliability domain (build/erode/establish constructions [CORE] in both sets) and [FALLACY] (Sunk Cost, Appeal to Novelty, Presentism). Reliability gives TEMP its cross-linguistic footing; previously fallacy-anchored only.",
           "reliability_application": "Reliability/dependability-over-time = TEMP[host]: the temporal-persistence (integral) modulation of a trust-axis — sincerity sustained (TEMP[SINC]) and/or veridicality sustained (TEMP[VER]). Trust is built/eroded (the integral accumulates/depletes), not caused (R1 preserved). Resolves the proposed SINC split: reliability is not a SINC sub-axis but a TEMP modulation over a SINC/VER blend — which is why Set A (content-credibility/VER) and Set B (source-honesty/SINC) carved the region differently."
         },
@@ -107,7 +114,7 @@
           "inherits_operators_from": "host primary axis",
           "substitution_constraint": "LIKE[A] cannot substitute for A in any inference step. See Structural Rule R8. The R8 violation per host axis is a named deception: forgery (AUTH), sophistry (VERIF), hypocrisy (SINC), demagoguery (NORM), truthiness (VER), illusion (ESS).",
           "distinct_from_DEG": "DEG[A] = how-much-A, on A's own scale (half-true, more accurate). LIKE[A] = resembles-A, off A's scale (plausible-but-false, lifelike-but-fake). A half-truth (DEG[VER]) and a plausible falsehood (LIKE[VER]) are different objects.",
-          "empirical_status": "Confirmed by the 16-language union pipeline. Lexicalized at [CORE] in ~12 of 16 languages; the truth-stem+similative template is morphologically transparent in 6 unrelated traditions. Set B G7b independently recommended meta-axis (not primary-axis) status."
+          "empirical_status": "Confirmed by the 16-language union pipeline. Lexicalized at [CORE] in ~12 of 16 languages; the truth-stem+similative template is morphologically transparent in six traditions from four independent lineages. Set B G7b independently recommended meta-axis (not primary-axis) status."
         },
         "EVID": {
           "name": "EVIDENTIALITY",
@@ -125,7 +132,7 @@
       }
     },
     "core_operators": {
-      "description": "Answer: what structural transformation or relation is being asserted? Seven operators constitute the minimal primitive basis. Operator licensing is conditioned by axis, target type, and polarity. Conditions are specified in Layer 3 Structural Rules.",
+      "description": "Answer: what structural transformation or relation is being asserted? Eight cross-linguistically recovered semantic operators. Seven of them (all but CONTR) are differentially licensed across the axes; CONTR is uniformly licensed. The inventory is not asserted to be closed. Operator licensing is conditioned by axis, target type, and polarity; conditions are specified in Layer 3 Structural Rules.",
       "operators": {
         "ATTR": {
           "name": "ATTRIBUTION",
@@ -177,25 +184,14 @@
           "description": "Opposition. 'True vs false / genuine vs fake'. Marks binary opposition or differentiated contrast. Universally licensed. Violations of proper contrast = UFA Type 5 (Contrast Frame Collapse).",
           "default_licensing": "universally_licensed",
           "mithya_residual_v2_2": "CONTR is binary by default. Sanskrit Advaita's mithyā (anirvacanīya — genuinely indeterminable as sat or asat) is a stable third ontological value resisting bivalence. Most of the sa ontological apparatus dissolves (appearance pratibhāsa/ābhāsa = LIKE[ESS]; vyāvahārika-real/paramārtha-unreal = binary CONTR per LEVEL, level-collapse = Type 4), but the strong anirvacanīya claim is a genuine residual NOT captured by binary-CONTR-plus-levels. RECORDED, NOT ADOPTED: single-language, single-tradition, no cross-corpus parallel; G8 OQ-11 holds it open. The one genuine open conflict from the union pipeline; do not relax a universal operator on one tradition's evidence."
-        }
-      }
-    },
-    "provisional_operator": {
-      "REVEAL": {
-        "name": "REVELATION",
-        "status": "provisional_primitive",
-        "description": "Disclosure of latent truth. 'X was revealed to be [axis]'. Presupposes a latent pre-existing state that was already true before disclosure.",
-        "empirical_basis": "Emerged unprompted across 4 or more unrelated language families (Georgian, Korean, Turkish, Finnish) in both CLCA protocols. 15 of 16 languages show preference for revelatory constructions.",
-        "key_diagnostic": "REVEAL operates on a latent host-axis truth-state. The former 'LIFE blocks REVEAL' diagnostic is superseded by the reclassification of likeness as a meta-axis: LIKE[A] is resemblance with no latent A to disclose, so REVEAL has no host truth-state to operate on — this follows from the meta-axis structure, not a separate primitive diagnostic. REVEAL's primitive-vs-derived status should be evaluated on its own evidence (the intransitive truth-revelation construction attested in all 16 languages), not via the likeness diagnostic.",
-        "provisional_licensing": {
-          "VER": "licensed",
-          "AUTH": "licensed (strong preference)",
-          "SINC": "licensed",
-          "NORM": "licensed",
-          "ESS": "licensed (strong preference)",
-          "VERIF": "licensed"
         },
-        "reason_for_provisional_status": "Behaviorally strong and structurally distinct from RESULT + STRAT, but requires cross-architectural validation using non-Claude LLM families before confirmation as primitive."
+        "REVEAL": {
+          "name": "REVELATION",
+          "status": "validated_primitive",
+          "description": "Disclosure of latent truth. 'X was revealed to be [axis]'. Presupposes a latent pre-existing state that was already true before disclosure.",
+          "empirical_basis": "Attested in the intransitive truth-revelation construction across 16/16 languages in both CLCA sets (Sets A and B). The provisional annotation was discharged by the de-leaked two-family retest reported in Papers I and II (2026-07).",
+          "key_diagnostic": "REVEAL operates on a latent host-axis truth-state. The former 'LIFE blocks REVEAL' diagnostic is superseded by the reclassification of likeness as a meta-axis: LIKE[A] is resemblance with no latent A to disclose, so REVEAL has no host truth-state to operate on — this follows from the meta-axis structure, not a separate primitive diagnostic. REVEAL's primitive-vs-derived status should be evaluated on its own evidence (the intransitive truth-revelation construction attested in all 16 languages), not via the likeness diagnostic."
+        }
       }
     },
     "levels": {
@@ -242,7 +238,7 @@
           "LOGIC",
           "PRINCIPLE"
         ],
-        "constraint": "Level-crossing without explicit justification = UFA Type 4 Stratification Misalignment."
+        "constraint": "A level-crossing without license is a Type 2 root at a Type 4 locus; a Type 4 root (Stratification Failure) is a judgment form that no legal level assignment makes well-formed."
       }
     }
   },
@@ -293,7 +289,7 @@
           "name": "Dispositional Causation Block",
           "formal": "CAUSE × DISPOSITIONAL → universally blocked",
           "description": "Direct causation of dispositional character traits is structurally prohibited across all tested languages. Applies to SINC and all its subregions (reliability, faithfulness). CAUSE is not blocked generally — only for dispositional targets. Character traits are internally cultivated, not externally produced.",
-          "empirical_basis": "16 of 16 languages, both CLCA protocols independently. Descriptive convergence; formal inferential statistics deferred to native-speaker validation (Paper I Appendix B). The strongest single empirical finding in the system.",
+          "empirical_basis": "16 of 16 languages: 8/8 in each CLCA protocol's language set. Descriptive convergence; formal inferential statistics deferred to native-speaker validation (Paper I Appendix B). The strongest single empirical finding in the system.",
           "examples": [
             "'make someone honest' — universally blocked",
             "'encourage honesty' — natural in all languages",
@@ -351,15 +347,15 @@
         },
         "R6": {
           "name": "Temporal Meta-Axis Substitution Prohibition",
-          "formal": "TEMP[A] cannot substitute for A; TEMP internal levels (past/present/future) cannot be crossed without justification",
+          "formal": "TEMP[A] cannot substitute for A; crossing TEMP's internal levels (past/present/future) without license is a Type 2 root at a Type 4 locus",
           "description": "Temporal position, recency, or historical precedence cannot validate a claim on its host primary axis without independent method. Internal level stratification adds an additional constraint: inference across past, present, and future levels requires explicit justification.",
           "examples": [
             "More recent therefore better (TEMP[NORM] → NORM) — Appeal to Novelty",
             "Past investment creates future obligation — Sunk Cost Fallacy",
             "Applying present standards to judge past events — Presentism and Historian's Fallacy"
           ],
-          "empirical_status": "PROVISIONAL — TEMP meta-axis status confirmed in CLCA-Revision (D21, 6 of 8 Set A) but absent from CLCA-1.1 synthesis. Cross-architectural confirmation pending.",
-          "ufa_type": "Type 2 (substitution) and Type 4 (internal level crossing)"
+          "empirical_status": "Confirmed: TEMP is grounded cross-linguistically by the reliability construction (sustained sincerity = TEMP[SINC], [CLCA-BOTH]); the substitution is attested in the fallacy tradition (Appeal to Novelty, Sunk Cost, Presentism).",
+          "ufa_type": "Type 2 (root); level-crossing at a Type 4 locus"
         },
         "R7": {
           "name": "Agentive Polarity Asymmetry",
@@ -429,12 +425,12 @@
           "inadmissible_methods": [
             "CONSENSUS",
             "TESTIMONY",
-            "PRINCIPLE"
+            "PRINCIPLE",
+            "INTROSPECTION"
           ],
           "type3_violations": [
             "Appeal to Authority",
             "Bandwagon",
-            "Appeal to Nature",
             "Argumentum ad Populum"
           ]
         },
@@ -447,7 +443,8 @@
           ],
           "inadmissible_methods": [
             "CONSENSUS",
-            "OBSERVATION (appearance alone)"
+            "OBSERVATION (appearance alone)",
+            "INTROSPECTION"
           ],
           "type3_violations": [
             "Argument from Appearance",
@@ -456,7 +453,8 @@
         },
         "SINC": {
           "default_methods": [
-            "TESTIMONY"
+            "TESTIMONY",
+            "INTROSPECTION (first-person access)"
           ],
           "admissible_methods": [
             "OBSERVATION (pattern of conduct over time)"
@@ -478,7 +476,8 @@
             "CONSENSUS"
           ],
           "admissible_methods": [
-            "LOGIC (formal derivation from principles)"
+            "LOGIC (formal derivation from principles)",
+            "INTROSPECTION (burdened; substantive-moral pole only, via the SINC rider)"
           ],
           "inadmissible_methods": [
             "OBSERVATION",
@@ -486,7 +485,8 @@
           ],
           "type3_violations": [
             "Naturalistic Fallacy",
-            "Is-Ought Error",
+            "Appeal to Nature",
+            "Is-Ought Gap",
             "Appeal to Consequences"
           ]
         },
@@ -500,7 +500,8 @@
           "inadmissible_methods": [
             "OBSERVATION",
             "CONSENSUS",
-            "STATISTICS"
+            "STATISTICS",
+            "INTROSPECTION"
           ],
           "type3_violations": [
             "Essentialism from Observation",
@@ -519,7 +520,8 @@
           ],
           "inadmissible_methods": [
             "TESTIMONY (as sole evidence)",
-            "CONSENSUS"
+            "CONSENSUS",
+            "INTROSPECTION"
           ],
           "type3_violations": [
             "Ipse Dixit",
@@ -527,7 +529,8 @@
             "Verification by Consensus"
           ]
         }
-      }
+      },
+      "method_inventory": "Nine methods plus NONE: OBSERVATION, EXPERIMENT, PROVENANCE, TESTIMONY, LOGIC, STATISTICS, CONSENSUS, PRINCIPLE, INTROSPECTION (first-person access). The type3_violations lists are habitat readings, the method component of an error event; several names carry a primary classification elsewhere in the Universal Fallacy Map (e.g. the Naturalistic Fallacy, Appeal to Nature and the Is-Ought Gap are Type 1 axis transfers, map #14-#16)."
     },
     "target_type_classes": {
       "description": "Cross-cutting structural partition over the primary-axis space. Governs differential operator licensing. The target-type ontology may be structurally prior to the operator licensing matrix — axes identify semantic territories but target types may determine what operators are legal.",
@@ -563,12 +566,12 @@
     }
   },
   "core_legality_matrix": {
-    "description": "Primitive legality layer. Default licensing status before polarity, target-type, and meta-axis conditions are applied. Polarity and target-type conditions are in Layer 3 Structural Rules. REVEAL excluded from core matrix due to provisional status.",
+    "description": "Primitive legality layer. Default licensing status before polarity, target-type, and meta-axis conditions are applied. Polarity and target-type conditions are in Layer 3 Structural Rules.",
     "legend": {
       "licensed": "structurally permitted as default",
       "restricted": "licensed under conditions specified in Layer 3 Structural Rules",
       "blocked": "structurally prohibited",
-      "universally_blocked": "blocked across all 16 tested languages, both protocols"
+      "universally_blocked": "blocked in all 16 tested languages (8/8 in each CLCA protocol's language set)"
     },
     "axes_x_operators": {
       "VER": {
@@ -578,7 +581,8 @@
         "RESULT": "licensed",
         "ABSTR": "licensed",
         "STRAT": "licensed",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "licensed"
       },
       "AUTH": {
         "ATTR": "licensed",
@@ -587,7 +591,8 @@
         "RESULT": "licensed",
         "ABSTR": "licensed",
         "STRAT": "restricted",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "licensed"
       },
       "SINC": {
         "ATTR": "licensed",
@@ -596,7 +601,8 @@
         "RESULT": "licensed",
         "ABSTR": "licensed",
         "STRAT": "restricted",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "licensed"
       },
       "NORM": {
         "ATTR": "licensed",
@@ -605,7 +611,8 @@
         "RESULT": "licensed",
         "ABSTR": "licensed",
         "STRAT": "licensed",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "restricted"
       },
       "ESS": {
         "ATTR": "licensed",
@@ -614,7 +621,8 @@
         "RESULT": "restricted",
         "ABSTR": "restricted",
         "STRAT": "licensed",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "licensed"
       },
       "VERIF": {
         "ATTR": "licensed",
@@ -623,18 +631,18 @@
         "RESULT": "licensed",
         "ABSTR": "licensed",
         "STRAT": "licensed",
-        "CONTR": "licensed"
+        "CONTR": "licensed",
+        "REVEAL": "licensed"
       }
     },
-    "meta_axis_rule": "DEG[A] and TEMP[A] inherit the operator licensing of their host axis A. Neither may substitute for A in any inference step (Rules R5, R6).",
-    "provisional_operator_note": "REVEAL is provisionally licensed for VER, AUTH, SINC, NORM, ESS, VERIF. Likeness is now a meta-axis (LIKE); REVEAL has no latent host truth-state to disclose for LIKE[A], so the former LIFE block is moot. Excluded from core matrix pending cross-architectural validation."
+    "meta_axis_rule": "DEG[A] and TEMP[A] inherit the operator licensing of their host axis A. Neither may substitute for A in any inference step (Rules R5, R6)."
   },
   "ufa_mapping": {
     "description": "Every constraint violation in this architecture maps to a UFA violation type. See companion document: UFA — Universal Fallacy Architecture.",
     "type_1_axis_transfer_error": "Substituting one primary axis for another in a claim or inference. The truth-kind of the claim is misrepresented.",
     "type_2_operator_overextension": "Applying an operator beyond its licensed scope for a given axis or target type. Covers: R1 (CAUSE × DISPOSITIONAL), R2 (CAUSE/BECOME × ESS), R3 (CAUSE(+) × AUTH), R4 (BECOME(−)), R5 (DEG[A] → A), R6 (TEMP[A] → A).",
     "type_3_verification_habitat_mismatch": "Using an inadmissible validation method for a claim's axis. See Layer 3 validation_habitats for axis-specific inadmissible methods and canonical violations.",
-    "type_4_stratification_misalignment": "Unjustified level jump across EMPIRICAL, CONVENTIONAL, FORMAL, or ULTIMATE strata. Also generated by TEMP internal level crossing (past, present, future) without justification.",
+    "type_4_stratification_failure": "Stratification Failure (First Edition name: Stratification Misalignment). A Type 4 root is a judgment form that no legal level assignment across EMPIRICAL, CONVENTIONAL, FORMAL, or ULTIMATE (or TEMP's past, present, and future) makes well-formed. A level-crossing whose license can be repaired is a Type 2 root at a Type 4 locus.",
     "type_5_contrast_frame_collapse": "False or collapsed opposition. Violations of CONTR operator legality — false dilemma, whataboutism, false equivalence."
   }
 }

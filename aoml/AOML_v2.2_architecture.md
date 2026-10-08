@@ -1,6 +1,6 @@
 # AOML v2.2 — Semantic Constraint Architecture
 
-**Status:** Stage 2 consolidation. This is the human-readable reference for AOML v2.2, built from v2.1 plus the 16-language union-pipeline delta (`data_union/aoml_v2.2_delta_from_union.md`). The machine-readable companion is `aoml/aoml_constraint_matrix_v2.2.json`. The v2.1 JSON and the read-only `Aoml_v2.1_constraint_architecture.html` remain the frozen baseline. `Aoml_v2.2_constraint_architecture.html` is the rendered HTML companion of this document — regenerated from it, not an independent input (it replaced an earlier abandoned "causal-fabrication" v2.2 draft); this Markdown remains the source of truth.
+**Status:** Stage 2 consolidation. This is the human-readable reference for AOML v2.2, built from v2.1 plus the 16-language union-pipeline delta (`data_union/aoml_v2.2_delta_from_union.md`). The machine-readable companion is `aoml/aoml_constraint_matrix_v2.2.json`. The v2.1 JSON and the read-only `Aoml_v2.1_constraint_architecture.html` remain the frozen baseline. `Aoml_v2.2_constraint_architecture.html` is the web rendering of the specification (it replaced an earlier abandoned "causal-fabrication" v2.2 draft). **The normative specification is the deposited *AOML v2.2: Semantic Constraint Architecture*, Revision 2 (DOI [10.5281/zenodo.23243616](https://doi.org/10.5281/zenodo.23243616); all versions [10.5281/zenodo.21792513](https://doi.org/10.5281/zenodo.21792513)).** These notes record how v2.2 was consolidated from the union-pipeline data; where they and the specification differ, the specification governs.
 
 **Evidence base:** All empirical claims are tagged by source:
 - **[CLCA-BOTH]** — attested in both independent language sets (Set A: ka yo fi eu ta id tr ko; Set B: zh he sa el en tl sw qu), no shared languages. Strongest tier.
@@ -48,17 +48,17 @@ Meta-axes do not constitute independent claim types; they modulate a host primar
 | **LIKE** | similative | resembles-A (like-true) | R8 | [CLCA-BOTH] + [FALLACY] |
 | **EVID** | evidentiality | on-what-basis-A (heard/inferred/seen) | R9 | [CLCA-BOTH] dimension; grammaticalized in qu |
 
-**LIKE[A] — the similative.** "Resembles A without being A." Host-dependent valence: positive for `LIKE[VER]`-aesthetic (lifelikeness, the goal of art), negative elsewhere — `LIKE[AUTH]` = forgery, `LIKE[SINC]` = hypocrisy, `LIKE[VERIF]` = sophistry, `LIKE[NORM]` = demagoguery, `LIKE[ESS]` = illusion. Verisimilitude = `LIKE[VER]`. Grammaticalized via a truth-stem + similative compound in six unrelated traditions (Latin *vēri-similis*, Tagalog *parang totoo*, Quechua *cheqa hina*, Chinese 逼真, Greek αληθοφανής, Sanskrit *-ābhāsa*). Distinct from DEG: DEG is how-much (on A's scale); LIKE is resemblance (off A's scale). Full treatment: `data_union/aoml_LIKE_revision_draft.md`.
+**LIKE[A] — the similative.** "Resembles A without being A." Host-dependent valence: positive for `LIKE[VER]`-aesthetic (lifelikeness, the goal of art), negative elsewhere — `LIKE[AUTH]` = forgery, `LIKE[SINC]` = hypocrisy, `LIKE[VERIF]` = sophistry, `LIKE[NORM]` = demagoguery, `LIKE[ESS]` = illusion. Verisimilitude = `LIKE[VER]`. Grammaticalized via a truth-stem + similative compound in six traditions from four independent lineages (Latin *vēri-similis*, Tagalog *parang totoo*, Quechua *cheqa hina*, Chinese 逼真, Greek αληθοφανής, Sanskrit *-ābhāsa*). Distinct from DEG: DEG is how-much (on A's scale); LIKE is resemblance (off A's scale). Full treatment: `data_union/aoml_LIKE_revision_draft.md`.
 
 **EVID[A] — evidentiality.** Marks the source of knowledge: DIRECT (witnessed, qu *-m/-mi*), REPORTED (hearsay, qu *-s/-si*), CONJECTURAL (inferred, qu *-chá*). Grammaticalized three-way in Quechua; lexical across the sample. Distinct from DEG (magnitude vs. source-kind) and from the validation-habitat layer (normative admissibility vs. descriptive marking). Carries a noted overlap with TESTIMONY/OBSERVATION habitats and DEG — see `data_union/aoml_EVID_revision_draft.md` §4. Full treatment there.
 
-### 1C. Operators (7 + 1 provisional)
+### 1C. Operators (8)
 
-ATTR, CAUSE, BECOME, RESULT, ABSTR, STRAT, CONTR — selectively licensed across axes. **CONTR** here is **negative/contrastive attribution** (CF2: morphological/syntactic negation of a truth-predicate — *not-true*, *unreliable*, *invalid*; the negative-pole partner of ATTR), universally licensed [CLCA-BOTH]; its operator-level misuse maps to **UFA Type 2**. CONTR is *not* the opposition FRAME (§1E) — earlier formulations conflated the two under one label. **REVEAL** (provisional primitive): disclosure of a latent pre-existing host-axis truth-state. The former "LIFE blocks REVEAL" diagnostic is retired — `LIKE[A]` is resemblance with no latent A to disclose, so the restriction follows from the meta-axis structure, not a separate diagnostic. REVEAL's primitive status rests on the intransitive truth-revelation construction attested in all 16 languages [CLCA-BOTH], pending cross-architectural validation.
+ATTR, CAUSE, BECOME, RESULT, ABSTR, STRAT, CONTR, REVEAL. Seven are differentially licensed across axes; CONTR is uniformly licensed. **CONTR** here is **negative/contrastive attribution** (CF2: morphological/syntactic negation of a truth-predicate — *not-true*, *unreliable*, *invalid*; the negative-pole partner of ATTR), universally licensed [CLCA-BOTH]; its operator-level misuse maps to **UFA Type 2**. CONTR is *not* the opposition FRAME (§1E) — earlier formulations conflated the two under one label. **REVEAL** (validated primitive): disclosure of a latent pre-existing host-axis truth-state. The former "LIFE blocks REVEAL" diagnostic is retired — `LIKE[A]` is resemblance with no latent A to disclose, so the restriction follows from the meta-axis structure, not a separate diagnostic. REVEAL's primitive status rests on the intransitive truth-revelation construction attested in all 16 languages [CLCA-BOTH]; its provisional annotation was discharged by the de-leaked two-family retest (2026-07).
 
 ### 1D. Levels (4)
 
-EMPIRICAL, CONVENTIONAL, FORMAL, ULTIMATE — govern permissible inference across strata. Level-crossing without justification = UFA Type 4.
+EMPIRICAL, CONVENTIONAL, FORMAL, ULTIMATE — govern permissible inference across strata. A level-crossing without license is a Type 2 root at a Type 4 locus; a Type 4 root (Stratification Failure) is a judgment form that no legal level assignment makes well-formed.
 
 ### 1E. The opposition FRAME — the precondition the matrix presupposes
 
@@ -76,7 +76,7 @@ Axis-internal lexical territories (e.g. AUTH: genuineness / forgery / provenance
 
 ### 3A. Validation habitats
 
-Each primary axis admits specific methods (VER: OBSERVATION/EXPERIMENT; SINC: TESTIMONY; ESS: LOGIC; …). Using an inadmissible method = **UFA Type 3**. Note the descriptive overlap with EVID: TESTIMONY ≈ EVID-REPORTED, OBSERVATION ≈ EVID-DIRECT (habitats are normative-admissibility; EVID is the speaker's source-marking).
+Each primary axis admits specific methods (VER: OBSERVATION/EXPERIMENT; SINC: TESTIMONY/INTROSPECTION; ESS: LOGIC; …). The inventory is nine methods plus NONE; INTROSPECTION (first-person access) is in habitat for SINC, admissible under burden for substantive-moral NORM through the SINC rider (§6.2), and out of habitat elsewhere. Using an inadmissible method = **UFA Type 3**. Note the descriptive overlap with EVID: TESTIMONY ≈ EVID-REPORTED, OBSERVATION ≈ EVID-DIRECT (habitats are normative-admissibility; EVID is the speaker's source-marking).
 
 ### 3B. Target-type ontology
 
@@ -91,7 +91,7 @@ FACTUAL (VER, AUTH), EPISTEMIC (VERIF, VER-as-belief), DISPOSITIONAL (SINC). Gov
 | **R3** | CAUSE(+) × AUTH blocked; CAUSE(−) × AUTH licensed | **confirmed [CLCA-BOTH]** — cannot manufacture authenticity; can forge |
 | **R4** | Positive emergence bias: BECOME(+) natural, BECOME(−) marked | **confirmed [CLCA-BOTH]** |
 | **R5** | DEG[A] ↛ A | confirmed; Appeal to Probability/Emotion/Populum |
-| **R6** | TEMP[A] ↛ A; internal level-crossing → Type 4 | [FALLACY]; Sunk Cost, Appeal to Novelty, Presentism |
+| **R6** | TEMP[A] ↛ A; unlicensed internal level-crossing → Type 2 root at a Type 4 locus | [FALLACY]; Sunk Cost, Appeal to Novelty, Presentism |
 | **R7** | **Agentive polarity asymmetry** — ABSTR(agentive)×positive-pole blocked, ×negative-pole licensed | **confirmed [CLCA-BOTH]** (liar lexicalizes, truth-teller doesn't). Mechanism open. *New in v2.2.* |
 | **R8** | **LIKE[A] ↛ A** | confirmed; unifies forgery (AUTH), sophistry (VERIF), hypocrisy (SINC), demagoguery (NORM), truthiness (VER), illusion (ESS). *New in v2.2.* |
 | **R9** | **EVID[A] ↛ A** | confirmed [CLCA-BOTH] dimension; Appeal to Authority/hearsay-as-proof, inference-as-proof. *New in v2.2.* |
