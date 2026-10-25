@@ -22,7 +22,7 @@ described in this work. They cover:
 
 | Application | Title | Filed |
 |---|---|---|
-| U.S. Provisional No. 63/927,430 | *Universal Semantic Constraint Enforcement for Artificial Intelligence Safety* | November 28, 2025 |
+| U.S. Provisional No. 63/927,430 | *Universal Semantic Constraint Enforcement for Artificial Intelligence Safety* | November 29, 2025 |
 | U.S. Provisional No. 63/928,583 | *Universal Semantic Constraint Enforcement for Artificial Intelligence Safety — Additional Inventions* | December 1, 2025 |
 | U.S. Provisional No. 64/169,772 | *Meta-Qualifier Marking, Licensed Discharge, and Qualifier-Gated Authorization for Measurement and Machine-Inference Systems* | October 5, 2026 |
 | U.S. Provisional No. 64/169,830 | *Adaptive Epistemic Inquiry, Repair, and Revalidation for Machine Reasoning Systems* | October 5, 2026 |
